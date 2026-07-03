@@ -268,25 +268,25 @@ image: /assets/images/Delaware_5861e4_dover_afb_military_c_229af0-overview-socia
 
 ## Introduction
 
-Dover Air Force Base (AFB) has a recurring place in Delaware’s UFO history chiefly because of a noteworthy **1951 military pilot sighting** linked to official Air Force UFO investigations and the still-debated **balloon explanation** that followed. This episode is one of the clearest intersections between trained observers (two Air Force officers in a T‑33 jet), national defence reporting procedures, early Cold War UFO investigation policy, and the limits of mundane explanations. Its record illuminates how sightings by experienced aviators were handled in the early USAF UFO framework and why Dover AFB features in Delaware’s aerial anomaly story even though there is **no conclusive evidence of anything extraordinary** beyond misidentification and interpretive uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
+Dover Air Force Base (AFB) has a recurring place in Delaware’s UFO history chiefly because of a noteworthy **1951 military pilot sighting** linked to official Air Force UFO investigations and the still-debated **balloon explanation** that followed. This episode is one of the clearest intersections between trained observers (two Air Force officers in a T‑33 jet), national defence reporting procedures, early Cold War UFO investigation policy, and the limits of mundane explanations. Its record illuminates how sightings by experienced aviators were handled in the early USAF UFO framework and why Dover AFB features in Delaware’s aerial anomaly story even though there is **no conclusive evidence of anything extraordinary** beyond misidentification and interpretive uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_dover_afb_military_c_229af0-overview.webp" | relative_url }}" alt="Overview image for Dover AFB" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1951 T‑33 Pilot Sighting
 
-On **10 September 1951**, a pair of United States Air Force officers flying a **Lockheed T‑33 jet** on a standard flight from Dover AFB reported seeing an **unidentified aerial object** over the region of Sandy Hook, New Jersey, as they were en route to Mitchell AFB, New York. The object was described as **round and silver-coloured, about 30–50 feet across**, and appeared at altitude in a position that prompted the pilot to attempt an intercept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
+On **10 September 1951**, a pair of United States Air Force officers flying a **Lockheed T‑33 jet** on a standard flight from Dover AFB reported seeing an **unidentified aerial object** over the region of Sandy Hook, New Jersey, as they were en route to Mitchell AFB, New York. The object was described as **round and silver-coloured, about 30–50 feet across**, and appeared at altitude in a position that prompted the pilot to attempt an intercept.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
 
-According to official transcripts of USAF Project Grudge files — part of the post‑war Air Force’s evolving UFO research programmes — the pilots observed the object visually after radar contacts were made in the area, and they undertook a descending turn to pursue it. The sighting persisted for roughly **45 seconds** before the object was lost from view as it crossed the New Jersey coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
+According to official transcripts of USAF Project Grudge files — part of the post‑war Air Force’s evolving UFO research programmes — the pilots observed the object visually after radar contacts were made in the area, and they undertook a descending turn to pursue it. The sighting persisted for roughly **45 seconds** before the object was lost from view as it crossed the New Jersey coast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
 
-This account is notable for a few reasons: **both observers were military aviators with training in aircraft recognition**, the observation was partially correlated with radar sightings, and the event was submitted through formal Air Force reporting channels at a time when official documentation on unidentified aerial phenomena was still being shaped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — On 10 and 11 September 1951, a series of incidents occurred in the area...</span><span class="citation-popover-meta">Published: September 9, 2005</span></span></span>
+This account is notable for a few reasons: **both observers were military aviators with training in aircraft recognition**, the observation was partially correlated with radar sightings, and the event was submitted through formal Air Force reporting channels at a time when official documentation on unidentified aerial phenomena was still being shaped.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — On 10 and 11 September 1951, a series of incidents occurred in the area...</span><span class="citation-popover-meta">Published: September 9, 2005</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_dover_afb_military_c_229af0-Illustration-1-dark.svg" | relative_url }}" alt="Dover AFB illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_dover_afb_military_c_229af0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_dover_afb_military_c_229af0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Balloon Explanation and Its Limits
 
-Following the incident, Air Force investigators — then operating under the early UFO study projects **Grudge** and soon after **Blue Book** — examined the sighting alongside other radar and visual reports around that date. Official analysis records indicate that **two balloons were released** from the Evans Signal Laboratory in New Jersey shortly before the sighting and would have been at roughly **18,000 feet** during the period in question. Because such balloons could appear **disc‑like under certain viewing angles** and would show up on radar, investigators proposed that what the T‑33 crew saw might have been one of these balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
+Following the incident, Air Force investigators — then operating under the early UFO study projects **Grudge** and soon after **Blue Book** — examined the sighting alongside other radar and visual reports around that date. Official analysis records indicate that **two balloons were released** from the Evans Signal Laboratory in New Jersey shortly before the sighting and would have been at roughly **18,000 feet** during the period in question. Because such balloons could appear **disc‑like under certain viewing angles** and would show up on radar, investigators proposed that what the T‑33 crew saw might have been one of these balloons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
 
-Not all evidence neatly supported this explanation. Some investigation notes suggest that **flight path reconstructions and observer estimates did not entirely align with the measured balloon tracks** and altitudes, leaving room for uncertainty. While the balloon hypothesis remained the Air Force’s primary working explanation, it was **classified as tentative** in some internal reports and acknowledged as imperfect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
+Not all evidence neatly supported this explanation. Some investigation notes suggest that **flight path reconstructions and observer estimates did not entirely align with the measured balloon tracks** and altitudes, leaving room for uncertainty. While the balloon hypothesis remained the Air Force’s primary working explanation, it was **classified as tentative** in some internal reports and acknowledged as imperfect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
 
-This case exemplifies an early Project Grudge / early Project Blue Book investigative pattern: where conventional phenomena such as balloons were suggested as causes, but **data gaps, relative motion, and observer perception limits** made firm identification difficult. In the broader UFO literature, analysts such as Henry Metscher — referenced in insider Air Force manuscripts — attempted to demonstrate how relative motion and lack of distance cues could make a simple balloon appear anomalous from a fast‑moving aircraft, but even this explanation could not be fully reconciled with all reported aspects of the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">May 28, 1956 — On October 27, 1951, the new Project Grudge was officially established. I&#x27;d written the necessary letters and had received...</span><span class="citation-popover-meta">Published: May 28, 1956</span></span></span>
+This case exemplifies an early Project Grudge / early Project Blue Book investigative pattern: where conventional phenomena such as balloons were suggested as causes, but **data gaps, relative motion, and observer perception limits** made firm identification difficult. In the broader UFO literature, analysts such as Henry Metscher — referenced in insider Air Force manuscripts — attempted to demonstrate how relative motion and lack of distance cues could make a simple balloon appear anomalous from a fast‑moving aircraft, but even this explanation could not be fully reconciled with all reported aspects of the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">May 28, 1956 — On October 27, 1951, the new Project Grudge was officially established. I&#x27;d written the necessary letters and had received...</span><span class="citation-popover-meta">Published: May 28, 1956</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xBytbIzJMiU" title="Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer">Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952</a></p><p class="youtube-embed-meta">Channel: UnresolvedSignals &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xBytbIzJMiU">Open on YouTube</a></p></div></div></div>
 
@@ -298,205 +298,205 @@ This case exemplifies an early Project Grudge / early Project Blue Book investig
 
 ## How the Airbase Context Shapes Later Reports
 
-Dover AFB’s presence in this 1951 case gives the installation an enduring footprint in Delaware’s UFO record. Military airfields were focal points for UFO reporting in the early Cold War because **air defence radar nets, interceptor aircraft and young pilots were uniquely positioned to detect and pursue unfamiliar aerial targets**, and because base personnel were more likely to report through formal channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
+Dover AFB’s presence in this 1951 case gives the installation an enduring footprint in Delaware’s UFO record. Military airfields were focal points for UFO reporting in the early Cold War because **air defence radar nets, interceptor aircraft and young pilots were uniquely positioned to detect and pursue unfamiliar aerial targets**, and because base personnel were more likely to report through formal channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
 
-The 1951 incident also illustrates how **official explanations often leaned toward atmospheric or man‑made objects**, especially balloons, when military pilots were unable to identify what they saw. Although the Dover AFB flight was not in Delaware airspace when the sighting occurred, the **report originated with personnel based at Dover**, which linked the state’s military infrastructure to the national UFO investigation apparatus at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/1951fortmonmouth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1951, The Fort Monmouth UFO CaseOn September 11, a brief summary of the T-33 sighting was sent to ATIC from the 148th interce...</span></span></span>
+The 1951 incident also illustrates how **official explanations often leaned toward atmospheric or man‑made objects**, especially balloons, when military pilots were unable to identify what they saw. Although the Dover AFB flight was not in Delaware airspace when the sighting occurred, the **report originated with personnel based at Dover**, which linked the state’s military infrastructure to the national UFO investigation apparatus at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/1951fortmonmouth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1951, The Fort Monmouth UFO CaseOn September 11, a brief summary of the T-33 sighting was sent to ATIC from the 148th interce...</span></span></span>
 
-In later decades, sightings near Dover have occasionally circulated in local anecdote or online forums, but they lack the documented pilot credentials and formal Air Force handling that characterise the 1951 case. Without official investigation records or independent corroboration, such modern sightings fall into the broader pattern of civilian unidentified observations in the region that remain ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/14yuds7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Dover, Delaware Air Force base sightings?</span><span class="citation-popover-snippet">Dover, Delaware Air Force base sightings?July 13, 2023...</span><span class="citation-popover-meta">Published: July 13, 2023</span></span></span>
+In later decades, sightings near Dover have occasionally circulated in local anecdote or online forums, but they lack the documented pilot credentials and formal Air Force handling that characterise the 1951 case. Without official investigation records or independent corroboration, such modern sightings fall into the broader pattern of civilian unidentified observations in the region that remain ambiguous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/14yuds7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Dover, Delaware Air Force base sightings?</span><span class="citation-popover-snippet">Dover, Delaware Air Force base sightings?July 13, 2023...</span><span class="citation-popover-meta">Published: July 13, 2023</span></span></span>
 
-In summary, the 1951 T‑33 case remains **Delaware’s most detailed early military pilot sighting**, but its **plausible balloon explanation and unresolved mismatches caution against treating it as evidence of extraordinary craft**. What gives the case lasting significance in the state’s UFO history is not proof of unexplained technology, but rather how it reflects the evolving intersection of **trained observers, early Air Force UFO inquiry, and the interpretive challenges posed by mundane aerial phenomena**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
+In summary, the 1951 T‑33 case remains **Delaware’s most detailed early military pilot sighting**, but its **plausible balloon explanation and unresolved mismatches caution against treating it as evidence of extraordinary craft**. What gives the case lasting significance in the state’s UFO history is not proof of unexplained technology, but rather how it reflects the evolving intersection of **trained observers, early Air Force UFO inquiry, and the interpretive challenges posed by mundane aerial phenomena**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_dover_afb_military_c_229af0-Illustration-2-dark.svg" | relative_url }}" alt="Dover AFB illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_dover_afb_military_c_229af0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_dover_afb_military_c_229af0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Dover AFB Shapes Delaware UFO Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Dover AFB Shapes Delaware UFO Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers Project Grudge and early military UFO case handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Project Grudge and early military UFO case handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Explores military UFO reports and official case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military UFO reports and official case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on pilot and military witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on pilot and military witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Offers comparison with another famous military installation case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers comparison with another famous military installation case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hot Wheels Gordon Murray T.33 Diecast Model Car 1/64 (93) Excellent Condition"><img src="https://i.ebayimg.com/images/g/q4cAAeSwWC5nq4Ej/s-l225.jpg" alt="Listing image for Hot Wheels Gordon Murray T.33 Diecast Model Car 1/64 (93) Excellent Condition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Hot Wheels Gordon Murray T.33 Diecast Model Car 1/64 (93) Excellent Condition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hot Wheels Gordon Murray T.33 Diecast Model Car 1/64 (93) Excellent Condition"><img src="https://i.ebayimg.com/images/g/q4cAAeSwWC5nq4Ej/s-l225.jpg" alt="Listing image for Hot Wheels Gordon Murray T.33 Diecast Model Car 1/64 (93) Excellent Condition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Hot Wheels Gordon Murray T.33 Diecast Model Car 1/64 (93) Excellent Condition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Decals Hawk Model Co 1:48 Air Training Command T-33 Jet Trainer #509-100 - decal"><img src="https://i.ebayimg.com/images/g/5cYAAeSwRaxpbXLk/s-l225.jpg" alt="Listing image for Decals Hawk Model Co 1:48 Air Training Command T-33 Jet Trainer #509-100 - decal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Decals Hawk Model Co 1:48 Air Training Command T-33 Jet Trainer #509-100 - decal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Decals Hawk Model Co 1:48 Air Training Command T-33 Jet Trainer #509-100 - decal"><img src="https://i.ebayimg.com/images/g/5cYAAeSwRaxpbXLk/s-l225.jpg" alt="Listing image for Decals Hawk Model Co 1:48 Air Training Command T-33 Jet Trainer #509-100 - decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Decals Hawk Model Co 1:48 Air Training Command T-33 Jet Trainer #509-100 - decal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage T-33A T-bird Shooting Star 1:48 Classic Jet Trainer HobbyCraft Model Kit"><img src="https://i.ebayimg.com/images/g/R0IAAOSwyqFlbI~V/s-l225.jpg" alt="Listing image for Vintage T-33A T-bird Shooting Star 1:48 Classic Jet Trainer HobbyCraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Vintage T-33A T-bird Shooting Star 1:48 Classic Jet Trainer HobbyCraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage T-33A T-bird Shooting Star 1:48 Classic Jet Trainer HobbyCraft Model Kit"><img src="https://i.ebayimg.com/images/g/R0IAAOSwyqFlbI~V/s-l225.jpg" alt="Listing image for Vintage T-33A T-bird Shooting Star 1:48 Classic Jet Trainer HobbyCraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Vintage T-33A T-bird Shooting Star 1:48 Classic Jet Trainer HobbyCraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Platz AC-8 T-33 Shooting Star USAF U.S. Bicentennial 1976 1/72 Model Kit Boxed."><img src="https://i.ebayimg.com/images/g/s8QAAeSw7txpWBu~/s-l225.jpg" alt="Listing image for Platz AC-8 T-33 Shooting Star USAF U.S. Bicentennial 1976 1/72 Model Kit Boxed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Platz AC-8 T-33 Shooting Star USAF U.S. Bicentennial 1976 1/72 Model Kit Boxed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Platz AC-8 T-33 Shooting Star USAF U.S. Bicentennial 1976 1/72 Model Kit Boxed."><img src="https://i.ebayimg.com/images/g/s8QAAeSw7txpWBu~/s-l225.jpg" alt="Listing image for Platz AC-8 T-33 Shooting Star USAF U.S. Bicentennial 1976 1/72 Model Kit Boxed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">Platz AC-8 T-33 Shooting Star USAF U.S. Bicentennial 1976 1/72 Model Kit Boxed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for t33 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: t33 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=t33+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dover-afb-shapes-delaware-ufo-claims-t33-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="t33 model" data-ebay-reference="why-dover-afb-shapes-delaware-ufo-claims-t33-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -512,7 +512,7 @@ In summary, the 1951 T‑33 case remains **Delaware’s most detailed early mili
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -532,7 +532,7 @@ In summary, the 1951 T‑33 case remains **Delaware’s most detailed early mili
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -564,7 +564,7 @@ In summary, the 1951 T‑33 case remains **Delaware’s most detailed early mili
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -616,7 +616,7 @@ In summary, the 1951 T‑33 case remains **Delaware’s most detailed early mili
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -661,7 +661,7 @@ In summary, the 1951 T‑33 case remains **Delaware’s most detailed early mili
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,158 +702,158 @@ In summary, the 1951 T‑33 case remains **Delaware’s most detailed early mili
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — On 10 and 11 September 1951, a series of incidents occurred in the area...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — On 10 and 11 September 1951, a series of incidents occurred in the area...</p></details>
    Published: September 9, 2005  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — The Air Force&#x27;s follow-o...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — The Air Force&#x27;s follow-o...</p></details>
    Published: December 4, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Dover, Delaware Air Force base sightings?  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14yuds7" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14yuds7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dover, Delaware Air Force base sightings?July 13, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14yuds7" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14yuds7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dover, Delaware Air Force base sightings?July 13, 2023...</p></details>
    Published: July 13, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: military.com  
    Title: (Simpson Cou  
-   Link: <a href="https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Air Force Pilot to Die Chasing a UFO Was Actually Chasing a Secret Balloon | Military.comOctober 31, 2022 — THE FIRST AIR FORCE...</p></details>
+   Link:<a href="https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First Air Force Pilot to Die Chasing a UFO Was Actually Chasing a Secret Balloon | Military.comOctober 31, 2022 — THE FIRST AIR FORCE...</p></details>
    Published: October 31, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: uss nimitz 2004 tic tac ufo encounter  
-   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Top Gun Pilots Tangled with a Baffling Tic-Tac-Shaped UFO | HISTORYMay 16, 2019 — By: Greg Daugherty Mysteries &amp; Folklore WHEN TOP G...</p></details>
+   Link:<a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Top Gun Pilots Tangled with a Baffling Tic-Tac-Shaped UFO | HISTORYMay 16, 2019 — By: Greg Daugherty Mysteries &amp; Folklore WHEN TOP G...</p></details>
    Published: May 16, 2019  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: Two Pilots Saw a UFO  
-   Link: <a href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did the Air Force Destroy the Report? | HISTORYAugust 16, 2018 — PROJECT BLUE BOOK: DECLASSIFIED – THE TRUE STORY OF THE CHILES-WHITT...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did the Air Force Destroy the Report? | HISTORYAugust 16, 2018 — PROJECT BLUE BOOK: DECLASSIFIED – THE TRUE STORY OF THE CHILES-WHITT...</p></details>
    Published: August 16, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: Experts say there are ho  
-   Link: <a href="https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo</a>  
+   Link:<a href="https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Air Force Investigated UFOs During the Cold War | HISTORYDecember 17, 2014 — By: Evan Andrews Mysteries &amp; Folklore HOW THE US...</p></details>
+   Link:<a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Air Force Investigated UFOs During the Cold War | HISTORYDecember 17, 2014 — By: Evan Andrews Mysteries &amp; Folklore HOW THE US...</p></details>
    Published: December 17, 2014  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“The effect of this secrecy has been to leave the average American to face our visitors alone and in total...Read more...</p></details>
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The effect of this secrecy has been to leave the average American to face our visitors alone and in total...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</p></details>
+   Link:<a href="https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/bb/grudgesr01-25.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Official - US Air Force Project Grudge Special Report #1...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo11.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 28, 1956 — On October 27, 1951, the new Project Grudge was officially established. I&#x27;d written the necessary letters and had received...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo11.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 28, 1956 — On October 27, 1951, the new Project Grudge was officially established. I&#x27;d written the necessary letters and had received...</p></details>
    Published: May 28, 1956  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/1951fortmonmouth.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/1951fortmonmouth.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1951, The Fort Monmouth UFO CaseOn September 11, a brief summary of the T-33 sighting was sent to ATIC from the 148th interce...</p></details>
+   Link:<a href="https://www.ufocasebook.com/1951fortmonmouth.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/1951fortmonmouth.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1951, The Fort Monmouth UFO CaseOn September 11, a brief summary of the T-33 sighting was sent to ATIC from the 148th interce...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufologie.patrickgross.org  
    Title: grudgesr01 17  
-   Link: <a href="https://www.ufologie.patrickgross.org/bb/grudgesr01-17.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/bb/grudgesr01-17.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Grudge Special Report No.1. It has been tentatively determined that the T-33 pilots probably observed a balloon that had been lau...</p></details>
+   Link:<a href="https://www.ufologie.patrickgross.org/bb/grudgesr01-17.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/bb/grudgesr01-17.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Grudge Special Report No.1. It has been tentatively determined that the T-33 pilots probably observed a balloon that had been lau...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1951a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1951a.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Williams says the sighting occurred at approximately Latitude 60° N, Longitude 33° W. The object was in sight for about five minutes. * *...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1951a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1951a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Williams says the sighting occurred at approximately Latitude 60° N, Longitude 33° W. The object was in sight for about five minutes. * *...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: secretsdeclassified.af.mil  
-   Link: <a href="https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Declassification Office &gt; Historical Documents &gt; Unidentified Flying ObjectsUFOS ImageUnidentified flying object (commonly abbrevia...</p></details>
+   Link:<a href="https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Declassification Office &gt; Historical Documents &gt; Unidentified Flying ObjectsUFOS ImageUnidentified flying object (commonly abbrevia...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1068121332030280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1068121332030280/</a>  
+   Link:<a href="https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1068121332030280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1068121332030280/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: inverse.com  
    Title: 6817 what the ufo sightings at edwards air force base mean 50 years later  
-   Link: <a href="https://www.inverse.com/article/6817-what-the-ufo-sightings-at-edwards-air-force-base-mean-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/article/6817-what-the-ufo-sightings-at-edwards-air-force-base-mean-50-years-later</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the 1965 UFO Sighting at Edwards Air Force Base Means 50 Years LaterOctober 7, 2015 — WHAT THE 1965 UFO SIGHTING AT EDWARDS AIR FORC...</p></details>
+   Link:<a href="https://www.inverse.com/article/6817-what-the-ufo-sightings-at-edwards-air-force-base-mean-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/article/6817-what-the-ufo-sightings-at-edwards-air-force-base-mean-50-years-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the 1965 UFO Sighting at Edwards Air Force Base Means 50 Years LaterOctober 7, 2015 — WHAT THE 1965 UFO SIGHTING AT EDWARDS AIR FORC...</p></details>
    Published: October 7, 2015  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: stripes.com  
    Title: Air Force officials said last week that the reported UFO encountered  
-   Link: <a href="https://www.stripes.com/news/2007-04-04/base-refutes-ufo-interception-theory-1931254.html1" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/news/2007-04-04/base-refutes-ufo-interception-theory-1931254.html1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Base refutes UFO interception theory | Stars and StripesApril 4, 2007 — BASE REFUTES UFO INTERCEPTION THEORY By Ben Murray Ben Murray Sta...</p></details>
+   Link:<a href="https://www.stripes.com/news/2007-04-04/base-refutes-ufo-interception-theory-1931254.html1" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/news/2007-04-04/base-refutes-ufo-interception-theory-1931254.html1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Base refutes UFO interception theory | Stars and StripesApril 4, 2007 — BASE REFUTES UFO INTERCEPTION THEORY By Ben Murray Ben Murray Sta...</p></details>
    Published: April 4, 2007  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 1951 UFO pilot Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 1951 UFO pilot Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History HISTORY...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thinkaboutitdocs.com  
    Title: and would have moved into a position nearly in line with Point  
-   Link: <a href="https://www.thinkaboutitdocs.com/the-fort-monmouth-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/the-fort-monmouth-ufo-case/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1951: The Fort Monmouth UFO CaseApril 8, 2013 — It stated: “At approximately 11:12 EDST, 10 September 1951 two balloons were released fro...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/the-fort-monmouth-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/the-fort-monmouth-ufo-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1951: The Fort Monmouth UFO CaseApril 8, 2013 — It stated: “At approximately 11:12 EDST, 10 September 1951 two balloons were released fro...</p></details>
    Published: April 8, 2013  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=418NWvdh-C4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO Investigation. HISTORY•1M views &amp;middot; 24:33. Go to channel Pilot Debrief...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=418NWvdh-C4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO Investigation. HISTORY•1M views &amp;middot; 24:33. Go to channel Pilot Debrief...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY &amp;middot; 67K views; Pilots Speak Out (Full Episode) | UFOs: Investigating the Unknown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY &amp;middot; 67K views; Pilots Speak Out (Full Episode) | UFOs: Investigating the Unknown...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: strangestrangestrange.com  
    Title: the 1951 fort monmouth radar ufo incident  
-   Link: <a href="https://strangestrangestrange.com/paranormal/ufo/the-1951-fort-monmouth-radar-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://strangestrangestrange.com/paranormal/ufo/the-1951-fort-monmouth-radar-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2023 — In September 1951, there were several cases of UFO sightings, radar detection, and pursuit by American Air Force fighters (U...</p></details>
+   Link:<a href="https://strangestrangestrange.com/paranormal/ufo/the-1951-fort-monmouth-radar-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://strangestrangestrange.com/paranormal/ufo/the-1951-fort-monmouth-radar-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2023 — In September 1951, there were several cases of UFO sightings, radar detection, and pursuit by American Air Force fighters (U...</p></details>
    Published: September 1951  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: studylib.net  
    Title: Project Blue Book UFO Unknowns Catalog  
-   Link: <a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rogers and Major Ezra S. Ballard flying in a T-33 at 20,000 ft from Dover AFB, Delaware, to Mitchel AFB, New York, on a NNE course at 450...</p></details>
+   Link:<a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rogers and Major Ezra S. Ballard flying in a T-33 at 20,000 ft from Dover AFB, Delaware, to Mitchel AFB, New York, on a NNE course at 450...</p></details>

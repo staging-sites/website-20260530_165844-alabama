@@ -262,31 +262,31 @@ image: /assets/images/Iowa_08a48b_blue_book_iowa_a16367-overview-social.jpg
 
 ## Introduction
 
-Project Blue Book made Iowa part of the federal UFO record, but it did not turn Iowa sightings into confirmed evidence of extraordinary craft. The useful lesson is almost the opposite: an official case file shows that a report entered a government process, not that the report was strong, complete, or inexplicable. Iowa cases in and around the Blue Book record range from early “flying saucer” reports and [pilot encounters]({{ 'pilot-encounters/' | relative_url }}) to radar entries and late, weak witness accounts. Some were classified as unidentified by later catalogues of Blue Book “unknowns”; others were logged but marked unreliable or thin. The value of the Iowa material is therefore historical and evidential: it shows how sightings from ordinary Midwestern places became federal paperwork, and why paperwork still needs careful reading. Project Blue Book as a whole recorded 12,618 sightings, of which 701 remained “unidentified”, while the Air Force concluded that none proved a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+Project Blue Book made Iowa part of the federal UFO record, but it did not turn Iowa sightings into confirmed evidence of extraordinary craft. The useful lesson is almost the opposite: an official case file shows that a report entered a government process, not that the report was strong, complete, or inexplicable. Iowa cases in and around the Blue Book record range from early “flying saucer” reports and [pilot encounters]({{ 'pilot-encounters/' | relative_url }}) to radar entries and late, weak witness accounts. Some were classified as unidentified by later catalogues of Blue Book “unknowns”; others were logged but marked unreliable or thin. The value of the Iowa material is therefore historical and evidential: it shows how sightings from ordinary Midwestern places became federal paperwork, and why paperwork still needs careful reading. Project Blue Book as a whole recorded 12,618 sightings, of which 701 remained “unidentified”, while the Air Force concluded that none proved a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 <img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## How Iowa Reports Entered Official Channels
 
-Blue Book was not a single Iowa investigation, nor a local UFO office. It was a United States Air Force programme based at Wright-Patterson Air Force Base in Ohio, operating after earlier Air Force efforts such as Project Sign and Project Grudge. The National Archives describes the surviving Blue Book record as a declassified body of case files, project files and Office of Special Investigations material, with individual sightings arranged chronologically and searchable by date and location through finding aids and microfilm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Blue Book was not a single Iowa investigation, nor a local UFO office. It was a United States Air Force programme based at Wright-Patterson Air Force Base in Ohio, operating after earlier Air Force efforts such as Project Sign and Project Grudge. The National Archives describes the surviving Blue Book record as a declassified body of case files, project files and Office of Special Investigations material, with individual sightings arranged chronologically and searchable by date and location through finding aids and microfilm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters for Iowa because the route into the record was often indirect. A witness might report a sighting to local police, a newspaper, a military base, an Air National Guard unit, a radar station or another official contact. The report could then become a short card, a memo, a teletype, an investigator’s note or a small bundle of supporting material. Some entries contain useful detail: time, direction, duration, witness role, weather, aircraft checks and possible [explanations]({{ 'explanations/' | relative_url }}). Others are little more than a brief description and a classification.
 
-Digitisation has made the record easier to browse, but it has not made every case equally robust. Fold3’s Blue Book collection identifies the source as National Archives microfilm publication T1206 and describes it as records and case files relating to UFO investigations, with 129,658 records in the online publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span> The National Archives, however, is clear that the original textual Blue Book holdings included administrative files, chronological case files and OSI-related material, and that photographs were scattered and separately filmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A reader looking at an Iowa case should therefore ask not simply “Was this in Blue Book?” but “What exactly survived, who reported it, and what did investigators actually do with it?”
+Digitisation has made the record easier to browse, but it has not made every case equally robust. Fold3’s Blue Book collection identifies the source as National Archives microfilm publication T1206 and describes it as records and case files relating to UFO investigations, with 129,658 records in the online publication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span> The National Archives, however, is clear that the original textual Blue Book holdings included administrative files, chronological case files and OSI-related material, and that photographs were scattered and separately filmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A reader looking at an Iowa case should therefore ask not simply “Was this in Blue Book?” but “What exactly survived, who reported it, and what did investigators actually do with it?”
 
-Iowa also has a small biographical connection to the Blue Book story. Edward J. Ruppelt, the early Blue Book director whose name is closely associated with the term “unidentified flying object”, was born in Iowa and later wrote an insider account of the early Air Force UFO programme. Project Gutenberg’s public-domain text identifies him as the former head of Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That connection is interesting, but it should not be overstated: Iowa’s importance in the files comes from the cases themselves, not from claiming that the state shaped the whole programme.
+Iowa also has a small biographical connection to the Blue Book story. Edward J. Ruppelt, the early Blue Book director whose name is closely associated with the term “unidentified flying object”, was born in Iowa and later wrote an insider account of the early Air Force UFO programme. Project Gutenberg’s public-domain text identifies him as the former head of Project Blue Book.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That connection is interesting, but it should not be overstated: Iowa’s importance in the files comes from the cases themselves, not from claiming that the state shaped the whole programme.
 
 <img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Iowa Cases Show the Range of Blue Book Evidence
 
 The Iowa-linked material is not one uniform category. It includes early post-war saucer reports, military-pilot reports, radar reports and late civilian accounts. That variety is why Iowa is a useful state-level example of how Blue Book functioned: the same federal system could hold a case with trained aviators and a case with little more than a witness narrative.
 
-One early Iowa entry appears in Brad Sparks’s catalogue of Project Blue Book unknowns, which lists a 29 June 1947 report from Des Moines, with Clarion noted as a possible location. The witness, bus driver Dale Bays, reportedly saw a single-file line of “dirty white” round or oval objects, with later objects also reported; the catalogue notes uncertainty about details such as the number of objects and location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span> This is a classic early saucer-era problem: the report is historically valuable because it falls within the first national wave of 1947, but the surviving description contains ambiguities that limit what can safely be concluded.
+One early Iowa entry appears in Brad Sparks’s catalogue of Project Blue Book unknowns, which lists a 29 June 1947 report from Des Moines, with Clarion noted as a possible location. The witness, bus driver Dale Bays, reportedly saw a single-file line of “dirty white” round or oval objects, with later objects also reported; the catalogue notes uncertainty about details such as the number of objects and location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span> This is a classic early saucer-era problem: the report is historically valuable because it falls within the first national wave of 1947, but the surviving description contains ambiguities that limit what can safely be concluded.
 
-A stronger-looking Iowa case, at least on witness qualifications, is the 29 January 1955 Winterset-area report near Des Moines. Sparks’s catalogue describes Iowa Air National Guard pilots Major A. Packer and Lieutenant D. Myers flying a T-33A jet when they saw a flashing white light on what appeared to be a head-on course at about 20,000 feet; according to the summary, it rose over the jet and then outclimbed and out-turned the aircraft when pursued. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610228waverlyafb_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span> A separate Project Blue Book Archive PDF surfaced in search results for the same case, with the Blue Book record card describing a Winterset, Iowa observation and a head-on pass with the observer’s T-33 aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">The Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">The Project Blue Book Archive Untitled</span></span></span> The case is notable because it involves military pilots and an aircraft encounter, but it is still a short-duration sighting rather than a physical recovery or instrument-rich event.
+A stronger-looking Iowa case, at least on witness qualifications, is the 29 January 1955 Winterset-area report near Des Moines. Sparks’s catalogue describes Iowa Air National Guard pilots Major A. Packer and Lieutenant D. Myers flying a T-33A jet when they saw a flashing white light on what appeared to be a head-on course at about 20,000 feet; according to the summary, it rose over the jet and then outclimbed and out-turned the aircraft when pursued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610228waverlyafb_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span> A separate Project Blue Book Archive PDF surfaced in search results for the same case, with the Blue Book record card describing a Winterset, Iowa observation and a head-on pass with the observer’s T-33 aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">The Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">The Project Blue Book Archive Untitled</span></span></span> The case is notable because it involves military pilots and an aircraft encounter, but it is still a short-duration sighting rather than a physical recovery or instrument-rich event.
 
-The 28 February 1961 Waverly Air Force Base case shows another kind of record: a radar-centred report. NICAP’s case page says the surviving material includes the Project 10073 record card, Air Force communications, a request for analysis, a track made by the UFO, radar flight-following material and a note suggesting a possible supersonic aircraft, though “no evidence” was apparent in the listed note. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Sparks catalogue lists “Waverly AFB, Iowa” among Blue Book unknown entries but gives only a bare summary in the visible table. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> For readers, the important point is that radar cases can look more technical, but they still depend on calibration, tracking context, operator interpretation, possible aircraft activity and what supporting documents survived.
+The 28 February 1961 Waverly Air Force Base case shows another kind of record: a radar-centred report. NICAP’s case page says the surviving material includes the Project 10073 record card, Air Force communications, a request for analysis, a track made by the UFO, radar flight-following material and a note suggesting a possible supersonic aircraft, though “no evidence” was apparent in the listed note.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Sparks catalogue lists “Waverly AFB, Iowa” among Blue Book unknown entries but gives only a bare summary in the visible table.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> For readers, the important point is that radar cases can look more technical, but they still depend on calibration, tracking context, operator interpretation, possible aircraft activity and what supporting documents survived.
 
-Late Blue Book-era Iowa material could be much weaker. Military Times, using Project Blue Book file images, highlighted a 1969 Davenport, Iowa report described as “unreliable reports, ground visual sighting”, with the observer also having earlier reports from 1967 and 1968. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">Military Times UFOs from the files of Project Blue Book</span><span class="citation-popover-snippet">Military Times UFOs from the files of Project Blue Book</span></span></span> That is precisely the kind of entry that cautions against treating a federal file as an endorsement. Blue Book collected reports; it did not make every collected report a strong case.
+Late Blue Book-era Iowa material could be much weaker. Military Times, using Project Blue Book file images, highlighted a 1969 Davenport, Iowa report described as “unreliable reports, ground visual sighting”, with the observer also having earlier reports from 1967 and 1968.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">Military Times UFOs from the files of Project Blue Book</span><span class="citation-popover-snippet">Military Times UFOs from the files of Project Blue Book</span></span></span> That is precisely the kind of entry that cautions against treating a federal file as an endorsement. Blue Book collected reports; it did not make every collected report a strong case.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Eb54ZwPYKFQ" title="Iowa Files: UFOs in Iowa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer">Iowa Files: UFOs in Iowa</a></p><p class="youtube-embed-meta">Channel: West Des Moines Historical Society &middot; Views: 2.9K &middot; Uploaded: June 2023 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Eb54ZwPYKFQ">Open on YouTube</a></p></div></div></div>
 
@@ -294,24 +294,24 @@ Late Blue Book-era Iowa material could be much weaker. Military Times, using Pro
 
 The most common misunderstanding about Blue Book is to treat “official” as meaning “validated”. In practice, the official system often preserved weak material because that was part of the administrative job. A report could be logged because someone made it, not because investigators found it convincing.
 
-AARO’s 2024 historical review summarises Blue Book’s own categories as “identified”, “insufficient data” and “unidentified”. It also notes the kinds of explanations Blue Book used for identified cases: astronomical objects, balloons, aircraft, afterburners, satellites, missiles, reflections, searchlights, birds, kites, false radar indications, fireworks, flares and hoaxes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span> This is directly relevant to Iowa. A light over a farm road, a bright object near an air route, a radar return near a military installation, or a report during a wider national flap all had to be tested against ordinary possibilities before “unknown” meant anything.
+AARO’s 2024 historical review summarises Blue Book’s own categories as “identified”, “insufficient data” and “unidentified”. It also notes the kinds of explanations Blue Book used for identified cases: astronomical objects, balloons, aircraft, afterburners, satellites, missiles, reflections, searchlights, birds, kites, false radar indications, fireworks, flares and hoaxes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span> This is directly relevant to Iowa. A light over a farm road, a bright object near an air route, a radar return near a military installation, or a report during a wider national flap all had to be tested against ordinary possibilities before “unknown” meant anything.
 
 Blue Book’s categories also had different evidential weight. “Insufficient data” is not the same as “unidentified after strong investigation”. A case may be impossible to solve because it lacks time, direction, weather, witness distance, angular size, corroboration or records of aircraft and balloon activity. That kind of uncertainty is real, but it is not strong evidence for an extraordinary object.
 
-The 1947 Des Moines/Clarion entry illustrates this problem well. It is intriguing because it sits near the beginning of the modern flying-saucer era and reports multiple objects, yet the catalogue itself shows uncertainty over location, time and object count. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Winterset T-33 case appears stronger because the witnesses were military pilots and the report involved an aircraft encounter, but it lasted only about 25 seconds in the Sparks summary, leaving little room for independent measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionI</span><span class="citation-popover-snippet">ReportUFOWave1947 SectionI</span></span></span> The Waverly radar case looks more technical, but the surviving public-facing index still points readers back to the original documents rather than offering a neat solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/papers/jse_08_1_sturrock.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">jse 08 1 sturrock</span><span class="citation-popover-snippet">jse 08 1 sturrock</span></span></span>
+The 1947 Des Moines/Clarion entry illustrates this problem well. It is intriguing because it sits near the beginning of the modern flying-saucer era and reports multiple objects, yet the catalogue itself shows uncertainty over location, time and object count.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Winterset T-33 case appears stronger because the witnesses were military pilots and the report involved an aircraft encounter, but it lasted only about 25 seconds in the Sparks summary, leaving little room for independent measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionI</span><span class="citation-popover-snippet">ReportUFOWave1947 SectionI</span></span></span> The Waverly radar case looks more technical, but the surviving public-facing index still points readers back to the original documents rather than offering a neat solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/papers/jse_08_1_sturrock.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">jse 08 1 sturrock</span><span class="citation-popover-snippet">jse 08 1 sturrock</span></span></span>
 
 That unevenness is not a reason to dismiss the Iowa files. It is a reason to read them case by case. The best Iowa Blue Book material is useful because it preserves how witnesses, military units and investigators described events at the time. The weakest material is useful because it shows how easily an unusual sky report could become part of a federal archive without becoming a persuasive mystery.
 
 <img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Blue Book’s National Conclusions Mean for Iowa
 
-Blue Book’s national conclusions set a cautious frame for Iowa. The Air Force’s public fact sheet says that no investigated and evaluated UFO report showed a threat to national security, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated that unidentified sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> Those conclusions do not solve each Iowa case individually, but they do warn against reading the Iowa entries as hidden proof of alien visitation.
+Blue Book’s national conclusions set a cautious frame for Iowa. The Air Force’s public fact sheet says that no investigated and evaluated UFO report showed a threat to national security, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated that unidentified sightings were extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> Those conclusions do not solve each Iowa case individually, but they do warn against reading the Iowa entries as hidden proof of alien visitation.
 
-The National Archives gives the same broad numbers and notes that Project Blue Book closed in 1969, with no information on sightings after that date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That boundary is important for Iowa’s wider UFO history. A famous later Iowa incident such as [Council Bluffs]({{ 'council-bluffs/' | relative_url }}) in 1977 belongs to a different evidential and institutional setting. It cannot be treated as a Blue Book case because Blue Book had already ended.
+The National Archives gives the same broad numbers and notes that Project Blue Book closed in 1969, with no information on sightings after that date.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That boundary is important for Iowa’s wider UFO history. A famous later Iowa incident such as [Council Bluffs]({{ 'council-bluffs/' | relative_url }}) in 1977 belongs to a different evidential and institutional setting. It cannot be treated as a Blue Book case because Blue Book had already ended.
 
-AARO’s historical review adds a modern official reading of the same record. It states that Blue Book organised reports into identified, insufficient-data and unidentified categories, and that AARO’s review of the Blue Book holdings involved thousands of files and tens of thousands of digital records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span> For Iowa readers, that reinforces a practical point: the old files are large and historically serious, but their existence does not remove the need for sceptical evaluation.
+AARO’s historical review adds a modern official reading of the same record. It states that Blue Book organised reports into identified, insufficient-data and unidentified categories, and that AARO’s review of the Blue Book holdings involved thousands of files and tens of thousands of digital records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span> For Iowa readers, that reinforces a practical point: the old files are large and historically serious, but their existence does not remove the need for sceptical evaluation.
 
-The Condon Report and the National Academy of Sciences review were central to Blue Book’s closure. The Air Force fact sheet says the decision to discontinue UFO investigations was based on the University of Colorado study, the National Academy review, earlier UFO studies and Air Force experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> AARO’s summary quotes the Condon panel’s broad conclusion that UFO study had not added to scientific knowledge and that further extensive study probably could not be justified on that basis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span> Locally, that means Iowa’s unresolved or thinly explained Blue Book entries should be understood as unresolved reports within a programme that ultimately judged the overall body of evidence insufficient for continued Air Force investigation.
+The Condon Report and the National Academy of Sciences review were central to Blue Book’s closure. The Air Force fact sheet says the decision to discontinue UFO investigations was based on the University of Colorado study, the National Academy review, earlier UFO studies and Air Force experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> AARO’s summary quotes the Condon panel’s broad conclusion that UFO study had not added to scientific knowledge and that further extensive study probably could not be justified on that basis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span> Locally, that means Iowa’s unresolved or thinly explained Blue Book entries should be understood as unresolved reports within a programme that ultimately judged the overall body of evidence insufficient for continued Air Force investigation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PEB-Y9iDrDA" title="Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 51.6K &middot; Uploaded: October 2025 &middot; Length: 3 hours 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PEB-Y9iDrDA">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +330,7 @@ A useful reader’s test is to separate four issues:
 
 </div>
 
-Using that test, the Winterset T-33 case deserves more attention than a vague late civilian report because it involved trained military pilots and an aircraft encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Waverly case deserves attention because radar documentation may exist beyond a simple witness statement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Davenport 1969 example deserves caution because it was explicitly described in later presentation of the file as unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">Military Times UFOs from the files of Project Blue Book</span><span class="citation-popover-snippet">Military Times UFOs from the files of Project Blue Book</span></span></span> The 1947 Des Moines/Clarion report deserves historical interest, but its uncertainties over location and details weaken any strong claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Using that test, the Winterset T-33 case deserves more attention than a vague late civilian report because it involved trained military pilots and an aircraft encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Waverly case deserves attention because radar documentation may exist beyond a simple witness statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Davenport 1969 example deserves caution because it was explicitly described in later presentation of the file as unreliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">Military Times UFOs from the files of Project Blue Book</span><span class="citation-popover-snippet">Military Times UFOs from the files of Project Blue Book</span></span></span> The 1947 Des Moines/Clarion report deserves historical interest, but its uncertainties over location and details weaken any strong claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 This approach also helps connect Blue Book to the broader Iowa UFO record without blurring boundaries. Blue Book-era Iowa cases show how federal investigators received and classified reports before 1970. Later Iowa cases, modern NUFORC entries and local physical-trace stories belong to different archives and standards of evidence. The continuity is not that they all prove the same thing; it is that each record has to be read for what it can and cannot support.
 
@@ -346,269 +346,269 @@ Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iow
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spztEKRJvEE" title="MUFON Midwest: UFOs in Iowa Towns: David Kreiter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spztEKRJvEE" target="_blank" rel="noopener noreferrer">MUFON Midwest: UFOs in Iowa Towns: David Kreiter</a></p><p class="youtube-embed-meta">Channel: MUFON Central Region &middot; Views: 163 &middot; Uploaded: September 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spztEKRJvEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spztEKRJvEE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Blue Book Make of Iowa?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Blue Book Make of Iowa?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong match for a page focused on Blue Book investigations and conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for a page focused on Blue Book investigations and conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains the investigative framework behind many Blue Book cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the investigative framework behind many Blue Book cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines government handling of UFO reports across decades.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government handling of UFO reports across decades.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Focuses on the programme and notable cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the programme and notable cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-4c1811-what-did-blue-book-make-of-iowa-iowa-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -624,7 +624,7 @@ Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iow
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -644,7 +644,7 @@ Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iow
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -676,7 +676,7 @@ Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iow
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iow
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -764,246 +764,246 @@ Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iow
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fold3.com  
    Title: US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
+   Link:<a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: Microsoft Word  
-   Link: <a href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bb/BB_Unknowns.pdf</a>  
+   Link:<a href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bb/BB_Unknowns.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/reports/610228waverlyafb_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610228waverlyafb_rep.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/610228waverlyafb_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610228waverlyafb_rep.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/citizen-archivist/missions" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/citizen-archivist/missions</a>  
+   Link:<a href="https://www.archives.gov/citizen-archivist/missions" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/citizen-archivist/missions</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
+   Link:<a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
 
-10. <a id="endnote-10"></a>
-   Source: archives.gov  
-   Title: Federal Records Guide: Alphabetical Index  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/p.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/p.html</a>  
-
-11. <a id="endnote-11"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/index-alpha/p.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/p.html</a>  
 
-12. <a id="endnote-12"></a>
+11.<a id="endnote-11"></a>
+   Source: archives.gov  
+   Title: Federal Records Guide: Alphabetical Index  
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
+
+12.<a id="endnote-12"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
+   Link:<a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/b.html</a>  
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/index-alpha/b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/b.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
    Title: 1977 annual report  
-   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/220.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/220.html</a>  
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/groups/220.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/220.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fold3.com  
    Title: cedar rapids iowa blank page 7 us project blue book ufo investigations 1947 1969  
-   Link: <a href="https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969</a>  
+   Link:<a href="https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
+   Link:<a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
    Title: Blue Book Artifacts  
-   Link: <a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
+   Link:<a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm</a>  
+   Link:<a href="https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nicap.org  
    Title: ReportUFOWave1947 SectionI  
-   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm</a>  
+   Link:<a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nicap.org  
    Title: jse 08 1 sturrock  
-   Link: <a href="https://www.nicap.org/papers/jse_08_1_sturrock.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/papers/jse_08_1_sturrock.pdf</a>  
+   Link:<a href="https://www.nicap.org/papers/jse_08_1_sturrock.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/papers/jse_08_1_sturrock.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nicap.org  
-   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf</a>  
+   Link:<a href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1961fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1961fullrep.htm</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nicap.org  
    Title: What Our Air Force Found Out About UFOs  
-   Link: <a href="https://www.nicap.org/true-rup1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/true-rup1.htm</a>  
+   Link:<a href="https://www.nicap.org/true-rup1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/true-rup1.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1955fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1955fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1955fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1955fullrep.htm</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nicap.org  
    Title: NSID DBListingby Date  
-   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf</a>  
+   Link:<a href="https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nicap.org  
    Title: NSID DBListingby State Country  
-   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
+   Link:<a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: history.com  
    Title: ufos washington dc news reports  
-   Link: <a href="https://www.history.com/articles/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-washington-dc-news-reports</a>  
+   Link:<a href="https://www.history.com/articles/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-washington-dc-news-reports</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theprojectbluebookarchive.org  
    Title: The Project Blue Book Archive Untitled  
-   Link: <a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf</a>  
+   Link:<a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: militarytimes.com  
    Title: Military Times UFOs from the files of Project Blue Book  
-   Link: <a href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/</a>  
+   Link:<a href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: imdb.com  
    Title: Edward J. Ruppelt  
-   Link: <a href="https://www.imdb.com/name/nm7067432/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm7067432/bio/</a>  
+   Link:<a href="https://www.imdb.com/name/nm7067432/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm7067432/bio/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PEB-Y9iDrDA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PEB-Y9iDrDA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUEBOOK Classic UFO Documentary 1970&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUEBOOK Classic UFO Documentary 1970&#x27;s...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: MUFON Midwest: UFOs in Iowa Towns: David Kreiter  
-   Link: <a href="https://www.youtube.com/watch?v=spztEKRJvEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=spztEKRJvEE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO investigations documentary PROJECT BLUEBOOK Classic UFO Documentary 1970&#x27;s MiuwKee...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=spztEKRJvEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=spztEKRJvEE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO investigations documentary PROJECT BLUEBOOK Classic UFO Documentary 1970&#x27;s MiuwKee...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Iowa Files: UFOs in Iowa  
-   Link: <a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/stores/author/B002JTQ71Q" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/author/B002JTQ71Q</a>  
+   Link:<a href="https://www.amazon.com/stores/author/B002JTQ71Q" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/author/B002JTQ71Q</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: txarchives.org  
-   Link: <a href="https://txarchives.org/tamucush/finding_aids/00151.xml" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/tamucush/finding_aids/00151.xml</a>  
+   Link:<a href="https://txarchives.org/tamucush/finding_aids/00151.xml" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/tamucush/finding_aids/00151.xml</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: astronomyufo.com  
-   Link: <a href="https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf</a>
+   Link:<a href="https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf</a>

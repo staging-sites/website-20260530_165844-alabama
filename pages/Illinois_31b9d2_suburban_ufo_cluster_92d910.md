@@ -262,25 +262,25 @@ image: /assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-overview-socia
 
 ## Introduction
 
-The main suburban [Illinois]({{ 'illinois/' | relative_url }}) UFO cluster of the 2000s was not a single dramatic encounter but a repeated pattern: groups of red or red-orange lights, often described as forming a triangle, seen over [Tinley Park]({{ 'tinley-park/' | relative_url }}) and nearby south-west Chicago suburbs on several nights between 2004 and 2006. What makes the Tinley Park Lights important in Illinois UFO history is the combination of repetition, multiple witnesses, suburban visibility, and local video evidence. The strongest evidence is not a recovered object or official confirmation, but a set of broadly similar public reports: slow-moving lights, little or no sound, formation changes, and sightings by residents who were already outdoors at parties, concerts, or Halloween trick-or-treating. The main doubts are equally important: lights in formation can be produced by balloons, lanterns, flares, aircraft, or perspective effects, and the videos do not prove that a single solid triangular craft was present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> [3NUFORC 3NUFORC]
+The main suburban [Illinois]({{ 'illinois/' | relative_url }}) UFO cluster of the 2000s was not a single dramatic encounter but a repeated pattern: groups of red or red-orange lights, often described as forming a triangle, seen over [Tinley Park]({{ 'tinley-park/' | relative_url }}) and nearby south-west Chicago suburbs on several nights between 2004 and 2006. What makes the Tinley Park Lights important in Illinois UFO history is the combination of repetition, multiple witnesses, suburban visibility, and local video evidence. The strongest evidence is not a recovered object or official confirmation, but a set of broadly similar public reports: slow-moving lights, little or no sound, formation changes, and sightings by residents who were already outdoors at parties, concerts, or Halloween trick-or-treating. The main doubts are equally important: lights in formation can be produced by balloons, lanterns, flares, aircraft, or perspective effects, and the videos do not prove that a single solid triangular craft was present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> [3NUFORC 3NUFORC]
 
 <img src="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-overview.webp" | relative_url }}" alt="Overview image for Suburban Clusters" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Tinley Park became the suburban cluster to watch
 
-Tinley Park sits in the south-western Chicago suburbs, an area with busy skies, major roads, dense residential neighbourhoods, and many people outside on summer and autumn evenings. That setting matters. UFO clusters often grow not only because something unusual is seen, but because many people are in a position to notice, compare notes, call authorities, and submit reports. In Tinley Park, the reported pattern was visible enough to move from private anecdotes into local media, UFO databases, and later television treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Tinley Park Lights&#x27; Still A Southland Mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery</span></span></span>
+Tinley Park sits in the south-western Chicago suburbs, an area with busy skies, major roads, dense residential neighbourhoods, and many people outside on summer and autumn evenings. That setting matters. UFO clusters often grow not only because something unusual is seen, but because many people are in a position to notice, compare notes, call authorities, and submit reports. In Tinley Park, the reported pattern was visible enough to move from private anecdotes into local media, UFO databases, and later television treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Tinley Park Lights&#x27; Still A Southland Mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery</span></span></span>
 
-The first major cluster commonly cited occurred on 21 August 2004. One National UFO Reporting Center report from Tinley Park described three red lights in the south-east sky, moving east, forming a triangle, then a vertical line and a slanted line, before disappearing; the report was corrected by NUFORC to place the sighting on the Saturday night of 21 August rather than the early hours of 22 August. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 38817August 20, 2023 — Three red lights (objects) moving in the sky making formations on August 22, 2004. There...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The first major cluster commonly cited occurred on 21 August 2004. One National UFO Reporting Center report from Tinley Park described three red lights in the south-east sky, moving east, forming a triangle, then a vertical line and a slanted line, before disappearing; the report was corrected by NUFORC to place the sighting on the Saturday night of 21 August rather than the early hours of 22 August.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 38817August 20, 2023 — Three red lights (objects) moving in the sky making formations on August 22, 2004. There...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
-The date is significant because the same night was also associated in later coverage with large crowds leaving Ozzfest at what was then the First Midwest Bank Amphitheatre. Pollstar’s 2008 account, written in connection with a History Channel episode, described concertgoers caught in traffic while three lights in a triangular pattern hovered for nearly 20 minutes. This does not by itself verify the object, but it helps explain why the incident became a mass-sighting story rather than a single household report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">News UFO In Tinley Park</span><span class="citation-popover-snippet">News UFO In Tinley Park</span></span></span>
+The date is significant because the same night was also associated in later coverage with large crowds leaving Ozzfest at what was then the First Midwest Bank Amphitheatre. Pollstar’s 2008 account, written in connection with a History Channel episode, described concertgoers caught in traffic while three lights in a triangular pattern hovered for nearly 20 minutes. This does not by itself verify the object, but it helps explain why the incident became a mass-sighting story rather than a single household report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">News UFO In Tinley Park</span><span class="citation-popover-snippet">News UFO In Tinley Park</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-1-dark.svg" | relative_url }}" alt="Suburban Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Recorded clusters and local video evidence
 
-The Tinley Park pattern did not end with one summer sighting. On 31 October 2004, Halloween brought residents outdoors again, creating another high-witness setting. NUFORC reports from that evening describe three bright red lights forming a triangle, shifting into a line, moving slowly, or fading out one by one. One report listed eight observers and noted aircraft nearby; another family report described about 30 minutes of visibility, with the lights starting in triangular form and later forming a straight line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40349" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 403493 bright red lights going into formation in the eastern sky. First in triangle formation, then one seemed...</span></span></span>
+The Tinley Park pattern did not end with one summer sighting. On 31 October 2004, Halloween brought residents outdoors again, creating another high-witness setting. NUFORC reports from that evening describe three bright red lights forming a triangle, shifting into a line, moving slowly, or fading out one by one. One report listed eight observers and noted aircraft nearby; another family report described about 30 minutes of visibility, with the lights starting in triangular form and later forming a straight line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40349" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 403493 bright red lights going into formation in the eastern sky. First in triangle formation, then one seemed...</span></span></span>
 
-A particularly useful report from Orland/Tinley Park on the same evening shows why the cluster is difficult to reduce to a single simple account. The witness said the lights drifted between triangle and horizontal-line formations, became closer and farther apart, made no obvious sound, and were recorded on a digital camera during several stops. The same report then adds a more dramatic claim: that the lights gathered close together, a white light appeared near the front, and the formation departed north-northwest very quickly. That final detail is more extraordinary, but also harder to verify from the report alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40352" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A particularly useful report from Orland/Tinley Park on the same evening shows why the cluster is difficult to reduce to a single simple account. The witness said the lights drifted between triangle and horizontal-line formations, became closer and farther apart, made no obvious sound, and were recorded on a digital camera during several stops. The same report then adds a more dramatic claim: that the lights gathered close together, a white light appeared near the front, and the formation departed north-northwest very quickly. That final detail is more extraordinary, but also harder to verify from the report alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40352" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Local video became central to the case because it gave the sightings a public life beyond memory. Patch’s retrospective account says T.J. Japcon ran inside for a Samsung camcorder during the August 2004 sighting, shared the footage with Illinois MUFON’s Sam Maranto, and saw it later used in the “Invasion Illinois” episode of *UFO Hunters*. The same article also notes that later attempts to explain the case included balloons and flares, while programme investigators argued that their recreation did not match the original appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">They&#x27;re Baaaack! Did You See UFOs on the Fourth of July?</span><span class="citation-popover-snippet">They&#x27;re Baaaack! Did You See UFOs on the Fourth of July?</span></span></span>
+Local video became central to the case because it gave the sightings a public life beyond memory. Patch’s retrospective account says T.J. Japcon ran inside for a Samsung camcorder during the August 2004 sighting, shared the footage with Illinois MUFON’s Sam Maranto, and saw it later used in the “Invasion Illinois” episode of *UFO Hunters*. The same article also notes that later attempts to explain the case included balloons and flares, while programme investigators argued that their recreation did not match the original appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">They&#x27;re Baaaack! Did You See UFOs on the Fourth of July?</span><span class="citation-popover-snippet">They&#x27;re Baaaack! Did You See UFOs on the Fourth of July?</span></span></span>
 
 Video evidence, however, cuts both ways. It supports the claim that something was recorded and that witnesses were not merely inventing a story after the fact. But distant night footage of lights rarely provides reliable scale, altitude, distance, speed, or structure. A triangle of lights on camera may be three independent objects, three lights attached to one object, or ordinary lights made strange by darkness and distance. That is why Tinley Park remains a strong case for a sighting cluster, but a much weaker case for proving a specific craft.
 
@@ -288,9 +288,9 @@ Video evidence, however, cuts both ways. It supports the claim that something wa
 
 ## What the light pattern suggests — and what it does not
 
-The recurring description is striking: three red or red-orange lights, slow movement, little sound, and a triangle-to-line geometry. Chicago Magazine’s 2007 account described the Halloween return as a south-suburban event seen by hundreds, including whole blocks of trick-or-treaters looking up at the sky. Reports also repeatedly mention lights changing relative position rather than behaving like a fixed aircraft lighting pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The recurring description is striking: three red or red-orange lights, slow movement, little sound, and a triangle-to-line geometry. Chicago Magazine’s 2007 account described the Halloween return as a south-suburban event seen by hundreds, including whole blocks of trick-or-treaters looking up at the sky. Reports also repeatedly mention lights changing relative position rather than behaving like a fixed aircraft lighting pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That consistency is why UFO investigators have treated Tinley Park as more than a one-off mistaken light. The Center for UFO Studies page explains CUFOS’s role as an archive and research organisation founded by J. Allen Hynek, who had earlier worked as an astronomical consultant to the US Air Force’s Project Blue Book. A Chicago Tribune clipping hosted by CUFOS notes that Illinois MUFON was active in the Tinley Park mass sighting, while CUFOS and MUFON later both investigated the better-known O’Hare airport case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies About Us</span><span class="citation-popover-snippet">Center for UFO Studies About Us</span></span></span>
+That consistency is why UFO investigators have treated Tinley Park as more than a one-off mistaken light. The Center for UFO Studies page explains CUFOS’s role as an archive and research organisation founded by J. Allen Hynek, who had earlier worked as an astronomical consultant to the US Air Force’s Project Blue Book. A Chicago Tribune clipping hosted by CUFOS notes that Illinois MUFON was active in the Tinley Park mass sighting, while CUFOS and MUFON later both investigated the better-known O’Hare airport case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies About Us</span><span class="citation-popover-snippet">Center for UFO Studies About Us</span></span></span>
 
 Still, consistency in witness descriptions does not settle the central question. A repeated report of “three red lights in a triangle” may reflect a repeated unusual source, but it may also reflect how human observers naturally impose shape on lights in the dark sky. When only the lights are visible, the mind can connect them into a triangle even if there is no visible body between them. This is one of the main interpretive traps in suburban night-sky cases: the pattern is real to the observer, but the inferred solid object may be an extra step.
 
@@ -299,11 +299,11 @@ The strongest Tinley Park claim is therefore modest but meaningful: many residen
 <img src="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-2-dark.svg" | relative_url }}" alt="Suburban Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conventional explanations versus unexplained elements
 
-The most common sceptical explanations are balloons, sky lanterns, flares, model aircraft, helicopters, aircraft lights, or a coordinated hoax. These are not dismissals for their own sake; they match several features of the case. Floating lights can move silently, drift slowly, appear red or orange, and form loose shapes. The BBC’s *Sky at Night Magazine* notes that sky lanterns are now a major source of UFO reports and that groups of lanterns, especially if released together or tied, can look like a formation or a single object from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+The most common sceptical explanations are balloons, sky lanterns, flares, model aircraft, helicopters, aircraft lights, or a coordinated hoax. These are not dismissals for their own sake; they match several features of the case. Floating lights can move silently, drift slowly, appear red or orange, and form loose shapes. The BBC’s *Sky at Night Magazine* notes that sky lanterns are now a major source of UFO reports and that groups of lanterns, especially if released together or tied, can look like a formation or a single object from the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
-Tinley Park also had local circumstances that complicate interpretation. Patch reported that sceptics pointed to the Chicago Air and Water Show being held on 21 August 2004 and to the south suburbs’ heavy air traffic, with routes connected to O’Hare and Midway. A Reddit debunking discussion, while not a formal investigation, similarly argued that the timing of the August sighting near the air show should not be ignored. These points do not explain the Halloween reports by themselves, but they show why the August sighting cannot be assessed in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">ufo expert tinley parks 2004 sightings they were not hoax</span><span class="citation-popover-snippet">ufo expert tinley parks 2004 sightings they were not hoax</span></span></span>
+Tinley Park also had local circumstances that complicate interpretation. Patch reported that sceptics pointed to the Chicago Air and Water Show being held on 21 August 2004 and to the south suburbs’ heavy air traffic, with routes connected to O’Hare and Midway. A Reddit debunking discussion, while not a formal investigation, similarly argued that the timing of the August sighting near the air show should not be ignored. These points do not explain the Halloween reports by themselves, but they show why the August sighting cannot be assessed in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">ufo expert tinley parks 2004 sightings they were not hoax</span><span class="citation-popover-snippet">ufo expert tinley parks 2004 sightings they were not hoax</span></span></span>
 
-The balloon-or-flare explanation has also been disputed by investigators and witnesses. Patch’s 2011 retrospective quoted claims that a recreation with flares and balloons looked different, and that analysts on *UFO Hunters* concluded the lights may have been affixed in a triangular pattern. That conclusion is not the same as proof of an exotic craft; television reconstructions are not independent scientific testing. But it does show why the case persisted after the simplest explanations were proposed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">navy confirms ufos could tinley park lights be real</span><span class="citation-popover-snippet">navy confirms ufos could tinley park lights be real</span></span></span>
+The balloon-or-flare explanation has also been disputed by investigators and witnesses. Patch’s 2011 retrospective quoted claims that a recreation with flares and balloons looked different, and that analysts on *UFO Hunters* concluded the lights may have been affixed in a triangular pattern. That conclusion is not the same as proof of an exotic craft; television reconstructions are not independent scientific testing. But it does show why the case persisted after the simplest explanations were proposed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">navy confirms ufos could tinley park lights be real</span><span class="citation-popover-snippet">navy confirms ufos could tinley park lights be real</span></span></span>
 
 The unresolved element is not “aliens versus balloons”. It is more precise: whether the repeated Tinley Park lights were independent floating sources, misidentified aircraft-related lights, staged objects, or a connected formation whose structure was not visible on camera. The available evidence is good enough to establish a local sighting cluster, but not good enough to determine the source with confidence.
 
@@ -313,210 +313,210 @@ The unresolved element is not “aliens versus balloons”. It is more precise: 
 
 The Tinley Park Lights matter within Illinois UFO history because they show how a suburban cluster forms. A single witness report can be dismissed as perception, memory, or a private mistake. A cluster changes the evidential problem: investigators must ask whether independent people across nearby suburbs saw the same thing, whether their timing and direction match, whether reports were influenced by media attention, and whether later sightings copied earlier expectations.
 
-NUFORC’s own summary material lists Tinley Park on 21 August 2004, 31 October 2004, and 30 September 2005 as multiple-witness events involving red lights hovering or manoeuvring over a wide area. Another general catalogue of black-triangle reports places the Tinley Park and Oak Forest sightings across 2004, 2005, and 2006, with some witnesses photographing or filming the lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+NUFORC’s own summary material lists Tinley Park on 21 August 2004, 31 October 2004, and 30 September 2005 as multiple-witness events involving red lights hovering or manoeuvring over a wide area. Another general catalogue of black-triangle reports places the Tinley Park and Oak Forest sightings across 2004, 2005, and 2006, with some witnesses photographing or filming the lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-That repetition is also a weakness if handled carelessly. Once a place becomes known as a “UFO magnet”, later ambiguous lights are more likely to be reported as part of the same story. Patch’s 2013 article about Fourth of July lights in Tinley Park shows this effect clearly: residents and local media framed new lights against the village’s existing reputation for triangular sightings, while also noting the obvious reason for scepticism on a fireworks-heavy night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Tinley Park Lights&#x27; Still A Southland Mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery</span></span></span>
+That repetition is also a weakness if handled carelessly. Once a place becomes known as a “UFO magnet”, later ambiguous lights are more likely to be reported as part of the same story. Patch’s 2013 article about Fourth of July lights in Tinley Park shows this effect clearly: residents and local media framed new lights against the village’s existing reputation for triangular sightings, while also noting the obvious reason for scepticism on a fireworks-heavy night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Tinley Park Lights&#x27; Still A Southland Mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery</span></span></span>
 
 The most careful reading is therefore neither belief nor dismissal. Tinley Park is not just “a famous UFO video”, because the wider pattern of repeated reports is the more important feature. But it is also not a settled case, because repetition can preserve a mystery without solving it.
 
 <img src="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-3-dark.svg" | relative_url }}" alt="Suburban Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Tinley Park fits the wider Illinois UFO map
 
-Tinley Park belongs beside, rather than beneath, Illinois’s better-known UFO incidents. The 2000 St. Clair Triangle is important because it involved police officers, radio traffic, and a large object reported across southern Illinois. The 2006 O’Hare case is important because aviation employees reported an object over one of the world’s busiest airports. Tinley Park is different: its strength lies in ordinary suburban witness density, repeated light formations, and home-video culture in the years before smartphones became universal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2007/01/ufo-spotted-ove" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That difference gives the Tinley Park cluster a distinct role in the state’s UFO history. It is a case about population context: many peopleoutside, suburban skies full of possible confounders, local investigators close at hand, and a community memory strong enough that later lights were interpreted through the original events. It also shows the limits of video-era UFO evidence. Video can preserve a sighting, but unless it includes reference points, camera metadata, triangulation from multiple locations, and independent flight or weather data, it may not resolve what the lights were.
+Tinley Park belongs beside, rather than beneath, Illinois’s better-known UFO incidents. The 2000 St. Clair Triangle is important because it involved police officers, radio traffic, and a large object reported across southern Illinois. The 2006 O’Hare case is important because aviation employees reported an object over one of the world’s busiest airports. Tinley Park is different: its strength lies in ordinary suburban witness density, repeated light formations, and home-video culture in the years before smartphones became universal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2007/01/ufo-spotted-ove" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That difference gives the Tinley Park cluster a distinct role in the state’s UFO history. It is a case about population context: many peopleoutside, suburban skies full of possible confounders, local investigators close at hand, and a community memory strong enough that later lights were interpreted through the original events. It also shows the limits of video-era UFO evidence. Video can preserve a sighting, but unless it includes reference points, camera metadata, triangulation from multiple locations, and independent flight or weather data, it may not resolve what the lights were.
 
 For readers trying to judge the case today, the best conclusion is cautious: the Tinley Park Lights are a well-known and repeatedly reported suburban Illinois UFO cluster, not a confirmed craft. The reports are stronger than a lone anecdote because of multiple witnesses, repeated dates, and recorded footage. They are weaker than a solved investigation because the central evidence remains distant lights in a night sky, with plausible conventional explanations still in play.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01GT4oK4feU" title="The Lights: A Documentary Diving Into The Tinley Park Lights Phenomenon of 2004" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01GT4oK4feU" target="_blank" rel="noopener noreferrer">The Lights: A Documentary Diving Into The Tinley Park Lights Phenomenon of 2004</a></p><p class="youtube-embed-meta">Channel: Mike Newren &middot; Views: 2.0K &middot; Uploaded: May 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01GT4oK4feU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01GT4oK4feU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Triangular Lights UFO Patterns in Chicago Suburbs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Triangular Lights UFO Patterns in Chicago Suburbs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broad context for modern multi-witness sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for modern multi-witness sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
-        </h4>
-        <p class="fr-book-author">By David Marler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
+</h4>
+<p class="fr-book-author">By David Marler</p>
         
-        <p class="fr-book-desc">Closely matches Tinley Park style sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches Tinley Park style sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for analysing clusters of witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for analysing clusters of witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring UFO-report patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring UFO-report patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="triangular-lights-ufo-patterns-in-chicago-suburbs-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For readers trying to judge the case today, the best conclusion is cautious: the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For readers trying to judge the case today, the best conclusion is cautious: the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For readers trying to judge the case today, the best conclusion is cautious: the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For readers trying to judge the case today, the best conclusion is cautious: the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For readers trying to judge the case today, the best conclusion is cautious: the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,182 +722,182 @@ For readers trying to judge the case today, the best conclusion is cautious: the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=38817" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38817</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 38817August 20, 2023 — Three red lights (objects) moving in the sky making formations on August 22, 2004. There...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=38817" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38817</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 38817August 20, 2023 — Three red lights (objects) moving in the sky making formations on August 22, 2004. There...</p></details>
    Published: August 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40349" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40349</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 403493 bright red lights going into formation in the eastern sky. First in triangle formation, then one seemed...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=40349" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40349</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 403493 bright red lights going into formation in the eastern sky. First in triangle formation, then one seemed...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40352" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40352</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=40352" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40352</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: patch.com  
    Title: 'Tinley Park Lights' Still A Southland Mystery  
-   Link: <a href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery</a>  
+   Link:<a href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.pollstar.com  
    Title: News UFO In Tinley Park  
-   Link: <a href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/</a>  
+   Link:<a href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40316" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40316</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=40316" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40316</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cufos.org  
    Title: Center for UFO Studies About Us  
-   Link: <a href="https://cufos.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/about-us/</a>  
+   Link:<a href="https://cufos.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/about-us/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cufos.org  
    Title: 2013 07 14 US IL Whats that in the Sky Ask CUFOS Chicago Tribune NewsClip  
-   Link: <a href="https://cufos.org/PDFs/pdfs/2013_07_14_US_IL_Whats-that-in-the-Sky-Ask-CUFOS_Chicago-Tribune_NewsClip.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/2013_07_14_US_IL_Whats-that-in-the-Sky-Ask-CUFOS_Chicago-Tribune_NewsClip.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/pdfs/2013_07_14_US_IL_Whats-that-in-the-Sky-Ask-CUFOS_Chicago-Tribune_NewsClip.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/2013_07_14_US_IL_Whats-that-in-the-Sky-Ask-CUFOS_Chicago-Tribune_NewsClip.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: guys i just debunked the aug 21 2004 tinley park  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: What does it tell us, what do we know?  
-   Link: <a href="https://nuforc.org/histlnk/PD30Oct2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/histlnk/PD30Oct2015.pdf</a>  
+   Link:<a href="https://nuforc.org/histlnk/PD30Oct2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/histlnk/PD30Oct2015.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: patch.com  
    Title: They're Baaaack! Did You See UFOs on the Fourth of July?  
-   Link: <a href="https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july</a>  
+   Link:<a href="https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2007/01/ufo-spotted-ove" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/01/ufo-spotted-ove</a>  
+   Link:<a href="https://www.wired.com/2007/01/ufo-spotted-ove" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/01/ufo-spotted-ove</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=51995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51995</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=51995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51995</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40379" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40379</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=40379" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40379</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40374" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40374</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=40374" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40374</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: patch.com  
    Title: ufo expert [tinley parks](&#123;&#123; 'tinley-park/' | relative_url &#125;&#125;) 2004 sightings they were not hoax  
-   Link: <a href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax</a>  
+   Link:<a href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: patch.com  
    Title: navy confirms ufos could tinley park lights be real  
-   Link: <a href="https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real</a>  
+   Link:<a href="https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: an analysis of the tinley park ill 31 october  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/3holrf/an_analysis_of_the_tinley_park_ill_31_october/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/3holrf/an_analysis_of_the_tinley_park_ill_31_october/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/3holrf/an_analysis_of_the_tinley_park_ill_31_october/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/3holrf/an_analysis_of_the_tinley_park_ill_31_october/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings in the United States  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: chicagomag.com  
-   Link: <a href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/</a>  
+   Link:<a href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCArchive/posts/1127101164329579/?comment_id=1127178187655210" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/1127101164329579/?comment_id=1127178187655210</a>  
+   Link:<a href="https://www.facebook.com/BBCArchive/posts/1127101164329579/?comment_id=1127178187655210" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/1127101164329579/?comment_id=1127178187655210</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=01GT4oK4feU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01GT4oK4feU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=01GT4oK4feU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01GT4oK4feU</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=M4w5QUqTYOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M4w5QUqTYOA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=M4w5QUqTYOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M4w5QUqTYOA</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: 9 @ 9: Tinley Park UFOs, pet beds and carved pumpkin preservation  
-   Link: <a href="https://www.youtube.com/watch?v=LpxvFIdNC4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LpxvFIdNC4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox Flashback: Suburban Chicago couple spots mysterious object over I-80 in 1997...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LpxvFIdNC4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LpxvFIdNC4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fox Flashback: Suburban Chicago couple spots mysterious object over I-80 in 1997...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z9OoaHs3zK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9OoaHs3zK8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights seen in Illinois sky explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z9OoaHs3zK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9OoaHs3zK8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights seen in Illinois sky explained...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Twisted 2s #95 Lake City Quiet Pills & Tinley Park UFO  
-   Link: <a href="https://www.youtube.com/watch?v=s2LVppQUIpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s2LVppQUIpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 @ 9: Tinley Park UFOs, pet beds and carved pumpkin preservation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s2LVppQUIpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s2LVppQUIpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 @ 9: Tinley Park UFOs, pet beds and carved pumpkin preservation...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Strange lights seen in Illinois sky explained  
-   Link: <a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lv1bf0fmAvU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GALESBURG, MOLINE, ILLINOIS UFO: March, 6 1967: Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lv1bf0fmAvU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GALESBURG, MOLINE, ILLINOIS UFO: March, 6 1967: Project Blue Book...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TinleyParkPatch/posts/hi-i-am-working-on-a-story-about-tinley-park-lights-for-those-of-you-who-might-n/2705013412844618/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TinleyParkPatch/posts/hi-i-am-working-on-a-story-about-tinley-park-lights-for-those-of-you-who-might-n/2705013412844618/</a>  
+   Link:<a href="https://www.facebook.com/TinleyParkPatch/posts/hi-i-am-working-on-a-story-about-tinley-park-lights-for-those-of-you-who-might-n/2705013412844618/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TinleyParkPatch/posts/hi-i-am-working-on-a-story-about-tinley-park-lights-for-those-of-you-who-might-n/2705013412844618/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/1110kfab/posts/illinois-state-director-for-mufon-sam-maranto-discussed-the-2004-tinley-park-ufo/1121305290004675/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1110kfab/posts/illinois-state-director-for-mufon-sam-maranto-discussed-the-2004-tinley-park-ufo/1121305290004675/</a>  
+   Link:<a href="https://www.facebook.com/1110kfab/posts/illinois-state-director-for-mufon-sam-maranto-discussed-the-2004-tinley-park-ufo/1121305290004675/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1110kfab/posts/illinois-state-director-for-mufon-sam-maranto-discussed-the-2004-tinley-park-ufo/1121305290004675/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/news/illinois-share-ufo-sightings-objects-130200760.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/illinois-share-ufo-sightings-objects-130200760.html</a>  
+   Link:<a href="https://www.yahoo.com/news/illinois-share-ufo-sightings-objects-130200760.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/illinois-share-ufo-sightings-objects-130200760.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/chipublib/posts/join-us-for-part-two-of-last-years-popular-ufo-event-this-time-our-panel-of-lead/955089519992446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chipublib/posts/join-us-for-part-two-of-last-years-popular-ufo-event-this-time-our-panel-of-lead/955089519992446/</a>  
+   Link:<a href="https://www.facebook.com/chipublib/posts/join-us-for-part-two-of-last-years-popular-ufo-event-this-time-our-panel-of-lead/955089519992446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chipublib/posts/join-us-for-part-two-of-last-years-popular-ufo-event-this-time-our-panel-of-lead/955089519992446/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abc7chicago/posts/the-great-chicago-light-fight-is-back-and-a-tinley-park-family-now-has-bragging-/10160341430241162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc7chicago/posts/the-great-chicago-light-fight-is-back-and-a-tinley-park-family-now-has-bragging-/10160341430241162/</a>  
+   Link:<a href="https://www.facebook.com/abc7chicago/posts/the-great-chicago-light-fight-is-back-and-a-tinley-park-family-now-has-bragging-/10160341430241162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc7chicago/posts/the-great-chicago-light-fight-is-back-and-a-tinley-park-family-now-has-bragging-/10160341430241162/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>
+   Link:<a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>

@@ -76,9 +76,9 @@ heading_title: What Makes Indiana’s UFO History Unique and Noteworthy?
 page_heading_title: What Makes Indiana’s UFO History Unique and Noteworthy?
 source_count: 162
 infographic_count: 3
-page_website_name: Indiana UFOs
+page_website_name: Indiana
 page_banner_line: Exploring UFO reports, sightings, and investigations across Indiana
-site_website_name: Indiana UFOs
+site_website_name: Indiana
 site_banner_line: Exploring UFO reports, sightings, and investigations across Indiana
 site_image_description: A nighttime rural Indiana sky illuminated by mysterious glowing discs and colored lights with silhouetted trees below.
 output_language: English
@@ -482,49 +482,49 @@ image: /assets/images/Indiana_5d00be-overview-social.jpg
 Indiana sits in a revealing middle ground. It is not Roswell, Washington State, or Nevada, but it has enough cases to show how UFO reporting worked across ordinary American communities: Indianapolis, Muncie, [Terre Haute]({{ 'terre-haute/' | relative_url }}), Kokomo, Fort Wayne, Connersville, Corydon, and rural county roads all appear in different parts of the record. That makes Indiana useful precisely because its cases are mixed. The state has early “daylight disc” claims, airport-adjacent sightings, local flap periods, law-enforcement involvement, private UFO-network investigations, and modern social-media-driven scares.
 
 <img src="{{ "/assets/images/Indiana_5d00be-overview.webp" | relative_url }}" alt="Overview image for What Makes Indiana’s UFO History Unique and..." loading="eager" decoding="sync" fetchpriority="high">
-The public record is also uneven. The National Archives says Project Blue Book records were declassified and are available for research, but also stresses that the project closed in 1969 and that the archive has no information on later sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The Air Force’s own summary says most Blue Book reports were eventually attributed to misidentified natural phenomena or conventional aircraft, while a minority remained unidentified because the available evidence was not enough to settle them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Indiana, that means the strongest historical cases are not necessarily the most spectacular stories; they are the ones where the date, place, witnesses, and investigative trail can still be checked.
+The public record is also uneven. The National Archives says Project Blue Book records were declassified and are available for research, but also stresses that the project closed in 1969 and that the archive has no information on later sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The Air Force’s own summary says most Blue Book reports were eventually attributed to misidentified natural phenomena or conventional aircraft, while a minority remained unidentified because the available evidence was not enough to settle them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Indiana, that means the strongest historical cases are not necessarily the most spectacular stories; they are the ones where the date, place, witnesses, and investigative trail can still be checked.
 
 ## The early Air Force-era cases
 
-Indiana enters the classic flying-saucer period quickly. Two Indianapolis reports from July 1948 are often repeated in UFO catalogues: a low, propeller-like object reportedly seen by two men on 29 July, and the better-known 31 July Vernon Swigert case, in which Swigert and his wife reportedly saw a white cymbal-shaped or domed disc cross the sky in about ten seconds. Later catalogues place the Swigert report among Project Blue Book “unknown” listings, but that does not mean the case was confirmed as extraordinary; it means the available information did not produce a secure conventional identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Indiana enters the classic flying-saucer period quickly. Two Indianapolis reports from July 1948 are often repeated in UFO catalogues: a low, propeller-like object reportedly seen by two men on 29 July, and the better-known 31 July Vernon Swigert case, in which Swigert and his wife reportedly saw a white cymbal-shaped or domed disc cross the sky in about ten seconds. Later catalogues place the Swigert report among Project Blue Book “unknown” listings, but that does not mean the case was confirmed as extraordinary; it means the available information did not produce a secure conventional identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The Swigert case matters because it shows both the appeal and the weakness of early UFO evidence. The description is concrete by UFO standards: two witnesses, daylight, shape, colour, direction, and estimated size. Yet the hard numbers are still uncertain. Estimates of distance, altitude, and speed depend on human judgement during a short sighting, and small errors can turn an ordinary object into an apparently impossible one. This is a recurring problem in Indiana’s record: the more precise a brief sighting seems, the more it can tempt later writers into confident calculations that the original evidence may not support.
 
-A stronger official-paper trail appears in the 9 October 1951 Terre Haute case. A Civil Aeronautics Administration aircraft communicator at Hulman Municipal Airport reported a silver object passing directly overhead and moving from overhead to the horizon in about fifteen seconds, with no sound or vapour trail. The same Project Grudge status report linked it to a separate sighting by a private pilot flying from Greencastle, Indiana, to Paris, Illinois, who saw a silver object near 5,000 feet south of the Newport, Indiana, Atomic Energy Plant. The report recorded clear weather but no firm conclusion. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Sign report</span><span class="citation-popover-snippet">File:Project Sign report</span></span></span>
+A stronger official-paper trail appears in the 9 October 1951 Terre Haute case. A Civil Aeronautics Administration aircraft communicator at Hulman Municipal Airport reported a silver object passing directly overhead and moving from overhead to the horizon in about fifteen seconds, with no sound or vapour trail. The same Project Grudge status report linked it to a separate sighting by a private pilot flying from Greencastle, Indiana, to Paris, Illinois, who saw a silver object near 5,000 feet south of the Newport, Indiana, Atomic Energy Plant. The report recorded clear weather but no firm conclusion. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Sign report</span><span class="citation-popover-snippet">File:Project Sign report</span></span></span>
 
-That 1951 pairing is one of Indiana’s more interesting archival examples because it involves aviation settings and near-simultaneous regional reports. It is not, however, a solved mystery in either direction. The official file says further investigation produced no additional information in the Terre Haute case and no significant facts in the Paris/Greencastle-related case; it also says it was impossible to determine whether jet aircraft had been in the area because of the lapse of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Sign report</span><span class="citation-popover-snippet">File:Project Sign report</span></span></span> The responsible conclusion is modest: it is a documented official UFO report with aviation witnesses, not a demonstration of non-human craft.
+That 1951 pairing is one of Indiana’s more interesting archival examples because it involves aviation settings and near-simultaneous regional reports. It is not, however, a solved mystery in either direction. The official file says further investigation produced no additional information in the Terre Haute case and no significant facts in the Paris/Greencastle-related case; it also says it was impossible to determine whether jet aircraft had been in the area because of the lapse of time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Sign report</span><span class="citation-popover-snippet">File:Project Sign report</span></span></span> The responsible conclusion is modest: it is a documented official UFO report with aviation witnesses, not a demonstration of non-human craft.
 
 <img src="{{ "/assets/images/Indiana_5d00be-Illustration-1-dark.svg" | relative_url }}" alt="What Makes Indiana’s UFO History Unique and... illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1973 flap and why Muncie still stands out
 
-Indiana’s most culturally vivid UFO period came in the early 1970s, especially around Muncie and eastern Indiana. Indiana Public Media’s retrospective on the 1973 Muncie sightings describes a local “UFO mania” in which hundreds of reports were said to have reached Muncie and Delaware County during October, with claims ranging from lights and low objects to a frightened woman saying something had landed behind her home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipm.org">[Indiana Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipm.org</span><span class="citation-popover-title">close encounters of the muncie kind the muncie ufo mania of 1973</span><span class="citation-popover-snippet">close encounters of the muncie kind the muncie ufo mania of 1973</span></span></span>
+Indiana’s most culturally vivid UFO period came in the early 1970s, especially around Muncie and eastern Indiana. Indiana Public Media’s retrospective on the 1973 Muncie sightings describes a local “UFO mania” in which hundreds of reports were said to have reached Muncie and Delaware County during October, with claims ranging from lights and low objects to a frightened woman saying something had landed behind her home.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipm.org">[Indiana Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipm.org</span><span class="citation-popover-title">close encounters of the muncie kind the muncie ufo mania of 1973</span><span class="citation-popover-snippet">close encounters of the muncie kind the muncie ufo mania of 1973</span></span></span>
 
 The Muncie episode matters because it was not just a sighting; it became a social event. Local police, sheriff’s deputies, newspapers, shop adverts, Halloween costumes, and later memory all helped turn the reports into part of the city’s folklore. That does not make the sightings false, but it does change how they should be evaluated. A flap can contain sincere observations, mistaken observations, jokes, rumour, copycat reports, and press amplification all at once.
 
-The same retrospective notes that later explanations increasingly included ordinary causes, such as tinfoil reflecting lights, aircraft, helicopters, and weather balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipm.org">[Indiana Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipm.org</span><span class="citation-popover-title">close encounters of the muncie kind the muncie ufo mania of 1973</span><span class="citation-popover-snippet">close encounters of the muncie kind the muncie ufo mania of 1973</span></span></span> That is important because a flap should not be treated as one single case. A cluster may begin with a genuinely puzzling report, but many later reports can be explained independently. Indiana’s 1973 material is therefore best read as a mixture: some unresolved witness claims, many weakly documented stories, and a clear example of how public attention can make the sky feel more mysterious.
+The same retrospective notes that later explanations increasingly included ordinary causes, such as tinfoil reflecting lights, aircraft, helicopters, and weather balloons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipm.org">[Indiana Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipm.org</span><span class="citation-popover-title">close encounters of the muncie kind the muncie ufo mania of 1973</span><span class="citation-popover-snippet">close encounters of the muncie kind the muncie ufo mania of 1973</span></span></span> That is important because a flap should not be treated as one single case. A cluster may begin with a genuinely puzzling report, but many later reports can be explained independently. Indiana’s 1973 material is therefore best read as a mixture: some unresolved witness claims, many weakly documented stories, and a clear example of how public attention can make the sky feel more mysterious.
 
-Connersville also appears in accounts of the 1973 wave. Contemporary newspaper clippings and later summaries describe oval-shaped UFO reports in the area during October, while more elaborate humanoid or “fish-shaped” craft stories are harder to verify and often rest on later UFO catalogues rather than robust primary documentation. Newspapers <span class="citation-chip-wrap"><a class="citation-chip" href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townepost.com">[Towne Post Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townepost.com</span><span class="citation-popover-title">Towne Post Network It Came From Outer Space (to Indiana)!</span><span class="citation-popover-snippet">Towne Post Network It Came From Outer Space (to Indiana)!</span></span></span> The distinction matters. A newspaper note about multiple residents seeing something unusual is one level of evidence; a detailed later story about occupants seen through portholes is a much more demanding claim and needs stronger corroboration than Indiana’s public record usually provides.
+Connersville also appears in accounts of the 1973 wave. Contemporary newspaper clippings and later summaries describe oval-shaped UFO reports in the area during October, while more elaborate humanoid or “fish-shaped” craft stories are harder to verify and often rest on later UFO catalogues rather than robust primary documentation. Newspapers<span class="citation-chip-wrap"><a class="citation-chip" href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townepost.com">[Towne Post Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townepost.com</span><span class="citation-popover-title">Towne Post Network It Came From Outer Space (to Indiana)!</span><span class="citation-popover-snippet">Towne Post Network It Came From Outer Space (to Indiana)!</span></span></span> The distinction matters. A newspaper note about multiple residents seeing something unusual is one level of evidence; a detailed later story about occupants seen through portholes is a much more demanding claim and needs stronger corroboration than Indiana’s public record usually provides.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3lTd3urbi3o" title="Indiana congressman calls for answers after Pentagon&#x27;s UFO report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3lTd3urbi3o" target="_blank" rel="noopener noreferrer">Indiana congressman calls for answers after Pentagon&#x27;s UFO report</a></p><p class="youtube-embed-meta">Channel: FOX59 News &middot; Views: 42.8K &middot; Uploaded: July 2021 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3lTd3urbi3o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3lTd3urbi3o">Open on YouTube</a></p></div></div></div>
 
 ## Corydon, orange lights, and the private-investigator era
 
-By the late 1970s and 1980s, Indiana UFO history was increasingly shaped by [private investigators]({{ 'corydon-cases/' | relative_url }}) and UFO organisations rather than by the Air Force. A 1978 Associated Press-linked account, summarised in later Indiana local history coverage, described Charles Tucker of Nappanee as a regional director of the Mutual UFO Network and said he had identified at least 23 “strong” Indiana reports in recent years. The same account later noted Francis L. Ridge of Mount Vernon, Indiana, as a MUFON figure discussing a high number of Indiana reports in 1987. <span class="citation-chip-wrap"><a class="citation-chip" href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townepost.com">[Towne Post Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townepost.com</span><span class="citation-popover-title">Towne Post Network It Came From Outer Space (to Indiana)!</span><span class="citation-popover-snippet">Towne Post Network It Came From Outer Space (to Indiana)!</span></span></span>
+By the late 1970s and 1980s, Indiana UFO history was increasingly shaped by [private investigators]({{ 'corydon-cases/' | relative_url }}) and UFO organisations rather than by the Air Force. A 1978 Associated Press-linked account, summarised in later Indiana local history coverage, described Charles Tucker of Nappanee as a regional director of the Mutual UFO Network and said he had identified at least 23 “strong” Indiana reports in recent years. The same account later noted Francis L. Ridge of Mount Vernon, Indiana, as a MUFON figure discussing a high number of Indiana reports in 1987.<span class="citation-chip-wrap"><a class="citation-chip" href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townepost.com">[Towne Post Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townepost.com</span><span class="citation-popover-title">Towne Post Network It Came From Outer Space (to Indiana)!</span><span class="citation-popover-snippet">Towne Post Network It Came From Outer Space (to Indiana)!</span></span></span>
 
-The Corydon orange-light reports are a good example of this private-investigator era. A NICAP-hosted case write-up describes a March 1987 investigation in Harrison County, where witness Mickey Shawler reported recurring orange and white lights over a rural treeline; the account also says Harrison County officer Steve Hamm responded and saw lights, and that an off-duty jailer also reported seeing something unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Corydon orange-light reports are a good example of this private-investigator era. A NICAP-hosted case write-up describes a March 1987 investigation in Harrison County, where witness Mickey Shawler reported recurring orange and white lights over a rural treeline; the account also says Harrison County officer Steve Hamm responded and saw lights, and that an off-duty jailer also reported seeing something unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is one of Indiana’s more memorable cases because it includes repeated observations, a named locality, alleged police involvement, and an attempt at investigation. But it also shows the limits of private case files. The report includes dramatic language about lights appearing to follow a police car and vanishing when illuminated, but it also contains speculative material around local rumours that does not strengthen the sighting evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The best reading is cautious: Corydon is significant as a local cluster with law-enforcement-adjacent testimony, but it remains dependent on a UFO-investigator narrative rather than a fully independent official investigation.
+This is one of Indiana’s more memorable cases because it includes repeated observations, a named locality, alleged police involvement, and an attempt at investigation. But it also shows the limits of private case files. The report includes dramatic language about lights appearing to follow a police car and vanishing when illuminated, but it also contains speculative material around local rumours that does not strengthen the sighting evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The best reading is cautious: Corydon is significant as a local cluster with law-enforcement-adjacent testimony, but it remains dependent on a UFO-investigator narrative rather than a fully independent official investigation.
 
 <img src="{{ "/assets/images/Indiana_5d00be-Illustration-2-dark.svg" | relative_url }}" alt="What Makes Indiana’s UFO History Unique and... illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern reports: databases, viral clips, and ordinary explanations
 
-Modern Indiana UFO reporting is much easier to count but not always easier to understand. The National UFO Reporting Center lists Indiana as having 2,885 reports in its location index, placing it in the broad middle-to-upper range of US states rather than among the highest-volume states such as California, Florida, Texas, Washington, or New York. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Its Indiana report table includes many familiar categories: lights, fireballs, triangles, spheres, disks, formations, and cases flagged even in the short summary as possible planets, stars, or unclear reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Modern Indiana UFO reporting is much easier to count but not always easier to understand. The National UFO Reporting Center lists Indiana as having 2,885 reports in its location index, placing it in the broad middle-to-upper range of US states rather than among the highest-volume states such as California, Florida, Texas, Washington, or New York.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Its Indiana report table includes many familiar categories: lights, fireballs, triangles, spheres, disks, formations, and cases flagged even in the short summary as possible planets, stars, or unclear reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-That database is useful for patterns, not proof. It shows where and when people reported things, and it preserves raw witness language, but it does not by itself establish what was seen. Indiana’s entries include reports near Fort Wayne, Evansville, Indianapolis, Kokomo, Crown Point, Lafayette, and smaller towns, which fits the broader national pattern: most UFO databases are collections of human reports, not validated catalogues of anomalous aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+That database is useful for patterns, not proof. It shows where and when people reported things, and it preserves raw witness language, but it does not by itself establish what was seen. Indiana’s entries include reports near Fort Wayne, Evansville, Indianapolis, Kokomo, Crown Point, Lafayette, and smaller towns, which fits the broader national pattern: most UFO databases are collections of human reports, not validated catalogues of anomalous aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-The Kokomo-area lights of October 2024 show how quickly a modern Indiana sighting can become a national story. News and social media described yellowish-orange lights near Grissom Air Reserve Base, with some speculation about UFOs and some analysts suggesting military flares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/25/us-news/flock-of-ufos-caught-on-camera-near-us-airbase-in-indiana-spooking-neighbors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Indiana Air National Guard’s 122nd Fighter Wing later stated in public-facing posts that F-16s were conducting night flight training near Kokomo on 7 October 2024, including flare activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/122ndFighterWing/posts/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074646663059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">ufos in indiana recently the new york post dailymail and international outlets</span><span class="citation-popover-snippet">ufos in indiana recently the new york post dailymail and international outlets</span></span></span> Separately, local Fort Wayne reporting quoted the wing commander explaining that night training often produces UFO reports because afterburners, aircraft noise, and unusual night operations stand out more after dark. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.21alivenews.com/2024/12/10/whats-that-sky-122nd-fighter-wing-holds-night-flying-this-week/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 21alivenews.com">[www.21alivenews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">21alivenews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Kokomo-area lights of October 2024 show how quickly a modern Indiana sighting can become a national story. News and social media described yellowish-orange lights near Grissom Air Reserve Base, with some speculation about UFOs and some analysts suggesting military flares.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/25/us-news/flock-of-ufos-caught-on-camera-near-us-airbase-in-indiana-spooking-neighbors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Indiana Air National Guard’s 122nd Fighter Wing later stated in public-facing posts that F-16s were conducting night flight training near Kokomo on 7 October 2024, including flare activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/122ndFighterWing/posts/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074646663059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">ufos in indiana recently the new york post dailymail and international outlets</span><span class="citation-popover-snippet">ufos in indiana recently the new york post dailymail and international outlets</span></span></span> Separately, local Fort Wayne reporting quoted the wing commander explaining that night training often produces UFO reports because afterburners, aircraft noise, and unusual night operations stand out more after dark. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.21alivenews.com/2024/12/10/whats-that-sky-122nd-fighter-wing-holds-night-flying-this-week/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 21alivenews.com">[www.21alivenews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">21alivenews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That episode is a useful warning against over-reading video. Bright lights in formation, seen at night and filmed without range, altitude, or flight data, can look extraordinary while still being consistent with military training. Indiana has relevant aviation infrastructure, including Grissom Air Reserve Base and the 122nd Fighter Wing at Fort Wayne, so military aircraft, tankers, fighters, flares, and training patterns should be among the first explanations checked when sightings cluster near those corridors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afrc.af.mil/Grissom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrc.af.mil">[Air Force Reserve Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrc.af.mil</span><span class="citation-popover-title">Air Force Reserve Command Grissom ARB</span><span class="citation-popover-snippet">Air Force Reserve Command Grissom ARB</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/16NewsNow/posts/icymi-a-ufo-was-spotted-driving-on-i-465-the-highway-that-circles-just-outside-i/752611780338782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2122nd Fighter Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That episode is a useful warning against over-reading video. Bright lights in formation, seen at night and filmed without range, altitude, or flight data, can look extraordinary while still being consistent with military training. Indiana has relevant aviation infrastructure, including Grissom Air Reserve Base and the 122nd Fighter Wing at Fort Wayne, so military aircraft, tankers, fighters, flares, and training patterns should be among the first explanations checked when sightings cluster near those corridors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afrc.af.mil/Grissom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrc.af.mil">[Air Force Reserve Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrc.af.mil</span><span class="citation-popover-title">Air Force Reserve Command Grissom ARB</span><span class="citation-popover-snippet">Air Force Reserve Command Grissom ARB</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/16NewsNow/posts/icymi-a-ufo-was-spotted-driving-on-i-465-the-highway-that-circles-just-outside-i/752611780338782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2122nd Fighter Wing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JeXR4F-m_bc" title="Alleged &#x27;drone&#x27; sightings confounding officials, residents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JeXR4F-m_bc" target="_blank" rel="noopener noreferrer">Alleged &#x27;drone&#x27; sightings confounding officials, residents</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 98.5K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JeXR4F-m_bc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JeXR4F-m_bc">Open on YouTube</a></p></div></div></div>
 
@@ -556,194 +556,194 @@ The evidence does not support a confident claim that Indiana has hosted alien cr
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes Indiana’s UFO History Unique and Noteworthy?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes Indiana’s UFO History Unique and Noteworthy?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding varied state-level sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding varied state-level sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for Blue Book-era reports relevant to Indiana history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Blue Book-era reports relevant to Indiana history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers credible cases, official records and modern UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers credible cases, official records and modern UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores patterns across many regional UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores patterns across many regional UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-indiana-s-ufo-history-unique-and-noteworthy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -759,7 +759,7 @@ The evidence does not support a confident claim that Indiana has hosted alien cr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -779,7 +779,7 @@ The evidence does not support a confident claim that Indiana has hosted alien cr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -811,7 +811,7 @@ The evidence does not support a confident claim that Indiana has hosted alien cr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -863,7 +863,7 @@ The evidence does not support a confident claim that Indiana has hosted alien cr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -908,7 +908,7 @@ The evidence does not support a confident claim that Indiana has hosted alien cr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -949,322 +949,322 @@ The evidence does not support a confident claim that Indiana has hosted alien cr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newspapers.com  
    Title: the star press connersville ufo  
-   Link: <a href="https://www.newspapers.com/article/the-star-press-connersville-ufo/83820668/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-star-press-connersville-ufo/83820668/</a>  
+   Link:<a href="https://www.newspapers.com/article/the-star-press-connersville-ufo/83820668/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-star-press-connersville-ufo/83820668/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/corydon.htm</a>  
+   Link:<a href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/corydon.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIN</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIN</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: ufos in indiana recently the new york post dailymail and international outlets  
-   Link: <a href="https://www.facebook.com/122ndFighterWing/posts/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074646663059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/122ndFighterWing/posts/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074646663059/</a>  
+   Link:<a href="https://www.facebook.com/122ndFighterWing/posts/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074646663059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/122ndFighterWing/posts/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074646663059/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: 21alivenews.com  
-   Link: <a href="https://www.21alivenews.com/2024/12/10/whats-that-sky-122nd-fighter-wing-holds-night-flying-this-week/" target="_blank" rel="noopener noreferrer nofollow">https://www.21alivenews.com/2024/12/10/whats-that-sky-122nd-fighter-wing-holds-night-flying-this-week/</a>  
+   Link:<a href="https://www.21alivenews.com/2024/12/10/whats-that-sky-122nd-fighter-wing-holds-night-flying-this-week/" target="_blank" rel="noopener noreferrer nofollow">https://www.21alivenews.com/2024/12/10/whats-that-sky-122nd-fighter-wing-holds-night-flying-this-week/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307905583490134/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307905583490134/</a>  
+   Link:<a href="https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307905583490134/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307905583490134/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/</a>  
+   Link:<a href="https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: in october 1973 muncie was struck by a bizarre string of ufo sightings this ufo  
-   Link: <a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/</a>  
+   Link:<a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/</a>  
    Published: october 1973  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: in october 1973 muncie was struck by a bizarre string of ufo sightings resident  
-   Link: <a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/</a>  
+   Link:<a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/</a>  
    Published: october 1973  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FoxWeather/posts/-mysterious-find-indianapolis-residents-came-upon-a-rather-sizable-spherical-obj/749455560928074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/-mysterious-find-indianapolis-residents-came-upon-a-rather-sizable-spherical-obj/749455560928074/</a>  
+   Link:<a href="https://www.facebook.com/FoxWeather/posts/-mysterious-find-indianapolis-residents-came-upon-a-rather-sizable-spherical-obj/749455560928074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/-mysterious-find-indianapolis-residents-came-upon-a-rather-sizable-spherical-obj/749455560928074/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/indianaonly/posts/this-was-one-of-the-most-notorious-ufo-sightings-in-indiana/658410236954663/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indianaonly/posts/this-was-one-of-the-most-notorious-ufo-sightings-in-indiana/658410236954663/</a>  
+   Link:<a href="https://www.facebook.com/indianaonly/posts/this-was-one-of-the-most-notorious-ufo-sightings-in-indiana/658410236954663/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indianaonly/posts/this-was-one-of-the-most-notorious-ufo-sightings-in-indiana/658410236954663/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10160194771056696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160194771056696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10160194771056696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10160194771056696/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/</a>  
+   Link:<a href="https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/256674167695964/posts/4507455382617800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/256674167695964/posts/4507455382617800/</a>  
+   Link:<a href="https://www.facebook.com/groups/256674167695964/posts/4507455382617800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/256674167695964/posts/4507455382617800/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: part 2 of 7 in 1973 the skies over muncie indiana lit up with mysterious lights  
-   Link: <a href="https://www.facebook.com/journeyindianatv/posts/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1477203474072546/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1477203474072546/</a>  
+   Link:<a href="https://www.facebook.com/journeyindianatv/posts/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1477203474072546/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1477203474072546/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/679528593379841/posts/1148778973121465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/679528593379841/posts/1148778973121465/</a>  
+   Link:<a href="https://www.facebook.com/groups/679528593379841/posts/1148778973121465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/679528593379841/posts/1148778973121465/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/</a>  
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: "It was just there. It was a blinding orange light  
-   Link: <a href="https://www.facebook.com/sheffieldstar/posts/it-was-just-there-it-was-a-blinding-orange-light-it-didnt-move/10156356335643414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sheffieldstar/posts/it-was-just-there-it-was-a-blinding-orange-light-it-didnt-move/10156356335643414/</a>  
+   Link:<a href="https://www.facebook.com/sheffieldstar/posts/it-was-just-there-it-was-a-blinding-orange-light-it-didnt-move/10156356335643414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sheffieldstar/posts/it-was-just-there-it-was-a-blinding-orange-light-it-didnt-move/10156356335643414/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/</a>  
+   Link:<a href="https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WKRCTV/posts/mysterious-spaceship-like-dome-object-found-on-indiana-street/1151402313700649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRCTV/posts/mysterious-spaceship-like-dome-object-found-on-indiana-street/1151402313700649/</a>  
+   Link:<a href="https://www.facebook.com/WKRCTV/posts/mysterious-spaceship-like-dome-object-found-on-indiana-street/1151402313700649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRCTV/posts/mysterious-spaceship-like-dome-object-found-on-indiana-street/1151402313700649/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/</a>  
+   Link:<a href="https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/</a>  
+   Link:<a href="https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
+   Link:<a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/279988105725348/posts/2692042397853228/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/279988105725348/posts/2692042397853228/</a>  
+   Link:<a href="https://www.facebook.com/groups/279988105725348/posts/2692042397853228/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/279988105725348/posts/2692042397853228/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/43941612171/posts/10159220451677172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10159220451677172/</a>  
+   Link:<a href="https://www.facebook.com/groups/43941612171/posts/10159220451677172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10159220451677172/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: in 1996 dr jonathan reed claimed he stumbled upon something otherworldly near hi  
-   Link: <a href="https://www.facebook.com/Knowledgeispower2727/posts/in-1996-dr-jonathan-reed-claimed-he-stumbled-upon-something-otherworldly-near-hi/1348195357312904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Knowledgeispower2727/posts/in-1996-dr-jonathan-reed-claimed-he-stumbled-upon-something-otherworldly-near-hi/1348195357312904/</a>  
+   Link:<a href="https://www.facebook.com/Knowledgeispower2727/posts/in-1996-dr-jonathan-reed-claimed-he-stumbled-upon-something-otherworldly-near-hi/1348195357312904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Knowledgeispower2727/posts/in-1996-dr-jonathan-reed-claimed-he-stumbled-upon-something-otherworldly-near-hi/1348195357312904/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: just as you thought the ufo sighting in 1959 was creepy listen to this ufo sight  
-   Link: <a href="https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/</a>  
+   Link:<a href="https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/</a>  
+   Link:<a href="https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/122ndFighterWing/photos/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074619996395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/122ndFighterWing/photos/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074619996395/</a>  
+   Link:<a href="https://www.facebook.com/122ndFighterWing/photos/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074619996395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/122ndFighterWing/photos/-ufos-in-indiana-recently-the-new-york-post-dailymail-and-international-outlets-/955074619996395/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hindustantimes/posts/itsviral-a-viral-video-captured-a-fleet-of-mysterious-glowing-objects-speculated/967973598701328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hindustantimes/posts/itsviral-a-viral-video-captured-a-fleet-of-mysterious-glowing-objects-speculated/967973598701328/</a>  
+   Link:<a href="https://www.facebook.com/hindustantimes/posts/itsviral-a-viral-video-captured-a-fleet-of-mysterious-glowing-objects-speculated/967973598701328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hindustantimes/posts/itsviral-a-viral-video-captured-a-fleet-of-mysterious-glowing-objects-speculated/967973598701328/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/796133120589292/posts/2920994351436481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/796133120589292/posts/2920994351436481/</a>  
+   Link:<a href="https://www.facebook.com/groups/796133120589292/posts/2920994351436481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/796133120589292/posts/2920994351436481/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/16NewsNow/posts/icymi-a-ufo-was-spotted-driving-on-i-465-the-highway-that-circles-just-outside-i/752611780338782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/16NewsNow/posts/icymi-a-ufo-was-spotted-driving-on-i-465-the-highway-that-circles-just-outside-i/752611780338782/</a>  
+   Link:<a href="https://www.facebook.com/16NewsNow/posts/icymi-a-ufo-was-spotted-driving-on-i-465-the-highway-that-circles-just-outside-i/752611780338782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/16NewsNow/posts/icymi-a-ufo-was-spotted-driving-on-i-465-the-highway-that-circles-just-outside-i/752611780338782/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
    Title: in october 1973 muncie was struck by a bizarre string of ufo sightings resident  
-   Link: <a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1399690231823871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1399690231823871/</a>  
+   Link:<a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1399690231823871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1399690231823871/</a>  
    Published: october 1973  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
    Title: over the years many people have had weird unexplained experiences around indiana  
-   Link: <a href="https://www.facebook.com/GhoulyTV/posts/over-the-years-many-people-have-had-weird-unexplained-experiences-around-indiana/1820425171346313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GhoulyTV/posts/over-the-years-many-people-have-had-weird-unexplained-experiences-around-indiana/1820425171346313/</a>  
+   Link:<a href="https://www.facebook.com/GhoulyTV/posts/over-the-years-many-people-have-had-weird-unexplained-experiences-around-indiana/1820425171346313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GhoulyTV/posts/over-the-years-many-people-have-had-weird-unexplained-experiences-around-indiana/1820425171346313/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Sign report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Sign_report.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: archive.org  
    Title: Project SIGN  
-   Link: <a href="https://archive.org/details/ProjectSIGN" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectSIGN</a>  
+   Link:<a href="https://archive.org/details/ProjectSIGN" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectSIGN</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/find-a-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/find-a-chapter/</a>  
+   Link:<a href="https://mufon.com/find-a-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/find-a-chapter/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: newspapers.com  
    Title: evansville courier and press ufo in conn  
-   Link: <a href="https://www.newspapers.com/article/evansville-courier-and-press-ufo-in-conn/86843193/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/evansville-courier-and-press-ufo-in-conn/86843193/</a>  
+   Link:<a href="https://www.newspapers.com/article/evansville-courier-and-press-ufo-in-conn/86843193/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/evansville-courier-and-press-ufo-in-conn/86843193/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: military.com  
-   Link: <a href="https://www.military.com/base-guide/grissom-air-reserve-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/grissom-air-reserve-base</a>  
+   Link:<a href="https://www.military.com/base-guide/grissom-air-reserve-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/grissom-air-reserve-base</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku48.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku48.htm</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: ipm.org  
    Title: close encounters of the muncie kind the muncie ufo mania of 1973  
-   Link: <a href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow">https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973</a>  
+   Link:<a href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow">https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: townepost.com  
    Title: Towne Post Network It Came From Outer Space (to Indiana)!  
-   Link: <a href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/</a>  
+   Link:<a href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: ufologie.patrickgross.org  
    Title: 1973 10 usa connersville  
-   Link: <a href="https://ufologie.patrickgross.org/ce3/1973-10-usa-connersville.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1973-10-usa-connersville.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/ce3/1973-10-usa-connersville.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1973-10-usa-connersville.htm</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/10/25/us-news/flock-of-ufos-caught-on-camera-near-us-airbase-in-indiana-spooking-neighbors/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/25/us-news/flock-of-ufos-caught-on-camera-near-us-airbase-in-indiana-spooking-neighbors/</a>  
+   Link:<a href="https://nypost.com/2024/10/25/us-news/flock-of-ufos-caught-on-camera-near-us-airbase-in-indiana-spooking-neighbors/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/25/us-news/flock-of-ufos-caught-on-camera-near-us-airbase-in-indiana-spooking-neighbors/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: afrc.af.mil  
    Title: Air Force Reserve Command Grissom ARB  
-   Link: <a href="https://www.afrc.af.mil/Grissom/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrc.af.mil/Grissom/</a>  
+   Link:<a href="https://www.afrc.af.mil/Grissom/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrc.af.mil/Grissom/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: Wikipedia  
    Title: Grissom Air Reserve Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Grissom_Air_Reserve_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Grissom_Air_Reserve_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Grissom_Air_Reserve_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Grissom_Air_Reserve_Base</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: familysearch.org  
-   Link: <a href="https://www.familysearch.org/en/memories/memory/195680816" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/memories/memory/195680816</a>  
+   Link:<a href="https://www.familysearch.org/en/memories/memory/195680816" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/memories/memory/195680816</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: x.com  
-   Link: <a href="https://x.com/mrjeffknox/status/1976802467514818944" target="_blank" rel="noopener noreferrer nofollow">https://x.com/mrjeffknox/status/1976802467514818944</a>  
+   Link:<a href="https://x.com/mrjeffknox/status/1976802467514818944" target="_blank" rel="noopener noreferrer nofollow">https://x.com/mrjeffknox/status/1976802467514818944</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 ### Additional References
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: oldcc.gov  
-   Link: <a href="https://oldcc.gov/sites/default/files/2024-12/Grissom%20Air%20Reserve%20Base.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oldcc.gov/sites/default/files/2024-12/Grissom%20Air%20Reserve%20Base.pdf</a>  
+   Link:<a href="https://oldcc.gov/sites/default/files/2024-12/Grissom%20Air%20Reserve%20Base.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oldcc.gov/sites/default/files/2024-12/Grissom%20Air%20Reserve%20Base.pdf</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: youtube.com  
    Title: Indiana congressman calls for answers after Pentagon's UFO report  
-   Link: <a href="https://www.youtube.com/watch?v=3lTd3urbi3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3lTd3urbi3o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Unidentified Flying Objects (UFOs) video release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3lTd3urbi3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3lTd3urbi3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Unidentified Flying Objects (UFOs) video release...</p></details>
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
    Title: Close Encounters of the Muncie Kind: The Muncie UFO Mania of '73  
-   Link: <a href="https://www.youtube.com/watch?v=ZR-o3Kxs9hI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZR-o3Kxs9hI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZR-o3Kxs9hI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZR-o3Kxs9hI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indiana congressman calls for answers after Pentagon&#x27;s UFO report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indiana congressman calls for answers after Pentagon&#x27;s UFO report...</p></details>
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374841207_History_of_434th_Air_Refueling_Wing_And_Grissom_Air_Reserve_Base" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374841207_History_of_434th_Air_Refueling_Wing_And_Grissom_Air_Reserve_Base</a>  
+   Link:<a href="https://www.researchgate.net/publication/374841207_History_of_434th_Air_Refueling_Wing_And_Grissom_Air_Reserve_Base" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374841207_History_of_434th_Air_Refueling_Wing_And_Grissom_Air_Reserve_Base</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/unit/122FW" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/122FW</a>  
+   Link:<a href="https://www.dvidshub.net/unit/122FW" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/122FW</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/987274/122nd-fighter-wing-proves-jets-combat-coded" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/987274/122nd-fighter-wing-proves-jets-combat-coded</a>  
+   Link:<a href="https://www.dvidshub.net/video/987274/122nd-fighter-wing-proves-jets-combat-coded" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/987274/122nd-fighter-wing-proves-jets-combat-coded</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: indianapolismonthly.com  
-   Link: <a href="https://www.indianapolismonthly.com/tag/brownsburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.indianapolismonthly.com/tag/brownsburg/</a>  
+   Link:<a href="https://www.indianapolismonthly.com/tag/brownsburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.indianapolismonthly.com/tag/brownsburg/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: uapsightings.org  
-   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>
+   Link:<a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>

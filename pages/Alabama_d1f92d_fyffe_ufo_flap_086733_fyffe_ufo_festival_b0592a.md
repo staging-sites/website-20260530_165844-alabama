@@ -250,24 +250,24 @@ image: /assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0
 
 ## Introduction
 
-In the small DeKalb County town of Fyffe, Alabama, an event that might once have faded into local legend has become a defining element of community identity and tourism. Following a cluster of UFO reports in February 1989 — when more than 50 residents, including law‑enforcement officials, said they saw unexplained aerial phenomena — the town found a way to turn curiosity and controversy into celebration and civic pride. Today, **Fyffe UFO Days Festival** is an annual August highlight that draws thousands of visitors, reshaping how Fyffe is perceived both inside and outside the state. This article explains how a local sky mystery was reframed from media oddity into a community asset, altering the town’s reputation from quiet rural settlement to “UFO capital” with a lively festival tradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
+In the small DeKalb County town of Fyffe, Alabama, an event that might once have faded into local legend has become a defining element of community identity and tourism. Following a cluster of UFO reports in February 1989 — when more than 50 residents, including law‑enforcement officials, said they saw unexplained aerial phenomena — the town found a way to turn curiosity and controversy into celebration and civic pride. Today, **Fyffe UFO Days Festival** is an annual August highlight that draws thousands of visitors, reshaping how Fyffe is perceived both inside and outside the state. This article explains how a local sky mystery was reframed from media oddity into a community asset, altering the town’s reputation from quiet rural settlement to “UFO capital” with a lively festival tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a-Illustration-1-dark.svg" | relative_url }}" alt="UFO Festival illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the town embraced the UFO label
 
-In the wake of the 1989 sightings, which drew attention when locals and police alike reported silent lights or objects overhead, Fyffe received media coverage that was both intense and playful. Rather than resisting the “UFO” tag — a label that can easily bring ridicule — community leaders chose to embrace it. The sightings had already encouraged curious visitors to descend on the tiny town, and civic figures recognised early that this notoriety could be an opportunity rather than an embarrassment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
+In the wake of the 1989 sightings, which drew attention when locals and police alike reported silent lights or objects overhead, Fyffe received media coverage that was both intense and playful. Rather than resisting the “UFO” tag — a label that can easily bring ridicule — community leaders chose to embrace it. The sightings had already encouraged curious visitors to descend on the tiny town, and civic figures recognised early that this notoriety could be an opportunity rather than an embarrassment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
 
-A pivotal moment came in the early 2000s when former mayor Larry Lingerfelt and other local volunteers formalised that embrace by establishing a festival. They reinterpreted “UFO” as **Unforgettable Family Outing**, giving the initials a family‑friendly spin that acknowledged the original sightings while signalling that fun and festivity were now foremost. This reframing enabled Fyffe to reclaim the narrative — from unexplained sky lights to a positive, engaging communal tradition that honoured the town’s unique place in Alabama’s UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
+A pivotal moment came in the early 2000s when former mayor Larry Lingerfelt and other local volunteers formalised that embrace by establishing a festival. They reinterpreted “UFO” as **Unforgettable Family Outing**, giving the initials a family‑friendly spin that acknowledged the original sightings while signalling that fun and festivity were now foremost. This reframing enabled Fyffe to reclaim the narrative — from unexplained sky lights to a positive, engaging communal tradition that honoured the town’s unique place in Alabama’s UFO lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sRkjnGp9xN8" title="From The Archives: UFO Hunting in Fyffe Alabama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sRkjnGp9xN8" target="_blank" rel="noopener noreferrer">From The Archives: UFO Hunting in Fyffe Alabama</a></p><p class="youtube-embed-meta">Channel: WDEF News 12 &middot; Views: 6.3K &middot; Uploaded: August 2014 &middot; Length: 1 minute 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sRkjnGp9xN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sRkjnGp9xN8">Open on YouTube</a></p></div></div></div>
 
 ## From media ridicule to tourist attraction
 
-Once the festival began in 2004, it did more than celebrate an odd historical footnote; it steadily transformed Fyffe’s regional image. What was once an incidental location in UFO news reports became known for its annual event: arts and crafts, hot‑air balloon launches, live music, antique car and tractor shows, children’s rides, and vendor markets now define *UFO Days*. These offerings appeal to a broad audience, attracting families as much as UFO enthusiasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
+Once the festival began in 2004, it did more than celebrate an odd historical footnote; it steadily transformed Fyffe’s regional image. What was once an incidental location in UFO news reports became known for its annual event: arts and crafts, hot‑air balloon launches, live music, antique car and tractor shows, children’s rides, and vendor markets now define *UFO Days*. These offerings appeal to a broad audience, attracting families as much as UFO enthusiasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
 
-According to local officials, attendance at *UFO Days* typically numbers in the low thousands, a striking figure for a town with fewer than 1,000 permanent residents. At times, crowd estimates have approached 5,000 visitors, effectively multiplying the local population for a day and bringing renewed attention to Fyffe’s downtown shops and community organisations. This influx provides seasonal economic stimulus and positions the town on Alabama’s cultural map in a way that few other rural events do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
+According to local officials, attendance at *UFO Days* typically numbers in the low thousands, a striking figure for a town with fewer than 1,000 permanent residents. At times, crowd estimates have approached 5,000 visitors, effectively multiplying the local population for a day and bringing renewed attention to Fyffe’s downtown shops and community organisations. This influx provides seasonal economic stimulus and positions the town on Alabama’s cultural map in a way that few other rural events do.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
 
-Vendor testimony and civic commentary underscore the festival’s role beyond mere entertainment. Local artisans and small businesses use the event as a platform for exposure and networking, often generating sales and building customer relationships that ripple beyond the festival itself. Likewise, restaurateurs and regional food vendors see *UFO Days* as a key date in their summer calendars, reinforcing Fyffe’s status as a destination for arts, crafts and food as much as folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
+Vendor testimony and civic commentary underscore the festival’s role beyond mere entertainment. Local artisans and small businesses use the event as a platform for exposure and networking, often generating sales and building customer relationships that ripple beyond the festival itself. Likewise, restaurateurs and regional food vendors see *UFO Days* as a key date in their summer calendars, reinforcing Fyffe’s status as a destination for arts, crafts and food as much as folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WW3-NSOzMeg" title="UFO fans descend on Alabama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WW3-NSOzMeg" target="_blank" rel="noopener noreferrer">UFO fans descend on Alabama</a></p><p class="youtube-embed-meta">Channel: WAAY 31 News &middot; Views: 250 &middot; Uploaded: August 2024 &middot; Length: 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WW3-NSOzMeg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WW3-NSOzMeg">Open on YouTube</a></p></div></div></div>
 
@@ -276,203 +276,203 @@ Vendor testimony and civic commentary underscore the festival’s role beyond me
 <img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a-Illustration-2-dark.svg" | relative_url }}" alt="UFO Festival illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How *UFO Day* keeps the story alive
 
-More than a festival, *UFO Days* functions as a living memory of the town’s 1989 aerial reports. Elements of alien iconography, souvenir merchandise and themed apparel nod to that original moment, while community members and visitors alike mingle under the banner of a shared, if unexplained, piece of local history. As one festival participant noted, creative costumes and playful merchandise help keep the narrative alive without requiring literal belief in extraterrestrial visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
+More than a festival, *UFO Days* functions as a living memory of the town’s 1989 aerial reports. Elements of alien iconography, souvenir merchandise and themed apparel nod to that original moment, while community members and visitors alike mingle under the banner of a shared, if unexplained, piece of local history. As one festival participant noted, creative costumes and playful merchandise help keep the narrative alive without requiring literal belief in extraterrestrial visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
 
-Mayor Paul Cagle and other officials highlight the festival’s broader communal benefits: it provides a space for residents to connect, attracts tourism to DeKalb County, and fosters a sense of identity distinct from surrounding towns. The longevity of *UFO Days* — with two decades or more of annual gatherings — suggests that the event has become woven into the social calendar and civic story of Fyffe, rather than being a passing curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
+Mayor Paul Cagle and other officials highlight the festival’s broader communal benefits: it provides a space for residents to connect, attracts tourism to DeKalb County, and fosters a sense of identity distinct from surrounding towns. The longevity of *UFO Days* — with two decades or more of annual gatherings — suggests that the event has become woven into the social calendar and civic story of Fyffe, rather than being a passing curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
 
-In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplained night in 1989: it reshaped how the town sees itself and how others see it, transforming local folklore into a community brand that supports economic activity, cultural expression, and collective pride. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
+In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplained night in 1989: it reshaped how the town sees itself and how others see it, transforming local folklore into a community brand that supports economic activity, cultural expression, and collective pride.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[https://www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DXwonrEbXqk" title="Alabama Urban Legends: The Fyffe UFO - Fyffe, Alabama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DXwonrEbXqk" target="_blank" rel="noopener noreferrer">Alabama Urban Legends: The Fyffe UFO - Fyffe, Alabama</a></p><p class="youtube-embed-meta">Channel: Joshua Dairen &middot; Views: 312 &middot; Uploaded: September 2022 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DXwonrEbXqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DXwonrEbXqk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a UFO scare became Fyffe&#x27;s biggest community festival. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a UFO scare became Fyffe&#x27;s biggest community festival. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects UFO reports with folklore and local legend formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports with folklore and local legend formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how unusual sightings can reshape a town&#x27;s identity and tourism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Shows how unusual sightings can reshape a town&#x27;s identity and tourism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides background on notable UFO cases that entered public culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on notable UFO cases that entered public culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO stories become part of communities and belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO stories become part of communities and belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens UFO T-Shirt Evolution Abducted Alien Quality Premium Cotton Tee"><img src="https://i.ebayimg.com/images/g/J6EAAOSw5QtcBSAo/s-l225.jpg" alt="Listing image for Mens UFO T-Shirt Evolution Abducted Alien Quality Premium Cotton Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens UFO T-Shirt Evolution Abducted Alien Quality Premium Cotton Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens UFO T-Shirt Evolution Abducted Alien Quality Premium Cotton Tee"><img src="https://i.ebayimg.com/images/g/J6EAAOSw5QtcBSAo/s-l225.jpg" alt="Listing image for Mens UFO T-Shirt Evolution Abducted Alien Quality Premium Cotton Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens UFO T-Shirt Evolution Abducted Alien Quality Premium Cotton Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Head T-Shirt | Retro 90s Sci-Fi UFO Pocket Print | Sustainable Gift"><img src="https://i.ebayimg.com/images/g/6MIAAeSwyX9pefUs/s-l225.jpg" alt="Listing image for Green Alien Head T-Shirt | Retro 90s Sci-Fi UFO Pocket Print | Sustainable Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Green Alien Head T-Shirt | Retro 90s Sci-Fi UFO Pocket Print | Sustainable Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Head T-Shirt | Retro 90s Sci-Fi UFO Pocket Print | Sustainable Gift"><img src="https://i.ebayimg.com/images/g/6MIAAeSwyX9pefUs/s-l225.jpg" alt="Listing image for Green Alien Head T-Shirt | Retro 90s Sci-Fi UFO Pocket Print | Sustainable Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Green Alien Head T-Shirt | Retro 90s Sci-Fi UFO Pocket Print | Sustainable Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Size 16-18 Black Funny Alien Cartoon T-Shirt New XL Space Planet UFO ET Novelty"><img src="https://i.ebayimg.com/images/g/GXoAAOSwyjFjNuYA/s-l225.jpg" alt="Listing image for Size 16-18 Black Funny Alien Cartoon T-Shirt New XL Space Planet UFO ET Novelty" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Size 16-18 Black Funny Alien Cartoon T-Shirt New XL Space Planet UFO ET Novelty</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Size 16-18 Black Funny Alien Cartoon T-Shirt New XL Space Planet UFO ET Novelty"><img src="https://i.ebayimg.com/images/g/GXoAAOSwyjFjNuYA/s-l225.jpg" alt="Listing image for Size 16-18 Black Funny Alien Cartoon T-Shirt New XL Space Planet UFO ET Novelty" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Size 16-18 Black Funny Alien Cartoon T-Shirt New XL Space Planet UFO ET Novelty</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2000trees Festival 2023 UFO Graphic T-Shirt 314"><img src="https://i.ebayimg.com/images/g/1lQAAeSw2CpqFELk/s-l225.jpg" alt="Listing image for 2000trees Festival 2023 UFO Graphic T-Shirt 314" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">2000trees Festival 2023 UFO Graphic T-Shirt 314</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2000trees Festival 2023 UFO Graphic T-Shirt 314"><img src="https://i.ebayimg.com/images/g/1lQAAeSw2CpqFELk/s-l225.jpg" alt="Listing image for 2000trees Festival 2023 UFO Graphic T-Shirt 314" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">2000trees Festival 2023 UFO Graphic T-Shirt 314</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-a-ufo-scare-became-fyffe-s-biggest-community-festival-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -488,7 +488,7 @@ In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -508,7 +508,7 @@ In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -540,7 +540,7 @@ In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -592,7 +592,7 @@ In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -637,7 +637,7 @@ In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -678,107 +678,107 @@ In this way, *Fyffe’s UFO festival* has done more than commemorate an unexplai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: waff.com  
-   Link: <a href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.waff.comFyffe](https://www.waff.comFyffe) Town Park hosts 20th Annual UFO Day FestivalAugust 23, 2025...</p></details>
+   Link:<a href="https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/2025/08/23/fyffe-town-park-hosts-20th-annual-ufo-day-festival/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.waff.comFyffe](https://www.waff.comFyffe) Town Park hosts 20th Annual UFO Day FestivalAugust 23, 2025...</p></details>
    Published: August 23, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: waff.com  
    Title: Fyffe prepares for UFO Days Festival  
-   Link: <a href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2018. (...</p></details>
+   Link:<a href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2018. (...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: waff.com  
    Title: UF O 'sightings' in Fyffe  
-   Link: <a href="https://www.waff.com/story/6981912/ufo-sightings-in-fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/story/6981912/ufo-sightings-in-fyffe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2007 at 7:57 AM CDT|Updated: Aug. 25, 2007 at 1:49 PM CDT The heat is not stopping spectators from enjoying all outdoor activities. T...</p></details>
+   Link:<a href="https://www.waff.com/story/6981912/ufo-sightings-in-fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/story/6981912/ufo-sightings-in-fyffe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2007 at 7:57 AM CDT|Updated: Aug. 25, 2007 at 1:49 PM CDT The heat is not stopping spectators from enjoying all outdoor activities. T...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Fyffe celebrates annual UFO Festival  
-   Link: <a href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BLiLJCXuJ4I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Public Radio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BLiLJCXuJ4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Public Radio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: apr.org  
-   Link: <a href="https://www.apr.org/news/2019-08-22/alabama-festival-celebrates-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2019-08-22/alabama-festival-celebrates-ufo-sightings</a>  
+   Link:<a href="https://www.apr.org/news/2019-08-22/alabama-festival-celebrates-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2019-08-22/alabama-festival-celebrates-ufo-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: apr.org  
-   Link: <a href="https://www.apr.org/news/2023-08-21/annual-festival-in-fyffe-commemorates-the-towns-otherworldly-history-thousands-to-attend" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2023-08-21/annual-festival-in-fyffe-commemorates-the-towns-otherworldly-history-thousands-to-attend</a>  
+   Link:<a href="https://www.apr.org/news/2023-08-21/annual-festival-in-fyffe-commemorates-the-towns-otherworldly-history-thousands-to-attend" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2023-08-21/annual-festival-in-fyffe-commemorates-the-towns-otherworldly-history-thousands-to-attend</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apr.org  
-   Link: <a href="https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Public RadioSmall town flair: Fyffe celebrates otherworldly history with premier summer festival | Alabama Public RadioSeptember...</p></details>
+   Link:<a href="https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Public RadioSmall town flair: Fyffe celebrates otherworldly history with premier summer festival | Alabama Public RadioSeptember...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: encyclopediaofalabama.org  
-   Link: <a href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/fyffe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is noted for alleged mass UFO sightings by many town residents in 1989. The event is now celebrated with an an...</p></details>
+   Link:<a href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/fyffe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is noted for alleged mass UFO sightings by many town residents in 1989. The event is now celebrated with an an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: apr.org  
    Title: Since that time,  
-   Link: <a href="https://www.apr.org/tags/fyffe-ufo-days" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/tags/fyffe-ufo-days</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fyffe UFO Days | Alabama Public RadioFYFFE UFO DAYS * News APR encore presentation: Fyffe UFO Days celebrates otherworldly history Joshua...</p></details>
+   Link:<a href="https://www.apr.org/tags/fyffe-ufo-days" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/tags/fyffe-ufo-days</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fyffe UFO Days | Alabama Public RadioFYFFE UFO DAYS * News APR encore presentation: Fyffe UFO Days celebrates otherworldly history Joshua...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apr.org  
-   Link: <a href="https://www.apr.org/news/2024-08-22/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival?_amp=true" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2024-08-22/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival?_amp=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>APR encore presentation: Fyffe UFO Days celebrates otherworldly history | Alabama Public RadioAugust 22, 2024 — APR ENCORE PRESENTATION...</p></details>
+   Link:<a href="https://www.apr.org/news/2024-08-22/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival?_amp=true" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2024-08-22/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival?_amp=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APR encore presentation: Fyffe UFO Days celebrates otherworldly history | Alabama Public RadioAugust 22, 2024 — APR ENCORE PRESENTATION...</p></details>
    Published: August 22, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: apr.org  
    Title: UF O in Fyffe | Alabama Public Radio  
-   Link: <a href="https://www.apr.org/2005-08-19/ufo-in-fyffe" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/2005-08-19/ufo-in-fyffe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Fyffe | Alabama Public RadioAugust 19, 2005 — UFO IN FYFFE Alabama Public Radio Published August 19, 2005 at 6:11 PM CDT * * * * B...</p></details>
+   Link:<a href="https://www.apr.org/2005-08-19/ufo-in-fyffe" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/2005-08-19/ufo-in-fyffe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Fyffe | Alabama Public RadioAugust 19, 2005 — UFO IN FYFFE Alabama Public Radio Published August 19, 2005 at 6:11 PM CDT * * * * B...</p></details>
    Published: August 19, 2005  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fyffecitylimits.com  
    Title: In order to provide a diversit  
-   Link: <a href="https://www.fyffecitylimits.com/ufo-days" target="_blank" rel="noopener noreferrer nofollow">https://www.fyffecitylimits.com/ufo-days</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Days Festival — Town of FyffeFYFFE UFO DAYS FESTIVAL 2025 UFO Days Facebook Saturday, August 22, 2026 Fyffe Town Park in the heart of...</p></details>
+   Link:<a href="https://www.fyffecitylimits.com/ufo-days" target="_blank" rel="noopener noreferrer nofollow">https://www.fyffecitylimits.com/ufo-days</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Days Festival — Town of FyffeFYFFE UFO DAYS FESTIVAL 2025 UFO Days Facebook Saturday, August 22, 2026 Fyffe Town Park in the heart of...</p></details>
    Published: August 22, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: onlyinyourstate.com  
-   Link: <a href="https://www.onlyinyourstate.com//state-pride/alabama/ufo-sighting-al" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com//state-pride/alabama/ufo-sighting-al</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings In Fyffe, AlabamaOctober 2, 2023 — UFOS WERE SIGHTED IN ALABAMA OVER 30 YEARS AGO AND IT’S ONE OF THE MOST CREDIBLE UFO SIG...</p></details>
+   Link:<a href="https://www.onlyinyourstate.com//state-pride/alabama/ufo-sighting-al" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com//state-pride/alabama/ufo-sighting-al</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings In Fyffe, AlabamaOctober 2, 2023 — UFOS WERE SIGHTED IN ALABAMA OVER 30 YEARS AGO AND IT’S ONE OF THE MOST CREDIBLE UFO SIG...</p></details>
    Published: October 2, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: visitlookoutmountain.com  
    Title: Fyffe UFO Day  
-   Link: <a href="https://visitlookoutmountain.com/events/fyffe-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://visitlookoutmountain.com/events/fyffe-ufo-day/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This annual event in Fyffe, Alabama, honors the town’s famous 1989 UFO sighting with a full day of food, musi...</p></details>
+   Link:<a href="https://visitlookoutmountain.com/events/fyffe-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://visitlookoutmountain.com/events/fyffe-ufo-day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This annual event in Fyffe, Alabama, honors the town’s famous 1989 UFO sighting with a full day of food, musi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Fyffe UFO Sightings ft Family Fun Day  
-   Link: <a href="https://www.youtube.com/watch?v=ucuHzNqLyIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ucuHzNqLyIg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From The Archives: UFO Hunting in Fyffe Alabama...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ucuHzNqLyIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ucuHzNqLyIg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From The Archives: UFO Hunting in Fyffe Alabama...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Alabama Urban Legends: The Fyffe UFO  
-   Link: <a href="https://www.youtube.com/watch?v=DXwonrEbXqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DXwonrEbXqk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fyffe UFO Sightings ft Family Fun Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DXwonrEbXqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DXwonrEbXqk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fyffe UFO Sightings ft Family Fun Day...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO fans descend on Alabama  
-   Link: <a href="https://www.youtube.com/watch?v=WW3-NSOzMeg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WW3-NSOzMeg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Urban Legends: The Fyffe UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WW3-NSOzMeg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WW3-NSOzMeg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Urban Legends: The Fyffe UFO...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: From The Archives: UFO Hunting in Fyffe Alabama  
-   Link: <a href="https://www.youtube.com/watch?v=sRkjnGp9xN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sRkjnGp9xN8</a>
+   Link:<a href="https://www.youtube.com/watch?v=sRkjnGp9xN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sRkjnGp9xN8</a>

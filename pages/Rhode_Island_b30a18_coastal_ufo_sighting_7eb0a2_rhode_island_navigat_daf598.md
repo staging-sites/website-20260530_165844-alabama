@@ -257,7 +257,7 @@ This matters because some of the most puzzling Rhode Island sightings involve de
 
 ## What lights fill Narragansett Bay and nearby waters
 
-Rhode Island's shoreline is heavily marked for marine navigation. Narragansett Bay contains channels, passages, islands, lighthouses, buoys and other navigational aids designed to guide vessels day and night. NOAA's Coast Pilot notes that navigation in the bay is relatively easy because the area is extensively marked by such aids. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauticalcharts.noaa.gov">[Nautical Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauticalcharts.noaa.gov</span><span class="citation-popover-title">Nautical Charts Narragansett Bay</span><span class="citation-popover-snippet">Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</span><span class="citation-popover-meta">Published: May 24, 2026</span></span></span>
+Rhode Island's shoreline is heavily marked for marine navigation. Narragansett Bay contains channels, passages, islands, lighthouses, buoys and other navigational aids designed to guide vessels day and night. NOAA's Coast Pilot notes that navigation in the bay is relatively easy because the area is extensively marked by such aids.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauticalcharts.noaa.gov">[Nautical Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauticalcharts.noaa.gov</span><span class="citation-popover-title">Nautical Charts Narragansett Bay</span><span class="citation-popover-snippet">Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</span><span class="citation-popover-meta">Published: May 24, 2026</span></span></span>
 
 For a mariner, these lights provide useful information. For someone standing on a beach, headland or harbour road at night, they can create a surprisingly complex visual scene.
 
@@ -340,7 +340,7 @@ That confidence is important to understanding many Rhode Island reports. A since
 
 Older Rhode Island sighting reports mainly involved lighthouses, buoys and vessel traffic. More recent coastal observations have acquired another source of unusual lights: offshore wind developments.
 
-Federal visualisation studies for the Rhode Island and Massachusetts wind-energy areas specifically examined how turbine lighting appears at night from shore. Offshore turbines use aviation obstruction lighting that can produce lines or clusters of red flashing lights visible at considerable distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boem.gov">[Bureau of Ocean Energy Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boem.gov</span><span class="citation-popover-snippet">Bureau of Ocean Energy ManagementVisualization Study For The Massachusetts And Rhode...A project to develop daytime and nighttime photom...</span></span></span>
+Federal visualisation studies for the Rhode Island and Massachusetts wind-energy areas specifically examined how turbine lighting appears at night from shore. Offshore turbines use aviation obstruction lighting that can produce lines or clusters of red flashing lights visible at considerable distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boem.gov">[Bureau of Ocean Energy Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boem.gov</span><span class="citation-popover-snippet">Bureau of Ocean Energy ManagementVisualization Study For The Massachusetts And Rhode...A project to develop daytime and nighttime photom...</span></span></span>
 
 Observers unfamiliar with the layout of a wind farm may see:
 
@@ -349,9 +349,9 @@ Observers unfamiliar with the layout of a wind farm may see:
 * Lights that appear suspended above the horizon.
 * Apparent movement as atmospheric conditions change.
 
-The visual effect can be stronger at night than many people expect. Research on wind-farm lighting notes that such lights can remain visible over long distances and may dominate the nocturnal landscape under suitable atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.05981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Quantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</span><span class="citation-popover-meta">Published: October 4, 2023</span></span></span>
+The visual effect can be stronger at night than many people expect. Research on wind-farm lighting notes that such lights can remain visible over long distances and may dominate the nocturnal landscape under suitable atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.05981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Quantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</span><span class="citation-popover-meta">Published: October 4, 2023</span></span></span>
 
-As offshore projects such as Revolution Wind become part of the regional seascape, future Rhode Island UFO reports may increasingly involve lights that did not exist in earlier decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revolution-wind.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revolution-wind.com">[Revolution Wind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revolution-wind.com</span><span class="citation-popover-snippet">Revolution WindOffshore wind energy for Rhode Island and Connecticut &#124; ØrstedRevolution Wind is the first commercial-scale offshore wind...</span></span></span>
+As offshore projects such as Revolution Wind become part of the regional seascape, future Rhode Island UFO reports may increasingly involve lights that did not exist in earlier decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://revolution-wind.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revolution-wind.com">[Revolution Wind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revolution-wind.com</span><span class="citation-popover-snippet">Revolution WindOffshore wind energy for Rhode Island and Connecticut &#124; ØrstedRevolution Wind is the first commercial-scale offshore wind...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DimCQc64CyY" title="How to use Navigation Lights on a Boat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DimCQc64CyY" target="_blank" rel="noopener noreferrer">How to use Navigation Lights on a Boat</a></p><p class="youtube-embed-meta">Channel: Len&#x27;s Cove Lessons in Boating &middot; Views: 80.2K &middot; Uploaded: August 2022 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DimCQc64CyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DimCQc64CyY">Open on YouTube</a></p></div></div></div>
 
@@ -373,7 +373,7 @@ Once those details are known, several tools become available.
 
 ### Nautical charts
 
-Modern nautical charts show: <span class="citation-chip-wrap"><a class="citation-chip" href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauticalcharts.noaa.gov">[nauticalcharts.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauticalcharts.noaa.gov</span><span class="citation-popover-title">Nautical Charts Narragansett Bay</span><span class="citation-popover-snippet">Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</span><span class="citation-popover-meta">Published: May 24, 2026</span></span></span>
+Modern nautical charts show:<span class="citation-chip-wrap"><a class="citation-chip" href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauticalcharts.noaa.gov">[nauticalcharts.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauticalcharts.noaa.gov</span><span class="citation-popover-title">Nautical Charts Narragansett Bay</span><span class="citation-popover-snippet">Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</span><span class="citation-popover-meta">Published: May 24, 2026</span></span></span>
 
 * Lighthouses.
 
@@ -386,14 +386,14 @@ Modern nautical charts show: <span class="citation-chip-wrap"><a class="citation
 
 </div>
 
-A chart can reveal whether a supposedly mysterious light sits directly along a known navigation route or aligns with a recognised aid to navigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceangrafix.com">[OceanGrafix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceangrafix.com</span><span class="citation-popover-title">13221 Narragansett Bay</span><span class="citation-popover-snippet">NOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</span></span></span>
+A chart can reveal whether a supposedly mysterious light sits directly along a known navigation route or aligns with a recognised aid to navigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceangrafix.com">[OceanGrafix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceangrafix.com</span><span class="citation-popover-title">13221 Narragansett Bay</span><span class="citation-popover-snippet">NOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</span></span></span>
 
 <img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-dark.svg" | relative_url }}" alt="Harbour Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Vessel tracking
 
-Many commercial vessels broadcast Automatic Identification System (AIS) signals that record position, course and speed. AIS was developed so ships and coastal authorities could track marine traffic and avoid collisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.org/en/ourwork/safety/pages/ais.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.org">[International Maritime Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.org</span><span class="citation-popover-snippet">International Maritime OrganizationAIS transponders31 Dec 2004 — Automatic identification systems (AIS) transponders are designed to be c...</span></span></span>
+Many commercial vessels broadcast Automatic Identification System (AIS) signals that record position, course and speed. AIS was developed so ships and coastal authorities could track marine traffic and avoid collisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.org/en/ourwork/safety/pages/ais.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.org">[International Maritime Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.org</span><span class="citation-popover-snippet">International Maritime OrganizationAIS transponders31 Dec 2004 — Automatic identification systems (AIS) transponders are designed to be c...</span></span></span>
 
-Historical AIS data can sometimes show whether a fishing vessel, ferry, tanker or cargo ship occupied the exact location described by witnesses. Public tracking services have made this form of checking far easier than it was during earlier UFO flap periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marinetraffic.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marinetraffic.com">[MarineTraffic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marinetraffic.com</span><span class="citation-popover-snippet">Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than...</span></span></span>
+Historical AIS data can sometimes show whether a fishing vessel, ferry, tanker or cargo ship occupied the exact location described by witnesses. Public tracking services have made this form of checking far easier than it was during earlier UFO flap periods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marinetraffic.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marinetraffic.com">[MarineTraffic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marinetraffic.com</span><span class="citation-popover-snippet">Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than...</span></span></span>
 
 ### Comparing multiple viewpoints
 
@@ -414,269 +414,269 @@ In a state where so many sightings occur along the shoreline, the difference bet
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/07oilur-UmI" title="How to Safely Use Your Boat Navigation Lights | Discover Boating®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=07oilur-UmI" target="_blank" rel="noopener noreferrer">How to Safely Use Your Boat Navigation Lights | Discover Boating®</a></p><p class="youtube-embed-meta">Channel: Discover Boating &middot; Views: 54.4K &middot; Uploaded: June 2024 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=07oilur-UmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=07oilur-UmI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When harbour lights look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When harbour lights look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to analysing reports involving lights and uncertain distances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to analysing reports involving lights and uncertain distances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how ordinary observations become extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains how ordinary observations become extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Strong fit for evaluating misidentified lights and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Strong fit for evaluating misidentified lights and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Addresses perception limits and attention failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses perception limits and attention failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-when-harbour-lights-look-like-ufos-rhode-island-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -692,7 +692,7 @@ In a state where so many sightings occur along the shoreline, the difference bet
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -712,7 +712,7 @@ In a state where so many sightings occur along the shoreline, the difference bet
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -744,7 +744,7 @@ In a state where so many sightings occur along the shoreline, the difference bet
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -774,7 +774,7 @@ In a state where so many sightings occur along the shoreline, the difference bet
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -832,99 +832,99 @@ In a state where so many sightings occur along the shoreline, the difference bet
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nauticalcharts.noaa.gov  
    Title: Nautical Charts Narragansett Bay  
-   Link: <a href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</p></details>
+   Link:<a href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</p></details>
    Published: May 24, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2310.05981" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.05981</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2310.05981" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.05981</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</p></details>
    Published: October 4, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: revolution-wind.com  
-   Link: <a href="https://revolution-wind.com/" target="_blank" rel="noopener noreferrer nofollow">https://revolution-wind.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revolution WindOffshore wind energy for Rhode Island and Connecticut | ØrstedRevolution Wind is the first commercial-scale offshore wind...</p></details>
+   Link:<a href="https://revolution-wind.com/" target="_blank" rel="noopener noreferrer nofollow">https://revolution-wind.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revolution WindOffshore wind energy for Rhode Island and Connecticut | ØrstedRevolution Wind is the first commercial-scale offshore wind...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oceangrafix.com  
    Title: 13221 Narragansett Bay  
-   Link: <a href="https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay" target="_blank" rel="noopener noreferrer nofollow">https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</p></details>
+   Link:<a href="https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay" target="_blank" rel="noopener noreferrer nofollow">https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: marinetraffic.com  
-   Link: <a href="https://www.marinetraffic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.marinetraffic.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than...</p></details>
+   Link:<a href="https://www.marinetraffic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.marinetraffic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ais.com  
-   Link: <a href="https://www.ais.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ais.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIS helps you unify systems, automate processes, and unlock insights with tailored business applications...Read more...</p></details>
+   Link:<a href="https://www.ais.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ais.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIS helps you unify systems, automate processes, and unlock insights with tailored business applications...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: boem.gov  
-   Link: <a href="https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0" target="_blank" rel="noopener noreferrer nofollow">https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Ocean Energy ManagementVisualization Study For The Massachusetts And Rhode...A project to develop daytime and nighttime photom...</p></details>
+   Link:<a href="https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0" target="_blank" rel="noopener noreferrer nofollow">https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Ocean Energy ManagementVisualization Study For The Massachusetts And Rhode...A project to develop daytime and nighttime photom...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: imo.org  
-   Link: <a href="https://www.imo.org/en/ourwork/safety/pages/ais.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.org/en/ourwork/safety/pages/ais.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Maritime OrganizationAIS transponders31 Dec 2004 — Automatic identification systems (AIS) transponders are designed to be c...</p></details>
+   Link:<a href="https://www.imo.org/en/ourwork/safety/pages/ais.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.org/en/ourwork/safety/pages/ais.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Maritime OrganizationAIS transponders31 Dec 2004 — Automatic identification systems (AIS) transponders are designed to be c...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lloydslistintelligence.com  
-   Link: <a href="https://www.lloydslistintelligence.com/solutions/ais-seaorbis" target="_blank" rel="noopener noreferrer nofollow">https://www.lloydslistintelligence.com/solutions/ais-seaorbis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIS SeaOrbisNext-generation AIS vessel tracking with 100% fleet coverage, 98% near real-time positions, and multi-source intelligence for...</p></details>
+   Link:<a href="https://www.lloydslistintelligence.com/solutions/ais-seaorbis" target="_blank" rel="noopener noreferrer nofollow">https://www.lloydslistintelligence.com/solutions/ais-seaorbis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIS SeaOrbisNext-generation AIS vessel tracking with 100% fleet coverage, 98% near real-time positions, and multi-source intelligence for...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: betterbayalliance.org  
-   Link: <a href="https://betterbayalliance.org/education/aids-to-navigation/" target="_blank" rel="noopener noreferrer nofollow">https://betterbayalliance.org/education/aids-to-navigation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aids to NavigationTwo Types of Aids to Navigation: Buoys and Beacons; Both have various shapes, sounds and light characteristics. Buoys f...</p></details>
+   Link:<a href="https://betterbayalliance.org/education/aids-to-navigation/" target="_blank" rel="noopener noreferrer nofollow">https://betterbayalliance.org/education/aids-to-navigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aids to NavigationTwo Types of Aids to Navigation: Buoys and Beacons; Both have various shapes, sounds and light characteristics. Buoys f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_identification_system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic identification systemThe automatic identification system (AIS) is an automatic tracking system that uses transponders on shi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_identification_system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic identification systemThe automatic identification system (AIS) is an automatic tracking system that uses transponders on shi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aishub.net  
-   Link: <a href="https://www.aishub.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.aishub.net/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free AIS vessel tracking | AIS data exchange | JSON/XML ship...AISHub is a FREE AIS data sharing service which provides access to real t...</p></details>
+   Link:<a href="https://www.aishub.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.aishub.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free AIS vessel tracking | AIS data exchange | JSON/XML ship...AISHub is a FREE AIS data sharing service which provides access to real t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sailingissues.com  
-   Link: <a href="https://sailingissues.com/navcourse9.html" target="_blank" rel="noopener noreferrer nofollow">https://sailingissues.com/navcourse9.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights, buoys – aids to navigation RYA courses.Navigational aids, navaid s – also known as aids to navigation, AtoN s – are special struc...</p></details>
+   Link:<a href="https://sailingissues.com/navcourse9.html" target="_blank" rel="noopener noreferrer nofollow">https://sailingissues.com/navcourse9.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights, buoys – aids to navigation RYA courses.Navigational aids, navaid s – also known as aids to navigation, AtoN s – are special struc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: etsy.com  
-   Link: <a href="https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Narragansett Bay Nautical MapCheck out our narragansett bay nautical map selection for the very best in unique or custom, handmade pieces...</p></details>
+   Link:<a href="https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Narragansett Bay Nautical MapCheck out our narragansett bay nautical map selection for the very best in unique or custom, handmade pieces...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rinewstoday.com  
-   Link: <a href="https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/" target="_blank" rel="noopener noreferrer nofollow">https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nantucketers weren&#x27;t supposed to see Vineyard Wind&#x27;s...30 Dec 2023 — The company stated it agreed to install an ADLS “to reduce nighttim...</p></details>
+   Link:<a href="https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/" target="_blank" rel="noopener noreferrer nofollow">https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nantucketers weren&#x27;t supposed to see Vineyard Wind&#x27;s...30 Dec 2023 — The company stated it agreed to install an ADLS “to reduce nighttim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: latimes.com  
-   Link: <a href="https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Offshore wind farms rise along Rhode Island&#x27;s coast, even...27 Apr 2026 — Offshore wind turbines roughly three times the height of the S...</p></details>
+   Link:<a href="https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Offshore wind farms rise along Rhode Island&#x27;s coast, even...27 Apr 2026 — Offshore wind turbines roughly three times the height of the S...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: govinfo.gov  
    Title: GOVPUB I c5d22beb9d285e9cd207cb75e096b1da  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Lighting Schemes for Offshore Wind Facilities...Much of the literature appears to be based on direct lighting of the water...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Lighting Schemes for Offshore Wind Facilities...Much of the literature appears to be based on direct lighting of the water...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The closest of the turbines in this reel is 21 miles offshore. The near shore oceans...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The closest of the turbines in this reel is 21 miles offshore. The near shore oceans...</p></details>

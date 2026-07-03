@@ -76,9 +76,9 @@ heading_title: What Really Happened in Massachusetts Skies?
 page_heading_title: What Really Happened in Massachusetts Skies?
 source_count: 156
 infographic_count: 3
-page_website_name: Massachusetts UFOs
+page_website_name: Massachusetts
 page_banner_line: Balanced case histories, records, witnesses, and doubts from Massachusetts UFO lore.
-site_website_name: Massachusetts UFOs
+site_website_name: Massachusetts
 site_banner_line: Balanced case histories, records, witnesses, and doubts from Massachusetts UFO lore.
 site_image_description: A quiet Massachusetts coastal skyline at dusk with a small group of people looking up at several distant unexplained lights above...
 output_language: English
@@ -482,38 +482,38 @@ image: /assets/images/Massachusetts_d42990-overview-social.jpg
 Massachusetts matters because it shows how UFO history is built from very different kinds of material: colonial diaries, military files, photographs, local folklore, newspaper treatment, tourist markers, internet databases, and modern aviation-safety concerns. That mixture makes the state a useful test case for readers who want to separate a memorable story from a strong case.
 
 <img src="{{ "/assets/images/Massachusetts_d42990-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Massachusetts Skies?" loading="eager" decoding="sync" fetchpriority="high">
-The state’s UFO record starts unusually early. John Winthrop, governor of the Massachusetts Bay Colony, recorded a 1639 report in which James Everell and two companions saw a “great light” over the [Muddy River]({{ 'muddy-river/' | relative_url }}) near Boston. Modern retellings sometimes call this America’s first UFO sighting, but it is better read as a pre-modern strange-light report: the witnesses lacked modern aviation categories, the account was filtered through Winthrop’s journal, and later commentators have suggested natural explanations such as marsh light or optical effects rather than a craft. The Massachusetts Historical Society treats the Winthrop material as part of the colony’s rich documentary record, including early accounts that later readers have interpreted as UFO-like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masshist.org">[Massachusetts Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masshist.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The state’s UFO record starts unusually early. John Winthrop, governor of the Massachusetts Bay Colony, recorded a 1639 report in which James Everell and two companions saw a “great light” over the [Muddy River]({{ 'muddy-river/' | relative_url }}) near Boston. Modern retellings sometimes call this America’s first UFO sighting, but it is better read as a pre-modern strange-light report: the witnesses lacked modern aviation categories, the account was filtered through Winthrop’s journal, and later commentators have suggested natural explanations such as marsh light or optical effects rather than a craft. The Massachusetts Historical Society treats the Winthrop material as part of the colony’s rich documentary record, including early accounts that later readers have interpreted as UFO-like.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masshist.org">[Massachusetts Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masshist.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The state also appears in the official mid-century UFO archive. Project Blue Book, the U.S. Air Force programme that investigated UFO reports, ran until 1969; its records are declassified and held by the National Archives. The Air Force said 12,618 sightings were reported to Blue Book from 1947 to 1969, with 701 left “Unidentified”, while also concluding that no investigated UFO had shown evidence of being a national-security threat, an advanced technology beyond scientific knowledge, or an extraterrestrial vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The state also appears in the official mid-century UFO archive. Project Blue Book, the U.S. Air Force programme that investigated UFO reports, ran until 1969; its records are declassified and held by the National Archives. The Air Force said 12,618 sightings were reported to Blue Book from 1947 to 1969, with 701 left “Unidentified”, while also concluding that no investigated UFO had shown evidence of being a national-security threat, an advanced technology beyond scientific knowledge, or an extraterrestrial vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Massachusetts, that means the key question is not whether people have reported unusual things in the sky. They have. The stronger question is whether any case has enough independent, timely, technical evidence to move beyond “unidentified” into “well-supported extraordinary event”. On the public record, the answer remains cautious.
 
 ## The 1639 Muddy River light: first UFO, folklore, or misread colonial report?
 
-The Muddy River story is often presented as the opening scene in American UFO history. In the common version, Everell and two others saw a large light that stood still, flamed up, changed shape, and moved rapidly towards Charlestown and back for two or three hours. Some versions add that the men later found themselves carried upstream, creating a “missing time” flavour that sounds familiar to modern UFO readers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celebrateboston.com">[Celebrate Boston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celebrateboston.com</span><span class="citation-popover-title">first ufo sighting</span><span class="citation-popover-snippet">first ufo sighting</span></span></span>
+The Muddy River story is often presented as the opening scene in American UFO history. In the common version, Everell and two others saw a large light that stood still, flamed up, changed shape, and moved rapidly towards Charlestown and back for two or three hours. Some versions add that the men later found themselves carried upstream, creating a “missing time” flavour that sounds familiar to modern UFO readers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celebrateboston.com">[Celebrate Boston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celebrateboston.com</span><span class="citation-popover-title">first ufo sighting</span><span class="citation-popover-snippet">first ufo sighting</span></span></span>
 
 Its value is historical rather than evidential. The account shows that people in early Massachusetts recorded strange aerial lights long before aircraft, drones, satellites, or weather balloons. But it does not give modern investigators the things they would need for a strong case: precise timing, direction, weather conditions, astronomical checks, multiple independent written accounts, or physical data.
 
-The most plausible reading is that the Muddy River event belongs in a state UFO history as a precursor story, not as a modern UAP case. It helps explain why Massachusetts can claim one of America’s oldest “unidentified light” traditions, but it should not be treated as evidence for a machine or visitation. Later sceptical treatments have pointed to natural-light explanations such as ignis fatuus, a term historically used for pale lights over marshy ground, while also noting that Winthrop considered the witnesses respectable enough to record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celebrateboston.com">[Celebrate Boston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celebrateboston.com</span><span class="citation-popover-title">first ufo sighting</span><span class="citation-popover-snippet">first ufo sighting</span></span></span>
+The most plausible reading is that the Muddy River event belongs in a state UFO history as a precursor story, not as a modern UAP case. It helps explain why Massachusetts can claim one of America’s oldest “unidentified light” traditions, but it should not be treated as evidence for a machine or visitation. Later sceptical treatments have pointed to natural-light explanations such as ignis fatuus, a term historically used for pale lights over marshy ground, while also noting that Winthrop considered the witnesses respectable enough to record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celebrateboston.com">[Celebrate Boston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celebrateboston.com</span><span class="citation-popover-title">first ufo sighting</span><span class="citation-popover-snippet">first ufo sighting</span></span></span>
 
 <img src="{{ "/assets/images/Massachusetts_d42990-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Massachusetts Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Salem 1952: the official photograph that still divides readers
 
-The most important Massachusetts case in the official UFO record is the Salem photograph of 16 July 1952. At about 9:35 a.m., Coast Guard seaman Shell R. Alpert photographed four bright, roughly elliptical lights in a V-like formation through the window of a photographic laboratory at or near the Coast Guard station in Salem. The image became famous because it was not simply a local rumour: it entered the Project Blue Book record as Case No. 1501. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important Massachusetts case in the official UFO record is the Salem photograph of 16 July 1952. At about 9:35 a.m., Coast Guard seaman Shell R. Alpert photographed four bright, roughly elliptical lights in a V-like formation through the window of a photographic laboratory at or near the Coast Guard station in Salem. The image became famous because it was not simply a local rumour: it entered the Project Blue Book record as Case No. 1501.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case matters for three reasons. First, it occurred during the 1952 national UFO wave, when sightings, media coverage, and official concern were unusually high. Second, it involved a government photographer and an official photographic record rather than only a verbal account. Third, the explanation changed over time: Blue Book reportedly considered a double exposure, then possible [reflections]({{ 'reflections/' | relative_url }}) of street lamps on a window, and ultimately listed the case as unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case matters for three reasons. First, it occurred during the 1952 national UFO wave, when sightings, media coverage, and official concern were unusually high. Second, it involved a government photographer and an official photographic record rather than only a verbal account. Third, the explanation changed over time: Blue Book reportedly considered a double exposure, then possible [reflections]({{ 'reflections/' | relative_url }}) of street lamps on a window, and ultimately listed the case as unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That “unexplained” label should be handled carefully. It does not mean “confirmed craft”. It means the case was not closed to the satisfaction of the evaluators under the available evidence. The photograph’s weaknesses are also clear: it was shot through a window or screen, the lights are featureless, the image does not supply distance or size, and reflections remain a plausible ordinary explanation. The case therefore sits in the middle tier of Massachusetts UFO evidence: much stronger than folklore because it has an official file and image, but weaker than a modern multi-sensor aviation case because the photograph alone cannot establish what the lights were.
 
 ## The 1969 Berkshire County stories: powerful testimony, fragile records
 
-The Berkshire County incident is the most famous Massachusetts UFO story in popular culture. The standard claim is that, on the evening of 1 September 1969, people in and around Sheffield, Great Barrington, Stockbridge, and nearby communities saw unusual lights or a craft. Some later accounts go much further, describing close encounters, missing time, children being taken aboard a craft, and a beam or light affecting cars and witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span></span></span>
+The Berkshire County incident is the most famous Massachusetts UFO story in popular culture. The standard claim is that, on the evening of 1 September 1969, people in and around Sheffield, Great Barrington, Stockbridge, and nearby communities saw unusual lights or a craft. Some later accounts go much further, describing close encounters, missing time, children being taken aboard a craft, and a beam or light affecting cars and witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span></span></span>
 
-Its public profile rose sharply in the 2010s and 2020s because of local commemoration, the Thom Reed UFO Monument Park in Sheffield, and television treatment, especially the Netflix reboot of “Unsolved Mysteries”. Atlas Obscura and regional reporting describe the Sheffield site as a destination for people interested in the 1969 account, with the covered bridge area becoming part of the story’s geography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">thom reed ufo monument park</span><span class="citation-popover-snippet">thom reed ufo monument park</span></span></span>
+Its public profile rose sharply in the 2010s and 2020s because of local commemoration, the Thom Reed UFO Monument Park in Sheffield, and television treatment, especially the Netflix reboot of “Unsolved Mysteries”. Atlas Obscura and regional reporting describe the Sheffield site as a destination for people interested in the 1969 account, with the covered bridge area becoming part of the story’s geography.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">thom reed ufo monument park</span><span class="citation-popover-snippet">thom reed ufo monument park</span></span></span>
 
 The case’s appeal is obvious: it is local, human, and unusually narrative. Unlike a brief light in the sky, it includes named witnesses, families, roads, a covered bridge, a rural night-time setting, and later community recognition. That makes it memorable and easy to retell. It also makes it vulnerable to the problems that affect many famous close-encounter stories: testimony developed or became public long after the event, the strongest claims are extraordinary, and the supporting record is uneven.
 
-Sceptical analysis has focused on the gap between the later scale of the claim and the apparent lack of strong contemporary documentation. A 2024 Skeptical Inquirer assessment argued that the case creates an “illusion of corroboration”: many later accounts may appear mutually reinforcing, but that does not prove that hundreds of independent witnesses saw the same extraordinary thing in the same way. It also noted that the case was surprisingly thin in older UFO literature before its later media revival. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span></span></span>
+Sceptical analysis has focused on the gap between the later scale of the claim and the apparent lack of strong contemporary documentation. A 2024 Skeptical Inquirer assessment argued that the case creates an “illusion of corroboration”: many later accounts may appear mutually reinforcing, but that does not prove that hundreds of independent witnesses saw the same extraordinary thing in the same way. It also noted that the case was surprisingly thin in older UFO literature before its later media revival.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer The Berkshire UFO Abduction Incident &#124; Skeptical Inquirer</span></span></span>
 
 The fair reading is that the Berkshire case is culturally significant but evidentially disputed. It is not reasonable to dismiss every witness as dishonest; people may well have seen unusual lights or experienced frightening events. But it is also not responsible to treat later “off-world incident” language, tourist markers, or television reconstructions as proof. Within Massachusetts UFO history, the Berkshires are best understood as a major witness-and-memory case, not a settled factual demonstration.
 
@@ -523,20 +523,20 @@ The fair reading is that the Berkshire case is culturally significant but eviden
 
 Massachusetts has real aviation and military relevance: coastal airspace, Boston Logan International Airport, Coast Guard activity, military installations, and the broader New England air corridor all create conditions in which unusual sightings can occur and be reported. But aviation relevance is not the same as evidence of exotic craft. In many cases, it actually increases the number of ordinary explanations: aircraft lights, training activity, drones, helicopters, reflections, atmospheric effects, satellites, and misjudged distances over water.
 
-Project Blue Book is the most important official historical framework for mid-century Massachusetts cases. The National Archives states that Blue Book files include chronological case files and indexes by date and location, and that the records are available for research on microfilm, with photographs held separately in still-picture collections. That matters because serious state-level UFO research should begin with the official case file where one exists, not with later retellings alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book is the most important official historical framework for mid-century Massachusetts cases. The National Archives states that Blue Book files include chronological case files and indexes by date and location, and that the records are available for research on microfilm, with photographs held separately in still-picture collections. That matters because serious state-level UFO research should begin with the official case file where one exists, not with later retellings alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Modern UAP discussion has changed the vocabulary but not the basic evidential problem. UAP, or unidentified anomalous phenomena, is now the preferred official term in many U.S. government settings, partly to avoid the cultural baggage of “UFO”. AARO, the Pentagon’s All-domain Anomaly Resolution Office, says it uses a scientific and data-driven approach; the Department of Defense stated in 2024 that AARO had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no evidence that government or private industry had access to extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Modern UAP discussion has changed the vocabulary but not the basic evidential problem. UAP, or unidentified anomalous phenomena, is now the preferred official term in many U.S. government settings, partly to avoid the cultural baggage of “UFO”. AARO, the Pentagon’s All-domain Anomaly Resolution Office, says it uses a scientific and data-driven approach; the Department of Defense stated in 2024 that AARO had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no evidence that government or private industry had access to extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 For Massachusetts readers, the practical point is simple: an official file or an unresolved label can make a case worth studying, but it does not by itself prove an extraordinary origin. The Salem photograph remains important because it is documented in the old official system. Many later Massachusetts stories do not have that same level of primary-source support.
 
 <img src="{{ "/assets/images/Massachusetts_d42990-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Massachusetts Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern Massachusetts sightings: databases, drones, and the problem of low-quality data
 
-Contemporary Massachusetts UFO reporting is dominated by databases and online witness submissions. The National UFO Reporting Center lists Massachusetts reports by date, city, shape, summary, and report date, giving researchers a broad but uneven public index of claims. It is useful for spotting patterns and finding leads, but it is not a verified catalogue of confirmed anomalies. Reports vary widely in detail, witness skill, timing, and possible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State MA</span><span class="citation-popover-snippet">Reports for State MA</span></span></span>
+Contemporary Massachusetts UFO reporting is dominated by databases and online witness submissions. The National UFO Reporting Center lists Massachusetts reports by date, city, shape, summary, and report date, giving researchers a broad but uneven public index of claims. It is useful for spotting patterns and finding leads, but it is not a verified catalogue of confirmed anomalies. Reports vary widely in detail, witness skill, timing, and possible explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State MA</span><span class="citation-popover-snippet">Reports for State MA</span></span></span>
 
-This is where modern UFO research becomes less romantic and more practical. Many reports are sincere, but sincere reports can still be wrong. Bright planets, Starlink satellites, aircraft on approach, Chinese lanterns, drones, weather balloons, reflections, and camera artefacts often produce convincing but ordinary sightings. The FAA’s drone-sighting page is a useful reminder that pilots, citizens, and law enforcement report more than 100 unmanned-aircraft sightings near U.S. airports each month, and that operating drones near aircraft and airports is dangerous and illegal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is where modern UFO research becomes less romantic and more practical. Many reports are sincere, but sincere reports can still be wrong. Bright planets, Starlink satellites, aircraft on approach, Chinese lanterns, drones, weather balloons, reflections, and camera artefacts often produce convincing but ordinary sightings. The FAA’s drone-sighting page is a useful reminder that pilots, citizens, and law enforcement report more than 100 unmanned-aircraft sightings near U.S. airports each month, and that operating drones near aircraft and airports is dangerous and illegal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Massachusetts has already seen this overlap between “mystery in the sky” and aviation safety. In December 2024, amid wider concern about drone sightings in the north-eastern United States, two men were arrested after police said a drone was operated dangerously close to Boston Logan International Airport; authorities used monitoring technology to identify the drone’s location, altitude, flight history, and the operators’ position on Long Island in Boston Harbour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/16/two-men-arrested-drone-boston-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Massachusetts has already seen this overlap between “mystery in the sky” and aviation safety. In December 2024, amid wider concern about drone sightings in the north-eastern United States, two men were arrested after police said a drone was operated dangerously close to Boston Logan International Airport; authorities used monitoring technology to identify the drone’s location, altitude, flight history, and the operators’ position on Long Island in Boston Harbour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/16/two-men-arrested-drone-boston-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That case was not a UFO mystery in the classic sense once law enforcement identified the system and suspects. But it shows why modern Massachusetts sightings need careful sorting. A light near an airport may be an aircraft. A hovering object may be a drone. A moving chain of lights may be satellites. A report can be genuinely alarming without being anomalous.
 
@@ -557,7 +557,7 @@ For this state, a useful evidence ladder looks like this:
 
 </div>
 
-NASA’s 2023 UAP work makes the same point in broader scientific language: there is no conclusive evidence in the peer-reviewed literature for an extraterrestrial origin of UAP, and the main obstacle is often the poor quality or limited nature of the data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s 2023 UAP work makes the same point in broader scientific language: there is no conclusive evidence in the peer-reviewed literature for an extraterrestrial origin of UAP, and the main obstacle is often the poor quality or limited nature of the data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <img src="{{ "/assets/images/Massachusetts_d42990-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Massachusetts Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Massachusetts record really shows
@@ -571,194 +571,194 @@ The best overall assessment is cautious but not dismissive. Massachusetts has pr
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GvkevUdsN5E" title="2 Mass. men arrested for flying drone near Boston Logan Airport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GvkevUdsN5E" target="_blank" rel="noopener noreferrer">2 Mass. men arrested for flying drone near Boston Logan Airport</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 46.7K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GvkevUdsN5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GvkevUdsN5E">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Massachusetts Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Massachusetts Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances serious investigation, government records, and unexplained cases similar to the page&#x27;s evidence-focused approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances serious investigation, government records, and unexplained cases similar to the page&#x27;s evidence-focused approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how sightings should be evaluated and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how sightings should be evaluated and classified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for readers examining official investigations and unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers examining official investigations and unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects folklore, strange lights, and witness traditions across centuries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects folklore, strange lights, and witness traditions across centuries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-massachusetts-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-massachusetts-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ The best overall assessment is cautious but not dismissive. Massachusetts has pr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ The best overall assessment is cautious but not dismissive. Massachusetts has pr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ The best overall assessment is cautious but not dismissive. Massachusetts has pr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ The best overall assessment is cautious but not dismissive. Massachusetts has pr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ The best overall assessment is cautious but not dismissive. Massachusetts has pr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -964,260 +964,260 @@ The best overall assessment is cautious but not dismissive. Massachusetts has pr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: defense.gov  
    Title: statement by pentagon press secretary maj gen pat ryder on the historical recor  
-   Link: <a href="https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
+   Link:<a href="https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for State MA  
-   Link: <a href="https://nuforc.org/subndx/?id=lMA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMA</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lMA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMA</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
+   Link:<a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: americas first ufo sighting  
-   Link: <a href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/americas-first-ufo-sighting</a>  
+   Link:<a href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/americas-first-ufo-sighting</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/page/60/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/page/60/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/page/60/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/page/60/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/category/motion-pictures/page/27/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/category/motion-pictures/page/27/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/category/motion-pictures/page/27/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/category/motion-pictures/page/27/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
    Title: uap bulk download  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
+   Link:<a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
+   Link:<a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/07/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/07/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/page/5/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/page/5/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
    Title: rf 2018 foia log  
-   Link: <a href="https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: Record Groups 4  
-   Link: <a href="https://www.archives.gov/boston/holdings/rg-001-049.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/boston/holdings/rg-001-049.html</a>  
+   Link:<a href="https://www.archives.gov/boston/holdings/rg-001-049.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/boston/holdings/rg-001-049.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: defense.gov  
-   Link: <a href="https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: defense.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.defense.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+   Link:<a href="https://www.defense.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: defense.gov  
    Title: pentagon press secretary air force maj gen pat ryder holds a press briefing  
-   Link: <a href="https://www.defense.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/</a>  
+   Link:<a href="https://www.defense.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: DOD OIG FY2023 FOIA LOG (REDACTED)  
-   Link: <a href="https://media.defense.gov/2025/Mar/20/2003673001/-1/-1/1/DOD%20OIG%20FY2023%20FOIA%20LOG%20%28REDACTED%29.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Mar/20/2003673001/-1/-1/1/DOD%20OIG%20FY2023%20FOIA%20LOG%20%28REDACTED%29.PDF</a>  
+   Link:<a href="https://media.defense.gov/2025/Mar/20/2003673001/-1/-1/1/DOD%20OIG%20FY2023%20FOIA%20LOG%20%28REDACTED%29.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Mar/20/2003673001/-1/-1/1/DOD%20OIG%20FY2023%20FOIA%20LOG%20%28REDACTED%29.PDF</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197353" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197353</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197353" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197353</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=78274" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=78274</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=78274" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=78274</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=158017" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=158017</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=158017" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=158017</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=33491" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=33491</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=33491" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=33491</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: repository.fit.edu  
-   Link: <a href="https://repository.fit.edu/cgi/viewcontent.cgi?article=1027&amp;context=aero_student" target="_blank" rel="noopener noreferrer nofollow">https://repository.fit.edu/cgi/viewcontent.cgi?article=1027&amp;context=aero_student</a>  
+   Link:<a href="https://repository.fit.edu/cgi/viewcontent.cgi?article=1027&amp;context=aero_student" target="_blank" rel="noopener noreferrer nofollow">https://repository.fit.edu/cgi/viewcontent.cgi?article=1027&amp;context=aero_student</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: unsolved.com  
    Title: Discover Berkshires UFO Case  
-   Link: <a href="https://unsolved.com/gallery/berkshires-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/berkshires-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/berkshires-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/berkshires-ufo/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: masshist.org  
-   Link: <a href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.masshist.org/beehiveblog/2020/10/</a>  
+   Link:<a href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.masshist.org/beehiveblog/2020/10/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: celebrateboston.com  
    Title: first ufo sighting  
-   Link: <a href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.celebrateboston.com/ufo/first-ufo-sighting.htm</a>  
+   Link:<a href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.celebrateboston.com/ufo/first-ufo-sighting.htm</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/bluebookpics1501.htm</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Berkshire UFO Abduction Incident | Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/</a>  
+   Link:<a href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: atlasobscura.com  
    Title: thom reed ufo monument park  
-   Link: <a href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/thom-reed-ufo-monument-park</a>  
+   Link:<a href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/thom-reed-ufo-monument-park</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/16/two-men-arrested-drone-boston-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/16/two-men-arrested-drone-boston-airport</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/16/two-men-arrested-drone-boston-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/16/two-men-arrested-drone-boston-airport</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: tripadvisor.co.uk  
    Title: Thom Reed  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g41808-d13224321-Reviews-Thom_Reed_UFO_Monument_Park-Sheffield_Massachusetts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g41808-d13224321-Reviews-Thom_Reed_UFO_Monument_Park-Sheffield_Massachusetts.html</a>  
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g41808-d13224321-Reviews-Thom_Reed_UFO_Monument_Park-Sheffield_Massachusetts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g41808-d13224321-Reviews-Thom_Reed_UFO_Monument_Park-Sheffield_Massachusetts.html</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: beingonline.substack.com  
-   Link: <a href="https://beingonline.substack.com/p/aliens" target="_blank" rel="noopener noreferrer nofollow">https://beingonline.substack.com/p/aliens</a>  
+   Link:<a href="https://beingonline.substack.com/p/aliens" target="_blank" rel="noopener noreferrer nofollow">https://beingonline.substack.com/p/aliens</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
 
 ### Additional References
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Newly released files highlight UFO sightings and local expert skepticism  
-   Link: <a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmfLisgm9rg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Historically True Alien Encounter? | Berkshire UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmfLisgm9rg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First Historically True Alien Encounter? | Berkshire UFO Incident...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Abducted: The Berkshire UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=UoJEHTicp74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoJEHTicp74</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UoJEHTicp74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoJEHTicp74</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4)...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: wiscassetnewspaper.com  
-   Link: <a href="https://www.wiscassetnewspaper.com/affiliate-post/13-days-halloween-tales-terror-america-s-first-ufo/179973" target="_blank" rel="noopener noreferrer nofollow">https://www.wiscassetnewspaper.com/affiliate-post/13-days-halloween-tales-terror-america-s-first-ufo/179973</a>  
+   Link:<a href="https://www.wiscassetnewspaper.com/affiliate-post/13-days-halloween-tales-terror-america-s-first-ufo/179973" target="_blank" rel="noopener noreferrer nofollow">https://www.wiscassetnewspaper.com/affiliate-post/13-days-halloween-tales-terror-america-s-first-ufo/179973</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/</a>  
+   Link:<a href="https://abc7news.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/</a>  
+   Link:<a href="https://abc7ny.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/2-arrested-after-drone-flies-dangerously-close-boston-logan-airport-amid-heightened-concerns-new-jersey-drones-police/15659754/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491</a>  
+   Link:<a href="https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/yestheory/videos/72-hours-with-strangers-who-have-seen-aliens/2112460552912300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yestheory/videos/72-hours-with-strangers-who-have-seen-aliens/2112460552912300/</a>  
+   Link:<a href="https://www.facebook.com/yestheory/videos/72-hours-with-strangers-who-have-seen-aliens/2112460552912300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yestheory/videos/72-hours-with-strangers-who-have-seen-aliens/2112460552912300/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/</a>  
+   Link:<a href="https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>

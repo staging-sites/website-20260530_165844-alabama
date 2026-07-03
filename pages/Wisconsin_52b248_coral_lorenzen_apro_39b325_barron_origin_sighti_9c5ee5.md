@@ -250,26 +250,26 @@ image: /assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_
 
 ## Introduction
 
-[Coral Lorenzen]({{ 'coral-lorenzen/' | relative_url }})’s reported sighting in Barron, Wisconsin, in 1934 occupies an unusual place in UFO history. It is not an important case because of strong evidence. In fact, by modern investigative standards, the evidence is extremely thin. What makes it significant is that Lorenzen later became one of the most influential civilian UFO researchers in the United States and repeatedly pointed back to this childhood experience as the moment that shaped her interest in unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+[Coral Lorenzen]({{ 'coral-lorenzen/' | relative_url }})’s reported sighting in Barron, Wisconsin, in 1934 occupies an unusual place in UFO history. It is not an important case because of strong evidence. In fact, by modern investigative standards, the evidence is extremely thin. What makes it significant is that Lorenzen later became one of the most influential civilian UFO researchers in the United States and repeatedly pointed back to this childhood experience as the moment that shaped her interest in unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
 <img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-dark.svg" | relative_url }}" alt="Barron sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Wisconsin’s UFO history, the Barron sighting functions less as a mystery to solve than as an origin story. The event was never formally investigated, produced no physical evidence, and survives mainly through Lorenzen’s own later recollections. Yet that memory helped motivate the creation of the Aerial Phenomena Research Organization (APRO) in 1952, one of the earliest and most influential civilian UFO research networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</span><span class="citation-popover-meta">Published: March 20, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[2wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
+For Wisconsin’s UFO history, the Barron sighting functions less as a mystery to solve than as an origin story. The event was never formally investigated, produced no physical evidence, and survives mainly through Lorenzen’s own later recollections. Yet that memory helped motivate the creation of the Aerial Phenomena Research Organization (APRO) in 1952, one of the earliest and most influential civilian UFO research networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</span><span class="citation-popover-meta">Published: March 20, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[2wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
 
 ## What did Coral Lorenzen see in Barron?
 
-According to Lorenzen’s later accounts, the sighting took place during the summer of 1934 when she was nine years old and living in Barron. She described herself and two friends observing a strange white object in the sky during daylight hours. Decades later she wrote that the object appeared bright, silent and unlike any aircraft familiar to local residents at the time. Barron was a small Wisconsin community where even ordinary aeroplanes attracted attention, making the sighting memorable to the children who watched it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+According to Lorenzen’s later accounts, the sighting took place during the summer of 1934 when she was nine years old and living in Barron. She described herself and two friends observing a strange white object in the sky during daylight hours. Decades later she wrote that the object appeared bright, silent and unlike any aircraft familiar to local residents at the time. Barron was a small Wisconsin community where even ordinary aeroplanes attracted attention, making the sighting memorable to the children who watched it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
-Lorenzen’s most frequently quoted description compared the object to “an open umbrella without the ribs or spurs”. She recalled that one of the children suggested it might be a parachute, but she felt the comparison did not fit what they were seeing. The object reportedly drifted or moved slowly across the sky before disappearing from view. No sound, occupants or obvious means of propulsion were reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
+Lorenzen’s most frequently quoted description compared the object to “an open umbrella without the ribs or spurs”. She recalled that one of the children suggested it might be a parachute, but she felt the comparison did not fit what they were seeing. The object reportedly drifted or moved slowly across the sky before disappearing from view. No sound, occupants or obvious means of propulsion were reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
 
-In later retellings, Lorenzen emphasised that the image remained vivid in her memory long after the event. She wrote that the details were still clear to her many years later and treated the sighting as the beginning of her curiosity about unexplained objects in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+In later retellings, Lorenzen emphasised that the image remained vivid in her memory long after the event. She wrote that the details were still clear to her many years later and treated the sighting as the beginning of her curiosity about unexplained objects in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
 ### The 1934 account in Lorenzen's own words
 
-The most important source for the Barron story is Lorenzen herself. In her 1966 book *Flying Saucers: The Startling Evidence of the Invasion from Outer Space*, she opened her discussion of UFOs by writing that “the beginning of the mystery of UFOs was, for me at least,” on a summer day in Barron in 1934. The wording is revealing because she framed the sighting as a personal turning point rather than as proof of extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+The most important source for the Barron story is Lorenzen herself. In her 1966 book *Flying Saucers: The Startling Evidence of the Invasion from Outer Space*, she opened her discussion of UFOs by writing that “the beginning of the mystery of UFOs was, for me at least,” on a summer day in Barron in 1934. The wording is revealing because she framed the sighting as a personal turning point rather than as proof of extraterrestrial visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
-She also recalled that her father made enquiries after hearing about the incident, but no wider wave of witnesses emerged. As she told the story, the matter gradually faded without any satisfactory explanation. That lack of closure became part of the event’s lasting impact on her. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+She also recalled that her father made enquiries after hearing about the incident, but no wider wave of witnesses emerged. As she told the story, the matter gradually faded without any satisfactory explanation. That lack of closure became part of the event’s lasting impact on her.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
-The account was written more than three decades after the event and after Lorenzen had already become deeply involved in UFO research. As a historical source, it therefore tells readers as much about how Lorenzen interpreted her own life as it does about the unidentified object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+The account was written more than three decades after the event and after Lorenzen had already become deeply involved in UFO research. As a historical source, it therefore tells readers as much about how Lorenzen interpreted her own life as it does about the unidentified object itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tbu3FpGLVlA" title="729. Allan Lavigne on Travis Walton: First Interview &amp; Much More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tbu3FpGLVlA" target="_blank" rel="noopener noreferrer">729. Allan Lavigne on Travis Walton: First Interview &amp; Much More!</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 2.5K &middot; Uploaded: January 2026 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tbu3FpGLVlA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tbu3FpGLVlA">Open on YouTube</a></p></div></div></div>
 
@@ -286,26 +286,26 @@ Several factors limit its evidential value:
 * No surviving official investigation is known.
 * No contemporary newspaper coverage has been widely documented.
 * The known witnesses were children.
-* Later descriptions depend largely on Lorenzen’s own retelling rather than independent corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+* Later descriptions depend largely on Lorenzen’s own retelling rather than independent corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
 </div>
 
 These weaknesses do not prove that Lorenzen invented the story. Childhood memories can be sincere and influential. The problem is that investigators have little independent material against which to test the account.
 
-Another difficulty is that the description itself is open to multiple interpretations. A distant balloon, an unusual atmospheric effect, a parachute, or a misidentified aircraft cannot be ruled out from the surviving information. Because the observation was brief and poorly documented, modern researchers have no reliable way to reconstruct what the children actually saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+Another difficulty is that the description itself is open to multiple interpretations. A distant balloon, an unusual atmospheric effect, a parachute, or a misidentified aircraft cannot be ruled out from the surviving information. Because the observation was brief and poorly documented, modern researchers have no reliable way to reconstruct what the children actually saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
-This is why historians of UFO culture generally treat the Barron incident as biographical evidence rather than physical evidence. It demonstrates what Lorenzen remembered and believed, but it does not provide a solid basis for determining the nature of the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: full-stop.net">[full-stop.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">full-stop.net</span><span class="citation-popover-title">an arc of light across the cold war sky</span><span class="citation-popover-snippet">24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</span></span></span>
+This is why historians of UFO culture generally treat the Barron incident as biographical evidence rather than physical evidence. It demonstrates what Lorenzen remembered and believed, but it does not provide a solid basis for determining the nature of the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: full-stop.net">[full-stop.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">full-stop.net</span><span class="citation-popover-title">an arc of light across the cold war sky</span><span class="citation-popover-snippet">24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</span></span></span>
 
 <img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-dark.svg" | relative_url }}" alt="Barron sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a childhood memory became a research motive
 
 The real historical importance of the Barron sighting appears decades later.
 
-When the post-1947 flying saucer wave swept across the United States, Lorenzen already possessed a personal story that made her less inclined to dismiss unusual reports outright. She had spent years carrying an unresolved memory of seeing something she could not identify. As public interest in UFOs expanded, she increasingly viewed witness testimony as material worth collecting and comparing rather than ridiculing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
+When the post-1947 flying saucer wave swept across the United States, Lorenzen already possessed a personal story that made her less inclined to dismiss unusual reports outright. She had spent years carrying an unresolved memory of seeing something she could not identify. As public interest in UFOs expanded, she increasingly viewed witness testimony as material worth collecting and comparing rather than ridiculing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
 
-In January 1952, while living in Sturgeon Bay, Wisconsin, she and her husband Jim Lorenzen founded APRO. The organisation aimed to gather reports, correspond with witnesses and create a more systematic civilian approach to UFO investigation. APRO would eventually develop branches across the United States and become one of the most influential non-government UFO groups of the Cold War era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</span><span class="citation-popover-meta">Published: March 20, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[2wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
+In January 1952, while living in Sturgeon Bay, Wisconsin, she and her husband Jim Lorenzen founded APRO. The organisation aimed to gather reports, correspond with witnesses and create a more systematic civilian approach to UFO investigation. APRO would eventually develop branches across the United States and become one of the most influential non-government UFO groups of the Cold War era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</span><span class="citation-popover-meta">Published: March 20, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[2wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
 
-The connection between Barron and APRO is therefore indirect but important. The childhood sighting did not prove anything about UFOs. What it did provide was a personal motivation. Lorenzen repeatedly presented the 1934 experience as the reason she felt unexplained reports deserved attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
+The connection between Barron and APRO is therefore indirect but important. The childhood sighting did not prove anything about UFOs. What it did provide was a personal motivation. Lorenzen repeatedly presented the 1934 experience as the reason she felt unexplained reports deserved attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXP4npmG_wY" title="BEHIND THE SCENES SECRETS filming Wisconsin&#x27;s UFO capital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXP4npmG_wY" target="_blank" rel="noopener noreferrer">BEHIND THE SCENES SECRETS filming Wisconsin&#x27;s UFO capital</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXP4npmG_wY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXP4npmG_wY">Open on YouTube</a></p></div></div></div>
 
@@ -313,9 +313,9 @@ The connection between Barron and APRO is therefore indirect but important. The 
 
 Many UFO stories begin and end with a single witness account. Lorenzen’s story followed a different path.
 
-Rather than spending her career trying to prove the Barron sighting itself, she used it as a starting point for a much larger project. Through APRO, she helped create newsletters, correspondence networks, case files and investigative procedures that influenced later civilian UFO organisations. Some APRO members eventually helped establish the Midwest UFO Network, which evolved into the Mutual UFO Network (MUFON), one of the best-known UFO organisations in North America. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
+Rather than spending her career trying to prove the Barron sighting itself, she used it as a starting point for a much larger project. Through APRO, she helped create newsletters, correspondence networks, case files and investigative procedures that influenced later civilian UFO organisations. Some APRO members eventually helped establish the Midwest UFO Network, which evolved into the Mutual UFO Network (MUFON), one of the best-known UFO organisations in North America.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
 
-That legacy explains why the Barron incident still appears in discussions of Wisconsin UFO history. The sighting’s importance lies less in what crossed the sky over Barron than in what happened afterwards: a child’s unresolved experience became the personal narrative behind one of the state's most influential UFO researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
+That legacy explains why the Barron incident still appears in discussions of Wisconsin UFO history. The sighting’s importance lies less in what crossed the sky over Barron than in what happened afterwards: a child’s unresolved experience became the personal narrative behind one of the state's most influential UFO researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nyeP0EsXBhU" title="Jim and Coral Lorenzen: The Unsung Heroes of UFO Research (1952) episode 06" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nyeP0EsXBhU" target="_blank" rel="noopener noreferrer">Jim and Coral Lorenzen: The Unsung Heroes of UFO Research (1952) episode 06</a></p><p class="youtube-embed-meta">Channel: UFO TIMELINE PROJECT &middot; Views: 91 &middot; Uploaded: June 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nyeP0EsXBhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nyeP0EsXBhU">Open on YouTube</a></p></div></div></div>
 
@@ -323,201 +323,201 @@ That legacy explains why the Barron incident still appears in discussions of Wis
 
 The Barron sighting illustrates a recurring pattern in UFO history. Some reports become famous because the evidence is unusually strong. Others become famous because they shape the people who later influence the field.
 
-Coral Lorenzen’s 1934 experience belongs firmly in the second category. The case remains unresolved, but not because investigators are confronted with overwhelming mystery. It remains unresolved because almost no verifiable evidence survives. What endures is the role the memory played in Lorenzen’s life and in the development of organised civilian UFO research that had roots in Wisconsin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
+Coral Lorenzen’s 1934 experience belongs firmly in the second category. The case remains unresolved, but not because investigators are confronted with overwhelming mystery. It remains unresolved because almost no verifiable evidence survives. What endures is the role the memory played in Lorenzen’s life and in the development of organised civilian UFO research that had roots in Wisconsin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
 
-Seen in that light, the Barron sighting is best understood as a historical origin story rather than a compelling UFO case. Its significance comes from its consequences: one childhood observation, whether extraordinary or ordinary, helped inspire decades of UFO report collecting, debate and investigation that reached far beyond northern Wisconsin. Wisconsin Frights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: full-stop.net">[2full-stop.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">full-stop.net</span><span class="citation-popover-title">an arc of light across the cold war sky</span><span class="citation-popover-snippet">24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</span></span></span>
+Seen in that light, the Barron sighting is best understood as a historical origin story rather than a compelling UFO case. Its significance comes from its consequences: one childhood observation, whether extraordinary or ordinary, helped inspire decades of UFO report collecting, debate and investigation that reached far beyond northern Wisconsin. Wisconsin Frights<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: full-stop.net">[2full-stop.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">full-stop.net</span><span class="citation-popover-title">an arc of light across the cold war sky</span><span class="citation-popover-snippet">24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</span></span></span>
 
 <img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-dark.svg" | relative_url }}" alt="Barron sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did Coral Lorenzen see in Barron?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did Coral Lorenzen see in Barron?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax+by+Coral+E.+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Flying Saucer Hoax on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CypMAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Great Flying Saucer Hoax" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax+by+Coral+E.+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Flying Saucer Hoax">The Great Flying Saucer Hoax</a>
-        </h4>
-        <p class="fr-book-author">By Coral E. Lorenzen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax+by+Coral+E.+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Flying Saucer Hoax on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CypMAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Great Flying Saucer Hoax" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax+by+Coral+E.+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Flying Saucer Hoax">The Great Flying Saucer Hoax</a>
+</h4>
+<p class="fr-book-author">By Coral E. Lorenzen</p>
         
-        <p class="fr-book-desc">Expands on Lorenzen&#x27;s thinking and investigative outlook.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax+by+Coral+E.+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Expands on Lorenzen&#x27;s thinking and investigative outlook.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax+by+Coral+E.+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers%3A+the+Startling+Evidence+of+the+Invasion+from+Outer+Space+-+Exposing+the+Establishment%27s+UFO+Coverup+by+Coral+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers: the Startling Evidence of the Invasion from Outer Space - Exposing the Establishment&#x27;s UFO Coverup on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers%3A+the+Startling+Evidence+of+the+Invasion+from+Outer+Space+-+Exposing+the+Establishment%27s+UFO+Coverup+by+Coral+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers: the Startling Evidence of the Invasion from Outer Space - Exposing the Establishment&#x27;s UFO Coverup">Flying Saucers: the Startling Evidence of the Invasion from O...</a>
-        </h4>
-        <p class="fr-book-author">By Coral Lorenzen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers%3A+the+Startling+Evidence+of+the+Invasion+from+Outer+Space+-+Exposing+the+Establishment%27s+UFO+Coverup+by+Coral+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers: the Startling Evidence of the Invasion from Outer Space - Exposing the Establishment&#x27;s UFO Coverup on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers%3A+the+Startling+Evidence+of+the+Invasion+from+Outer+Space+-+Exposing+the+Establishment%27s+UFO+Coverup+by+Coral+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers: the Startling Evidence of the Invasion from Outer Space - Exposing the Establishment&#x27;s UFO Coverup">Flying Saucers: the Startling Evidence of the Invasion from O...</a>
+</h4>
+<p class="fr-book-author">By Coral Lorenzen</p>
         
-        <p class="fr-book-desc">Includes Lorenzen&#x27;s own account of the Barron sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers%3A+the+Startling+Evidence+of+the+Invasion+from+Outer+Space+-+Exposing+the+Establishment%27s+UFO+Coverup+by+Coral+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes Lorenzen&#x27;s own account of the Barron sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers%3A+the+Startling+Evidence+of+the+Invasion+from+Outer+Space+-+Exposing+the+Establishment%27s+UFO+Coverup+by+Coral+Lorenzen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical context for early sighting claims and researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for early sighting claims and researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how extraordinary experiences become folklore and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how extraordinary experiences become folklore and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Flying Saucer Hoax</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers%3A+Startling+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers: Startling Evidence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ufo Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Flying+Saucer+Hoax&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Flying Saucer Hoax</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers%3A+Startling+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers: Startling Evidence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ufo Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ Seen in that light, the Barron sighting is best understood as a historical origi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ Seen in that light, the Barron sighting is best understood as a historical origi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ Seen in that light, the Barron sighting is best understood as a historical origi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ Seen in that light, the Barron sighting is best understood as a historical origi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ Seen in that light, the Barron sighting is best understood as a historical origi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,101 +723,101 @@ Seen in that light, the Barron sighting is best understood as a historical origi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</p></details>
+   Link:<a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Aerial Phenomena Research Organization  
-   Link: <a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</p></details>
    Published: March 20, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wyominghistoryday.org  
    Title: apro bulletin march april 1965  
-   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</p></details>
    Published: april 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: full-stop.net  
    Title: an arc of light across the cold war sky  
-   Link: <a href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</p></details>
+   Link:<a href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: slideshare.net  
    Title: Coral Lorenzen  
-   Link: <a href="https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space</a>  
+   Link:<a href="https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wisconsinfrights.com  
    Title: coral lorenzen ufo research  
-   Link: <a href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</p></details>
+   Link:<a href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wisconsinfrights.com  
-   Link: <a href="https://www.wisconsinfrights.com/zine/cosmic-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/zine/cosmic-encounters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin UFO Zine - Alien Encounters &amp; UFO HotspotsCoral Lorenzen: The Wisconsin journalist who pioneered UFO investigation after a 1934...</p></details>
+   Link:<a href="https://www.wisconsinfrights.com/zine/cosmic-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/zine/cosmic-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin UFO Zine - Alien Encounters &amp; UFO HotspotsCoral Lorenzen: The Wisconsin journalist who pioneered UFO investigation after a 1934...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kjzz.org  
-   Link: <a href="https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display" target="_blank" rel="noopener noreferrer nofollow">https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Arizona couple compiled much of what we know about...3 Jul 2025 — a woman named Coral Lorenzen had a UFO encounter of her own — she...</p></details>
+   Link:<a href="https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display" target="_blank" rel="noopener noreferrer nofollow">https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Arizona couple compiled much of what we know about...3 Jul 2025 — a woman named Coral Lorenzen had a UFO encounter of her own — she...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: the wisconsin flying saucer that changed ufo research foreverby wisconsin fright  
-   Link: <a href="https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE WISCONSIN FLYING SAUCER THAT CHANGED UFO...“Barron in 1934 was a small town... Coral dedicated her life to UFO research. She... In...</p></details>
+   Link:<a href="https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE WISCONSIN FLYING SAUCER THAT CHANGED UFO...“Barron in 1934 was a small town... Coral dedicated her life to UFO research. She... In...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: inspired by her 1934 sighting in barron wi coral lorenzen founded the first ever  
-   Link: <a href="https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inspired by her 1934 sighting in Barron, WI, Coral...Inspired by her 1934 sighting in Barron, WI, Coral Lorenzen founded the first ever...</p></details>
+   Link:<a href="https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inspired by her 1934 sighting in Barron, WI, Coral...Inspired by her 1934 sighting in Barron, WI, Coral Lorenzen founded the first ever...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: in 1960 jim and coral lorenzen moved the aerial phenomena research organization  
-   Link: <a href="https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1960, Jim and Coral Lorenzen moved the Aerial...Long story short, they witnessed a 30 foot illuminated Flying Saucer with hovered ove...</p></details>
+   Link:<a href="https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1960, Jim and Coral Lorenzen moved the Aerial...Long story short, they witnessed a 30 foot illuminated Flying Saucer with hovered ove...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cribed as “an open umbrella without the ribs or spurs” fly silently across the summer...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C0KpEbZO6aw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cribed as “an open umbrella without the ribs or spurs” fly silently across the summer...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cribed as “an open umbrella without the ribs or spurs” fly silently across the summer...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cribed as “an open umbrella without the ribs or spurs” fly silently across the summer...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: americanghostwalks.com  
    Title: UF O Day: 10 Unexplained Sightings Over Haunted U.S  
-   Link: <a href="https://www.americanghostwalks.com/happy-world-ufo-day" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/happy-world-ufo-day</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2025 — Ground Observer Coral Lorenzen UFO Flying Saucer - Green Bay Press Gazette Archive... 1934 UFO sighting in Barron. And she...</p></details>
+   Link:<a href="https://www.americanghostwalks.com/happy-world-ufo-day" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/happy-world-ufo-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2025 — Ground Observer Coral Lorenzen UFO Flying Saucer - Green Bay Press Gazette Archive... 1934 UFO sighting in Barron. And she...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: jim and coral lorenzen who founded apro in 1952  
-   Link: <a href="https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lorenzen: “The beginning of the mystery of UFOs was, for me at least, on a sunny summer day in Barron, Wisconsin, in 1934,”...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lorenzen: “The beginning of the mystery of UFOs was, for me at least, on a sunny summer day in Barron, Wisconsin, in 1934,”...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: shepherdexpress.com  
    Title: look up whats that in the wisconsin sky  
-   Link: <a href="https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/" target="_blank" rel="noopener noreferrer nofollow">https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Look Up—What&#x27;s That in the Wisconsin Sky?8 Jun 2022 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started...</p></details>
+   Link:<a href="https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/" target="_blank" rel="noopener noreferrer nofollow">https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Look Up—What&#x27;s That in the Wisconsin Sky?8 Jun 2022 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cultofweird.com  
-   Link: <a href="https://www.cultofweird.com/ufo-sightings/[dundee" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/[dundee</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee, Wisconsin: UFO Capital of the WorldAn unknown object witnessed in rural Barron, WI in 1934 inspired Coral Lorenzen to pioneer UFO...</p></details>
+   Link:<a href="https://www.cultofweird.com/ufo-sightings/[dundee" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/[dundee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee, Wisconsin: UFO Capital of the WorldAn unknown object witnessed in rural Barron, WI in 1934 inspired Coral Lorenzen to pioneer UFO...</p></details>

@@ -268,27 +268,27 @@ image: /assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-overview-social
 
 ## Introduction
 
-The Virginia Beach Navy UAP testimony matters because it shifted one part of Virginia’s UFO history from local sighting lore into a flight-safety debate involving named military aviators, restricted training airspace and congressional evidence. Former Navy F/A-18 pilot Ryan Graves told Congress that, beginning in 2014, aircrew near Naval Air Station Oceana and the Atlantic training ranges off Virginia Beach repeatedly detected unidentified objects after radar upgrades, then began correlating some tracks with infrared systems and visual observations. One reported near-miss — a dark cube inside a clear sphere passing between two Super Hornets — became the clearest Virginia-linked example. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</span></span></span>
+The Virginia Beach Navy UAP testimony matters because it shifted one part of Virginia’s UFO history from local sighting lore into a flight-safety debate involving named military aviators, restricted training airspace and congressional evidence. Former Navy F/A-18 pilot Ryan Graves told Congress that, beginning in 2014, aircrew near Naval Air Station Oceana and the Atlantic training ranges off Virginia Beach repeatedly detected unidentified objects after radar upgrades, then began correlating some tracks with infrared systems and visual observations. One reported near-miss — a dark cube inside a clear sphere passing between two Super Hornets — became the clearest Virginia-linked example.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</span></span></span>
 
 <img src="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-overview.webp" | relative_url }}" alt="Overview image for Navy UAP" loading="eager" decoding="sync" fetchpriority="high">
 The strongest public case is not that the objects were alien craft. It is that trained pilots reported unknown objects in airspace used for high-speed military training, and that the reporting system appeared ill-suited to handling the risk. That makes Virginia Beach important even for sceptical readers: an unidentified object near fast jets can be a hazard whether it is a drone, balloon, sensor error, foreign platform, misidentified object or something still unresolved.
 
 ## Why Virginia Beach became central to modern UAP testimony
 
-Virginia Beach is not just a coastal resort city in this story. It is home to Naval Air Station Oceana, a major Navy fighter base, and it sits beside offshore warning areas used for military training. Graves’ testimony placed the UAP reports in Warning Area W-72, about 10 miles off the Virginia Beach coast, where fighter crews practise demanding manoeuvres in controlled military airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</span></span></span>
+Virginia Beach is not just a coastal resort city in this story. It is home to Naval Air Station Oceana, a major Navy fighter base, and it sits beside offshore warning areas used for military training. Graves’ testimony placed the UAP reports in Warning Area W-72, about 10 miles off the Virginia Beach coast, where fighter crews practise demanding manoeuvres in controlled military airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</span></span></span>
 
-That setting matters because the witnesses were not casual observers watching lights from a beach. They were military aviators operating aircraft equipped with radar and targeting sensors. Graves said the reports began after a radar upgrade, when crews started seeing unknown tracks that were first treated as possible software or equipment errors. According to his statement, the concern grew when the tracks were correlated with other onboard sensors and, in some cases, visual identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span>
+That setting matters because the witnesses were not casual observers watching lights from a beach. They were military aviators operating aircraft equipped with radar and targeting sensors. Graves said the reports began after a radar upgrade, when crews started seeing unknown tracks that were first treated as possible software or equipment errors. According to his statement, the concern grew when the tracks were correlated with other onboard sensors and, in some cases, visual identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span>
 
-This is why the Virginia Beach accounts occupy a different category from many older UFO cases in the state. They are still unresolved in public, and much of the underlying data has not been released. But the claims are tied to named witnesses, military operating areas, flight-safety reporting, and later congressional testimony. Local reporting in Virginia also treated the 2023 hearing as a state-relevant event because Graves had been stationed in Virginia Beach and described incidents off the Virginia coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://virginiamercury.com/2023/07/27/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-snippet">Alleged Virginia encounters among cases cited in...Jul 27, 2023 — That includes a 2014 encounter when a “dark gray or black cube inside...</span></span></span>
+This is why the Virginia Beach accounts occupy a different category from many older UFO cases in the state. They are still unresolved in public, and much of the underlying data has not been released. But the claims are tied to named witnesses, military operating areas, flight-safety reporting, and later congressional testimony. Local reporting in Virginia also treated the 2023 hearing as a state-relevant event because Graves had been stationed in Virginia Beach and described incidents off the Virginia coast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://virginiamercury.com/2023/07/27/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-snippet">Alleged Virginia encounters among cases cited in...Jul 27, 2023 — That includes a 2014 encounter when a “dark gray or black cube inside...</span></span></span>
 
 The caution is equally important. Public testimony is not the same as a public technical reconstruction. The most detailed radar data, pilot debriefs, maintenance [records]({{ 'records-abc79c/' | relative_url }}), range-control information and classified sensor material have not been made available in a form that independent analysts can fully test. The case is therefore significant, but not settled.
 
 <img src="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-1-dark.svg" | relative_url }}" alt="Navy UAP illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ryan Graves and the 2014 reports
 
-Ryan Graves, a former Navy lieutenant and F/A-18 pilot, told the House Oversight Committee in July 2023 that the Virginia Beach encounters became an “open secret” among aircrew. His core claim was that UAP were seen or detected repeatedly in the local training environment, not that one isolated event had been misunderstood years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasadvocate.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasadvocate.com">[arkansasadvocate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasadvocate.com</span><span class="citation-popover-title">is there evidence of extraterrestrial life congress tries to figure it out</span><span class="citation-popover-snippet">is there evidence of extraterrestrial life congress tries to figure it out</span></span></span>
+Ryan Graves, a former Navy lieutenant and F/A-18 pilot, told the House Oversight Committee in July 2023 that the Virginia Beach encounters became an “open secret” among aircrew. His core claim was that UAP were seen or detected repeatedly in the local training environment, not that one isolated event had been misunderstood years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasadvocate.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasadvocate.com">[arkansasadvocate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasadvocate.com</span><span class="citation-popover-title">is there evidence of extraterrestrial life congress tries to figure it out</span><span class="citation-popover-snippet">is there evidence of extraterrestrial life congress tries to figure it out</span></span></span>
 
-The timeline he presented begins in 2014. After upgrades to the jets’ radar systems, he said crews began picking up objects in the operating area. At first, radar error was a reasonable suspicion. Fighter aircraft are complex sensor platforms, and modern radar systems can produce confusing returns if data are incomplete, filtered oddly or interpreted under pressure. But Graves’ testimony says the objects were later correlated with other systems, including infrared sensors, and eventually with visual sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span>
+The timeline he presented begins in 2014. After upgrades to the jets’ radar systems, he said crews began picking up objects in the operating area. At first, radar error was a reasonable suspicion. Fighter aircraft are complex sensor platforms, and modern radar systems can produce confusing returns if data are incomplete, filtered oddly or interpreted under pressure. But Graves’ testimony says the objects were later correlated with other systems, including infrared sensors, and eventually with visual sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span>
 
 The public significance lies in the combination of repeated detection and operational setting. A single radar return can be dismissed more easily. A repeated pattern in military training airspace is harder to ignore, even if the final explanation remains ordinary. That is why the Virginia Beach reports have been absorbed into the broader UAP debate about how pilots should report unusual airborne objects without stigma or career risk.
 
@@ -296,9 +296,9 @@ The evidence, however, remains uneven. Graves is a named, credible witness to th
 
 ## The cube-in-sphere incident
 
-The most memorable Virginia Beach claim is the “cube inside a sphere” incident. Graves testified that during a training mission in Warning Area W-72, two F/A-18 Super Hornets were split by a UAP. The object was described as a dark grey or black cube inside a clear sphere, estimated in later reporting and testimony as roughly five to 15 feet across, and close enough to create an immediate safety concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</span></span></span>
+The most memorable Virginia Beach claim is the “cube inside a sphere” incident. Graves testified that during a training mission in Warning Area W-72, two F/A-18 Super Hornets were split by a UAP. The object was described as a dark grey or black cube inside a clear sphere, estimated in later reporting and testimony as roughly five to 15 feet across, and close enough to create an immediate safety concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</span></span></span>
 
-The incident matters because it is concrete. Instead of a vague report of distant lights, it describes a near encounter in a defined area, involving fast military aircraft and a shape that pilots found distinctive. Graves said the flight lead terminated the mission and returned to base, and that a safety report was submitted. He also stated that the incident did not receive the kind of official follow-up he believed it warranted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span>
+The incident matters because it is concrete. Instead of a vague report of distant lights, it describes a near encounter in a defined area, involving fast military aircraft and a shape that pilots found distinctive. Graves said the flight lead terminated the mission and returned to base, and that a safety report was submitted. He also stated that the incident did not receive the kind of official follow-up he believed it warranted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span>
 
 For believers, the odd geometry of the object is part of the appeal: a cube touching the inside of a transparent sphere sounds unlike conventional aircraft. For sceptics, the same description raises questions about perception, distance, speed, optical effects and the difficulty of judging an unfamiliar object during a brief high-speed encounter. A small balloon-like object, drone, target, sensor artefact or misperceived airborne item cannot be ruled out from the public evidence alone.
 
@@ -320,7 +320,7 @@ That distinction keeps the case grounded. The testimony is important, but it doe
 
 The Virginia Beach story is often pulled into arguments about extraterrestrial life, secret technology or government concealment. But its strongest public value is more practical: pilots said unknown objects were appearing in active training airspace. At fighter-jet speeds, even a small object can become a serious collision hazard.
 
-This safety framing is not just Graves’ personal emphasis. Official and institutional sources have increasingly treated UAP reporting as an aviation and national-security issue. The Office of the Director of National Intelligence reported that UAP events continued to occur in restricted or sensitive airspace, raising concerns about flight safety and possible adversary collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Unclassified 2022 Annual Report UAP</span></span></span> NASA’s independent UAP study also argued that the airspace-safety issue is real and that better use of aviation reporting systems could improve the quality of data available for analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This safety framing is not just Graves’ personal emphasis. Official and institutional sources have increasingly treated UAP reporting as an aviation and national-security issue. The Office of the Director of National Intelligence reported that UAP events continued to occur in restricted or sensitive airspace, raising concerns about flight safety and possible adversary collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Unclassified 2022 Annual Report UAP</span></span></span> NASA’s independent UAP study also argued that the airspace-safety issue is real and that better use of aviation reporting systems could improve the quality of data available for analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 The safety concern has several layers:
 
@@ -337,13 +337,13 @@ This is the key reason the Virginia Beach testimony should not be judged only by
 <img src="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-2-dark.svg" | relative_url }}" alt="Navy UAP illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official responses changed after cases like this
 
-The Virginia Beach reports sit within a wider shift in how US institutions talk about UAP. In 2019, the US Navy was reported to be developing formal procedures for pilots to report unidentified aerial phenomena, partly to reduce stigma and improve data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO sightings: U.S. Navy drafts guidelines to report</span><span class="citation-popover-snippet">The Washington Post UFO sightings: U.S. Navy drafts guidelines to report</span></span></span> That change matters because Graves’ central complaint was not only that pilots saw strange things, but that there was no effective system for turning those reports into timely safety analysis.
+The Virginia Beach reports sit within a wider shift in how US institutions talk about UAP. In 2019, the US Navy was reported to be developing formal procedures for pilots to report unidentified aerial phenomena, partly to reduce stigma and improve data collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO sightings: U.S. Navy drafts guidelines to report</span><span class="citation-popover-snippet">The Washington Post UFO sightings: U.S. Navy drafts guidelines to report</span></span></span> That change matters because Graves’ central complaint was not only that pilots saw strange things, but that there was no effective system for turning those reports into timely safety analysis.
 
-Civil aviation procedures have also moved towards more explicit UAP reporting. Current Federal Aviation Administration material says pilot reports or air-traffic observations of UAP activity should be reported through the Domestic Events Network and should include details such as aircraft call sign, location, altitude, flight direction, UAP description and whether the object appeared on radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">chap4 section 7</span><span class="citation-popover-snippet">chap4 section 7</span></span></span>
+Civil aviation procedures have also moved towards more explicit UAP reporting. Current Federal Aviation Administration material says pilot reports or air-traffic observations of UAP activity should be reported through the Domestic Events Network and should include details such as aircraft call sign, location, altitude, flight direction, UAP description and whether the object appeared on radar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">chap4 section 7</span><span class="citation-popover-snippet">chap4 section 7</span></span></span>
 
 This does not mean the FAA or Navy has endorsed exotic explanations. It means unusual airborne reports are being treated as reportable operational data. That is a major difference from older UFO culture, where reports often moved through civilian clubs, local newspapers or informal military channels. Virginia Beach is one of the cases that helps explain why the language changed from “UFO story” to “airspace safety problem”.
 
-The Department of Defense’s All-domain Anomaly Resolution Office has also continued to catalogue UAP reports. A 2024 Department of Defense release said AARO’s reviewed cases had risen to more than 1,600 by 1 June 2024, while making clear that many reports are resolved or remain under review rather than being evidence of aliens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense releases the annual report on unidentified anomalous phen</span><span class="citation-popover-snippet">department of defense releases the annual report on unidentified anomalous phen</span></span></span> The rise in reporting is partly a data story: when institutions make it easier to report, more reports appear.
+The Department of Defense’s All-domain Anomaly Resolution Office has also continued to catalogue UAP reports. A 2024 Department of Defense release said AARO’s reviewed cases had risen to more than 1,600 by 1 June 2024, while making clear that many reports are resolved or remain under review rather than being evidence of aliens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense releases the annual report on unidentified anomalous phen</span><span class="citation-popover-snippet">department of defense releases the annual report on unidentified anomalous phen</span></span></span> The rise in reporting is partly a data story: when institutions make it easier to report, more reports appear.
 
 ## The main doubts and ordinary explanations
 
@@ -351,11 +351,11 @@ A balanced account has to take the sceptical side seriously. The Virginia Beach 
 
 The first is **sensor and interpretation error**. Graves’ own account says the reports began after radar upgrades, and early suspicion focused on possible radar problems. That does not disprove the sightings, especially if multiple sensors and visual reports were involved, but it does mean analysts should ask whether new systems were detecting objects, artefacts or clutter that older systems missed.
 
-The second is **drones, balloons or airborne clutter**. ODNI and Pentagon reporting has repeatedly noted that many UAP reports, when resolved, turn out to have mundane characteristics or are consistent with balloons, unmanned aircraft systems, birds, debris or other ordinary sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Unclassified 2022 Annual Report UAP</span></span></span> A small object in a training area could be dangerous without being technologically mysterious.
+The second is **drones, balloons or airborne clutter**. ODNI and Pentagon reporting has repeatedly noted that many UAP reports, when resolved, turn out to have mundane characteristics or are consistent with balloons, unmanned aircraft systems, birds, debris or other ordinary sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Unclassified 2022 Annual Report UAP</span></span></span> A small object in a training area could be dangerous without being technologically mysterious.
 
 The third is **distance and speed uncertainty**. Pilots are trained observers, but even trained observers can misjudge an unfamiliar object if its size, range and motion are unknown. An object that appears stationary against the wind might be moving differently from the aircraft, drifting, or being seen under conditions that make motion hard to judge.
 
-The fourth is **incomplete public evidence**. The public does not have the full sensor package, safety report trail, maintenance context, range-control logs or classified review. Without those materials, outsiders cannot confidently rank explanations. NASA’s UAP report made a similar point in broader terms: stronger conclusions require better-calibrated data, systematic collection and reduced stigma around reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The fourth is **incomplete public evidence**. The public does not have the full sensor package, safety report trail, maintenance context, range-control logs or classified review. Without those materials, outsiders cannot confidently rank explanations. NASA’s UAP report made a similar point in broader terms: stronger conclusions require better-calibrated data, systematic collection and reduced stigma around reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 This sceptical framing should not be read as dismissal. It is the difference between taking pilots seriously and treating every pilot report as proof of the most dramatic explanation. Serious analysis requires both respect for witnesses and caution about inference.
 
@@ -373,7 +373,7 @@ The case also links naturally to other Virginia airspace concerns. Modern drone 
 
 ## How strong is the case?
 
-The Virginia Beach Navy UAP testimony is strong as evidence of a reporting and safety problem. It is weaker as evidence for any specific extraordinary origin. Graves is a named former Navy pilot, his claims were given in a formal congressional setting, and the reported cube-in-sphere incident is tied to a specific offshore training area near Virginia Beach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span> Those points make the case more substantial than a typical anonymous UFO anecdote.
+The Virginia Beach Navy UAP testimony is strong as evidence of a reporting and safety problem. It is weaker as evidence for any specific extraordinary origin. Graves is a named former Navy pilot, his claims were given in a formal congressional setting, and the reported cube-in-sphere incident is tied to a specific offshore training area near Virginia Beach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</span></span></span> Those points make the case more substantial than a typical anonymous UFO anecdote.
 
 But the unresolved label should be kept honest. Publicly available material does not establish what the objects were. It does not prove alien technology, a foreign breakthrough, a secret US programme or a single unified phenomenon behind every report. It shows that pilots described recurring unknowns in a place where unknowns should have triggered careful safety handling.
 
@@ -382,194 +382,194 @@ The most reasonable conclusion is therefore restrained: the Virginia Beach Navy 
 <img src="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-3-dark.svg" | relative_url }}" alt="Navy UAP illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_beach_navy_9d5d77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Navy Pilots See Off Virginia Beach?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Navy Pilots See Off Virginia Beach?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong match for military pilot testimony and official cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for military pilot testimony and official cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers Navy encounters, defense reporting, and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Navy encounters, defense reporting, and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Closely aligned with military-airspace and national-security themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligned with military-airspace and national-security themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides background on advanced aviation technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on advanced aviation technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-navy-pilots-see-off-virginia-beach-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-navy-pilots-see-off-virginia-beach-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ The most reasonable conclusion is therefore restrained: the Virginia Beach Navy 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ The most reasonable conclusion is therefore restrained: the Virginia Beach Navy 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ The most reasonable conclusion is therefore restrained: the Virginia Beach Navy 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ The most reasonable conclusion is therefore restrained: the Virginia Beach Navy 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ The most reasonable conclusion is therefore restrained: the Virginia Beach Navy 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,155 +775,155 @@ The most reasonable conclusion is therefore restrained: the Virginia Beach Navy 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: govinfo.gov  
    Title: CHRG 118hhrg53022  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA... coast of Virginia Beach, two F-18 Super Hornets were split by a UAP. The object, described as...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: Ryan HOC Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeRyan HOC TestimonyJul 25, 2023 — My name is Ryan “FOBS” Graves and I am a former F-18 pilot with over a decade o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: virginiamercury.com  
-   Link: <a href="https://virginiamercury.com/2023/07/27/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2023/07/27/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alleged Virginia encounters among cases cited in...Jul 27, 2023 — That includes a 2014 encounter when a “dark gray or black cube inside...</p></details>
+   Link:<a href="https://virginiamercury.com/2023/07/27/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2023/07/27/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alleged Virginia encounters among cases cited in...Jul 27, 2023 — That includes a 2014 encounter when a “dark gray or black cube inside...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arkansasadvocate.com  
    Title: is there evidence of extraterrestrial life congress tries to figure it out  
-   Link: <a href="https://arkansasadvocate.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow">https://arkansasadvocate.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/</a>  
+   Link:<a href="https://arkansasadvocate.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow">https://arkansasadvocate.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
    Title: chap4 section 7  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
    Title: Order 7110.65  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-11/Order%207110.65.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-11/Order%207110.65.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2022-11/Order%207110.65.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-11/Order%207110.65.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
    Title: 7110.65BB Chg 2 dtd 1 22 26  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_2_dtd_1-22-26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_2_dtd_1-22-26.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_2_dtd_1-22-26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Chg_2_dtd_1-22-26.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
    Title: 7110.65BB Bsc w Chg 1 and 2 dtd 1 22 26 Final  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7110.65BB_Bsc_w_Chg_1_and_2_dtd_1-22-26_Final.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: secnav.navy.mil  
    Title: mil UF O_Redacted  
-   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf</a>  
+   Link:<a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: docs.house.gov  
    Title: By Event.aspx  
-   Link: <a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
+   Link:<a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.com  
    Title: us navy ufo sighting guidelines  
-   Link: <a href="https://www.history.com/articles/us-navy-ufo-sighting-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/us-navy-ufo-sighting-guidelines</a>  
+   Link:<a href="https://www.history.com/articles/us-navy-ufo-sighting-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/us-navy-ufo-sighting-guidelines</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: washingtonpost.com  
    Title: The Washington Post UFO sightings: U.S. Navy drafts guidelines to report  
-   Link: <a href="https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/</a>  
+   Link:<a href="https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/story.php/?id=55845270277&amp;story_fbid=463033807800826" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php/?id=55845270277&amp;story_fbid=463033807800826</a>  
+   Link:<a href="https://www.facebook.com/story.php/?id=55845270277&amp;story_fbid=463033807800826" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php/?id=55845270277&amp;story_fbid=463033807800826</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Navy Pilot's Chilling UFO Encounter: The Cube in the Sphere | Planet Tyrus  
-   Link: <a href="https://www.youtube.com/watch?v=4_EcPNI9P8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_EcPNI9P8Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This congressional testimony statement features former Navy pilot Ryan Graves detailing the F/A-18 radar tracking and visual encounters o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4_EcPNI9P8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_EcPNI9P8Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This congressional testimony statement features former Navy pilot Ryan Graves detailing the F/A-18 radar tracking and visual encounters o...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Ryan Graves Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: <a href="https://www.youtube.com/watch?v=Lf6y9QHj5S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lf6y9QHj5S8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lf6y9QHj5S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lf6y9QHj5S8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Former Navy pilot says he regularly detected UFOs, calls them security risk  
-   Link: <a href="https://www.youtube.com/watch?v=zNsxtNUeFB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zNsxtNUeFB4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>F-18 Pilot Ryan Graves: Threats Beyond the State of the Art. Unidentified Anomalous Phenomena (UAP)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zNsxtNUeFB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zNsxtNUeFB4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>F-18 Pilot Ryan Graves: Threats Beyond the State of the Art. Unidentified Anomalous Phenomena (UAP)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy pilot says he regularly detected UFOs, calls them security risk...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy pilot says he regularly detected UFOs, calls them security risk...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FDrMSwCLQjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FDrMSwCLQjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Pilot&#x27;s Chilling UFO Encounter: The Cube in the Sphere | Planet Tyrus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FDrMSwCLQjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FDrMSwCLQjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Pilot&#x27;s Chilling UFO Encounter: The Cube in the Sphere | Planet Tyrus...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: abs-cbn.com  
-   Link: <a href="https://www.abs-cbn.com/overseas/05/27/19/wow-what-is-that-us-navy-pilots-report-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.abs-cbn.com/overseas/05/27/19/wow-what-is-that-us-navy-pilots-report-ufos</a>  
+   Link:<a href="https://www.abs-cbn.com/overseas/05/27/19/wow-what-is-that-us-navy-pilots-report-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.abs-cbn.com/overseas/05/27/19/wow-what-is-that-us-navy-pilots-report-ufos</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/unauthorized-aircraft-sightings-lead-navy-develop-ufo-reporting/story?id=62625928" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/unauthorized-aircraft-sightings-lead-navy-develop-ufo-reporting/story?id=62625928</a>  
+   Link:<a href="https://abcnews.com/Politics/unauthorized-aircraft-sightings-lead-navy-develop-ufo-reporting/story?id=62625928" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/unauthorized-aircraft-sightings-lead-navy-develop-ufo-reporting/story?id=62625928</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d</a>  
+   Link:<a href="https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>

@@ -250,20 +250,20 @@ image: /assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_tri
 
 ## Introduction
 
-The 1972 disappearance of a small aircraft carrying two United States congressmen — **Hale Boggs** and **Nick Begich** — has long been one of the most discussed mysteries in Alaskan aviation history. On 16 October 1972 a twin‑engine Cessna 310 set out from Anchorage for Juneau with Boggs, Begich, the pilot Don Jonz and Begich’s aide Russell Brown aboard. Despite triggering one of the largest search‑and‑rescue operations in U.S. history, **no confirmed wreckage, debris or remains were ever located** — a fact that has made this case a persistent touchstone for broader narratives about the so‑called *Alaska [Triangle]({{ 'triangle/' | relative_url }})* and the idea of unexplained vanishings in the state’s vast wilderness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
+The 1972 disappearance of a small aircraft carrying two United States congressmen — **Hale Boggs** and **Nick Begich** — has long been one of the most discussed mysteries in Alaskan aviation history. On 16 October 1972 a twin‑engine Cessna 310 set out from Anchorage for Juneau with Boggs, Begich, the pilot Don Jonz and Begich’s aide Russell Brown aboard. Despite triggering one of the largest search‑and‑rescue operations in U.S. history, **no confirmed wreckage, debris or remains were ever located** — a fact that has made this case a persistent touchstone for broader narratives about the so‑called *Alaska [Triangle]({{ 'triangle/' | relative_url }})* and the idea of unexplained vanishings in the state’s vast wilderness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-1-dark.svg" | relative_url }}" alt="Boggs flight illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Happened on the Anchorage‑to‑Juneau Flight
 
-The flight plan on that October afternoon covered roughly 570 miles across southern Alaska’s coastal mountains and fjords. Weather conditions were marginal, with reports of freezing rain, poor visibility and rough air — typical hazards for aviation in the Gulf of Alaska corridor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
+The flight plan on that October afternoon covered roughly 570 miles across southern Alaska’s coastal mountains and fjords. Weather conditions were marginal, with reports of freezing rain, poor visibility and rough air — typical hazards for aviation in the Gulf of Alaska corridor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
 
 Official records from the **National Transportation Safety Board (NTSB)** and contemporaneous reporting note that:
 
-* The aircraft, tail number N1812H, **failed to arrive** at its destination and disappeared from available tracking data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
-* Despite a search involving Coast Guard, Army, Navy, Air Force, Civil Air Patrol and dozens of civilian aircraft over a grid covering tens of thousands of square miles, **no credible locator signal, wreckage or human remains were found** before the search was suspended after 39 days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[WBD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
-* At the time, small aircraft were not universally required to carry fixed Emergency Locator Transmitters (ELTs), and investigators later found the plane did **not have a functioning ELT**, hampering search efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
+* The aircraft, tail number N1812H, **failed to arrive** at its destination and disappeared from available tracking data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
+* Despite a search involving Coast Guard, Army, Navy, Air Force, Civil Air Patrol and dozens of civilian aircraft over a grid covering tens of thousands of square miles, **no credible locator signal, wreckage or human remains were found** before the search was suspended after 39 days.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[WBD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
+* At the time, small aircraft were not universally required to carry fixed Emergency Locator Transmitters (ELTs), and investigators later found the plane did **not have a functioning ELT**, hampering search efforts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
 
-With no additional evidence, the NTSB **did not determine a definitive cause** of the disappearance; prevailing explanations centre on weather‑related loss of control, terrain impact, or icing. The four occupants were legally declared dead by the end of 1972. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
+With no additional evidence, the NTSB **did not determine a definitive cause** of the disappearance; prevailing explanations centre on weather‑related loss of control, terrain impact, or icing. The four occupants were legally declared dead by the end of 1972.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nC6EAclxwcQ" title="Uncovering the BIGGEST VANISHING in Alaskan History | Hunting History with Steven Rinella (S1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nC6EAclxwcQ" target="_blank" rel="noopener noreferrer">Uncovering the BIGGEST VANISHING in Alaskan History | Hunting History with Steven Rinella (S1)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 342.2K &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nC6EAclxwcQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nC6EAclxwcQ">Open on YouTube</a></p></div></div></div>
 
@@ -271,26 +271,26 @@ With no additional evidence, the NTSB **did not determine a definitive cause** o
 
 The enduring mystery of the Boggs‑Begich disappearance rests largely on the fact that an aircraft carrying national political figures could disappear so completely. Yet several grounded factors explain why the wreckage was never located:
 
-**Vast and hostile terrain:** The region between Anchorage and Juneau consists of severe coastal mountains, deep fjords, expansive glaciers and dense forest. This terrain can conceal crashed aircraft under snow and ice or within inaccessible ravines, making visual or aerial detection exceptionally difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planeandpilotmag.com">[Plane &amp; Pilot Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planeandpilotmag.com</span><span class="citation-popover-title">1972 cessna 310c alaska disappearance</span><span class="citation-popover-snippet">Plane &amp; Pilot Magazine1972 Cessna 310C Alaska Disappearance - Plane + PilotSeptember 24, 2020...</span><span class="citation-popover-meta">Published: September 24, 2020</span></span></span>
+**Vast and hostile terrain:** The region between Anchorage and Juneau consists of severe coastal mountains, deep fjords, expansive glaciers and dense forest. This terrain can conceal crashed aircraft under snow and ice or within inaccessible ravines, making visual or aerial detection exceptionally difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planeandpilotmag.com">[Plane &amp; Pilot Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planeandpilotmag.com</span><span class="citation-popover-title">1972 cessna 310c alaska disappearance</span><span class="citation-popover-snippet">Plane &amp; Pilot Magazine1972 Cessna 310C Alaska Disappearance - Plane + PilotSeptember 24, 2020...</span><span class="citation-popover-meta">Published: September 24, 2020</span></span></span>
 
-**Weather and sea conditions:** If the plane went down in open water or against steep terrain during marginal conditions, debris would have quickly sunk or been obscured, even before searchers could reach the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planeandpilotmag.com">[Plane &amp; Pilot Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planeandpilotmag.com</span><span class="citation-popover-title">1972 cessna 310c alaska disappearance</span><span class="citation-popover-snippet">Plane &amp; Pilot Magazine1972 Cessna 310C Alaska Disappearance - Plane + PilotSeptember 24, 2020...</span><span class="citation-popover-meta">Published: September 24, 2020</span></span></span>
+**Weather and sea conditions:** If the plane went down in open water or against steep terrain during marginal conditions, debris would have quickly sunk or been obscured, even before searchers could reach the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planeandpilotmag.com">[Plane &amp; Pilot Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planeandpilotmag.com</span><span class="citation-popover-title">1972 cessna 310c alaska disappearance</span><span class="citation-popover-snippet">Plane &amp; Pilot Magazine1972 Cessna 310C Alaska Disappearance - Plane + PilotSeptember 24, 2020...</span><span class="citation-popover-meta">Published: September 24, 2020</span></span></span>
 
-**Limited technology of the time:** In 1972, search technology — especially in remote Alaska — was less advanced than today, and the absence of a reliable ELT signal left searchers with an enormous grid to comb without precise indications of where the aircraft might have gone down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
+**Limited technology of the time:** In 1972, search technology — especially in remote Alaska — was less advanced than today, and the absence of a reliable ELT signal left searchers with an enormous grid to comb without precise indications of where the aircraft might have gone down.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
 
 Taken together, these factors — not uncommon in Alaskan aviation history — provide a naturalistic explanation for the lack of wreckage, without requiring extraordinary phenomena.
 
 <img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-2-dark.svg" | relative_url }}" alt="Boggs flight illustration 2" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Later Retellings Linked the Case to UFO Lore and the Alaska Triangle
 
-Although the disappearance was investigated and discussed widely at the time, **its mythic significance grew over subsequent decades** as part of the broader Alaska Triangle narrative — a folklore‑tinged idea that vast swathes of Alaskan wilderness are sites of unusually frequent unexplained disappearances and sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legendsofamerica.com">[Legends of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legendsofamerica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Although the disappearance was investigated and discussed widely at the time, **its mythic significance grew over subsequent decades** as part of the broader Alaska Triangle narrative — a folklore‑tinged idea that vast swathes of Alaskan wilderness are sites of unusually frequent unexplained disappearances and sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legendsofamerica.com">[Legends of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legendsofamerica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The Boggs‑Begich case features in many accounts of the Alaska Triangle for three main reasons:
 
-**High profile victims:** The involvement of a national political leader and a sitting congressman ensured the story entered national memory and was more widely recounted than typical aviation accidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
+**High profile victims:** The involvement of a national political leader and a sitting congressman ensured the story entered national memory and was more widely recounted than typical aviation accidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
 
-**Complete lack of physical evidence:** The absence of any wreckage or identifiable debris, despite extensive searching, left space for speculation to flourish. In narratives outside the aviation community, this absence is sometimes framed as mysterious “vanishing” rather than a plausible crash in hostile conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legendsofamerica.com">[Legends of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legendsofamerica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Complete lack of physical evidence:** The absence of any wreckage or identifiable debris, despite extensive searching, left space for speculation to flourish. In narratives outside the aviation community, this absence is sometimes framed as mysterious “vanishing” rather than a plausible crash in hostile conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legendsofamerica.com">[Legends of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legendsofamerica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Integration with broader myths:** Later books, television pieces and online articles about the Alaska Triangle often introduce the Boggs disappearance early in their storytelling as an anchor event — much as the Bermuda Triangle is often introduced with Flight 19 — and then weave in imagery of UFOs, cryptids, energy vortices or other unexplained phenomena. Some fringe retellings even hint at conspiracy elements connected with Boggs’s political career, though these are speculative and largely unsupported by credible evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
+**Integration with broader myths:** Later books, television pieces and online articles about the Alaska Triangle often introduce the Boggs disappearance early in their storytelling as an anchor event — much as the Bermuda Triangle is often introduced with Flight 19 — and then weave in imagery of UFOs, cryptids, energy vortices or other unexplained phenomena. Some fringe retellings even hint at conspiracy elements connected with Boggs’s political career, though these are speculative and largely unsupported by credible evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.com</span><span class="citation-popover-snippet">August 1, 2019...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
 
 While UFO and paranormal motifs are sometimes attached to the case in popular lore — especially in fringe‑minded media — responsible reporting and historical records attribute the disappearance to accident risk factors typical in Alaskan aviation, rather than verified contact with unknown craft.
 
@@ -300,201 +300,201 @@ While UFO and paranormal motifs are sometimes attached to the case in popular lo
 
 ## A Legacy in Aviation Safety and Myth
 
-In the aftermath of the disappearance, aviation safety policy in the United States moved to mandate more widespread use of emergency beacons on private aircraft, a concrete legacy of the tragedy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
+In the aftermath of the disappearance, aviation safety policy in the United States moved to mandate more widespread use of emergency beacons on private aircraft, a concrete legacy of the tragedy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hale Boggs</span><span class="citation-popover-snippet">Hale Boggs</span></span></span>
 
-Within the context of Alaska’s broader missing‑persons and aviation history, the Boggs‑Begich flight remains an important example of how **natural hazard, limited evidence and public imagination can combine** to elevate a tragedy into myth‑making. It serves as a starting point in many accounts that discuss the Alaska Triangle’s lore, even though the available evidence points to familiar, if tragic, wilderness risks rather than unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legendsofamerica.com">[Legends of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legendsofamerica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Within the context of Alaska’s broader missing‑persons and aviation history, the Boggs‑Begich flight remains an important example of how **natural hazard, limited evidence and public imagination can combine** to elevate a tragedy into myth‑making. It serves as a starting point in many accounts that discuss the Alaska Triangle’s lore, even though the available evidence points to familiar, if tragic, wilderness risks rather than unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legendsofamerica.com">[Legends of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legendsofamerica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-3-dark.svg" | relative_url }}" alt="Boggs flight illustration 3" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How one lost flight shaped the myth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How one lost flight shaped the myth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Appeals to readers drawn to unexplained aircraft disappearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Appeals to readers drawn to unexplained aircraft disappearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how clusters of strange reports evolve into regional legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explores how clusters of strange reports evolve into regional legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for how unresolved events become legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for how unresolved events become legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alaska Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alaska Triangle">The Alaska Triangle</a>
-        </h4>
-        <p class="fr-book-author">By Nick Jans</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alaska Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alaska Triangle">The Alaska Triangle</a>
+</h4>
+<p class="fr-book-author">By Nick Jans</p>
         
-        <p class="fr-book-desc">The Boggs disappearance is central to Triangle mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The Boggs disappearance is central to Triangle mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna 310 .60 120&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates"><img src="https://i.ebayimg.com/images/g/gksAAOSwTB5m-dsX/s-l225.jpg" alt="Listing image for Cessna 310 .60 120&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna 310 .60 120&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna 310 .60 120&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates"><img src="https://i.ebayimg.com/images/g/gksAAOSwTB5m-dsX/s-l225.jpg" alt="Listing image for Cessna 310 .60 120&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna 310 .60 120&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna C310R Redcliffe Aero Club Solid Mahogany Wood Handcrafted Display Model"><img src="https://i.ebayimg.com/images/g/lGAAAOSwvyln695X/s-l225.jpg" alt="Listing image for Cessna C310R Redcliffe Aero Club Solid Mahogany Wood Handcrafted Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna C310R Redcliffe Aero Club Solid Mahogany Wood Handcrafted Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna C310R Redcliffe Aero Club Solid Mahogany Wood Handcrafted Display Model"><img src="https://i.ebayimg.com/images/g/lGAAAOSwvyln695X/s-l225.jpg" alt="Listing image for Cessna C310R Redcliffe Aero Club Solid Mahogany Wood Handcrafted Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna C310R Redcliffe Aero Club Solid Mahogany Wood Handcrafted Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna 310 C/L 36&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates"><img src="https://i.ebayimg.com/images/g/rA8AAOSw9X5m-dqa/s-l225.jpg" alt="Listing image for Cessna 310 C/L 36&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna 310 C/L 36&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna 310 C/L 36&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates"><img src="https://i.ebayimg.com/images/g/rA8AAOSw9X5m-dqa/s-l225.jpg" alt="Listing image for Cessna 310 C/L 36&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna 310 C/L 36&quot; Wingspan RC Model Airplane Printed Plans &amp; Templates</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna 310 Blue Canoe Twin Engine Plane Desk Top Display 1/24 Model PS Airplane"><img src="https://i.ebayimg.com/images/g/Y2kAAOSwV0toKjwj/s-l225.jpg" alt="Listing image for Cessna 310 Blue Canoe Twin Engine Plane Desk Top Display 1/24 Model PS Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna 310 Blue Canoe Twin Engine Plane Desk Top Display 1/24 Model PS Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cessna 310 Blue Canoe Twin Engine Plane Desk Top Display 1/24 Model PS Airplane"><img src="https://i.ebayimg.com/images/g/Y2kAAOSwV0toKjwj/s-l225.jpg" alt="Listing image for Cessna 310 Blue Canoe Twin Engine Plane Desk Top Display 1/24 Model PS Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">Cessna 310 Blue Canoe Twin Engine Plane Desk Top Display 1/24 Model PS Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cessna 310 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: cessna 310 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cessna+310+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-lost-flight-shaped-the-myth-cessna-310-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cessna 310 model" data-ebay-reference="how-one-lost-flight-shaped-the-myth-cessna-310-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ Within the context of Alaska’s broader missing‑persons and aviation history,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ Within the context of Alaska’s broader missing‑persons and aviation history,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ Within the context of Alaska’s broader missing‑persons and aviation history,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ Within the context of Alaska’s broader missing‑persons and aviation history,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ Within the context of Alaska’s broader missing‑persons and aviation history,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,94 +700,94 @@ Within the context of Alaska’s broader missing‑persons and aviation history,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Hale Boggs  
-   Link: <a href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hale_Boggs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hale_Boggs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hale_Boggs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: Discovery UKVanishing Point: Legends and Lore of the Alaska Triangle  
-   Link: <a href="https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKNovember 10, 2025...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKNovember 10, 2025...</p></details>
    Published: November 10, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: discovery.com  
-   Link: <a href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2019...</p></details>
+   Link:<a href="https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.discovery.com/exploration/Alaskas-Bermuda-Triangle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2019...</p></details>
    Published: August 1, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: legendsofamerica.com  
-   Link: <a href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.legendsofamerica.com/alaska-triangle/</a>  
+   Link:<a href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.legendsofamerica.com/alaska-triangle/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: planeandpilotmag.com  
    Title: 1972 cessna 310c alaska disappearance  
-   Link: <a href="https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane &amp; Pilot Magazine1972 Cessna 310C Alaska Disappearance - Plane + PilotSeptember 24, 2020...</p></details>
+   Link:<a href="https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/1972-cessna-310c-alaska-disappearance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane &amp; Pilot Magazine1972 Cessna 310C Alaska Disappearance - Plane + PilotSeptember 24, 2020...</p></details>
    Published: September 24, 2020  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/the-mystery-of-the-alaska-triangle?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-mystery-of-the-alaska-triangle?page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious disappearances of the Alaska Triangle | Sky HISTORY TV ChannelImage: Steven Rinella exploring a glacier in Alaska THE MYST...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/the-mystery-of-the-alaska-triangle?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-mystery-of-the-alaska-triangle?page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious disappearances of the Alaska Triangle | Sky HISTORY TV ChannelImage: Steven Rinella exploring a glacier in Alaska THE MYST...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: paranormalcatalog.net  
    Title: Image: Legends of America Nestled within the breathtaking lands  
-   Link: <a href="https://www.paranormalcatalog.net/unexplained-phenomena/the-mystery-of-the-alaska-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalcatalog.net/unexplained-phenomena/the-mystery-of-the-alaska-triangle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Alaska TriangleMay 9, 2023 — THE MYSTERY OF THE ALASKA TRIANGLE 9 May Written By Suzie Paulin Image: A map of the Alas...</p></details>
+   Link:<a href="https://www.paranormalcatalog.net/unexplained-phenomena/the-mystery-of-the-alaska-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalcatalog.net/unexplained-phenomena/the-mystery-of-the-alaska-triangle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Alaska TriangleMay 9, 2023 — THE MYSTERY OF THE ALASKA TRIANGLE 9 May Written By Suzie Paulin Image: A map of the Alas...</p></details>
    Published: May 9, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: juneauempire.com  
-   Link: <a href="https://www.juneauempire.com/2022/10/17/opinion-on-50th-anniversary-of-disappearance-time-to-search-for-missing-boggs-begich-plane/" target="_blank" rel="noopener noreferrer nofollow">https://www.juneauempire.com/2022/10/17/opinion-on-50th-anniversary-of-disappearance-time-to-search-for-missing-boggs-begich-plane/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 17, 2022 — OPINION: ON 50TH ANNIVERSARY OF DISAPPEARANCE, TIME TO SEARCH FOR MISSING BOGGS-BEGICH PLANE Published 10:30 pm Monday...</p></details>
+   Link:<a href="https://www.juneauempire.com/2022/10/17/opinion-on-50th-anniversary-of-disappearance-time-to-search-for-missing-boggs-begich-plane/" target="_blank" rel="noopener noreferrer nofollow">https://www.juneauempire.com/2022/10/17/opinion-on-50th-anniversary-of-disappearance-time-to-search-for-missing-boggs-begich-plane/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 17, 2022 — OPINION: ON 50TH ANNIVERSARY OF DISAPPEARANCE, TIME TO SEARCH FOR MISSING BOGGS-BEGICH PLANE Published 10:30 pm Monday...</p></details>
    Published: October 17, 2022  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: themanual.com  
    Title: Why do so many people vanish within the Alaska Triangle?  
-   Link: <a href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.themanual.com/outdoors/alaska-triangle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ManualJuly 30, 2025 — ALASKA TRIANGLE EXPLAINED: AMERICA’S MOST MYSTERIOUS ZONE OF DISAPPEARANCES THE MYSTERY OF THE ALASKA TRIANGLE...</p></details>
+   Link:<a href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.themanual.com/outdoors/alaska-triangle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ManualJuly 30, 2025 — ALASKA TRIANGLE EXPLAINED: AMERICA’S MOST MYSTERIOUS ZONE OF DISAPPEARANCES THE MYSTERY OF THE ALASKA TRIANGLE...</p></details>
    Published: July 30, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Un Xplained: Thousands Disappear in the Alaska Triangle (Season 4) | History  
-   Link: <a href="https://www.youtube.com/watch?v=bQkf-8T3rAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQkf-8T3rAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Boggs Nick Begich disappearance Alaska Mystery of the Missing Congressmen The History Guy: History Deserves to Be Remembered...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQkf-8T3rAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQkf-8T3rAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Boggs Nick Begich disappearance Alaska Mystery of the Missing Congressmen The History Guy: History Deserves to Be Remembered...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nC6EAclxwcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nC6EAclxwcQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets of Alaska: The 1972 Disappearance of Hale Boggs and Nick Begich | Boring History for Sleep...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nC6EAclxwcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nC6EAclxwcQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets of Alaska: The 1972 Disappearance of Hale Boggs and Nick Begich | Boring History for Sleep...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: indy100.com  
    Title: alaska triangle people disappeared  
-   Link: <a href="https://www.indy100.com/science-tech/alaska-triangle-people-disappeared" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/alaska-triangle-people-disappeared</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth behind the ‘Alaska Triangle’ where more than 20,000 people have disappeared | indy100September 4, 2024 — THE TRUTH BEHIND THE ‘...</p></details>
+   Link:<a href="https://www.indy100.com/science-tech/alaska-triangle-people-disappeared" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/alaska-triangle-people-disappeared</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth behind the ‘Alaska Triangle’ where more than 20,000 people have disappeared | indy100September 4, 2024 — THE TRUTH BEHIND THE ‘...</p></details>
    Published: September 4, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5tQk5e-XigY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tQk5e-XigY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: Thousands Disappear in the Alaska Triangle (Season 4) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5tQk5e-XigY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tQk5e-XigY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: Thousands Disappear in the Alaska Triangle (Season 4) | History...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: seattlepi.com  
    Title: Hale Boggs's plane vanishes, Oct  
-   Link: <a href="https://www.seattlepi.com/national/politico/article/Hale-Boggs-s-plane-vanishes-Oct-16-1972-896850.php" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlepi.com/national/politico/article/Hale-Boggs-s-plane-vanishes-Oct-16-1972-896850.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16, 1972October 15, 2009 — HALE BOGGS&#x27;S PLANE VANISHES, OCT. 16, 1972 By ANDREW GLASS, POLITICO Updated May 2, 2011 3:53 p.m. On this day...</p></details>
+   Link:<a href="https://www.seattlepi.com/national/politico/article/Hale-Boggs-s-plane-vanishes-Oct-16-1972-896850.php" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlepi.com/national/politico/article/Hale-Boggs-s-plane-vanishes-Oct-16-1972-896850.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16, 1972October 15, 2009 — HALE BOGGS&#x27;S PLANE VANISHES, OCT. 16, 1972 By ANDREW GLASS, POLITICO Updated May 2, 2011 3:53 p.m. On this day...</p></details>
    Published: October 15, 2009  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: americanurbanlegends.com  
    Title: One of the most fam  
-   Link: <a href="https://americanurbanlegends.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://americanurbanlegends.com/alaska-triangle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alaska Triangle: A Vortex of Vanishings – American Urban LegendsHISTORICAL DISAPPEARANCES IN THE ALASKA TRIANGLE The Alaska Triangle’...</p></details>
+   Link:<a href="https://americanurbanlegends.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://americanurbanlegends.com/alaska-triangle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alaska Triangle: A Vortex of Vanishings – American Urban LegendsHISTORICAL DISAPPEARANCES IN THE ALASKA TRIANGLE The Alaska Triangle’...</p></details>

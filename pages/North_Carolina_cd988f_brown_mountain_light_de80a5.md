@@ -275,26 +275,26 @@ For readers interested in UFO history, Brown Mountain matters because it shows h
 
 ## Why Brown Mountain became North Carolina’s mystery-light landmark
 
-Brown Mountain lies in the Blue Ridge region of western North Carolina, near Burke County, Linville Gorge and the viewpoints from which people have long watched the night horizon. Modern tourism pages still point visitors to clear-night viewing locations along NC Highway 181 and Wiseman’s View in the Linville Gorge Wilderness, which helps explain why the story has stayed visible rather than fading into an old newspaper curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitnc.com/brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitnc.com">[Visit North Carolina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitnc.com</span><span class="citation-popover-snippet">Visit North CarolinaBrown Mountain Lights &#124; Visit North...The Brown Mountain Lights are typically visible on clear nights from vantage p...</span></span></span>
+Brown Mountain lies in the Blue Ridge region of western North Carolina, near Burke County, Linville Gorge and the viewpoints from which people have long watched the night horizon. Modern tourism pages still point visitors to clear-night viewing locations along NC Highway 181 and Wiseman’s View in the Linville Gorge Wilderness, which helps explain why the story has stayed visible rather than fading into an old newspaper curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitnc.com/brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitnc.com">[Visit North Carolina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitnc.com</span><span class="citation-popover-snippet">Visit North CarolinaBrown Mountain Lights &#124; Visit North...The Brown Mountain Lights are typically visible on clear nights from vantage p...</span></span></span>
 
-The classic description is simple but memorable: small lights, often described as star-like or orb-like, appearing near or above the mountain, sometimes seeming to brighten, move, hover, rise or vanish. Appalachian State’s Brown Mountain Lights research site describes the reports as “small, star-like dots of light” with motion varying by witness, from slow movement to more dramatic action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dancaton.physics.appstate.edu">[Daniel B. Caton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dancaton.physics.appstate.edu</span><span class="citation-popover-title">Daniel B. Caton The Brown Mountain Lights</span><span class="citation-popover-snippet">Daniel B. Caton The Brown Mountain Lights</span></span></span> That range of descriptions is part of the evidence problem. A distant fixed light shimmering in unstable air, a vehicle headlamp seen through gaps, an aircraft light, a fire, a prank, and an unusual natural glow can all produce reports that sound similar once retold as “the Brown Mountain Lights”.
+The classic description is simple but memorable: small lights, often described as star-like or orb-like, appearing near or above the mountain, sometimes seeming to brighten, move, hover, rise or vanish. Appalachian State’s Brown Mountain Lights research site describes the reports as “small, star-like dots of light” with motion varying by witness, from slow movement to more dramatic action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dancaton.physics.appstate.edu">[Daniel B. Caton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dancaton.physics.appstate.edu</span><span class="citation-popover-title">Daniel B. Caton The Brown Mountain Lights</span><span class="citation-popover-snippet">Daniel B. Caton The Brown Mountain Lights</span></span></span> That range of descriptions is part of the evidence problem. A distant fixed light shimmering in unstable air, a vehicle headlamp seen through gaps, an aircraft light, a fire, a prank, and an unusual natural glow can all produce reports that sound similar once retold as “the Brown Mountain Lights”.
 
-The story entered wider public record in the early twentieth century. A reproduced Charlotte Observer account from September 1913 described a mysterious light seen near Rattlesnake Knob, appearing with “punctual regularity”, fiery red, larger than a star but smaller than the full moon, rising briefly and then going out. The article treated the case as a genuine puzzle and quoted Anderson Loven as a reliable local witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsoftp.appstate.edu/web/BML/CharObs092413.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsoftp.appstate.edu">[dsoftp.appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsoftp.appstate.edu</span><span class="citation-popover-snippet">Charlotte Observer 1924 Article on the Brown Mountain Lights...</span></span></span> This matters because the Brown Mountain Lights are not just a late internet legend. They had already become a public mystery before the UFO era began in 1947.
+The story entered wider public record in the early twentieth century. A reproduced Charlotte Observer account from September 1913 described a mysterious light seen near Rattlesnake Knob, appearing with “punctual regularity”, fiery red, larger than a star but smaller than the full moon, rising briefly and then going out. The article treated the case as a genuine puzzle and quoted Anderson Loven as a reliable local witness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dsoftp.appstate.edu/web/BML/CharObs092413.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsoftp.appstate.edu">[dsoftp.appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsoftp.appstate.edu</span><span class="citation-popover-snippet">Charlotte Observer 1924 Article on the Brown Mountain Lights...</span></span></span> This matters because the Brown Mountain Lights are not just a late internet legend. They had already become a public mystery before the UFO era began in 1947.
 
 The modern UFO connection came later. Once flying saucers became part of American culture, older mystery-light traditions could be reinterpreted through that lens. Brown Mountain’s lights have since been folded into alien, paranormal and “energy vortex” claims, as well as into television and horror entertainment. But the early record is better understood as a local observation-and-explanation problem: people saw puzzling lights across a mountain landscape at night, and investigators tried to work out what sources could be visible from those viewpoints.
 
 <img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-dark.svg" | relative_url }}" alt="Brown Mountain illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Early reports and official investigation
 
-The best-known official source is George R. Mansfield’s US Geological Survey report, later published as *Origin of the Brown Mountain Light in North Carolina*. The USGS catalogue identifies it as Circular 646 by George Rogers Mansfield, published by the U.S. Geological Survey and carrying the DOI 10.3133/cir646. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> The report remains central because it did what much UFO and mystery-light lore rarely does: it tried to match observations to geography, instruments, bearings and known light sources.
+The best-known official source is George R. Mansfield’s US Geological Survey report, later published as *Origin of the Brown Mountain Light in North Carolina*. The USGS catalogue identifies it as Circular 646 by George Rogers Mansfield, published by the U.S. Geological Survey and carrying the DOI 10.3133/cir646.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> The report remains central because it did what much UFO and mystery-light lore rarely does: it tried to match observations to geography, instruments, bearings and known light sources.
 
-The USGS itself summarises the case as one in which public interest and congressional pressure led the Survey to send Mansfield, a research geologist, to investigate. According to the agency’s later account, Mansfield reviewed earlier work, interviewed local people and used a plane table, alidade, compass, camera, barometer and flashlight while trying to observe the lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> This is important: Mansfield was not simply dismissing witness accounts from an office. He was testing lines of sight in the landscape where the claims were being made.
+The USGS itself summarises the case as one in which public interest and congressional pressure led the Survey to send Mansfield, a research geologist, to investigate. According to the agency’s later account, Mansfield reviewed earlier work, interviewed local people and used a plane table, alidade, compass, camera, barometer and flashlight while trying to observe the lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> This is important: Mansfield was not simply dismissing witness accounts from an office. He was testing lines of sight in the landscape where the claims were being made.
 
-Mansfield’s conclusion was sceptical. The USGS summary states that he found the lights were “clearly not of unusual nature or origin” and attributed them to a combination of natural and human conditions, including automobile headlights, train headlights and fog in the valley. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/news/featured-story/science-or-superstition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">Science or Superstition? &#124; U.S. Geological Survey</span><span class="citation-popover-snippet">Science or Superstition? &#124; U.S. Geological Survey...</span></span></span> A later sceptical review gives the more detailed breakdown from the investigation: about 47 per cent of the lights studied instrumentally were attributed to automobile headlights, 33 per cent to locomotive headlights, and 10 per cent each to stationary lights and brush fires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mansfield’s conclusion was sceptical. The USGS summary states that he found the lights were “clearly not of unusual nature or origin” and attributed them to a combination of natural and human conditions, including automobile headlights, train headlights and fog in the valley.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/news/featured-story/science-or-superstition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">Science or Superstition? &#124; U.S. Geological Survey</span><span class="citation-popover-snippet">Science or Superstition? &#124; U.S. Geological Survey...</span></span></span> A later sceptical review gives the more detailed breakdown from the investigation: about 47 per cent of the lights studied instrumentally were attributed to automobile headlights, 33 per cent to locomotive headlights, and 10 per cent each to stationary lights and brush fires.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That finding does not automatically explain every Brown Mountain Lights story ever told. It does, however, seriously weakens the claim that the early mystery was untouched by ordinary causes. Mansfield’s work suggests that at least many of the famous observations were not lights over the mountain at all, but distant lights seen across a complex valley-and-ridge landscape. In a dark mountain setting, a headlamp or fire can seem detached from the ground, especially when the viewer has no clear depth cues.
 
-There was also an earlier official explanation. The same sceptical review notes that a USGS geologist in 1913 attributed the lights to locomotive headlights, while a 1919 U.S. Weather Bureau report suggested an electrical-discharge explanation even though its writer had not visited the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That contrast is useful. The locomotive-headlight explanation was grounded in a local line-of-sight claim; the weather-bureau theory sounds more speculative. Brown Mountain’s history is full of this tension between field checking and imaginative explanation.
+There was also an earlier official explanation. The same sceptical review notes that a USGS geologist in 1913 attributed the lights to locomotive headlights, while a 1919 U.S. Weather Bureau report suggested an electrical-discharge explanation even though its writer had not visited the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That contrast is useful. The locomotive-headlight explanation was grounded in a local line-of-sight claim; the weather-bureau theory sounds more speculative. Brown Mountain’s history is full of this tension between field checking and imaginative explanation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vCzmzVkCIJo" title="Brown Mountain Lights Camera 1B January 10-11, 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vCzmzVkCIJo" target="_blank" rel="noopener noreferrer">Brown Mountain Lights Camera 1B January 10-11, 2019</a></p><p class="youtube-embed-meta">Channel: Daniel Caton &middot; Views: 59.5K &middot; Uploaded: January 2019 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vCzmzVkCIJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vCzmzVkCIJo">Open on YouTube</a></p></div></div></div>
 
@@ -302,11 +302,11 @@ There was also an earlier official explanation. The same sceptical review notes 
 
 The most persistent prosaic explanation is that many sightings are distant human lights seen under misleading conditions. Trains, cars, town lights, towers, aircraft, fires, off-road vehicles and deliberate light displays are all plausible in a region where viewers look across long distances, broken ridgelines and atmospheric layers. The key issue is not whether each source is exciting. It is whether it can look exciting from a dark overlook.
 
-This is where Brown Mountain differs from a one-off UFO report. The viewing geography is repeatable. People often watch from known overlooks, looking towards known valleys, roads, towns and ridges. That makes testing possible, but it also means a viewer may repeatedly encounter ordinary light sources under conditions that make them seem strange. Mansfield’s investigation took this seriously by plotting directions and comparing appearances with known sources rather than relying only on how odd a light looked to the naked eye. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/circ/1971/0646/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
+This is where Brown Mountain differs from a one-off UFO report. The viewing geography is repeatable. People often watch from known overlooks, looking towards known valleys, roads, towns and ridges. That makes testing possible, but it also means a viewer may repeatedly encounter ordinary light sources under conditions that make them seem strange. Mansfield’s investigation took this seriously by plotting directions and comparing appearances with known sources rather than relying only on how odd a light looked to the naked eye.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/circ/1971/0646/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
 
-Atmosphere complicates the problem. Even if the original source is ordinary, the seen effect may not be. Mist, temperature layers, refraction, haze and changing density can bend, dim, scatter or colour light. The sceptical review of Mansfield’s work notes his attention to the basin-like geography and unstable atmospheric conditions around the area, including fog, dust and mist that can affect brightness and colour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In plain terms, a car headlight does not always look like a car headlight when viewed from miles away through mountain air.
+Atmosphere complicates the problem. Even if the original source is ordinary, the seen effect may not be. Mist, temperature layers, refraction, haze and changing density can bend, dim, scatter or colour light. The sceptical review of Mansfield’s work notes his attention to the basin-like geography and unstable atmospheric conditions around the area, including fog, dust and mist that can affect brightness and colour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In plain terms, a car headlight does not always look like a car headlight when viewed from miles away through mountain air.
 
-Later observers have made similar arguments. In a Blue Ridge Country interview, geologist and author Ed Speer argued that most baffling lights seen by visitors were manmade: town and city lights, planes, trains, helicopters and similar sources. He also pointed to less obvious contributors, including blue ghost fireflies and pranksters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blueridgecountry.com/travel/brown-mountain-lights-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueridgecountry.com">[Blue Ridge Country]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueridgecountry.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That does not make every witness foolish. It shows how many different things can enter the same category once the category is simply “strange light near Brown Mountain”.
+Later observers have made similar arguments. In a Blue Ridge Country interview, geologist and author Ed Speer argued that most baffling lights seen by visitors were manmade: town and city lights, planes, trains, helicopters and similar sources. He also pointed to less obvious contributors, including blue ghost fireflies and pranksters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blueridgecountry.com/travel/brown-mountain-lights-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueridgecountry.com">[Blue Ridge Country]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueridgecountry.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That does not make every witness foolish. It shows how many different things can enter the same category once the category is simply “strange light near Brown Mountain”.
 
 The 1916 flood is often raised as a challenge to the train-headlight explanation. If rail traffic stopped but lights were still reported, the argument goes, then trains cannot explain the phenomenon. That point deserves attention, but it is not decisive. It may undermine a single-source explanation, especially one based only on locomotives, but it does not eliminate car lights, fixed lights, fires, atmospheric effects, observer error or the possibility that different sightings had different causes. Brown Mountain is best treated as a family of light reports, not one repeated object with one necessary explanation.
 
@@ -331,9 +331,9 @@ For North Carolina UFO history, this distinction is essential. Brown Mountain is
 
 ## Modern cameras and why the debate continues
 
-Modern cameras should, in theory, make the Brown Mountain Lights easier to settle. In practice, they have made the debate more interesting rather than closed. Appalachian State researchers have operated cameras looking at Brown Mountain and Linville Gorge, with one camera generally running from dusk to dawn and another operating during a narrower overnight window because of satellite internet costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dancaton.physics.appstate.edu">[Daniel B. Caton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dancaton.physics.appstate.edu</span><span class="citation-popover-title">Daniel B. Caton The Brown Mountain Lights</span><span class="citation-popover-snippet">Daniel B. Caton The Brown Mountain Lights</span></span></span> This is a more disciplined approach than casual skywatching, because repeated monitoring can catch lights when no witness is standing at an overlook.
+Modern cameras should, in theory, make the Brown Mountain Lights easier to settle. In practice, they have made the debate more interesting rather than closed. Appalachian State researchers have operated cameras looking at Brown Mountain and Linville Gorge, with one camera generally running from dusk to dawn and another operating during a narrower overnight window because of satellite internet costs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dancaton.physics.appstate.edu">[Daniel B. Caton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dancaton.physics.appstate.edu</span><span class="citation-popover-title">Daniel B. Caton The Brown Mountain Lights</span><span class="citation-popover-snippet">Daniel B. Caton The Brown Mountain Lights</span></span></span> This is a more disciplined approach than casual skywatching, because repeated monitoring can catch lights when no witness is standing at an overlook.
 
-The most discussed modern episode came in 2016, when researchers Daniel Caton and Lee Hawkins of Appalachian State were reported to have captured an unexplained ball of light on more than one camera after about three years of monitoring. WFAE reported that the light appeared above Brown Mountain and apart from the lights of Lenoir, and that the researchers could not explain that particular capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wfae.org">[wfae.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wfae.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a meaningful data point, but it is not the same as proof of an extraordinary origin. A recorded anomaly asks for analysis; it does not, by itself, choose an answer.
+The most discussed modern episode came in 2016, when researchers Daniel Caton and Lee Hawkins of Appalachian State were reported to have captured an unexplained ball of light on more than one camera after about three years of monitoring. WFAE reported that the light appeared above Brown Mountain and apart from the lights of Lenoir, and that the researchers could not explain that particular capture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wfae.org">[wfae.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wfae.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a meaningful data point, but it is not the same as proof of an extraordinary origin. A recorded anomaly asks for analysis; it does not, by itself, choose an answer.
 
 The careful wording matters. “Unexplained” in a camera project usually means the researchers did not identify the source from the available data. It does not mean the light was impossible, intelligent, extraterrestrial or paranormal. Without triangulation from widely separated sites, spectral data, a clear track, high-resolution imagery and complete exclusion of aircraft, reflections, insects, camera artefacts or ground sources, the result remains an anomaly rather than a conclusion.
 
@@ -350,278 +350,278 @@ For a state-level UFO project, Brown Mountain also offers a useful warning about
 
 ## So are the Brown Mountain Lights really unexplained?
 
-The fairest answer is: some individual reports remain unidentified, but the Brown Mountain Lights as a tradition are not a single unsolved object or event. The early public mystery was substantially weakened by official investigation, especially Mansfield’s USGS work linking many observations to headlights, trains, stationary lights, brush fires and atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span> Later field observers and writers have likewise argued that most sightings can be traced to manmade or natural sources once the night landscape is checked carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blueridgecountry.com/travel/brown-mountain-lights-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueridgecountry.com">[Blue Ridge Country]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueridgecountry.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The fairest answer is: some individual reports remain unidentified, but the Brown Mountain Lights as a tradition are not a single unsolved object or event. The early public mystery was substantially weakened by official investigation, especially Mansfield’s USGS work linking many observations to headlights, trains, stationary lights, brush fires and atmospheric effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span> Later field observers and writers have likewise argued that most sightings can be traced to manmade or natural sources once the night landscape is checked carefully.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blueridgecountry.com/travel/brown-mountain-lights-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueridgecountry.com">[Blue Ridge Country]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueridgecountry.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-At the same time, it would be too strong to say that every claimed Brown Mountain light has been explained. Some reports are too vague to test. Some may involve unusual atmospheric effects. A few modern camera captures have been treated by researchers as unexplained from the available information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wfae.org">[wfae.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wfae.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The honest category is therefore “mixed”: many prosaically explained, many too poorly documented to evaluate, a smaller number still unresolved.
+At the same time, it would be too strong to say that every claimed Brown Mountain light has been explained. Some reports are too vague to test. Some may involve unusual atmospheric effects. A few modern camera captures have been treated by researchers as unexplained from the available information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wfae.org">[wfae.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wfae.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The honest category is therefore “mixed”: many prosaically explained, many too poorly documented to evaluate, a smaller number still unresolved.
 
 That makes Brown Mountain a valuable North Carolina case precisely because it resists the two easiest answers. It is not good evidence for alien visitation. It is also not merely a silly legend with no observational basis. It is a long-running evidence problem: a place where real witnesses, difficult terrain, ordinary lights, atmospheric distortion, local storytelling and modern cameras all meet on the same dark horizon.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8TDcY9ecMlY" title="Mysterious Brown Mountain Lights captured in 1999 | From TV Archives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer">Mysterious Brown Mountain Lights captured in 1999 | From TV Archives</a></p><p class="youtube-embed-meta">Channel: WXII 12 News &middot; Views: 4.9K &middot; Uploaded: October 2025 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8TDcY9ecMlY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are the Brown Mountain Lights Really Unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are the Brown Mountain Lights Really Unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Explains official UFO case handling during the Cold War.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official UFO case handling during the Cold War.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigation methods for unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigation methods for unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how mystery-light stories evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how mystery-light stories evolve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brown-mountain-are-the-brown-mountain-lights-really-unexplained-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ That makes Brown Mountain a valuable North Carolina case precisely because it re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ That makes Brown Mountain a valuable North Carolina case precisely because it re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ That makes Brown Mountain a valuable North Carolina case precisely because it re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ That makes Brown Mountain a valuable North Carolina case precisely because it re
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -777,152 +777,152 @@ That makes Brown Mountain a valuable North Carolina case precisely because it re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dancaton.physics.appstate.edu  
    Title: Daniel B. Caton The Brown Mountain Lights  
-   Link: <a href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dancaton.physics.appstate.edu/BML/index.htm</a>  
+   Link:<a href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dancaton.physics.appstate.edu/BML/index.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dsoftp.appstate.edu  
-   Link: <a href="https://dsoftp.appstate.edu/web/BML/CharObs092413.htm" target="_blank" rel="noopener noreferrer nofollow">https://dsoftp.appstate.edu/web/BML/CharObs092413.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlotte Observer 1924 Article on the Brown Mountain Lights...</p></details>
+   Link:<a href="https://dsoftp.appstate.edu/web/BML/CharObs092413.htm" target="_blank" rel="noopener noreferrer nofollow">https://dsoftp.appstate.edu/web/BML/CharObs092413.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charlotte Observer 1924 Article on the Brown Mountain Lights...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubs.usgs.gov  
    Title: U.S. Geological Survey Origin of the Brown Mountain light in North Carolina  
-   Link: <a href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/cir646</a>  
+   Link:<a href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/cir646</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usgs.gov  
    Title: Science or Superstition? | U.S. Geological Survey  
-   Link: <a href="https://www.usgs.gov/news/featured-story/science-or-superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/science-or-superstition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science or Superstition? | U.S. Geological Survey...</p></details>
+   Link:<a href="https://www.usgs.gov/news/featured-story/science-or-superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/science-or-superstition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science or Superstition? | U.S. Geological Survey...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wfae.org  
-   Link: <a href="https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain</a>  
+   Link:<a href="https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/circ/1971/0646/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/circ/1971/0646/report.pdf</a>  
+   Link:<a href="https://pubs.usgs.gov/circ/1971/0646/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/circ/1971/0646/report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/</a>  
+   Link:<a href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/of/1990/0276/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/1990/0276/report.pdf</a>  
+   Link:<a href="https://pubs.usgs.gov/of/1990/0276/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/1990/0276/report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usgs.gov  
    Title: map brown mountain and occurrences brown mountain lights  
-   Link: <a href="https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights</a>  
+   Link:<a href="https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/bul/0444/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/bul/0444/report.pdf</a>  
+   Link:<a href="https://pubs.usgs.gov/bul/0444/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/bul/0444/report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dancaton.physics.appstate.edu  
    Title: USGS p01  
-   Link: <a href="https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm" target="_blank" rel="noopener noreferrer nofollow">https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm</a>  
+   Link:<a href="https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm" target="_blank" rel="noopener noreferrer nofollow">https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: visitnc.com  
-   Link: <a href="https://www.visitnc.com/brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnc.com/brown-mountain-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit North CarolinaBrown Mountain Lights | Visit North...The Brown Mountain Lights are typically visible on clear nights from vantage p...</p></details>
+   Link:<a href="https://www.visitnc.com/brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnc.com/brown-mountain-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit North CarolinaBrown Mountain Lights | Visit North...The Brown Mountain Lights are typically visible on clear nights from vantage p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/</a>  
+   Link:<a href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blueridgecountry.com  
-   Link: <a href="https://blueridgecountry.com/travel/brown-mountain-lights-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://blueridgecountry.com/travel/brown-mountain-lights-revisited/</a>  
+   Link:<a href="https://blueridgecountry.com/travel/brown-mountain-lights-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://blueridgecountry.com/travel/brown-mountain-lights-revisited/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kids.kiddle.co  
    Title: Brown Mountain Lights  
-   Link: <a href="https://kids.kiddle.co/Brown_Mountain_Lights" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Brown_Mountain_Lights</a>  
+   Link:<a href="https://kids.kiddle.co/Brown_Mountain_Lights" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Brown_Mountain_Lights</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Brown Mountain lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Brown_Mountain_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brown_Mountain_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brown_Mountain_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brown_Mountain_lights</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=f3CN6e_gH3s&amp;vl=id" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f3CN6e_gH3s&amp;vl=id</a>  
+   Link:<a href="https://www.youtube.com/watch?v=f3CN6e_gH3s&amp;vl=id" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f3CN6e_gH3s&amp;vl=id</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vCzmzVkCIJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vCzmzVkCIJo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=vCzmzVkCIJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vCzmzVkCIJo</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foothillsdigest.com  
    Title: brown mountain lights  
-   Link: <a href="https://foothillsdigest.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://foothillsdigest.com/brown-mountain-lights/</a>  
+   Link:<a href="https://foothillsdigest.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://foothillsdigest.com/brown-mountain-lights/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/agencies/u-s-geological-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/u-s-geological-survey</a>  
+   Link:<a href="https://www.usa.gov/agencies/u-s-geological-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/u-s-geological-survey</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tripadvisor.co.uk  
    Title: Brown mountain lights  
-   Link: <a href="https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html</a>  
+   Link:<a href="https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wherethedogwoodblooms.com  
    Title: brown mountain lights  
-   Link: <a href="https://www.wherethedogwoodblooms.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.wherethedogwoodblooms.com/brown-mountain-lights/</a>  
+   Link:<a href="https://www.wherethedogwoodblooms.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.wherethedogwoodblooms.com/brown-mountain-lights/</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TDcY9ecMlY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Captured at Brown Mountain Shouldn&#x27;t Be Possible...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TDcY9ecMlY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What We Captured at Brown Mountain Shouldn&#x27;t Be Possible...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: What We Captured at Brown Mountain Shouldn't Be Possible  
-   Link: <a href="https://www.youtube.com/watch?v=lUdj-ypVn7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lUdj-ypVn7k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Can&#x27;t Explain It - The Brown Mountain Ghost Lights Camping Adventure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lUdj-ypVn7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lUdj-ypVn7k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Can&#x27;t Explain It - The Brown Mountain Ghost Lights Camping Adventure...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Mysterious Dancing Orbs: The Mystery of the Brown Mountain Lights  
-   Link: <a href="https://www.youtube.com/watch?v=fYgHvB3psjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fYgHvB3psjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Brown Mountain Lights Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fYgHvB3psjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fYgHvB3psjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Brown Mountain Lights Episode...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Mystery of the Brown Mountain Lights Episode  
-   Link: <a href="https://www.youtube.com/watch?v=Zq6_Fxv_8RY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zq6_Fxv_8RY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Brown Mountain Lights captured in 1999 | From TV Archives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Zq6_Fxv_8RY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zq6_Fxv_8RY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Brown Mountain Lights captured in 1999 | From TV Archives...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/</a>  
+   Link:<a href="https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/</a>  
+   Link:<a href="https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: discoverburkecounty.com  
-   Link: <a href="https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/</a>  
+   Link:<a href="https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: romanticasheville.com  
-   Link: <a href="https://www.romanticasheville.com/brown_mountain_lights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.romanticasheville.com/brown_mountain_lights.htm</a>  
+   Link:<a href="https://www.romanticasheville.com/brown_mountain_lights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.romanticasheville.com/brown_mountain_lights.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/</a>  
+   Link:<a href="https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb</a>
+   Link:<a href="https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb</a>

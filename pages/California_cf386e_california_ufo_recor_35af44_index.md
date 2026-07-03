@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /california-cf386e-california-ufo-recor/
 description: Focused pages that expand on Records.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: California_cf386e_california_ufo_recor_35af44
 parent_title: Records
@@ -16,7 +16,7 @@ parent_permalink: /records/
 
 # Explore Topics in Records
 
-The following pages expand on the main **[Records]({{ '/records/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Records]({{ '/records/' | relative_url }})** page and cover its key branches in.
 
 - [Archive Records]({{ '/archive-records/' | relative_url }})
 - [Vandenberg Launches]({{ '/vandenberg-launches/' | relative_url }})

@@ -250,22 +250,22 @@ image: /assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole
 
 ## Introduction
 
-“Operation Upshot‑Knothole and the Kingman crash timeline” is about the place and timing that often gets woven into the **Kingman, Arizona UFO crash legend** — namely, the spring 1953 **Upshot‑Knothole nuclear test series** and how its schedule compares with the dates cited in the alleged Kingman crash story. In UFO folklore this overlap is sometimes used *to suggest* that atomic testing, military secrecy, or unusual high‑altitude activity might explain why people later believed a mysterious craft was recovered near Kingman, but a careful comparison of timelines does not substantiate any compelling causal link. What the record actually shows is that a series of nuclear detonations in Nevada in mid‑May 1953 was real and well‑documented, whereas the purported Kingman crash narrative hinges on a single retrospective witness statement made twenty years later without contemporary documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
+“Operation Upshot‑Knothole and the Kingman crash timeline” is about the place and timing that often gets woven into the **Kingman, Arizona UFO crash legend** — namely, the spring 1953 **Upshot‑Knothole nuclear test series** and how its schedule compares with the dates cited in the alleged Kingman crash story. In UFO folklore this overlap is sometimes used *to suggest* that atomic testing, military secrecy, or unusual high‑altitude activity might explain why people later believed a mysterious craft was recovered near Kingman, but a careful comparison of timelines does not substantiate any compelling causal link. What the record actually shows is that a series of nuclear detonations in Nevada in mid‑May 1953 was real and well‑documented, whereas the purported Kingman crash narrative hinges on a single retrospective witness statement made twenty years later without contemporary documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
 
 <img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-dark.svg" | relative_url }}" alt="Atomic Test Link illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The May 1953 Test Schedule and Military Activity
 
-**Operation Upshot‑Knothole** was a U.S. atmospheric nuclear testing series conducted primarily at the Nevada Test Site beginning in March 1953 and concluding in early June of that year. These tests were part of broader Cold War weapons development and civil defence programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operation Upshot–Knothole</span><span class="citation-popover-snippet">Operation Upshot–Knothole</span></span></span>
+**Operation Upshot‑Knothole** was a U.S. atmospheric nuclear testing series conducted primarily at the Nevada Test Site beginning in March 1953 and concluding in early June of that year. These tests were part of broader Cold War weapons development and civil defence programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operation Upshot–Knothole</span><span class="citation-popover-snippet">Operation Upshot–Knothole</span></span></span>
 
-* The series comprised **11 individual shots** between **17 March and 4 June 1953**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sonicbomb.com/upshot.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sonicbomb.com">[Sonic Bomb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sonicbomb.com</span><span class="citation-popover-title">Sonic Bomb.:Sonic Bomb</span><span class="citation-popover-snippet">Sonic Bomb.:SonicBomb:. - Operation Upshot-Knothole 1953...</span></span></span>
+* The series comprised **11 individual shots** between **17 March and 4 June 1953**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sonicbomb.com/upshot.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sonicbomb.com">[Sonic Bomb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sonicbomb.com</span><span class="citation-popover-title">Sonic Bomb.:Sonic Bomb</span><span class="citation-popover-snippet">Sonic Bomb.:SonicBomb:. - Operation Upshot-Knothole 1953...</span></span></span>
 * Key detonations in *May* included:
 **Encore** on **8 May**
 **Harry** on **19 May**, a 32‑kiloton tower shot known for heavy fallout
 **Grable** on **25 May**, the first nuclear artillery shell ever fired
 
-These events were witnessed by thousands of troops in ground manoeuvres and by high‑ranking officials, and were publicised at the time as part of the U.S. defence effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Timeline</span><span class="citation-popover-snippet">Nuclear MuseumTimeline - Nuclear Museum...</span></span></span>
+These events were witnessed by thousands of troops in ground manoeuvres and by high‑ranking officials, and were publicised at the time as part of the U.S. defence effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Timeline</span><span class="citation-popover-snippet">Nuclear MuseumTimeline - Nuclear Museum...</span></span></span>
 
-The tests took place roughly **300–400 miles northwest** of Kingman across the state border in Nevada. They involved significant military traffic and posed genuine radiation concerns for “downwinders” (communities downwind of the detonation sites), but there is no reliable evidence that any of these specific tests produced unusual craft, debris, or crash phenomena in Arizona. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
+The tests took place roughly **300–400 miles northwest** of Kingman across the state border in Nevada. They involved significant military traffic and posed genuine radiation concerns for “downwinders” (communities downwind of the detonation sites), but there is no reliable evidence that any of these specific tests produced unusual craft, debris, or crash phenomena in Arizona.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uNhebXK3f0g" title="Operation Upshot-Knothole - Nuclear Test Film (1953)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uNhebXK3f0g" target="_blank" rel="noopener noreferrer">Operation Upshot-Knothole - Nuclear Test Film (1953)</a></p><p class="youtube-embed-meta">Channel: Nuclear Vault &middot; Views: 68.8K &middot; Uploaded: June 2010 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uNhebXK3f0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uNhebXK3f0g">Open on YouTube</a></p></div></div></div>
 
@@ -273,7 +273,7 @@ The tests took place roughly **300–400 miles northwest** of Kingman across the
 
 Cold War nuclear testing was a secretive, high‑profile context that fuelled public anxiety in the early 1950s. Atmospheric tests like Upshot‑Knothole were dramatic visual events — mushroom clouds, shockwaves and bright flashes were seen for miles — and were often conducted without detailed immediate public explanation. This environment contributed to a broader cultural backdrop in which unexplained aerial phenomena were taken seriously and associated in the public imagination with government activity.
 
-In the UFO literature, this backdrop is why some researchers *posit* a connection: the dates many retellings of the Kingman story assign (commonly **20–21 May 1953**) sit very close to the **19 May Harry** detonation. Critics of the Kingman narrative counter that proximity in time **does not by itself verify a crash or retrieval**; it simply shows that both claims reference a period when something unusual was already on the public radar because of atomic testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
+In the UFO literature, this backdrop is why some researchers *posit* a connection: the dates many retellings of the Kingman story assign (commonly **20–21 May 1953**) sit very close to the **19 May Harry** detonation. Critics of the Kingman narrative counter that proximity in time **does not by itself verify a crash or retrieval**; it simply shows that both claims reference a period when something unusual was already on the public radar because of atomic testing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
 
 It was also a period of heightened military secrecy regulation following the 1952 **Robertson Panel**, which had encouraged the Air Force to dismiss and contain UFO reports as a matter of national security policy rather than public openness — factors that later commentators have said made anecdotal UFO claims easier to hold as mysteries and harder to verify with records that would otherwise be accessible. (This policy context is part of later UFO historiography but does *not* itself confirm the specific Kingman claims.)
 
@@ -282,7 +282,7 @@ It was also a period of heightened military secrecy regulation following the 195
 
 **What the timeline shows clearly:**
 
-* A confirmed sequence of U.S. nuclear tests took place in late spring 1953, including on **19 May** and **25 May**, spaced roughly six days apart. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Timeline</span><span class="citation-popover-snippet">Nuclear MuseumTimeline - Nuclear Museum...</span></span></span>
+* A confirmed sequence of U.S. nuclear tests took place in late spring 1953, including on **19 May** and **25 May**, spaced roughly six days apart.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Timeline</span><span class="citation-popover-snippet">Nuclear MuseumTimeline - Nuclear Museum...</span></span></span>
 * These tests were part of routine military weapons development, involved scheduled observer programmes, and were publicly recorded in official archives and histories.
 
 **What it does *not* show:**
@@ -301,7 +301,7 @@ In other words, while the **chronological overlap** gives the UFO claim a veneer
 
 Part of the reason this timeline persists is that the **specific test dates** (especially *19 May 1953*) create an anchor that storytellers can use to make the Kingman claim *sound* precise. However:
 
-* The Kingman narrative’s principal source — a later affidavit attributed to one Arthur Stansel (often under the alias “Fritz Werner”) — links his claimed assignment to “Operation Upshot‑Knothole” without providing supporting military paperwork from 1953. Investigators outside UFO circles have repeatedly noted the absence of independent military documentation for such a tasking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorekingman.com">[Explore Kingman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorekingman.com</span><span class="citation-popover-title">blog 1953 kingman ufo crash</span><span class="citation-popover-snippet">Explore KingmanKingman UFO Crash of 1953December 26, 2025...</span><span class="citation-popover-meta">Published: December 26, 2025</span></span></span>
+* The Kingman narrative’s principal source — a later affidavit attributed to one Arthur Stansel (often under the alias “Fritz Werner”) — links his claimed assignment to “Operation Upshot‑Knothole” without providing supporting military paperwork from 1953. Investigators outside UFO circles have repeatedly noted the absence of independent military documentation for such a tasking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorekingman.com">[Explore Kingman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorekingman.com</span><span class="citation-popover-title">blog 1953 kingman ufo crash</span><span class="citation-popover-snippet">Explore KingmanKingman UFO Crash of 1953December 26, 2025...</span><span class="citation-popover-meta">Published: December 26, 2025</span></span></span>
 * There are no contemporaneous press reports, base orders, or authorised mission logs from Indian Springs Air Force Base or other nearby facilities showing a classified transport to a crash site. This absence is consistent with how UFO case legends generally emerge long after the fact, especially in the absence of archival leaks.
 
 Thus, the **timeline connection** exists as part of the **mythos** of the Kingman story — a narrative link anchored in two proximate dates — but the historical record of the **Upshot‑Knothole test series** provides no independent verification of the purported crash or retrieval episode.
@@ -311,194 +311,194 @@ In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May�
 <img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-3-dark.svg" | relative_url }}" alt="Atomic Test Link illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Nuclear Testing Feed the Kingman UFO Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Nuclear Testing Feed the Kingman UFO Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard M. Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard M. Dolan</p>
         
-        <p class="fr-book-desc">Links UFO stories with government and military secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links UFO stories with government and military secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how secret military programs fuel UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how secret military programs fuel UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Provides rich context on nuclear weapons culture and Cold War secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides rich context on nuclear weapons culture and Cold War secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner</p>
         
-        <p class="fr-book-desc">Provides comparison material for Kingman-style claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison material for Kingman-style claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Age MCM Abstract Shapes And Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pEgAAeSwu-BopcOB/s-l225.jpg" alt="Listing image for Atomic Age MCM Abstract Shapes And Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Atomic Age MCM Abstract Shapes And Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Age MCM Abstract Shapes And Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pEgAAeSwu-BopcOB/s-l225.jpg" alt="Listing image for Atomic Age MCM Abstract Shapes And Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Atomic Age MCM Abstract Shapes And Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1964 New York World’s Fair Poster – MCM Atomic Space Age Art Decor"><img src="https://i.ebayimg.com/images/g/UR8AAOSwmpdg6dBi/s-l225.jpg" alt="Listing image for Original 1964 New York World’s Fair Poster – MCM Atomic Space Age Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1964 New York World’s Fair Poster – MCM Atomic Space Age Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1964 New York World’s Fair Poster – MCM Atomic Space Age Art Decor"><img src="https://i.ebayimg.com/images/g/UR8AAOSwmpdg6dBi/s-l225.jpg" alt="Listing image for Original 1964 New York World’s Fair Poster – MCM Atomic Space Age Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1964 New York World’s Fair Poster – MCM Atomic Space Age Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Age Adventures Fut Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/wh4AAeSws9FpZigj/s-l225.jpg" alt="Listing image for Atomic Age Adventures Fut Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Atomic Age Adventures Fut Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Age Adventures Fut Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/wh4AAeSws9FpZigj/s-l225.jpg" alt="Listing image for Atomic Age Adventures Fut Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Atomic Age Adventures Fut Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Age Official Giclée Art Print Stranger Things Cool Movie Poster Large"><img src="https://i.ebayimg.com/images/g/iiUAAeSw~vBqGxs-/s-l225.jpg" alt="Listing image for Atomic Age Official Giclée Art Print Stranger Things Cool Movie Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Atomic Age Official Giclée Art Print Stranger Things Cool Movie Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Age Official Giclée Art Print Stranger Things Cool Movie Poster Large"><img src="https://i.ebayimg.com/images/g/iiUAAeSw~vBqGxs-/s-l225.jpg" alt="Listing image for Atomic Age Official Giclée Art Print Stranger Things Cool Movie Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">Atomic Age Official Giclée Art Print Stranger Things Cool Movie Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: atomic age poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age poster" data-ebay-reference="did-nuclear-testing-feed-the-kingman-ufo-legend-atomic-age-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,120 +704,120 @@ In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May�
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuclearweaponarchive.org  
    Title: Nuclear Weapon Archive Operation Upshot-Knothole  
-   Link: <a href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</p></details>
+   Link:<a href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</p></details>
    Published: June 19, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Operation Upshot–Knothole  
-   Link: <a href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sonicbomb.com  
    Title: Sonic Bomb.:Sonic Bomb  
-   Link: <a href="https://www.sonicbomb.com/upshot.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sonicbomb.com/upshot.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic Bomb.:SonicBomb:. - Operation Upshot-Knothole 1953...</p></details>
+   Link:<a href="https://www.sonicbomb.com/upshot.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sonicbomb.com/upshot.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic Bomb.:SonicBomb:. - Operation Upshot-Knothole 1953...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ahf.nuclearmuseum.org  
    Title: Nuclear Museum Timeline  
-   Link: <a href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear MuseumTimeline - Nuclear Museum...</p></details>
+   Link:<a href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear MuseumTimeline - Nuclear Museum...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: explorekingman.com  
    Title: blog 1953 kingman ufo crash  
-   Link: <a href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.explorekingman.com/blog-1953-kingman-ufo-crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore KingmanKingman UFO Crash of 1953December 26, 2025...</p></details>
+   Link:<a href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.explorekingman.com/blog-1953-kingman-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore KingmanKingman UFO Crash of 1953December 26, 2025...</p></details>
    Published: December 26, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mail.nuclearweaponarchive.org  
-   Link: <a href="https://mail.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow">https://mail.nuclearweaponarchive.org/Usa/Tests/Upshotk.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A betatron was used for initiation. Upshot-Knothole Ruth Tower Stump (48 K) * * * Test: | Dixie Time: | 15:30 6 April...</p></details>
+   Link:<a href="https://mail.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow">https://mail.nuclearweaponarchive.org/Usa/Tests/Upshotk.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A betatron was used for initiation. Upshot-Knothole Ruth Tower Stump (48 K) * * * Test: | Dixie Time: | 15:30 6 April...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: military-history.fandom.com  
-   Link: <a href="https://military-history.fandom.com/wiki/Operation_Upshot-Knothole" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Operation_Upshot-Knothole</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot-Knothole | Military Wiki | FandomOPERATION UPSHOT-KNOTHOLE Sign In to Save Save Edit * History * Purge * Talk (0) iframe Operation...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Operation_Upshot-Knothole" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Operation_Upshot-Knothole</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot-Knothole | Military Wiki | FandomOPERATION UPSHOT-KNOTHOLE Sign In to Save Save Edit * History * Purge * Talk (0) iframe Operation...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8Dil9iE67ak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Dil9iE67ak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Upshot-Knothole - Nuclear Test Film (1953)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8Dil9iE67ak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Dil9iE67ak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Upshot-Knothole - Nuclear Test Film (1953)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Operation Upshot-Knothole  
-   Link: <a href="https://www.youtube.com/watch?v=uNhebXK3f0g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uNhebXK3f0g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic Bomb Test: Operation Upshot-Knothole Annie | Yucca Flat, Nevada (1953) | U.S. Army Footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uNhebXK3f0g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uNhebXK3f0g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic Bomb Test: Operation Upshot-Knothole Annie | Yucca Flat, Nevada (1953) | U.S. Army Footage...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: osti.gov  
-   Link: <a href="https://www.osti.gov/biblio/6380890" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/biblio/6380890</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical report (Technical Report) | OSTI.GOVJanuary 14, 1982 — SHOTS ENCORE TO CLIMAX, THE FINAL FOUR TESTS OF THE UPSHOT-KNOTHOLE SERI...</p></details>
+   Link:<a href="https://www.osti.gov/biblio/6380890" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/biblio/6380890</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technical report (Technical Report) | OSTI.GOVJanuary 14, 1982 — SHOTS ENCORE TO CLIMAX, THE FINAL FOUR TESTS OF THE UPSHOT-KNOTHOLE SERI...</p></details>
    Published: January 14, 1982  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalsecurity.org  
-   Link: <a href="https://www.globalsecurity.org/wmd/ops/upshot-knothole-grable.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/wmd/ops/upshot-knothole-grable.htm</a>  
+   Link:<a href="https://www.globalsecurity.org/wmd/ops/upshot-knothole-grable.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/wmd/ops/upshot-knothole-grable.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: The Kingman UFO Crash – A Discreet Downed UFO That Slipped Under The Radar?  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJanuary 28, 2023 — THE KINGMAN UFO CRASH – A DISCREET DOWNED UFO THAT SLIPPED UNDER THE RADAR? By Marcus Lowth Image: Publishe...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJanuary 28, 2023 — THE KINGMAN UFO CRASH – A DISCREET DOWNED UFO THAT SLIPPED UNDER THE RADAR? By Marcus Lowth Image: Publishe...</p></details>
    Published: January 28, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theufochronicles.com  
    Title: The Kingman UFO Crash, Operation Upshot–Knothole and Experimental Radar  
-   Link: <a href="https://www.theufochronicles.com/2020/02/the-kingman-ufo-crash-operation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2020/02/the-kingman-ufo-crash-operation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2020 — MONDAY, FEBRUARY 10, 2020 THE KINGMAN UFO CRASH, OPERATION UPSHOT–KNOTHOLE AND EXPERIMENTAL RADAR Spring 1953, the Ato...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2020/02/the-kingman-ufo-crash-operation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2020/02/the-kingman-ufo-crash-operation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2020 — MONDAY, FEBRUARY 10, 2020 THE KINGMAN UFO CRASH, OPERATION UPSHOT–KNOTHOLE AND EXPERIMENTAL RADAR Spring 1953, the Ato...</p></details>
    Published: February 3, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: large.stanford.edu  
    Title: 1: Upshot-Knothole Annie detonation. (  
    Source: Wikimed  
-   Link: <a href="https://large.stanford.edu/courses/2015/ph241/ukropina2/" target="_blank" rel="noopener noreferrer nofollow">https://large.stanford.edu/courses/2015/ph241/ukropina2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot-KnotholeMarch 14, 2015 — OPERATION UPSHOT-KNOTHOLE CONRAD UKROPINA March 14, 2015 SUBMITTED AS COURSEWORK FOR PH241, STANFORD UNIV...</p></details>
+   Link:<a href="https://large.stanford.edu/courses/2015/ph241/ukropina2/" target="_blank" rel="noopener noreferrer nofollow">https://large.stanford.edu/courses/2015/ph241/ukropina2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot-KnotholeMarch 14, 2015 — OPERATION UPSHOT-KNOTHOLE CONRAD UKROPINA March 14, 2015 SUBMITTED AS COURSEWORK FOR PH241, STANFORD UNIV...</p></details>
    Published: March 14, 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufologie.patrickgross.org  
    Title: Un témoin a signé une déclaration sous sermen  
-   Link: <a href="https://ufologie.patrickgross.org/htm/kingman53f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/kingman53f.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: crash allégué d&#x27;engin extraterrestre en 1953 à Kingman, ArizonaCRASH D&#x27;OVNI EN 1953 À KINGMAN, ARIZONA: Il a été p...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/kingman53f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/kingman53f.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: crash allégué d&#x27;engin extraterrestre en 1953 à Kingman, ArizonaCRASH D&#x27;OVNI EN 1953 À KINGMAN, ARIZONA: Il a été p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufology.patrickgross.org  
    Title: One witness signed an affidavit. THE STORY  
-   Link: <a href="https://www.ufology.patrickgross.org/htm/kingman53.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufology.patrickgross.org/htm/kingman53.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: May 20, 1953, Kingman Arizona alleged UFO crashMAY 20, 1953, KINGMAN ARIZONA ALLEGED UFO CRASH: It has been publishe...</p></details>
+   Link:<a href="https://www.ufology.patrickgross.org/htm/kingman53.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufology.patrickgross.org/htm/kingman53.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: May 20, 1953, Kingman Arizona alleged UFO crashMAY 20, 1953, KINGMAN ARIZONA ALLEGED UFO CRASH: It has been publishe...</p></details>
    Published: May 20, 1953  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: silverland.info  
    Title: l incidente ufo di kingman  
-   Link: <a href="https://www.silverland.info/documenti/l-incidente-ufo-di-kingman/" target="_blank" rel="noopener noreferrer nofollow">https://www.silverland.info/documenti/l-incidente-ufo-di-kingman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;incidente UFO di Kingman - Il mondo degli UFOL&#x27;INCIDENTE UFO DI KINGMAN Image: UFO crash Kingman 1953UFO crash Kingman 1953 ❖ Premessa...</p></details>
+   Link:<a href="https://www.silverland.info/documenti/l-incidente-ufo-di-kingman/" target="_blank" rel="noopener noreferrer nofollow">https://www.silverland.info/documenti/l-incidente-ufo-di-kingman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;incidente UFO di Kingman - Il mondo degli UFOL&#x27;INCIDENTE UFO DI KINGMAN Image: UFO crash Kingman 1953UFO crash Kingman 1953 ❖ Premessa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: military-history.fandom.com  
    Title: Operation Upshot–Knothole  
-   Link: <a href="https://military-history.fandom.com/wiki/Operation_Upshot%E2%80%93Knothole" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Operation_Upshot%E2%80%93Knothole</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot–Knothole | Military Wiki | FandomOPERATION UPSHOT–KNOTHOLE Sign In to Save Save Edit * History * Purge * Talk (0) iframe Operation...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Operation_Upshot%E2%80%93Knothole" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Operation_Upshot%E2%80%93Knothole</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot–Knothole | Military Wiki | FandomOPERATION UPSHOT–KNOTHOLE Sign In to Save Save Edit * History * Purge * Talk (0) iframe Operation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nukecompendium.com  
    Title: operation upshot knothole  
-   Link: <a href="https://nukecompendium.com/tests/operation-upshot-knothole/" target="_blank" rel="noopener noreferrer nofollow">https://nukecompendium.com/tests/operation-upshot-knothole/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Upshot-Knothole – NUCLEAR COMPENDIUMAugust 14, 2022 — OPERATION UPSHOT-KNOTHOLE – ANNIE – NANCY – RUTH – DIXIE – RAY – BADGER –...</p></details>
+   Link:<a href="https://nukecompendium.com/tests/operation-upshot-knothole/" target="_blank" rel="noopener noreferrer nofollow">https://nukecompendium.com/tests/operation-upshot-knothole/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Upshot-Knothole – NUCLEAR COMPENDIUMAugust 14, 2022 — OPERATION UPSHOT-KNOTHOLE – ANNIE – NANCY – RUTH – DIXIE – RAY – BADGER –...</p></details>
    Published: August 14, 2022

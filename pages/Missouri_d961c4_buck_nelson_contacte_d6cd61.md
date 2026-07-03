@@ -262,39 +262,39 @@ image: /assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-overview-socia
 
 ## Introduction
 
-Buck Nelson matters in Missouri UFO history because his story shows a side of the subject that is very different from later sighting flaps such as Piedmont. Nelson was not mainly a witness to a puzzling light in the sky. He became a public “contactee”: a man who claimed that friendly space visitors came to his Mountain View farm, cured his ailments, took him to Mars, the Moon and Venus, and gave him messages for humanity. His case is weak as evidence for an extraordinary event, but strong as evidence of how 1950s Missouri UFO culture mixed Cold War anxiety, religion, rural spectacle, self-publishing, local tourism and performance. Between his 1956 booklet and his annual Spacecraft [Conventions]({{ 'conventions/' | relative_url }}), Nelson turned a private claim into an Ozarks public event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+Buck Nelson matters in Missouri UFO history because his story shows a side of the subject that is very different from later sighting flaps such as Piedmont. Nelson was not mainly a witness to a puzzling light in the sky. He became a public “contactee”: a man who claimed that friendly space visitors came to his Mountain View farm, cured his ailments, took him to Mars, the Moon and Venus, and gave him messages for humanity. His case is weak as evidence for an extraordinary event, but strong as evidence of how 1950s Missouri UFO culture mixed Cold War anxiety, religion, rural spectacle, self-publishing, local tourism and performance. Between his 1956 booklet and his annual Spacecraft [Conventions]({{ 'conventions/' | relative_url }}), Nelson turned a private claim into an Ozarks public event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-overview.webp" | relative_url }}" alt="Overview image for Buck Nelson" loading="eager" decoding="sync" fetchpriority="high">
 The useful question is not whether Buck Nelson proved that people from Venus visited Howell County. He did not. The better question is why his story found an audience at all. In that sense, Nelson belongs in Missouri’s UFO history not as a solved aviation case, but as a case study in contactee culture: the point where flying saucers became sermons, fairs, pamphlets, lectures, local jokes and, for some believers, a cosmic mission.
 
 ## The Mountain View claims and space-visitor stories
 
-Nelson’s core story began at his Mountain View home on 30 July 1954. In the account later summarised from his booklet, he said his radio behaved strangely, animals reacted outside, and three disc-shaped objects appeared above his homestead. He claimed that after he signalled with a torch, a beam from one of the objects knocked him down and cured his chronic pain and poor eyesight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+Nelson’s core story began at his Mountain View home on 30 July 1954. In the account later summarised from his booklet, he said his radio behaved strangely, animals reacted outside, and three disc-shaped objects appeared above his homestead. He claimed that after he signalled with a torch, a beam from one of the objects knocked him down and cured his chronic pain and poor eyesight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
-The claim then grew from sighting to contact. Nelson said that in March 1955 the craft returned, bringing visitors including “Bob Solomon”, a trainee pilot, “Little Bucky” and a very large dog named Bo. A month later, he said, he willingly travelled with them through the inner solar system. In Nelson’s telling, Mars had canal systems and rulers’ homes, the Moon had inhabited settlements, and Venus was a peaceful society of low taxes, short work hours, hovercars, “book machines” and people in ordinary work clothes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+The claim then grew from sighting to contact. Nelson said that in March 1955 the craft returned, bringing visitors including “Bob Solomon”, a trainee pilot, “Little Bucky” and a very large dog named Bo. A month later, he said, he willingly travelled with them through the inner solar system. In Nelson’s telling, Mars had canal systems and rulers’ homes, the Moon had inhabited settlements, and Venus was a peaceful society of low taxes, short work hours, hovercars, “book machines” and people in ordinary work clothes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
-Those details are part of what makes the case culturally revealing. Nelson’s space people were not the frightening abductors of later UFO lore. They were closer to moral instructors. They talked about peace, technology, religion and the danger of atomic weapons. That placed Nelson within the broader 1950s contactee pattern, in which selected humans claimed friendly meetings with human-like “space brothers” who warned Earth about war, nuclear destruction or spiritual decline. A scholarly overview of extraterrestrial and UFO religion notes that such traditions were nourished by Cold War tensions and the threat of nuclear weapons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+Those details are part of what makes the case culturally revealing. Nelson’s space people were not the frightening abductors of later UFO lore. They were closer to moral instructors. They talked about peace, technology, religion and the danger of atomic weapons. That placed Nelson within the broader 1950s contactee pattern, in which selected humans claimed friendly meetings with human-like “space brothers” who warned Earth about war, nuclear destruction or spiritual decline. A scholarly overview of extraterrestrial and UFO religion notes that such traditions were nourished by Cold War tensions and the threat of nuclear weapons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
-For Missouri readers, the local setting is crucial. Nelson’s farm was not just a backdrop. The Ozarks identity of the tale gave it its power: a plain-spoken rural man, far from Washington or Los Angeles, claimed to have become a messenger for other worlds. Yet that “simple farmer” image should be handled carefully. Springfield-Greene County Library’s local-history account notes that Nelson had lived in Southern California for decades before moving to Missouri, and that his own writing described a varied working life before the Mountain View years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+For Missouri readers, the local setting is crucial. Nelson’s farm was not just a backdrop. The Ozarks identity of the tale gave it its power: a plain-spoken rural man, far from Washington or Los Angeles, claimed to have become a messenger for other worlds. Yet that “simple farmer” image should be handled carefully. Springfield-Greene County Library’s local-history account notes that Nelson had lived in Southern California for decades before moving to Missouri, and that his own writing described a varied working life before the Mountain View years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-dark.svg" | relative_url }}" alt="Buck Nelson illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story spread beyond one man’s farm
 
-Nelson’s claims did not remain a private anecdote because they were packaged, repeated and performed. His 1956 booklet, *My Trip to Mars, the Moon, and Venus*, gave the story a portable form. It could be sold, mailed, quoted, challenged and remembered. The booklet also helped turn a Missouri farm sighting claim into a contactee narrative with characters, planets, moral messages and a journey structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+Nelson’s claims did not remain a private anecdote because they were packaged, repeated and performed. His 1956 booklet, *My Trip to Mars, the Moon, and Venus*, gave the story a portable form. It could be sold, mailed, quoted, challenged and remembered. The booklet also helped turn a Missouri farm sighting claim into a contactee narrative with characters, planets, moral messages and a journey structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
-Just as important was Nelson’s connection to other believers. The Library’s account argues that he was not an isolated Ozarks eccentric but part of a contactee network whose members vouched for one another, spoke at conventions and helped build a shared body of UFO-religious lore. James L. Hill of Seymour, Missouri, became especially important as a booster and interpreter of Nelson’s claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+Just as important was Nelson’s connection to other believers. The Library’s account argues that he was not an isolated Ozarks eccentric but part of a contactee network whose members vouched for one another, spoke at conventions and helped build a shared body of UFO-religious lore. James L. Hill of Seymour, Missouri, became especially important as a booster and interpreter of Nelson’s claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 That network explains why the story belongs to contactee culture rather than ordinary sighting evidence. A conventional UFO report usually asks whether a witness saw an aircraft, planet, meteor, balloon, military exercise or genuinely unexplained object. Nelson’s account asked listeners to accept a whole world: repeated visits, named space people, healing beams, interplanetary travel, anti-nuclear messages, religious meaning and practical schemes supposedly endorsed by extraterrestrials.
 
-The Center for UFO Studies’ HUMCAT index preserves the flavour of the claim in a case-summary form: three saucers returned, one circled low over Nelson’s house, spoke in English through a public-address system, and indicated future landings and a trip to Venus. That is not a chain of hard evidence. It is a record of how the story was classified and circulated within UFO reporting circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The Center for UFO Studies’ HUMCAT index preserves the flavour of the claim in a case-summary form: three saucers returned, one circled low over Nelson’s house, spoke in English through a public-address system, and indicated future landings and a trip to Venus. That is not a chain of hard evidence. It is a record of how the story was classified and circulated within UFO reporting circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvxIy7kh-Tc" title="Buck Nelson&#x27;s out of this world trip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer">Buck Nelson&#x27;s out of this world trip</a></p><p class="youtube-embed-meta">Channel: KY3 News - Springfield, Mo. &middot; Views: 369 &middot; Uploaded: February 2024 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvxIy7kh-Tc">Open on YouTube</a></p></div></div></div>
 
 ## Spacecraft conventions turned belief into public performance
 
-Nelson’s annual Spacecraft Conventions are the clearest reason he became Missouri’s contactee figure. By 1958, he was inviting the curious to come to his Mountain View farm, turning a personal space-travel claim into a gathering place. Ozarks Alive summarises the move neatly: after claiming that people from other planets had come to him, Nelson created a setting where people could come to him instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Nelson’s annual Spacecraft Conventions are the clearest reason he became Missouri’s contactee figure. By 1958, he was inviting the curious to come to his Mountain View farm, turning a personal space-travel claim into a gathering place. Ozarks Alive summarises the move neatly: after claiming that people from other planets had come to him, Nelson created a setting where people could come to him instead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 1966 Southeast Missourian account, later republished with photographs by Cape Girardeau History and Photos, shows the event near the end of its life. Nelson’s 40-acre farm, seven miles north-west of Mountain View in Howell County, had hosted the convention annually since the year of his claimed contact, but by 1966 the crowds had dwindled. The same report describes books and postcards for sale, speakers discussing “space brothers”, benches, microphones, refreshments, signs reading “Spaceships Welcome”, and a setting that partly resembled a fairground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
+The 1966 Southeast Missourian account, later republished with photographs by Cape Girardeau History and Photos, shows the event near the end of its life. Nelson’s 40-acre farm, seven miles north-west of Mountain View in Howell County, had hosted the convention annually since the year of his claimed contact, but by 1966 the crowds had dwindled. The same report describes books and postcards for sale, speakers discussing “space brothers”, benches, microphones, refreshments, signs reading “Spaceships Welcome”, and a setting that partly resembled a fairground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
 That blend is the mechanism of the case. Nelson’s conventions worked because they did several things at once:
 
@@ -307,18 +307,18 @@ That blend is the mechanism of the case. Nelson’s conventions worked because t
 
 </div>
 
-The 1966 account is especially valuable because it does not read like a clean promotional legend. It shows a movement in decline, with Nelson saying little and Hill doing much of the talking. It also shows how expansive the claims had become: Hill described space visitors, religious themes, atomic warnings, giant public projects and even proposed government funding for a space centre at Nelson’s farm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
+The 1966 account is especially valuable because it does not read like a clean promotional legend. It shows a movement in decline, with Nelson saying little and Hill doing much of the talking. It also shows how expansive the claims had become: Hill described space visitors, religious themes, atomic warnings, giant public projects and even proposed government funding for a space centre at Nelson’s farm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
-A surviving July 1966 issue of *Flying Saucers International*, now available in a government-hosted UFO document release, also places Nelson’s 10th Annual Spacecraft Convention within a wider national contactee calendar that included events in California and Nevada. It lists Nelson’s convention as taking place on 25, 26 and 27 June 1966 at Buck’s Mountain View Ranch, Route 1, Box 236, Mountain View, Missouri. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 449</span><span class="citation-popover-snippet">65 hs1 834228961 62 hq 83894 serial 449</span></span></span>
+A surviving July 1966 issue of *Flying Saucers International*, now available in a government-hosted UFO document release, also places Nelson’s 10th Annual Spacecraft Convention within a wider national contactee calendar that included events in California and Nevada. It lists Nelson’s convention as taking place on 25, 26 and 27 June 1966 at Buck’s Mountain View Ranch, Route 1, Box 236, Mountain View, Missouri.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 449</span><span class="citation-popover-snippet">65 hs1 834228961 62 hq 83894 serial 449</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-dark.svg" | relative_url }}" alt="Buck Nelson illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What made Nelson’s message persuasive to some people
 
-Nelson’s appeal came from more than a claim about flying saucers. His story offered a complete moral drama. Earth was dangerous because of atomic and hydrogen bombs. The visitors were technically advanced but human-like. Their message was simple enough to repeat: stop misusing destructive power and live more peacefully. In the 1966 convention report, Hill said the main purpose of the “space brothers” was to tell scientists to stop experimenting with hydrogen and atomic bombs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
+Nelson’s appeal came from more than a claim about flying saucers. His story offered a complete moral drama. Earth was dangerous because of atomic and hydrogen bombs. The visitors were technically advanced but human-like. Their message was simple enough to repeat: stop misusing destructive power and live more peacefully. In the 1966 convention report, Hill said the main purpose of the “space brothers” was to tell scientists to stop experimenting with hydrogen and atomic bombs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
 That message fitted the contactee era. The early Cold War gave flying saucer stories a ready emotional charge. Nuclear weapons, space exploration and distrust of official secrecy all made it easier for some audiences to imagine that superior beings might be watching Earth’s choices. The contactee story was, in a sense, an answer to a frightening age: if humans were at risk of destroying themselves, perhaps wiser outsiders had come to warn them.
 
-But Nelson’s message was not simply benevolent. A balanced account has to include the uglier part of his worldview. The Springfield-Greene County Library article highlights segregationist material in Nelson’s claims and public activity, including his statement that Venus practised “absolute segregation of all races and nationalities” and evidence that he printed and sold material connected with racist propaganda. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+But Nelson’s message was not simply benevolent. A balanced account has to include the uglier part of his worldview. The Springfield-Greene County Library article highlights segregationist material in Nelson’s claims and public activity, including his statement that Venus practised “absolute segregation of all races and nationalities” and evidence that he printed and sold material connected with racist propaganda.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 That matters because it prevents a nostalgic reading of Nelson as only a harmless folk character. His “space people” did not merely reflect cosmic hope; they also carried earthly prejudices. The case shows how UFO contact stories can borrow the language of peace and spiritual uplift while still reproducing local, national and racial politics from the world that produced them.
 
@@ -332,14 +332,14 @@ The central weaknesses are straightforward. Nelson’s planetary descriptions do
 
 This distinction helps place Nelson within Missouri’s wider UFO history. Piedmont in 1973 is important because many people reported aerial phenomena over a short period and because investigators such as Harley Rutledge tried to observe and document lights in the field. Nelson is important for a different reason: he shows how Missouri also had a contactee tradition, where the event was less “what was that light?” and more “who gets to speak for the space visitors?”
 
-Official UFO history also gives useful contrast. Project Blue Book, the US Air Force UFO investigation programme, collected 12,618 reports from 1947 to 1969, with 701 remaining unidentified when the programme ended. That does not validate Nelson’s claims; rather, it shows the difference between an official sighting-report framework and the much looser contactee world of pamphlets, conventions and personal revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span>
+Official UFO history also gives useful contrast. Project Blue Book, the US Air Force UFO investigation programme, collected 12,618 reports from 1947 to 1969, with 701 remaining unidentified when the programme ended. That does not validate Nelson’s claims; rather, it shows the difference between an official sighting-report framework and the much looser contactee world of pamphlets, conventions and personal revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide</span><span class="citation-popover-snippet">briefing guide</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-dark.svg" | relative_url }}" alt="Buck Nelson illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later reporting changed the shape of the legend
 
-Later accounts have generally weakened Nelson’s value as evidence while strengthening his value as folklore. Local-history research has clarified that his biography was more complicated than the homespun legend suggests. The “simple Ozarks farmer” image remains memorable, but records and Nelson’s own claims point to a more travelled life, including years in Southern California before Missouri. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+Later accounts have generally weakened Nelson’s value as evidence while strengthening his value as folklore. Local-history research has clarified that his biography was more complicated than the homespun legend suggests. The “simple Ozarks farmer” image remains memorable, but records and Nelson’s own claims point to a more travelled life, including years in Southern California before Missouri.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
-The decline of the conventions also matters. The Library’s account notes that the 1964 convention reportedly drew only 50 attendees, that the final convention was held in 1966, and that no convention followed in 1967 after Nelson became ill. It also records that Nelson’s Mountain View home was destroyed by fire in 1969 and that he died in Long Beach, California, in March 1972. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+The decline of the conventions also matters. The Library’s account notes that the 1964 convention reportedly drew only 50 attendees, that the final convention was held in 1966, and that no convention followed in 1967 after Nelson became ill. It also records that Nelson’s Mountain View home was destroyed by fire in 1969 and that he died in Long Beach, California, in March 1972.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 This arc gives the story a human scale. Nelson’s career did not end with disclosure, proof or official vindication. It faded. The crowds thinned, the contactee movement lost some of its midcentury force, the Space Age made Venus and Mars harder to imagine as homely worlds of overalled people, and Missouri UFO attention later shifted towards more report-driven episodes such as the Piedmont flap.
 
@@ -356,269 +356,269 @@ His story brought together several forces that recur in state-level UFO history:
 Buck Nelson therefore sits at the contactee end of Missouri’s UFO spectrum. At one end are structured sighting cases, police calls, field investigations and official records. At the other are figures like Nelson, whose claims are evidentially weak but culturally rich. His Mountain View story helps explain how Missouri’s UFO past became not only a record of things people said they saw, but also a record of what communities were willing to believe, perform, sell, doubt and remember.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Buck Nelson Became Missouri&#x27;s Contactee Figure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Buck Nelson Became Missouri&#x27;s Contactee Figure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My Trip to Mars, the Moon and Venus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b3-48I3oW5oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for My Trip to Mars, the Moon and Venus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Trip to Mars, the Moon and Venus">My Trip to Mars, the Moon and Venus</a>
-        </h4>
-        <p class="fr-book-author">By Buck Nelson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My Trip to Mars, the Moon and Venus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b3-48I3oW5oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for My Trip to Mars, the Moon and Venus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Trip to Mars, the Moon and Venus">My Trip to Mars, the Moon and Venus</a>
+</h4>
+<p class="fr-book-author">By Buck Nelson</p>
         
-        <p class="fr-book-desc">Central primary source for Buck Nelson&#x27;s claims and conventions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central primary source for Buck Nelson&#x27;s claims and conventions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LnUkDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
-        </h4>
-        <p class="fr-book-author">By Brenda Denzler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LnUkDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
+</h4>
+<p class="fr-book-author">By Brenda Denzler</p>
         
-        <p class="fr-book-desc">Helps explain why contactee movements such as Nelson&#x27;s gained followers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why contactee movements such as Nelson&#x27;s gained followers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lteid47_0-kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Worlds">Alien Worlds</a>
-        </h4>
-        <p class="fr-book-author">By Diana Tumminia</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lteid47_0-kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Worlds">Alien Worlds</a>
+</h4>
+<p class="fr-book-author">By Diana Tumminia</p>
         
-        <p class="fr-book-desc">Explores the social dynamics behind contactee stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the social dynamics behind contactee stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oD2M8u0y5eMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gods Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods Have Landed">The Gods Have Landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oD2M8u0y5eMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gods Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods Have Landed">The Gods Have Landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">Provides context for Buck Nelson&#x27;s spiritual and cosmic messaging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Buck Nelson&#x27;s spiritual and cosmic messaging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">My Trip to Mars, the Moon and Venus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lure of the Edge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Worlds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">My Trip to Mars, the Moon and Venus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lure of the Edge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Worlds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buck-nelson-why-buck-nelson-became-missouri-s-contactee-figure-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ Buck Nelson therefore sits at the contactee end of Missouri’s UFO spectrum. At
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ Buck Nelson therefore sits at the contactee end of Missouri’s UFO spectrum. At
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ Buck Nelson therefore sits at the contactee end of Missouri’s UFO spectrum. At
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ Buck Nelson therefore sits at the contactee end of Missouri’s UFO spectrum. At
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -774,168 +774,168 @@ Buck Nelson therefore sits at the contactee end of Missouri’s UFO spectrum. At
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 449  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/research/microfilm/m804.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/microfilm/m804.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/microfilm/m804.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/microfilm/m804.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: directors microfilm roll list  
-   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bidenwhitehouse.archives.gov  
    Title: ERP 2025  
-   Link: <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf</a>  
+   Link:<a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/publications/prologue/index/2003.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/index/2003.html</a>  
+   Link:<a href="https://www.archives.gov/publications/prologue/index/2003.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/index/2003.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thelibrary.org  
    Title: Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts  
-   Link: <a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
+   Link:<a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: capecentralhigh.com  
    Title: Cape Girardeau History and Photos Buck Nelson's Spacecraft Convention  
-   Link: <a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
+   Link:<a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ozarksalive.com  
-   Link: <a href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow">https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc</a>  
+   Link:<a href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow">https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Buck Nelson  
-   Link: <a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uk.forceswarrecords.com  
-   Link: <a href="https://uk.forceswarrecords.com/document/9169355" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169355</a>  
+   Link:<a href="https://uk.forceswarrecords.com/document/9169355" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169355</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
    Title: Buck Nelson  
-   Link: <a href="https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus</a>  
+   Link:<a href="https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: richgros.com  
    Title: buck nelson  
-   Link: <a href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow">https://richgros.com/People/Buck_Nelson/buck_nelson.html</a>  
+   Link:<a href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow">https://richgros.com/People/Buck_Nelson/buck_nelson.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: journal.equinoxpub.com  
-   Link: <a href="https://journal.equinoxpub.com/FIR/article/view/24134" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/FIR/article/view/24134</a>  
+   Link:<a href="https://journal.equinoxpub.com/FIR/article/view/24134" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/FIR/article/view/24134</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2</a>  
+   Link:<a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/</a>  
+   Link:<a href="https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pdcnet.org  
-   Link: <a href="https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf</a>  
+   Link:<a href="https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/220672510/Buck-Nelson-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/220672510/Buck-Nelson-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/220672510/Buck-Nelson-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/220672510/Buck-Nelson-pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ixtheo.de  
-   Link: <a href="https://ixtheo.de/Record/1738976696" target="_blank" rel="noopener noreferrer nofollow">https://ixtheo.de/Record/1738976696</a>  
+   Link:<a href="https://ixtheo.de/Record/1738976696" target="_blank" rel="noopener noreferrer nofollow">https://ixtheo.de/Record/1738976696</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html</a>  
+   Link:<a href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>

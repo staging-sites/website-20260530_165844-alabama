@@ -250,49 +250,49 @@ image: /assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_202
 
 ## Introduction
 
-The Lake Huron incident of February 2023 is one of the most closely scrutinised recent UFO cases connected to Michigan. Unlike many civilian sightings, this event involved military radar tracking, fighter aircraft, official briefings and a presidential order to engage an unidentified object. For several days, the object was publicly described as unknown, fuelling intense speculation about its nature. Subsequent investigation, however, steadily shifted the balance of evidence towards a far more mundane explanation: a balloon or balloon-like device rather than an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Lake Huron high altitude object</span><span class="citation-popover-snippet">2023 Lake Huron high altitude object</span></span></span>
+The Lake Huron incident of February 2023 is one of the most closely scrutinised recent UFO cases connected to Michigan. Unlike many civilian sightings, this event involved military radar tracking, fighter aircraft, official briefings and a presidential order to engage an unidentified object. For several days, the object was publicly described as unknown, fuelling intense speculation about its nature. Subsequent investigation, however, steadily shifted the balance of evidence towards a far more mundane explanation: a balloon or balloon-like device rather than an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Lake Huron high altitude object</span><span class="citation-popover-snippet">2023 Lake Huron high altitude object</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-1-dark.svg" | relative_url }}" alt="Lake Huron 2023 illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Michigan's modern UFO history, the case is important because it demonstrates how an object can be genuinely unidentified during an active military operation while later evidence points towards a conventional origin. It also highlights the difficulties of identifying small airborne objects at altitude, even with advanced military sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Chinese balloon incident</span><span class="citation-popover-snippet">2023 Chinese balloon incidentOn February 4, the U.S. Air Force shot down the balloon over U.S. territorial waters off the coast of Sou...</span></span></span>
+Within Michigan's modern UFO history, the case is important because it demonstrates how an object can be genuinely unidentified during an active military operation while later evidence points towards a conventional origin. It also highlights the difficulties of identifying small airborne objects at altitude, even with advanced military sensors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Chinese balloon incident</span><span class="citation-popover-snippet">2023 Chinese balloon incidentOn February 4, the U.S. Air Force shot down the balloon over U.S. territorial waters off the coast of Sou...</span></span></span>
 
 ## Timeline and Radar Tracking of the Lake Huron Object
 
-The object that would eventually be shot down over Lake Huron first attracted attention on 11 February 2023. Military and aviation authorities detected an unusual radar contact near Montana. Initial concern was heightened because the detection came only days after the highly publicised Chinese surveillance balloon had crossed North America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">NORADEstablished 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in C...</span><span class="citation-popover-meta">Published: September 1957</span></span></span>
+The object that would eventually be shot down over Lake Huron first attracted attention on 11 February 2023. Military and aviation authorities detected an unusual radar contact near Montana. Initial concern was heightened because the detection came only days after the highly publicised Chinese surveillance balloon had crossed North America.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">NORADEstablished 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in C...</span><span class="citation-popover-meta">Published: September 1957</span></span></span>
 
-According to official accounts, the contact disappeared and was later reacquired. By 12 February, NORAD and U.S. Northern Command had tracked the object moving eastward across the Upper Midwest and towards the Great Lakes region. Radar and visual monitoring linked the Lake Huron object to the earlier Montana detection. Officials stated that it was flying at roughly 20,000 feet, an altitude that placed it within the operating range of civilian aircraft and therefore created a potential aviation-safety concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+According to official accounts, the contact disappeared and was later reacquired. By 12 February, NORAD and U.S. Northern Command had tracked the object moving eastward across the Upper Midwest and towards the Great Lakes region. Radar and visual monitoring linked the Lake Huron object to the earlier Montana detection. Officials stated that it was flying at roughly 20,000 feet, an altitude that placed it within the operating range of civilian aircraft and therefore created a potential aviation-safety concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
-The object crossed near Michigan's Upper Peninsula before moving over Lake Huron. President Joe Biden authorised military action, and an F-16 fighter aircraft engaged the target. The first AIM-9X Sidewinder missile reportedly missed. A subsequent missile successfully struck the object, which fell into the lake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wcnc.com/article/news/nation-world/1st-missile-missed-lake-huron-object/507-5a490424-d016-4d18-b2c5-b9903c77a7d4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wcnc.com">[wcnc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wcnc.com</span><span class="citation-popover-snippet">1st missile strike at aerial object over Lake Huron missedFeb 14, 2023 — The White House has said the objects differed in size and maneuv...</span></span></span>
+The object crossed near Michigan's Upper Peninsula before moving over Lake Huron. President Joe Biden authorised military action, and an F-16 fighter aircraft engaged the target. The first AIM-9X Sidewinder missile reportedly missed. A subsequent missile successfully struck the object, which fell into the lake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wcnc.com/article/news/nation-world/1st-missile-missed-lake-huron-object/507-5a490424-d016-4d18-b2c5-b9903c77a7d4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wcnc.com">[wcnc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wcnc.com</span><span class="citation-popover-snippet">1st missile strike at aerial object over Lake Huron missedFeb 14, 2023 — The White House has said the objects differed in size and maneuv...</span></span></span>
 
-For Michigan researchers, the significance lies not only in the shootdown itself but in the fact that the object was tracked through multiple stages using radar and military aircraft rather than being based solely on eyewitness testimony. This places the case in a different category from most recent civilian UFO reports in the state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Lake Huron high altitude object</span><span class="citation-popover-snippet">2023 Lake Huron high altitude object</span></span></span>
+For Michigan researchers, the significance lies not only in the shootdown itself but in the fact that the object was tracked through multiple stages using radar and military aircraft rather than being based solely on eyewitness testimony. This places the case in a different category from most recent civilian UFO reports in the state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Lake Huron high altitude object</span><span class="citation-popover-snippet">2023 Lake Huron high altitude object</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0gia6bJYGWc" title="US shoots down 4th flying object over Lake Huron | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0gia6bJYGWc" target="_blank" rel="noopener noreferrer">US shoots down 4th flying object over Lake Huron | DW News</a></p><p class="youtube-embed-meta">Channel: DW News &middot; Views: 415.9K &middot; Uploaded: February 2023 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0gia6bJYGWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0gia6bJYGWc">Open on YouTube</a></p></div></div></div>
 
 ## What Did Pilots and Sensors Actually See?
 
-Early descriptions contributed heavily to the mystery surrounding the event. Military officials described the object as octagonal or octagon-shaped, with strings or dangling elements visible beneath it. It appeared to be unmanned and showed no obvious signs of propulsion. Officials also reported that it did not appear to be transmitting communications signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Chinese balloon incident</span><span class="citation-popover-snippet">2023 Chinese balloon incidentOn February 4, the U.S. Air Force shot down the balloon over U.S. territorial waters off the coast of Sou...</span></span></span>
+Early descriptions contributed heavily to the mystery surrounding the event. Military officials described the object as octagonal or octagon-shaped, with strings or dangling elements visible beneath it. It appeared to be unmanned and showed no obvious signs of propulsion. Officials also reported that it did not appear to be transmitting communications signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Chinese balloon incident</span><span class="citation-popover-snippet">2023 Chinese balloon incidentOn February 4, the U.S. Air Force shot down the balloon over U.S. territorial waters off the coast of Sou...</span></span></span>
 
-These details created confusion because the object did not neatly resemble a conventional aircraft. Pilot observations and sensor data suggested a relatively small target compared with the Chinese surveillance balloon shot down a week earlier. Officials emphasised that the object's altitude and location made it a potential flight hazard even though they did not assess it as a direct military attack threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">NORADEstablished 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in C...</span><span class="citation-popover-meta">Published: September 1957</span></span></span>
+These details created confusion because the object did not neatly resemble a conventional aircraft. Pilot observations and sensor data suggested a relatively small target compared with the Chinese surveillance balloon shot down a week earlier. Officials emphasised that the object's altitude and location made it a potential flight hazard even though they did not assess it as a direct military attack threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">NORADEstablished 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in C...</span><span class="citation-popover-meta">Published: September 1957</span></span></span>
 
-The release of additional military footage in 2026 renewed public interest. Infrared imagery showed the target before destruction and appeared consistent with a small airborne object rather than a large, manoeuvring craft. Aviation analysts examining the footage argued that its appearance was broadly compatible with a balloon-like structure, though the video alone could not definitively identify the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">image of object shot down over lake huron</span><span class="citation-popover-snippet">The AviationistPentagon Finally Releases Footage Of Unidentified Object...12 hours ago — In 2023, a U.S. Air National Guard F-16CM shot...</span></span></span>
+The release of additional military footage in 2026 renewed public interest. Infrared imagery showed the target before destruction and appeared consistent with a small airborne object rather than a large, manoeuvring craft. Aviation analysts examining the footage argued that its appearance was broadly compatible with a balloon-like structure, though the video alone could not definitively identify the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">image of object shot down over lake huron</span><span class="citation-popover-snippet">The AviationistPentagon Finally Releases Footage Of Unidentified Object...12 hours ago — In 2023, a U.S. Air National Guard F-16CM shot...</span></span></span>
 
-A key point often lost in public discussion is that "unidentified" during an interception does not necessarily imply exotic technology. Military crews were dealing with an object whose exact nature was unknown at that moment, not one that had been determined to be extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+A key point often lost in public discussion is that "unidentified" during an interception does not necessarily imply exotic technology. Military crews were dealing with an object whose exact nature was unknown at that moment, not one that had been determined to be extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-2-dark.svg" | relative_url }}" alt="Lake Huron 2023 illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Case Initially Appeared So Mysterious
 
-The timing of the incident was crucial. North American air-defence systems were operating under unusual scrutiny after the Chinese balloon controversy. Officials later acknowledged that radar settings had been adjusted to detect smaller and slower-moving objects that might previously have received less attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountThe U.S. military has recently shot down several unidentified flying objects over North Ame...</span></span></span>
+The timing of the incident was crucial. North American air-defence systems were operating under unusual scrutiny after the Chinese balloon controversy. Officials later acknowledged that radar settings had been adjusted to detect smaller and slower-moving objects that might previously have received less attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountThe U.S. military has recently shot down several unidentified flying objects over North Ame...</span></span></span>
 
-This change increased the number of contacts receiving examination. In that environment, an unfamiliar object over sensitive airspace naturally attracted concern. Public statements during the first days after the shootdown reflected genuine uncertainty. Authorities did not know what the object was, whether it belonged to a foreign government, or whether it posed a surveillance risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountThe U.S. military has recently shot down several unidentified flying objects over North Ame...</span></span></span>
+This change increased the number of contacts receiving examination. In that environment, an unfamiliar object over sensitive airspace naturally attracted concern. Public statements during the first days after the shootdown reflected genuine uncertainty. Authorities did not know what the object was, whether it belonged to a foreign government, or whether it posed a surveillance risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountThe U.S. military has recently shot down several unidentified flying objects over North Ame...</span></span></span>
 
-The absence of immediate debris recovery also prolonged speculation. Search efforts in and around Lake Huron were hampered by weather conditions, water depth and difficult recovery circumstances. For a time, there was little physical evidence available to settle competing interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+The absence of immediate debris recovery also prolonged speculation. Search efforts in and around Lake Huron were hampered by weather conditions, water depth and difficult recovery circumstances. For a time, there was little physical evidence available to settle competing interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y6DjdbtHuuA" title="White House: Unidentified object shot down over Lake Huron likely &#x27;benign balloon&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y6DjdbtHuuA" target="_blank" rel="noopener noreferrer">White House: Unidentified object shot down over Lake Huron likely &#x27;benign balloon&#x27;</a></p><p class="youtube-embed-meta">Channel: Click On Detroit | Local 4 | WDIV &middot; Views: 1.7K &middot; Uploaded: February 2023 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y6DjdbtHuuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y6DjdbtHuuA">Open on YouTube</a></p></div></div></div>
 
 ## Why Investigators Moved Towards a Balloon Explanation
 
-Within days of the shootdown, White House officials began signalling that several recently downed objects might ultimately prove to be benign balloons linked to commercial, research or private activities rather than foreign espionage programmes. The Lake Huron object was repeatedly included in that assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">flying objects shot down balloons white house</span><span class="citation-popover-snippet">The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — Three unidentified objects shot down by US fighter...</span></span></span>
+Within days of the shootdown, White House officials began signalling that several recently downed objects might ultimately prove to be benign balloons linked to commercial, research or private activities rather than foreign espionage programmes. The Lake Huron object was repeatedly included in that assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">flying objects shot down balloons white house</span><span class="citation-popover-snippet">The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — Three unidentified objects shot down by US fighter...</span></span></span>
 
-The strongest development came later. Documents made public in 2024 indicated that debris associated with the Lake Huron object had in fact been recovered. According to those records, investigators concluded that the material originated from a company involved in weather-monitoring equipment. That finding substantially weakened more exotic interpretations of the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+The strongest development came later. Documents made public in 2024 indicated that debris associated with the Lake Huron object had in fact been recovered. According to those records, investigators concluded that the material originated from a company involved in weather-monitoring equipment. That finding substantially weakened more exotic interpretations of the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
 Several characteristics of the object also fit a balloon scenario:
 
@@ -301,212 +301,212 @@ Several characteristics of the object also fit a balloon scenario:
 * Apparently drifting with prevailing winds rather than displaying controlled manoeuvres.
 * No evidence of propulsion.
 * No detected communications signals.
-* A shape and external features that could be consistent with scientific or meteorological equipment suspended beneath a balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+* A shape and external features that could be consistent with scientific or meteorological equipment suspended beneath a balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
 </div>
 
-While some uncertainty remains because public reporting on the recovered debris has been limited, the available evidence points more strongly towards a balloon-related explanation than towards an unknown advanced vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+While some uncertainty remains because public reporting on the recovered debris has been limited, the available evidence points more strongly towards a balloon-related explanation than towards an unknown advanced vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-3-dark.svg" | relative_url }}" alt="Lake Huron 2023 illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_lake_huron_2023_uap_742f15-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Lake Huron Case Means for Michigan's Recent UFO Record
 
-The Lake Huron incident occupies an unusual position in Michigan's UFO history. It began as one of the most credible-looking unidentified aerial events in recent years because it involved military sensors, fighter pilots and official tracking. Yet the trajectory of the investigation moved steadily away from mystery and towards a conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+The Lake Huron incident occupies an unusual position in Michigan's UFO history. It began as one of the most credible-looking unidentified aerial events in recent years because it involved military sensors, fighter pilots and official tracking. Yet the trajectory of the investigation moved steadily away from mystery and towards a conventional explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
-That does not make the case unimportant. On the contrary, it provides a useful example of how serious investigations unfold. Initial uncertainty was real. Military personnel could not immediately identify the object. However, later evidence, including reported debris analysis and government assessments, reduced the likelihood that the target represented anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
+That does not make the case unimportant. On the contrary, it provides a useful example of how serious investigations unfold. Initial uncertainty was real. Military personnel could not immediately identify the object. However, later evidence, including reported debris analysis and government assessments, reduced the likelihood that the target represented anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</span></span></span>
 
-For readers following recent UFO activity across Michigan, the central lesson is that high-profile military encounters can move through several stages: detection, uncertainty, public speculation, investigation and eventual reinterpretation. The Lake Huron object remains notable because it was genuinely unidentified when intercepted, but the weight of subsequent evidence points towards a balloon or weather-monitoring device rather than an unresolved technological mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">image of object shot down over lake huron</span><span class="citation-popover-snippet">The AviationistPentagon Finally Releases Footage Of Unidentified Object...12 hours ago — In 2023, a U.S. Air National Guard F-16CM shot...</span></span></span>
+For readers following recent UFO activity across Michigan, the central lesson is that high-profile military encounters can move through several stages: detection, uncertainty, public speculation, investigation and eventual reinterpretation. The Lake Huron object remains notable because it was genuinely unidentified when intercepted, but the weight of subsequent evidence points towards a balloon or weather-monitoring device rather than an unresolved technological mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">image of object shot down over lake huron</span><span class="citation-popover-snippet">The AviationistPentagon Finally Releases Footage Of Unidentified Object...12 hours ago — In 2023, a U.S. Air National Guard F-16CM shot...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TjEX46iaf6g" title="What we know about the unidentified object shot down over Lake Huron on Sunday" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TjEX46iaf6g" target="_blank" rel="noopener noreferrer">What we know about the unidentified object shot down over Lake Huron on Sunday</a></p><p class="youtube-embed-meta">Channel: WXYZ-TV Detroit | Channel 7 &middot; Views: 85.4K &middot; Uploaded: February 2023 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TjEX46iaf6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TjEX46iaf6g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Lake Huron 2023 UFO Military Tracking and Resolution. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Lake Huron 2023 UFO Military Tracking and Resolution. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Readers interested in military UAP events often seek it out.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in military UAP events often seek it out.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides perspective on identification challenges in official cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides perspective on identification challenges in official cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military and aviation encounters similar to the Lake Huron discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military and aviation encounters similar to the Lake Huron discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Highly relevant to military tracking, official investigations, and recent UAP cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to military tracking, official investigations, and recent UAP cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lake-huron-2023-ufo-military-tracking-and-resolution-ufo-wall-art-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ For readers following recent UFO activity across Michigan, the central lesson is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ For readers following recent UFO activity across Michigan, the central lesson is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ For readers following recent UFO activity across Michigan, the central lesson is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ For readers following recent UFO activity across Michigan, the central lesson is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ For readers following recent UFO activity across Michigan, the central lesson is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,112 +712,112 @@ For readers following recent UFO activity across Michigan, the central lesson is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2023 Lake Huron high altitude object  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Lake_Huron_high-altitude_object</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wcnc.com  
-   Link: <a href="https://www.wcnc.com/article/news/nation-world/1st-missile-missed-lake-huron-object/507-5a490424-d016-4d18-b2c5-b9903c77a7d4" target="_blank" rel="noopener noreferrer nofollow">https://www.wcnc.com/article/news/nation-world/1st-missile-missed-lake-huron-object/507-5a490424-d016-4d18-b2c5-b9903c77a7d4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1st missile strike at aerial object over Lake Huron missedFeb 14, 2023 — The White House has said the objects differed in size and maneuv...</p></details>
+   Link:<a href="https://www.wcnc.com/article/news/nation-world/1st-missile-missed-lake-huron-object/507-5a490424-d016-4d18-b2c5-b9903c77a7d4" target="_blank" rel="noopener noreferrer nofollow">https://www.wcnc.com/article/news/nation-world/1st-missile-missed-lake-huron-object/507-5a490424-d016-4d18-b2c5-b9903c77a7d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1st missile strike at aerial object over Lake Huron missedFeb 14, 2023 — The White House has said the objects differed in size and maneuv...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: 'I Haven't Ruled Out Anything.' U.S  
-   Link: <a href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6254959/military-ufo-shootdown-lake-huron/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General Doesn&#x27;t Eliminate Aliens As UFOs MountThe U.S. military has recently shot down several unidentified flying objects over North Ame...</p></details>
+   Link:<a href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6254959/military-ufo-shootdown-lake-huron/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Doesn&#x27;t Eliminate Aliens As UFOs MountThe U.S. military has recently shot down several unidentified flying objects over North Ame...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>l and maritime warning in the defense of North America...</p></details>
+   Link:<a href="https://www.norad.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l and maritime warning in the defense of North America...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 2023 Chinese balloon incident  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Chinese balloon incidentOn February 4, the U.S. Air Force shot down the balloon over U.S. territorial waters off the coast of Sou...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Chinese balloon incidentOn February 4, the U.S. Air Force shot down the balloon over U.S. territorial waters off the coast of Sou...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NORAD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORADEstablished 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in C...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NORAD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORADEstablished 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in C...</p></details>
    Published: September 1957  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LakeA lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth&#x27;s surface. It is localized in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theaviationist.com  
    Title: image of object shot down over lake huron  
-   Link: <a href="https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistPentagon Finally Releases Footage Of Unidentified Object...12 hours ago — In 2023, a U.S. Air National Guard F-16CM shot...</p></details>
+   Link:<a href="https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2026/05/23/image-of-object-shot-down-over-lake-huron/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistPentagon Finally Releases Footage Of Unidentified Object...12 hours ago — In 2023, a U.S. Air National Guard F-16CM shot...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: flying objects shot down balloons white house  
-   Link: <a href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — Three unidentified objects shot down by US fighter...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — Three unidentified objects shot down by US fighter...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: I wanted to make sure that the American people knew  
-   Link: <a href="https://www.theguardian.com/us-news/2023/feb/13/biden-ufo-shot-down-michigan-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/13/biden-ufo-shot-down-michigan-flying-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Significant&#x27; debris from China spy balloon retrieved, says...Feb 13, 2023 — “There is no indication of aliens or extraterrestrial activ...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/feb/13/biden-ufo-shot-down-michigan-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/13/biden-ufo-shot-down-michigan-flying-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Significant&#x27; debris from China spy balloon retrieved, says...Feb 13, 2023 — “There is no indication of aliens or extraterrestrial activ...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The object, shaped like a diamond, was destroyed by a weapon system, causing debris to scatter. This video is part of a significant discl...</p></details>
+   Link:<a href="https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object, shaped like a diamond, was destroyed by a weapon system, causing debris to scatter. This video is part of a significant discl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NORADCommand/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NORADCommand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North American Aerospace Defense CommandFor more than 65 years, NORAD aircraft have identified and intercepted potential air threats to N...</p></details>
+   Link:<a href="https://www.facebook.com/NORADCommand/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NORADCommand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North American Aerospace Defense CommandFor more than 65 years, NORAD aircraft have identified and intercepted potential air threats to N...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/</a>  
+   Link:<a href="https://abc7news.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 flying objects have been shot down over North AmericaSince January, four vessels, including a suspected Chinese spy balloon, have been...</p></details>
+   Link:<a href="https://abc7chicago.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/chinese-spy-balloon-flying-object-shot-down-over-lake-huron-unidentified-objects/12809246/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 flying objects have been shot down over North AmericaSince January, four vessels, including a suspected Chinese spy balloon, have been...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: clickondetroit.com  
-   Link: <a href="https://www.clickondetroit.com/video/news/2023/02/15/white-house-unidentified-object-shot-down-over-lake-huron-likely-benign-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/video/news/2023/02/15/white-house-unidentified-object-shot-down-over-lake-huron-likely-benign-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House: Unidentified object shot down over Lake Huron...U.S. officials are now saying the several unidentified aerial objects shot...</p></details>
+   Link:<a href="https://www.clickondetroit.com/video/news/2023/02/15/white-house-unidentified-object-shot-down-over-lake-huron-likely-benign-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/video/news/2023/02/15/white-house-unidentified-object-shot-down-over-lake-huron-likely-benign-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House: Unidentified object shot down over Lake Huron...U.S. officials are now saying the several unidentified aerial objects shot...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military has finally released video footage showing an Air National Guard F-16 shooting down an object over Lake Huron back in 2023...Re...</p></details>
+   Link:<a href="https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military has finally released video footage showing an Air National Guard F-16 shooting down an object over Lake Huron back in 2023...Re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alabamareflector.com  
    Title: one missile fired at mystery flying object wound up in lake huron officials say  
-   Link: <a href="https://alabamareflector.com/2023/02/14/one-missile-fired-at-mystery-flying-object-wound-up-in-lake-huron-officials-say/" target="_blank" rel="noopener noreferrer nofollow">https://alabamareflector.com/2023/02/14/one-missile-fired-at-mystery-flying-object-wound-up-in-lake-huron-officials-say/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>officials say the 200-foot maneuverable balloon carrying equipment the size of a jetliner was part of a vast Chinese surveillance operati...</p></details>
+   Link:<a href="https://alabamareflector.com/2023/02/14/one-missile-fired-at-mystery-flying-object-wound-up-in-lake-huron-officials-say/" target="_blank" rel="noopener noreferrer nofollow">https://alabamareflector.com/2023/02/14/one-missile-fired-at-mystery-flying-object-wound-up-in-lake-huron-officials-say/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>officials say the 200-foot maneuverable balloon carrying equipment the size of a jetliner was part of a vast Chinese surveillance operati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cbsnews.com  
    Title: unidentified object shot down great lakes region lake huron sunday 2023 02 12  
-   Link: <a href="https://www.cbsnews.com/news/unidentified-object-shot-down-great-lakes-region-lake-huron-sunday-2023-02-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/unidentified-object-shot-down-great-lakes-region-lake-huron-sunday-2023-02-12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military shoots down unidentified object over Great...13 Feb 2023 — China has insisted the balloon was an airship that had blown off cou...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/unidentified-object-shot-down-great-lakes-region-lake-huron-sunday-2023-02-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/unidentified-object-shot-down-great-lakes-region-lake-huron-sunday-2023-02-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military shoots down unidentified object over Great...13 Feb 2023 — China has insisted the balloon was an airship that had blown off cou...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wcmu.org  
    Title: canadian officials found debris in lake huron after object shot down in 2023  
-   Link: <a href="https://www.wcmu.org/local-regional-news/2024-11-21/canadian-officials-found-debris-in-lake-huron-after-object-shot-down-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wcmu.org/local-regional-news/2024-11-21/canadian-officials-found-debris-in-lake-huron-after-object-shot-down-in-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian officials found debris in Lake Huron after object...19 Nov 2024 — Canadian officials obtained debris from a module in Lake Huro...</p></details>
+   Link:<a href="https://www.wcmu.org/local-regional-news/2024-11-21/canadian-officials-found-debris-in-lake-huron-after-object-shot-down-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wcmu.org/local-regional-news/2024-11-21/canadian-officials-found-debris-in-lake-huron-after-object-shot-down-in-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian officials found debris in Lake Huron after object...19 Nov 2024 — Canadian officials obtained debris from a module in Lake Huro...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LessCredibleDefence/comments/110unhk/f16_shoots_down_octagonal_object_over_lake_huron/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LessCredibleDefence/comments/110unhk/f16_shoots_down_octagonal_object_over_lake_huron/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re probing our defenses. After we shot down the first balloon maybe NORAD has just been paying more...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/LessCredibleDefence/comments/110unhk/f16_shoots_down_octagonal_object_over_lake_huron/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LessCredibleDefence/comments/110unhk/f16_shoots_down_octagonal_object_over_lake_huron/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re probing our defenses. After we shot down the first balloon maybe NORAD has just been paying more...Read more...</p></details>

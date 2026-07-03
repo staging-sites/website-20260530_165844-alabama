@@ -250,14 +250,14 @@ image: /assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed_fort_bra
 
 ## Introduction
 
-Fort Bragg appears only briefly in the surviving Project [Blue Book]({{ 'blue-book-4f2260/' | relative_url }}) record, yet those brief entries help explain why military-base UFO reports have remained influential in North Carolina’s UFO history. A sighting connected to a major Cold War installation naturally sounds more significant than an ordinary civilian report. Readers often assume that trained military observers, controlled airspace and nearby aviation infrastructure must produce stronger evidence. The Fort Bragg cases from 1958 show a more complicated reality. The setting was impressive, but the surviving documentation is thin, the witness accounts were short, and later researchers often relied on summaries rather than complete investigative files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1958fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1958 UFO ChronologyFeb 24, 2006 —... Project Blue Book Unknowns, Jean Waskiewicz, Richard Hall, Jan... June 20, 1958; Fort Bragg, North...</span><span class="citation-popover-meta">Published: June 20, 1958</span></span></span>
+Fort Bragg appears only briefly in the surviving Project [Blue Book]({{ 'blue-book-4f2260/' | relative_url }}) record, yet those brief entries help explain why military-base UFO reports have remained influential in North Carolina’s UFO history. A sighting connected to a major Cold War installation naturally sounds more significant than an ordinary civilian report. Readers often assume that trained military observers, controlled airspace and nearby aviation infrastructure must produce stronger evidence. The Fort Bragg cases from 1958 show a more complicated reality. The setting was impressive, but the surviving documentation is thin, the witness accounts were short, and later researchers often relied on summaries rather than complete investigative files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1958fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1958 UFO ChronologyFeb 24, 2006 —... Project Blue Book Unknowns, Jean Waskiewicz, Richard Hall, Jan... June 20, 1958; Fort Bragg, North...</span><span class="citation-popover-meta">Published: June 20, 1958</span></span></span>
 
 <img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed_fort_bragg_1958_39738d-Illustration-1-dark.svg" | relative_url }}" alt="Fort Bragg illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed_fort_bragg_1958_39738d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed_fort_bragg_1958_39738d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider pattern of Project Blue Book cases in North Carolina, Fort Bragg matters less because it produced a decisive mystery and more because it highlights a recurring question: does a military location automatically make a UFO report more credible? The 1958 reports suggest that the answer is not necessarily.
 
 ## Why Fort Bragg shaped the Blue Book record
 
-During the 1950s, Fort Bragg sat at the centre of one of the United States military’s most important training environments. The installation worked closely with nearby Pope Air Force Base, creating a landscape filled with aircraft activity, airborne operations, night exercises and military communications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pope.af.mil">[pope.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pope.af.mil</span><span class="citation-popover-snippet">Pope Army Airfield HistoryPope Army Airfield is located on the Army&#x27;s Fort Bragg in North Carolina. Today, the Airmen on Fort Bragg facil...</span></span></span>
+During the 1950s, Fort Bragg sat at the centre of one of the United States military’s most important training environments. The installation worked closely with nearby Pope Air Force Base, creating a landscape filled with aircraft activity, airborne operations, night exercises and military communications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pope.af.mil">[pope.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pope.af.mil</span><span class="citation-popover-snippet">Pope Army Airfield HistoryPope Army Airfield is located on the Army&#x27;s Fort Bragg in North Carolina. Today, the Airmen on Fort Bragg facil...</span></span></span>
 
 That environment made any unusual aerial report stand out. A sighting from a military witness could seem more reliable because the observer was accustomed to aircraft and military operations. At the same time, military bases generated conditions that complicated UFO investigations:
 
@@ -275,7 +275,7 @@ As a result, a Fort Bragg case could appear both important and frustratingly inc
 <img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed_fort_bragg_1958_39738d-Illustration-3-dark.svg" | relative_url }}" alt="Fort Bragg illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed_fort_bragg_1958_39738d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed_fort_bragg_1958_39738d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Two 1958 reports at Fort Bragg
 
-The best-known Fort Bragg entry in UFO catalogues is a report dated 20 June 1958. Several later compilations of Project Blue Book “unknowns” list the case as occurring around 11:05 p.m. A military witness, identified in later summaries as Battalion Communication Chief Sergeant First Class A. Parsley, reportedly observed a silver circular object. Accounts describe the object as appearing through a greenish haze, hovering, oscillating slightly and then departing at high speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Comprehensive Catalog of 1600 Project Blue Book UFO...Oct 2, 2009 — Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns:... 5...</span></span></span>
+The best-known Fort Bragg entry in UFO catalogues is a report dated 20 June 1958. Several later compilations of Project Blue Book “unknowns” list the case as occurring around 11:05 p.m. A military witness, identified in later summaries as Battalion Communication Chief Sergeant First Class A. Parsley, reportedly observed a silver circular object. Accounts describe the object as appearing through a greenish haze, hovering, oscillating slightly and then departing at high speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Comprehensive Catalog of 1600 Project Blue Book UFO...Oct 2, 2009 — Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns:... 5...</span></span></span>
 
 The description is striking because it contains several features commonly associated with classic UFO reports of the era:
 
@@ -288,9 +288,9 @@ The description is striking because it contains several features commonly associ
 
 </div>
 
-Yet the surviving public record is surprisingly limited. Most references trace back to catalogues of unexplained Blue Book cases rather than detailed investigative narratives. The case is often repeated in later UFO literature in nearly identical wording, suggesting that researchers were drawing from the same small pool of source material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">piled by Don Berliner, for the Fund for UFO Research.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved CasesComprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work in Progress (Versi...</span></span></span>
+Yet the surviving public record is surprisingly limited. Most references trace back to catalogues of unexplained Blue Book cases rather than detailed investigative narratives. The case is often repeated in later UFO literature in nearly identical wording, suggesting that researchers were drawing from the same small pool of source material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">piled by Don Berliner, for the Fund for UFO Research.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved CasesComprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work in Progress (Versi...</span></span></span>
 
-A second 1958 Fort Bragg-related entry appears in some Blue Book-derived catalogues. Research compilations by Brad Sparks and others list another military observation near Fort Bragg later in 1958, again with only sparse surviving detail. The case survives primarily as a catalogue reference rather than a richly documented investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecn.org/cunfi/bluebookunknowns-v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecn.org">[ecn.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecn.org</span><span class="citation-popover-title">bluebookunknowns v1</span><span class="citation-popover-snippet">Brad Sparks BB-Unknowns-v1.1nov 2001Nov 26, 2001 — Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work... Fort Bragg, No...</span></span></span>
+A second 1958 Fort Bragg-related entry appears in some Blue Book-derived catalogues. Research compilations by Brad Sparks and others list another military observation near Fort Bragg later in 1958, again with only sparse surviving detail. The case survives primarily as a catalogue reference rather than a richly documented investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecn.org/cunfi/bluebookunknowns-v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecn.org">[ecn.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecn.org</span><span class="citation-popover-title">bluebookunknowns v1</span><span class="citation-popover-snippet">Brad Sparks BB-Unknowns-v1.1nov 2001Nov 26, 2001 — Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work... Fort Bragg, No...</span></span></span>
 
 This pattern is important. Fort Bragg is remembered in UFO histories because it generated entries in the official record, but the surviving evidence is often much thinner than readers expect when they hear that a major military base was involved.
 
@@ -298,7 +298,7 @@ This pattern is important. Fort Bragg is remembered in UFO histories because it 
 
 ## Military witnesses and the Cold War setting
 
-The Fort Bragg reports emerged during a period when the United States military treated unidentified aerial reports as potential security concerns rather than purely cultural curiosities. Project Blue Book existed partly because the Air Force wanted to determine whether unusual aerial observations represented a threat to national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The Fort Bragg reports emerged during a period when the United States military treated unidentified aerial reports as potential security concerns rather than purely cultural curiosities. Project Blue Book existed partly because the Air Force wanted to determine whether unusual aerial observations represented a threat to national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 That Cold War atmosphere cuts in two different directions when assessing the Fort Bragg sightings.
 
@@ -310,7 +310,7 @@ The Fort Bragg cases sit squarely inside that tension. The witnesses were connec
 
 ## Why the records remain incomplete
 
-One of the most persistent problems in Blue Book research is the uneven survival of documents. Researchers associated with the Center for UFO Studies and later cataloguing projects have noted that some officially listed “unknown” cases survive only as summaries or index references. Missing files, incomplete paperwork and differing case lists have complicated attempts to reconstruct individual incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesProject Blue BookResearcher Brad Sparks has compiled a comprehensive catalog of 2,200 UFO cases that the US Air For...</span></span></span>
+One of the most persistent problems in Blue Book research is the uneven survival of documents. Researchers associated with the Center for UFO Studies and later cataloguing projects have noted that some officially listed “unknown” cases survive only as summaries or index references. Missing files, incomplete paperwork and differing case lists have complicated attempts to reconstruct individual incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesProject Blue BookResearcher Brad Sparks has compiled a comprehensive catalog of 2,200 UFO cases that the US Air For...</span></span></span>
 
 The Fort Bragg reports illustrate that problem clearly.
 
@@ -338,8 +338,8 @@ Several elements make the cases memorable:
 
 * They occurred at one of America's best-known military installations.
 * They involved military personnel.
-* They entered the broader Blue Book archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
-* At least one case appeared in later catalogues of unexplained reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1958fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1958 UFO ChronologyFeb 24, 2006 —... Project Blue Book Unknowns, Jean Waskiewicz, Richard Hall, Jan... June 20, 1958; Fort Bragg, North...</span><span class="citation-popover-meta">Published: June 20, 1958</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">piled by Don Berliner, for the Fund for UFO Research.Read more...</span></span></span>
+* They entered the broader Blue Book archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+* At least one case appeared in later catalogues of unexplained reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1958fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1958 UFO ChronologyFeb 24, 2006 —... Project Blue Book Unknowns, Jean Waskiewicz, Richard Hall, Jan... June 20, 1958; Fort Bragg, North...</span><span class="citation-popover-meta">Published: June 20, 1958</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">piled by Don Berliner, for the Fund for UFO Research.Read more...</span></span></span>
 
 Those features give the reports an aura of significance that many ordinary civilian sightings lack.
 
@@ -351,7 +351,7 @@ At the same time, the evidential weaknesses are substantial:
 * Independent confirmation is limited.
 * Detailed investigative files are difficult to locate.
 * No widely cited radar or photographic evidence accompanies the reports.
-* Later retellings often rely on the same source summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved CasesComprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work in Progress (Versi...</span></span></span>
+* Later retellings often rely on the same source summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved CasesComprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work in Progress (Versi...</span></span></span>
 
 </div>
 
@@ -365,199 +365,199 @@ The larger lesson from Fort Bragg is that location and witness status can influe
 
 The surviving 1958 cases suggest caution. Military settings can produce valuable observations, but they do not automatically produce complete investigations or definitive answers. Fort Bragg’s place in the Blue Book record rests on a handful of intriguing reports, not on a body of conclusive proof.
 
-That makes the site historically important within North Carolina’s UFO archive. It sits alongside nearby Pope Air Force Base and other military-linked state cases as part of a pattern showing how Cold War defence infrastructure repeatedly intersected with UFO reporting. The Fort Bragg entries remain notable because they were recorded, preserved and debated—not because they settled the question of what was actually seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pope.af.mil">[pope.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pope.af.mil</span><span class="citation-popover-snippet">Pope Army Airfield HistoryPope Army Airfield is located on the Army&#x27;s Fort Bragg in North Carolina. Today, the Airmen on Fort Bragg facil...</span></span></span>
+That makes the site historically important within North Carolina’s UFO archive. It sits alongside nearby Pope Air Force Base and other military-linked state cases as part of a pattern showing how Cold War defence infrastructure repeatedly intersected with UFO reporting. The Fort Bragg entries remain notable because they were recorded, preserved and debated—not because they settled the question of what was actually seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pope.af.mil">[pope.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pope.af.mil</span><span class="citation-popover-snippet">Pope Army Airfield HistoryPope Army Airfield is located on the Army&#x27;s Fort Bragg in North Carolina. Today, the Airmen on Fort Bragg facil...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer">UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer">UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 2.3M &middot; Uploaded: July 2023 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=54_bxf7n3Oo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Fort Bragg shaped the Blue Book record. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Fort Bragg shaped the Blue Book record. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Best overall context for military-associated UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best overall context for military-associated UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Matches the Cold War military-record focus of the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the Cold War military-record focus of the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broader analytical context for military sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader analytical context for military sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Relevant to historical military UFO case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to historical military UFO case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-fort-bragg-shaped-the-blue-book-record-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ That makes the site historically important within North Carolina’s UFO archive
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ That makes the site historically important within North Carolina’s UFO archive
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ That makes the site historically important within North Carolina’s UFO archive
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ That makes the site historically important within North Carolina’s UFO archive
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ That makes the site historically important within North Carolina’s UFO archive
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,114 +763,114 @@ That makes the site historically important within North Carolina’s UFO archive
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1958fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1958fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1958 UFO ChronologyFeb 24, 2006 —... Project Blue Book Unknowns, Jean Waskiewicz, Richard Hall, Jan... June 20, 1958; Fort Bragg, North...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1958fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1958fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1958 UFO ChronologyFeb 24, 2006 —... Project Blue Book Unknowns, Jean Waskiewicz, Richard Hall, Jan... June 20, 1958; Fort Bragg, North...</p></details>
    Published: June 20, 1958  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Catalog of 1600 Project Blue Book UFO...Oct 2, 2009 — Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns:... 5...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Catalog of 1600 Project Blue Book UFO...Oct 2, 2009 — Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns:... 5...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pope.af.mil  
-   Link: <a href="https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/" target="_blank" rel="noopener noreferrer nofollow">https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pope Army Airfield HistoryPope Army Airfield is located on the Army&#x27;s Fort Bragg in North Carolina. Today, the Airmen on Fort Bragg facil...</p></details>
+   Link:<a href="https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/" target="_blank" rel="noopener noreferrer nofollow">https://www.pope.af.mil/About-Us/Pope-Army-Airfield-History/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pope Army Airfield HistoryPope Army Airfield is located on the Army&#x27;s Fort Bragg in North Carolina. Today, the Airmen on Fort Bragg facil...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>piled by Don Berliner, for the Fund for UFO Research.Read more...</p></details>
+   Link:<a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>piled by Don Berliner, for the Fund for UFO Research.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ecn.org  
    Title: bluebookunknowns v1  
-   Link: <a href="https://www.ecn.org/cunfi/bluebookunknowns-v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ecn.org/cunfi/bluebookunknowns-v1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Sparks BB-Unknowns-v1.1nov 2001Nov 26, 2001 — Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work... Fort Bragg, No...</p></details>
+   Link:<a href="https://www.ecn.org/cunfi/bluebookunknowns-v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ecn.org/cunfi/bluebookunknowns-v1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brad Sparks BB-Unknowns-v1.1nov 2001Nov 26, 2001 — Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work... Fort Bragg, No...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete List of Project Blue Book&#x27;s Unsolved CasesComprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work in Progress (Versi...</p></details>
+   Link:<a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complete List of Project Blue Book&#x27;s Unsolved CasesComprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns: Work in Progress (Versi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Pope Army Airfield  
-   Link: <a href="https://de.wikipedia.org/wiki/Pope_Army_Airfield" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Pope_Army_Airfield</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pope Army AirfieldDas Pope Army Airfield (kurz: Pope AAF, auch als Pope Field bezeichnet, IATA-Code: POB, ICAO-Code: KPOB) ist ein Mil...</p></details>
+   Link:<a href="https://de.wikipedia.org/wiki/Pope_Army_Airfield" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Pope_Army_Airfield</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pope Army AirfieldDas Pope Army Airfield (kurz: Pope AAF, auch als Pope Field bezeichnet, IATA-Code: POB, ICAO-Code: KPOB) ist ein Mil...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesProject Blue BookResearcher Brad Sparks has compiled a comprehensive catalog of 2,200 UFO cases that the US Air For...</p></details>
+   Link:<a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesProject Blue BookResearcher Brad Sparks has compiled a comprehensive catalog of 2,200 UFO cases that the US Air For...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Database Catalog (Not a Best Evidence List)The Hynek-CUFOS recount is in fair agreement, showing about 1,080 total including 208. Unknown...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Database Catalog (Not a Best Evidence List)The Hynek-CUFOS recount is in fair agreement, showing about 1,080 total including 208. Unknown...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/pope-afb.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/pope-afb.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Pope afb](&amp;#123;&amp;#123; &#x27;pope-afb/&#x27; | relative_url &amp;#125;&amp;#125;) Stock Photos and ImagesFind the perfect pope afb stock photo, image, vector, illustration or 360 image. Available for both RF an...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/pope-afb.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/pope-afb.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Pope afb](&amp;#123;&amp;#123; &#x27;pope-afb/&#x27; | relative_url &amp;#125;&amp;#125;) Stock Photos and ImagesFind the perfect pope afb stock photo, image, vector, illustration or 360 image. Available for both RF an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: studylib.net  
-   Link: <a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Unknowns CatalogA comprehensive catalog of Project Blue Book UFO unknowns, compiled by Brad Sparks... June 20, 195...</p></details>
+   Link:<a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Unknowns CatalogA comprehensive catalog of Project Blue Book UFO unknowns, compiled by Brad Sparks... June 20, 195...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: limina.scholasticahq.com  
    Title: 131854 uap indications analysis 1945 1975 united states atomic warfare complex  
-   Link: <a href="https://limina.scholasticahq.com/article/131854-uap-indications-analysis-1945-1975-united-states-atomic-warfare-complex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://limina.scholasticahq.com/article/131854-uap-indications-analysis-1945-1975-united-states-atomic-warfare-complex.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journal of UAP Studiesby S Grosvenor · Cited by 3 — A set of 590 comprehensively documented UAP reports from this period were colle...</p></details>
+   Link:<a href="https://limina.scholasticahq.com/article/131854-uap-indications-analysis-1945-1975-united-states-atomic-warfare-complex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://limina.scholasticahq.com/article/131854-uap-indications-analysis-1945-1975-united-states-atomic-warfare-complex.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Journal of UAP Studiesby S Grosvenor · Cited by 3 — A set of 590 comprehensively documented UAP reports from this period were colle...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g8maZp8Gals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book cases military base unknowns Project Blue Book&#x27;s 10 Scariest UFO Files: Cases They Couldn&#x27;t Explain America&#x27;s Strangest...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g8maZp8Gals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book cases military base unknowns Project Blue Book&#x27;s 10 Scariest UFO Files: Cases They Couldn&#x27;t Explain America&#x27;s Strangest...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nightmarks.com  
    Title: unusual object observed over rural bonlee north carolina 1950  
-   Link: <a href="https://nightmarks.com/nightmark/unusual-object-observed-over-rural-bonlee-north-carolina-1950" target="_blank" rel="noopener noreferrer nofollow">https://nightmarks.com/nightmark/unusual-object-observed-over-rural-bonlee-north-carolina-1950</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book... Pope AFB, North Carolina·1950 · UFOs/UAPs. Bright... Unidentified object observed over Fort Bragg airborne warfare center...</p></details>
+   Link:<a href="https://nightmarks.com/nightmark/unusual-object-observed-over-rural-bonlee-north-carolina-1950" target="_blank" rel="noopener noreferrer nofollow">https://nightmarks.com/nightmark/unusual-object-observed-over-rural-bonlee-north-carolina-1950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book... Pope AFB, North Carolina·1950 · UFOs/UAPs. Bright... Unidentified object observed over Fort Bragg airborne warfare center...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: appx.archives.ncdcr.gov  
    Title: WWII 105 1945 Fort Bragg At War  
-   Link: <a href="https://appx.archives.ncdcr.gov/findingaids/WWII_105_1945_Fort_Bragg_At_War_.html" target="_blank" rel="noopener noreferrer nofollow">https://appx.archives.ncdcr.gov/findingaids/WWII_105_1945_Fort_Bragg_At_War_.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1945 Fort Bragg At War Book, WWII 105The book features photographs of all the service installations on Fort Bragg during World War II, an...</p></details>
+   Link:<a href="https://appx.archives.ncdcr.gov/findingaids/WWII_105_1945_Fort_Bragg_At_War_.html" target="_blank" rel="noopener noreferrer nofollow">https://appx.archives.ncdcr.gov/findingaids/WWII_105_1945_Fort_Bragg_At_War_.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1945 Fort Bragg At War Book, WWII 105The book features photographs of all the service installations on Fort Bragg during World War II, an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: Have you been visited by MIB? #Dugway the new  
-   Link: <a href="https://www.facebook.com/groups/RadarStationVeterans/posts/7408671012552627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RadarStationVeterans/posts/7408671012552627/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 20, 1958: 38,400 acres are withdrawn to create a security perimeter.... Many sighting reports came to the Air Force Project Blue Bo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/RadarStationVeterans/posts/7408671012552627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RadarStationVeterans/posts/7408671012552627/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 20, 1958: 38,400 acres are withdrawn to create a security perimeter.... Many sighting reports came to the Air Force Project Blue Bo...</p></details>
    Published: June 20, 1958  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/nc-stories-of-service/cold-war-nuclear-deterrent-2nd-missile-battalion-at-fort-bragg-1e7a11a4bdc8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/nc-stories-of-service/cold-war-nuclear-deterrent-2nd-missile-battalion-at-fort-bragg-1e7a11a4bdc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arch to the maneuver staging area at Fort Stewart, Georgia.Read more...</p></details>
+   Link:<a href="https://medium.com/nc-stories-of-service/cold-war-nuclear-deterrent-2nd-missile-battalion-at-fort-bragg-1e7a11a4bdc8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/nc-stories-of-service/cold-war-nuclear-deterrent-2nd-missile-battalion-at-fort-bragg-1e7a11a4bdc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arch to the maneuver staging area at Fort Stewart, Georgia.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/nc-stories-of-service/bennis-m-blue-from-childhood-to-the-82nd-airborne-1953-1978-60ed8892547e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/nc-stories-of-service/bennis-m-blue-from-childhood-to-the-82nd-airborne-1953-1978-60ed8892547e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ragg, N.C., in 1978, and one of the first five females...Read more...</p></details>
+   Link:<a href="https://medium.com/nc-stories-of-service/bennis-m-blue-from-childhood-to-the-82nd-airborne-1953-1978-60ed8892547e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/nc-stories-of-service/bennis-m-blue-from-childhood-to-the-82nd-airborne-1953-1978-60ed8892547e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ragg, N.C., in 1978, and one of the first five females...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ES FROM THE PROJECT BLUE BOOK FILES... 5857 June 20, 1958 Fort...</p></details>
+   Link:<a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ES FROM THE PROJECT BLUE BOOK FILES... 5857 June 20, 1958 Fort...</p></details>
    Published: June 20, 1958

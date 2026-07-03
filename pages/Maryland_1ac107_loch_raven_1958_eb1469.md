@@ -262,72 +262,72 @@ image: /assets/images/Maryland_1ac107_loch_raven_1958_eb1469-overview-social.jpg
 
 ## Introduction
 
-The 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir encounter is Maryland’s best-known close-range UFO case because it has more than a dramatic story: it has named witnesses, a precise Baltimore County setting, reported vehicle interference, alleged physical sensations, a prompt police and hospital follow-up, and a surviving Project Blue Book file. The core claim is that Phillip Small and Alvin Cohen saw a large, flat, egg-shaped object near the Loch Raven Dam on 26 October 1958, after which Small’s car reportedly lost power, the men felt heat, heard a loud explosive sound, and watched the object rise vertically out of sight. The case remains unresolved in the Air Force-era record, but “unresolved” does not mean proven extraordinary. Its value is evidential rather than conclusive: it shows how a strong witness narrative can become historically important while still lacking photographs, radar confirmation, physical samples, or a modern forensic reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">581026lochravendam docs1</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir encounter is Maryland’s best-known close-range UFO case because it has more than a dramatic story: it has named witnesses, a precise Baltimore County setting, reported vehicle interference, alleged physical sensations, a prompt police and hospital follow-up, and a surviving Project Blue Book file. The core claim is that Phillip Small and Alvin Cohen saw a large, flat, egg-shaped object near the Loch Raven Dam on 26 October 1958, after which Small’s car reportedly lost power, the men felt heat, heard a loud explosive sound, and watched the object rise vertically out of sight. The case remains unresolved in the Air Force-era record, but “unresolved” does not mean proven extraordinary. Its value is evidential rather than conclusive: it shows how a strong witness narrative can become historically important while still lacking photographs, radar confirmation, physical samples, or a modern forensic reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">581026lochravendam docs1</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-overview.webp" | relative_url }}" alt="Overview image for Loch Raven 1958" loading="eager" decoding="sync" fetchpriority="high">
-Loch Raven matters within Maryland UFO history because it is not a distant light report. It is a close encounter claim tied to a familiar local landscape north of Baltimore, near a reservoir that supplies drinking water to Baltimore and sits within a heavily used Baltimore County watershed. That ordinary setting is one reason the story endured: two men on a night drive, a bridge, a dead car, a rush to a telephone, police contact, and a hospital visit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.maryland.gov">[maryland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.maryland.gov</span><span class="citation-popover-snippet">The Loch Raven dam...</span></span></span> Department of Natural Resources
+Loch Raven matters within Maryland UFO history because it is not a distant light report. It is a close encounter claim tied to a familiar local landscape north of Baltimore, near a reservoir that supplies drinking water to Baltimore and sits within a heavily used Baltimore County watershed. That ordinary setting is one reason the story endured: two men on a night drive, a bridge, a dead car, a rush to a telephone, police contact, and a hospital visit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.maryland.gov">[maryland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.maryland.gov</span><span class="citation-popover-snippet">The Loch Raven dam...</span></span></span> Department of Natural Resources
 
 ## What the witnesses said happened
 
-Most summaries place the incident late on 26 October 1958, though the exact clock time varies by source. A Project Blue Book record card gives 10:30 p.m. local time, while some later local accounts and parts of the investigative paperwork describe the episode as occurring “around midnight”. The discrepancy matters because it reminds readers that even a famous case is not a perfectly fixed record; it is a file assembled from witness memory, police relay, military forms and later retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">581026lochravendam docs1</span></span></span>
+Most summaries place the incident late on 26 October 1958, though the exact clock time varies by source. A Project Blue Book record card gives 10:30 p.m. local time, while some later local accounts and parts of the investigative paperwork describe the episode as occurring “around midnight”. The discrepancy matters because it reminds readers that even a famous case is not a perfectly fixed record; it is a file assembled from witness memory, police relay, military forms and later retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">581026lochravendam docs1</span></span></span>
 
-The basic sequence is consistent across the strongest versions. Phillip Small, aged 27, and Alvin Cohen, aged 24, were driving near Loch Raven Dam, north of Baltimore. As they rounded a curve near a bridge, they reported seeing a large, flat, egg-shaped object hanging above or near the bridge structure. One Air Force narrative says the object appeared to be 100 to 150 feet above the bridge’s superstructure; other paperwork describes it as roughly 75 to 100 feet long and hovering near the ground or roadway path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The basic sequence is consistent across the strongest versions. Phillip Small, aged 27, and Alvin Cohen, aged 24, were driving near Loch Raven Dam, north of Baltimore. As they rounded a curve near a bridge, they reported seeing a large, flat, egg-shaped object hanging above or near the bridge structure. One Air Force narrative says the object appeared to be 100 to 150 feet above the bridge’s superstructure; other paperwork describes it as roughly 75 to 100 feet long and hovering near the ground or roadway path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-The two men did not immediately flee. According to the Air Force summary, they slowed and drove closer to investigate. When the car came within roughly 75 or 80 feet of the bridge, the vehicle reportedly went completely dead: the motor stopped, the dashboard and headlights went out, and attempts to restart it failed. This claimed electrical failure is the feature that moves the case beyond a simple “light in the sky” report and into what UFO researchers later called an electromagnetic, or E-M, case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The two men did not immediately flee. According to the Air Force summary, they slowed and drove closer to investigate. When the car came within roughly 75 or 80 feet of the bridge, the vehicle reportedly went completely dead: the motor stopped, the dashboard and headlights went out, and attempts to restart it failed. This claimed electrical failure is the feature that moves the case beyond a simple “light in the sky” report and into what UFO researchers later called an electromagnetic, or E-M, case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-After the car failed, the men got out and used it as cover. From behind the vehicle, they reportedly watched the object for about 30 to 45 seconds. Then, according to the Air Force narrative, it flashed brilliant white, the men felt heat on their faces, and there was a loud noise interpreted as a dull explosion or thunderclap. The object then rose vertically, became very bright and indistinct at the edges, and disappeared within about 5 to 10 seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+After the car failed, the men got out and used it as cover. From behind the vehicle, they reportedly watched the object for about 30 to 45 seconds. Then, according to the Air Force narrative, it flashed brilliant white, the men felt heat on their faces, and there was a loud noise interpreted as a dull explosion or thunderclap. The object then rose vertically, became very bright and indistinct at the edges, and disappeared within about 5 to 10 seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 <img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-dark.svg" | relative_url }}" alt="Loch Raven 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness accounts and car interference
 
-The [car interference]({{ 'car-interference/' | relative_url }}) is the strongest and most memorable part of the Loch Raven report, but it is also one of the hardest parts to evaluate. The surviving record does not show a laboratory inspection proving that the vehicle had suffered an unusual external effect. What it does show is that the witnesses consistently reported the motor and lights failing as they approached the object, and the vehicle starting again after the object had gone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The [car interference]({{ 'car-interference/' | relative_url }}) is the strongest and most memorable part of the Loch Raven report, but it is also one of the hardest parts to evaluate. The surviving record does not show a laboratory inspection proving that the vehicle had suffered an unusual external effect. What it does show is that the witnesses consistently reported the motor and lights failing as they approached the object, and the vehicle starting again after the object had gone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 That sequence is important because ordinary vehicle failure alone would not explain the full report: it would still leave the described object, flash, heat and vertical departure. But the reverse is also true. A vivid object report does not prove the car was affected by an unknown force. Mechanical or electrical faults, especially in an older car, can occur at awkward moments and later be remembered as causally connected to a frightening sighting. The case is strongest if one accepts the timing exactly as the witnesses gave it; it weakens if the car failure is treated as an unverified part of a stressful night-time narrative.
 
-The Air Force record card condensed the incident into the elements that investigators considered central: one civilian ground-visual object, a large flat egg-shaped form hovering over a bridge, automobile lights and motor going off as the car approached, a brilliant flash and loud noise as the object rose vertically, and a burning sensation reported by the sources. The same card marked the case as “unidentified” or “unknown” pending investigation, rather than assigning it to a balloon, aircraft or astronomical cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The Air Force record card condensed the incident into the elements that investigators considered central: one civilian ground-visual object, a large flat egg-shaped form hovering over a bridge, automobile lights and motor going off as the car approached, a brilliant flash and loud noise as the object rose vertically, and a burning sensation reported by the sources. The same card marked the case as “unidentified” or “unknown” pending investigation, rather than assigning it to a balloon, aircraft or astronomical cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-NICAP, the National Investigations Committee on Aerial Phenomena, later treated Loch Raven as a notable electromagnetic case and identified it as Project Blue Book Unknown 6148. NICAP’s directory summary gives the familiar core details: Phillip Small and Alvin Cohen, a large flat egg-shaped object 100 to 150 feet above the bridge, car electrical effects, burning sensation, and rapid vertical disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+NICAP, the National Investigations Committee on Aerial Phenomena, later treated Loch Raven as a notable electromagnetic case and identified it as Project Blue Book Unknown 6148. NICAP’s directory summary gives the familiar core details: Phillip Small and Alvin Cohen, a large flat egg-shaped object 100 to 150 feet above the bridge, car electrical effects, burning sensation, and rapid vertical disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1YVFmNTRdb8" title="Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer">Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 256.6K &middot; Uploaded: March 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1YVFmNTRdb8">Open on YouTube</a></p></div></div></div>
 
 ## Physical and sensory effects reported
 
-The reported heat is the second feature that makes the case distinctive. The men said that, as the object flashed and departed, they felt heat on their faces. The Air Force narrative says they later experienced a burning sensation of the skin and went to St Joseph’s Hospital in Baltimore, where they were examined and dismissed. Baltimore Magazine’s later account similarly says the men went to the hospital because they were worried about radioactive burns, but were examined rather than treated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The reported heat is the second feature that makes the case distinctive. The men said that, as the object flashed and departed, they felt heat on their faces. The Air Force narrative says they later experienced a burning sensation of the skin and went to St Joseph’s Hospital in Baltimore, where they were examined and dismissed. Baltimore Magazine’s later account similarly says the men went to the hospital because they were worried about radioactive burns, but were examined rather than treated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 The hospital detail gives the case a useful anchor: the witnesses did something practical after the event rather than only telling a sensational story. But the available public summaries do not establish medical proof of radiation injury, burns or lasting harm. The phrase “burning sensation” should therefore be read carefully. It supports that the witnesses reported a bodily effect; it does not, by itself, prove exposure to radiation, heat from a machine, or any other exotic mechanism.
 
-The sound report is also consistent but imprecise. Different documents describe it as a rumble, an explosion, a dull explosion, a thunderclap, or a combination of rumble and explosion. That is typical of witness language under stress: people often reach for familiar comparisons rather than technical descriptions. The important evidential point is not the exact word, but that both the sound and heat were reported as part of the object’s departure rather than as a separate later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The sound report is also consistent but imprecise. Different documents describe it as a rumble, an explosion, a dull explosion, a thunderclap, or a combination of rumble and explosion. That is typical of witness language under stress: people often reach for familiar comparisons rather than technical descriptions. The important evidential point is not the exact word, but that both the sound and heat were reported as part of the object’s departure rather than as a separate later interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-A further complication is that the object’s appearance changes slightly across documents. Some forms list it as “glowing white” or fluorescent, flat and egg-shaped, while one standardised form says the shape was “unknown” and compares its apparent size to a baseball held at arm’s length. This is not necessarily fatal to the case, because different forms were capturing different kinds of information. It does show, however, why the Loch Raven report should not be treated as a clean technical observation of a measurable craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+A further complication is that the object’s appearance changes slightly across documents. Some forms list it as “glowing white” or fluorescent, flat and egg-shaped, while one standardised form says the shape was “unknown” and compares its apparent size to a baseball held at arm’s length. This is not necessarily fatal to the case, because different forms were capturing different kinds of information. It does show, however, why the Loch Raven report should not be treated as a clean technical observation of a measurable craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
 
 ## Investigation and archival documentation
 
-Loch Raven is more substantial than many local UFO stories because it generated a formal Air Force paper trail. The National Archives states that Project [Blue Book records]({{ 'blue-book-records/' | relative_url }}) were declassified, transferred to archival custody, and include chronological case files and related administrative material. The programme itself closed in 1969, so the Loch Raven file belongs to the active Air Force UFO-investigation era rather than to later folklore alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Loch Raven is more substantial than many local UFO stories because it generated a formal Air Force paper trail. The National Archives states that Project [Blue Book records]({{ 'blue-book-records/' | relative_url }}) were declassified, transferred to archival custody, and include chronological case files and related administrative material. The programme itself closed in 1969, so the Loch Raven file belongs to the active Air Force UFO-investigation era rather than to later folklore alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The surviving documents show several stages of official handling. There was an initial message after the sighting, a request for additional information, an Office of Special Investigations report, a later investigation report, notes, and bridge photographs listed in the file. One message from the Air Technical Intelligence Center asked Andrews Air Force Base for a complete investigation under Air Force Regulation 200-2. This tells us that the case was not merely a newspaper clipping later absorbed into UFO lore; it entered a formal military reporting channel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The surviving documents show several stages of official handling. There was an initial message after the sighting, a request for additional information, an Office of Special Investigations report, a later investigation report, notes, and bridge photographs listed in the file. One message from the Air Technical Intelligence Center asked Andrews Air Force Base for a complete investigation under Air Force Regulation 200-2. This tells us that the case was not merely a newspaper clipping later absorbed into UFO lore; it entered a formal military reporting channel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-The Office of Special Investigations material adds an important early witness-handling detail. It records that Baltimore County police corporal Kenneth Hartmann advised investigators that Small and Cohen had not been drinking and appeared very frightened. That does not prove the object existed as described, but it does bear on witness credibility: the earliest police contact did not frame the men as drunk pranksters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The Office of Special Investigations material adds an important early witness-handling detail. It records that Baltimore County police corporal Kenneth Hartmann advised investigators that Small and Cohen had not been drinking and appeared very frightened. That does not prove the object existed as described, but it does bear on witness credibility: the earliest police contact did not frame the men as drunk pranksters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-The Air Force summary also noted local conditions. It described the bridge as a double-arched steel-frame construction with a concrete road bed, about 500 feet long, and said the point at which the object was first seen was approximately three-quarters of a mile to one mile away. It also stated that there was no unusual meteorological activity in the area, no thunderstorms, clear conditions, and 20-mile visibility at Friendship Airport around 1 a.m. on 27 October 1958. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The Air Force summary also noted local conditions. It described the bridge as a double-arched steel-frame construction with a concrete road bed, about 500 feet long, and said the point at which the object was first seen was approximately three-quarters of a mile to one mile away. It also stated that there was no unusual meteorological activity in the area, no thunderstorms, clear conditions, and 20-mile visibility at Friendship Airport around 1 a.m. on 27 October 1958.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-Those details help narrow the range of easy explanations, but they do not eliminate all ordinary possibilities. Weather data in the file speaks against a thunderstorm explanation for the flash and sound, but it does not rule out aircraft, a bright meteor seen at a misleading angle, an electrical or mechanical car fault, or an unusual light source misperceived near a bridge at night. The final Air Force-style judgement was cautious: no valid conclusion could be reached, the object or phenomenon remained unidentified, and the available evidence did not indicate a threat to US security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+Those details help narrow the range of easy explanations, but they do not eliminate all ordinary possibilities. Weather data in the file speaks against a thunderstorm explanation for the flash and sound, but it does not rule out aircraft, a bright meteor seen at a misleading angle, an electrical or mechanical car fault, or an unusual light source misperceived near a bridge at night. The final Air Force-style judgement was cautious: no valid conclusion could be reached, the object or phenomenon remained unidentified, and the available evidence did not indicate a threat to US security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 <img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-dark.svg" | relative_url }}" alt="Loch Raven 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the bridge and place matter
 
-The location is not just scenic background. The encounter was tied to a bridge near Loch Raven Dam, and later accounts often note that the bridge involved is no longer there. The Library of Congress record for Matthews Bridge says it was originally known as Mann’s Hill Bridge, later called Matthews Bridge at the time of demolition, and served as the Maryland Route 146 crossing over Loch Raven Reservoir. Historic bridge listings describe that lost Parker through-truss bridge over Loch Raven Reservoir on MD-146 as having been replaced in 1976 and demolished in 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/pictures/item/md1151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The location is not just scenic background. The encounter was tied to a bridge near Loch Raven Dam, and later accounts often note that the bridge involved is no longer there. The Library of Congress record for Matthews Bridge says it was originally known as Mann’s Hill Bridge, later called Matthews Bridge at the time of demolition, and served as the Maryland Route 146 crossing over Loch Raven Reservoir. Historic bridge listings describe that lost Parker through-truss bridge over Loch Raven Reservoir on MD-146 as having been replaced in 1976 and demolished in 1978.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/pictures/item/md1151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters for two reasons. First, the vanished bridge makes modern site reconstruction harder. A reader visiting Loch Raven today cannot simply stand on the exact same structure and compare sightlines. Second, the bridge gives the report a concrete geometry: a road approach, a high structure, a reservoir crossing, and a reported object above or near the bridge. This helps explain why the case has remained locally memorable. It is attached to a real Baltimore County landmark, not an anonymous patch of sky.
 
-The reservoir itself adds to the story’s local texture. Maryland’s Department of Natural Resources describes Loch Raven as a 23 billion US gallon reservoir in central Baltimore County, fed by the Big Gunpowder Falls and providing drinking water for Baltimore. The surrounding roads, water, woods and darkness would have made a night-time encounter feel isolated even though the area was close to Baltimore’s suburbs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.maryland.gov">[maryland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.maryland.gov</span><span class="citation-popover-snippet">The Loch Raven dam...</span></span></span> Department of Natural Resources
+The reservoir itself adds to the story’s local texture. Maryland’s Department of Natural Resources describes Loch Raven as a 23 billion US gallon reservoir in central Baltimore County, fed by the Big Gunpowder Falls and providing drinking water for Baltimore. The surrounding roads, water, woods and darkness would have made a night-time encounter feel isolated even though the area was close to Baltimore’s suburbs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.maryland.gov">[maryland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.maryland.gov</span><span class="citation-popover-snippet">The Loch Raven dam...</span></span></span> Department of Natural Resources
 
 ## What makes the case strong — and what keeps it unresolved
 
-The Loch Raven case is strong by UFO-case standards in several ways. It involved two named witnesses rather than an anonymous caller. It produced a prompt report to police. The men sought medical examination soon afterwards. The Air Force opened a file. The surviving documents preserve not only a later retelling but early investigative paperwork, including a record card, OSI material and a narrative summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The Loch Raven case is strong by UFO-case standards in several ways. It involved two named witnesses rather than an anonymous caller. It produced a prompt report to police. The men sought medical examination soon afterwards. The Air Force opened a file. The surviving documents preserve not only a later retelling but early investigative paperwork, including a record card, OSI material and a narrative summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-It also fits a recognisable “close encounter of the second kind” pattern, meaning a close UFO report with alleged physical effects such as vehicle interference or bodily sensation. J. Allen Hynek’s *The UFO Experience* included Loch Raven in a table of close encounters of the second kind, identifying it as a 26 October 1958 Loch Raven Dam case with two witnesses and a short duration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tantor-site-assets.s3.amazonaws.com">[tantor-site-assets.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tantor-site-assets.s3.amazonaws.com</span><span class="citation-popover-title">N8844 UFOExperience BonusPDF</span><span class="citation-popover-snippet">N8844 UFOExperience BonusPDF</span></span></span>
+It also fits a recognisable “close encounter of the second kind” pattern, meaning a close UFO report with alleged physical effects such as vehicle interference or bodily sensation. J. Allen Hynek’s *The UFO Experience* included Loch Raven in a table of close encounters of the second kind, identifying it as a 26 October 1958 Loch Raven Dam case with two witnesses and a short duration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tantor-site-assets.s3.amazonaws.com">[tantor-site-assets.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tantor-site-assets.s3.amazonaws.com</span><span class="citation-popover-title">N8844 UFOExperience BonusPDF</span><span class="citation-popover-snippet">N8844 UFOExperience BonusPDF</span></span></span>
 
 Yet the weaknesses are equally important. There is no known photograph of the object, no radar track tied to the event, no recovered material, no independent group of nearby witnesses, and no published medical record proving injury. The car effect was reported, not technically demonstrated. The height, size, distance and time vary across documents. Even the location wording shifts between “Loch Raven Dam”, “north of Baltimore”, “near a bridge”, and later descriptions of the now-demolished bridge.
 
@@ -336,11 +336,11 @@ The case therefore sits in a middle category. It is not a debunked hoax, and it 
 <img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-dark.svg" | relative_url }}" alt="Loch Raven 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Plausible doubts and ordinary explanations
 
-The most obvious ordinary explanation for many UFO reports — a distant planet, aircraft light or meteor — has trouble accounting for every element of Loch Raven if the witnesses’ sequence is accepted exactly. A planet would not hover over a bridge at close range, trigger a car failure, produce heat on faces, make an explosive sound and rise vertically. A meteor could produce brightness and a dramatic disappearance, but it would normally be brief, high in the sky and unrelated to a car stopping near a bridge. The Air Force file’s own summary noted no thunderstorms and good visibility, which weakens a simple storm-related explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+The most obvious ordinary explanation for many UFO reports — a distant planet, aircraft light or meteor — has trouble accounting for every element of Loch Raven if the witnesses’ sequence is accepted exactly. A planet would not hover over a bridge at close range, trigger a car failure, produce heat on faces, make an explosive sound and rise vertically. A meteor could produce brightness and a dramatic disappearance, but it would normally be brief, high in the sky and unrelated to a car stopping near a bridge. The Air Force file’s own summary noted no thunderstorms and good visibility, which weakens a simple storm-related explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 However, a sceptical reading does not need one perfect substitute object to raise doubts. It can point to the way stressful night-time experiences combine several perceptions into a single story. The men may have seen an unusual light, suffered or believed they suffered a car electrical failure, and then interpreted subsequent heat or fear sensations as part of the same event. That does not accuse them of lying; it recognises the limits of unaided perception, memory and post-event interpretation.
 
-Another weakness is that the object’s reported dimensions depend on distance estimates made in darkness. If the object was not actually at the bridge, then its size could be badly misjudged. If it was closer or farther than assumed, “75 to 100 feet long” becomes a rough impression rather than a measurement. This is especially relevant because some paperwork describes the men as level with or slightly above the object, while other summaries place it 100 to 150 feet above the bridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
+Another weakness is that the object’s reported dimensions depend on distance estimates made in darkness. If the object was not actually at the bridge, then its size could be badly misjudged. If it was closer or farther than assumed, “75 to 100 feet long” becomes a rough impression rather than a measurement. This is especially relevant because some paperwork describes the men as level with or slightly above the object, while other summaries place it 100 to 150 feet above the bridge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 The most responsible conclusion is not that the witnesses were wrong, but that the evidence cannot force a single answer. The case remains compelling because several reported effects converge; it remains unresolved because all of those effects still pass through witness testimony rather than independent instruments.
 
@@ -348,278 +348,278 @@ The most responsible conclusion is not that the witnesses were wrong, but that t
 
 ## How later reporting shaped the legacy
 
-Later Maryland reporting has kept Loch Raven in public memory. Baltimore Magazine described it as one of Maryland’s most widely publicised sightings and highlighted the same sequence: Small and Cohen near the dam, the egg-shaped object, the dead car, the flash, heat, loud noise, telephone report, police response and hospital visit. WYPR’s 2019 local feature also presented the case as an unexplained Maryland story centred on two men driving by Loch Raven Reservoir when their car stopped and an egg-shaped object rose into the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baltimoremagazine.com">[Baltimore Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baltimoremagazine.com</span><span class="citation-popover-title">ufo sightings in maryland</span><span class="citation-popover-snippet">Baltimore MagazineUFO Sightings in Maryland Are More Common Than You Might Think (Published 2022)...</span></span></span>
+Later Maryland reporting has kept Loch Raven in public memory. Baltimore Magazine described it as one of Maryland’s most widely publicised sightings and highlighted the same sequence: Small and Cohen near the dam, the egg-shaped object, the dead car, the flash, heat, loud noise, telephone report, police response and hospital visit. WYPR’s 2019 local feature also presented the case as an unexplained Maryland story centred on two men driving by Loch Raven Reservoir when their car stopped and an egg-shaped object rose into the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baltimoremagazine.com">[Baltimore Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baltimoremagazine.com</span><span class="citation-popover-title">ufo sightings in maryland</span><span class="citation-popover-snippet">Baltimore MagazineUFO Sightings in Maryland Are More Common Than You Might Think (Published 2022)...</span></span></span>
 
 This later coverage has mostly strengthened the case’s cultural standing, not its evidential certainty. It has made Loch Raven easier for Maryland readers to recognise, especially as a local landmark case, but it has not added decisive new physical evidence. Modern summaries sometimes simplify the time, object size or sequence, and some reuse older UFO-casebook language without adding fresh documentation. That can make the story feel cleaner than the records actually are.
 
-The case also benefits from being anchored in Cold War Maryland. The witnesses’ first reported call was to the Ground Observer Corps, a civilian volunteer aircraft-warning network of the period, before police became involved. Baltimore Magazine’s account notes that the call was initially dismissed, after which the men contacted Towson police. That small detail places the episode in a specific 1958 atmosphere: ordinary citizens were encouraged to watch the skies, yet a strange report could still be met with disbelief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baltimoremagazine.com">[Baltimore Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baltimoremagazine.com</span><span class="citation-popover-title">ufo sightings in maryland</span><span class="citation-popover-snippet">Baltimore MagazineUFO Sightings in Maryland Are More Common Than You Might Think (Published 2022)...</span></span></span>
+The case also benefits from being anchored in Cold War Maryland. The witnesses’ first reported call was to the Ground Observer Corps, a civilian volunteer aircraft-warning network of the period, before police became involved. Baltimore Magazine’s account notes that the call was initially dismissed, after which the men contacted Towson police. That small detail places the episode in a specific 1958 atmosphere: ordinary citizens were encouraged to watch the skies, yet a strange report could still be met with disbelief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baltimoremagazine.com">[Baltimore Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baltimoremagazine.com</span><span class="citation-popover-title">ufo sightings in maryland</span><span class="citation-popover-snippet">Baltimore MagazineUFO Sightings in Maryland Are More Common Than You Might Think (Published 2022)...</span></span></span>
 
 Within the state’s UFO history, Loch Raven remains the case most likely to be mentioned alongside broader Maryland themes: Baltimore-area sightings, Cold War air-defence culture, Project Blue Book records, and later local folklore. Its lasting importance is not that it settles the UFO question. It is that it gives Maryland a rare, documented close-encounter case where the best evidence is strong enough to keep the question open, but not strong enough to close it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened at Loch Raven Reservoir in 1958?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened at Loch Raven Reservoir in 1958?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides firsthand context for how Cold War-era cases were handled.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides firsthand context for how Cold War-era cases were handled.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduced close encounter concepts relevant to cases like Loch Raven.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced close encounter concepts relevant to cases like Loch Raven.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Explains official investigations surrounding incidents such as Loch Raven.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official investigations surrounding incidents such as Loch Raven.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explores witness-driven UFO narratives and investigative challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness-driven UFO narratives and investigative challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-1958-what-happened-at-loch-raven-reservoir-in-1958-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -635,7 +635,7 @@ Within the state’s UFO history, Loch Raven remains the case most likely to be 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -655,7 +655,7 @@ Within the state’s UFO history, Loch Raven remains the case most likely to be 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -687,7 +687,7 @@ Within the state’s UFO history, Loch Raven remains the case most likely to be 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ Within the state’s UFO history, Loch Raven remains the case most likely to be 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -775,162 +775,162 @@ Within the state’s UFO history, Loch Raven remains the case most likely to be 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: 581026lochravendam docs1  
-   Link: <a href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/581026lochravendam_docs1.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/581026lochravendam_docs1.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dnr.maryland.gov  
-   Link: <a href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow">https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Raven dam...</p></details>
+   Link:<a href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow">https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Raven dam...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/581026lochravendam_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/581026lochravendam_dir.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tantor-site-assets.s3.amazonaws.com  
    Title: N8844 UFOExperience BonusPDF  
-   Link: <a href="https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf</a>  
+   Link:<a href="https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wypr.org  
    Title: out there alien invasions and unexplained ufo sightings in maryland  
-   Link: <a href="https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland</a>  
+   Link:<a href="https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: UF O Report Loch Raven Dam E-M Case  
-   Link: <a href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/581026lochravendam_report2.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/581026lochravendam_report2.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
+   Link:<a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: msa.maryland.gov  
-   Link: <a href="https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf</a>  
+   Link:<a href="https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: roads.maryland.gov  
    Title: MDBridge Survey  
-   Link: <a href="https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf</a>  
+   Link:<a href="https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: baltimoremagazine.com  
    Title: ufo sightings in maryland  
-   Link: <a href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baltimore MagazineUFO Sightings in Maryland Are More Common Than You Might Think (Published 2022)...</p></details>
+   Link:<a href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baltimore MagazineUFO Sightings in Maryland Are More Common Than You Might Think (Published 2022)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/pictures/item/md1151/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/pictures/item/md1151/</a>  
+   Link:<a href="https://www.loc.gov/pictures/item/md1151/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/pictures/item/md1151/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Loch Raven Reservoir  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Raven_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Raven_Reservoir</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Raven_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Raven_Reservoir</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: Loch Raven Reservoir  
-   Link: <a href="https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/</a>  
+   Link:<a href="https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: findingaids.library.northwestern.edu  
-   Link: <a href="https://findingaids.library.northwestern.edu/repositories/6/resources/373" target="_blank" rel="noopener noreferrer nofollow">https://findingaids.library.northwestern.edu/repositories/6/resources/373</a>  
+   Link:<a href="https://findingaids.library.northwestern.edu/repositories/6/resources/373" target="_blank" rel="noopener noreferrer nofollow">https://findingaids.library.northwestern.edu/repositories/6/resources/373</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
    Title: Loch Raven Reservoir  
-   Link: <a href="https://www.instagram.com/reel/DXiX5cCkaEy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiX5cCkaEy/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXiX5cCkaEy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiX5cCkaEy/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
    Title: The UFO Experience  
-   Link: <a href="https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek</a>  
+   Link:<a href="https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/loch" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/loch</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/loch" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/loch</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: birdersguidemddc.org  
    Title: Loch Raven Reservoir  
-   Link: <a href="https://birdersguidemddc.org/site/loch-raven-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://birdersguidemddc.org/site/loch-raven-reservoir/</a>  
+   Link:<a href="https://birdersguidemddc.org/site/loch-raven-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://birdersguidemddc.org/site/loch-raven-reservoir/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: baltimorecountymd.gov  
-   Link: <a href="https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center</a>  
+   Link:<a href="https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland</a>  
+   Link:<a href="https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1YVFmNTRdb8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Skies of Wheaton Maryland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1YVFmNTRdb8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Skies of Wheaton Maryland...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/lochs" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/lochs</a>  
+   Link:<a href="https://www.visitscotland.com/things-to-do/landscapes-nature/lochs" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/lochs</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/</a>  
+   Link:<a href="https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis</a>  
+   Link:<a href="https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bearmanormedia.com  
-   Link: <a href="https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU" target="_blank" rel="noopener noreferrer nofollow">https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU</a>  
+   Link:<a href="https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU" target="_blank" rel="noopener noreferrer nofollow">https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings</a>  
+   Link:<a href="https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>

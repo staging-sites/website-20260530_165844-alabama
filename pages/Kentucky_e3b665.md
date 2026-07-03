@@ -76,9 +76,9 @@ heading_title: What Really Happened in Kentucky's UFO Stories?
 page_heading_title: What Really Happened in Kentucky's UFO Stories?
 source_count: 33
 infographic_count: 3
-page_website_name: Kentucky UFOs
+page_website_name: Kentucky
 page_banner_line: Balanced stories, records, and explanations from Kentucky's UFO history.
-site_website_name: Kentucky UFOs
+site_website_name: Kentucky
 site_banner_line: Balanced stories, records, and explanations from Kentucky's UFO history.
 site_image_description: A rural Kentucky farmhouse under a dark sky with distant lights above fields and a police car parked near a gravel road.
 output_language: English
@@ -479,239 +479,239 @@ image: /assets/images/Kentucky_e3b665-overview-social.jpg
 
 ## The Kelly–Hopkinsville Encounter: A Close Encounter That Captured the Imagination
 
-One of the most famous UFO‑related claims in U.S. history took place on the night of 21–22 August 1955 near the rural communities of Kelly and Hopkinsville in Christian County, Kentucky. In what became known as the *Kelly–Hopkinsville encounter* or the *Hopkinsville Goblins Case*, a group of eleven people reported a prolonged encounter with small, strange humanoid figures at close range around their farmhouse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+One of the most famous UFO‑related claims in U.S. history took place on the night of 21–22 August 1955 near the rural communities of Kelly and Hopkinsville in Christian County, Kentucky. In what became known as the *Kelly–Hopkinsville encounter* or the *Hopkinsville Goblins Case*, a group of eleven people reported a prolonged encounter with small, strange humanoid figures at close range around their farmhouse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Kentucky&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-According to the witnesses, the group first saw a bright object descend nearby and then experienced hours of what they described as interactions with small, luminous beings, prompting them to fire guns in self‑defence. By the following night, local police, state troopers, and military police from nearby Fort Campbell had investigated the scene, finding evidence of spent shell casings but no physical trace of landing marks or non‑natural beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">little green men origins aliens hopkinsville kelly</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORYJanuary 2, 2020...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
+According to the witnesses, the group first saw a bright object descend nearby and then experienced hours of what they described as interactions with small, luminous beings, prompting them to fire guns in self‑defence. By the following night, local police, state troopers, and military police from nearby Fort Campbell had investigated the scene, finding evidence of spent shell casings but no physical trace of landing marks or non‑natural beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">little green men origins aliens hopkinsville kelly</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORYJanuary 2, 2020...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
-Despite widespread publicity and its later status in UFO lore, the incident has no corroborated physical evidence. The U.S. Air Force’s Project Blue Book files later treated the event as a hoax on the basis of lack of evidence, and sceptical analyses have pointed to misidentification of nocturnal animals and the influence of excitement or local storytelling in shaping the accounts. Nevertheless, the case influenced popular culture, helping cement the trope of “little green men” in American imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+Despite widespread publicity and its later status in UFO lore, the incident has no corroborated physical evidence. The U.S. Air Force’s Project Blue Book files later treated the event as a hoax on the basis of lack of evidence, and sceptical analyses have pointed to misidentification of nocturnal animals and the influence of excitement or local storytelling in shaping the accounts. Nevertheless, the case influenced popular culture, helping cement the trope of “little green men” in American imagination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Kentucky&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Early Aerial Phenomena and the Mantell Incident
 
-Long before the Hopkinsville case, Kentucky was tied to a high‑profile UFO report in early 1948 involving military aviation. On 7 January 1948, multiple witnesses, including the Kentucky State Highway Patrol and personnel at Godman Army Airfield at Fort Knox, reported observing an unidentified object in the sky near Maysville that morning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/incidents/mantell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database Mantell UFO Incident &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database Mantell UFO Incident &#124; The UFO Database</span></span></span>
+Long before the Hopkinsville case, Kentucky was tied to a high‑profile UFO report in early 1948 involving military aviation. On 7 January 1948, multiple witnesses, including the Kentucky State Highway Patrol and personnel at Godman Army Airfield at Fort Knox, reported observing an unidentified object in the sky near Maysville that morning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/incidents/mantell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database Mantell UFO Incident &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database Mantell UFO Incident &#124; The UFO Database</span></span></span>
 
-Captain Thomas F. [Mantell]({{ 'mantell/' | relative_url }}) Jr., a pilot with the Kentucky Air National Guard, was ordered to investigate the object alongside other aircraft. As Mantell climbed to high altitude in pursuit, he lost consciousness, probably due to lack of oxygen, and tragically died when his aircraft crashed in Simpson County. The incident drew significant media and public attention and is often cited as one of the earliest cases involving a military chase after a UFO report. Subsequent investigations suggested the sighted object was likely a *Skyhook* weather balloon — a common misidentification in early UFO reports — and not an extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/incidents/mantell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database Mantell UFO Incident &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database Mantell UFO Incident &#124; The UFO Database</span></span></span>
+Captain Thomas F. [Mantell]({{ 'mantell/' | relative_url }}) Jr., a pilot with the Kentucky Air National Guard, was ordered to investigate the object alongside other aircraft. As Mantell climbed to high altitude in pursuit, he lost consciousness, probably due to lack of oxygen, and tragically died when his aircraft crashed in Simpson County. The incident drew significant media and public attention and is often cited as one of the earliest cases involving a military chase after a UFO report. Subsequent investigations suggested the sighted object was likely a *Skyhook* weather balloon — a common misidentification in early UFO reports — and not an extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/incidents/mantell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database Mantell UFO Incident &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database Mantell UFO Incident &#124; The UFO Database</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nL10pu18Ibk" title="The Hopkinsville Goblins: The Strangest Alien Encounter in History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nL10pu18Ibk" target="_blank" rel="noopener noreferrer">The Hopkinsville Goblins: The Strangest Alien Encounter in History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 29.4K &middot; Uploaded: November 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nL10pu18Ibk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nL10pu18Ibk">Open on YouTube</a></p></div></div></div>
 
 ## Later Sightings and Patterns Across the State
 
-Beyond the two well‑known cases above, Kentucky has seen numerous reports of unidentified aerial phenomena, particularly since the later decades of the twentieth century and into the twenty‑first. Databases that collect civilian reports list dozens of sightings in recent years alone, including accounts of bright orbs, rapidly moving lights, and unusual cluster movements that witnesses felt could not be readily explained as aircraft, satellites, or astronomical sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index Kentucky UFO Reports</span><span class="citation-popover-snippet">UFO Index Kentucky UFO Reports</span></span></span>
+Beyond the two well‑known cases above, Kentucky has seen numerous reports of unidentified aerial phenomena, particularly since the later decades of the twentieth century and into the twenty‑first. Databases that collect civilian reports list dozens of sightings in recent years alone, including accounts of bright orbs, rapidly moving lights, and unusual cluster movements that witnesses felt could not be readily explained as aircraft, satellites, or astronomical sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index Kentucky UFO Reports</span><span class="citation-popover-snippet">UFO Index Kentucky UFO Reports</span></span></span>
 
-In some regions — such as around Lexington, Independence, and Paintsville — reports in the early 2020s include multiple witnesses observing objects that moved or flashed in unexpected ways, though these accounts remain unverified beyond personal testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index Kentucky UFO Reports</span><span class="citation-popover-snippet">UFO Index Kentucky UFO Reports</span></span></span>
+In some regions — such as around Lexington, Independence, and Paintsville — reports in the early 2020s include multiple witnesses observing objects that moved or flashed in unexpected ways, though these accounts remain unverified beyond personal testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index Kentucky UFO Reports</span><span class="citation-popover-snippet">UFO Index Kentucky UFO Reports</span></span></span>
 
-Some local histories and recollections also highlight regional “clusters” of sightings in periods such as the 1970s and 1990s, though documentation in archival sources is uneven. Anecdotal recollections circulated through community forums and local lore include claimed hovering objects over towns like Covington and Ashland, unusual lights over rural landscapes, and occasional low‑elevation disk‑like sightings — but many such stories lack corroborating records from official investigations, newspapers, or systematic reporting channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1k8sgax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFOs in Your Hometown: Episode Ten</span><span class="citation-popover-snippet">UFOs in Your Hometown: Episode TenApril 27, 2025...</span><span class="citation-popover-meta">Published: April 27, 2025</span></span></span>
+Some local histories and recollections also highlight regional “clusters” of sightings in periods such as the 1970s and 1990s, though documentation in archival sources is uneven. Anecdotal recollections circulated through community forums and local lore include claimed hovering objects over towns like Covington and Ashland, unusual lights over rural landscapes, and occasional low‑elevation disk‑like sightings — but many such stories lack corroborating records from official investigations, newspapers, or systematic reporting channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1k8sgax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFOs in Your Hometown: Episode Ten</span><span class="citation-popover-snippet">UFOs in Your Hometown: Episode TenApril 27, 2025...</span><span class="citation-popover-meta">Published: April 27, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Kentucky&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official and Investigatory Context
 
-Unlike states with major military testing ranges or aerospace facilities, Kentucky does not host large radar installations or known classified research areas that routinely shape public awareness of aerial activity. Nevertheless, the state’s proximity to military installations (such as Fort Campbell and earlier operations out of Fort Knox) means that civilian reports have occasionally intersected with routine military observation and response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leoweekly.com/news/little-green-men-in-the-bluegrass-15772118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leoweekly.com">[LEO Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leoweekly.com</span><span class="citation-popover-title">LEO Weekly Little green men in the bluegrass</span><span class="citation-popover-snippet">LEO WeeklyLittle green men in the bluegrassOctober 25, 2011...</span><span class="citation-popover-meta">Published: October 25, 2011</span></span></span>
+Unlike states with major military testing ranges or aerospace facilities, Kentucky does not host large radar installations or known classified research areas that routinely shape public awareness of aerial activity. Nevertheless, the state’s proximity to military installations (such as Fort Campbell and earlier operations out of Fort Knox) means that civilian reports have occasionally intersected with routine military observation and response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leoweekly.com/news/little-green-men-in-the-bluegrass-15772118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leoweekly.com">[LEO Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leoweekly.com</span><span class="citation-popover-title">LEO Weekly Little green men in the bluegrass</span><span class="citation-popover-snippet">LEO WeeklyLittle green men in the bluegrassOctober 25, 2011...</span><span class="citation-popover-meta">Published: October 25, 2011</span></span></span>
 
-Historical programs like the U.S. Air Force’s *Project Blue Book* — active from 1952 to 1969 — reviewed selected reports nationally, including Kentucky’s. In most cases, these were explained as misidentified conventional objects such as aircraft, weather phenomena, or balloons. Research groups like the Mutual UFO Network (MUFON) have also kept local chapters and reporting mechanisms active over the years, offering a civilian investigative lens on sightings without asserting definitive extraterrestrial explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://projectaquarius.mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-title">Project Aquarius Front Page &#124; MUFON&#x27;s Project Aquarius Library</span><span class="citation-popover-snippet">Project Aquarius Front Page &#124; MUFON&#x27;s Project Aquarius Library</span></span></span>
+Historical programs like the U.S. Air Force’s *Project Blue Book* — active from 1952 to 1969 — reviewed selected reports nationally, including Kentucky’s. In most cases, these were explained as misidentified conventional objects such as aircraft, weather phenomena, or balloons. Research groups like the Mutual UFO Network (MUFON) have also kept local chapters and reporting mechanisms active over the years, offering a civilian investigative lens on sightings without asserting definitive extraterrestrial explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://projectaquarius.mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[Project Aquarius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-title">Project Aquarius Front Page &#124; MUFON&#x27;s Project Aquarius Library</span><span class="citation-popover-snippet">Project Aquarius Front Page &#124; MUFON&#x27;s Project Aquarius Library</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mtBbu-hp9zs" title="The Unbelievable UFO Chase That Cost A Pilot His Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mtBbu-hp9zs" target="_blank" rel="noopener noreferrer">The Unbelievable UFO Chase That Cost A Pilot His Life</a></p><p class="youtube-embed-meta">Channel: Peaked Interest &middot; Views: 25.1K &middot; Uploaded: October 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mtBbu-hp9zs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mtBbu-hp9zs">Open on YouTube</a></p></div></div></div>
 
 ## Patterns in Explanation and Skepticism
 
-Observers and sceptics note that many UFO reports — both in Kentucky and nationally — align with known natural or human‑made phenomena when examined more closely: bright planets and stars, satellites, aircraft lights, atmospheric conditions, and, in the case of Hopkinsville, identifiable animal behaviour and misperceptions under nocturnal stress. The lack of physical evidence, the inconsistency of eyewitness testimony under scrutiny, and the occasional conflation of folklore with reportage all contribute to a cautious interpretation of these events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+Observers and sceptics note that many UFO reports — both in Kentucky and nationally — align with known natural or human‑made phenomena when examined more closely: bright planets and stars, satellites, aircraft lights, atmospheric conditions, and, in the case of Hopkinsville, identifiable animal behaviour and misperceptions under nocturnal stress. The lack of physical evidence, the inconsistency of eyewitness testimony under scrutiny, and the occasional conflation of folklore with reportage all contribute to a cautious interpretation of these events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Kentucky&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Unresolved vs. Explained: What Kentucky’s UFO History Shows
 
-Kentucky’s UFO history illustrates the broader pattern seen across the United States: a mix of intriguing and well‑publicised accounts, long periods with only sporadic reports, and an overlay of official investigations that tend toward sceptical explanations in the absence of verifiable evidence. While incidents like the *Kelly–Hopkinsville encounter* and the *Mantell pursuit* retain cultural and historical interest for those curious about unidentified aerial phenomena, they remain unresolved in terms of extraordinary explanation and, in many cases, well accounted for by conventional causes upon critical review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+Kentucky’s UFO history illustrates the broader pattern seen across the United States: a mix of intriguing and well‑publicised accounts, long periods with only sporadic reports, and an overlay of official investigations that tend toward sceptical explanations in the absence of verifiable evidence. While incidents like the *Kelly–Hopkinsville encounter* and the *Mantell pursuit* retain cultural and historical interest for those curious about unidentified aerial phenomena, they remain unresolved in terms of extraordinary explanation and, in many cases, well accounted for by conventional causes upon critical review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jvGbvDFH1rs" title="This Kentucky Coal Train Had a BIZARRE UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jvGbvDFH1rs" target="_blank" rel="noopener noreferrer">This Kentucky Coal Train Had a BIZARRE UFO Encounter</a></p><p class="youtube-embed-meta">Channel: Kentucky Melody &middot; Views: 18.2K &middot; Uploaded: April 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jvGbvDFH1rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jvGbvDFH1rs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Kentucky&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Kentucky&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Surveys notable sightings and evidence issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Surveys notable sightings and evidence issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Adds broader folklore context to Kentucky legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds broader folklore context to Kentucky legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Useful for understanding major cases and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding major cases and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Provides context for many classic American UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for many classic American UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-kentucky-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-kentucky-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -727,7 +727,7 @@ Kentucky’s UFO history illustrates the broader pattern seen across the United 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -747,7 +747,7 @@ Kentucky’s UFO history illustrates the broader pattern seen across the United 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -779,7 +779,7 @@ Kentucky’s UFO history illustrates the broader pattern seen across the United 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -831,7 +831,7 @@ Kentucky’s UFO history illustrates the broader pattern seen across the United 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -876,7 +876,7 @@ Kentucky’s UFO history illustrates the broader pattern seen across the United 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -917,138 +917,138 @@ Kentucky’s UFO history illustrates the broader pattern seen across the United 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kelly–Hopkinsville encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: little green men origins aliens hopkinsville kelly  
-   Link: <a href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORYJanuary 2, 2020...</p></details>
+   Link:<a href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORYJanuary 2, 2020...</p></details>
    Published: January 2, 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: UFOs in Your Hometown: Episode Ten  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1k8sgax" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1k8sgax</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Your Hometown: Episode TenApril 27, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1k8sgax" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1k8sgax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Your Hometown: Episode TenApril 27, 2025...</p></details>
    Published: April 27, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Alien Sighting  
-   Link: <a href="https://www.reddit.com/r/Kentucky/comments/1rkay2e/alien_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Kentucky/comments/1rkay2e/alien_sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Sighting...</p></details>
+   Link:<a href="https://www.reddit.com/r/Kentucky/comments/1rkay2e/alien_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Kentucky/comments/1rkay2e/alien_sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Sighting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: projectaquarius.mufon.com  
    Title: Project Aquarius Front Page | MUFON's Project Aquarius Library  
-   Link: <a href="https://projectaquarius.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/</a>  
+   Link:<a href="https://projectaquarius.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: little green men origins aliens hopkinsville kelly  
-   Link: <a href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORYJanuary 2, 2020 — By: Volker Janssen Mysteries &amp; Folklore HOW THE...</p></details>
+   Link:<a href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORYJanuary 2, 2020 — By: Volker Janssen Mysteries &amp; Folklore HOW THE...</p></details>
    Published: January 2, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: projectaquarius.mufon.com  
    Title: M.A.R.R.S stands for The MUFON Archives Resear  
-   Link: <a href="https://projectaquarius.mufon.com/marrs/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/marrs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mufon.comM.A.R.R.S Repository | MUFON&#x27;s Project Aquarius LibraryCincinnati, OH, USA.513.871.8367 hq@mufon.com M.A.R.R.S REPOSITORY Possib...</p></details>
+   Link:<a href="https://projectaquarius.mufon.com/marrs/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/marrs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mufon.comM.A.R.R.S Repository | MUFON&#x27;s Project Aquarius LibraryCincinnati, OH, USA.513.871.8367 hq@mufon.com M.A.R.R.S REPOSITORY Possib...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufoindex.com  
    Title: UFO Index Kentucky UFO Reports  
-   Link: <a href="https://www.ufoindex.com/kentucky" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/kentucky</a>  
+   Link:<a href="https://www.ufoindex.com/kentucky" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/kentucky</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theufodatabase.com  
    Title: The UFO Database Mantell UFO Incident | The UFO Database  
-   Link: <a href="https://theufodatabase.com/incidents/mantell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/mantell-ufo-incident</a>  
+   Link:<a href="https://theufodatabase.com/incidents/mantell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/mantell-ufo-incident</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: leoweekly.com  
    Title: LEO Weekly Little green men in the bluegrass  
-   Link: <a href="https://www.leoweekly.com/news/little-green-men-in-the-bluegrass-15772118" target="_blank" rel="noopener noreferrer nofollow">https://www.leoweekly.com/news/little-green-men-in-the-bluegrass-15772118</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEO WeeklyLittle green men in the bluegrassOctober 25, 2011...</p></details>
+   Link:<a href="https://www.leoweekly.com/news/little-green-men-in-the-bluegrass-15772118" target="_blank" rel="noopener noreferrer nofollow">https://www.leoweekly.com/news/little-green-men-in-the-bluegrass-15772118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEO WeeklyLittle green men in the bluegrassOctober 25, 2011...</p></details>
    Published: October 25, 2011  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: paranormal-encyclopedia.com  
-   Link: <a href="https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captain Thomas F. Mantell The Mantell UFO Incident is one of the most significant UFO sightings of all time, mainly because it resulted i...</p></details>
+   Link:<a href="https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Captain Thomas F. Mantell The Mantell UFO Incident is one of the most significant UFO sightings of all time, mainly because it resulted i...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ibtimes.com.au  
-   Link: <a href="https://www.ibtimes.com.au/ufo-sightings-mufon-recounts-ufo-reports-witnesses-kendall-kentucky-1305771" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com.au/ufo-sightings-mufon-recounts-ufo-reports-witnesses-kendall-kentucky-1305771</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: MUFON Recounts UFO Reports of Witnesses from Kendall and KentuckyFebruary 26, 2013 — UFO SIGHTINGS: MUFON RECOUNTS UFO REP...</p></details>
+   Link:<a href="https://www.ibtimes.com.au/ufo-sightings-mufon-recounts-ufo-reports-witnesses-kendall-kentucky-1305771" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com.au/ufo-sightings-mufon-recounts-ufo-reports-witnesses-kendall-kentucky-1305771</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: MUFON Recounts UFO Reports of Witnesses from Kendall and KentuckyFebruary 26, 2013 — UFO SIGHTINGS: MUFON RECOUNTS UFO REP...</p></details>
    Published: February 26, 2013  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stacker.com  
    Title: See How Many UFO Sightings Have Occurred in Kentucky | Stacker  
-   Link: <a href="https://stacker.com/stories/kentucky/see-how-many-ufo-sightings-have-occurred-kentucky" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/kentucky/see-how-many-ufo-sightings-have-occurred-kentucky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 21, 2021 — SEE HOW MANY UFO SIGHTINGS HAVE OCCURRED IN KENTUCKY Written by: Stacker December 21, 2021 Canva See how many UFO sig...</p></details>
+   Link:<a href="https://stacker.com/stories/kentucky/see-how-many-ufo-sightings-have-occurred-kentucky" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/kentucky/see-how-many-ufo-sightings-have-occurred-kentucky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 21, 2021 — SEE HOW MANY UFO SIGHTINGS HAVE OCCURRED IN KENTUCKY Written by: Stacker December 21, 2021 Canva See how many UFO sig...</p></details>
    Published: December 21, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: onlyinyourstate.com  
    Title: UF Os Were Sighted In Bloomfield, Kentucky Nearly 50 Years Ago  
-   Link: <a href="https://www.onlyinyourstate.com//state-pride/kentucky/ufo-sighting-ky" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com//state-pride/kentucky/ufo-sighting-ky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Were Sighted In Bloomfield, Kentucky Nearly 50 Years AgoOctober 9, 2023 — MULTIPLE UFOS WERE SIGHTED IN KENTUCKY NEARLY 50 YEARS AGO...</p></details>
+   Link:<a href="https://www.onlyinyourstate.com//state-pride/kentucky/ufo-sighting-ky" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com//state-pride/kentucky/ufo-sighting-ky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Were Sighted In Bloomfield, Kentucky Nearly 50 Years AgoOctober 9, 2023 — MULTIPLE UFOS WERE SIGHTED IN KENTUCKY NEARLY 50 YEARS AGO...</p></details>
    Published: October 9, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Kentucky | Stacker  
-   Link: <a href="https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN KENTUCKY Written by: Stacker May 12, 2025 PeopleImages.com - Yuri A // Shutterstock...</p></details>
+   Link:<a href="https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN KENTUCKY Written by: Stacker May 12, 2025 PeopleImages.com - Yuri A // Shutterstock...</p></details>
    Published: May 12, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: foxnews.com  
    Title: Mysterious 'UFO' over Kentucky explained | Fox News  
-   Link: <a href="https://www.foxnews.com/science/mysterious-ufo-over-kentucky-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/mysterious-ufo-over-kentucky-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 16, 2013 — UFOs MYSTERIOUS &#x27;UFO&#x27; OVER KENTUCKY EXPLAINED By LiveScience Published August 16, 2013 7:30am EDT | Updated October 21...</p></details>
+   Link:<a href="https://www.foxnews.com/science/mysterious-ufo-over-kentucky-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/mysterious-ufo-over-kentucky-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 16, 2013 — UFOs MYSTERIOUS &#x27;UFO&#x27; OVER KENTUCKY EXPLAINED By LiveScience Published August 16, 2013 7:30am EDT | Updated October 21...</p></details>
    Published: August 16, 2013  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Classic UFO Cases  
-   Link: <a href="https://cufos.org/resources/classic-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/classic-ufo-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Mantell&#x27;s crashed F-51, January 7, 1948On January 7, 1948, at 2:50 p.m., Capt. Thomas F. Mantell Jr., a 25-year-old Kentucky Air N...</p></details>
+   Link:<a href="https://cufos.org/resources/classic-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/classic-ufo-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Mantell&#x27;s crashed F-51, January 7, 1948On January 7, 1948, at 2:50 p.m., Capt. Thomas F. Mantell Jr., a 25-year-old Kentucky Air N...</p></details>
    Published: January 7, 1948  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kyhi.org  
    Title: Last Words 2:45 PM: Captain Mantel  
-   Link: <a href="https://kyhi.org/2017/05/28/the-mysterious-case-of-captain-mantell/" target="_blank" rel="noopener noreferrer nofollow">https://kyhi.org/2017/05/28/the-mysterious-case-of-captain-mantell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Case of Captain Mantell – Kentucky Historic InstitutionsMay 28, 2017 — THE MYSTERIOUS CASE OF CAPTAIN MANTELL Posted by Sh...</p></details>
+   Link:<a href="https://kyhi.org/2017/05/28/the-mysterious-case-of-captain-mantell/" target="_blank" rel="noopener noreferrer nofollow">https://kyhi.org/2017/05/28/the-mysterious-case-of-captain-mantell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Case of Captain Mantell – Kentucky Historic InstitutionsMay 28, 2017 — THE MYSTERIOUS CASE OF CAPTAIN MANTELL Posted by Sh...</p></details>
    Published: May 28, 2017  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fold3.com  
    Title: Page 1 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/8292892" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8292892</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3September 1, 1966 — PAGE 1: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Proj...</p></details>
+   Link:<a href="https://www.fold3.com/document/8292892" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8292892</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3September 1, 1966 — PAGE 1: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Proj...</p></details>
    Published: September 1, 1966  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: commons.wikimedia.org  
    Title: * Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kentucky" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kentucky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Kentucky - Wikimedia CommonsJune 10, 2023 — CATEGORY:UFO SIGHTINGS IN KENTUCKY Help MEDIA IN CATEG...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kentucky" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kentucky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Kentucky - Wikimedia CommonsJune 10, 2023 — CATEGORY:UFO SIGHTINGS IN KENTUCKY Help MEDIA IN CATEG...</p></details>
    Published: June 10, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: exonews.org  
    Title: Five Famous Kentucky UFO Encounters  
-   Link: <a href="https://exonews.org/five-famous-kentucky-ufo-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/five-famous-kentucky-ufo-encounters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 6, 2021 — FIVE FAMOUS KENTUCKY UFO ENCOUNTERS * July 6, 2021 * ExoNews Editor * UFOs Article by Emma Austin June 21, 2021...</p></details>
+   Link:<a href="https://exonews.org/five-famous-kentucky-ufo-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/five-famous-kentucky-ufo-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 6, 2021 — FIVE FAMOUS KENTUCKY UFO ENCOUNTERS * July 6, 2021 * ExoNews Editor * UFOs Article by Emma Austin June 21, 2021...</p></details>
    Published: July 6, 2021

@@ -76,9 +76,9 @@ heading_title: Michigan’s Most Notable UFO Sightings and Investigations
 page_heading_title: Michigan’s Most Notable UFO Sightings and Investigations
 source_count: 26
 infographic_count: 3
-page_website_name: Michigan UFOs
+page_website_name: Michigan
 page_banner_line: Documenting Michigan’s most intriguing aerial phenomena
-site_website_name: Michigan UFOs
+site_website_name: Michigan
 site_banner_line: Documenting Michigan’s most intriguing aerial phenomena
 site_image_description: Night sky over Michigan showing clusters of glowing lights above rural and urban landscapes with observers watching from the ground.
 output_language: English
@@ -479,25 +479,25 @@ image: /assets/images/Michigan_5110b3-overview-social.jpg
 
 ## The 1966 “Swamp Gas” Sightings: A Wave That Shook National Discourse
 
-In March 1966 Michigan experienced one of the most widely reported UFO flaps of its time, centred on Washtenaw County and southeastern Michigan. On consecutive nights around 20–21 March, large groups of citizens, law‑enforcement officers and other observers reported bright lights, object formations and unidentified shapes in the sky. These mass sightings spread across counties and were so numerous they drew national press attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+In March 1966 Michigan experienced one of the most widely reported UFO flaps of its time, centred on Washtenaw County and southeastern Michigan. On consecutive nights around 20–21 March, large groups of citizens, law‑enforcement officers and other observers reported bright lights, object formations and unidentified shapes in the sky. These mass sightings spread across counties and were so numerous they drew national press attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3-overview.webp" | relative_url }}" alt="Overview image for Michigan’s Most Notable UFO Sightings and..." loading="eager" decoding="sync" fetchpriority="high">
 ### Official Investigation and Controversy
 
-The U.S. Air Force sent civilian investigator Dr J. Allen Hynek, then associated with Project Blue Book, to examine the reports. Hynek ultimately attributed the lights to “[swamp gas]({{ 'swamp-gas/' | relative_url }})” — a naturally occurring atmospheric phenomenon — a conclusion that was deeply unpopular with witnesses and some politicians. Gerald R. Ford, then a Michigan Congressman, criticised the Air Force’s explanation and called for stronger congressional inquiry, arguing that the public deserved a more credible account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
+The U.S. Air Force sent civilian investigator Dr J. Allen Hynek, then associated with Project Blue Book, to examine the reports. Hynek ultimately attributed the lights to “[swamp gas]({{ 'swamp-gas/' | relative_url }})” — a naturally occurring atmospheric phenomenon — a conclusion that was deeply unpopular with witnesses and some politicians. Gerald R. Ford, then a Michigan Congressman, criticised the Air Force’s explanation and called for stronger congressional inquiry, arguing that the public deserved a more credible account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
-Sceptics have noted that atmospheric conditions, combined with social contagion and misinterpretation of natural and aerial phenomena, likely account for most if not all of these reports. However, the volume of credible eyewitnesses and the attention of military radar and police make the 1966 wave a key case in Michigan’s UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkar.org">[wkar.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkar.org</span><span class="citation-popover-title">UF O or swamp gas? MI’s “close encounter” 50 years later &#124; WKAR Public Media</span><span class="citation-popover-snippet">UFO or swamp gas? MI’s “close encounter” 50 years later &#124; WKAR Public MediaMarch 21, 2016...</span><span class="citation-popover-meta">Published: March 21, 2016</span></span></span>
+Sceptics have noted that atmospheric conditions, combined with social contagion and misinterpretation of natural and aerial phenomena, likely account for most if not all of these reports. However, the volume of credible eyewitnesses and the attention of military radar and police make the 1966 wave a key case in Michigan’s UFO history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkar.org">[wkar.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkar.org</span><span class="citation-popover-title">UF O or swamp gas? MI’s “close encounter” 50 years later &#124; WKAR Public Media</span><span class="citation-popover-snippet">UFO or swamp gas? MI’s “close encounter” 50 years later &#124; WKAR Public MediaMarch 21, 2016...</span><span class="citation-popover-meta">Published: March 21, 2016</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3-Illustration-1-dark.svg" | relative_url }}" alt="Michigan’s Most Notable UFO Sightings and... illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1994 West Michigan UFO Event: Lights, Radar, and Widespread Reports
 
-One of Michigan’s most widely documented modern UFO episodes occurred on 8 March 1994. Numerous residents across west Michigan reported seeing strings of lights and unconventional aerial patterns over Lake Michigan. Witnesses used a wide variety of descriptions — from multi‑coloured orbs to flickering lights moving in formation — and many calls were made to emergency services as observers searched for explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+One of Michigan’s most widely documented modern UFO episodes occurred on 8 March 1994. Numerous residents across west Michigan reported seeing strings of lights and unconventional aerial patterns over Lake Michigan. Witnesses used a wide variety of descriptions — from multi‑coloured orbs to flickering lights moving in formation — and many calls were made to emergency services as observers searched for explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
 ### Police, Radar, and the Aftermath
 
-Police officers in several jurisdictions took reports, and operators at the National Weather Service’s Muskegon County radar noted unusual blips that they stated were not consistent with weather returns. The event sparked over 300 reports from 42 counties, making it one of the most widely observed UFO incidents in Michigan’s recorded history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
+Police officers in several jurisdictions took reports, and operators at the National Weather Service’s Muskegon County radar noted unusual blips that they stated were not consistent with weather returns. The event sparked over 300 reports from 42 counties, making it one of the most widely observed UFO incidents in Michigan’s recorded history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
-Media coverage included interviews with witnesses and discussions about whether the sightings represented a genuine unknown aerial phenomenon or could be better explained by fireworks, aircraft, atmospheric optics, or group misperception. Although investigators ruled out some conventional explanations, no definitive conclusion has been universally accepted, and the 1994 event remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
+Media coverage included interviews with witnesses and discussions about whether the sightings represented a genuine unknown aerial phenomenon or could be better explained by fireworks, aircraft, atmospheric optics, or group misperception. Although investigators ruled out some conventional explanations, no definitive conclusion has been universally accepted, and the 1994 event remains unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eW5LGxxDthc" title="Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eW5LGxxDthc" target="_blank" rel="noopener noreferrer">Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 99.6K &middot; Uploaded: March 2024 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eW5LGxxDthc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eW5LGxxDthc">Open on YouTube</a></p></div></div></div>
 
@@ -505,222 +505,222 @@ Media coverage included interviews with witnesses and discussions about whether 
 
 ### Patty’s Triangle and the MUFON Database
 
-In 2006 near Lansing, a witness named Patty Blackburn captured video of unusual triangular arrangements of lights in the night sky, now informally known as “Patty’s Triangle.” While intriguing to UFO enthusiasts, ensuing investigations including those by Michigan’s chapter of the Mutual UFO Network (MUFON) suggest such sightings often have mundane explanations once atmospheric effects, satellites or aircraft are considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[Hour Detroit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-snippet">Hour DetroitPatty’s Triangle Remains Among Michigan’s Most Baffling UFO SightingsAugust 2, 2021...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
+In 2006 near Lansing, a witness named Patty Blackburn captured video of unusual triangular arrangements of lights in the night sky, now informally known as “Patty’s Triangle.” While intriguing to UFO enthusiasts, ensuing investigations including those by Michigan’s chapter of the Mutual UFO Network (MUFON) suggest such sightings often have mundane explanations once atmospheric effects, satellites or aircraft are considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[Hour Detroit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-snippet">Hour DetroitPatty’s Triangle Remains Among Michigan’s Most Baffling UFO SightingsAugust 2, 2021...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
 
-MUFON remains active in Michigan, maintaining a database of several thousand reported sightings across recent decades, and assists individuals wishing to report aerial anomalies. The organisation’s analysis often demonstrates that 80–95 % of sightings can be attributed to identifiable causes, with a small fraction remaining unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mimufon.org">[mimufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mimufon.org</span><span class="citation-popover-title">Michigan MUFON Inc</span><span class="citation-popover-snippet">Michigan MUFON Inc</span></span></span>
+MUFON remains active in Michigan, maintaining a database of several thousand reported sightings across recent decades, and assists individuals wishing to report aerial anomalies. The organisation’s analysis often demonstrates that 80–95 % of sightings can be attributed to identifiable causes, with a small fraction remaining unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mimufon.org">[mimufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mimufon.org</span><span class="citation-popover-title">Michigan MUFON Inc</span><span class="citation-popover-snippet">Michigan MUFON Inc</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3-Illustration-2-dark.svg" | relative_url }}" alt="Michigan’s Most Notable UFO Sightings and... illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Recent and Ongoing Reports
 
-According to online catalogues of citizen reports, multiple sightings continue to be filed in Michigan each year, ranging from unusual light patterns to brief unexplained aerial phenomena. For example, lights in Ypsilanti or orange glows in Trenton have been reported by local residents in the 2020s, though many of these observations coincide with identifiable aerial traffic, satellites, or atmospheric events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/michigan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Michigan UFO Reports</span><span class="citation-popover-snippet">Michigan UFO Reports</span></span></span>
+According to online catalogues of citizen reports, multiple sightings continue to be filed in Michigan each year, ranging from unusual light patterns to brief unexplained aerial phenomena. For example, lights in Ypsilanti or orange glows in Trenton have been reported by local residents in the 2020s, though many of these observations coincide with identifiable aerial traffic, satellites, or atmospheric events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/michigan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Michigan UFO Reports</span><span class="citation-popover-snippet">Michigan UFO Reports</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JUxB4rlY-2k" title="Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JUxB4rlY-2k" target="_blank" rel="noopener noreferrer">Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 1</a></p><p class="youtube-embed-meta">Channel: WWMT-TV &middot; Views: 6.9K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JUxB4rlY-2k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JUxB4rlY-2k">Open on YouTube</a></p></div></div></div>
 
 ## Military, Radar Data, and Public Interpretation
 
-Michigan’s proximity to the Great Lakes and military radar coverage has made it a useful region for studying both genuine and misinterpreted aerial events. Military and weather radar have occasionally registered unexplained returns concurrent with eyewitness sighting clusters; however, weather radar is optimised for meteorological targets, and such detections often prove ambiguous or are attributed to anomalous propagation effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
+Michigan’s proximity to the Great Lakes and military radar coverage has made it a useful region for studying both genuine and misinterpreted aerial events. Military and weather radar have occasionally registered unexplained returns concurrent with eyewitness sighting clusters; however, weather radar is optimised for meteorological targets, and such detections often prove ambiguous or are attributed to anomalous propagation effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
-Recent broader U.S. military disclosures — including declassified footage of engagements with unidentified objects — have renewed public interest in aerial phenomena over Michigan and the wider region, though official sources have not confirmed extraterrestrial origins for such objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The object, shaped like a diamond, was destroyed by a weapon system, causing debris to scatter. This video is part of a significant discl...</span></span></span>
+Recent broader U.S. military disclosures — including declassified footage of engagements with unidentified objects — have renewed public interest in aerial phenomena over Michigan and the wider region, though official sources have not confirmed extraterrestrial origins for such objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The object, shaped like a diamond, was destroyed by a weapon system, causing debris to scatter. This video is part of a significant discl...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nOLGWaGQl9M" title="Lights in the sky: A UFO sighting in Michigan nearly 30 years old brought to light on Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nOLGWaGQl9M" target="_blank" rel="noopener noreferrer">Lights in the sky: A UFO sighting in Michigan nearly 30 years old brought to light on Netflix</a></p><p class="youtube-embed-meta">Channel: 13 ON YOUR SIDE &middot; Views: 4.7K &middot; Uploaded: July 2023 &middot; Length: 3 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nOLGWaGQl9M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nOLGWaGQl9M">Open on YouTube</a></p></div></div></div>
 
 ## Balancing Witness Claims with Sceptical Interpretation
 
-Across Michigan’s UFO history, a recurring theme is the tension between compelling witness testimony and explanations that invoke atmospheric, astronomical, or human‑made causes. Episodes like the [1966 swamp gas]({{ '1966-swamp-gas/' | relative_url }}) flap and the [1994 Lake Michigan]({{ '1994-lake-michigan/' | relative_url }}) event highlight how multiple witnesses and even radar data can still yield inconclusive interpretations. Civilian groups like MUFON often collect extensive testimony, but their cases also illustrate how initial mystery frequently yields to mundane explanations once full context is considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mimufon.org">[mimufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mimufon.org</span><span class="citation-popover-title">Michigan MUFON Inc</span><span class="citation-popover-snippet">Michigan MUFON Inc</span></span></span>
+Across Michigan’s UFO history, a recurring theme is the tension between compelling witness testimony and explanations that invoke atmospheric, astronomical, or human‑made causes. Episodes like the [1966 swamp gas]({{ '1966-swamp-gas/' | relative_url }}) flap and the [1994 Lake Michigan]({{ '1994-lake-michigan/' | relative_url }}) event highlight how multiple witnesses and even radar data can still yield inconclusive interpretations. Civilian groups like MUFON often collect extensive testimony, but their cases also illustrate how initial mystery frequently yields to mundane explanations once full context is considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mimufon.org">[mimufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mimufon.org</span><span class="citation-popover-title">Michigan MUFON Inc</span><span class="citation-popover-snippet">Michigan MUFON Inc</span></span></span>
 
-As a result, Michigan’s role in UFO history is not about proving extraordinary claims, but about tracking how public reports, official investigation, sceptical analysis, and cultural memory interact over decades of unexplained sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
+As a result, Michigan’s role in UFO history is not about proving extraordinary claims, but about tracking how public reports, official investigation, sceptical analysis, and cultural memory interact over decades of unexplained sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3-Illustration-3-dark.svg" | relative_url }}" alt="Michigan’s Most Notable UFO Sightings and... illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Michigan’s Most Notable UFO Sightings and Investigations. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Michigan’s Most Notable UFO Sightings and Investigations. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers many official investigations and unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many official investigations and unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek was directly involved in major Michigan sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek was directly involved in major Michigan sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides broader historical context for Air Force UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader historical context for Air Force UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places Michigan cases within wider official UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Michigan cases within wider official UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="michigan-s-most-notable-ufo-sightings-and-investigations-ufo-wall-art-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -736,7 +736,7 @@ As a result, Michigan’s role in UFO history is not about proving extraordinary
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -756,7 +756,7 @@ As a result, Michigan’s role in UFO history is not about proving extraordinary
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -788,7 +788,7 @@ As a result, Michigan’s role in UFO history is not about proving extraordinary
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -840,7 +840,7 @@ As a result, Michigan’s role in UFO history is not about proving extraordinary
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -885,7 +885,7 @@ As a result, Michigan’s role in UFO history is not about proving extraordinary
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -926,117 +926,117 @@ As a result, Michigan’s role in UFO history is not about proving extraordinary
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Michigan "swamp gas" UFO reports  
-   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1994 Michigan UFO event  
-   Link: <a href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1994_Michigan_UFO_event</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1994_Michigan_UFO_event</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wkar.org  
    Title: UF O or swamp gas? MI’s “close encounter” 50 years later | WKAR Public Media  
-   Link: <a href="https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or swamp gas? MI’s “close encounter” 50 years later | WKAR Public MediaMarch 21, 2016...</p></details>
+   Link:<a href="https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or swamp gas? MI’s “close encounter” 50 years later | WKAR Public MediaMarch 21, 2016...</p></details>
    Published: March 21, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bustle.com  
    Title: 1994 michigan ufo sightings unsolved mysteries  
-   Link: <a href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</p></details>
+   Link:<a href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</p></details>
    Published: October 19, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mimufon.org  
    Title: Michigan MUFON Inc  
-   Link: <a href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mimufon.org/index.htm</a>  
+   Link:<a href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mimufon.org/index.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufoindex.com  
    Title: Michigan UFO Reports  
-   Link: <a href="https://www.ufoindex.com/michigan" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/michigan</a>  
+   Link:<a href="https://www.ufoindex.com/michigan" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/michigan</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hourdetroit.com  
-   Link: <a href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hour DetroitPatty’s Triangle Remains Among Michigan’s Most Baffling UFO SightingsAugust 2, 2021...</p></details>
+   Link:<a href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hour DetroitPatty’s Triangle Remains Among Michigan’s Most Baffling UFO SightingsAugust 2, 2021...</p></details>
    Published: August 2, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The object, shaped like a diamond, was destroyed by a weapon system, causing debris to scatter. This video is part of a significant discl...</p></details>
+   Link:<a href="https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/22/us-news/explosive-video-of-us-fighter-jet-shooting-down-ufo-over-michigan-revealed-in-new-declassified-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object, shaped like a diamond, was destroyed by a weapon system, causing debris to scatter. This video is part of a significant discl...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufomagazines.com  
    Title: MICHIGA N MUFON — Michigan Mutual UFO Network | UFO Magazine Archive  
-   Link: <a href="https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2010-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2010-05/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MICHIGAN MUFON — Michigan Mutual UFO Network | UFO Magazine ArchiveMay 1, 2010 — RECENT MICHIGAN SIGHTINGS This section details several r...</p></details>
+   Link:<a href="https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2010-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2010-05/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MICHIGAN MUFON — Michigan Mutual UFO Network | UFO Magazine ArchiveMay 1, 2010 — RECENT MICHIGAN SIGHTINGS This section details several r...</p></details>
    Published: May 1, 2010  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufomagazines.com  
    Title: MICHIGA N MUFON NEWSLETTER — Michigan Mutual UFO Network, Inc  
-   Link: <a href="https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2007-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2007-01/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Magazine ArchiveMEXICO UFO SIGHTING This section details a UFO sighting and photographic evidence from Puebla, Mexico, on October 4...</p></details>
+   Link:<a href="https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2007-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/mufon-michigan-newsletter-mufon-michigan-newsletter-2007-01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Magazine ArchiveMEXICO UFO SIGHTING This section details a UFO sighting and photographic evidence from Puebla, Mexico, on October 4...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bentley.umich.edu  
    Title: Flying Saucers and Swamp Gas | Bentley Historical Library  
-   Link: <a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers and Swamp Gas | Bentley Historical LibraryMAGAZINE Image: Drawing of a UFO by Washtenaw County law enforcement in 1966 FLYING SAU...</p></details>
+   Link:<a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers and Swamp Gas | Bentley Historical LibraryMAGAZINE Image: Drawing of a UFO by Washtenaw County law enforcement in 1966 FLYING SAU...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: us103.com  
    Title: UF O Sightings Throughout Michigan's History  
-   Link: <a href="https://us103.com/mi-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://us103.com/mi-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Throughout Michigan&#x27;s HistoryMarch 30, 2023 — Image: UFO Sightings Throughout Michigan&amp;#8217;s History UFO SIGHTINGS THROUG...</p></details>
+   Link:<a href="https://us103.com/mi-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://us103.com/mi-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Throughout Michigan&#x27;s HistoryMarch 30, 2023 — Image: UFO Sightings Throughout Michigan&amp;#8217;s History UFO SIGHTINGS THROUG...</p></details>
    Published: March 30, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufoinsight.com  
    Title: michigan 1966 the swamp gas incidents  
-   Link: <a href="https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan, 1966 – The “Swamp Gas” Incidents - UFO InsightSeptember 8, 2018 — MICHIGAN, 1966 – THE “SWAMP GAS” INCIDENTS By Marcus Lowth Im...</p></details>
+   Link:<a href="https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan, 1966 – The “Swamp Gas” Incidents - UFO InsightSeptember 8, 2018 — MICHIGAN, 1966 – THE “SWAMP GAS” INCIDENTS By Marcus Lowth Im...</p></details>
    Published: September 8, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: michpics.com  
    Title: the michigan ufo craze of march 1966  
-   Link: <a href="https://michpics.com/2018/03/02/the-michigan-ufo-craze-of-march-1966/" target="_blank" rel="noopener noreferrer nofollow">https://michpics.com/2018/03/02/the-michigan-ufo-craze-of-march-1966/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Michigan UFO Craze of March, 1966 | Michigan in PicturesMarch 2, 2018 — THE MICHIGAN UFO CRAZE OF MARCH, 1966 Posted on March 2, 2018...</p></details>
+   Link:<a href="https://michpics.com/2018/03/02/the-michigan-ufo-craze-of-march-1966/" target="_blank" rel="noopener noreferrer nofollow">https://michpics.com/2018/03/02/the-michigan-ufo-craze-of-march-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Michigan UFO Craze of March, 1966 | Michigan in PicturesMarch 2, 2018 — THE MICHIGAN UFO CRAZE OF MARCH, 1966 Posted on March 2, 2018...</p></details>
    Published: march 1966  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufoinsight.com  
    Title: michigan 1966 swamp gas incidents  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan, 1966 – The “Swamp Gas” Incidents - UFO InsightSeptember 8, 2018 — MICHIGAN, 1966 – THE “SWAMP GAS” INCIDENTS By Marcus Lowth Im...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan, 1966 – The “Swamp Gas” Incidents - UFO InsightSeptember 8, 2018 — MICHIGAN, 1966 – THE “SWAMP GAS” INCIDENTS By Marcus Lowth Im...</p></details>
    Published: September 8, 2018  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mysteriousmichigan.com  
    Title: 1966 michigan ufo swamp gas case  
-   Link: <a href="https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Famous 1966 Michigan UFO Swamp Gas Case - Mysterious MichiganFebruary 17, 2016 — THE FAMOUS 1966 MICHIGAN UFO SWAMP GAS CASE Feb 17...</p></details>
+   Link:<a href="https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Famous 1966 Michigan UFO Swamp Gas Case - Mysterious MichiganFebruary 17, 2016 — THE FAMOUS 1966 MICHIGAN UFO SWAMP GAS CASE Feb 17...</p></details>
    Published: February 17, 2016  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: allthatsinteresting.com  
    Title: 1994 lake michigan ufo incident  
-   Link: <a href="https://allthatsinteresting.com/1994-lake-michigan-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://allthatsinteresting.com/1994-lake-michigan-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The Mysterious Lake Michigan UFO Incident Of 1994October 16, 2022 — The Enduring Mystery Of The 1994 Lake Michigan UFO Incident By...</p></details>
+   Link:<a href="https://allthatsinteresting.com/1994-lake-michigan-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://allthatsinteresting.com/1994-lake-michigan-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The Mysterious Lake Michigan UFO Incident Of 1994October 16, 2022 — The Enduring Mystery Of The 1994 Lake Michigan UFO Incident By...</p></details>
    Published: October 16, 2022  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wgrd.com  
    Title: The Truth is Out There  
-   Link: <a href="https://wgrd.com/michigan-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wgrd.com/michigan-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MI Reports 50 UFO Sightings in 2021December 31, 2021 — Image: The Truth is Out There &amp;#8211; Michigan Reports 50 UFO Sightings in 2021 TH...</p></details>
+   Link:<a href="https://wgrd.com/michigan-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wgrd.com/michigan-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MI Reports 50 UFO Sightings in 2021December 31, 2021 — Image: The Truth is Out There &amp;#8211; Michigan Reports 50 UFO Sightings in 2021 TH...</p></details>
    Published: December 31, 2021

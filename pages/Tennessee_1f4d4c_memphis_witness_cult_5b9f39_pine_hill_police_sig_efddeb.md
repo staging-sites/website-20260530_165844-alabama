@@ -250,12 +250,12 @@ image: /assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_pol
 
 ## Introduction
 
-The Pine Hill sighting remains the best-known [Memphis]({{ 'memphis/' | relative_url }}) UFO case because it sits in an awkward middle ground between credibility and proof. In the early hours of 17 May 1977, Memphis police officers Lamar Todd and Jerry Jeter reported seeing a large triangular object hovering near Pine Hill Golf Course in south Memphis. Their account has survived for decades because the witnesses were on-duty officers, because their descriptions were unusually detailed, and because neither man claimed a brief glimpse of a distant light. Yet the case has never produced the kind of evidence that would settle the matter: no publicly available radar record, no photographs, no recovered material and no independently verified technical data. What remains is a witness case whose strengths and weaknesses are both unusually clear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+The Pine Hill sighting remains the best-known [Memphis]({{ 'memphis/' | relative_url }}) UFO case because it sits in an awkward middle ground between credibility and proof. In the early hours of 17 May 1977, Memphis police officers Lamar Todd and Jerry Jeter reported seeing a large triangular object hovering near Pine Hill Golf Course in south Memphis. Their account has survived for decades because the witnesses were on-duty officers, because their descriptions were unusually detailed, and because neither man claimed a brief glimpse of a distant light. Yet the case has never produced the kind of evidence that would settle the matter: no publicly available radar record, no photographs, no recovered material and no independently verified technical data. What remains is a witness case whose strengths and weaknesses are both unusually clear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-dark.svg" | relative_url }}" alt="Pine Hill case illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened during the May 1977 patrol?
 
-According to later interviews and retellings, Todd and Jeter were conducting patrol work near Norris Road and Pine Hill Golf Course at about 3:30 a.m. when they noticed an unusual object above the area. They described it as triangular, carrying bright lights at its corners and hovering low enough to attract immediate attention. The officers reportedly left their vehicle to observe it more closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+According to later interviews and retellings, Todd and Jeter were conducting patrol work near Norris Road and Pine Hill Golf Course at about 3:30 a.m. when they noticed an unusual object above the area. They described it as triangular, carrying bright lights at its corners and hovering low enough to attract immediate attention. The officers reportedly left their vehicle to observe it more closely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 The most repeated elements of their testimony remained consistent over the years:
 
@@ -265,11 +265,11 @@ The most repeated elements of their testimony remained consistent over the years
 * It seemed to hover rather than move like a conventional aircraft.
 * The officers reported little or no engine noise despite its apparent proximity.
 * The object was observed for more than a fleeting moment rather than as a brief flash of light.
-* It eventually departed at a speed the witnesses considered extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+* It eventually departed at a speed the witnesses considered extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 </div>
 
-One detail that became central to later retellings involved Jeter returning to the vehicle to retrieve a rifle fitted with a telescopic sight so that he could examine the object more closely. According to the story as later reported in Memphis media, the object accelerated away almost immediately afterwards. That moment became part of the case's folklore because it reinforced the impression that the object was under intelligent control, although there is no independent evidence connecting the object's departure to the officer's actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+One detail that became central to later retellings involved Jeter returning to the vehicle to retrieve a rifle fitted with a telescopic sight so that he could examine the object more closely. According to the story as later reported in Memphis media, the object accelerated away almost immediately afterwards. That moment became part of the case's folklore because it reinforced the impression that the object was under intelligent control, although there is no independent evidence connecting the object's departure to the officer's actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lj9XiXuOCdI" title="Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer">Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility</a></p><p class="youtube-embed-meta">Channel: The Appalachian Storyteller &middot; Views: 17.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lj9XiXuOCdI">Open on YouTube</a></p></div></div></div>
 
@@ -283,7 +283,7 @@ Supporters of the case point to several factors:
 * Both men independently witnessed the same event.
 * The sighting allegedly lasted long enough for observation rather than being a split-second experience.
 * The officers were familiar with ordinary aircraft, vehicles and lighting conditions in Memphis.
-* Todd continued discussing the event publicly for decades, suggesting he did not later dismiss it as a mistake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+* Todd continued discussing the event publicly for decades, suggesting he did not later dismiss it as a mistake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 These points do not prove the object was extraordinary, but they do explain why the case became more influential than hundreds of routine civilian reports from the same period. Within Tennessee UFO history, witness credibility is one of the main reasons the Pine Hill incident continues to be discussed.
 
@@ -303,20 +303,20 @@ The surviving public record mainly consists of:
 * Later interviews with Todd.
 * Newspaper and magazine coverage.
 * UFO-investigator summaries and case compilations.
-* Documentary treatment in Memphis-area television programming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+* Documentary treatment in Memphis-area television programming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 </div>
 
 What is notably absent is often more important than what survives.
 
-There is no publicly available photograph of the object. There is no known film footage. Researchers have not produced a radar track demonstrating an anomalous target over Pine Hill. No original dispatch recording is publicly cited in the major retellings. No physical traces from the site became part of the case record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/memphistn1977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookPolice Encounter Triangle UFO, Memphis, Tennessee-1977The two men reported seeing the object hovering over a municipal golf c...</span></span></span>
+There is no publicly available photograph of the object. There is no known film footage. Researchers have not produced a radar track demonstrating an anomalous target over Pine Hill. No original dispatch recording is publicly cited in the major retellings. No physical traces from the site became part of the case record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/memphistn1977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookPolice Encounter Triangle UFO, Memphis, Tennessee-1977The two men reported seeing the object hovering over a municipal golf c...</span></span></span>
 
 As a result, investigators evaluating the case have generally relied on witness reliability rather than on measurable technical evidence. That places the sighting in a category common to many famous UFO reports: impressive testimony combined with limited independent verification.
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-dark.svg" | relative_url }}" alt="Pine Hill case illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the triangular description matters
 
-The triangular shape became one of the most memorable features of the Pine Hill report. Long before black-triangle UFO stories became widespread in the 1980s and 1990s, Todd and Jeter were describing a large triangular object with lights at its points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+The triangular shape became one of the most memorable features of the Pine Hill report. Long before black-triangle UFO stories became widespread in the 1980s and 1990s, Todd and Jeter were describing a large triangular object with lights at its points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 For UFO researchers, that detail makes the case stand out historically because it appears earlier than many of the famous triangle-wave reports associated with Belgium, Britain and the United States in later decades.
 
@@ -330,7 +330,7 @@ No single sceptical explanation has completely displaced the original account, b
 
 A conventional aircraft remains one candidate. At night, landing lights, navigation lights and unusual viewing angles can create misleading impressions of size and movement. If an aircraft changes direction, turns off lights or alters its angle relative to an observer, it can appear to accelerate dramatically.
 
-A helicopter is another possibility sometimes mentioned in discussions of the case. Helicopters can hover and manoeuvre in ways that fixed-wing aircraft cannot. However, the officers insisted that the object's apparent silence and size did not fit what they expected from a helicopter. Whether those perceptions were accurate is difficult to determine decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/memphistn1977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookPolice Encounter Triangle UFO, Memphis, Tennessee-1977The two men reported seeing the object hovering over a municipal golf c...</span></span></span>
+A helicopter is another possibility sometimes mentioned in discussions of the case. Helicopters can hover and manoeuvre in ways that fixed-wing aircraft cannot. However, the officers insisted that the object's apparent silence and size did not fit what they expected from a helicopter. Whether those perceptions were accurate is difficult to determine decades later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/memphistn1977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookPolice Encounter Triangle UFO, Memphis, Tennessee-1977The two men reported seeing the object hovering over a municipal golf c...</span></span></span>
 
 Atmospheric and perceptual factors also matter. Night observations are notoriously difficult. Without a known reference point, observers often overestimate the size of lights and underestimate their distance. An object believed to be nearby may actually be much farther away, making ordinary movement appear unusual.
 
@@ -349,7 +349,7 @@ The strongest points in favour of the sighting's significance are straightforwar
 * Two officers reported the same event.
 * The observation appears to have lasted several minutes.
 * The description remained broadly consistent over time.
-* The witnesses were willing to be publicly identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+* The witnesses were willing to be publicly identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 </div>
 
@@ -358,276 +358,276 @@ The strongest limitations are equally clear:
 * No publicly available technical evidence confirms the object's nature.
 * Precise size, altitude and speed cannot be reconstructed.
 * The original observation occurred at night under conditions prone to perceptual error.
-* Later retellings often rely on the same core witness account rather than new evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
+* Later retellings often rely on the same core witness account rather than new evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 That combination explains why the case has endured. It is neither a trivial light-in-the-sky report nor a solved mystery supported by hard data. Within the history of Tennessee UFO reports, the Pine Hill sighting remains a vivid and credible witness account whose reputation rests largely on who reported it rather than on what investigators were able to prove afterwards.
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-dark.svg" | relative_url }}" alt="Pine Hill case illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the Pine Hill officers really see?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the Pine Hill officers really see?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closest commercial match to a police-witness UFO case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closest commercial match to a police-witness UFO case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how witness testimony is evaluated against evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how witness testimony is evaluated against evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context on official investigation of unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on official investigation of unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Useful comparison for long-lasting testimony-driven cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison for long-lasting testimony-driven cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pine-hill-case-what-did-the-pine-hill-officers-really-see-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ That combination explains why the case has endured. It is neither a trivial ligh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ That combination explains why the case has endured. It is neither a trivial ligh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ That combination explains why the case has endured. It is neither a trivial ligh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ That combination explains why the case has endured. It is neither a trivial ligh
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -783,72 +783,72 @@ That combination explains why the case has endured. It is neither a trivial ligh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: memphisflyer.com  
    Title: world ufo day  
-   Link: <a href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.memphisflyer.com/world-ufo-day/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</p></details>
+   Link:<a href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.memphisflyer.com/world-ufo-day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/memphistn1977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/memphistn1977.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookPolice Encounter Triangle UFO, Memphis, Tennessee-1977The two men reported seeing the object hovering over a municipal golf c...</p></details>
+   Link:<a href="https://www.ufocasebook.com/memphistn1977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/memphistn1977.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookPolice Encounter Triangle UFO, Memphis, Tennessee-1977The two men reported seeing the object hovering over a municipal golf c...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Law enforcement was just as perplexed when they found...MEMPHIS TENNESSEE “A UFO that hovered over a golf course in Memphis, Tennessee w...</p></details>
+   Link:<a href="https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law enforcement was just as perplexed when they found...MEMPHIS TENNESSEE “A UFO that hovered over a golf course in Memphis, Tennessee w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting explained as police helicopter trailThe two men reported seeing the object hovering over a municipal golf course in... Memp...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting explained as police helicopter trailThe two men reported seeing the object hovering over a municipal golf course in... Memp...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: back in 1977 retired mpd captain lamar todd and his partner were patrolling sout  
-   Link: <a href="https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAY 17, 1977 ………MEMPHIS TENNESSEE “A UFO that hovered over a golf course in Memphis, Tennessee was truly enormous, say two police officer...</p></details>
+   Link:<a href="https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAY 17, 1977 ………MEMPHIS TENNESSEE “A UFO that hovered over a golf course in Memphis, Tennessee was truly enormous, say two police officer...</p></details>
    Published: May 17, 1977  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: v shaped ufos reported hovering over memphis highway a tennessee witness at memp  
-   Link: <a href="https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>V-shaped UFOs reported hovering over Memphis highway14 Jul 2016 — The two men reported seeing the object hovering over a municipal golf c...</p></details>
+   Link:<a href="https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>V-shaped UFOs reported hovering over Memphis highway14 Jul 2016 — The two men reported seeing the object hovering over a municipal golf c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hovering near golf course... Memphis about three thirty in the morning of May 17, 1977. They got out of their unmarked police van and...</p></details>
+   Link:<a href="https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hovering near golf course... Memphis about three thirty in the morning of May 17, 1977. They got out of their unmarked police van and...</p></details>
    Published: May 17, 1977  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: ta report of the day 1979marshall county sheriffs 1977 ford ltd ufo car ufo sigh  
-   Link: <a href="https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy... The two men reported seeing the object hovering over a municipal golf course...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy... The two men reported seeing the object hovering over a municipal golf course...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E63u90DGzyo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E63u90DGzyo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility  
-   Link: <a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lj9XiXuOCdI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nashville astronomer weighs in on Congressional UFO hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lj9XiXuOCdI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nashville astronomer weighs in on Congressional UFO hearing...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO sightings in Middle TN grows  
-   Link: <a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYJrwWIVaBk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released, new TN congressional maps and local police involved in crashes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYJrwWIVaBk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released, new TN congressional maps and local police involved in crashes...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early stages of the investigation, police said it...“I believe what I saw was an unidentified flying object and I believe it was...</p></details>
+   Link:<a href="https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the early stages of the investigation, police said it...“I believe what I saw was an unidentified flying object and I believe it was...</p></details>

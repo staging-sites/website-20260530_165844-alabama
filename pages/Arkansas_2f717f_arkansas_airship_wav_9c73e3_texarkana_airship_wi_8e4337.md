@@ -253,40 +253,40 @@ image: /assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airs
 In April 1897, Texarkana briefly became part of America’s strange “mystery airship” craze when a railroad conductor named Captain Jim Hooton claimed he had stumbled across a landed flying craft in a field outside town. The story quickly entered Arkansas folklore because it combined several elements that made late nineteenth-century readers pay attention: a named witness, mechanical details, and a supposedly sober observer connected to the rail industry. Yet the case also illustrates why many historians now treat the 1897 [airship wave]({{ 'airship-wave/' | relative_url }}) as a mixture of rumour, publicity, exaggeration and tall tales rather than evidence of a genuine technological breakthrough or extraterrestrial visitation.
 
 <img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-dark.svg" | relative_url }}" alt="Texarkana illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What keeps the Texarkana account interesting is not hard proof, because none survives, but the tension between Hooton’s apparent credibility and the complete absence of corroboration. The case sits at the centre of a broader question in Arkansas UFO history: when does a vivid witness story become folklore rather than evidence? <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+What keeps the Texarkana account interesting is not hard proof, because none survives, but the tension between Hooton’s apparent credibility and the complete absence of corroboration. The case sits at the centre of a broader question in Arkansas UFO history: when does a vivid witness story become folklore rather than evidence?<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DeWmfXB3U1c" title="Why did a Texas town bury an alien visitor in 1897?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer">Why did a Texas town bury an alien visitor in 1897?</a></p><p class="youtube-embed-meta">Channel: Unscaled Stories &middot; Views: 218 &middot; Uploaded: November 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DeWmfXB3U1c">Open on YouTube</a></p></div></div></div>
 
 ## What Hooton claimed happened in April 1897
 
-According to newspaper reports carried in Arkansas during April 1897, Captain Jim Hooton was in Texarkana to collect a locomotive for the Iron Mountain Railroad when he went walking or hunting near the outskirts of town. There he reportedly heard a mechanical sound resembling compressed air or railway equipment. Following the noise, he claimed he discovered a grounded “airship” in a field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorepinebluff.com">[Pine Bluff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorepinebluff.com</span><span class="citation-popover-title">Pine Bluff UFO Sightings in Arkansas</span><span class="citation-popover-snippet">UFO Sightings in Arkansas - Explore Pine Bluff28 Sept 2022 — An article in the Arkansas Gazette printed on April 20, 1897, reported that...</span><span class="citation-popover-meta">Published: April 20, 1897</span></span></span>
+According to newspaper reports carried in Arkansas during April 1897, Captain Jim Hooton was in Texarkana to collect a locomotive for the Iron Mountain Railroad when he went walking or hunting near the outskirts of town. There he reportedly heard a mechanical sound resembling compressed air or railway equipment. Following the noise, he claimed he discovered a grounded “airship” in a field.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorepinebluff.com">[Pine Bluff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorepinebluff.com</span><span class="citation-popover-title">Pine Bluff UFO Sightings in Arkansas</span><span class="citation-popover-snippet">UFO Sightings in Arkansas - Explore Pine Bluff28 Sept 2022 — An article in the Arkansas Gazette printed on April 20, 1897, reported that...</span><span class="citation-popover-meta">Published: April 20, 1897</span></span></span>
 
-The surviving descriptions vary slightly between later retellings, but the central story stayed consistent. Hooton supposedly approached the craft and encountered men who appeared to be operating or repairing it. He reportedly asked whether this was the mysterious airship then being reported across the United States, and one of the men confirmed that it was. Some versions say the crew explained aspects of the propulsion system, mentioning compressed air and mechanical apparatus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasstatearchives.blogspot.com">[Arkansas State Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasstatearchives.blogspot.com</span><span class="citation-popover-title">Arkansas State Archives Arkansas History&#x27;s Mysteries</span><span class="citation-popover-snippet">Perhaps the most prominent of the sightings in Arkansas...</span></span></span>
+The surviving descriptions vary slightly between later retellings, but the central story stayed consistent. Hooton supposedly approached the craft and encountered men who appeared to be operating or repairing it. He reportedly asked whether this was the mysterious airship then being reported across the United States, and one of the men confirmed that it was. Some versions say the crew explained aspects of the propulsion system, mentioning compressed air and mechanical apparatus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasstatearchives.blogspot.com">[Arkansas State Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasstatearchives.blogspot.com</span><span class="citation-popover-title">Arkansas State Archives Arkansas History&#x27;s Mysteries</span><span class="citation-popover-snippet">Perhaps the most prominent of the sightings in Arkansas...</span></span></span>
 
-The craft was described in familiar “mystery airship” language of the era: elongated, mechanical and technologically advanced but still recognisably human-made. That detail matters because the 1896–97 wave occurred decades before modern flying saucer imagery. Witnesses generally imagined secret inventors, experimental aircraft or eccentric engineers rather than alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+The craft was described in familiar “mystery airship” language of the era: elongated, mechanical and technologically advanced but still recognisably human-made. That detail matters because the 1896–97 wave occurred decades before modern flying saucer imagery. Witnesses generally imagined secret inventors, experimental aircraft or eccentric engineers rather than alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-One reason the Texarkana report endured longer than many other Arkansas airship stories is that newspapers said Hooton produced a sketch of the craft for reporters. Even though the original drawing appears lost, the claim gave the story an air of concreteness and technical observation rather than pure fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasstatearchives.blogspot.com">[Arkansas State Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasstatearchives.blogspot.com</span><span class="citation-popover-title">Arkansas State Archives Arkansas History&#x27;s Mysteries</span><span class="citation-popover-snippet">Perhaps the most prominent of the sightings in Arkansas...</span></span></span>
+One reason the Texarkana report endured longer than many other Arkansas airship stories is that newspapers said Hooton produced a sketch of the craft for reporters. Even though the original drawing appears lost, the claim gave the story an air of concreteness and technical observation rather than pure fantasy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasstatearchives.blogspot.com">[Arkansas State Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasstatearchives.blogspot.com</span><span class="citation-popover-title">Arkansas State Archives Arkansas History&#x27;s Mysteries</span><span class="citation-popover-snippet">Perhaps the most prominent of the sightings in Arkansas...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ULpFYmQon8g" title="Dirigibles, Airships, &amp; Zeppelins: Lighter-Than-Air Travel. Mystery Panic of 1896. Antiquitech(?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ULpFYmQon8g" target="_blank" rel="noopener noreferrer">Dirigibles, Airships, &amp; Zeppelins: Lighter-Than-Air Travel. Mystery Panic of 1896. Antiquitech(?)</a></p><p class="youtube-embed-meta">Channel: Jarid Boosters &middot; Views: 130.8K &middot; Uploaded: July 2022 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ULpFYmQon8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ULpFYmQon8g">Open on YouTube</a></p></div></div></div>
 
 ## Why a railway conductor made a compelling witness
 
-Hooton’s occupation strongly shaped how readers interpreted the story. In 1897, railroad men were associated with machinery, schedules and practical engineering. A conductor was not viewed as an eccentric dreamer but as someone accustomed to engines, pressure systems and industrial technology. That social status gave Hooton a degree of credibility unavailable to anonymous witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+Hooton’s occupation strongly shaped how readers interpreted the story. In 1897, railroad men were associated with machinery, schedules and practical engineering. A conductor was not viewed as an eccentric dreamer but as someone accustomed to engines, pressure systems and industrial technology. That social status gave Hooton a degree of credibility unavailable to anonymous witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
-The report also sounded believable to contemporaries because the late nineteenth century was filled with real technological experimentation. Americans had already seen rapid advances in railways, electricity and telegraphy. Newspapers regularly reported inventors claiming they were close to conquering powered flight. Readers therefore did not necessarily interpret an “airship” as impossible. Instead, many assumed some unknown inventor had secretly succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
+The report also sounded believable to contemporaries because the late nineteenth century was filled with real technological experimentation. Americans had already seen rapid advances in railways, electricity and telegraphy. Newspapers regularly reported inventors claiming they were close to conquering powered flight. Readers therefore did not necessarily interpret an “airship” as impossible. Instead, many assumed some unknown inventor had secretly succeeded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
 
-Hooton’s familiarity with mechanical sounds added another layer of plausibility. Later summaries emphasised that he recognised noises similar to railway air brakes or compressed-air systems. To readers in an industrial age, that detail sounded grounded in practical experience rather than fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">the phantom airships of the 1890s</span><span class="citation-popover-snippet">The Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</span><span class="citation-popover-meta">Published: April 20, 1897</span></span></span>
+Hooton’s familiarity with mechanical sounds added another layer of plausibility. Later summaries emphasised that he recognised noises similar to railway air brakes or compressed-air systems. To readers in an industrial age, that detail sounded grounded in practical experience rather than fantasy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">the phantom airships of the 1890s</span><span class="citation-popover-snippet">The Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</span><span class="citation-popover-meta">Published: April 20, 1897</span></span></span>
 
-At the same time, modern historians note an irony: railway culture may also have helped spread the airship craze itself. Telegraph networks, travelling crews and newspaper exchanges allowed dramatic stories to circulate rapidly across the country. Some researchers have even suggested that railroad workers participated in spreading embellished airship stories as jokes or publicity stunts. A widely discussed theory linked parts of the Texas airship wave to railway men exchanging tales between towns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacMany explanations have been given for the rash of airship sightings. One holds that it...</span></span></span>
+At the same time, modern historians note an irony: railway culture may also have helped spread the airship craze itself. Telegraph networks, travelling crews and newspaper exchanges allowed dramatic stories to circulate rapidly across the country. Some researchers have even suggested that railroad workers participated in spreading embellished airship stories as jokes or publicity stunts. A widely discussed theory linked parts of the Texas airship wave to railway men exchanging tales between towns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacMany explanations have been given for the rash of airship sightings. One holds that it...</span></span></span>
 
 That does not prove Hooton invented his story, but it weakens the assumption that his profession automatically made the account reliable.
 
 <img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-dark.svg" | relative_url }}" alt="Texarkana illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What is missing from the surviving evidence
 
-The strongest argument against taking the Texarkana encounter literally is how little evidence survives beyond newspaper reporting. No photograph, physical trace, engineering drawing, signed affidavit or independent witness testimony has been verified. The original newspaper sketches appear lost, and there is no known official investigation from the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+The strongest argument against taking the Texarkana encounter literally is how little evidence survives beyond newspaper reporting. No photograph, physical trace, engineering drawing, signed affidavit or independent witness testimony has been verified. The original newspaper sketches appear lost, and there is no known official investigation from the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
-The story also fits a broader pattern seen throughout the 1896–97 airship wave. Across the United States, newspapers published colourful accounts of landed craft, conversations with pilots and strange technological marvels. Many stories contradicted each other, and some were openly satirical or later exposed as hoaxes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
+The story also fits a broader pattern seen throughout the 1896–97 airship wave. Across the United States, newspapers published colourful accounts of landed craft, conversations with pilots and strange technological marvels. Many stories contradicted each other, and some were openly satirical or later exposed as hoaxes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 Several warning signs stand out when the Texarkana report is compared with stronger historical evidence standards:
 
@@ -299,17 +299,17 @@ Several warning signs stand out when the Texarkana report is compared with stron
 
 </div>
 
-These gaps matter because the story involved extraordinary claims. A working powered aircraft in April 1897 would have represented a revolutionary achievement years before the Wright brothers’ flights. Historians therefore expect extraordinary documentation if such an event genuinely occurred. None has surfaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+These gaps matter because the story involved extraordinary claims. A working powered aircraft in April 1897 would have represented a revolutionary achievement years before the Wright brothers’ flights. Historians therefore expect extraordinary documentation if such an event genuinely occurred. None has surfaced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-Another problem is that later retellings sometimes expanded or dramatised the original account. As the story entered UFO folklore during the twentieth century, details about propulsion systems, crew behaviour and dialogue occasionally became more elaborate. That makes it difficult to separate the earliest newspaper version from decades of retelling and embellishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+Another problem is that later retellings sometimes expanded or dramatised the original account. As the story entered UFO folklore during the twentieth century, details about propulsion systems, crew behaviour and dialogue occasionally became more elaborate. That makes it difficult to separate the earliest newspaper version from decades of retelling and embellishment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KWnz9JZkVA" title="Phantom Airships of the 19th Century | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer">Phantom Airships of the 19th Century | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories &middot; Views: 12.4K &middot; Uploaded: March 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KWnz9JZkVA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Texarkana case still matters in Arkansas UFO history
 
-Despite its weaknesses, the Hooton story remains important because it captures the transitional moment between nineteenth-century technological fantasy and modern UFO mythology. The Texarkana report was not originally framed as alien visitation. It reflected an era when Americans expected secret inventors to unveil astonishing machines at any moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
+Despite its weaknesses, the Hooton story remains important because it captures the transitional moment between nineteenth-century technological fantasy and modern UFO mythology. The Texarkana report was not originally framed as alien visitation. It reflected an era when Americans expected secret inventors to unveil astonishing machines at any moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
 
-The case also demonstrates how witness credibility can become culturally powerful even when hard evidence is absent. Hooton’s status as a railway conductor made the story memorable enough to survive in Arkansas folklore long after many similar reports disappeared. In later decades, Arkansas UFO writers and local historians repeatedly returned to the incident because it offered a named witness and a concrete narrative rather than a distant light in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+The case also demonstrates how witness credibility can become culturally powerful even when hard evidence is absent. Hooton’s status as a railway conductor made the story memorable enough to survive in Arkansas folklore long after many similar reports disappeared. In later decades, Arkansas UFO writers and local historians repeatedly returned to the incident because it offered a named witness and a concrete narrative rather than a distant light in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
 Within the broader “1897 Arkansas Airship Wave and Its Tall-Tale Evidence”, the Texarkana encounter occupies a middle ground between outright joke stories and more formal witness claims such as the [Hot Springs]({{ 'hot-springs/' | relative_url }}) reports involving law officers. It is neither fully debunked nor strongly evidenced. Instead, it survives as a revealing example of how newspapers, local reputation and technological excitement combined to create enduring mystery stories in Arkansas history.
 
@@ -318,269 +318,269 @@ For modern readers, the most reasonable conclusion is cautious rather than dismi
 <img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-dark.svg" | relative_url }}" alt="Texarkana illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Texarkana really host a landed airship?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Texarkana really host a landed airship?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Places the Texarkana claim in a long history of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Texarkana claim in a long history of unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Provides historical context for public fascination with unexplained aircraft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for public fascination with unexplained aircraft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Airship Mystery">The Great Airship Mystery</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Cohen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Airship Mystery">The Great Airship Mystery</a>
+</h4>
+<p class="fr-book-author">By Daniel Cohen</p>
         
-        <p class="fr-book-desc">Directly addresses the national airship wave that included Texarkana.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the national airship wave that included Texarkana.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how witness stories evolve into folklore traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how witness stories evolve into folklore traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Airship Mystery</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Airship Mystery</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-did-texarkana-really-host-a-landed-airship-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ For modern readers, the most reasonable conclusion is cautious rather than dismi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ For modern readers, the most reasonable conclusion is cautious rather than dismi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ For modern readers, the most reasonable conclusion is cautious rather than dismi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ For modern readers, the most reasonable conclusion is cautious rather than dismi
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -736,113 +736,113 @@ For modern readers, the most reasonable conclusion is cautious rather than dismi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: podscan.fm  
    Title: the phantom airships of the 1890s  
-   Link: <a href="https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow">https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</p></details>
+   Link:<a href="https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow">https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</p></details>
    Published: April 20, 1897  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</p></details>
+   Link:<a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of UFO-related hoaxes  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas UFO Sightings  
-   Link: <a href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</p></details>
+   Link:<a href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</p></details>
    Published: March 19, 2019  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: explorepinebluff.com  
    Title: Pine Bluff UFO Sightings in Arkansas  
-   Link: <a href="https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas" target="_blank" rel="noopener noreferrer nofollow">https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Arkansas - Explore Pine Bluff28 Sept 2022 — An article in the Arkansas Gazette printed on April 20, 1897, reported that...</p></details>
+   Link:<a href="https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas" target="_blank" rel="noopener noreferrer nofollow">https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Arkansas - Explore Pine Bluff28 Sept 2022 — An article in the Arkansas Gazette printed on April 20, 1897, reported that...</p></details>
    Published: April 20, 1897  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arkansasstatearchives.blogspot.com  
    Title: Arkansas State Archives Arkansas History's Mysteries  
-   Link: <a href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow">https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perhaps the most prominent of the sightings in Arkansas...</p></details>
+   Link:<a href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow">https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perhaps the most prominent of the sightings in Arkansas...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: texasalmanac.com  
-   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TX AlmanacWhen Airships Invaded Texas | TX AlmanacMany explanations have been given for the rash of airship sightings. One holds that it...</p></details>
+   Link:<a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TX AlmanacWhen Airships Invaded Texas | TX AlmanacMany explanations have been given for the rash of airship sightings. One holds that it...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: <a href="https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Once upon a Time in The West&#x27;Truthful&#x27; Scully, a Forth Worth freight conductor for the Texas and Pacific Railroad who was chosen to intro...</p></details>
+   Link:<a href="https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Once upon a Time in The West&#x27;Truthful&#x27; Scully, a Forth Worth freight conductor for the Texas and Pacific Railroad who was chosen to intro...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyBy the spring, the phenomenon moved into Arkansas. According to newspaper reports, on April 20, 1897, Ca...</p></details>
+   Link:<a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyBy the spring, the phenomenon moved into Arkansas. According to newspaper reports, on April 20, 1897, Ca...</p></details>
    Published: April 20, 1897  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weirdhistorian.com  
-   Link: <a href="https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It has had new airship fakes every day, each introduced with “scare heads,” assuring the trustworthiness of the story.Read more...</p></details>
+   Link:<a href="https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It has had new airship fakes every day, each introduced with “scare heads,” assuring the trustworthiness of the story.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: reports of ufo sightings in arkansas can be traced back well over a century in l  
-   Link: <a href="https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of UFO sightings in Arkansas can be traced back...In late 1896 and early 1897, the country experienced a rash of “airship” sight...</p></details>
+   Link:<a href="https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of UFO sightings in Arkansas can be traced back...In late 1896 and early 1897, the country experienced a rash of “airship” sight...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 16, 1897, during the 1896-1897 wave of “Mystery Airship” sightings...</p></details>
+   Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 16, 1897, during the 1896-1897 wave of “Mystery Airship” sightings...</p></details>
    Published: April 16, 1897  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: mystery airship sightings for 8 months between  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings: For 8 months between 1896-97...On April 16, 1897 a C. G. Williams of Greenville, Texas claimed he was asked...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings: For 8 months between 1896-97...On April 16, 1897 a C. G. Williams of Greenville, Texas claimed he was asked...</p></details>
    Published: April 16, 1897  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.nebraska.gov  
    Title: doc publications NH1979UFOs  
-   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
+   Link:<a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
    Published: February 1897  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: On today's date 129 years ago, Monday, April  
-   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to newspaper reports, on April 20, 1897, Captain Jim Hooton... Hooton told the Arkansas Gazette that he saw the airshi...</p></details>
+   Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to newspaper reports, on April 20, 1897, Captain Jim Hooton... Hooton told the Arkansas Gazette that he saw the airshi...</p></details>
    Published: April 20, 1897  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ke. Investigating, he discovers an airship undergoing...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ke. Investigating, he discovers an airship undergoing...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: On today's date 129 years ago, Tuesday,  
-   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 1897...Most sightings have been isolated events, but there have been a few events in Arkansas&#x27;s recorded history in which sev...</p></details>
+   Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 1897...Most sightings have been isolated events, but there have been a few events in Arkansas&#x27;s recorded history in which sev...</p></details>
    Published: April 13, 1897

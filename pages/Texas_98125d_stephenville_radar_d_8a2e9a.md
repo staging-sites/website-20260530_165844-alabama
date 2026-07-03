@@ -262,12 +262,12 @@ image: /assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-overview-social.j
 
 ## Introduction
 
-Stephenville became the modern Texas UFO case because it did not rest on one dramatic witness alone. On 8 January 2008, people around Stephenville, Dublin, Selden and nearby Erath County reported large, silent lights or a vast object moving across the evening sky. Some witnesses said fighter jets followed it. At first, military spokespeople denied having aircraft in the area; later they said ten F-16s had been training there. Then a private radar study, based on Federal Aviation Administration data obtained through Freedom of Information Act requests, argued that the jets did not explain every return or every sighting. That combination — public witnesses, a changed official statement, military airspace and disputed radar interpretation — is why Stephenville remains Texas’s most important internet-age UFO flap rather than just another lights-in-the-sky story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[2ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
+Stephenville became the modern Texas UFO case because it did not rest on one dramatic witness alone. On 8 January 2008, people around Stephenville, Dublin, Selden and nearby Erath County reported large, silent lights or a vast object moving across the evening sky. Some witnesses said fighter jets followed it. At first, military spokespeople denied having aircraft in the area; later they said ten F-16s had been training there. Then a private radar study, based on Federal Aviation Administration data obtained through Freedom of Information Act requests, argued that the jets did not explain every return or every sighting. That combination — public witnesses, a changed official statement, military airspace and disputed radar interpretation — is why Stephenville remains Texas’s most important internet-age UFO flap rather than just another lights-in-the-sky story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[2ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-overview.webp" | relative_url }}" alt="Overview image for Stephenville" loading="eager" decoding="sync" fetchpriority="high">
 ## The 2008 witness wave
 
-The first reason Stephenville drew national attention was the character and number of reported witnesses. Early Associated Press coverage, carried by CBS News, described “several dozen” people, including a pilot, a county constable and business owners, who said they had seen a large silent object with bright lights flying low and fast. Steve Allen, a freight company owner and pilot, estimated the object as enormous and insisted it was not local aviation; Ricky Sorrells, near Dublin, described a flat metallic object seen over pastureland. These statements did not prove an extraordinary craft, but they made the case harder to dismiss as a single mistake or a lone rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span>
+The first reason Stephenville drew national attention was the character and number of reported witnesses. Early Associated Press coverage, carried by CBS News, described “several dozen” people, including a pilot, a county constable and business owners, who said they had seen a large silent object with bright lights flying low and fast. Steve Allen, a freight company owner and pilot, estimated the object as enormous and insisted it was not local aviation; Ricky Sorrells, near Dublin, described a flat metallic object seen over pastureland. These statements did not prove an extraordinary craft, but they made the case harder to dismiss as a single mistake or a lone rumour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span>
 
 The reports also had the shape of a local flap rather than a neatly bounded incident. Witnesses did not all describe the same thing in the same way. Some saw bright lights; some thought they saw a structured object; some reported changing light patterns; some mentioned fighter jets; and later summaries included sightings across several nearby communities. That variety is important. It can suggest multiple observers catching different aspects of one unusual event, but it can also indicate that different ordinary events — military aircraft, flares, airliners, planets, reflections or memory effects — were being folded into one story after local publicity grew.
 
@@ -278,11 +278,11 @@ The most useful way to read the witness wave is therefore neither credulous nor 
 <img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-dark.svg" | relative_url }}" alt="Stephenville illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fighter-jet claims and aviation records
 
-The fighter-jet issue is the hinge of the case. When the story first broke, a spokesman for the 301st Fighter Wing at Naval Air Station Joint Reserve Base Fort Worth said no F-16s from that base were in the area on 8 January. The same early report suggested a possible mundane explanation: commercial aircraft made unusually bright by the angle of the setting sun. Officials at Dyess and Sheppard were also reported as saying their aircraft were not in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span>
+The fighter-jet issue is the hinge of the case. When the story first broke, a spokesman for the 301st Fighter Wing at Naval Air Station Joint Reserve Base Fort Worth said no F-16s from that base were in the area on 8 January. The same early report suggested a possible mundane explanation: commercial aircraft made unusually bright by the angle of the setting sun. Officials at Dyess and Sheppard were also reported as saying their aircraft were not in the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span>
 
-That position changed on 23 January 2008. ABC13 reported that Air Force Reserve officials now said ten F-16 fighter jets had been training in the Stephenville area that night, and that the earlier denial had been mistaken. The revision mattered for two reasons. First, it gave sceptics a concrete explanation for at least part of what people saw: military jets operating at night in or near training airspace. Secondly, it made many witnesses more suspicious, because some had already claimed to see fighter jets near the unknown lights. For them, the corrected statement did not close the case; it seemed to confirm one part of their account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
+That position changed on 23 January 2008. ABC13 reported that Air Force Reserve officials now said ten F-16 fighter jets had been training in the Stephenville area that night, and that the earlier denial had been mistaken. The revision mattered for two reasons. First, it gave sceptics a concrete explanation for at least part of what people saw: military jets operating at night in or near training airspace. Secondly, it made many witnesses more suspicious, because some had already claimed to see fighter jets near the unknown lights. For them, the corrected statement did not close the case; it seemed to confirm one part of their account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
 
-The later radar report by Glen Schulze and Robert Powell also placed the F-16s at the centre of the analysis. It said Carswell records and FAA radar indicated two sorties of four aircraft, followed by a final sortie of two, making ten jets in the Dublin-Stephenville area within roughly two hours. The report also noted that only lead aircraft in each sortie had active transponders, while other jets had to be tracked as primary radar returns, which complicates any attempt to separate military traffic from other unknown returns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
+The later radar report by Glen Schulze and Robert Powell also placed the F-16s at the centre of the analysis. It said Carswell records and FAA radar indicated two sorties of four aircraft, followed by a final sortie of two, making ten jets in the Dublin-Stephenville area within roughly two hours. The report also noted that only lead aircraft in each sortie had active transponders, while other jets had to be tracked as primary radar returns, which complicates any attempt to separate military traffic from other unknown returns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
 
 For readers, the key point is that “the Air Force admitted jets were there” is not the same as “the whole case is solved”. It does, however, significantly weakens any version of the story that treats the night sky as free of military activity. Once ten F-16s are accepted as present, any serious interpretation has to ask a narrower question: were witnesses and radar records showing only those jets and their effects, or was there a separate object as well?
 
@@ -290,9 +290,9 @@ For readers, the key point is that “the Air Force admitted jets were there” 
 
 ## Why the radar report changed the argument
 
-Stephenville’s lasting importance comes from the attempt to move beyond testimony. Schulze and Powell obtained FAA [radar data]({{ 'radar-data/' | relative_url }}) through Freedom of Information Act requests, and the report says the FAA provided about 2.8 million radar returns covering 4 pm to 8 pm Central time from five radar sites near the Dallas-Fort Worth airspace. The study also used National Weather Service material, military responses and a partly redacted 457th Fighter Squadron logbook. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
+Stephenville’s lasting importance comes from the attempt to move beyond testimony. Schulze and Powell obtained FAA [radar data]({{ 'radar-data/' | relative_url }}) through Freedom of Information Act requests, and the report says the FAA provided about 2.8 million radar returns covering 4 pm to 8 pm Central time from five radar sites near the Dallas-Fort Worth airspace. The study also used National Weather Service material, military responses and a partly redacted 457th Fighter Squadron logbook.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
 
-The report’s central claim was not simply that “radar saw a UFO”. Its more careful claim was that certain radar returns, when compared with witness times and locations, appeared to support the presence of unknown objects not readily explained by the known F-16 activity. It identified the Fort Worth radar as especially sensitive for the Dublin-Stephenville area and estimated that the radar’s minimum detection altitude there was roughly 2,500 to 3,000 feet because of distance and the curvature of the Earth. That limitation matters: something lower than that might not appear on FAA radar even if witnesses saw it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
+The report’s central claim was not simply that “radar saw a UFO”. Its more careful claim was that certain radar returns, when compared with witness times and locations, appeared to support the presence of unknown objects not readily explained by the known F-16 activity. It identified the Fort Worth radar as especially sensitive for the Dublin-Stephenville area and estimated that the radar’s minimum detection altitude there was roughly 2,500 to 3,000 feet because of distance and the curvature of the Earth. That limitation matters: something lower than that might not appear on FAA radar even if witnesses saw it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
 
 The report highlighted several tracks or events that became central to later discussion:
 
@@ -301,18 +301,18 @@ The report highlighted several tracks or events that became central to later dis
 * a radar object around the 6:10 to 6:20 pm witness window, with the report arguing that direction and speed corresponded with accounts from Selden, Chalk Mountain and Lake Proctor;
 * radar returns near the 7:15 pm sighting by a constable south-west of Dublin, including an apparent sudden movement to the north;
 * a slow-moving track that the authors said was heading towards the Crawford Ranch, President George W. Bush’s Texas residence, without a transponder;
-* heavy military aircraft activity that, in the authors’ view, did not fully account for every relevant radar return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
+* heavy military aircraft activity that, in the authors’ view, did not fully account for every relevant radar return.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
 
 </div>
 
-ABC News later summarised Powell’s position as follows: the FAA radar data, in his view, indicated that there was an object in the sky in addition to the known military jets, but the question remained what the object was. That is a crucial distinction. Even the pro-anomaly reading did not identify aliens, secret craft or a particular technology. It argued for an unresolved aerial object or objects in a complicated traffic environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Lights in the Sky</span><span class="citation-popover-snippet">ABC News Lights in the Sky</span></span></span>
+ABC News later summarised Powell’s position as follows: the FAA radar data, in his view, indicated that there was an object in the sky in addition to the known military jets, but the question remained what the object was. That is a crucial distinction. Even the pro-anomaly reading did not identify aliens, secret craft or a particular technology. It argued for an unresolved aerial object or objects in a complicated traffic environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Lights in the Sky</span><span class="citation-popover-snippet">ABC News Lights in the Sky</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-dark.svg" | relative_url }}" alt="Stephenville illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The sceptical counter-case
 
-The strongest sceptical responses focus on three issues: military exercises, flares and the danger of over-reading raw radar data. In Skeptical Inquirer, James McGaha argued that F-16s were operating in the Brownwood Military Operating Areas and that some lights were consistent with military flares. He also cited a medical helicopter pilot and retired US Army pilot who said he saw multiple military aircraft, some dropping flares, in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The strongest sceptical responses focus on three issues: military exercises, flares and the danger of over-reading raw radar data. In Skeptical Inquirer, James McGaha argued that F-16s were operating in the Brownwood Military Operating Areas and that some lights were consistent with military flares. He also cited a medical helicopter pilot and retired US Army pilot who said he saw multiple military aircraft, some dropping flares, in the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-The radar critique is sharper. McGaha argued that the MUFON-linked report selected a tiny number of returns from millions of data points and treated them as a meaningful track. In his view, this was “cherry picking” noise and scatter rather than demonstrating a coherent unknown object. He concluded that there were lights in the sky, that F-16s and flares were present, and that radar did not prove any unknown target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The radar critique is sharper. McGaha argued that the MUFON-linked report selected a tiny number of returns from millions of data points and treated them as a meaningful track. In his view, this was “cherry picking” noise and scatter rather than demonstrating a coherent unknown object. He concluded that there were lights in the sky, that F-16s and flares were present, and that radar did not prove any unknown target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 This criticism should be taken seriously because radar is not a magic truth machine. Primary radar can show returns from aircraft, but also clutter, reflections, weather effects, anomalous propagation, processing artefacts and ambiguous points that require expert handling. Secondary radar depends on transponder replies, so aircraft without active transponders become harder to identify. The Stephenville debate is therefore partly about the sky and partly about method: when do scattered radar returns become a track, and how much witness matching is enough to make that track meaningful?
 
@@ -324,7 +324,7 @@ The sceptical case is not flawless either. A blanket explanation based on F-16s 
 
 Stephenville now reads like an early version of today’s UAP evidence debate. It has many ingredients that later became familiar: civilian witnesses, official ambiguity, military aircraft in the area, radar data obtained after the event, independent analysts building a case from imperfect records, and sceptics arguing that the data are too noisy to support the conclusion.
 
-Modern official and scientific discussions make Stephenville easier to interpret. NASA’s independent UAP study argued that the field needs rigorous, evidence-based methods and better data acquisition, rather than relying on poor-quality fragments. AARO, the Pentagon’s All-domain Anomaly Resolution Office, has likewise stressed in public case summaries that apparent sensor signatures may remain unresolved when there is not enough corroborating telemetry or multi-sensor data to distinguish a physical object from a sensor artefact. Those cautions map directly onto Stephenville’s central problem: witness testimony and FAA radar returns are interesting, but they do not amount to a controlled, multi-sensor record of a single object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Modern official and scientific discussions make Stephenville easier to interpret. NASA’s independent UAP study argued that the field needs rigorous, evidence-based methods and better data acquisition, rather than relying on poor-quality fragments. AARO, the Pentagon’s All-domain Anomaly Resolution Office, has likewise stressed in public case summaries that apparent sensor signatures may remain unresolved when there is not enough corroborating telemetry or multi-sensor data to distinguish a physical object from a sensor artefact. Those cautions map directly onto Stephenville’s central problem: witness testimony and FAA radar returns are interesting, but they do not amount to a controlled, multi-sensor record of a single object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 That does not make the case worthless. On the contrary, Stephenville is valuable precisely because it shows both the promise and the limits of public radar-based UFO investigation. The promise is that investigators did not stop at witness interviews; they sought official data, compared times and locations, and tried to test claims. The limit is that data gathered for air-traffic purposes after the fact may not answer the questions UFO researchers most want answered: size, shape, propulsion, exact altitude, visual appearance and identity.
 
@@ -333,7 +333,7 @@ In Texas UFO history, this places Stephenville in a distinct category. [Aurora](
 <img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-dark.svg" | relative_url }}" alt="Stephenville illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Stephenville today
 
-A balanced reading starts with three firm points. First, something prompted a real cluster of reports around Stephenville and nearby communities in January 2008. Secondly, military aircraft were present, despite the initial denial, and that fact must be part of any explanation. Thirdly, the radar material is not a simple smoking gun; it is an interpreted dataset, and the interpretation is disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[3ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
+A balanced reading starts with three firm points. First, something prompted a real cluster of reports around Stephenville and nearby communities in January 2008. Secondly, military aircraft were present, despite the initial denial, and that fact must be part of any explanation. Thirdly, the radar material is not a simple smoking gun; it is an interpreted dataset, and the interpretation is disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[3ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
 
 The case is strongest as evidence that a notable public flap occurred and that the initial official information was incomplete. It is weaker as evidence for a single huge craft, because the best-known descriptions depend heavily on night-time human estimates of distance, size and speed. It is intriguing as a radar case, but only if the reader understands that the radar analysis is an argument about selected returns, not a clean instrument recording of a photographed object.
 
@@ -342,269 +342,269 @@ Stephenville remains unresolved in the practical, public sense: no explanation h
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O5JLQd34q_I" title="Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer">Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK &middot; Views: 173.3K &middot; Uploaded: May 2023 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O5JLQd34q_I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Stephenville Became the Modern Texas Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Stephenville Became the Modern Texas Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong match for witness testimony, radar issues and military aviation themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for witness testimony, radar issues and military aviation themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places Stephenville within the wider history of official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Stephenville within the wider history of official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers contemporary UFO debates involving military and government sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers contemporary UFO debates involving military and government sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for analysing large witness cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for analysing large witness cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephenville-why-stephenville-became-the-modern-texas-case-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ Stephenville remains unresolved in the practical, public sense: no explanation h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ Stephenville remains unresolved in the practical, public sense: no explanation h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ Stephenville remains unresolved in the practical, public sense: no explanation h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ Stephenville remains unresolved in the practical, public sense: no explanation h
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -760,110 +760,110 @@ Stephenville remains unresolved in the practical, public sense: no explanation h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: <a href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens Report UFO Over Texas Town - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens Report UFO Over Texas Town - CBS News...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abc13.com  
-   Link: <a href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/5910159/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC13 HoustonMilitary now says jets in area of reported UFO sightings | ABC13 Houston | abc13.com - ABC13 Houston...</p></details>
+   Link:<a href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/5910159/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC13 HoustonMilitary now says jets in area of reported UFO sightings | ABC13 Houston | abc13.com - ABC13 Houston...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: Center for Inquiry  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx</a>  
+   Link:<a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</p></details>
+   Link:<a href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</p></details>
    Published: January 8, 2008  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abcnews.com  
    Title: ABC News Lights in the Sky  
-   Link: <a href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10530422" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10530422</a>  
+   Link:<a href="https://zenodo.org/records/10530422" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10530422</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O5JLQd34q_I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds Witness MASSIVE UFO SIGHTING Over Texas (S2) | In Search Of | The UnXplained Zone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O5JLQd34q_I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds Witness MASSIVE UFO SIGHTING Over Texas (S2) | In Search Of | The UnXplained Zone...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0KOkWJJCxJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0KOkWJJCxJg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0KOkWJJCxJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0KOkWJJCxJg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FfasawhOo6k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Residents of rural Texas town excited over dozens of reported UFO sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FfasawhOo6k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Residents of rural Texas town excited over dozens of reported UFO sightings...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: When 300 UFO Sightings Were Reported in Texas  
-   Link: <a href="https://www.youtube.com/watch?v=yKoxptgdEIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yKoxptgdEIs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yKoxptgdEIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yKoxptgdEIs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scottdouglasjacobsen.medium.com  
-   Link: <a href="https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8" target="_blank" rel="noopener noreferrer nofollow">https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8</a>  
+   Link:<a href="https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8" target="_blank" rel="noopener noreferrer nofollow">https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/</a>  
+   Link:<a href="https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
+   Link:<a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/</a>  
+   Link:<a href="https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: believingthebizarre.com  
-   Link: <a href="https://believingthebizarre.com/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/aliens/</a>  
+   Link:<a href="https://believingthebizarre.com/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/aliens/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/</a>
+   Link:<a href="https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/</a>

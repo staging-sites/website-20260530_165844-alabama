@@ -258,259 +258,259 @@ image: /assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-overview-socia
 [Pascagoula]({{ 'pascagoula/' | relative_url }}) became a UFO landmark not only because Charles Hickson and Calvin Parker said they were taken from the Pascagoula River on 11 October 1973, but because the story kept being retold in public: first as a breaking local news event, then as a national media curiosity, later as books and documentaries, and finally as civic memory marked by a plaque, anniversary events and tourism. The case remains disputed. Its public legacy is therefore not proof that an alien abduction occurred, but evidence of how a frightening claim can move from police report to folklore, from ridicule to recognition, and from private trauma to local identity in Mississippi. [aquila.usm.edu+2https://www.wlox.com]
 
 <img src="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-overview.webp" | relative_url }}" alt="Overview image for Public Memory" loading="eager" decoding="sync" fetchpriority="high">
-The Pascagoula story is unusually useful for understanding Mississippi’s UFO history because it has a visible afterlife. Many sighting reports fade into databases or newspaper archives. Pascagoula did the opposite: it gathered witnesses, sceptics, reporters, television producers, local officials and curious visitors around one riverside place. That public memory has strengthened the story’s cultural importance, even though it has not settled the central question of what actually happened on the riverbank that night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+The Pascagoula story is unusually useful for understanding Mississippi’s UFO history because it has a visible afterlife. Many sighting reports fade into databases or newspaper archives. Pascagoula did the opposite: it gathered witnesses, sceptics, reporters, television producers, local officials and curious visitors around one riverside place. That public memory has strengthened the story’s cultural importance, even though it has not settled the central question of what actually happened on the riverbank that night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nDFMB4r6W9E" title="Pascagoula man recalls the time he was abducted by aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer">Pascagoula man recalls the time he was abducted by aliens</a></p><p class="youtube-embed-meta">Channel: FOX10 News &middot; Views: 94.9K &middot; Uploaded: February 2023 &middot; Length: 3 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nDFMB4r6W9E">Open on YouTube</a></p></div></div></div>
 
 ## How news coverage spread the story
 
-The first mechanism was speed. Hickson and Parker’s account reached authorities quickly, and the story was soon moving through newspapers and wire services. A University of Southern Mississippi honours thesis on the media coverage notes that the men reported being taken aboard a UFO in Pascagoula on 11 October 1973, and that the case became one of the most famous alleged extraterrestrial encounters in the United States. The same study argues that 1973 coverage tended to be hard-news style: fact-led, brief and focused on the immediate claim rather than the longer interpretive context that now surrounds UFO reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[aquila.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-title">honors theses</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
+The first mechanism was speed. Hickson and Parker’s account reached authorities quickly, and the story was soon moving through newspapers and wire services. A University of Southern Mississippi honours thesis on the media coverage notes that the men reported being taken aboard a UFO in Pascagoula on 11 October 1973, and that the case became one of the most famous alleged extraterrestrial encounters in the United States. The same study argues that 1973 coverage tended to be hard-news style: fact-led, brief and focused on the immediate claim rather than the longer interpretive context that now surrounds UFO reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[aquila.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-title">honors theses</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
 
-That early style mattered. The story did not begin as a polished legend. It appeared as a strange local incident involving named shipyard workers, a sheriff’s department, a riverbank location and a community trying to make sense of an extraordinary claim. Later national retrospectives have repeatedly returned to the police angle because officers reportedly tried to catch the men contradicting themselves and instead came away struck by their fear. The Washington Post’s 2019 account, published when the historical marker was installed, emphasised that investigators secretly recorded the men after leaving them alone, hoping the story would collapse once officials were out of the room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That early style mattered. The story did not begin as a polished legend. It appeared as a strange local incident involving named shipyard workers, a sheriff’s department, a riverbank location and a community trying to make sense of an extraordinary claim. Later national retrospectives have repeatedly returned to the police angle because officers reportedly tried to catch the men contradicting themselves and instead came away struck by their fear. The Washington Post’s 2019 account, published when the historical marker was installed, emphasised that investigators secretly recorded the men after leaving them alone, hoping the story would collapse once officials were out of the room.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The press also turned Pascagoula into a stage. By the 40th-anniversary coverage in 2013, the Associated Press version, republished by Mississippi Free Press, described Pascagoula as having become “a magnet for news reporters and UFO investigators” almost overnight. That line is important because it captures the media effect: the city itself became part of the story, not merely the place where two men made a report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mississippifreepress.org">[Mississippi Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mississippifreepress.org</span><span class="citation-popover-title">man says 1973 ufo incident turned life upside down</span><span class="citation-popover-snippet">man says 1973 ufo incident turned life upside down</span></span></span>
+The press also turned Pascagoula into a stage. By the 40th-anniversary coverage in 2013, the Associated Press version, republished by Mississippi Free Press, described Pascagoula as having become “a magnet for news reporters and UFO investigators” almost overnight. That line is important because it captures the media effect: the city itself became part of the story, not merely the place where two men made a report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mississippifreepress.org">[Mississippi Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mississippifreepress.org</span><span class="citation-popover-title">man says 1973 ufo incident turned life upside down</span><span class="citation-popover-snippet">man says 1973 ufo incident turned life upside down</span></span></span>
 
-The same publicity created a pattern that still shapes public memory. Supporters point to the men’s distress, named identities and quick report as signs that the story was not casual invention. Sceptics point to the risks of media amplification: once cameras, investigators and UFO enthusiasts arrived, a local claim became harder to separate from performance, expectation and later embellishment. The public legacy sits in that tension. Pascagoula is remembered both as a serious “close encounter” claim and as an example of how news attention can enlarge a local event into national folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mississippifreepress.org">[Mississippi Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mississippifreepress.org</span><span class="citation-popover-title">man says 1973 ufo incident turned life upside down</span><span class="citation-popover-snippet">man says 1973 ufo incident turned life upside down</span></span></span>
+The same publicity created a pattern that still shapes public memory. Supporters point to the men’s distress, named identities and quick report as signs that the story was not casual invention. Sceptics point to the risks of media amplification: once cameras, investigators and UFO enthusiasts arrived, a local claim became harder to separate from performance, expectation and later embellishment. The public legacy sits in that tension. Pascagoula is remembered both as a serious “close encounter” claim and as an example of how news attention can enlarge a local event into national folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mississippifreepress.org">[Mississippi Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mississippifreepress.org</span><span class="citation-popover-title">man says 1973 ufo incident turned life upside down</span><span class="citation-popover-snippet">man says 1973 ufo incident turned life upside down</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-1-dark.svg" | relative_url }}" alt="Public Memory illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Books, documentaries and anniversary retellings
 
-The second mechanism was retelling over time. Hickson became the more public figure in the years after 1973, appearing in interviews and lectures and later publishing *UFO Contact at Pascagoula* in 1983. Parker, by contrast, was long remembered as the quieter witness. That contrast became part of the story itself: one man carried the case into UFO culture, while the other was often described as reluctant, traumatised or withdrawn. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+The second mechanism was retelling over time. Hickson became the more public figure in the years after 1973, appearing in interviews and lectures and later publishing *UFO Contact at Pascagoula* in 1983. Parker, by contrast, was long remembered as the quieter witness. That contrast became part of the story itself: one man carried the case into UFO culture, while the other was often described as reluctant, traumatised or withdrawn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
-Parker’s later return to the public record changed the memory of the case. In 2018 he published *Pascagoula: The Closest Encounter, My Story*, presenting the event as something that shaped his life rather than as a single night of spectacle. Coverage around the book framed it as Parker breaking a 45-year silence, and later accounts connected that silence to illness, age, fear of ridicule and a desire to put his version on record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/minnesota/news/man-who-says-he-was-abducted-by-aliens-breaks-45-year-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">man who says he was abducted by aliens breaks 45 year silence</span><span class="citation-popover-snippet">man who says he was abducted by aliens breaks 45 year silence</span></span></span>
+Parker’s later return to the public record changed the memory of the case. In 2018 he published *Pascagoula: The Closest Encounter, My Story*, presenting the event as something that shaped his life rather than as a single night of spectacle. Coverage around the book framed it as Parker breaking a 45-year silence, and later accounts connected that silence to illness, age, fear of ridicule and a desire to put his version on record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/minnesota/news/man-who-says-he-was-abducted-by-aliens-breaks-45-year-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">man who says he was abducted by aliens breaks 45 year silence</span><span class="citation-popover-snippet">man who says he was abducted by aliens breaks 45 year silence</span></span></span>
 
-Anniversary journalism then gave the story a rhythm. At 40 years, reporting focused on how the incident had altered Parker’s life and how Pascagoula still debated it. At 50 years, local coverage treated the case as a half-century-old legend: not resolved, but deeply embedded. WLOX’s 2023 anniversary coverage quoted residents who treated the story with varying degrees of belief, doubt and curiosity, including one Pascagoula resident who recalled being told as a child, “we don’t talk about that.” That detail is valuable because it shows how public memory was not always celebratory; for many locals, the story first carried embarrassment, fear or religious discomfort before becoming a community talking point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mississippifreepress.org">[Mississippi Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mississippifreepress.org</span><span class="citation-popover-title">man says 1973 ufo incident turned life upside down</span><span class="citation-popover-snippet">man says 1973 ufo incident turned life upside down</span></span></span>
+Anniversary journalism then gave the story a rhythm. At 40 years, reporting focused on how the incident had altered Parker’s life and how Pascagoula still debated it. At 50 years, local coverage treated the case as a half-century-old legend: not resolved, but deeply embedded. WLOX’s 2023 anniversary coverage quoted residents who treated the story with varying degrees of belief, doubt and curiosity, including one Pascagoula resident who recalled being told as a child, “we don’t talk about that.” That detail is valuable because it shows how public memory was not always celebratory; for many locals, the story first carried embarrassment, fear or religious discomfort before becoming a community talking point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mississippifreepress.org">[Mississippi Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mississippifreepress.org</span><span class="citation-popover-title">man says 1973 ufo incident turned life upside down</span><span class="citation-popover-snippet">man says 1973 ufo incident turned life upside down</span></span></span>
 
-Documentaries have continued that cycle. In 2024, Pascagoula held a local viewing party for the Netflix series *Files of the Unexplained*, which included an episode on the 1973 Pascagoula sighting. WLOX reported that residents gathered to hear the story again, and quoted Pascagoula Main Street’s Susannah Northrop saying the community had seen “a lot of traction” from the documentary and that visitors could go to the marker under the Pascagoula Bridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+Documentaries have continued that cycle. In 2024, Pascagoula held a local viewing party for the Netflix series *Files of the Unexplained*, which included an episode on the 1973 Pascagoula sighting. WLOX reported that residents gathered to hear the story again, and quoted Pascagoula Main Street’s Susannah Northrop saying the community had seen “a lot of traction” from the documentary and that visitors could go to the marker under the Pascagoula Bridge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
-The key point is not that later media proved the claim. It did not. The key point is that each new format changed the social meaning of the story. Newspaper coverage made it news. Books made it testimony. Television and streaming made it a repeatable narrative for national audiences. Anniversary events made it local heritage. That progression is why Pascagoula remains Mississippi’s most recognisable UFO case even for people who do not follow UFO history closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[aquila.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">Open source on usm.edu.</span></span></span>
+The key point is not that later media proved the claim. It did not. The key point is that each new format changed the social meaning of the story. Newspaper coverage made it news. Books made it testimony. Television and streaming made it a repeatable narrative for national audiences. Anniversary events made it local heritage. That progression is why Pascagoula remains Mississippi’s most recognisable UFO case even for people who do not follow UFO history closely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[aquila.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">Open source on usm.edu.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADQtmdTQUhE" title="Pascagoula commemorates anniversary of alien abduction tale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADQtmdTQUhE" target="_blank" rel="noopener noreferrer">Pascagoula commemorates anniversary of alien abduction tale</a></p><p class="youtube-embed-meta">Channel: FOX10 News &middot; Views: 6.2K &middot; Uploaded: October 2021 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADQtmdTQUhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADQtmdTQUhE">Open on YouTube</a></p></div></div></div>
 
 ## Markers, folklore and local identity
 
-The most visible shift in Pascagoula’s public memory came in 2019, when a historical marker was unveiled at Lighthouse Park near the reported site. WLOX reported that the marker was created through work involving Pascagoula Main Street, the city and the historical society, with the historical society paying for the plaque and the city choosing the location and installing it. Parker attended the unveiling, as did members of Hickson’s family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+The most visible shift in Pascagoula’s public memory came in 2019, when a historical marker was unveiled at Lighthouse Park near the reported site. WLOX reported that the marker was created through work involving Pascagoula Main Street, the city and the historical society, with the historical society paying for the plaque and the city choosing the location and installing it. Parker attended the unveiling, as did members of Hickson’s family.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
-For Parker, the marker was not simply a tourist sign. WLOX quoted him saying that it meant a great deal for the city, Jackson County and Pascagoula to recognise what he had lived with after years of ridicule and doubt. That emotional reaction is central to the public-memory story. The plaque did not turn a contested UFO claim into verified fact, but it did turn two men who had long been mocked into figures publicly acknowledged by their own community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+For Parker, the marker was not simply a tourist sign. WLOX quoted him saying that it meant a great deal for the city, Jackson County and Pascagoula to recognise what he had lived with after years of ridicule and doubt. That emotional reaction is central to the public-memory story. The plaque did not turn a contested UFO claim into verified fact, but it did turn two men who had long been mocked into figures publicly acknowledged by their own community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
-The wording of the marker has itself become part of the debate. NPR’s 2024 report on UFO historical markers noted that the Pascagoula marker describes the men spotting a football-shaped craft, being taken aboard, and Hickson being examined by a robotic eye. NPR also reported that the marker bears the seal of the City of Pascagoula and the Jackson County Historical and Genealogical Society, which gives the story an official civic setting even though “there’s no way to really know what happened that night”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wunc.org">[WUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wunc.org</span><span class="citation-popover-title">Are UFOs real? Historical markers say yes &#124; WUNC News</span><span class="citation-popover-snippet">Are UFOs real? Historical markers say yes &#124; WUNC News</span></span></span>
+The wording of the marker has itself become part of the debate. NPR’s 2024 report on UFO historical markers noted that the Pascagoula marker describes the men spotting a football-shaped craft, being taken aboard, and Hickson being examined by a robotic eye. NPR also reported that the marker bears the seal of the City of Pascagoula and the Jackson County Historical and Genealogical Society, which gives the story an official civic setting even though “there’s no way to really know what happened that night”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wunc.org">[WUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wunc.org</span><span class="citation-popover-title">Are UFOs real? Historical markers say yes &#124; WUNC News</span><span class="citation-popover-snippet">Are UFOs real? Historical markers say yes &#124; WUNC News</span></span></span>
 
-That official tone is exactly why the marker matters. Historical markers usually signal accepted local history: a battlefield, birthplace, church, school or civil-rights site. A marker for an alleged alien abduction unsettles that expectation. NPR found that Pascagoula’s marker is among a wider group of American markers that state or commemorate UFO-related claims, and it raised the broader issue that public plaques can lend permanence and credibility to stories that remain unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wunc.org">[WUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wunc.org</span><span class="citation-popover-title">Are UFOs real? Historical markers say yes &#124; WUNC News</span><span class="citation-popover-snippet">Are UFOs real? Historical markers say yes &#124; WUNC News</span></span></span>
+That official tone is exactly why the marker matters. Historical markers usually signal accepted local history: a battlefield, birthplace, church, school or civil-rights site. A marker for an alleged alien abduction unsettles that expectation. NPR found that Pascagoula’s marker is among a wider group of American markers that state or commemorate UFO-related claims, and it raised the broader issue that public plaques can lend permanence and credibility to stories that remain unproven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wunc.org">[WUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wunc.org</span><span class="citation-popover-title">Are UFOs real? Historical markers say yes &#124; WUNC News</span><span class="citation-popover-snippet">Are UFOs real? Historical markers say yes &#124; WUNC News</span></span></span>
 
-Locally, however, the marker also works as a practical identity tool. Pascagoula is a shipbuilding city, a Gulf Coast city and the birthplace of Jimmy Buffett; the [UFO marker]({{ 'ufo-marker/' | relative_url }}) adds a stranger, more playful layer to that identity. Rebecca Davis, who helped write the marker while involved with Main Street Pascagoula, told NPR that locals did not initially believe the men’s story, but that attitudes had changed over time. Her comment that “if you’re going to be known for something, why the heck not?” captures the city’s modern stance: not necessarily unanimous belief, but a willingness to own the story rather than hide it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wunc.org">[WUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wunc.org</span><span class="citation-popover-title">Are UFOs real? Historical markers say yes &#124; WUNC News</span><span class="citation-popover-snippet">Are UFOs real? Historical markers say yes &#124; WUNC News</span></span></span>
+Locally, however, the marker also works as a practical identity tool. Pascagoula is a shipbuilding city, a Gulf Coast city and the birthplace of Jimmy Buffett; the [UFO marker]({{ 'ufo-marker/' | relative_url }}) adds a stranger, more playful layer to that identity. Rebecca Davis, who helped write the marker while involved with Main Street Pascagoula, told NPR that locals did not initially believe the men’s story, but that attitudes had changed over time. Her comment that “if you’re going to be known for something, why the heck not?” captures the city’s modern stance: not necessarily unanimous belief, but a willingness to own the story rather than hide it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wunc.org">[WUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wunc.org</span><span class="citation-popover-title">Are UFOs real? Historical markers say yes &#124; WUNC News</span><span class="citation-popover-snippet">Are UFOs real? Historical markers say yes &#124; WUNC News</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-2-dark.svg" | relative_url }}" alt="Public Memory illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From embarrassment to annual celebration
 
-The public memory of Pascagoula has also moved from silence to celebration. City and local-event listings show that October anniversary events have encouraged alien costumes, family activities and downtown participation. A City of Pascagoula calendar entry for a 2021 “Close Encounter” event invited people to mark the anniversary of the Pascagoula abduction, with alien costumes encouraged and children’s activities available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cityofpascagoula.com/Calendar.aspx?EID=712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cityofpascagoula.com">[cityofpascagoula.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cityofpascagoula.com</span><span class="citation-popover-title">Calendar • Third Friday</span><span class="citation-popover-snippet">Calendar • Third Friday</span></span></span>
+The public memory of Pascagoula has also moved from silence to celebration. City and local-event listings show that October anniversary events have encouraged alien costumes, family activities and downtown participation. A City of Pascagoula calendar entry for a 2021 “Close Encounter” event invited people to mark the anniversary of the Pascagoula abduction, with alien costumes encouraged and children’s activities available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cityofpascagoula.com/Calendar.aspx?EID=712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cityofpascagoula.com">[cityofpascagoula.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cityofpascagoula.com</span><span class="citation-popover-title">Calendar • Third Friday</span><span class="citation-popover-snippet">Calendar • Third Friday</span></span></span>
 
-By the 50th anniversary in 2023, that commemorative style had become more explicit. Local coverage described an anniversary event in downtown Pascagoula, and WLOX reported that Main Street Pascagoula helped organise an annual community celebration of the story every October. This is how folklore becomes civic programming: not by resolving the claim, but by making it part of the city’s seasonal calendar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.supertalk.fm/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supertalk.fm">[SuperTalk Mississippi Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supertalk.fm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+By the 50th anniversary in 2023, that commemorative style had become more explicit. Local coverage described an anniversary event in downtown Pascagoula, and WLOX reported that Main Street Pascagoula helped organise an annual community celebration of the story every October. This is how folklore becomes civic programming: not by resolving the claim, but by making it part of the city’s seasonal calendar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.supertalk.fm/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: supertalk.fm">[SuperTalk Mississippi Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">supertalk.fm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The city’s own newsletter after the 51st anniversary described Goula Palooza as having celebrated the UFO abduction in downtown Pascagoula with live music, activities, vendors and food. That language shows how the story now functions beyond UFO investigation. It supports downtown foot traffic, local branding and a shared ritual in which belief is not required for participation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cityofpascagoula.com/CivicSend/ViewMessage/Message/244983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cityofpascagoula.com">[cityofpascagoula.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cityofpascagoula.com</span><span class="citation-popover-snippet">Open source on cityofpascagoula.com.</span></span></span>
+The city’s own newsletter after the 51st anniversary described Goula Palooza as having celebrated the UFO abduction in downtown Pascagoula with live music, activities, vendors and food. That language shows how the story now functions beyond UFO investigation. It supports downtown foot traffic, local branding and a shared ritual in which belief is not required for participation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cityofpascagoula.com/CivicSend/ViewMessage/Message/244983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cityofpascagoula.com">[cityofpascagoula.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cityofpascagoula.com</span><span class="citation-popover-snippet">Open source on cityofpascagoula.com.</span></span></span>
 
-This does not mean the whole city treats the claim lightly. In local anniversary interviews, some residents sounded sceptical, some open-minded and some convinced that “something happened”. That range is part of the case’s durability. Pascagoula’s memory is not a single official doctrine; it is a layered local conversation that allows curiosity, doubt, humour, sympathy and civic pride to coexist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+This does not mean the whole city treats the claim lightly. In local anniversary interviews, some residents sounded sceptical, some open-minded and some convinced that “something happened”. That range is part of the case’s durability. Pascagoula’s memory is not a single official doctrine; it is a layered local conversation that allows curiosity, doubt, humour, sympathy and civic pride to coexist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oiVA5-2RQ7k" title="“The Pascagoula UFO Abduction: Fact, Fear, or Fiction?” (Jerry Skinner Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oiVA5-2RQ7k" target="_blank" rel="noopener noreferrer">“The Pascagoula UFO Abduction: Fact, Fear, or Fiction?” (Jerry Skinner Documentary)</a></p><p class="youtube-embed-meta">Channel: Jerry Skinner &middot; Views: 2.7K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oiVA5-2RQ7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oiVA5-2RQ7k">Open on YouTube</a></p></div></div></div>
 
 ## What the media legacy strengthens — and what it cannot prove
 
-The media legacy strengthens the importance of the Pascagoula case in Mississippi history. It shows that the 1973 report was not an isolated rumour, that named witnesses carried the story for decades, that local law enforcement and journalists took enough interest to create a record, and that the city later chose to commemorate the claim in public space. Those facts explain why Pascagoula is the state’s defining UFO landmark. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The media legacy strengthens the importance of the Pascagoula case in Mississippi history. It shows that the 1973 report was not an isolated rumour, that named witnesses carried the story for decades, that local law enforcement and journalists took enough interest to create a record, and that the city later chose to commemorate the claim in public space. Those facts explain why Pascagoula is the state’s defining UFO landmark.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-But public memory is not the same as physical evidence. A marker, a documentary, an anniversary event or a moving interview can preserve a claim without proving the extraordinary part of it. Sceptical readings remain part of the record, including arguments that the story contains discrepancies, may have grown through retelling, or could be explained through psychological and social factors rather than extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+But public memory is not the same as physical evidence. A marker, a documentary, an anniversary event or a moving interview can preserve a claim without proving the extraordinary part of it. Sceptical readings remain part of the record, including arguments that the story contains discrepancies, may have grown through retelling, or could be explained through psychological and social factors rather than extraterrestrial contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That distinction is the fairest way to understand Pascagoula today. The case is culturally strong and evidentially disputed. Its public legacy has grown because it offers a memorable combination of place, witnesses, police response, media attention, family pain, local embarrassment, later acceptance and civic storytelling. For Mississippi’s UFO history, Pascagoula matters not because everyone agrees what happened, but because the state has kept returning to the question in newspapers, books, television, plaques and festivals for more than half a century.
 
 <img src="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-3-dark.svg" | relative_url }}" alt="Public Memory illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_memory_f91e6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Pascagoula Became a UFO Landmark. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Pascagoula Became a UFO Landmark. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broader historical context for enduring UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader historical context for enduring UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Illustrates how encounter stories become lasting cultural landmarks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how encounter stories become lasting cultural landmarks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula+by+Charles+Hickson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Contact at Pascagoula on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula+by+Charles+Hickson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Contact at Pascagoula">UFO Contact at Pascagoula</a>
-        </h4>
-        <p class="fr-book-author">By Charles Hickson, William Mendez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula+by+Charles+Hickson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Contact at Pascagoula on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula+by+Charles+Hickson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Contact at Pascagoula">UFO Contact at Pascagoula</a>
+</h4>
+<p class="fr-book-author">By Charles Hickson, William Mendez</p>
         
-        <p class="fr-book-desc">Shows how the story entered UFO culture and publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula+by+Charles+Hickson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how the story entered UFO culture and publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula+by+Charles+Hickson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Pascagoula-The+Closest+Encounter+by+Calvin+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pascagoula-The Closest Encounter on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pascagoula-The+Closest+Encounter+by+Calvin+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pascagoula-The Closest Encounter">Pascagoula-The Closest Encounter</a>
-        </h4>
-        <p class="fr-book-author">By Calvin Parker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Pascagoula-The+Closest+Encounter+by+Calvin+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pascagoula-The Closest Encounter on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pascagoula-The+Closest+Encounter+by+Calvin+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pascagoula-The Closest Encounter">Pascagoula-The Closest Encounter</a>
+</h4>
+<p class="fr-book-author">By Calvin Parker</p>
         
-        <p class="fr-book-desc">Central to the continuing public memory of Pascagoula.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pascagoula-The+Closest+Encounter+by+Calvin+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central to the continuing public memory of Pascagoula.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pascagoula-The+Closest+Encounter+by+Calvin+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Contact at Pascagoula</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Contact+at+Pascagoula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Contact at Pascagoula</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pascagoula-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ That distinction is the fairest way to understand Pascagoula today. The case is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ That distinction is the fairest way to understand Pascagoula today. The case is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ That distinction is the fairest way to understand Pascagoula today. The case is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ That distinction is the fairest way to understand Pascagoula today. The case is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ That distinction is the fairest way to understand Pascagoula today. The case is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,142 +716,142 @@ That distinction is the fairest way to understand Pascagoula today. The case is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aquila.usm.edu  
    Title: honors theses  
-   Link: <a href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/honors_theses/988/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</p></details>
+   Link:<a href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/honors_theses/988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wlox.com  
    Title: historical marker unveiled honoring possible alien abduction pascagoula  
-   Link: <a href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/</a>  
+   Link:<a href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wunc.org  
    Title: Are UFOs real? Historical markers say yes | WUNC News  
-   Link: <a href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow">https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes</a>  
+   Link:<a href="https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes" target="_blank" rel="noopener noreferrer nofollow">https://www.wunc.org/2024-09-27/are-ufos-real-historical-markers-say-yes</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/</a>  
+   Link:<a href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wlox.com  
    Title: pascagoula holds viewing party netflix documentary 1973 ufo sighting  
-   Link: <a href="https://www.wlox.com/2024/04/20/pascagoula-holds-viewing-party-netflix-documentary-1973-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2024/04/20/pascagoula-holds-viewing-party-netflix-documentary-1973-ufo-sighting/</a>  
+   Link:<a href="https://www.wlox.com/2024/04/20/pascagoula-holds-viewing-party-netflix-documentary-1973-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2024/04/20/pascagoula-holds-viewing-party-netflix-documentary-1973-ufo-sighting/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wlox.com  
    Title: calvin parker who claimed he was abducted by aliens pascagoula 1973 has died  
-   Link: <a href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/</a>  
+   Link:<a href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cityofpascagoula.com  
    Title: Calendar • Third Friday  
-   Link: <a href="https://cityofpascagoula.com/Calendar.aspx?EID=712" target="_blank" rel="noopener noreferrer nofollow">https://cityofpascagoula.com/Calendar.aspx?EID=712</a>  
+   Link:<a href="https://cityofpascagoula.com/Calendar.aspx?EID=712" target="_blank" rel="noopener noreferrer nofollow">https://cityofpascagoula.com/Calendar.aspx?EID=712</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: supertalk.fm  
-   Link: <a href="https://www.supertalk.fm/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.supertalk.fm/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/</a>  
+   Link:<a href="https://www.supertalk.fm/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.supertalk.fm/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cityofpascagoula.com  
-   Link: <a href="https://cityofpascagoula.com/CivicSend/ViewMessage/Message/244983" target="_blank" rel="noopener noreferrer nofollow">https://cityofpascagoula.com/CivicSend/ViewMessage/Message/244983</a>  
+   Link:<a href="https://cityofpascagoula.com/CivicSend/ViewMessage/Message/244983" target="_blank" rel="noopener noreferrer nofollow">https://cityofpascagoula.com/CivicSend/ViewMessage/Message/244983</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aquila.usm.edu  
-   Link: <a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses</a>  
+   Link:<a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aquila.usm.edu  
    Title: masscomm honors  
-   Link: <a href="https://aquila.usm.edu/masscomm_honors/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/masscomm_honors/</a>  
+   Link:<a href="https://aquila.usm.edu/masscomm_honors/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/masscomm_honors/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Abducción de Pascagoula  
-   Link: <a href="https://es.wikipedia.org/wiki/Abducci%C3%B3n_de_Pascagoula" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Abducci%C3%B3n_de_Pascagoula</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Abducci%C3%B3n_de_Pascagoula" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Abducci%C3%B3n_de_Pascagoula</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/</a>  
+   Link:<a href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mississippifreepress.org  
    Title: man says 1973 ufo incident turned life upside down  
-   Link: <a href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow">https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/</a>  
+   Link:<a href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow">https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cbsnews.com  
    Title: man who says he was abducted by aliens breaks 45 year silence  
-   Link: <a href="https://www.cbsnews.com/minnesota/news/man-who-says-he-was-abducted-by-aliens-breaks-45-year-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/man-who-says-he-was-abducted-by-aliens-breaks-45-year-silence/</a>  
+   Link:<a href="https://www.cbsnews.com/minnesota/news/man-who-says-he-was-abducted-by-aliens-breaks-45-year-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/man-who-says-he-was-abducted-by-aliens-breaks-45-year-silence/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NyjhgoZJvJw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NyjhgoZJvJw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NyjhgoZJvJw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NyjhgoZJvJw</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: libguides.hindscc.edu  
    Title: pascagoula abduction  
-   Link: <a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
+   Link:<a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: audible.co.uk  
-   Link: <a href="https://www.audible.co.uk/pd/Pascagoula-The-Closest-Encounter-Audiobook/1977335608" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/pd/Pascagoula-The-Closest-Encounter-Audiobook/1977335608</a>  
+   Link:<a href="https://www.audible.co.uk/pd/Pascagoula-The-Closest-Encounter-Audiobook/1977335608" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/pd/Pascagoula-The-Closest-Encounter-Audiobook/1977335608</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oiVA5-2RQ7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oiVA5-2RQ7k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oiVA5-2RQ7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oiVA5-2RQ7k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Pascagoula man recalls the time he was abducted by aliens  
-   Link: <a href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nDFMB4r6W9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Pascagoula UFO Abduction: Fact, Fear, or Fiction?” (Jerry Skinner Documentary)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nDFMB4r6W9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The Pascagoula UFO Abduction: Fact, Fear, or Fiction?” (Jerry Skinner Documentary)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Pascagoula commemorates anniversary of alien abduction tale  
-   Link: <a href="https://www.youtube.com/watch?v=ADQtmdTQUhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADQtmdTQUhE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula man recalls the time he was abducted by aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ADQtmdTQUhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADQtmdTQUhE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula man recalls the time he was abducted by aliens...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPEp2akD74l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPEp2akD74l/</a>  
+   Link:<a href="https://www.instagram.com/p/DPEp2akD74l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPEp2akD74l/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/</a>  
+   Link:<a href="https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4</a>  
+   Link:<a href="https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>
+   Link:<a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>

@@ -268,20 +268,20 @@ image: /assets/images/New_Jersey_18255a_morristown_hoax_d28df9-overview-social.j
 
 ## Introduction
 
-The Morristown UFO hoax is one of New Jersey’s clearest lessons in how a sincere-looking sky mystery can be built from ordinary materials, confident witnesses and rapid media attention. In January and February 2009, red lights appeared over Morris County, including Morristown, Hanover, Morris Plains, Madison and Florham Park. Residents called 911, news crews covered the sightings, and some UFO commentators treated the lights as difficult to explain. On 1 April 2009, Chris Russo and Joe Rudy revealed that they had staged the events with flares tied to helium balloons, documenting the launches and presenting the hoax as a test of public and investigator gullibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
+The Morristown UFO hoax is one of New Jersey’s clearest lessons in how a sincere-looking sky mystery can be built from ordinary materials, confident witnesses and rapid media attention. In January and February 2009, red lights appeared over Morris County, including Morristown, Hanover, Morris Plains, Madison and Florham Park. Residents called 911, news crews covered the sightings, and some UFO commentators treated the lights as difficult to explain. On 1 April 2009, Chris Russo and Joe Rudy revealed that they had staged the events with flares tied to helium balloons, documenting the launches and presenting the hoax as a test of public and investigator gullibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-overview.webp" | relative_url }}" alt="Overview image for Morristown" loading="eager" decoding="sync" fetchpriority="high">
 The case matters in New Jersey UFO history because it is not ambiguous in the usual way. Many famous sightings remain disputed because records are incomplete, witnesses disagree, or physical evidence is missing. Morristown is different: the explanation came with perpetrators, method, video documentation, legal consequences and a long afterlife in local memory. That makes it less a mystery than a warning. It shows that eyewitness certainty, video clips, pilot testimony and national coverage can all feel persuasive before the underlying cause is known.
 
 ## How the red lights spread across Morris County
 
-The first major sighting took place on 5 January 2009, when residents saw a group of red lights over the Morristown area. Reports later connected the phenomenon with several Morris County communities, including Hanover Township, Morristown, Morris Plains, Madison and Florham Park. The lights were not just a one-night curiosity: accounts describe further appearances on 26 January, 29 January, 7 February and 17 February, turning a single odd evening into a recurring local story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
+The first major sighting took place on 5 January 2009, when residents saw a group of red lights over the Morristown area. Reports later connected the phenomenon with several Morris County communities, including Hanover Township, Morristown, Morris Plains, Madison and Florham Park. The lights were not just a one-night curiosity: accounts describe further appearances on 26 January, 29 January, 7 February and 17 February, turning a single odd evening into a recurring local story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
 
-The set-up was simple. Russo and Rudy used flares, fishing line and helium balloons, releasing the lights so that they drifted in formation across the night sky. Newsweek’s account, based on the perpetrators’ own reveal, described five flares tied to five three-foot helium balloons and launched from a field on 5 January, with the balloons released in short intervals while the men filmed the result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
+The set-up was simple. Russo and Rudy used flares, fishing line and helium balloons, releasing the lights so that they drifted in formation across the night sky. Newsweek’s account, based on the perpetrators’ own reveal, described five flares tied to five three-foot helium balloons and launched from a field on 5 January, with the balloons released in short intervals while the men filmed the result.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
 
 That simplicity is part of the case’s value. A viewer on the ground did not see “flares tied to balloons”; they saw red lights moving in darkness, at an uncertain distance, with few stable reference points. At night, small nearby objects can look like larger distant ones. If several lights drift together, the human eye may read them as a single formation rather than as separate objects. If the objects move slowly and silently, the absence of familiar aircraft noise can make the sighting feel more anomalous, not less.
 
-The sighting also had a social geography. Morris County is densely populated enough for many people to notice something unusual, but it also has enough open sky, roads, suburban neighbourhoods and airport-related awareness for an aerial report to spread quickly. According to later summaries, Hanover police received the first of many 911 calls, people stopped to watch, and local and national media followed the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">morristown ufo hoax meet duo behind 2009 experiment</span></span></span>
+The sighting also had a social geography. Morris County is densely populated enough for many people to notice something unusual, but it also has enough open sky, roads, suburban neighbourhoods and airport-related awareness for an aerial report to spread quickly. According to later summaries, Hanover police received the first of many 911 calls, people stopped to watch, and local and national media followed the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">morristown ufo hoax meet duo behind 2009 experiment</span></span></span>
 
 The 17 February reports appear to have widened the sense of concern. Contemporary summaries describe numerous calls across Morris County, with attention from airport and public-safety officials because of possible aviation implications. Even when no crash, landing, radar confirmation or physical trace emerged, the repetition of the lights helped create a feeling that something organised was happening.
 
@@ -294,32 +294,32 @@ First, there were multiple witnesses. That matters, but it does not automaticall
 
 Second, there was video. Video can be useful, but night-sky footage often records only bright points against darkness. Without reliable distance, altitude, wind data, camera orientation and timing, a clip may preserve the puzzle rather than solve it. The Morristown footage was compelling enough to circulate widely, yet it did not prevent the mundane explanation from being true.
 
-Third, some witnesses sounded credible. Newsweek noted that media coverage featured Paul Hurley, a pilot, and his family, because pilot witnesses tend to be treated as especially believable in UFO reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span> That instinct is understandable: pilots know aircraft better than most people. But expertise is domain-specific. A pilot’s experience can help rule out certain aircraft behaviours, but it does not make a brief night-time observation immune to distance errors, formation illusions, unfamiliar balloon movement or the emotional effect of seeing something unexpected.
+Third, some witnesses sounded credible. Newsweek noted that media coverage featured Paul Hurley, a pilot, and his family, because pilot witnesses tend to be treated as especially believable in UFO reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span> That instinct is understandable: pilots know aircraft better than most people. But expertise is domain-specific. A pilot’s experience can help rule out certain aircraft behaviours, but it does not make a brief night-time observation immune to distance errors, formation illusions, unfamiliar balloon movement or the emotional effect of seeing something unexpected.
 
 Fourth, the case gained authority through repetition. Once an event is covered on television, discussed on UFO websites and revisited in follow-up sightings, it starts to feel documented. Yet “documented” is not the same as “correctly interpreted”. Morristown shows how a weak explanation can become socially reinforced before better information arrives.
 
-The hoaxers also did more than release lights. ABC11’s 2009 report said the men documented their actions and, after launching the balloons, called news media to report a UFO sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span></span></span> That step matters because it blurred the line between passive public reaction and active narrative-building. The case was not merely a test of how people interpret lights; it was a test of how a report can be seeded, repeated and amplified.
+The hoaxers also did more than release lights. ABC11’s 2009 report said the men documented their actions and, after launching the balloons, called news media to report a UFO sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span></span></span> That step matters because it blurred the line between passive public reaction and active narrative-building. The case was not merely a test of how people interpret lights; it was a test of how a report can be seeded, repeated and amplified.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nq3cUSl1QEg" title="How We Staged the Morristown UFO Hoax, Part 1: The Setup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer">How We Staged the Morristown UFO Hoax, Part 1: The Setup</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 9.1K &middot; Uploaded: April 2011 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nq3cUSl1QEg">Open on YouTube</a></p></div></div></div>
 
 ## The confession, fines and public reaction
 
-The public reveal came on 1 April 2009, when Russo and Rudy announced through a Skeptic Magazine article that the sightings had been staged. Newsweek reported the reveal the same day and quoted the stated purpose: to show the unreliability of eyewitness accounts and UFO investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
+The public reveal came on 1 April 2009, when Russo and Rudy announced through a Skeptic Magazine article that the sightings had been staged. Newsweek reported the reveal the same day and quoted the stated purpose: to show the unreliability of eyewitness accounts and UFO investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
 
-The date made the revelation feel like a prank layered on top of a prank, but the consequences were real. ABC11 reported that Morris County Prosecutor Robert A. Bianchi said the pair would be charged with disorderly conduct. The same report noted concerns about public disturbance, 911 calls, and possible aviation issues because the balloons were in the flight path of planes at Morristown Airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span></span></span> Patch later summarised the outcome: six days after the reveal, the men pleaded guilty to disorderly conduct and were each sentenced to a $250 fine and 50 hours of community service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">remembering ufo hoax morris county</span></span></span>
+The date made the revelation feel like a prank layered on top of a prank, but the consequences were real. ABC11 reported that Morris County Prosecutor Robert A. Bianchi said the pair would be charged with disorderly conduct. The same report noted concerns about public disturbance, 911 calls, and possible aviation issues because the balloons were in the flight path of planes at Morristown Airport.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span></span></span> Patch later summarised the outcome: six days after the reveal, the men pleaded guilty to disorderly conduct and were each sentenced to a $250 fine and 50 hours of community service.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">remembering ufo hoax morris county</span></span></span>
 
 Public reaction was mixed for good reason. As a sceptical demonstration, the hoax was effective. It showed that people can be fooled by a low-cost night-sky display, that confident interpretations can be wrong, and that some media coverage can move faster than verification. As a public act, however, it was ethically questionable. It used emergency calls, public attention and possible aviation concern as part of the experiment. A lesson about gullibility came with real costs to people who had to assess whether the lights posed a danger.
 
-The hoaxers themselves later acknowledged that the method had flaws. In a 2021 Patch interview, Russo said they should not have inserted themselves into the event, even while describing it as a social experiment rather than a scientific one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">morristown ufo hoax meet duo behind 2009 experiment</span></span></span> That distinction is important. Morristown was not a controlled study, and it should not be treated as formal proof that all UFO witnesses are unreliable. It was a vivid demonstration of a narrower point: under the right conditions, ordinary observers and some self-styled experts can become confident about a false interpretation.
+The hoaxers themselves later acknowledged that the method had flaws. In a 2021 Patch interview, Russo said they should not have inserted themselves into the event, even while describing it as a social experiment rather than a scientific one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">morristown ufo hoax meet duo behind 2009 experiment</span></span></span> That distinction is important. Morristown was not a controlled study, and it should not be treated as formal proof that all UFO witnesses are unreliable. It was a vivid demonstration of a narrower point: under the right conditions, ordinary observers and some self-styled experts can become confident about a false interpretation.
 
-The case also produced a predictable backlash from believers. Patch reported that, more than a decade later, some people still claimed Russo and Rudy were government agents or paid actors rather than the source of the hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">remembering ufo hoax morris county</span></span></span> That reaction is revealing. Once a UFO story becomes part of someone’s worldview, even a confession and documented method may be reinterpreted as another layer of concealment.
+The case also produced a predictable backlash from believers. Patch reported that, more than a decade later, some people still claimed Russo and Rudy were government agents or paid actors rather than the source of the hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">remembering ufo hoax morris county</span></span></span> That reaction is revealing. Once a UFO story becomes part of someone’s worldview, even a confession and documented method may be reinterpreted as another layer of concealment.
 
 <img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-dark.svg" | relative_url }}" alt="Morristown illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the hoax reveals about eyewitness certainty
 
 The Morristown case is often summarised as “eyewitnesses were wrong”, but the better lesson is more precise. Witnesses were not necessarily lying, foolish or careless. Many probably reported honestly what they saw. The problem was the jump from “I saw strange red lights” to “these could not have been flares, balloons or anything ordinary”.
 
-Eyewitness certainty can be powerful because it feels internal: a person knows what they experienced. But certainty is not the same as accuracy, especially when the event is brief, distant, dark, emotionally surprising and lacking familiar reference points. In eyewitness research, confidence is not worthless, but it depends heavily on timing and conditions. The Association for Psychological Science summarised work by John Wixted and Gary Wells by noting that confidence is most informative when recorded at the first identification, before later influences such as repeated questioning, feedback or discussion can affect memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Eyewitness certainty can be powerful because it feels internal: a person knows what they experienced. But certainty is not the same as accuracy, especially when the event is brief, distant, dark, emotionally surprising and lacking familiar reference points. In eyewitness research, confidence is not worthless, but it depends heavily on timing and conditions. The Association for Psychological Science summarised work by John Wixted and Gary Wells by noting that confidence is most informative when recorded at the first identification, before later influences such as repeated questioning, feedback or discussion can affect memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Morristown was not a criminal line-up, but the same caution applies. A witness who talks to neighbours, watches news reports, sees online speculation and hears “expert” commentary may become more confident in a story that has been socially reinforced. That confidence can grow even if the original observation was ambiguous.
 
@@ -361,269 +361,269 @@ That is why Morristown remains one of the state’s most important explained UFO
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YOtr9yzUlRM" title="How We Staged the Morristown UFO Hoax, Part 2: The Launches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer">How We Staged the Morristown UFO Hoax, Part 2: The Launches</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 9.0K &middot; Uploaded: April 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YOtr9yzUlRM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Morristown Hoax Teaches About UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Morristown Hoax Teaches About UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly explores how UFO stories spread through media and public belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how UFO stories spread through media and public belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding official investigations and public UFO waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding official investigations and public UFO waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Provides context for how major UFO narratives develop and persist despite controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how major UFO narratives develop and persist despite controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
-        </h4>
-        <p class="fr-book-author">By Harley D. Rutledge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
+</h4>
+<p class="fr-book-author">By Harley D. Rutledge</p>
         
-        <p class="fr-book-desc">Focuses on investigation methods and observational reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation methods and observational reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morristown-what-the-morristown-hoax-teaches-about-ufos-new-jersey-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ That is why Morristown remains one of the state’s most important explained UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ That is why Morristown remains one of the state’s most important explained UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ That is why Morristown remains one of the state’s most important explained UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ That is why Morristown remains one of the state’s most important explained UFO
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -779,102 +779,102 @@ That is why Morristown remains one of the state’s most important explained UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsweek.com  
    Title: great ufo hoax 2009 221750  
-   Link: <a href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/great-ufo-hoax-2009-221750</a>  
+   Link:<a href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/great-ufo-hoax-2009-221750</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: patch.com  
    Title: morristown ufo hoax meet duo behind 2009 experiment  
-   Link: <a href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment</a>  
+   Link:<a href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Morristown UFO hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: abc11.com  
    Title: Raleigh-Durham Pair charged in UFO hoax | ABC11 Raleigh-Durham | abc11.com  
-   Link: <a href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/archive/6742325/</a>  
+   Link:<a href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/archive/6742325/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: patch.com  
    Title: remembering ufo hoax morris county  
-   Link: <a href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county</a>  
+   Link:<a href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Engaño ovni de Morristown  
-   Link: <a href="https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: William J. Birnes  
-   Link: <a href="https://en.wikipedia.org/wiki/William_J._Birnes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William_J._Birnes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/William_J._Birnes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William_J._Birnes</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
+   Link:<a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a4j0bV4jOHk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a4j0bV4jOHk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=a4j0bV4jOHk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a4j0bV4jOHk</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/44653380" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44653380</a>  
+   Link:<a href="https://www.jstor.org/stable/44653380" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44653380</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: roswellufomuseum.com  
    Title: morristown ufo hoax  
-   Link: <a href="https://www.roswellufomuseum.com/post/morristown-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/post/morristown-ufo-hoax</a>  
+   Link:<a href="https://www.roswellufomuseum.com/post/morristown-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/post/morristown-ufo-hoax</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 2: The Launches  
-   Link: <a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YOtr9yzUlRM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 3: The Reactions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YOtr9yzUlRM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 3: The Reactions...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 1: The Setup  
-   Link: <a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nq3cUSl1QEg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 2: The Launches...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nq3cUSl1QEg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 2: The Launches...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 3: The Reactions  
-   Link: <a href="https://www.youtube.com/watch?v=r6KpjxwZYpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r6KpjxwZYpk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r6KpjxwZYpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r6KpjxwZYpk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kevinrandle.blogspot.com  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/DaniLavelle/status/2054667217699246349" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DaniLavelle/status/2054667217699246349</a>  
+   Link:<a href="https://x.com/DaniLavelle/status/2054667217699246349" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DaniLavelle/status/2054667217699246349</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: njspotlightnews.org  
-   Link: <a href="https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/" target="_blank" rel="noopener noreferrer nofollow">https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/</a>  
+   Link:<a href="https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/" target="_blank" rel="noopener noreferrer nofollow">https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/6742325/</a>  
+   Link:<a href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/6742325/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf</a>  
+   Link:<a href="https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: judicature.duke.edu  
-   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>
+   Link:<a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>

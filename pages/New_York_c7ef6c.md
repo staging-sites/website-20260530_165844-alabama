@@ -76,9 +76,9 @@ heading_title: What Really Happened in New York's UFO Skies?
 page_heading_title: What Really Happened in New York's UFO Skies?
 source_count: 79
 infographic_count: 3
-page_website_name: New York UFOs
+page_website_name: New York
 page_banner_line: Balanced guides to New York sightings, folklore, records, and explanations.
-site_website_name: New York UFOs
+site_website_name: New York
 site_banner_line: Balanced guides to New York sightings, folklore, records, and explanations.
 site_image_description: A night view over the Hudson River with distant town lights, a dark ridgeline, and a V-shaped cluster of coloured lights in the sky.
 output_language: English
@@ -479,47 +479,47 @@ image: /assets/images/New_York_c7ef6c-overview-social.jpg
 
 ## Introduction
 
-The clearest centre of gravity is the [Hudson Valley wave]({{ 'hudson-wave/' | relative_url }}) of the 1980s, especially the “Westchester [Boomerang]({{ 'boomerang/' | relative_url }})”, when hundreds of people reported a huge, silent, V-shaped or boomerang-like object with coloured lights. Later explanations pointed strongly towards small aircraft flying in formation from local airports, yet not all witnesses accepted that answer, and the story became one of the most famous state-level UFO episodes in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
+The clearest centre of gravity is the [Hudson Valley wave]({{ 'hudson-wave/' | relative_url }}) of the 1980s, especially the “Westchester [Boomerang]({{ 'boomerang/' | relative_url }})”, when hundreds of people reported a huge, silent, V-shaped or boomerang-like object with coloured lights. Later explanations pointed strongly towards small aircraft flying in formation from local airports, yet not all witnesses accepted that answer, and the story became one of the most famous state-level UFO episodes in the United States.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
 
 <img src="{{ "/assets/images/New_York_c7ef6c-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in New York&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why New York became a major UFO state
 
 New York has several features that make UFO reports more likely to cluster and endure. It has dense urban skies, busy airports, military and coastguard traffic, long river corridors, dark rural viewing areas, and highly active local media. A light seen over Manhattan, the Hudson River, the Adirondacks, Long Island, or the Catskills may have very different likely explanations, but all can end up in the same public category of “UFO” if the observer cannot identify it at the time.
 
-The National UFO Reporting Center, a civilian database rather than an official verification body, lists New York as one of the most report-heavy US states, with 6,350 reports in its state index when accessed during this research pass. That number is useful as a measure of reporting volume, not proof that thousands of extraordinary craft were present. NUFORC itself is a reporting archive: it preserves claims, dates, locations, shapes, summaries, and sometimes media or explanations, but the entries vary widely in evidential strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The National UFO Reporting Center, a civilian database rather than an official verification body, lists New York as one of the most report-heavy US states, with 6,350 reports in its state index when accessed during this research pass. That number is useful as a measure of reporting volume, not proof that thousands of extraordinary craft were present. NUFORC itself is a reporting archive: it preserves claims, dates, locations, shapes, summaries, and sometimes media or explanations, but the entries vary widely in evidential strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-New York also sits inside the longer US official history of UFO investigation. The US Air Force’s Project Blue Book ran from the late 1940s to 1969 and collected 12,618 sightings nationally, of which 701 remained “unidentified”. The Air Force’s own summary said it found no UFO report that indicated a threat to national security, no evidence of technology beyond known science, and no evidence that unidentified reports were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
+New York also sits inside the longer US official history of UFO investigation. The US Air Force’s Project Blue Book ran from the late 1940s to 1969 and collected 12,618 sightings nationally, of which 701 remained “unidentified”. The Air Force’s own summary said it found no UFO report that indicated a threat to national security, no evidence of technology beyond known science, and no evidence that unidentified reports were extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
 
 That official position does not make every witness wrong. It does, however, set a useful standard for reading New York cases: “unidentified” means not identified from the available information. It does not automatically mean alien, secret military technology, or a confirmed physical craft.
 
 ## The Hudson Valley wave: New York’s defining UFO episode
 
-The Hudson Valley sightings of the early and mid-1980s are the most important UFO story in New York because they combined volume, repeated geography, multiple witnesses, media attention, and a plausible but contested mundane explanation. Reports centred on Westchester, Putnam, Dutchess and nearby areas, with witnesses describing a large V-shaped, triangular, circular, or boomerang-like arrangement of lights moving slowly and silently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
+The Hudson Valley sightings of the early and mid-1980s are the most important UFO story in New York because they combined volume, repeated geography, multiple witnesses, media attention, and a plausible but contested mundane explanation. Reports centred on Westchester, Putnam, Dutchess and nearby areas, with witnesses describing a large V-shaped, triangular, circular, or boomerang-like arrangement of lights moving slowly and silently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
 
-A key date was 24 March 1983, when more than 300 reports were later associated with the Westchester Boomerang. Witnesses described a large, low, slow object carrying coloured lights. The Times Union’s retrospective account links the wider wave to more than 5,000 reports from the 1980s and 1990s, including police officers and other seemingly credible witnesses, although such totals depend on secondary compilations and should be treated as estimates rather than a verified census. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
+A key date was 24 March 1983, when more than 300 reports were later associated with the Westchester Boomerang. Witnesses described a large, low, slow object carrying coloured lights. The Times Union’s retrospective account links the wider wave to more than 5,000 reports from the 1980s and 1990s, including police officers and other seemingly credible witnesses, although such totals depend on secondary compilations and should be treated as estimates rather than a verified census.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
 
 The case has enduring power because the witness descriptions are vivid and broadly similar: a huge silent shape, lights in a structured pattern, low apparent altitude, and movement too slow or strange to seem like an ordinary aircraft. For ordinary observers, that combination can be genuinely alarming. A line of lights seen head-on can look like one solid object; engine sound may be masked by distance, wind, terrain, road noise, or expectation; and a formation turning slowly can appear to hover or rotate.
 
-The strongest sceptical explanation is that at least many sightings were small aircraft flying in tight formation. In the Unsolved Mysteries case archive, a police officer said the lights looked like aircraft once he listened for the drone, and an air traffic control specialist said a tight formation could appear from a tower as one large lighted object. That does not disprove every witness account, but it sharply weakens the claim that the entire wave requires an exotic explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span>
+The strongest sceptical explanation is that at least many sightings were small aircraft flying in tight formation. In the Unsolved Mysteries case archive, a police officer said the lights looked like aircraft once he listened for the drone, and an air traffic control specialist said a tight formation could appear from a tower as one large lighted object. That does not disprove every witness account, but it sharply weakens the claim that the entire wave requires an exotic explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span>
 
-The unresolved core is not simply “were there lights?” There clearly were. The better question is whether the most dramatic reports describe something beyond aircraft formations and misperception. UFO investigators such as Philip Imbrogno argued that some sightings pre-dated or differed from the alleged hoax flights, while sceptical interpreters argue that media attention, repeated expectation, and known aircraft activity can produce a flap in which multiple ordinary events are folded into one mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span>
+The unresolved core is not simply “were there lights?” There clearly were. The better question is whether the most dramatic reports describe something beyond aircraft formations and misperception. UFO investigators such as Philip Imbrogno argued that some sightings pre-dated or differed from the alleged hoax flights, while sceptical interpreters argue that media attention, repeated expectation, and known aircraft activity can produce a flap in which multiple ordinary events are folded into one mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span>
 
 <img src="{{ "/assets/images/New_York_c7ef6c-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in New York&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Indian Point and the nuclear-site claim
 
 The Indian Point nuclear power station reports are among the most eye-catching parts of the Hudson Valley story because they connect UFO claims with a sensitive facility. Accounts associated with UFO researchers claimed that security personnel saw a large object over or near the reactor complex in 1984, and that the event caused alarm among guards. Such claims matter because UFO reports near nuclear, military, or energy infrastructure are often treated more seriously than ordinary backyard sightings.
 
-The difficulty is documentation. Secondary accounts describe claims of guards, lights, and a hovering object, but official confirmation is much thinner than the story’s later reputation suggests. The broader Hudson Valley record includes references to Indian Point and nearby sightings, but sceptical summaries note that officials and aviation explanations pointed back towards aircraft activity, including small planes using the plant as a visible landmark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+The difficulty is documentation. Secondary accounts describe claims of guards, lights, and a hovering object, but official confirmation is much thinner than the story’s later reputation suggests. The broader Hudson Valley record includes references to Indian Point and nearby sightings, but sceptical summaries note that officials and aviation explanations pointed back towards aircraft activity, including small planes using the plant as a visible landmark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 A fair reading is that Indian Point should be treated as a disputed sub-case, not as a settled security breach by an unknown craft. It is important in New York UFO history because it shows how a local flap can gain extra force when linked to critical infrastructure. It is weaker as evidence because the surviving public record is heavily dependent on later witness retellings and UFO-investigator interpretation.
 
 ## Pine Bush: from sighting cluster to civic identity
 
-Pine Bush, in Orange County, is New York’s best-known UFO folklore town. It is often marketed as the “UFO Capital of the East Coast”, with local tourism, a [museum]({{ 'museum/' | relative_url }}), and an annual [UFO fair]({{ 'ufo-fair/' | relative_url }}). The area’s reputation is tied to the wider Hudson Valley wave but has taken on its own life through local accounts, skywatching culture, and public events. Haunted History Trail of New York State <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Pine Bush, in Orange County, is New York’s best-known UFO folklore town. It is often marketed as the “UFO Capital of the East Coast”, with local tourism, a [museum]({{ 'museum/' | relative_url }}), and an annual [UFO fair]({{ 'ufo-fair/' | relative_url }}). The area’s reputation is tied to the wider Hudson Valley wave but has taken on its own life through local accounts, skywatching culture, and public events. Haunted History Trail of New York State<span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Pine Bush UFO & Paranormal Museum and related tourism material present the hamlet as a place where unusual sightings have been reported since at least the 1960s. A New York State haunted-history tourism page describes Pine Bush as a destination for UFO enthusiasts and points visitors to the museum’s exhibits on Pine Bush and Hudson Valley mysteries. This is useful evidence for the town’s cultural role, but it is not the same as independent proof of the sightings themselves. Haunted History Trail of New York State <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Pine Bush UFO & Paranormal Museum and related tourism material present the hamlet as a place where unusual sightings have been reported since at least the 1960s. A New York State haunted-history tourism page describes Pine Bush as a destination for UFO enthusiasts and points visitors to the museum’s exhibits on Pine Bush and Hudson Valley mysteries. This is useful evidence for the town’s cultural role, but it is not the same as independent proof of the sightings themselves. Haunted History Trail of New York State<span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Pine Bush matters because it shows how UFO history can become local heritage. The annual UFO Fair mixes sincere paranormal interest, family entertainment, lectures, costumes, vendors, and civic branding. In 2026, Chronogram described the 15th annual fair as returning to Main Street, with the village leaning into decades of reported Hudson Valley sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chronogram.com">[Chronogram Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chronogram.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Pine Bush matters because it shows how UFO history can become local heritage. The annual UFO Fair mixes sincere paranormal interest, family entertainment, lectures, costumes, vendors, and civic branding. In 2026, Chronogram described the 15th annual fair as returning to Main Street, with the village leaning into decades of reported Hudson Valley sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chronogram.com">[Chronogram Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chronogram.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That cultural embrace cuts both ways. It keeps witness stories alive and gives residents a place to compare experiences. It can also blur the line between historical investigation, tourism, performance, and local mythmaking. A serious New York UFO page should therefore treat Pine Bush as both a sighting hotspot and a case study in how communities preserve and commercialise the unexplained.
 
@@ -529,28 +529,28 @@ That cultural embrace cuts both ways. It keeps witness stories alive and gives r
 
 New York City and Long Island produce a different kind of UFO record from the Hudson Valley. Here the sky is crowded with aircraft, helicopters, drones, satellites, advertising lights, reflections, weather effects, and harbour activity. The result is a high number of reports but often a lower chance of clean interpretation without radar, photographs, exact timing, flight-path data, or multiple independent witnesses.
 
-NUFORC’s New York state index includes many urban and aviation-adjacent reports. Examples include a 15 September 1995 New York City report in which a witness claimed many Staten Island ferry passengers saw a huge craft rise from the water, a 17 November 1995 FAA-sector entry involving reports from commercial jet crews of a bright fast light, and a 16 November 1996 New York City entry referring to news-media reports of Pakistani and TWA airliners near JFK seeing a fast object. These entries are notable because they involve public transport, aviation, or multiple-witness settings, but they remain database summaries rather than fully resolved investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+NUFORC’s New York state index includes many urban and aviation-adjacent reports. Examples include a 15 September 1995 New York City report in which a witness claimed many Staten Island ferry passengers saw a huge craft rise from the water, a 17 November 1995 FAA-sector entry involving reports from commercial jet crews of a bright fast light, and a 16 November 1996 New York City entry referring to news-media reports of Pakistani and TWA airliners near JFK seeing a fast object. These entries are notable because they involve public transport, aviation, or multiple-witness settings, but they remain database summaries rather than fully resolved investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The Federal Aviation Administration now has explicit procedures for UAP reports: air traffic personnel are told to inform the operations supervisor or controller-in-charge of any reported or observed UAP activity. That makes modern pilot or controller reports easier to route than older informal accounts, but it does not mean every report becomes publicly explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Federal Aviation Administration now has explicit procedures for UAP reports: air traffic personnel are told to inform the operations supervisor or controller-in-charge of any reported or observed UAP activity. That makes modern pilot or controller reports easier to route than older informal accounts, but it does not mean every report becomes publicly explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For New York readers, the practical lesson is simple: an airport-area UFO claim should be judged against known traffic first. New York has several major airports, busy approach routes, helicopters over the rivers, coastal patrol activity, and military or demonstration flights. A report becomes more interesting when it includes precise time, direction, altitude estimate, duration, independent observers, sensor data, and a clear reason why aircraft, drones, satellites, balloons, or celestial objects do not fit.
 
 ## Modern UAP reporting has changed the frame, not the evidence
 
-The language has shifted from “UFO” to “UAP”, meaning unidentified anomalous phenomena, especially in official settings. That change is meant to reduce stigma and focus on observation rather than alien implication. NASA’s 2023 independent study argued that better data, better collection methods, and reduced stigma are essential if UAP reports are to be studied scientifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">uap independent study team final report</span><span class="citation-popover-snippet">uap independent study team final report</span></span></span>
+The language has shifted from “UFO” to “UAP”, meaning unidentified anomalous phenomena, especially in official settings. That change is meant to reduce stigma and focus on observation rather than alien implication. NASA’s 2023 independent study argued that better data, better collection methods, and reduced stigma are essential if UAP reports are to be studied scientifically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">uap independent study team final report</span><span class="citation-popover-snippet">uap independent study team final report</span></span></span>
 
-The Pentagon’s All-domain Anomaly Resolution Office, known as AARO, now leads the US government’s UAP work using what it describes as a scientific, data-driven framework. AARO’s public site addresses common causes, reporting routes, and whether the Department of Defense has found evidence of extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Pentagon’s All-domain Anomaly Resolution Office, known as AARO, now leads the US government’s UAP work using what it describes as a scientific, data-driven framework. AARO’s public site addresses common causes, reporting routes, and whether the Department of Defense has found evidence of extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most important official caution is that recent government attention has not validated the alien interpretation. AARO’s historical review reported no evidence that any US government investigation, academic-sponsored research, or official review panel had confirmed a UAP sighting as extraterrestrial technology, and Reuters reported the same core conclusion when the 2024 Pentagon historical report was released. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+The most important official caution is that recent government attention has not validated the alien interpretation. AARO’s historical review reported no evidence that any US government investigation, academic-sponsored research, or official review panel had confirmed a UAP sighting as extraterrestrial technology, and Reuters reported the same core conclusion when the 2024 Pentagon historical report was released.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 This matters for New York because modern reporting can make old cases seem newly vindicated. In reality, today’s official interest mainly supports a narrower point: unusual aerial reports can have aviation, security, and data-quality importance even when there is no evidence of aliens. The Hudson Valley and Pine Bush stories are therefore worth revisiting with better standards, not with automatic belief.
 
 <img src="{{ "/assets/images/New_York_c7ef6c-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in New York&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The drone era and the New York–New Jersey lesson
 
-The late-2024 drone anxiety across the Northeast is a useful modern comparison for New York UFO history, even though the strongest concentration was in New Jersey. It showed how quickly repeated night-time lights, partial videos, social media, official caution, and public fear can create a regional mystery. The FAA said it slowed traffic at New York Stewart International Airport on 13 December 2024 because of multiple reported drone sightings near and over the airport, while noting that there were no safety impacts and operations resumed that night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The late-2024 drone anxiety across the Northeast is a useful modern comparison for New York UFO history, even though the strongest concentration was in New Jersey. It showed how quickly repeated night-time lights, partial videos, social media, official caution, and public fear can create a regional mystery. The FAA said it slowed traffic at New York Stewart International Airport on 13 December 2024 because of multiple reported drone sightings near and over the airport, while noting that there were no safety impacts and operations resumed that night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Federal and state officials later said many reported sightings in the wider episode were a mixture of lawful drones, aircraft, helicopters, and stars being mistaken for drones, while also warning the public not to point lasers or weapons at aircraft. That pattern is directly relevant to older New York UFO flaps: when people are primed to look for one kind of object, many different lights can be sorted into the same category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">drones new jersey fbi</span><span class="citation-popover-snippet">drones new jersey fbi</span></span></span>
+Federal and state officials later said many reported sightings in the wider episode were a mixture of lawful drones, aircraft, helicopters, and stars being mistaken for drones, while also warning the public not to point lasers or weapons at aircraft. That pattern is directly relevant to older New York UFO flaps: when people are primed to look for one kind of object, many different lights can be sorted into the same category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">drones new jersey fbi</span><span class="citation-popover-snippet">drones new jersey fbi</span></span></span>
 
 This does not mean every drone-era sighting was imaginary. It means mass reporting waves need careful sorting. The Hudson Valley case should be read the same way: some witnesses may have seen small aircraft, some may have seen ordinary aircraft under unusual viewing conditions, some may have seen unrelated lights, and a smaller residue may remain unexplained because the evidence is insufficient.
 
@@ -567,7 +567,7 @@ The best New York UFO cases are not necessarily the strangest-sounding ones. The
 
 **Fourth, is there physical or sensor evidence?** Video, radar, photographs, and air-traffic records can help, but only if the original data are available and clear. A fuzzy light on video rarely proves structure, size, distance, or speed.
 
-**Fifth, did later reporting strengthen or weaken the claim?** The Hudson Valley wave is a good example: later testimony kept the mystery alive, but later aircraft-formation explanations also weakened the most expansive versions of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span>
+**Fifth, did later reporting strengthen or weaken the claim?** The Hudson Valley wave is a good example: later testimony kept the mystery alive, but later aircraft-formation explanations also weakened the most expansive versions of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZTYhwwq4tc" title="The Creepy Missing F-89 Pilot - The Kinross UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer">The Creepy Missing F-89 Pilot - The Kinross UFO Incident</a></p><p class="youtube-embed-meta">Channel: Dark Docs &middot; Views: 1.3M &middot; Uploaded: February 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZTYhwwq4tc">Open on YouTube</a></p></div></div></div>
 
@@ -575,201 +575,201 @@ The best New York UFO cases are not necessarily the strangest-sounding ones. The
 
 New York’s UFO history is best understood as a spectrum. At one end are weak reports: single-witness lights, vague dates, no direction, no duration, no corroboration, and no effort to rule out ordinary causes. At the other end are historically important flaps, such as the Hudson Valley wave, where many witnesses saw something but the interpretation remains contested.
 
-The Hudson Valley case is not “solved” in the sense that every witness statement has been individually matched to a specific aircraft, but the aircraft-formation explanation is strong enough that the case should not be presented as clear evidence of non-human craft. Pine Bush is significant as folklore, local identity, and continuing witness culture, but its public reputation is stronger than its publicly available hard evidence. New York City and Long Island reports are plentiful, but their crowded skies demand extra caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span> Haunted History Trail of New York State <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Hudson Valley case is not “solved” in the sense that every witness statement has been individually matched to a specific aircraft, but the aircraft-formation explanation is strong enough that the case should not be presented as clear evidence of non-human craft. Pine Bush is significant as folklore, local identity, and continuing witness culture, but its public reputation is stronger than its publicly available hard evidence. New York City and Long Island reports are plentiful, but their crowded skies demand extra caution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span> Haunted History Trail of New York State<span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most honest conclusion is that New York is a major UFO state because it has produced memorable reports, dense reporting archives, and one of America’s most famous regional flaps. Its strongest cases raise worthwhile questions about perception, aviation, documentation, and public trust. They do not, on the available public evidence, prove extraterrestrial visitation.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syj1T11xFMA" title="Hudson Valley UFO Sightings, 1982 - 1986" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syj1T11xFMA" target="_blank" rel="noopener noreferrer">Hudson Valley UFO Sightings, 1982 - 1986</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 203.9K &middot; Uploaded: August 2019 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syj1T11xFMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syj1T11xFMA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syj1T11xFMA" title="Hudson Valley UFO Sightings," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syj1T11xFMA" target="_blank" rel="noopener noreferrer">Hudson Valley UFO Sightings,</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 203.9K &middot; Uploaded: August 2019 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syj1T11xFMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syj1T11xFMA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in New York&#x27;s UFO Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in New York&#x27;s UFO Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating New York sightings and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating New York sightings and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Places state UFO waves within wider American UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places state UFO waves within wider American UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines major UFO cases and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines major UFO cases and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
         
-        <p class="fr-book-desc">Covers the state&#x27;s most famous UFO wave in detail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the state&#x27;s most famous UFO wave in detail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch"><img src="https://i.ebayimg.com/images/g/KocAAOSw6cZk~3Sq/s-l225.jpg" alt="Listing image for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch"><img src="https://i.ebayimg.com/images/g/KocAAOSw6cZk~3Sq/s-l225.jpg" alt="Listing image for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="https://i.ebayimg.com/images/g/i9IAAOSwYHFfoEmJ/s-l225.jpg" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="https://i.ebayimg.com/images/g/i9IAAOSwYHFfoEmJ/s-l225.jpg" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport"><img src="https://i.ebayimg.com/images/g/cBsAAOSwJItehJhF/s-l225.jpg" alt="Listing image for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport"><img src="https://i.ebayimg.com/images/g/cBsAAOSwJItehJhF/s-l225.jpg" alt="Listing image for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-york-s-ufo-skies-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -785,7 +785,7 @@ The most honest conclusion is that New York is a major UFO state because it has 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -805,7 +805,7 @@ The most honest conclusion is that New York is a major UFO state because it has 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -837,7 +837,7 @@ The most honest conclusion is that New York is a major UFO state because it has 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -889,7 +889,7 @@ The most honest conclusion is that New York is a major UFO state because it has 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -934,7 +934,7 @@ The most honest conclusion is that New York is a major UFO state because it has 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -975,179 +975,179 @@ The most honest conclusion is that New York is a major UFO state because it has 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
-   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: chronogram.com  
-   Link: <a href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow">https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/</a>  
+   Link:<a href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow">https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
    Title: pentagon ufo report says most sightings ordinary objects phenomena 2024 03 08  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
+   Link:<a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pine</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNJ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNJ</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lNJ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNJ</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: history.com  
    Title: ufo fighter jet disappears over lake superior kinross incident  
-   Link: <a href="https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident</a>  
+   Link:<a href="https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Order/7340.2P_dtd_8-7-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7340.2P_dtd_8-7-25.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Order/7340.2P_dtd_8-7-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7340.2P_dtd_8-7-25.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: timesunion.com  
    Title: ufo sightings westchester pine bush mystery 19363246  
-   Link: <a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
+   Link:<a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hauntedhistorytrail.com  
-   Link: <a href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast</a>  
+   Link:<a href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
    Title: drones new jersey fbi  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Hudson River UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bernardklevickas.com  
-   Link: <a href="https://bernardklevickas.com/boomerang.html" target="_blank" rel="noopener noreferrer nofollow">https://bernardklevickas.com/boomerang.html</a>  
+   Link:<a href="https://bernardklevickas.com/boomerang.html" target="_blank" rel="noopener noreferrer nofollow">https://bernardklevickas.com/boomerang.html</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Pine Bush UFO Documentary "The Attraction of a Town"  
-   Link: <a href="https://www.youtube.com/watch?v=Oc7i2wE8twE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oc7i2wE8twE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Bush New York UFO documentary Pine Bush, New York: The UFO Capital of the East Coast Legends and Forgotten Places of the Northeast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oc7i2wE8twE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oc7i2wE8twE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Bush New York UFO documentary Pine Bush, New York: The UFO Capital of the East Coast Legends and Forgotten Places of the Northeast...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UFO Invasion in New York's Hudson Valley (Season 19) | History  
-   Link: <a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tmIQmUDVtY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Bush UFO Documentary &quot;The Attraction of a Town&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tmIQmUDVtY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pine Bush UFO Documentary &quot;The Attraction of a Town&quot;...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Brooklyn Bridge UFO | The Weirdest Story You'll Ever Hear  
-   Link: <a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4TQIiVlHYxY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life in Pine Bush: The UFO Capital of the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4TQIiVlHYxY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life in Pine Bush: The UFO Capital of the World...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=syj1T11xFMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syj1T11xFMA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=syj1T11xFMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syj1T11xFMA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: protectadks.org  
-   Link: <a href="https://www.protectadks.org/wp-content/uploads/2010/12/adkchronology012008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.protectadks.org/wp-content/uploads/2010/12/adkchronology012008.pdf</a>  
+   Link:<a href="https://www.protectadks.org/wp-content/uploads/2010/12/adkchronology012008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.protectadks.org/wp-content/uploads/2010/12/adkchronology012008.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DL0lcA1pL9t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL0lcA1pL9t/</a>  
+   Link:<a href="https://www.instagram.com/reel/DL0lcA1pL9t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL0lcA1pL9t/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=135539" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=135539</a>  
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=135539" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=135539</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: thephoenixlights.net  
-   Link: <a href="https://thephoenixlights.net/hudson-valley-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thephoenixlights.net/hudson-valley-uap/</a>  
+   Link:<a href="https://thephoenixlights.net/hudson-valley-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thephoenixlights.net/hudson-valley-uap/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/map-shows-states-with-the-most-ufo-sightings-11615222" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/map-shows-states-with-the-most-ufo-sightings-11615222</a>
+   Link:<a href="https://www.newsweek.com/map-shows-states-with-the-most-ufo-sightings-11615222" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/map-shows-states-with-the-most-ufo-sightings-11615222</a>

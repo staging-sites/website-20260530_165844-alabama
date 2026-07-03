@@ -76,9 +76,9 @@ heading_title: 'Connecticut UFOs: From Colonial Legends to Modern Mysteries'
 page_heading_title: 'Connecticut UFOs: From Colonial Legends to Modern Mysteries'
 source_count: 119
 infographic_count: 3
-page_website_name: Connecticut UFOs
+page_website_name: Connecticut
 page_banner_line: Exploring UFO sightings and mysterious sky events in Connecticut
-site_website_name: Connecticut UFOs
+site_website_name: Connecticut
 site_banner_line: Exploring UFO sightings and mysterious sky events in Connecticut
 site_image_description: A night sky over a Connecticut lake with glowing green lights streaking downward, reflecting in the water below.
 output_language: English
@@ -474,29 +474,29 @@ image: /assets/images/Connecticut_ec4da3-overview-social.jpg
 
 ## Why Connecticut’s UFO record feels older than the UFO age
 
-Long before “flying saucer” entered American language in 1947, Connecticut already had stories of strange things in the sky. The best example is the [Ghost Ship]({{ 'ghost-ship/' | relative_url }}) of New Haven. According to Connecticut History, English settlers in New Haven Colony later told of a lost vessel that seemed to reappear in the sky after a violent summer storm; versions of the story were recorded in print, including by Cotton Mather. This is not a UFO case in the modern sense. It is folklore, shaped by religious interpretation, weather anxiety and the dangers of early colonial trade. But it matters because it shows a recurring pattern in Connecticut sky stories: witnesses see something startling, the community interprets it through the ideas available at the time, and later generations retell the event through a new cultural lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span></span></span>
+Long before “flying saucer” entered American language in 1947, Connecticut already had stories of strange things in the sky. The best example is the [Ghost Ship]({{ 'ghost-ship/' | relative_url }}) of New Haven. According to Connecticut History, English settlers in New Haven Colony later told of a lost vessel that seemed to reappear in the sky after a violent summer storm; versions of the story were recorded in print, including by Cotton Mather. This is not a UFO case in the modern sense. It is folklore, shaped by religious interpretation, weather anxiety and the dangers of early colonial trade. But it matters because it shows a recurring pattern in Connecticut sky stories: witnesses see something startling, the community interprets it through the ideas available at the time, and later generations retell the event through a new cultural lens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3-overview.webp" | relative_url }}" alt="Overview image for Connecticut UFOs: From Colonial Legends to..." loading="eager" decoding="sync" fetchpriority="high">
-A similar pattern appears in the “great airship” reports of 1909 and 1910. Connecticut Magazine describes a Willimantic sighting on 7 January 1910, when an opera house manager and a police officer reported lights in the sky that seemed to resemble a chain of electric lights. These reports came amid a wider New England excitement after Wallace Tillinghast, a Worcester businessman, claimed to have invented a revolutionary flying machine. Later accounts suggest that Venus, fire balloons and hoaxes helped drive the wave. In other words, the “airship” flap was not just a set of isolated observations; it was a social episode in which expectation, press coverage and ordinary sky objects reinforced one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+A similar pattern appears in the “great airship” reports of 1909 and 1910. Connecticut Magazine describes a Willimantic sighting on 7 January 1910, when an opera house manager and a police officer reported lights in the sky that seemed to resemble a chain of electric lights. These reports came amid a wider New England excitement after Wallace Tillinghast, a Worcester businessman, claimed to have invented a revolutionary flying machine. Later accounts suggest that Venus, fire balloons and hoaxes helped drive the wave. In other words, the “airship” flap was not just a set of isolated observations; it was a social episode in which expectation, press coverage and ordinary sky objects reinforced one another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 That older history is useful because it keeps the modern reader grounded. Connecticut’s UFO record is not only a list of mysterious lights. It is also a record of how people interpret unfamiliar aerial events: first as portents or airships, later as flying saucers, then as UFOs, and now often as drones or UAP.
 
 ## The 1948 Hartford report: a small case with official-record value
 
-One of Connecticut’s more significant early cases appears in catalogues of Project Blue Book “unknowns”. Brad Sparks’ catalogue lists a 11 January 1948 incident near Hartford, in which USAF Captain Helton and co-pilot Pargoe, flying a transport plane, reportedly saw a fast-moving disc with a bluish centre and red edges diving at a 45-degree angle to the east. The case is brief in the available catalogue entry, but its value lies in the witness category: trained aircrew, a precise date, and its connection to the early official UFO-investigation era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+One of Connecticut’s more significant early cases appears in catalogues of Project Blue Book “unknowns”. Brad Sparks’ catalogue lists a 11 January 1948 incident near Hartford, in which USAF Captain Helton and co-pilot Pargoe, flying a transport plane, reportedly saw a fast-moving disc with a bluish centre and red edges diving at a 45-degree angle to the east. The case is brief in the available catalogue entry, but its value lies in the witness category: trained aircrew, a precise date, and its connection to the early official UFO-investigation era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
 That does not make the Hartford report proof of anything exotic. The surviving public summary is too thin to support strong claims about speed, distance, size or origin. Without richer radar data, photographs, multiple independent vantage points or a full case file easily accessible to readers, the safest assessment is “historically interesting but evidentially limited”. It belongs in Connecticut’s UFO history because it shows the state appearing early in the official American UFO record, not because it provides a decisive case for extraterrestrial technology.
 
-The broader Project Blue Book context also matters. The U.S. National Archives states that Project Blue Book was declassified, closed in 1969, and transferred to the National Archives; the Air Force fact sheet says 12,618 sightings were reported from 1947 to 1969, with 701 remaining “unidentified”. The same fact sheet says the Air Force found no evidence that unidentified cases represented extraterrestrial vehicles, technological developments beyond then-current scientific knowledge, or a threat to national security. That official conclusion should not be treated as a perfect scientific resolution of every case, but it is the strongest institutional baseline for interpreting Connecticut’s early official-record sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The broader Project Blue Book context also matters. The U.S. National Archives states that Project Blue Book was declassified, closed in 1969, and transferred to the National Archives; the Air Force fact sheet says 12,618 sightings were reported from 1947 to 1969, with 701 remaining “unidentified”. The same fact sheet says the Air Force found no evidence that unidentified cases represented extraterrestrial vehicles, technological developments beyond then-current scientific knowledge, or a threat to national security. That official conclusion should not be treated as a perfect scientific resolution of every case, but it is the strongest institutional baseline for interpreting Connecticut’s early official-record sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-dark.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fairfield County and the Hudson Valley “boomerang”
 
-The most famous UFO flap touching Connecticut is usually known as the Hudson Valley or Westchester Boomerang sightings. Although much of the story centres on New York, Connecticut’s Fairfield County formed part of the sighting region, especially western towns near the New York border such as Danbury, New Fairfield and Ridgefield. Connecticut Magazine summarises reports from 1983 and 1984 as involving large, silent V-shaped or circular objects, outlined by white, red or green lights, with sightings reported across western Connecticut and nearby New York counties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+The most famous UFO flap touching Connecticut is usually known as the Hudson Valley or Westchester Boomerang sightings. Although much of the story centres on New York, Connecticut’s Fairfield County formed part of the sighting region, especially western towns near the New York border such as Danbury, New Fairfield and Ridgefield. Connecticut Magazine summarises reports from 1983 and 1984 as involving large, silent V-shaped or circular objects, outlined by white, red or green lights, with sightings reported across western Connecticut and nearby New York counties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-This episode matters because it had all the ingredients of a durable UFO flap: many witnesses, repeated reports, a striking visual pattern, local press attention and later UFO literature. The case also had a strong sceptical interpretation. Connecticut Magazine cites comments from a Stewart International Airport spokesman saying that many Westchester Boomerang sightings were caused by pilots flying in formation in a way that made separate aircraft appear to be one large object. The same article notes that the authors of *Night Siege: The Hudson Valley UFO Sightings* argued that the pilot-formation explanation could not account for every sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+This episode matters because it had all the ingredients of a durable UFO flap: many witnesses, repeated reports, a striking visual pattern, local press attention and later UFO literature. The case also had a strong sceptical interpretation. Connecticut Magazine cites comments from a Stewart International Airport spokesman saying that many Westchester Boomerang sightings were caused by pilots flying in formation in a way that made separate aircraft appear to be one large object. The same article notes that the authors of *Night Siege: The Hudson Valley UFO Sightings* argued that the pilot-formation explanation could not account for every sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-The Connecticut angle becomes especially vivid with the 1987 Newtown report by Randy Etting, who said he saw lights in a semicircle while walking near his home and photographed them. Connecticut Magazine notes that hundreds of others reportedly saw similar lights, raising the question of whether the earlier boomerang flap had returned. Yet here again, the reader should separate a compelling local story from a settled explanation. The pattern of lights is memorable; the source base is mixed; and the known role of aircraft formations in the wider regional flap weakens any claim that Connecticut’s reports must have involved a single extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+The Connecticut angle becomes especially vivid with the 1987 Newtown report by Randy Etting, who said he saw lights in a semicircle while walking near his home and photographed them. Connecticut Magazine notes that hundreds of others reportedly saw similar lights, raising the question of whether the earlier boomerang flap had returned. Yet here again, the reader should separate a compelling local story from a settled explanation. The pattern of lights is memorable; the source base is mixed; and the known role of aircraft formations in the wider regional flap weakens any claim that Connecticut’s reports must have involved a single extraordinary craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 The best reading is not “debunked in every instance” or “confirmed mystery”. It is that Fairfield County was part of a regional flap in which some reports were plausibly explained by aircraft formations, while other witness accounts remained part of UFO lore because the available evidence did not allow a clean case-by-case resolution.
 
@@ -504,34 +504,34 @@ The best reading is not “debunked in every instance” or “confirmed mystery
 
 ## Bantam Lake’s green object: meteor, space debris or unresolved local mystery?
 
-The Bantam Lake story is one of Connecticut’s more memorable modern cases because it had both an anonymous civilian report and a law-enforcement witness. In the early hours of 10 April 2012, an unidentified motorist reportedly called state police to say that a whale-sized glowing green object had fallen into Bantam Lake. Connecticut Magazine adds that an on-duty state trooper about 10 miles away also reported seeing a large object fall from the sky over the Bantam or Morris area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+The Bantam Lake story is one of Connecticut’s more memorable modern cases because it had both an anonymous civilian report and a law-enforcement witness. In the early hours of 10 April 2012, an unidentified motorist reportedly called state police to say that a whale-sized glowing green object had fallen into Bantam Lake. Connecticut Magazine adds that an on-duty state trooper about 10 miles away also reported seeing a large object fall from the sky over the Bantam or Morris area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-The obvious explanation is a meteor, and the timing helps: the article notes that the event occurred during the Lyrid meteor shower and cites astrophysicist Brian Koberlein’s view that a green meteor was the likely culprit. Green colour can occur when material burns in the atmosphere, and night-sky objects near the horizon can look lower, larger and closer than they really are. That makes the case a useful lesson in perception: a spectacular meteor can seem like an object plunging into a nearby lake even when it is much farther away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+The obvious explanation is a meteor, and the timing helps: the article notes that the event occurred during the Lyrid meteor shower and cites astrophysicist Brian Koberlein’s view that a green meteor was the likely culprit. Green colour can occur when material burns in the atmosphere, and night-sky objects near the horizon can look lower, larger and closer than they really are. That makes the case a useful lesson in perception: a spectacular meteor can seem like an object plunging into a nearby lake even when it is much farther away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-But the sceptical picture is not perfectly neat. Connecticut Magazine also quotes Yale Peabody Museum meteoritics expert Stefan Nicolescu as doubting that a meteorite actually fell into the lake, partly because witnesses did not report the sound one might expect from a meteorite fall. He suggested other possibilities, including space debris or the northern lights, while still treating those as uncertain. The result is a balanced classification: the Bantam Lake event is plausibly explained as a meteor or related sky phenomenon, but the claim that something physically crashed into the lake is not well supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+But the sceptical picture is not perfectly neat. Connecticut Magazine also quotes Yale Peabody Museum meteoritics expert Stefan Nicolescu as doubting that a meteorite actually fell into the lake, partly because witnesses did not report the sound one might expect from a meteorite fall. He suggested other possibilities, including space debris or the northern lights, while still treating those as uncertain. The result is a balanced classification: the Bantam Lake event is plausibly explained as a meteor or related sky phenomenon, but the claim that something physically crashed into the lake is not well supported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 ## What the sighting databases show — and what they do not
 
-The National UFO Reporting Center, or NUFORC, provides one of the most accessible public databases for Connecticut UFO reports. Its location index lists Connecticut with more than 2,100 reports, while the state page includes entries continuing into 2026. These figures are useful for seeing volume, dates, towns and witness descriptions, but they should not be read as a verified count of unexplained craft over Connecticut. NUFORC reports are witness submissions, not official determinations that an event was extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The National UFO Reporting Center, or NUFORC, provides one of the most accessible public databases for Connecticut UFO reports. Its location index lists Connecticut with more than 2,100 reports, while the state page includes entries continuing into 2026. These figures are useful for seeing volume, dates, towns and witness descriptions, but they should not be read as a verified count of unexplained craft over Connecticut. NUFORC reports are witness submissions, not official determinations that an event was extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-Local media sometimes use NUFORC data to identify town-by-town patterns. Patch reported in 2022 that Stamford had seen a burst of recent entries with descriptions ranging from bright spheres to saucer-like objects and large craft. That sort of reporting is useful as a snapshot of public claims, but it also shows the problem with raw UFO data: reports vary in quality, witnesses use different language, and clusters can reflect publicity, population density, local attention or repeated misidentification as much as unusual aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">UFOs Over Connecticut: Town-By-Town Sightings</span><span class="citation-popover-snippet">UFOs Over Connecticut: Town-By-Town Sightings</span></span></span>
+Local media sometimes use NUFORC data to identify town-by-town patterns. Patch reported in 2022 that Stamford had seen a burst of recent entries with descriptions ranging from bright spheres to saucer-like objects and large craft. That sort of reporting is useful as a snapshot of public claims, but it also shows the problem with raw UFO data: reports vary in quality, witnesses use different language, and clusters can reflect publicity, population density, local attention or repeated misidentification as much as unusual aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">UFOs Over Connecticut: Town-By-Town Sightings</span><span class="citation-popover-snippet">UFOs Over Connecticut: Town-By-Town Sightings</span></span></span>
 
 For a reader, the best use of the databases is not to ask “how many alien craft were seen?” but “which reports have enough detail to investigate?” A stronger Connecticut case would usually need a clear time and place, multiple independent witnesses, direction and elevation estimates, weather and astronomical checks, aircraft and satellite comparisons, and ideally radar, video or photographic data that can be examined.
 
 <img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-dark.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From UFOs to drones: Connecticut’s modern sky-confusion problem
 
-Recent Connecticut sky stories increasingly involve drones rather than classic UFOs. In December 2024, CT Insider reported a wave of drone sightings across Connecticut and the wider Northeast, including an incident near Bradley International Airport. Audio described by the article had a tower operator and pilot discussing a small object that was not visible on radar and was thought to be a drone; the aircraft was cleared with a caution about possible drone activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+Recent Connecticut sky stories increasingly involve drones rather than classic UFOs. In December 2024, CT Insider reported a wave of drone sightings across Connecticut and the wider Northeast, including an incident near Bradley International Airport. Audio described by the article had a tower operator and pilot discussing a small object that was not visible on radar and was thought to be a drone; the aircraft was cleared with a caution about possible drone activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-The drone wave is important because it reveals how today’s UFO-like reports can have public-safety implications even when no exotic explanation is involved. State and local officials were not simply debating folklore; they were asking whether unidentified objects near airports, military facilities or government sites posed a risk. CT Insider reported that Governor Ned Lamont said Connecticut had seen “dozens and dozens” of drone reports, while also saying many were likely explainable. The Connecticut Department of Emergency Services and Public Protection said analysts were comparing reports with Federal Aviation Administration flight data and that most reports could be attributed to manned aircraft or legally operated private-sector unmanned aircraft systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+The drone wave is important because it reveals how today’s UFO-like reports can have public-safety implications even when no exotic explanation is involved. State and local officials were not simply debating folklore; they were asking whether unidentified objects near airports, military facilities or government sites posed a risk. CT Insider reported that Governor Ned Lamont said Connecticut had seen “dozens and dozens” of drone reports, while also saying many were likely explainable. The Connecticut Department of Emergency Services and Public Protection said analysts were comparing reports with Federal Aviation Administration flight data and that most reports could be attributed to manned aircraft or legally operated private-sector unmanned aircraft systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-Representative Jim Himes, a Connecticut Democrat and ranking member of the House Intelligence Committee, gave one of the clearest sceptical summaries during that episode: many sightings, he argued, were probably aircraft, drones or ordinary objects misjudged at night. That point is central to Connecticut’s modern UFO record. The more crowded the sky becomes with aircraft, drones, satellites and commercial lighting, the more reports there may be — but not necessarily more truly anomalous events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+Representative Jim Himes, a Connecticut Democrat and ranking member of the House Intelligence Committee, gave one of the clearest sceptical summaries during that episode: many sightings, he argued, were probably aircraft, drones or ordinary objects misjudged at night. That point is central to Connecticut’s modern UFO record. The more crowded the sky becomes with aircraft, drones, satellites and commercial lighting, the more reports there may be — but not necessarily more truly anomalous events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 ## The 2026 state-study proposal: why lawmakers took UAP seriously
 
-In 2026, Connecticut lawmakers considered legislation on unidentified aerial phenomena. The original bill language would have had the University of Connecticut conduct a study of UAP within available resources, and the Appropriations Committee’s joint favourable report described the bill as authorising UConn to study the subject. Later reporting said a redrafted version moved the task away from UConn and towards the General Assembly’s nonpartisan Office of Legislative Management, which would contract with a nonprofit organisation and report findings by 1 July 2027. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cga.ct.gov">[Connecticut General Assembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cga.ct.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cga.ct.gov">[Connecticut General Assembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cga.ct.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In 2026, Connecticut lawmakers considered legislation on unidentified aerial phenomena. The original bill language would have had the University of Connecticut conduct a study of UAP within available resources, and the Appropriations Committee’s joint favourable report described the bill as authorising UConn to study the subject. Later reporting said a redrafted version moved the task away from UConn and towards the General Assembly’s nonpartisan Office of Legislative Management, which would contract with a nonprofit organisation and report findings by 1 July 2027.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cga.ct.gov">[Connecticut General Assembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cga.ct.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cga.ct.gov">[Connecticut General Assembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cga.ct.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The debate is revealing because supporters framed the issue less as “aliens” and more as accountability for unexplained lights, drones and possible safety concerns. CT Insider reported State Rep. Joe Hoxha saying the bill was not necessarily about “little green men”, while State Rep. Tammy Nuccio connected the issue to residents’ concerns about drones near military and government facilities. The same report noted that the Department of Emergency Services and Public Protection asked to be removed from the bill because much of its data is sensitive and restricted for public-safety or national-security reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+The debate is revealing because supporters framed the issue less as “aliens” and more as accountability for unexplained lights, drones and possible safety concerns. CT Insider reported State Rep. Joe Hoxha saying the bill was not necessarily about “little green men”, while State Rep. Tammy Nuccio connected the issue to residents’ concerns about drones near military and government facilities. The same report noted that the Department of Emergency Services and Public Protection asked to be removed from the bill because much of its data is sensitive and restricted for public-safety or national-security reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 That makes the proposed study a modern hinge point in Connecticut’s UFO history. Older cases revolved around witnesses, newspapers and federal military files. The 2026 debate revolved around data access, public reassurance, aviation safety, drones and whether state-level institutions should have a way to sort ordinary from unexplained reports. It shows how UFO culture has shifted into UAP policy language without losing the same core question: what are people seeing in the sky?
 
@@ -539,9 +539,9 @@ That makes the proposed study a modern hinge point in Connecticut’s UFO histor
 
 ## How national UAP findings should shape Connecticut claims
 
-Connecticut’s cases should also be read against the wider U.S. official record. AARO, the All-domain Anomaly Resolution Office, says it leads the U.S. government’s UAP work using a scientific and data-driven approach. The U.S. Department of Defense said AARO received 757 UAP reports in the 2024 reporting period, bringing its reviewed case inventory to more than 1,600 as of 1 June 2024. The same release said the unclassified annual report was available through official channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+Connecticut’s cases should also be read against the wider U.S. official record. AARO, the All-domain Anomaly Resolution Office, says it leads the U.S. government’s UAP work using a scientific and data-driven approach. The U.S. Department of Defense said AARO received 757 UAP reports in the 2024 reporting period, bringing its reviewed case inventory to more than 1,600 as of 1 June 2024. The same release said the unclassified annual report was available through official channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-The national evidence cuts both ways. On one hand, the subject is no longer merely fringe: pilots, military offices and lawmakers now discuss UAP in formal settings. On the other hand, official reviews repeatedly stress weak data, ordinary explanations and no verified extraterrestrial evidence. The National Archives’ Project Blue Book material records the Air Force’s earlier conclusion that no evaluated UFO showed evidence of being an extraterrestrial vehicle, while more recent AARO materials say the office has found no verifiable evidence of extraterrestrial beings, activity or technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The national evidence cuts both ways. On one hand, the subject is no longer merely fringe: pilots, military offices and lawmakers now discuss UAP in formal settings. On the other hand, official reviews repeatedly stress weak data, ordinary explanations and no verified extraterrestrial evidence. The National Archives’ Project Blue Book material records the Air Force’s earlier conclusion that no evaluated UFO showed evidence of being an extraterrestrial vehicle, while more recent AARO materials say the office has found no verifiable evidence of extraterrestrial beings, activity or technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 For Connecticut, this means local reports deserve neither ridicule nor automatic belief. A pilot report over Hartford, a flap over Fairfield County, a green object over Bantam Lake and drone reports near Bradley can all be worth recording. But the standard of proof must rise with the claim. “Unidentified” means not identified from the available evidence; it does not by itself mean extraordinary.
 
@@ -551,15 +551,15 @@ For Connecticut, this means local reports deserve neither ridicule nor automatic
 
 The most useful way to read Connecticut’s UFO history is to separate cases into evidence categories rather than treating them all as equally mysterious.
 
-**Historically important, not modern evidence:** The New Haven ghost ship and the 1909–1910 [airship wave]({{ 'airship-wave-82dc77/' | relative_url }}) are valuable for understanding how Connecticut communities have interpreted strange sky events, but they are not strong evidence for modern UAP claims. They belong more to folklore, media history and social psychology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span></span></span>
+**Historically important, not modern evidence:** The New Haven ghost ship and the 1909–1910 [airship wave]({{ 'airship-wave-82dc77/' | relative_url }}) are valuable for understanding how Connecticut communities have interpreted strange sky events, but they are not strong evidence for modern UAP claims. They belong more to folklore, media history and social psychology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span></span></span>
 
-**Official-record but thinly documented:** The 1948 Hartford pilot sighting is worth noting because it appears in early official-era UFO cataloguing and involved aircrew. Its weakness is the limited public detail available in easy summaries. It should be described as unresolved in the record, not as confirmed extraordinary technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+**Official-record but thinly documented:** The 1948 Hartford pilot sighting is worth noting because it appears in early official-era UFO cataloguing and involved aircrew. Its weakness is the limited public detail available in easy summaries. It should be described as unresolved in the record, not as confirmed extraordinary technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
-**Major flap with plausible ordinary drivers:** The Hudson Valley and Fairfield County boomerang sightings are the state’s most prominent regional UFO episode. They include many witnesses and a memorable visual pattern, but aircraft formations and media-amplified expectation provide strong partial explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+**Major flap with plausible ordinary drivers:** The Hudson Valley and Fairfield County boomerang sightings are the state’s most prominent regional UFO episode. They include many witnesses and a memorable visual pattern, but aircraft formations and media-amplified expectation provide strong partial explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-**Plausibly explained but locally memorable:** Bantam Lake’s green object is best treated as a likely meteor or related sky event, with uncertainty about whether anything reached the ground or water. Its value is in showing how a real, striking sky phenomenon can become a local UFO story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+**Plausibly explained but locally memorable:** Bantam Lake’s green object is best treated as a likely meteor or related sky event, with uncertainty about whether anything reached the ground or water. Its value is in showing how a real, striking sky phenomenon can become a local UFO story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-**Modern safety and identification problem:** The 2024 drone wave and 2026 legislative debate show Connecticut moving into a new phase, where the central issue is less “flying saucers” and more whether the state can identify drones, aircraft, satellites and genuinely unresolved aerial events quickly enough to reassure the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+**Modern safety and identification problem:** The 2024 drone wave and 2026 legislative debate show Connecticut moving into a new phase, where the central issue is less “flying saucers” and more whether the state can identify drones, aircraft, satellites and genuinely unresolved aerial events quickly enough to reassure the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-dark.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bottom line for Connecticut’s UFO history
@@ -569,269 +569,269 @@ Connecticut’s UFO history is strongest as a study in interpretation under unce
 That does not make the subject worthless. On the contrary, Connecticut is a useful state-level case study because it shows how UFO history actually works: witnesses report sincere experiences; investigators and journalists try to reconstruct them; official bodies apply limited data; sceptics test ordinary explanations; and some cases remain unresolved because the record is too thin, not because the extraordinary has been demonstrated.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Connecticut UFOs From Colonial Legends to Modern Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Connecticut UFOs From Colonial Legends to Modern Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical and analytical context for recurring sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical and analytical context for recurring sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broad survey well suited to a state-level UFO history page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad survey well suited to a state-level UFO history page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
         
-        <p class="fr-book-desc">Relevant to Connecticut through the Hudson Valley flap connection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to Connecticut through the Hudson Valley flap connection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Balances folklore and mystery with critical evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Balances folklore and mystery with critical evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=connecticut-ufos-from-colonial-legends-connecticut-ufos-from-colonial-legends-to-modern-mysterie-ufos-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -847,7 +847,7 @@ That does not make the subject worthless. On the contrary, Connecticut is a usef
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -867,7 +867,7 @@ That does not make the subject worthless. On the contrary, Connecticut is a usef
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -899,7 +899,7 @@ That does not make the subject worthless. On the contrary, Connecticut is a usef
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -929,7 +929,7 @@ That does not make the subject worthless. On the contrary, Connecticut is a usef
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -987,226 +987,226 @@ That does not make the subject worthless. On the contrary, Connecticut is a usef
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lCT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCT</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lCT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCT</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: patch.com  
    Title: UFOs Over Connecticut: Town-By-Town Sightings  
-   Link: <a href="https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings</a>  
+   Link:<a href="https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191599" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191599</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=191599" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191599</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=sOther" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sOther</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=sOther" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sOther</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=sChanging" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sChanging</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=sChanging" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sChanging</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ia800503.us.archive.org  
    Title: UFO Newsclipping Service 1993 02 no 283  
-   Link: <a href="https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf</a>  
+   Link:<a href="https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ia800808.us.archive.org  
    Title: Psychic and UFO Revelations in the Last Days  
-   Link: <a href="https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf</a>  
+   Link:<a href="https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
    Title: 412589424 Ufos and the Extraterrestrial Contact Movement v1 djvu.txt  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
    Title: DTIC ADA326148 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
    Title: Full text of "Wonders In The Sky  
-   Link: <a href="https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dn790007.ca.archive.org  
-   Link: <a href="https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf</a>  
+   Link:<a href="https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: patch.com  
    Title: pentagon dump ufo files add intrigue ct sightings  
-   Link: <a href="https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings</a>  
+   Link:<a href="https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: history.com  
    Title: black triangle ufos facts  
-   Link: <a href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/black-triangle-ufos-facts</a>  
+   Link:<a href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/black-triangle-ufos-facts</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ctinsider.com  
    Title: CT Insider Examining some of Connecticut's most spectacular UFO sightings  
-   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
+   Link:<a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ctinsider.com  
    Title: CT Insider Connecticut has seen 'dozens and dozens' of drone reports recently  
-   Link: <a href="https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php</a>  
+   Link:<a href="https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: connecticuthistory.org  
    Title: Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery  
-   Link: <a href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/</a>  
+   Link:<a href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ctinsider.com  
    Title: CT Insider Drone in CT spotted over Bradley International Airport  
-   Link: <a href="https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php</a>  
+   Link:<a href="https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cga.ct.gov  
-   Link: <a href="https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF</a>  
+   Link:<a href="https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cga.ct.gov  
    Title: Connecticut General Assembly Appropriations Committee  
-   Link: <a href="https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF</a>  
+   Link:<a href="https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ctinsider.com  
    Title: CT Insider UFOs or drones? CT lawmakers push for answers on mysterious lights  
-   Link: <a href="https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php</a>  
+   Link:<a href="https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ctinsider.com  
    Title: ufos connecticut legislation uaps uconn study 22072765  
-   Link: <a href="https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php</a>  
+   Link:<a href="https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: unsolved.com  
    Title: Hudson Valley UFO  
-   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
+   Link:<a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cga.ct.gov  
-   Link: <a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF</a>  
+   Link:<a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cga.ct.gov  
-   Link: <a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF</a>  
+   Link:<a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Trooper, motorist report object falling from sky  
-   Link: <a href="https://www.youtube.com/watch?v=w-gz4_Ge_qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w-gz4_Ge_qY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Expert Confirms New England UFO Sightings | UFO Witness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w-gz4_Ge_qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w-gz4_Ge_qY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video Expert Confirms New England UFO Sightings | UFO Witness...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dWR0JCY86ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dWR0JCY86ag</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trooper, motorist report object falling from sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dWR0JCY86ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dWR0JCY86ag</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trooper, motorist report object falling from sky...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/</a>  
+   Link:<a href="https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/</a>  
+   Link:<a href="https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/</a>
+   Link:<a href="https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/</a>

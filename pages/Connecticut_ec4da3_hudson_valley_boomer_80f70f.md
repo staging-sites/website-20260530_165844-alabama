@@ -262,29 +262,29 @@ image: /assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-overview-so
 
 ## Introduction
 
-In the early 1980s, Fairfield County, Connecticut, became part of one of the most widely reported aerial sighting episodes in northeastern U.S. UFO history — the **Hudson Valley “boomerang” flap**. Across 1983 and 1984, hundreds of residents in western Connecticut towns such as Danbury, New Fairfield and Ridgefield reported seeing large, silent, V‑shaped or boomerang‑like objects in the night sky, often with bright white, red and green lights. These sightings were closely linked with similar reports across the adjoining Hudson Valley of New York and have since come to be collectively known as the **Westchester Boomerang** phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+In the early 1980s, Fairfield County, Connecticut, became part of one of the most widely reported aerial sighting episodes in northeastern U.S. UFO history — the **Hudson Valley “boomerang” flap**. Across 1983 and 1984, hundreds of residents in western Connecticut towns such as Danbury, New Fairfield and Ridgefield reported seeing large, silent, V‑shaped or boomerang‑like objects in the night sky, often with bright white, red and green lights. These sightings were closely linked with similar reports across the adjoining Hudson Valley of New York and have since come to be collectively known as the **Westchester Boomerang** phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-overview.webp" | relative_url }}" alt="Overview image for Hudson Valley Flap" loading="eager" decoding="sync" fetchpriority="high">
 ## Fairfield County Sightings During the Flap
 
 ### A Regional Pattern Including Danbury and Beyond
 
-Fairfield County’s involvement in the Hudson Valley flap was not isolated but continuous with the broader pattern of sightings reported throughout 1983 and 1984. Local western Connecticut towns near the New York state line — especially **Danbury, New Fairfield and Ridgefield** — were frequently mentioned in contemporary accounts as sites where observers saw unusual aerial formations. These were typically described as **silent, large V‑shaped or boomerang‑shaped objects outlined with multiple coloured lights** moving slowly or hovering in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+Fairfield County’s involvement in the Hudson Valley flap was not isolated but continuous with the broader pattern of sightings reported throughout 1983 and 1984. Local western Connecticut towns near the New York state line — especially **Danbury, New Fairfield and Ridgefield** — were frequently mentioned in contemporary accounts as sites where observers saw unusual aerial formations. These were typically described as **silent, large V‑shaped or boomerang‑shaped objects outlined with multiple coloured lights** moving slowly or hovering in the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
-One contemporaneous summary in *Connecticut Magazine* noted “hundreds of UFOs” reported in the skies above Connecticut in 1983–84, with **most of these sightings clustered in the Fairfield County area**, especially in towns close to the Hudson Valley region of New York where the boomerang reports were most intense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+One contemporaneous summary in *Connecticut Magazine* noted “hundreds of UFOs” reported in the skies above Connecticut in 1983–84, with **most of these sightings clustered in the Fairfield County area**, especially in towns close to the Hudson Valley region of New York where the boomerang reports were most intense.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
-Eyewitness data collected by civilian researchers at the time suggested that the Fairfield County component of the flap tended to follow the Interstate 84 corridor eastward from sightings first reported north of the state line. One author investigating the episode later remarked that sightings in **Danbury** seemed to be “the missing piece” needed to understand how the phenomenon moved across state boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newstimes.com">[News-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newstimes.com</span><span class="citation-popover-title">Author seeks info on UFO sightings in 1983 9963803</span><span class="citation-popover-snippet">News-TimesAuthor to seek info on area UFO sightings in 1983October 12, 2016 — 12 Oct 2016 — Zimmermann has organized a UFO conference Sat...</span><span class="citation-popover-meta">Published: October 12, 2016</span></span></span>
+Eyewitness data collected by civilian researchers at the time suggested that the Fairfield County component of the flap tended to follow the Interstate 84 corridor eastward from sightings first reported north of the state line. One author investigating the episode later remarked that sightings in **Danbury** seemed to be “the missing piece” needed to understand how the phenomenon moved across state boundaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newstimes.com">[News-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newstimes.com</span><span class="citation-popover-title">Author seeks info on UFO sightings in 1983 9963803</span><span class="citation-popover-snippet">News-TimesAuthor to seek info on area UFO sightings in 1983October 12, 2016 — 12 Oct 2016 — Zimmermann has organized a UFO conference Sat...</span><span class="citation-popover-meta">Published: October 12, 2016</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-dark.svg" | relative_url }}" alt="Hudson Valley Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Common Descriptions and Patterns
 
 Across Fairfield County reports, witnesses often described:
 
-* **Large, silent aerial objects** with multicoloured lights arranged in patterns or along a boomerang or V‑shaped frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
-* Apparent **slow manoeuvring or hovering**, inconsistent with conventional aircraft flight characteristics as perceived by observers on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
-* Sightings that lasted several minutes, with some observers claiming to see them **glide without sound** overhead before disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+* **Large, silent aerial objects** with multicoloured lights arranged in patterns or along a boomerang or V‑shaped frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+* Apparent **slow manoeuvring or hovering**, inconsistent with conventional aircraft flight characteristics as perceived by observers on the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+* Sightings that lasted several minutes, with some observers claiming to see them **glide without sound** overhead before disappearing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
-While specific individual reports from Fairfield County towns are not as comprehensively archived in mainstream sources as those from the Hudson Valley in New York, regional media reporting at the time picked up enough calls and local accounts to establish that Connecticut observers were seeing essentially the same phenomenon described on the New York side of the border. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+While specific individual reports from Fairfield County towns are not as comprehensively archived in mainstream sources as those from the Hudson Valley in New York, regional media reporting at the time picked up enough calls and local accounts to establish that Connecticut observers were seeing essentially the same phenomenon described on the New York side of the border.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3tmIQmUDVtY" title="Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer">Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 360.7K &middot; Uploaded: February 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3tmIQmUDVtY">Open on YouTube</a></p></div></div></div>
 
@@ -294,18 +294,18 @@ As the wave of reports grew through 1983 and 1984, **official and sceptical expl
 
 ### Formation Flights by Light Aircraft
 
-One widely cited explanation by law enforcement and aviation officials was that a group of local pilots, flying **light aircraft (often Cessna 152s)** equipped with bright lights and flying in tight formation, were inadvertently creating the visual illusion of a single large craft. These pilots reportedly knew that from the ground, their formations could appear as a **solid V‑shaped object with coloured lights** — especially at night — and officers noted their amusement at the confusion caused by their flights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+One widely cited explanation by law enforcement and aviation officials was that a group of local pilots, flying **light aircraft (often Cessna 152s)** equipped with bright lights and flying in tight formation, were inadvertently creating the visual illusion of a single large craft. These pilots reportedly knew that from the ground, their formations could appear as a **solid V‑shaped object with coloured lights** — especially at night — and officers noted their amusement at the confusion caused by their flights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-According to this account, the aircraft, whose undersides were painted dark to reduce their visible silhouette, would switch navigation and beacon lights in ways that could mimic structural edges or patterns, creating illusions of silent, massive shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+According to this account, the aircraft, whose undersides were painted dark to reduce their visible silhouette, would switch navigation and beacon lights in ways that could mimic structural edges or patterns, creating illusions of silent, massive shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-dark.svg" | relative_url }}" alt="Hudson Valley Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Limitations of the Aircraft Explanation
 
 While the pilot‑formation explanation accounts for many of the **typical light‑formation sightings**, several points were raised by researchers and some eyewitnesses that challenged its completeness:
 
-* Many witnesses described objects that appeared **too silent or too large** to match small twin‑seat aircraft at typical night flight altitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
-* Reports from professionals — including law enforcement personnel — sometimes suggested **hovering behaviour or slow manoeuvres** that did not align with known aircraft flight patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
-* There was a **high density of reports** over multiple nights, leading some civilian investigators to argue that not all sightings could be attributed solely to formation flights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+* Many witnesses described objects that appeared **too silent or too large** to match small twin‑seat aircraft at typical night flight altitudes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+* Reports from professionals — including law enforcement personnel — sometimes suggested **hovering behaviour or slow manoeuvres** that did not align with known aircraft flight patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+* There was a **high density of reports** over multiple nights, leading some civilian investigators to argue that not all sightings could be attributed solely to formation flights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
 These disagreements between official explanations and portions of the eyewitness record fuelled ongoing debate about how to interpret the Fairfield County component of the flap.
 
@@ -315,289 +315,289 @@ These disagreements between official explanations and portions of the eyewitness
 
 ### Media and Local Record Keeping
 
-Although few **authenticated photographs** of the Fairfield County sightings from the early 1980s survive in major archives, regional media reports of the period frequently referenced the visual phenomenon in terms of bright patterns of lights seen by multiple observers. Local newspapers set up hotlines and documented dozens of calls during peak nights, indicating a **significant volume of independent sightings**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+Although few **authenticated photographs** of the Fairfield County sightings from the early 1980s survive in major archives, regional media reports of the period frequently referenced the visual phenomenon in terms of bright patterns of lights seen by multiple observers. Local newspapers set up hotlines and documented dozens of calls during peak nights, indicating a **significant volume of independent sightings**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
 ### Aftermath and Retrospective Accounts
 
-In later years, a handful of former witnesses and local investigators recounted experiences from across western Connecticut, describing similar silhouettes and light arrangements that matched the core descriptions associated with the Hudson Valley boomerang. While such recollections must be treated cautiously, they do reinforce that **Fairfield County was part of the regional pattern** rather than a peripheral afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+In later years, a handful of former witnesses and local investigators recounted experiences from across western Connecticut, describing similar silhouettes and light arrangements that matched the core descriptions associated with the Hudson Valley boomerang. While such recollections must be treated cautiously, they do reinforce that **Fairfield County was part of the regional pattern** rather than a peripheral afterthought.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-dark.svg" | relative_url }}" alt="Hudson Valley Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Fairfield County Reports Mean in Context
 
 Within Connecticut’s broader UFO history, the Fairfield County reports during the Hudson Valley flap occupy an important place for several reasons:
 
-* They demonstrate that the early‑1980s UFO wave was **not confined to one state or county** but spanned regional borders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
-* The **consistency in witness descriptions** across state lines suggests that observers in Connecticut and New York were reporting phenomenologically similar events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
-* The subsequent sceptical explanations, while addressing many sightings, did **not fully resolve all reported features**, leaving room for continued investigation and interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+* They demonstrate that the early‑1980s UFO wave was **not confined to one state or county** but spanned regional borders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+* The **consistency in witness descriptions** across state lines suggests that observers in Connecticut and New York were reporting phenomenologically similar events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
+* The subsequent sceptical explanations, while addressing many sightings, did **not fully resolve all reported features**, leaving room for continued investigation and interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-Taken together, the Fairfield County sightings of the Hudson Valley boomerang period remain a significant regional chapter in Connecticut’s UFO record — not as isolated curiosities, but as part of one of the 20th century’s most discussed mass sighting episodes in the northeastern United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+Taken together, the Fairfield County sightings of the Hudson Valley boomerang period remain a significant regional chapter in Connecticut’s UFO record — not as isolated curiosities, but as part of one of the 20th century’s most discussed mass sighting episodes in the northeastern United States.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bkb76gXx2DM" title="Alien Hunters SUMMON An Alien &amp; Record The Encounter | Alien Invasion: Hudson Valley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bkb76gXx2DM" target="_blank" rel="noopener noreferrer">Alien Hunters SUMMON An Alien &amp; Record The Encounter | Alien Invasion: Hudson Valley</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 15.8K &middot; Uploaded: August 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bkb76gXx2DM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bkb76gXx2DM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Fairfield County UFOs The Hudson Valley Boomerang Flap. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Fairfield County UFOs The Hudson Valley Boomerang Flap. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores credible witness cases and aviation-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores credible witness cases and aviation-related sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
         
-        <p class="fr-book-desc">Directly covers the Fairfield County and Hudson Valley sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the Fairfield County and Hudson Valley sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the investigative framework used for mass sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the investigative framework used for mass sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Balances folklore and mystery with critical evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Balances folklore and mystery with critical evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-valley-flap-fairfield-county-ufos-the-hudson-valley-boomerang-flap-connecticut-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ Taken together, the Fairfield County sightings of the Hudson Valley boomerang pe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ Taken together, the Fairfield County sightings of the Hudson Valley boomerang pe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ Taken together, the Fairfield County sightings of the Hudson Valley boomerang pe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ Taken together, the Fairfield County sightings of the Hudson Valley boomerang pe
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -753,88 +753,88 @@ Taken together, the Fairfield County sightings of the Hudson Valley boomerang pe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ctinsider.com  
    Title: Examining some of Connecticut s most spectacular 17046013  
-   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</p></details>
+   Link:<a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newstimes.com  
    Title: Author seeks info on UFO sightings in 1983 9963803  
-   Link: <a href="https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php" target="_blank" rel="noopener noreferrer nofollow">https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News-TimesAuthor to seek info on area UFO sightings in 1983October 12, 2016 — 12 Oct 2016 — Zimmermann has organized a UFO conference Sat...</p></details>
+   Link:<a href="https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php" target="_blank" rel="noopener noreferrer nofollow">https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News-TimesAuthor to seek info on area UFO sightings in 1983October 12, 2016 — 12 Oct 2016 — Zimmermann has organized a UFO conference Sat...</p></details>
    Published: October 12, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=30979" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30979</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 30979August 28, 2003 — NUFORC UFO SIGHTING 30979 Occurred: 1983-09-15 21:00 Local - Approximate Reported: 2003-08-27...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=30979" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30979</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 30979August 28, 2003 — NUFORC UFO SIGHTING 30979 Occurred: 1983-09-15 21:00 Local - Approximate Reported: 2003-08-27...</p></details>
    Published: August 27, 2003  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Flap Of The 1980s More than 25,000...The Hudson Valley UFO Flap Of The 1980s More than 25,000 people reported seei...</p></details>
+   Link:<a href="https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Flap Of The 1980s More than 25,000...The Hudson Valley UFO Flap Of The 1980s More than 25,000 people reported seei...</p></details>
 
-6. <a id="endnote-6"></a>
-   Source: facebook.com  
-   Title: the westchester boomerangby justin santorothe westchester boomerang was a ufo si  
-   Link: <a href="https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Westchester Boomerang UFO sightings in New York and...The Hudson Valley UFO sightings occurred between 1983 and 1984, primarily in Westc...</p></details>
-
-7. <a id="endnote-7"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: the westchester boomerangby justin santorothe westchester boomerang was a ufo si  
-   Link: <a href="https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Westchester Boomerang By Justin Santoro...The Hudson Valley UFO sightings occurred between 1983 and 1984, primarily in Westchester...</p></details>
+   Link:<a href="https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westchester Boomerang UFO sightings in New York and...The Hudson Valley UFO sightings occurred between 1983 and 1984, primarily in Westc...</p></details>
 
-8. <a id="endnote-8"></a>
+7.<a id="endnote-7"></a>
+   Source: facebook.com  
+   Title: the westchester boomerangby justin santorothe westchester boomerang was a ufo si  
+   Link:<a href="https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Westchester Boomerang By Justin Santoro...The Hudson Valley UFO sightings occurred between 1983 and 1984, primarily in Westchester...</p></details>
+
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Throughout the 1980s, thousands of people reported seeing a huge, triangular object in the sky in the Hudson...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Throughout the 1980s, thousands of people reported seeing a huge, triangular object in the sky in the Hudson...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This book is written with the purpose of placing focus on triangular UFO sighting reports...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This book is written with the purpose of placing focus on triangular UFO sighting reports...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ctpost.com  
    Title: Revisiting mass UFO sightings in Danbury 11100682  
-   Link: <a href="https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting mass UFO sightings in Danbury26 Apr 2017 — A military aerospace historian will revisit the 1980s UFO sightings in greater Danb...</p></details>
+   Link:<a href="https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting mass UFO sightings in Danbury26 Apr 2017 — A military aerospace historian will revisit the 1980s UFO sightings in greater Danb...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lionsberg.wiki  
    Title: history. Centered around the Hudson Valley region  
-   Link: <a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Wave (1980s) — Lionsberg WikiMay 3, 2026 — THE HUDSON VALLEY UFO WAVE (1980S) Summary: The Hudson Valley UFO Wave...</p></details>
+   Link:<a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Wave (1980s) — Lionsberg WikiMay 3, 2026 — THE HUDSON VALLEY UFO WAVE (1980S) Summary: The Hudson Valley UFO Wave...</p></details>
    Published: May 3, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: inverse.com  
    Title: Why 3 of the best cases for UFOs might not be in the Pentagon report  
-   Link: <a href="https://www.inverse.com/science/three-ufo-sightings-defy-explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/science/three-ufo-sightings-defy-explanation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. HUDSON VALLEY, 1983-1986 Something weird was afoot in the Hudson Valley in the mid-1980...</p></details>
+   Link:<a href="https://www.inverse.com/science/three-ufo-sightings-defy-explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/science/three-ufo-sightings-defy-explanation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1. HUDSON VALLEY, 1983-1986 Something weird was afoot in the Hudson Valley in the mid-1980...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wikidisc.org  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: <a href="https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1984 — 1984 HUDSON VALLEY UFO SIGHTINGS [Input] Add languages Add links * Page * Discussion [Input] English * Read * E...</p></details>
+   Link:<a href="https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1984 — 1984 HUDSON VALLEY UFO SIGHTINGS [Input] Add languages Add links * Page * Discussion [Input] English * Read * E...</p></details>
    Published: January 1, 1984  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uapinvestigations.com  
    Title: hudson valley 1982 1985 ufo wave  
-   Link: <a href="https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley 1982-1985 UFO WaveFebruary 22, 2026 — By UAPI Admin in cases — 22 Feb 2026 HUDSON VALLEY 1982-1985 UFO WAVE Thousands of wi...</p></details>
+   Link:<a href="https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley 1982-1985 UFO WaveFebruary 22, 2026 — By UAPI Admin in cases — 22 Feb 2026 HUDSON VALLEY 1982-1985 UFO WAVE Thousands of wi...</p></details>
    Published: February 22, 2026

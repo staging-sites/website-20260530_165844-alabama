@@ -250,16 +250,16 @@ image: /assets/images/Massachusetts_d42990_berkshire_1969_witne_c4f611_berkshire
 
 ## Introduction
 
-The biggest problem in assessing the Berkshire County UFO claims from 1 September 1969 is not simply whether witnesses were sincere. It is that very little contemporary documentation survives. The modern story rests largely on recollections recorded decades later, long after the alleged events took place. Supporters point to reports that local residents phoned a Berkshire radio station that night and that multiple communities discussed strange lights. Critics counter that no known police reports, newspaper articles, preserved broadcasts, or official investigation files have yet surfaced from the period itself. The result is an unusual historical case in which local memory became famous long before a strong archival record emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span>
+The biggest problem in assessing the Berkshire County UFO claims from 1 September 1969 is not simply whether witnesses were sincere. It is that very little contemporary documentation survives. The modern story rests largely on recollections recorded decades later, long after the alleged events took place. Supporters point to reports that local residents phoned a Berkshire radio station that night and that multiple communities discussed strange lights. Critics counter that no known police reports, newspaper articles, preserved broadcasts, or official investigation files have yet surfaced from the period itself. The result is an unusual historical case in which local memory became famous long before a strong archival record emerged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span>
 
 <img src="{{ "/assets/images/Massachusetts_d42990_berkshire_1969_witne_c4f611_berkshire_1969_evide_19099a-Illustration-1-dark.svg" | relative_url }}" alt="Archival Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_berkshire_1969_witne_c4f611_berkshire_1969_evide_19099a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_berkshire_1969_witne_c4f611_berkshire_1969_evide_19099a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers interested in [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}) UFO history, this matters because the Berkshire case is often presented as a major mass-witness event. Normally, an event described as involving dozens of reports would be expected to leave a trail in newspapers, radio archives, police logs, aviation records, or investigator files. The scarcity of such material has become one of the central debates surrounding the case itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
+For readers interested in [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}) UFO history, this matters because the Berkshire case is often presented as a major mass-witness event. Normally, an event described as involving dozens of reports would be expected to leave a trail in newspapers, radio archives, police logs, aviation records, or investigator files. The scarcity of such material has become one of the central debates surrounding the case itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
 
 ## What records are said to have existed in 1969?
 
-The strongest claim for contemporary reporting concerns calls allegedly made to WSBS radio in Great Barrington on the night of the sightings. Multiple later retellings state that listeners phoned the station to report unusual lights or objects in the sky. Some versions of the story claim that dozens of calls were received. The radio station, which served southern Berkshire County during the period, is often cited as the main reason supporters believe the incident was widely witnessed at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">thom reed ufo monument park</span><span class="citation-popover-snippet">in Sheffield10 Aug 2017 — For this reason, the Great Barrington Historical Society voted 6-3 to recognize the encounter as “historically...</span></span></span>
+The strongest claim for contemporary reporting concerns calls allegedly made to WSBS radio in Great Barrington on the night of the sightings. Multiple later retellings state that listeners phoned the station to report unusual lights or objects in the sky. Some versions of the story claim that dozens of calls were received. The radio station, which served southern Berkshire County during the period, is often cited as the main reason supporters believe the incident was widely witnessed at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">thom reed ufo monument park</span><span class="citation-popover-snippet">in Sheffield10 Aug 2017 — For this reason, the Great Barrington Historical Society voted 6-3 to recognize the encounter as “historically...</span></span></span>
 
-The difficulty is that no publicly available recording of the relevant broadcast has emerged. Later accounts commonly mention host Tom Jay taking calls from listeners, but researchers have not produced surviving audio tapes, programme logs, or transcripts confirming exactly what was reported and when. In practical terms, the radio story survives mostly through later recollections about the broadcast rather than through the broadcast itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
+The difficulty is that no publicly available recording of the relevant broadcast has emerged. Later accounts commonly mention host Tom Jay taking calls from listeners, but researchers have not produced surviving audio tapes, programme logs, or transcripts confirming exactly what was reported and when. In practical terms, the radio story survives mostly through later recollections about the broadcast rather than through the broadcast itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
 
 This distinction is important. Historians generally treat a surviving recording as stronger evidence than memories about a recording. If the broadcast tapes had survived, they could help answer several key questions:
 
@@ -276,7 +276,7 @@ Without the tapes, those questions remain unresolved.
 
 ### The absence of preserved local radio archives
 
-The missing WSBS material is not necessarily suspicious. Local radio stations in 1969 rarely preserved routine broadcasts indefinitely. Recording tape was expensive, storage space was limited, and many stations routinely reused or discarded recordings after short periods. A failure to preserve a local call-in programme from a holiday evening would not have seemed unusual at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/September_1%2C_1969%2C_Berkshire_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">September 1, 1969, Berkshire UFO incident</span><span class="citation-popover-snippet">September 1, 1969, Berkshire UFO incidentThe Labor Day 1969 UFO Incident allegedly occurred on the night of September 1, 1969 in Berks...</span><span class="citation-popover-meta">Published: September 1, 1969</span></span></span>
+The missing WSBS material is not necessarily suspicious. Local radio stations in 1969 rarely preserved routine broadcasts indefinitely. Recording tape was expensive, storage space was limited, and many stations routinely reused or discarded recordings after short periods. A failure to preserve a local call-in programme from a holiday evening would not have seemed unusual at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/September_1%2C_1969%2C_Berkshire_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">September 1, 1969, Berkshire UFO incident</span><span class="citation-popover-snippet">September 1, 1969, Berkshire UFO incidentThe Labor Day 1969 UFO Incident allegedly occurred on the night of September 1, 1969 in Berks...</span><span class="citation-popover-meta">Published: September 1, 1969</span></span></span>
 
 That means the missing broadcast cannot be treated as proof that reports never happened. Equally, it cannot be treated as proof that later descriptions of the broadcast are accurate. The archive gap leaves historians in an evidential middle ground.
 
@@ -286,13 +286,13 @@ That means the missing broadcast cannot be treated as proof that reports never h
 
 If a large number of residents genuinely reported extraordinary aerial activity across several Berkshire towns, readers naturally ask whether local police departments received calls.
 
-No widely cited police blotter entries from Great Barrington, Sheffield, Stockbridge, Egremont, or neighbouring departments have been produced showing a documented UFO wave on the night in question. Later commentators have repeatedly noted the absence of identifiable police records supporting the scale of reporting described in modern versions of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
+No widely cited police blotter entries from Great Barrington, Sheffield, Stockbridge, Egremont, or neighbouring departments have been produced showing a documented UFO wave on the night in question. Later commentators have repeatedly noted the absence of identifiable police records supporting the scale of reporting described in modern versions of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
 
 This absence is often interpreted in two different ways.
 
 Supporters argue that small-town police records from 1969 were not always preserved, indexed, or digitised. Many departments discarded routine logs after a period of years, and a call about unusual lights might not have been considered important enough to retain permanently.
 
-Sceptics argue that a truly exceptional event involving numerous frightened witnesses should have generated at least some surviving paperwork, references in municipal records, or mentions in local reporting. The lack of such traces weakens claims that the event caused widespread official concern at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span>
+Sceptics argue that a truly exceptional event involving numerous frightened witnesses should have generated at least some surviving paperwork, references in municipal records, or mentions in local reporting. The lack of such traces weakens claims that the event caused widespread official concern at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span>
 
 The historical problem is that both explanations can be plausible simultaneously. Missing records do not prove an event did not occur, but they reduce the ability to verify what witnesses later remembered.
 
@@ -302,7 +302,7 @@ The historical problem is that both explanations can be plausible simultaneously
 
 The most frequently discussed archival gap concerns local newspapers.
 
-Modern accounts often describe the Berkshire incident as a major regional event involving multiple towns. Yet researchers and journalists revisiting the case have repeatedly remarked that newspapers from the period have not yielded clear contemporaneous coverage matching the later narrative. Reports examining the case after the Netflix exposure noted the absence of newspaper stories or police-blotter references from immediately after 1 September 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
+Modern accounts often describe the Berkshire incident as a major regional event involving multiple towns. Yet researchers and journalists revisiting the case have repeatedly remarked that newspapers from the period have not yielded clear contemporaneous coverage matching the later narrative. Reports examining the case after the Netflix exposure noted the absence of newspaper stories or police-blotter references from immediately after 1 September 1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
 
 That silence attracts attention because local newspapers traditionally covered unusual community events, especially those generating numerous witness reports. Even a brief item mentioning mysterious lights, citizen complaints, or police inquiries would provide a valuable fixed point in the historical record.
 
@@ -318,20 +318,20 @@ Several possibilities have been suggested:
 
 </div>
 
-At present, the newspaper record remains notably thinner than many readers would expect from a case that later became one of Massachusetts' most famous UFO stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span>
+At present, the newspaper record remains notably thinner than many readers would expect from a case that later became one of Massachusetts' most famous UFO stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span>
 
 <img src="{{ "/assets/images/Massachusetts_d42990_berkshire_1969_witne_c4f611_berkshire_1969_evide_19099a-Illustration-2-dark.svg" | relative_url }}" alt="Archival Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_berkshire_1969_witne_c4f611_berkshire_1969_evide_19099a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_berkshire_1969_witne_c4f611_berkshire_1969_evide_19099a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How retrospective testimony changed the evidential balance
 
 Because contemporary documentation is scarce, witness memory carries unusual weight in the Berkshire case.
 
-Many of the best-known accounts entered the public record decades after the alleged events. Television documentaries, interviews, historical-society discussions, podcasts, newspaper features, and streaming productions became the primary means through which the story reached a national audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">GBHWestern Mass</span><span class="citation-popover-snippet">Debates A UFO Monument — And How To...31 May 2018 — A monument near a covered bridge in the neighboring town of Sheffield, where a man n...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+Many of the best-known accounts entered the public record decades after the alleged events. Television documentaries, interviews, historical-society discussions, podcasts, newspaper features, and streaming productions became the primary means through which the story reached a national audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">GBHWestern Mass</span><span class="citation-popover-snippet">Debates A UFO Monument — And How To...31 May 2018 — A monument near a covered bridge in the neighboring town of Sheffield, where a man n...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
 This creates a different evidential structure from cases where reports were documented immediately.
 
 In a typical historical investigation, researchers compare later memories against dated records created near the time of the event. In Berkshire, there are relatively few such anchors. As a result, investigators must evaluate memories that developed over periods of forty or fifty years.
 
-That does not automatically make those memories false. Psychological research shows that people can retain vivid recollections of emotionally significant experiences for decades. At the same time, memory is reconstructive rather than photographic. Details can shift through repeated retelling, exposure to media coverage, conversations with family members, and changing interpretations of unusual experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span>
+That does not automatically make those memories false. Psychological research shows that people can retain vivid recollections of emotionally significant experiences for decades. At the same time, memory is reconstructive rather than photographic. Details can shift through repeated retelling, exposure to media coverage, conversations with family members, and changing interpretations of unusual experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span>
 
 The Berkshire case therefore became as much a question about memory and documentation as about unidentified objects in the sky.
 
@@ -343,17 +343,17 @@ Another challenge emerges when witnesses become aware of one another's stories y
 
 Supporters view similarities between accounts as corroboration. If individuals from different parts of Berkshire County describe bright lights, missing time, silence, or unusual aerial behaviour, that can appear to strengthen the overall case.
 
-Critics point out that once stories become publicly known, similarities can also emerge through cultural exchange. Witnesses may unconsciously adopt details they encounter in documentaries, books, interviews, or community discussions. This does not require deliberate fabrication; it can happen naturally as memories are revisited and interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span>
+Critics point out that once stories become publicly known, similarities can also emerge through cultural exchange. Witnesses may unconsciously adopt details they encounter in documentaries, books, interviews, or community discussions. This does not require deliberate fabrication; it can happen naturally as memories are revisited and interpreted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</span></span></span>
 
 The lack of extensive 1969 documentation makes it difficult to determine which similarities were present from the beginning and which developed later.
 
 ## Why historical recognition did not solve the archive problem
 
-The Berkshire story gained renewed visibility after efforts by Thom Reed and others led to historical recognition, local displays, and eventually national media attention. The Great Barrington Historical Society accepted materials related to the case, and later reporting noted that accounts connected with the incident entered local historical collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">thom reed ufo monument park</span><span class="citation-popover-snippet">in Sheffield10 Aug 2017 — For this reason, the Great Barrington Historical Society voted 6-3 to recognize the encounter as “historically...</span></span></span>
+The Berkshire story gained renewed visibility after efforts by Thom Reed and others led to historical recognition, local displays, and eventually national media attention. The Great Barrington Historical Society accepted materials related to the case, and later reporting noted that accounts connected with the incident entered local historical collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">thom reed ufo monument park</span><span class="citation-popover-snippet">in Sheffield10 Aug 2017 — For this reason, the Great Barrington Historical Society voted 6-3 to recognize the encounter as “historically...</span></span></span>
 
 However, historical recognition is not the same thing as historical verification.
 
-A museum, archive, or historical society may preserve testimony because it has cultural significance, local importance, or public interest. Preservation does not automatically establish that every claimed event occurred as remembered. In the Berkshire case, the archival collections largely document the existence of the claims and the community response to them rather than providing extensive new contemporaneous evidence from 1969 itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span>
+A museum, archive, or historical society may preserve testimony because it has cultural significance, local importance, or public interest. Preservation does not automatically establish that every claimed event occurred as remembered. In the Berkshire case, the archival collections largely document the existence of the claims and the community response to them rather than providing extensive new contemporaneous evidence from 1969 itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span>
 
 This distinction is often lost in public discussion. The story's place in local history is easier to demonstrate than the precise details of what happened on the night in question.
 
@@ -362,276 +362,276 @@ This distinction is often lost in public discussion. The story's place in local 
 
 The Berkshire incident occupies an unusual position within Massachusetts UFO history because its fame rests on a combination of local memory, later testimony, and missing records.
 
-The available evidence supports a cautious conclusion: there is credible evidence that unusual stories circulated in Berkshire County and that some residents sincerely believe they experienced extraordinary events on or around Labor Day 1969. There is also evidence that the case became an important part of local folklore and historical discussion decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">GBHWestern Mass</span><span class="citation-popover-snippet">Debates A UFO Monument — And How To...31 May 2018 — A monument near a covered bridge in the neighboring town of Sheffield, where a man n...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+The available evidence supports a cautious conclusion: there is credible evidence that unusual stories circulated in Berkshire County and that some residents sincerely believe they experienced extraordinary events on or around Labor Day 1969. There is also evidence that the case became an important part of local folklore and historical discussion decades later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepm.org">[NEPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepm.org</span><span class="citation-popover-snippet">Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgbh.org">[GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgbh.org</span><span class="citation-popover-title">GBHWestern Mass</span><span class="citation-popover-snippet">Debates A UFO Monument — And How To...31 May 2018 — A monument near a covered bridge in the neighboring town of Sheffield, where a man n...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
-What remains much harder to establish is the scale and nature of the original reporting in 1969. The missing WSBS recordings, the absence of widely cited police documentation, and the scarcity of contemporary newspaper coverage leave major questions unanswered. Those gaps do not disprove the witnesses' experiences, but they prevent historians from testing later accounts against a strong contemporary record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
+What remains much harder to establish is the scale and nature of the original reporting in 1969. The missing WSBS recordings, the absence of widely cited police documentation, and the scarcity of contemporary newspaper coverage leave major questions unanswered. Those gaps do not disprove the witnesses' experiences, but they prevent historians from testing later accounts against a strong contemporary record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pajiba.com">[Pajiba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pajiba.com</span><span class="citation-popover-snippet">A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</span><span class="citation-popover-meta">Published: July 8, 2020</span></span></span>
 
 For that reason, the Berkshire case is often discussed less as a conventional UFO investigation and more as a lesson in how local history, memory, archives, and belief interact. The central mystery is no longer only what people may have seen in the skies over Berkshire County. It is also why so little documentary evidence from the time survives to help answer the question.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Original 1969 Records of Berkshire UFOs Are Sparse. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Original 1969 Records of Berkshire UFOs Are Sparse. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on documentation quality, case files, and investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documentation quality, case files, and investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for examining why some reports remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for examining why some reports remain unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights cases supported by stronger documentation than Berkshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights cases supported by stronger documentation than Berkshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XD-3oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter Andrew Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XD-3oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter Andrew Sturrock</p>
         
-        <p class="fr-book-desc">Directly concerns standards of proof and available records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly concerns standards of proof and available records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archival-evidence-why-original-1969-records-of-berkshire-ufos-are-sparse-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -647,7 +647,7 @@ For that reason, the Berkshire case is often discussed less as a conventional UF
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -667,7 +667,7 @@ For that reason, the Berkshire case is often discussed less as a conventional UF
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -699,7 +699,7 @@ For that reason, the Berkshire case is often discussed less as a conventional UF
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -729,7 +729,7 @@ For that reason, the Berkshire case is often discussed less as a conventional UF
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -787,107 +787,107 @@ For that reason, the Berkshire case is often discussed less as a conventional UF
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pajiba.com  
-   Link: <a href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow">https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</p></details>
+   Link:<a href="https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php" target="_blank" rel="noopener noreferrer nofollow">https://www.pajiba.com/tv_reviews/a-deeper-look-into-the-1969-berkshire-ufo-sightings-featured-on-netflixs-unsolved-mysteries.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Deeper Look Into the 1969 Berkshire UFO Sightings...July 8, 2020 — 8 Jul 2020 — The Berkshire UFO sightings took place in 1969 i...</p></details>
    Published: July 8, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nepm.org  
-   Link: <a href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow">https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</p></details>
+   Link:<a href="https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election" target="_blank" rel="noopener noreferrer nofollow">https://www.nepm.org/regional-news/2023-12-15/revisiting-an-alleged-alien-sighting-in-western-mass-as-ufo-talk-spreads-to-congress-election</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting an alleged alien sighting in western Mass., as...15 Dec 2023 — There are recorded accounts of the 1969 sighting in local...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: September 1, 1969, Berkshire UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/September_1%2C_1969%2C_Berkshire_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/September_1%2C_1969%2C_Berkshire_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 1969, Berkshire UFO incidentThe Labor Day 1969 UFO Incident allegedly occurred on the night of September 1, 1969 in Berks...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/September_1%2C_1969%2C_Berkshire_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/September_1%2C_1969%2C_Berkshire_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 1969, Berkshire UFO incidentThe Labor Day 1969 UFO Incident allegedly occurred on the night of September 1, 1969 in Berks...</p></details>
    Published: September 1, 1969  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: WSBS (AM)  
-   Link: <a href="https://en.wikipedia.org/wiki/WSBS_%28AM%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/WSBS_%28AM%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/WSBS_%28AM%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/WSBS_%28AM%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wgbh.org  
    Title: GBHWestern Mass  
-   Link: <a href="https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh" target="_blank" rel="noopener noreferrer nofollow">https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debates A UFO Monument — And How To...31 May 2018 — A monument near a covered bridge in the neighboring town of Sheffield, where a man n...</p></details>
+   Link:<a href="https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh" target="_blank" rel="noopener noreferrer nofollow">https://www.wgbh.org/news/local/2018-05-31/western-mass-debates-a-ufo-monument-and-how-to-commemorate-the-inexplicable-wgbh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debates A UFO Monument — And How To...31 May 2018 — A monument near a covered bridge in the neighboring town of Sheffield, where a man n...</p></details>
    Published: May 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Barney and Betty Hill incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Berkshire UFO Abduction IncidentThe case has many of the classic aspects of an alien abduction story, including mis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: atlasobscura.com  
    Title: thom reed ufo monument park  
-   Link: <a href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/thom-reed-ufo-monument-park</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Sheffield10 Aug 2017 — For this reason, the Great Barrington Historical Society voted 6-3 to recognize the encounter as “historically...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/thom-reed-ufo-monument-park" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/thom-reed-ufo-monument-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Sheffield10 Aug 2017 — For this reason, the Great Barrington Historical Society voted 6-3 to recognize the encounter as “historically...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: the truth is out there why did this 5000 pound granite tribute marking a reporte  
-   Link: <a href="https://www.facebook.com/NewsChannel13/posts/the-truth-is-out-there-why-did-this-5000-pound-granite-tribute-marking-a-reporte/10156252303975318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsChannel13/posts/the-truth-is-out-there-why-did-this-5000-pound-granite-tribute-marking-a-reporte/10156252303975318/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pound granite tribute marking a reported 1969 alien...JRE Clips ▻ Aliens &amp; Ufos Group ✓. 3y · Public · Berkshire Sightings 1969: Mass UF...</p></details>
+   Link:<a href="https://www.facebook.com/NewsChannel13/posts/the-truth-is-out-there-why-did-this-5000-pound-granite-tribute-marking-a-reporte/10156252303975318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsChannel13/posts/the-truth-is-out-there-why-did-this-5000-pound-granite-tribute-marking-a-reporte/10156252303975318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pound granite tribute marking a reported 1969 alien...JRE Clips ▻ Aliens &amp; Ufos Group ✓. 3y · Public · Berkshire Sightings 1969: Mass UF...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lPIeD2MFs8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lPIeD2MFs8k</a>  
+   Link:<a href="https://www.youtube.com/watch?v=lPIeD2MFs8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lPIeD2MFs8k</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.thetab.com  
    Title: berkshires ufo theories unsolved mysteries netflix 165095  
-   Link: <a href="https://archive.thetab.com/uk/2020/07/07/berkshires-ufo-theories-unsolved-mysteries-netflix-165095" target="_blank" rel="noopener noreferrer nofollow">https://archive.thetab.com/uk/2020/07/07/berkshires-ufo-theories-unsolved-mysteries-netflix-165095</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The TabBerkshires UFO theories: What actually happened there in...7 Jul 2020 — The main theory about what happened in the Berkshires on...</p></details>
+   Link:<a href="https://archive.thetab.com/uk/2020/07/07/berkshires-ufo-theories-unsolved-mysteries-netflix-165095" target="_blank" rel="noopener noreferrer nofollow">https://archive.thetab.com/uk/2020/07/07/berkshires-ufo-theories-unsolved-mysteries-netflix-165095</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TabBerkshires UFO theories: What actually happened there in...7 Jul 2020 — The main theory about what happened in the Berkshires on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jimconnors.net  
    Title: 1394 the great barrington ufo encounter of 1969  
-   Link: <a href="https://jimconnors.net/interesting-things-with-jc/2025/9/1/1394-the-great-barrington-ufo-encounter-of-1969" target="_blank" rel="noopener noreferrer nofollow">https://jimconnors.net/interesting-things-with-jc/2025/9/1/1394-the-great-barrington-ufo-encounter-of-1969</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1394: &quot;The Great Barrington UFO Encounter of 1969&quot;1 Sept 2025 — In this compelling episode, JC explores the 1969 Great Barrington UFO enc...</p></details>
+   Link:<a href="https://jimconnors.net/interesting-things-with-jc/2025/9/1/1394-the-great-barrington-ufo-encounter-of-1969" target="_blank" rel="noopener noreferrer nofollow">https://jimconnors.net/interesting-things-with-jc/2025/9/1/1394-the-great-barrington-ufo-encounter-of-1969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1394: &quot;The Great Barrington UFO Encounter of 1969&quot;1 Sept 2025 — In this compelling episode, JC explores the 1969 Great Barrington UFO enc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: Episode Discussion Thread: Berkshires' UFODate  
-   Link: <a href="https://www.reddit.com/r/UnsolvedMysteries/comments/hj5cqt/episode_discussion_thread_berkshires_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/hj5cqt/episode_discussion_thread_berkshires_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 1969. Location: Berkshire County, Massachusetts. Type of Mystery: UFO Sighting. Logline: Townspeople living in idyllic...Re...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnsolvedMysteries/comments/hj5cqt/episode_discussion_thread_berkshires_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/hj5cqt/episode_discussion_thread_berkshires_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 1969. Location: Berkshire County, Massachusetts. Type of Mystery: UFO Sighting. Logline: Townspeople living in idyllic...Re...</p></details>
    Published: September 1, 1969  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/arts-entertainment/tv/news/berkshire-ufo-sightings-unsolved-mysteries-alien-episode-what-happened-next-a9599251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/tv/news/berkshire-ufo-sightings-unsolved-mysteries-alien-episode-what-happened-next-a9599251.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentBerkshire UFO sightings: Unsolved Mysteries episode is...3 July 2020 — It focuses on the Berkshire UFO sightings, which h...</p></details>
+   Link:<a href="https://www.independent.co.uk/arts-entertainment/tv/news/berkshire-ufo-sightings-unsolved-mysteries-alien-episode-what-happened-next-a9599251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/tv/news/berkshire-ufo-sightings-unsolved-mysteries-alien-episode-what-happened-next-a9599251.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentBerkshire UFO sightings: Unsolved Mysteries episode is...3 July 2020 — It focuses on the Berkshire UFO sightings, which h...</p></details>
    Published: July 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/john.bulmer/posts/restoration-obscuras-sunday-feature-the-great-barrington-incidentsomething-happe/10233308545447629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/john.bulmer/posts/restoration-obscuras-sunday-feature-the-great-barrington-incidentsomething-happe/10233308545447629/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ened in the skies over western Massachusetts on the night of September...</p></details>
+   Link:<a href="https://www.facebook.com/john.bulmer/posts/restoration-obscuras-sunday-feature-the-great-barrington-incidentsomething-happe/10233308545447629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/john.bulmer/posts/restoration-obscuras-sunday-feature-the-great-barrington-incidentsomething-happe/10233308545447629/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ened in the skies over western Massachusetts on the night of September...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: restorationobscura.substack.com  
    Title: the great barrington incident  
-   Link: <a href="https://restorationobscura.substack.com/p/the-great-barrington-incident" target="_blank" rel="noopener noreferrer nofollow">https://restorationobscura.substack.com/p/the-great-barrington-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Barrington Incident - by John BulmerBartholomew, Robert E., and George S. Howard. “UFOs and Alien Contact: Two Centuries of Mystery...</p></details>
+   Link:<a href="https://restorationobscura.substack.com/p/the-great-barrington-incident" target="_blank" rel="noopener noreferrer nofollow">https://restorationobscura.substack.com/p/the-great-barrington-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great Barrington Incident - by John BulmerBartholomew, Robert E., and George S. Howard. “UFOs and Alien Contact: Two Centuries of Mystery...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: weirddarkness.com  
    Title: berkshire ufo incident 1969  
-   Link: <a href="https://weirddarkness.com/berkshire-ufo-incident-1969/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/berkshire-ufo-incident-1969/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BERKSHIRE UFO INCIDENT: When An Entire Town...7 Sept 2025 — In 2015, the Great Barrington Historical Society formally inducted Tom R...</p></details>
+   Link:<a href="https://weirddarkness.com/berkshire-ufo-incident-1969/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/berkshire-ufo-incident-1969/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BERKSHIRE UFO INCIDENT: When An Entire Town...7 Sept 2025 — In 2015, the Great Barrington Historical Society formally inducted Tom R...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: danburylibrary.org  
-   Link: <a href="https://danburylibrary.org/wp-content/uploads/2024/09/reedfamilyincident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://danburylibrary.org/wp-content/uploads/2024/09/reedfamilyincident.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Boston Globe7 Oct 2024 — Great Barrington museum accepts family&#x27;s 1960s account of aliens. By... MUFON has written about the Reed Fa...</p></details>
+   Link:<a href="https://danburylibrary.org/wp-content/uploads/2024/09/reedfamilyincident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://danburylibrary.org/wp-content/uploads/2024/09/reedfamilyincident.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Boston Globe7 Oct 2024 — Great Barrington museum accepts family&#x27;s 1960s account of aliens. By... MUFON has written about the Reed Fa...</p></details>

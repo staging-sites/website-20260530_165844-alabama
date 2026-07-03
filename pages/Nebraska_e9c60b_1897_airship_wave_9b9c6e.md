@@ -262,7 +262,7 @@ image: /assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-overview-social.j
 
 ## Introduction
 
-Nebraska’s 1897 airship wave was an early UFO-like episode that unfolded decades before “flying saucers”, jet aircraft or Cold War secrecy entered the public imagination. Beginning with reports from Hastings and nearby communities in February 1897, Nebraska newspapers described a mysterious lighted “air ship” that hovered, circled, travelled at remarkable speed and was sometimes said to have wings, side lights, an engine noise or even visible passengers. The best modern historical study, Roger L. Welsch’s 1979 article for *Nebraska History*, found nearly 200 reported sightings in Nebraska newspapers, while also stressing that the subject is as much about newspaper behaviour, public belief and folklore as about anything in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+Nebraska’s 1897 airship wave was an early UFO-like episode that unfolded decades before “flying saucers”, jet aircraft or Cold War secrecy entered the public imagination. Beginning with reports from Hastings and nearby communities in February 1897, Nebraska newspapers described a mysterious lighted “air ship” that hovered, circled, travelled at remarkable speed and was sometimes said to have wings, side lights, an engine noise or even visible passengers. The best modern historical study, Roger L. Welsch’s 1979 article for *Nebraska History*, found nearly 200 reported sightings in Nebraska newspapers, while also stressing that the subject is as much about newspaper behaviour, public belief and folklore as about anything in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
 <img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-overview.webp" | relative_url }}" alt="Overview image for Airship Wave" loading="eager" decoding="sync" fetchpriority="high">
 The importance of the Nebraska wave is not that it proves a hidden aircraft or extraterrestrial craft was present. It matters because it shows how many later UFO ingredients were already in place in the 1890s: repeating reports, respected witnesses, ridicule, local [hoaxes]({{ 'hoaxes/' | relative_url }}), scientific explanations, newspaper amplification and a public willing to treat strange lights as both news and entertainment. Nebraska’s airship mystery is therefore best read as a founding chapter in the state’s UFO history, but one with evidence that remains intriguing, fragmented and deeply entangled with the press culture of its time.
@@ -271,28 +271,28 @@ The importance of the Nebraska wave is not that it proves a hidden aircraft or e
 
 ## How the reports spread across Nebraska towns
 
-The reported Nebraska sequence opened publicly on 2 February 1897, when the *Omaha Daily Bee* carried an account from Hastings. According to Welsch’s reproduction of the report, “several Hastings people” said an airship, or something like one, had been seen west of the city. The account described a bright light that seemed artificial, hovered, circled, moved north, descended and disappeared. The same article said the object may have been noticed the previous autumn, but February 1897 is when the newspaper trail becomes the useful historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+The reported Nebraska sequence opened publicly on 2 February 1897, when the *Omaha Daily Bee* carried an account from Hastings. According to Welsch’s reproduction of the report, “several Hastings people” said an airship, or something like one, had been seen west of the city. The account described a bright light that seemed artificial, hovered, circled, moved north, descended and disappeared. The same article said the object may have been noticed the previous autumn, but February 1897 is when the newspaper trail becomes the useful historical record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
-Within days the story moved beyond Hastings. On 5 February, the *Omaha Daily Bee* reported a sighting at Inavale, roughly 40 miles south of Hastings, including a group returning from a prayer meeting. That report had more of the texture later associated with classic UFO narratives: a conical form, a bright headlight, smaller lights along the sides, possible wings, a rudder-like feature, engine sounds and voices or laughter from the craft. Whether accurate, embellished or partly invented, it gave the mystery a more mechanical and human-made shape than a simple “strange light” report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+Within days the story moved beyond Hastings. On 5 February, the *Omaha Daily Bee* reported a sighting at Inavale, roughly 40 miles south of Hastings, including a group returning from a prayer meeting. That report had more of the texture later associated with classic UFO narratives: a conical form, a bright headlight, smaller lights along the sides, possible wings, a rudder-like feature, engine sounds and voices or laughter from the craft. Whether accurate, embellished or partly invented, it gave the mystery a more mechanical and human-made shape than a simple “strange light” report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
-The reports then spread through a recognisable newspaper network. Welsch’s article identifies Omaha, Lincoln, Wymore, Hastings and many other Nebraska towns as places whose papers chronicled the sightings. He also describes reports from Beatrice, Kearney, North Platte, Grand Island, Harrison, Nebraska City and other communities, with the pattern growing from scattered notices into a state-wide talking point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+The reports then spread through a recognisable newspaper network. Welsch’s article identifies Omaha, Lincoln, Wymore, Hastings and many other Nebraska towns as places whose papers chronicled the sightings. He also describes reports from Beatrice, Kearney, North Platte, Grand Island, Harrison, Nebraska City and other communities, with the pattern growing from scattered notices into a state-wide talking point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
-Several features made the wave unusually durable in the press. First, the sightings were local enough for editors to make them feel immediate: the airship was not just a distant marvel in California, but something allegedly passing over Nebraska streets, farms and railway towns. Secondly, the reports were repeatable. Newspapers could say that another town had seen it, that a former sceptic had changed his mind, or that a watch party was being organised. Thirdly, the story arrived in a period when “airship” sounded futuristic but not impossible. Controlled aviation was still experimental, and the Wright brothers’ first powered, controlled heavier-than-air flight would not occur until 17 December 1903. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">They made the first powered,</span><span class="citation-popover-snippet">National Air and Space MuseumThe Wright Brothers Made History at Kitty HawkJune 23, 2022 — 23 Jun 2022 — At 10:35 a.m., on December 17, 1...</span><span class="citation-popover-meta">Published: June 23, 2022</span></span></span>
+Several features made the wave unusually durable in the press. First, the sightings were local enough for editors to make them feel immediate: the airship was not just a distant marvel in California, but something allegedly passing over Nebraska streets, farms and railway towns. Secondly, the reports were repeatable. Newspapers could say that another town had seen it, that a former sceptic had changed his mind, or that a watch party was being organised. Thirdly, the story arrived in a period when “airship” sounded futuristic but not impossible. Controlled aviation was still experimental, and the Wright brothers’ first powered, controlled heavier-than-air flight would not occur until 17 December 1903.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">They made the first powered,</span><span class="citation-popover-snippet">National Air and Space MuseumThe Wright Brothers Made History at Kitty HawkJune 23, 2022 — 23 Jun 2022 — At 10:35 a.m., on December 17, 1...</span><span class="citation-popover-meta">Published: June 23, 2022</span></span></span>
 
-That technological gap is central to the mystery’s appeal. By 1897, lighter-than-air craft were not pure fantasy: Charles Renard and Arthur Krebs had flown the French military airship *La France* in 1884, making a controlled circular journey. But the Nebraska accounts often described manoeuvres, speeds, distances and night operations far beyond what a known secret airship would be expected to demonstrate across the Plains. That mismatch between plausible invention and implausible performance is exactly where the folklore took hold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Charles-Renard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Charles Renard &#124; Aviation Pioneer, Balloonist &amp; Inventor</span><span class="citation-popover-snippet">Encyclopedia Britannica Charles Renard &#124; Aviation Pioneer, Balloonist &amp; Inventor</span></span></span>
+That technological gap is central to the mystery’s appeal. By 1897, lighter-than-air craft were not pure fantasy: Charles Renard and Arthur Krebs had flown the French military airship *La France* in 1884, making a controlled circular journey. But the Nebraska accounts often described manoeuvres, speeds, distances and night operations far beyond what a known secret airship would be expected to demonstrate across the Plains. That mismatch between plausible invention and implausible performance is exactly where the folklore took hold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Charles-Renard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Charles Renard &#124; Aviation Pioneer, Balloonist &amp; Inventor</span><span class="citation-popover-snippet">Encyclopedia Britannica Charles Renard &#124; Aviation Pioneer, Balloonist &amp; Inventor</span></span></span>
 
 <img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-1-dark.svg" | relative_url }}" alt="Airship Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credible witnesses, jokes and newspaper doubt
 
-Nebraska’s airship wave did not survive only because people were gullible. It survived because newspapers repeatedly placed ridicule beside testimony from people presented as reliable. Welsch noted that editors often seemed trapped between not wanting to endorse nonsense and not wanting to ignore reports from sober, respectable or named witnesses. In one example, the *Hastings Tribune* defended a witness by saying he was a total abstainer, a detail that mattered because rival editors were already joking that airship witnesses had been drinking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+Nebraska’s airship wave did not survive only because people were gullible. It survived because newspapers repeatedly placed ridicule beside testimony from people presented as reliable. Welsch noted that editors often seemed trapped between not wanting to endorse nonsense and not wanting to ignore reports from sober, respectable or named witnesses. In one example, the *Hastings Tribune* defended a witness by saying he was a total abstainer, a detail that mattered because rival editors were already joking that airship witnesses had been drinking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
-The scepticism was immediate. After the Hastings report, the *Norfolk News* mocked the idea by asking what brand of liquor could make a correspondent see airships carrying powerful lights. The *Beatrice Daily Express* ridiculed the Wymore *Arbor State* for “swallowing” the airship story and believing too readily in the reports. These jokes were not side comments; they were part of the mechanism by which the story spread. A town could be mocked for believing, then another town could report that its own citizens had now seen the object too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+The scepticism was immediate. After the Hastings report, the *Norfolk News* mocked the idea by asking what brand of liquor could make a correspondent see airships carrying powerful lights. The *Beatrice Daily Express* ridiculed the Wymore *Arbor State* for “swallowing” the airship story and believing too readily in the reports. These jokes were not side comments; they were part of the mechanism by which the story spread. A town could be mocked for believing, then another town could report that its own citizens had now seen the object too.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
-There were also sincere attempts to explain the sightings. Some editors suggested kites, and Welsch records discussion of box kites flown by an enthusiast near Juniata. Others pointed to Venus. The Grand Island *Independent* explained one “sighting” as the brilliant evening star, while Father William Rigge, an astronomer at Creighton University in Omaha, argued that an earlier alleged airship was Venus seen through moving cloud and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+There were also sincere attempts to explain the sightings. Some editors suggested kites, and Welsch records discussion of box kites flown by an enthusiast near Juniata. Others pointed to Venus. The Grand Island *Independent* explained one “sighting” as the brilliant evening star, while Father William Rigge, an astronomer at Creighton University in Omaha, argued that an earlier alleged airship was Venus seen through moving cloud and atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
 Those explanations do not account for every newspaper claim, especially the more elaborate reports of engines, wings and passengers. But that is partly the point: the more detailed the story became, the less it resembled a clean astronomical observation and the more it resembled rumour, expectation and embellishment layered onto a bright light. In modern UFO terms, Nebraska’s 1897 reports show how quickly a basic stimulus can become a structured craft when witnesses and readers already have a cultural template available.
 
-Hoaxes were not merely possible; some were admitted. History Nebraska’s short account says newspaper editors fabricated a few sightings to publicise their communities, while practical jokers used box kites to fool onlookers. Welsch also cites the Wymore *Arbor State*, which had previously supported the airship’s reality, admitting that the “airship” seen by the Ak-Sar-Bens at Omaha had been declared a balloon and that the men responsible had confessed to the joke. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+Hoaxes were not merely possible; some were admitted. History Nebraska’s short account says newspaper editors fabricated a few sightings to publicise their communities, while practical jokers used box kites to fool onlookers. Welsch also cites the Wymore *Arbor State*, which had previously supported the airship’s reality, admitting that the “airship” seen by the Ak-Sar-Bens at Omaha had been declared a balloon and that the men responsible had confessed to the joke.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
 The presence of hoaxes weakens any claim that the Nebraska wave can be treated as a single coherent event. It does not prove that every report was invented, but it does show that the press environment rewarded imitation. Once the airship became a popular story, it could be used for jokes, civic boasting, political satire, publicity and practical mischief. That makes the evidence lively but unstable.
 
@@ -300,20 +300,20 @@ The presence of hoaxes weakens any claim that the Nebraska wave can be treated a
 
 ## Why Nebraska newspapers turned a light into folklore
 
-The 1897 airship stories are hard to separate from the newspapers that carried them. Readex’s survey of historical newspapers notes that, from November 1896 into 1897, papers across the United States described mysterious aircraft and lights, with the Midwest gripped by “UFO fever” by April 1897. Nebraska fits that national pattern, but it also appears to have been one of the places where the second phase of the wave became especially visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">ufo fever americas historical newspapers mysterious airships 1896 97</span></span></span>
+The 1897 airship stories are hard to separate from the newspapers that carried them. Readex’s survey of historical newspapers notes that, from November 1896 into 1897, papers across the United States described mysterious aircraft and lights, with the Midwest gripped by “UFO fever” by April 1897. Nebraska fits that national pattern, but it also appears to have been one of the places where the second phase of the wave became especially visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships</span><span class="citation-popover-snippet">ufo fever americas historical newspapers mysterious airships</span></span></span>
 
 Several pressures pushed local papers towards keeping the story alive. Newspapers needed copy, competition and colour. A mysterious airship could fill all three needs: it was local, serial, comic, frightening, modern and adaptable. Editors could print straight witness accounts one day and mock the same phenomenon the next. They could connect sightings to inventors, politics, religion, astronomy, local pride or civic spectacle.
 
-Omaha provides a vivid example. Welsch describes an April 1897 *Omaha World-Herald* “Airship Edition” in everything but name, carrying contradictory treatments of the mystery: one playful item linked to Omaha’s fictional Ak-Sar-Ben monarchy, another more serious discussion of an alleged inventor, and another account of an airship design connected to a patent solicitor. The result was not a simple news report but a blend of journalism, satire, boosterism and speculative technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+Omaha provides a vivid example. Welsch describes an April 1897 *Omaha World-Herald* “Airship Edition” in everything but name, carrying contradictory treatments of the mystery: one playful item linked to Omaha’s fictional Ak-Sar-Ben monarchy, another more serious discussion of an alleged inventor, and another account of an airship design connected to a patent solicitor. The result was not a simple news report but a blend of journalism, satire, boosterism and speculative technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
 That blend matters because it explains why the airship could remain culturally powerful while becoming evidentially weaker. A modern reader may ask, “Was it real?” A Nebraska newspaper reader in 1897 may have been offered several answers at once: perhaps it was Venus, perhaps a secret inventor, perhaps a hoax, perhaps a divine sign, perhaps a local joke, perhaps tomorrow’s technology arriving early. The papers did not always resolve those possibilities; they often profited from holding them together.
 
-The state also had a pre-existing newspaper-hoax culture that helps explain the later life of the airship reports. History Nebraska’s discussion of the 1884 Dundy County “Celestial Visitor” shows how a spectacular Nebraska newspaper story about a fallen object was later exposed as a hoax created by *Nebraska State Journal* managing editor James D. Calhoun. That earlier case is not the same event as the 1897 wave, but it is a useful warning: nineteenth-century newspaper detail can look archival and precise while still being entertainment, satire or invention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+The state also had a pre-existing newspaper-hoax culture that helps explain the later life of the airship reports. History Nebraska’s discussion of the 1884 Dundy County “Celestial Visitor” shows how a spectacular Nebraska newspaper story about a fallen object was later exposed as a hoax created by *Nebraska State Journal* managing editor James D. Calhoun. That earlier case is not the same event as the 1897 wave, but it is a useful warning: nineteenth-century newspaper detail can look archival and precise while still being entertainment, satire or invention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
 <img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-2-dark.svg" | relative_url }}" alt="Airship Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the strongest and weakest evidence suggests
 
-The strongest evidence for Nebraska’s 1897 airship wave is not physical evidence. There is no recovered craft, no reliable photograph and no official investigation comparable to later twentieth-century UFO inquiries. The strongest evidence is the breadth of the newspaper record: numerous reports, named towns, repeated dates, witnesses presented as credible, and a pattern that Welsch found large enough to approach nearly 200 sightings in Nebraska sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
+The strongest evidence for Nebraska’s 1897 airship wave is not physical evidence. There is no recovered craft, no reliable photograph and no official investigation comparable to later twentieth-century UFO inquiries. The strongest evidence is the breadth of the newspaper record: numerous reports, named towns, repeated dates, witnesses presented as credible, and a pattern that Welsch found large enough to approach nearly 200 sightings in Nebraska sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</span></span></span>
 
 That breadth should not be dismissed. Mass newspaper patterns can preserve real social events even when they do not prove the literal content of every report. Something happened in Nebraska in 1897 at the level of public attention: people watched the sky, newspapers exchanged reports, sceptics answered believers, and the “airship” became a shared state-wide reference point.
 
@@ -336,194 +336,194 @@ The wave’s lasting value is therefore historical rather than sensational. It s
 <img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-3-dark.svg" | relative_url }}" alt="Airship Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Nebraska&#x27;s Airship Mystery Before Flying Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Nebraska&#x27;s Airship Mystery Before Flying Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Strong match for the 1897 Nebraska airship wave and pre-UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for the 1897 Nebraska airship wave and pre-UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Includes historical airship and early UFO material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes historical airship and early UFO material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
         
-        <p class="fr-book-desc">Explores how communities create and sustain mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how communities create and sustain mystery narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines historical aerial and folklore-based encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines historical aerial and folklore-based encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed"><img src="https://i.ebayimg.com/images/g/t4YAAeSw8uFqJqZx/s-l225.jpg" alt="Listing image for 1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed"><img src="https://i.ebayimg.com/images/g/t4YAAeSw8uFqJqZx/s-l225.jpg" alt="Listing image for 1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="https://i.ebayimg.com/images/g/zEoAAeSwzHBo29i9/s-l225.jpg" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="https://i.ebayimg.com/images/g/zEoAAeSwzHBo29i9/s-l225.jpg" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="https://i.ebayimg.com/images/g/KJAAAeSwHlpqIC~m/s-l225.jpg" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="https://i.ebayimg.com/images/g/KJAAAeSwHlpqIC~m/s-l225.jpg" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="nebraska-s-airship-mystery-before-flying-saucers-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The wave’s lasting value is therefore historical rather than sensational. It s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The wave’s lasting value is therefore historical rather than sensational. It s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The wave’s lasting value is therefore historical rather than sensational. It s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The wave’s lasting value is therefore historical rather than sensational. It s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The wave’s lasting value is therefore historical rather than sensational. It s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,111 +729,111 @@ The wave’s lasting value is therefore historical rather than sensational. It s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.nebraska.gov  
    Title: State Historical Society Microsoft Word  
-   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</p></details>
+   Link:<a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyMicrosoft Word - NH1979UFO1897 intro.doc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Charles Renard | Aviation Pioneer, Balloonist & Inventor  
-   Link: <a href="https://www.britannica.com/biography/Charles-Renard" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Charles-Renard</a>  
+   Link:<a href="https://www.britannica.com/biography/Charles-Renard" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Charles-Renard</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.nebraska.gov  
    Title: State Historical Society"Look! Up in the Air...!  
-   Link: <a href="https://history.nebraska.gov/look-up-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/look-up-in-the-air/</a>  
+   Link:<a href="https://history.nebraska.gov/look-up-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/look-up-in-the-air/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
+   Link:<a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.nebraska.gov  
-   Link: <a href="https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/</a>  
+   Link:<a href="https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: La France | airship  
-   Link: <a href="https://www.britannica.com/topic/La-France" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/La-France</a>  
+   Link:<a href="https://www.britannica.com/topic/La-France" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/La-France</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.nebraska.gov  
    Title: doc publications NH2013Hoax  
-   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf</a>  
+   Link:<a href="https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.nebraska.gov  
    Title: roger l welsch  
-   Link: <a href="https://history.nebraska.gov/document-author/roger-l-welsch/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/document-author/roger-l-welsch/</a>  
+   Link:<a href="https://history.nebraska.gov/document-author/roger-l-welsch/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/document-author/roger-l-welsch/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airandspace.si.edu  
    Title: They made the first powered,  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumThe Wright Brothers Made History at Kitty HawkJune 23, 2022 — 23 Jun 2022 — At 10:35 a.m., on December 17, 1...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumThe Wright Brothers Made History at Kitty HawkJune 23, 2022 — 23 Jun 2022 — At 10:35 a.m., on December 17, 1...</p></details>
    Published: June 23, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nThHfFdS8b4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nThHfFdS8b4</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nebraskalife.com  
    Title: is there anybody out there  
-   Link: <a href="https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-" target="_blank" rel="noopener noreferrer nofollow">https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-</a>  
+   Link:<a href="https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-" target="_blank" rel="noopener noreferrer nofollow">https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nebraskaauthors.org  
-   Link: <a href="https://nebraskaauthors.org/authors/roger-l-welsch" target="_blank" rel="noopener noreferrer nofollow">https://nebraskaauthors.org/authors/roger-l-welsch</a>  
+   Link:<a href="https://nebraskaauthors.org/authors/roger-l-welsch" target="_blank" rel="noopener noreferrer nofollow">https://nebraskaauthors.org/authors/roger-l-welsch</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nebraskapublicmedia.org  
-   Link: <a href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow">https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/</a>  
+   Link:<a href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow">https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=WnV5v-ECzPY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WnV5v-ECzPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1897 mystery airship wave &quot;Mystery Airship&quot; Sightings, 1896 - 1897 Think Anomalous...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=WnV5v-ECzPY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WnV5v-ECzPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1897 mystery airship wave &quot;Mystery Airship&quot; Sightings, 1896 - 1897 Think Anomalous...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DoJUsaTknNw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DoJUsaTknNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/pictures/item/00652085/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/pictures/item/00652085/</a>  
+   Link:<a href="https://www.loc.gov/pictures/item/00652085/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/pictures/item/00652085/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IBaw2oqVz8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IBaw2oqVz8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AerospaceMuseumCA/posts/looking-at-panel-2-of-our-hidden-heroes-of-the-hangar-mural-we-learn-that-in-185/1737677677573147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AerospaceMuseumCA/posts/looking-at-panel-2-of-our-hidden-heroes-of-the-hangar-mural-we-learn-that-in-185/1737677677573147/</a>  
+   Link:<a href="https://www.facebook.com/AerospaceMuseumCA/posts/looking-at-panel-2-of-our-hidden-heroes-of-the-hangar-mural-we-learn-that-in-185/1737677677573147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AerospaceMuseumCA/posts/looking-at-panel-2-of-our-hidden-heroes-of-the-hangar-mural-we-learn-that-in-185/1737677677573147/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/</a>  
+   Link:<a href="https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blimpinfo.com  
-   Link: <a href="https://www.blimpinfo.com/wp-content/uploads/2012/01/First-Fully-Controlled-Flight-of-an-Airship.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.blimpinfo.com/wp-content/uploads/2012/01/First-Fully-Controlled-Flight-of-an-Airship.pdf</a>  
+   Link:<a href="https://www.blimpinfo.com/wp-content/uploads/2012/01/First-Fully-Controlled-Flight-of-an-Airship.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.blimpinfo.com/wp-content/uploads/2012/01/First-Fully-Controlled-Flight-of-an-Airship.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CommemorativeAF/posts/engineers-charles-renard-and-arthur-constantin-krebs-piloted-the-airship-la-fran/903853228447561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CommemorativeAF/posts/engineers-charles-renard-and-arthur-constantin-krebs-piloted-the-airship-la-fran/903853228447561/</a>
+   Link:<a href="https://www.facebook.com/CommemorativeAF/posts/engineers-charles-renard-and-arthur-constantin-krebs-piloted-the-airship-la-fran/903853228447561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CommemorativeAF/posts/engineers-charles-renard-and-arthur-constantin-krebs-piloted-the-airship-la-fran/903853228447561/</a>

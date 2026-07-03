@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /utah-2ff606-utah-sky-misidentifi/
 description: Focused pages that expand on Sky Clues.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Utah_2ff606_utah_sky_misidentifi_a4c459
 parent_title: Sky Clues
@@ -16,7 +16,7 @@ parent_permalink: /sky-clues-c0959c/
 
 # Explore Topics in Sky Clues
 
-The following pages expand on the main **[Sky Clues]({{ '/sky-clues-c0959c/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sky Clues]({{ '/sky-clues-c0959c/' | relative_url }})** page and cover its key branches in.
 
 - [Fireballs]({{ '/fireballs-ed88e9/' | relative_url }})
 - [Starlink]({{ '/starlink-d20670/' | relative_url }})

@@ -273,53 +273,53 @@ Hayden C. Hewes matters to Oklahoma UFO history because he helped turn fleeting 
 <img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-overview.webp" | relative_url }}" alt="Overview image for Local Network" loading="eager" decoding="sync" fetchpriority="high">
 ## Hayden Hewes and local investigation culture
 
-Hewes’ role began unusually early. Later local reporting says Hayden Cooper Hewes was born in 1943, moved with his family to Oklahoma City, and founded the International UFO Bureau in 1957 while still in high school. The same account describes the Bureau as attracting hundreds of members in the United States and abroad, including scientists, astronomers and other people interested in a serious approach to UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
+Hewes’ role began unusually early. Later local reporting says Hayden Cooper Hewes was born in 1943, moved with his family to Oklahoma City, and founded the International UFO Bureau in 1957 while still in high school. The same account describes the Bureau as attracting hundreds of members in the United States and abroad, including scientists, astronomers and other people interested in a serious approach to UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
 
-The names around Hewes’ work can be confusing because the organisation appears in different forms across accounts. In 1965 local coverage identifies him as director of Interplanetary Intelligence of UFOs, or IIOUFO, a civilian group whose stated purpose was the study and scientific research of unidentified flying objects. That account says the group included scientists, astronomers and other interested members, and that police or media reports could be routed to Hewes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> Later sources use the International UFO Bureau name, and archival listings also identify an “International UFO Bureau (Oklahoma City)” file of correspondence with Hewes from 1969 to 1974. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/15450.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The names around Hewes’ work can be confusing because the organisation appears in different forms across accounts. In 1965 local coverage identifies him as director of Interplanetary Intelligence of UFOs, or IIOUFO, a civilian group whose stated purpose was the study and scientific research of unidentified flying objects. That account says the group included scientists, astronomers and other interested members, and that police or media reports could be routed to Hewes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> Later sources use the International UFO Bureau name, and archival listings also identify an “International UFO Bureau (Oklahoma City)” file of correspondence with Hewes from 1969 to 1974.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/15450.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-What made the Oklahoma network distinctive was not laboratory equipment or official authority. It was access. Hewes reportedly had friends in local police and media who kept him informed about UFO reports and referred witnesses to his Bureau. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> In a pre-internet setting, that mattered. A sighting could disappear into neighbourhood talk, or it could pass through a chain of radio calls, reporters, investigators and clipping files. Hewes’ network helped create the second outcome.
+What made the Oklahoma network distinctive was not laboratory equipment or official authority. It was access. Hewes reportedly had friends in local police and media who kept him informed about UFO reports and referred witnesses to his Bureau.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> In a pre-internet setting, that mattered. A sighting could disappear into neighbourhood talk, or it could pass through a chain of radio calls, reporters, investigators and clipping files. Hewes’ network helped create the second outcome.
 
 That does not make the record automatically reliable. Civilian UFO groups could preserve testimony, but they could also amplify excitement, accept witness impressions too quickly, or frame ambiguous lights as part of a larger pattern. The value of Hewes’ network is therefore historical before it is evidential: it shows how Oklahoma’s UFO stories were collected, circulated and kept available for later scrutiny.
 
 <img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-1-dark.svg" | relative_url }}" alt="Local Network illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the 1965 flap tested the network
 
-The strongest Oklahoma example is the late July and early August 1965 wave of reports. Local accounts describe the sequence beginning in the early hours of 31 July, when [Wynnewood]({{ 'wynnewood/' | relative_url }}) police officer Lewis Sikes reported a bright object with a blue-green centre and a rotating light. The Murray County sheriff’s office was also said to have confirmed the sighting, while Tinker Air Force Base reportedly picked up an unidentified radar blip at about the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
+The strongest Oklahoma example is the late July and early August 1965 wave of reports. Local accounts describe the sequence beginning in the early hours of 31 July, when [Wynnewood]({{ 'wynnewood/' | relative_url }}) police officer Lewis Sikes reported a bright object with a blue-green centre and a rotating light. The Murray County sheriff’s office was also said to have confirmed the sighting, while Tinker Air Force Base reportedly picked up an unidentified radar blip at about the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
 
-The next day, Hewes went to Wynnewood to interview Sikes. That detail is important because it shows the civilian network in action: a police report did not simply become a newspaper oddity; it became the subject of local follow-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> By the evening of 1 August, reports had spread. A television newsman, Mike Buchanan, reportedly telephoned Hewes to say the Oklahoma Highway Patrol had received more than 20 calls about UFOs heading towards Oklahoma City. Hewes then went to the Highway Patrol communications tower near the Broadway Extension, where he listened as further reports came in over police radio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
+The next day, Hewes went to Wynnewood to interview Sikes. That detail is important because it shows the civilian network in action: a police report did not simply become a newspaper oddity; it became the subject of local follow-up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> By the evening of 1 August, reports had spread. A television newsman, Mike Buchanan, reportedly telephoned Hewes to say the Oklahoma Highway Patrol had received more than 20 calls about UFOs heading towards Oklahoma City. Hewes then went to the Highway Patrol communications tower near the Broadway Extension, where he listened as further reports came in over police radio.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
 
-Hewes later recalled seeing his only UFO that night with six highway patrol troopers. He described a multicoloured flashing light hovering above the western horizon, while officers near El Reno were reportedly observing the same object from another direction, giving what he called a triangular fix. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> This is one of the reasons his name remains attached to Oklahoma UFO history: he was not merely receiving second-hand reports, but was present during a major local watch involving law-enforcement witnesses.
+Hewes later recalled seeing his only UFO that night with six highway patrol troopers. He described a multicoloured flashing light hovering above the western horizon, while officers near El Reno were reportedly observing the same object from another direction, giving what he called a triangular fix.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> This is one of the reasons his name remains attached to Oklahoma UFO history: he was not merely receiving second-hand reports, but was present during a major local watch involving law-enforcement witnesses.
 
-The caution is equally important. Reports of coloured lights, hovering, rapid motion and sharp turns are striking, but they remain witness reports under night-sky conditions. The Air Force’s public response at the time leaned towards astronomical explanations: Jupiter, Capella, Betelgeuse or Aldebaran, with apparent blinking or colour change attributed to atmospheric scintillation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> Sceptics have a clear starting point here: many sincere night-sky reports are caused by stars, planets, aircraft, balloons, atmospheric effects or distance-estimation errors.
+The caution is equally important. Reports of coloured lights, hovering, rapid motion and sharp turns are striking, but they remain witness reports under night-sky conditions. The Air Force’s public response at the time leaned towards astronomical explanations: Jupiter, Capella, Betelgeuse or Aldebaran, with apparent blinking or colour change attributed to atmospheric scintillation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> Sceptics have a clear starting point here: many sincere night-sky reports are caused by stars, planets, aircraft, balloons, atmospheric effects or distance-estimation errors.
 
-Yet the Air Force explanation also generated criticism because Oklahoma witnesses and reporters believed the reports included features that did not fit a simple star or planet explanation, including alleged radar tracks and multiple law-enforcement observations. The broader Project Blue Book record shows why this tension mattered. The Air Force later said Blue Book collected 12,618 reports between 1947 and 1969, with 701 left unidentified, while also concluding that no investigated UFO showed evidence of extraterrestrial vehicles or a national-security threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> Oklahoma’s 1965 cases sit precisely in that uneasy space: not proof of extraordinary craft, but also not easily reduced to a single tidy story without losing parts of the local record.
+Yet the Air Force explanation also generated criticism because Oklahoma witnesses and reporters believed the reports included features that did not fit a simple star or planet explanation, including alleged radar tracks and multiple law-enforcement observations. The broader Project Blue Book record shows why this tension mattered. The Air Force later said Blue Book collected 12,618 reports between 1947 and 1969, with 701 left unidentified, while also concluding that no investigated UFO showed evidence of extraterrestrial vehicles or a national-security threat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> Oklahoma’s 1965 cases sit precisely in that uneasy space: not proof of extraordinary craft, but also not easily reduced to a single tidy story without losing parts of the local record.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a52zYAHDxWU" title="The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a52zYAHDxWU" target="_blank" rel="noopener noreferrer">The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 56.5K &middot; Uploaded: March 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a52zYAHDxWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a52zYAHDxWU">Open on YouTube</a></p></div></div></div>
 
 ## Newspapers, police calls and public trust
 
-Hewes’ network worked because it overlapped with people the public already trusted: police officers, Highway Patrol dispatchers, photographers and newspaper staff. During the [1965 flap]({{ '1965-flap/' | relative_url }}), the Edmond Sun and other local papers turned the sightings into public news rather than private rumour. One local account says the 3 August 1965 edition of the Edmond Sun ran a front-page article under the headline “Edmond Claims Share of Saucer Sighting,” and that IIOUFO hosted a saucer-watch party on the grounds of WKY Radio that evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
+Hewes’ network worked because it overlapped with people the public already trusted: police officers, Highway Patrol dispatchers, photographers and newspaper staff. During the [1965 flap]({{ '1965-flap/' | relative_url }}), the Edmond Sun and other local papers turned the sightings into public news rather than private rumour. One local account says the 3 August 1965 edition of the Edmond Sun ran a front-page article under the headline “Edmond Claims Share of Saucer Sighting,” and that IIOUFO hosted a saucer-watch party on the grounds of WKY Radio that evening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
 
 This was not just publicity. Public reporting created a feedback loop. Once newspapers covered the reports, more witnesses knew that others had seen something, which encouraged additional calls and accounts. That can strengthen a record by bringing forward corroborating witnesses. It can also weaken it by increasing expectation, social contagion and the temptation to interpret ordinary sky objects as part of a flap.
 
-The Tulsa photograph taken by 14-year-old Alan Smith shows how the network moved from witness testimony to attempted documentation. According to local reporting, Smith and other witnesses saw an object in the early hours of 2 August 1965; after the film was developed, the family found a multicoloured saucer-shaped image on one frame. A neighbour contacted Hewes, who arrived with Oklahoma Journal photographer Cliff King. King attempted a same-location, same-time photographic check to test whether the image might be a lens flaw or reflection from an earthbound object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
+The Tulsa photograph taken by 14-year-old Alan Smith shows how the network moved from witness testimony to attempted documentation. According to local reporting, Smith and other witnesses saw an object in the early hours of 2 August 1965; after the film was developed, the family found a multicoloured saucer-shaped image on one frame. A neighbour contacted Hewes, who arrived with Oklahoma Journal photographer Cliff King. King attempted a same-location, same-time photographic check to test whether the image might be a lens flaw or reflection from an earthbound object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span>
 
-The Oklahoma Journal then took the case further. Its aviation editor, associate editor and publisher were reportedly involved in interviewing witnesses and assessing the photograph before the paper ran the story on 5 October 1965. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> That process is a useful example of why Oklahoma’s civilian network is historically significant. Hewes did not replace journalism; he fed material into it. The newspaper did not simply publish a rumour; it sought witnesses, examined the film and tried to reproduce the image.
+The Oklahoma Journal then took the case further. Its aviation editor, associate editor and publisher were reportedly involved in interviewing witnesses and assessing the photograph before the paper ran the story on 5 October 1965.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> That process is a useful example of why Oklahoma’s civilian network is historically significant. Hewes did not replace journalism; he fed material into it. The newspaper did not simply publish a rumour; it sought witnesses, examined the film and tried to reproduce the image.
 
-But the same case also shows the limits of the method. Hewes sent copies to Eastman Kodak and Project Blue Book, and both reportedly said useful analysis required the original negative. Later, after the Oklahoma Journal supplied the original and negative, the Air Force Photo Processing and Photo Analysis Division estimated the object at about 30 feet in diameter at less than a mile, but noted that the image resembled, though not exactly, the effect produced by photographing a multi-coloured rotating filter floodlight used for aluminium Christmas trees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> That is not a clean debunking, but it is a serious mundane possibility.
+But the same case also shows the limits of the method. Hewes sent copies to Eastman Kodak and Project Blue Book, and both reportedly said useful analysis required the original negative. Later, after the Oklahoma Journal supplied the original and negative, the Air Force Photo Processing and Photo Analysis Division estimated the object at about 30 feet in diameter at less than a mile, but noted that the image resembled, though not exactly, the effect produced by photographing a multi-coloured rotating filter floodlight used for aluminium Christmas trees.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> That is not a clean debunking, but it is a serious mundane possibility.
 
-The photograph’s later history became part of the problem. Local reporting says Hewes retained a copy negative for decades, but the whereabouts of the original [Tulsa photo]({{ 'tulsa-photo/' | relative_url }}) and negative became uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> For readers trying to assess the case today, that matters greatly. A striking image is not the same as a preserved chain of custody, and without original materials, later claims about authenticity become harder to test.
+The photograph’s later history became part of the problem. Local reporting says Hewes retained a copy negative for decades, but the whereabouts of the original [Tulsa photo]({{ 'tulsa-photo/' | relative_url }}) and negative became uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[Edmond Life &amp; Leisure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span><span class="citation-popover-snippet">Edmond Life &amp; Leisure Remembering a man who investigated the unusual</span></span></span> For readers trying to assess the case today, that matters greatly. A striking image is not the same as a preserved chain of custody, and without original materials, later claims about authenticity become harder to test.
 
 <img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-2-dark.svg" | relative_url }}" alt="Local Network illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Archives, correspondence and later retellings
 
 Hewes’ value as a historical figure extends beyond Oklahoma’s 1965 sightings. His organisation generated correspondence, forms and research material that later researchers continued to reuse. The clearest national example is the Jimmy Carter UFO report. Carter’s sighting was in Georgia, not Oklahoma, but it illustrates how an Oklahoma-based civilian bureau could gather material of national significance.
 
-A reproduced Carter UFO file shows a report form completed in 1973, listing Carter as Governor, giving Leary, Georgia, as the sighting location, and describing a single luminous object seen for 10 to 12 minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">Carter UFO</span></span></span> A sceptical review of the case says Carter’s handwritten report was submitted to Hewes’ International UFO Bureau in 1973, and that Hewes later provided a photographic transparency of the report to investigator Robert Sheaffer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span><span class="citation-popover-snippet">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span></span></span> Sheaffer argued that the sighting was probably Venus or, in later discussions, another conventional phenomenon; his broader point was that even a prominent, technically educated witness could misperceive or misremember a sky object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span><span class="citation-popover-snippet">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span></span></span>
+A reproduced Carter UFO file shows a report form completed in 1973, listing Carter as Governor, giving Leary, Georgia, as the sighting location, and describing a single luminous object seen for 10 to 12 minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">Carter UFO</span></span></span> A sceptical review of the case says Carter’s handwritten report was submitted to Hewes’ International UFO Bureau in 1973, and that Hewes later provided a photographic transparency of the report to investigator Robert Sheaffer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span><span class="citation-popover-snippet">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span></span></span> Sheaffer argued that the sighting was probably Venus or, in later discussions, another conventional phenomenon; his broader point was that even a prominent, technically educated witness could misperceive or misremember a sky object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span><span class="citation-popover-snippet">President Jimmy Carter&#x27;s Sighting of a UFO (and Rosalynn&#x27;s of a Ghost</span></span></span>
 
-For Oklahoma’s story, the Carter file matters less as a UFO case than as evidence of reach. Hewes’ Oklahoma City operation was not only collecting local police calls; it was corresponding with governors, UFO writers and other organisations. Archival listings reinforce that picture. A guide to the Arthur Bray collection lists “International UFO Bureau (Oklahoma City). Correspondence with Mr. Hayden C. Hewes et al., 1969-1974,” placing Hewes’ Bureau in the wider paper trail of twentieth-century UFO research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/15450.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For Oklahoma’s story, the Carter file matters less as a UFO case than as evidence of reach. Hewes’ Oklahoma City operation was not only collecting local police calls; it was corresponding with governors, UFO writers and other organisations. Archival listings reinforce that picture. A guide to the Arthur Bray collection lists “International UFO Bureau (Oklahoma City). Correspondence with Mr. Hayden C. Hewes et al., 1969-1974,” placing Hewes’ Bureau in the wider paper trail of twentieth-century UFO research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/15450.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-More recently, parts of the Hewes legacy have been folded into digital UFO archiving. MUFON’s Project Aquarius site lists “The Hayden Hewes Videos” and states that Hewes founded the International UFO Bureau in 1957 while still a high-school student. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectaquarius.mufon.com/private-research-collections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[projectaquarius.mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-title">Private Research Collections &#124; MUFON&#x27;s Project Aquarius Library</span><span class="citation-popover-snippet">Private Research Collections &#124; MUFON&#x27;s Project Aquarius Library</span></span></span> This does not independently verify every claim in Hewes’ case files, but it shows that his materials remain useful to later UFO historians, archivists and enthusiasts.
+More recently, parts of the Hewes legacy have been folded into digital UFO archiving. MUFON’s Project Aquarius site lists “The Hayden Hewes Videos” and states that Hewes founded the International UFO Bureau in 1957 while still a high-school student.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectaquarius.mufon.com/private-research-collections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectaquarius.mufon.com">[projectaquarius.mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectaquarius.mufon.com</span><span class="citation-popover-title">Private Research Collections &#124; MUFON&#x27;s Project Aquarius Library</span><span class="citation-popover-snippet">Private Research Collections &#124; MUFON&#x27;s Project Aquarius Library</span></span></span> This does not independently verify every claim in Hewes’ case files, but it shows that his materials remain useful to later UFO historians, archivists and enthusiasts.
 
 Later retellings should be handled carefully. Some modern accounts celebrate Hewes as a pioneering investigator; others fold his work into broader paranormal material, including stories well outside Oklahoma UFO reporting. That makes source discipline essential. The strongest use of Hewes is not to treat every file as evidence of extraordinary visitation, but to read the material as a map of how reports moved: from witnesses to police, from police to media, from media to civilian investigators, and sometimes from there to Air Force or private archives.
 
@@ -338,194 +338,194 @@ The fairest assessment is that Hewes helped preserve a serious local record of a
 <img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-3-dark.svg" | relative_url }}" alt="Local Network illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Kept Oklahoma&#x27;s UFO Stories Alive?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Kept Oklahoma&#x27;s UFO Stories Alive?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers civilian investigation culture and the handling of witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers civilian investigation culture and the handling of witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places local civilian networks like Hewes&#x27; within wider UFO-investigation history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local civilian networks like Hewes&#x27; within wider UFO-investigation history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how reports moved from witnesses into official investigative systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reports moved from witnesses into official investigative systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides background on organizations, investigators and historical cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on organizations, investigators and historical cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-kept-oklahoma-s-ufo-stories-alive-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The fairest assessment is that Hewes helped preserve a serious local record of a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The fairest assessment is that Hewes helped preserve a serious local record of a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The fairest assessment is that Hewes helped preserve a serious local record of a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The fairest assessment is that Hewes helped preserve a serious local record of a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The fairest assessment is that Hewes helped preserve a serious local record of a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,147 +731,147 @@ The fairest assessment is that Hewes helped preserve a serious local record of a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/15450.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/15450.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/15450.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/15450.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documents.theblackvault.com  
    Title: Carter UFO  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: debunker.com  
    Title: President Jimmy Carter's Sighting of a UFO (and Rosalynn's of a Ghost)  
-   Link: <a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
+   Link:<a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: projectaquarius.mufon.com  
    Title: Private Research Collections | MUFON's Project Aquarius Library  
-   Link: <a href="https://projectaquarius.mufon.com/private-research-collections/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/private-research-collections/</a>  
+   Link:<a href="https://projectaquarius.mufon.com/private-research-collections/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/private-research-collections/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: helpdesk.mufon.com  
    Title: project aquarius is live  
-   Link: <a href="https://helpdesk.mufon.com/2024/01/02/project-aquarius-is-live/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/2024/01/02/project-aquarius-is-live/</a>  
+   Link:<a href="https://helpdesk.mufon.com/2024/01/02/project-aquarius-is-live/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/2024/01/02/project-aquarius-is-live/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: helpdesk.mufon.com  
    Title: project aquarius  
-   Link: <a href="https://helpdesk.mufon.com/category/project-aquarius/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/category/project-aquarius/</a>  
+   Link:<a href="https://helpdesk.mufon.com/category/project-aquarius/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/category/project-aquarius/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: helpdesk.mufon.com  
-   Link: <a href="https://helpdesk.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/</a>  
+   Link:<a href="https://helpdesk.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: projectaquarius.mufon.com  
    Title: December November 1985  
-   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf</a>  
+   Link:<a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf</a>  
    Published: November 1985  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: projectaquarius.mufon.com  
    Title: January December 1989  
-   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf</a>  
+   Link:<a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf</a>  
    Published: December 1989  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
+   Link:<a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: edmondlifeandleisure.com  
    Title: Edmond Life & Leisure Remembering a man who investigated the unusual  
-   Link: <a href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm</a>  
+   Link:<a href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: edmondlifeandleisure.com  
    Title: Edmond Life & Leisure Edmond Underground: in '65 Edmond abuzz with UCO sightings  
-   Link: <a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
+   Link:<a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: edmondlifeandleisure.com  
    Title: tulsa paperboy made ufo history in p10411 87  
-   Link: <a href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm</a>  
+   Link:<a href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: internationalufobureau.com  
-   Link: <a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
+   Link:<a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4)  
-   Link: <a href="https://www.youtube.com/watch?v=a52zYAHDxWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a52zYAHDxWU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a52zYAHDxWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a52zYAHDxWU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Unraveling the mystery of the Oklahoma UFO  
-   Link: <a href="https://www.youtube.com/watch?v=A-IXFQh1kEw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A-IXFQh1kEw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A-IXFQh1kEw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A-IXFQh1kEw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Living the Oklahoma GenX Life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Living the Oklahoma GenX Life...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters</a>  
+   Link:<a href="https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/show/5254986/episodes/feed" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/show/5254986/episodes/feed</a>  
+   Link:<a href="https://www.spreaker.com/show/5254986/episodes/feed" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/show/5254986/episodes/feed</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf</a>  
+   Link:<a href="https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: internationalufobureau.com  
-   Link: <a href="https://www.internationalufobureau.com/pastinvestigations" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations</a>  
+   Link:<a href="https://www.internationalufobureau.com/pastinvestigations" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: deezer.com  
-   Link: <a href="https://www.deezer.com/fr/show/413772" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/fr/show/413772</a>  
+   Link:<a href="https://www.deezer.com/fr/show/413772" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/fr/show/413772</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/115957895581/posts/10165928422050582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/115957895581/posts/10165928422050582/</a>
+   Link:<a href="https://www.facebook.com/groups/115957895581/posts/10165928422050582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/115957895581/posts/10165928422050582/</a>

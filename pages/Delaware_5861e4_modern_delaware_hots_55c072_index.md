@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-modern-delaware-hots/
 description: Focused pages that expand on Modern Hotspots.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Delaware_5861e4_modern_delaware_hots_55c072
 parent_title: Modern Hotspots
@@ -16,7 +16,7 @@ parent_permalink: /modern-hotspots/
 
 # Explore Topics in Modern Hotspots
 
-The following pages expand on the main **[Modern Hotspots]({{ '/modern-hotspots/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Modern Hotspots]({{ '/modern-hotspots/' | relative_url }})** page and cover its key branches in.
 
 - [Coastal Lights]({{ '/coastal-lights/' | relative_url }})
 - [Dover AFB]({{ '/dover-afb-0a1432/' | relative_url }})

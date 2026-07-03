@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-jersey-18255a-nj-drone-scare/
 description: Focused pages that expand on Drone Scare.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: New_Jersey_18255a_nj_drone_scare_429534
 parent_title: Drone Scare
@@ -16,7 +16,7 @@ parent_permalink: /drone-scare/
 
 # Explore Topics in Drone Scare
 
-The following pages expand on the main **[Drone Scare]({{ '/drone-scare/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Drone Scare]({{ '/drone-scare/' | relative_url }})** page and cover its key branches in.
 
 - [Base sightings]({{ '/base-sightings/' | relative_url }})
 - [Night lights]({{ '/night-lights-18c3cf/' | relative_url }})

@@ -74,9 +74,9 @@ display_title_short: Mississippi cba 267
 display_title: Mississippi cba 267
 source_count: 137
 infographic_count: 3
-page_website_name: Mississippi UFOs
+page_website_name: Mississippi
 page_banner_line: Clear, balanced pages on the state's sightings, records, witnesses and doubts.
-site_website_name: Mississippi UFOs
+site_website_name: Mississippi
 site_banner_line: Clear, balanced pages on the state's sightings, records, witnesses and doubts.
 site_image_description: Two people stand beside a quiet Mississippi river at night while distant lights hover above the water and a sheriff's car waits...
 output_language: English
@@ -477,25 +477,25 @@ image: /assets/images/Mississippi_cba267-overview-social.jpg
 
 ## Introduction
 
-Mississippi’s UFO history is dominated by one case: the 1973 [Pascagoula]({{ 'pascagoula/' | relative_url }}) incident, in which Charles Hickson and Calvin Parker said they were taken aboard a strange craft while fishing on the Pascagoula River. It matters because it was not just a local oddity. It became one of the best-known American “close encounter” claims, drew police, press and UFO investigators into a fast-moving story, and later became part of Pascagoula’s [public memory]({{ 'public-memory/' | relative_url }}) through documentaries, anniversary events and a historical marker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[Aquila Digital Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
+Mississippi’s UFO history is dominated by one case: the 1973 [Pascagoula]({{ 'pascagoula/' | relative_url }}) incident, in which Charles Hickson and Calvin Parker said they were taken aboard a strange craft while fishing on the Pascagoula River. It matters because it was not just a local oddity. It became one of the best-known American “close encounter” claims, drew police, press and UFO investigators into a fast-moving story, and later became part of Pascagoula’s [public memory]({{ 'public-memory/' | relative_url }}) through documentaries, anniversary events and a historical marker.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[Aquila Digital Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267-overview.webp" | relative_url }}" alt="Overview image for Mississippi cba 267" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean the case is proven. The strongest Mississippi UFO material is a mixture of witness testimony, media coverage, archived official records, later recollections and sceptical criticism. The state also has older military-linked records, especially around Keesler Air Force Base, and many scattered modern sighting reports. The clearest lesson is not that Mississippi offers certainty, but that it shows how UFO stories move from a frightening moment, to an investigation, to folklore, tourism, scepticism and continuing argument.
 
 ## Why Pascagoula became Mississippi’s defining UFO case
 
-The basic claim is simple but extraordinary. On 11 October 1973, Hickson and Parker reported that they had been fishing near the Pascagoula River when a craft appeared, strange beings emerged, and the two men were taken aboard, examined and returned. A University of Southern Mississippi honours thesis summarises the incident as a report by Hickson and Parker that they were taken aboard an unidentified flying object in Pascagoula, and notes that it became one of the most famous alleged extraterrestrial encounters in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[Aquila Digital Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
+The basic claim is simple but extraordinary. On 11 October 1973, Hickson and Parker reported that they had been fishing near the Pascagoula River when a craft appeared, strange beings emerged, and the two men were taken aboard, examined and returned. A University of Southern Mississippi honours thesis summarises the incident as a report by Hickson and Parker that they were taken aboard an unidentified flying object in Pascagoula, and notes that it became one of the most famous alleged extraterrestrial encounters in the United States.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[Aquila Digital Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
 
-The case gained force because the men went to authorities rather than simply telling the story as campfire entertainment. Later accounts emphasise that they reported the matter to the Jackson County Sheriff’s Department and were treated as frightened witnesses, not polished performers. In a 2013 Associated Press retrospective, Captain Glenn Ryder, one of the officers involved, was quoted as saying he did not know what happened to them, but that they were fearful. The same report said the incident made Pascagoula a magnet for reporters and UFO investigators, and that hundreds of reports overwhelmed authorities in south Mississippi in the two weeks after the encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">general news 56d45e5966324e7d968e50b4ac94f908</span><span class="citation-popover-snippet">general news 56d45e5966324e7d968e50b4ac94f908</span></span></span>
+The case gained force because the men went to authorities rather than simply telling the story as campfire entertainment. Later accounts emphasise that they reported the matter to the Jackson County Sheriff’s Department and were treated as frightened witnesses, not polished performers. In a 2013 Associated Press retrospective, Captain Glenn Ryder, one of the officers involved, was quoted as saying he did not know what happened to them, but that they were fearful. The same report said the incident made Pascagoula a magnet for reporters and UFO investigators, and that hundreds of reports overwhelmed authorities in south Mississippi in the two weeks after the encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">general news 56d45e5966324e7d968e50b4ac94f908</span><span class="citation-popover-snippet">general news 56d45e5966324e7d968e50b4ac94f908</span></span></span>
 
-The timing also helped. The early 1970s were a period of intense UFO interest in the United States, and the Pascagoula story arrived at a moment when newspapers, television programmes and civilian UFO groups were ready to amplify a dramatic account. Fort’s 2024 study of media coverage argues that the 1973 reporting style was comparatively hard-news and fact-led, while later UFO coverage became more long-form, analytical and shaped by renewed government interest in unidentified anomalous phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[Aquila Digital Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
+The timing also helped. The early 1970s were a period of intense UFO interest in the United States, and the Pascagoula story arrived at a moment when newspapers, television programmes and civilian UFO groups were ready to amplify a dramatic account. Fort’s 2024 study of media coverage argues that the 1973 reporting style was comparatively hard-news and fact-led, while later UFO coverage became more long-form, analytical and shaped by renewed government interest in unidentified anomalous phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[Aquila Digital Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267-Illustration-1-dark.svg" | relative_url }}" alt="Mississippi cba 267 illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What counts as evidence in the Pascagoula story?
 
 The case is usually discussed through five kinds of evidence: the two men’s statements, the law-enforcement response, medical or psychological impressions reported afterwards, later interviews and books, and claims by other people who said they saw unusual lights or objects around the same period. None of these is the same as physical proof. The question is whether the human evidence is strong enough to make the case unresolved rather than merely legendary.
 
-The strongest point for believers is consistency under stress. Police reportedly suspected a hoax early on, yet some officers later said the men appeared genuinely frightened. That matters because many UFO claims never pass beyond anonymous reports or vague memories. Here, the central witnesses were named, the location was specific, and the story entered the public record quickly. The AP account also records that Parker later passed a lie-detector test, although [polygraphs]({{ 'polygraphs/' | relative_url }}) are not reliable proof of what actually happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">general news 56d45e5966324e7d968e50b4ac94f908</span><span class="citation-popover-snippet">general news 56d45e5966324e7d968e50b4ac94f908</span></span></span>
+The strongest point for believers is consistency under stress. Police reportedly suspected a hoax early on, yet some officers later said the men appeared genuinely frightened. That matters because many UFO claims never pass beyond anonymous reports or vague memories. Here, the central witnesses were named, the location was specific, and the story entered the public record quickly. The AP account also records that Parker later passed a lie-detector test, although [polygraphs]({{ 'polygraphs/' | relative_url }}) are not reliable proof of what actually happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">general news 56d45e5966324e7d968e50b4ac94f908</span><span class="citation-popover-snippet">general news 56d45e5966324e7d968e50b4ac94f908</span></span></span>
 
 The weaker side is just as important. There is no recovered object, no confirmed sensor track, no official finding that a craft landed, and no biological or physical evidence that independently verifies an abduction. The evidence is therefore mainly testimonial. That does not make it worthless, but it changes the claim’s weight: it can support the conclusion that two men had a frightening experience, not the conclusion that the cause was extraterrestrial.
 
@@ -503,9 +503,9 @@ The weaker side is just as important. There is no recovered object, no confirmed
 
 ## The main doubts and sceptical readings
 
-Sceptics have focused on changes in the story, the lack of physical evidence, and the problem of treating fear as proof. The AP retrospective notes that UFO sceptic Philip Klass argued Hickson changed some details and questioned the competence of the polygraph examiner whose test Hickson passed. It also records that Hickson later appeared on talk shows, gave lectures, self-published a book, and reported further encounters in 1974, developments that sceptics see as complicating the original image of reluctant witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">general news 56d45e5966324e7d968e50b4ac94f908</span><span class="citation-popover-snippet">general news 56d45e5966324e7d968e50b4ac94f908</span></span></span>
+Sceptics have focused on changes in the story, the lack of physical evidence, and the problem of treating fear as proof. The AP retrospective notes that UFO sceptic Philip Klass argued Hickson changed some details and questioned the competence of the polygraph examiner whose test Hickson passed. It also records that Hickson later appeared on talk shows, gave lectures, self-published a book, and reported further encounters in 1974, developments that sceptics see as complicating the original image of reluctant witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">general news 56d45e5966324e7d968e50b4ac94f908</span><span class="citation-popover-snippet">general news 56d45e5966324e7d968e50b4ac94f908</span></span></span>
 
-Joe Nickell’s Skeptical Inquirer article is often cited in sceptical treatments of the case. Nickell approached the Pascagoula story as a cold case and argued against treating the later legend as equivalent to evidence. His criticism does not prove a deliberate hoax, but it does show why the case remains contested: the more extraordinary the claim, the more heavily it depends on independent verification, and Pascagoula has always lacked the kind of hard physical record that would settle the matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Joe Nickell’s Skeptical Inquirer article is often cited in sceptical treatments of the case. Nickell approached the Pascagoula story as a cold case and argued against treating the later legend as equivalent to evidence. His criticism does not prove a deliberate hoax, but it does show why the case remains contested: the more extraordinary the claim, the more heavily it depends on independent verification, and Pascagoula has always lacked the kind of hard physical record that would settle the matter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A balanced view is that the sceptical case is strongest when it asks for evidence, not when it mocks the witnesses. Fear can be genuine even when perception is mistaken. A witness can be sincere and still misinterpret an event, be influenced by another person’s account, or reshape memory over time. For a Mississippi UFO history page, that distinction matters: the Pascagoula incident is historically important even if the abduction claim remains unproven.
 
@@ -513,29 +513,29 @@ A balanced view is that the sceptical case is strongest when it asks for evidenc
 
 ## Military and aviation threads in Mississippi sightings
 
-Mississippi’s UFO history is not only Pascagoula. Keesler Air Force Base in Biloxi gives the state a direct link to the Cold War official-investigation era. The National Archives’ Unwritten Record blog identifies a Project Blue Book film item titled “Keesler AFB, Mississippi Film, 3/7/1954”, and explains that Project Blue Book categorised cases as identified, insufficient data or unidentified. It also notes that many identified cases involved aircraft, weather balloons, satellites, birds, reflections, spotlights or hoaxes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
+Mississippi’s UFO history is not only Pascagoula. Keesler Air Force Base in Biloxi gives the state a direct link to the Cold War official-investigation era. The National Archives’ Unwritten Record blog identifies a Project Blue Book film item titled “Keesler AFB, Mississippi Film, 3/7/1954”, and explains that Project Blue Book categorised cases as identified, insufficient data or unidentified. It also notes that many identified cases involved aircraft, weather balloons, satellites, birds, reflections, spotlights or hoaxes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
 
-A separate Project Blue Book record surfaced in search results from Keesler Air Force Base in October 1963, showing that Mississippi cases were present in the Air Force paperwork stream, not merely in later folklore. The existence of such records does not mean the Air Force found alien craft over Mississippi. It means that the state’s reports were part of the same national system that tried, unevenly, to sort unusual reports into known aircraft, astronomical objects, balloons, insufficient data and unresolved cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302530452.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">The Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">The Project Blue Book Archive Untitled</span></span></span>
+A separate Project Blue Book record surfaced in search results from Keesler Air Force Base in October 1963, showing that Mississippi cases were present in the Air Force paperwork stream, not merely in later folklore. The existence of such records does not mean the Air Force found alien craft over Mississippi. It means that the state’s reports were part of the same national system that tried, unevenly, to sort unusual reports into known aircraft, astronomical objects, balloons, insufficient data and unresolved cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302530452.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">The Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">The Project Blue Book Archive Untitled</span></span></span>
 
-Modern aviation procedure has also shifted. The Federal Aviation Administration now has a section for unidentified anomalous phenomena reports that instructs personnel to inform an operations supervisor or controller-in-charge of any reported or observed UAP or unexplained phenomena activity. This is not a Mississippi-specific rule, but it matters for Mississippi because pilots, airports and air-traffic systems are part of the evidence chain when a sighting has aviation relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span><span class="citation-popover-snippet">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span></span></span>
+Modern aviation procedure has also shifted. The Federal Aviation Administration now has a section for unidentified anomalous phenomena reports that instructs personnel to inform an operations supervisor or controller-in-charge of any reported or observed UAP or unexplained phenomena activity. This is not a Mississippi-specific rule, but it matters for Mississippi because pilots, airports and air-traffic systems are part of the evidence chain when a sighting has aviation relevance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span><span class="citation-popover-snippet">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267-Illustration-2-dark.svg" | relative_url }}" alt="Mississippi cba 267 illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sightings beyond the famous riverbank
 
-Public reporting databases show that Mississippi has many scattered UFO reports, though these vary widely in evidential value. The National UFO Reporting Center’s Mississippi index includes reports from places such as Meridian, Jackson, Southaven, Natchez, Belzoni, Tupelo, Vicksburg, Long Beach and Pascagoula, with descriptions ranging from lights and triangles to spheres, discs and fireballs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State MS</span><span class="citation-popover-snippet">Reports for State MS</span></span></span>
+Public reporting databases show that Mississippi has many scattered UFO reports, though these vary widely in evidential value. The National UFO Reporting Center’s Mississippi index includes reports from places such as Meridian, Jackson, Southaven, Natchez, Belzoni, Tupelo, Vicksburg, Long Beach and Pascagoula, with descriptions ranging from lights and triangles to spheres, discs and fireballs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State MS</span><span class="citation-popover-snippet">Reports for State MS</span></span></span>
 
 Such databases are useful for pattern spotting, but they should not be read as a catalogue of confirmed anomalies. They are mostly self-reported narratives. Some are years-old memories submitted long after the alleged event; others are brief observations of lights with little context. Their value is greatest when they show clusters, recurring descriptions or cases that can be cross-checked against weather, aircraft, satellites, launches, balloons or multiple independent witnesses.
 
-The most common lesson from modern Mississippi reports is that many “UFOs” become identified when local journalists or officials check aviation and satellite data. In March 2026, WLOX reported that a strange object over the Mississippi Gulf Coast had been identified as a high-altitude balloon from New Mexico after the station contacted Harrison County emergency management, Keesler Air Force Base and Gulfport-Biloxi International Airport and tracked the object on FlightAware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+The most common lesson from modern Mississippi reports is that many “UFOs” become identified when local journalists or officials check aviation and satellite data. In March 2026, WLOX reported that a strange object over the Mississippi Gulf Coast had been identified as a high-altitude balloon from New Mexico after the station contacted Harrison County emergency management, Keesler Air Force Base and Gulfport-Biloxi International Airport and tracked the object on FlightAware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
-Starlink satellites provide another recurring explanation for modern light strings. WLOX reported in 2022 that a line of lights seen over the Coast was a group of Starlink satellites, part of a large low-Earth-orbit internet constellation. This kind of explanation does not debunk every Mississippi report, but it shows why current UFO analysis has to include satellite-tracking tools and not rely on visual impressions alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+Starlink satellites provide another recurring explanation for modern light strings. WLOX reported in 2022 that a line of lights seen over the Coast was a group of Starlink satellites, part of a large low-Earth-orbit internet constellation. This kind of explanation does not debunk every Mississippi report, but it shows why current UFO analysis has to include satellite-tracking tools and not rely on visual impressions alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267-Illustration-3-dark.svg" | relative_url }}" alt="Mississippi cba 267 illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official UAP research changes the Mississippi story
 
-Recent federal interest in UAP has made old cases look newly relevant, but it has not retroactively proved them. NASA’s 2023 independent UAP report described the subject as a scientific opportunity requiring a rigorous, evidence-based approach and better data collection. Its emphasis was not that famous old cases were solved in favour of exotic explanations, but that future claims need stronger, more standardised observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent federal interest in UAP has made old cases look newly relevant, but it has not retroactively proved them. NASA’s 2023 independent UAP report described the subject as a scientific opportunity requiring a rigorous, evidence-based approach and better data collection. Its emphasis was not that famous old cases were solved in favour of exotic explanations, but that future claims need stronger, more standardised observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Department of Defense’s All-domain Anomaly Resolution Office has taken an even firmer line on extraordinary claims. In 2024, AARO’s acting director said the office had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, no verifiable evidence that the US government or private industry had access to extraterrestrial technology, and no indication that information was illegally withheld from Congress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-10 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
+The Department of Defense’s All-domain Anomaly Resolution Office has taken an even firmer line on extraordinary claims. In 2024, AARO’s acting director said the office had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, no verifiable evidence that the US government or private industry had access to extraterrestrial technology, and no indication that information was illegally withheld from Congress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-10 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 For Mississippi, the practical effect is twofold. First, old cases such as Pascagoula remain culturally and historically important, especially where witnesses were named and the local record is rich. Second, the evidential bar has risen. A compelling modern Mississippi case would need more than a dramatic story: ideally, it would include time-stamped video, location data, radar or air-traffic records, weather information, satellite checks, and multiple independent witnesses.
 
@@ -543,7 +543,7 @@ For Mississippi, the practical effect is twofold. First, old cases such as Pasca
 
 ## Why Pascagoula still matters locally
 
-Pascagoula has not treated the 1973 incident simply as an internet myth. In 2019, a historical marker was unveiled at Lighthouse Park, with WLOX reporting that an interaction which made Pascagoula known around the world was being commemorated on the banks of the river. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
+Pascagoula has not treated the 1973 incident simply as an internet myth. In 2019, a historical marker was unveiled at Lighthouse Park, with WLOX reporting that an interaction which made Pascagoula known around the world was being commemorated on the banks of the river.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
 That marker does not function as scientific proof. Historical markers often record what communities remember as significant, not what laboratories have verified. Its importance is civic and cultural: it acknowledges that the story affected the city, shaped its public identity, and remains a point of curiosity for visitors and residents. The later documentaries, local retrospectives and anniversary attention show the same thing. Pascagoula has become Mississippi’s strongest bridge between UFO history and local heritage.
 
@@ -556,108 +556,108 @@ Mississippi has a serious place in American UFO history, but not because it has 
 The best-supported statement is that Mississippi has produced memorable and sometimes deeply felt UFO reports, with Pascagoula standing far above the rest in public significance. The best sceptical statement is that no Mississippi case currently provides public, independently verifiable evidence of extraterrestrial craft or beings. Between those two positions lies the real historical value: Mississippi shows how UFO cases are built from witnesses, institutions, newspapers, military records, local memory, later media and the hard problem of proving what someone saw in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mississippi-cba267-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mississippi-cba267-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -673,7 +673,7 @@ The best-supported statement is that Mississippi has produced memorable and some
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -693,7 +693,7 @@ The best-supported statement is that Mississippi has produced memorable and some
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -725,7 +725,7 @@ The best-supported statement is that Mississippi has produced memorable and some
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -777,7 +777,7 @@ The best-supported statement is that Mississippi has produced memorable and some
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -822,7 +822,7 @@ The best-supported statement is that Mississippi has produced memorable and some
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -863,227 +863,227 @@ The best-supported statement is that Mississippi has produced memorable and some
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aquila.usm.edu  
    Title: Aquila Digital Community  
-   Link: <a href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/honors_theses/988/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</p></details>
+   Link:<a href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/honors_theses/988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/</a>  
+   Link:<a href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Aliens at the Archives – The Unwritten Record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
    Title: Section 8. Unidentified Anomalous Phenomena (UAP) Reports  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Reports for State MS  
-   Link: <a href="https://nuforc.org/subndx/?id=lMS" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMS</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lMS" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMS</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/</a>  
+   Link:<a href="https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/</a>  
+   Link:<a href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wlox.com  
    Title: pascagoula ufo new witness comes forward  
-   Link: <a href="https://www.wlox.com/2019/03/15/pascagoula-ufo-new-witness-comes-forward/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2019/03/15/pascagoula-ufo-new-witness-comes-forward/</a>  
+   Link:<a href="https://www.wlox.com/2019/03/15/pascagoula-ufo-new-witness-comes-forward/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2019/03/15/pascagoula-ufo-new-witness-comes-forward/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wlox.com  
    Title: coast life alleged pascagoula river alien abduction 50 years later  
-   Link: <a href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/</a>  
+   Link:<a href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wlox.com  
    Title: calvin parker who claimed he was abducted by aliens pascagoula 1973 has died  
-   Link: <a href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/</a>  
+   Link:<a href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/</a>  
+   Link:<a href="https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/video/2023/09/07/digital-desk-remembering-calvin-parker-tale-his-alleged-alien-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2023/09/07/digital-desk-remembering-calvin-parker-tale-his-alleged-alien-abduction/</a>  
+   Link:<a href="https://www.wlox.com/video/2023/09/07/digital-desk-remembering-calvin-parker-tale-his-alleged-alien-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2023/09/07/digital-desk-remembering-calvin-parker-tale-his-alleged-alien-abduction/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=183132" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183132</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=183132" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183132</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=70621" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=70621</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=70621" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=70621</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=20815" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=20815</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=20815" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=20815</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=137942" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137942</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=137942" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137942</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=61559" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61559</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=61559" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61559</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197619" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197619</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197619" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197619</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=127590" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=127590</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=127590" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=127590</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.sky.com  
    Title: ufo abductee still haunted 40 years on 10431808  
-   Link: <a href="https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808</a>  
+   Link:<a href="https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: x.com  
-   Link: <a href="https://x.com/WLOX/status/2037696691948720210" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WLOX/status/2037696691948720210</a>  
+   Link:<a href="https://x.com/WLOX/status/2037696691948720210" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WLOX/status/2037696691948720210</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
+   Link:<a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
+   Link:<a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: apnews.com  
    Title: general news 56d45e5966324e7d968e50b4ac94f908  
-   Link: <a href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908</a>  
+   Link:<a href="https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/general-news-56d45e5966324e7d968e50b4ac94f908</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/</a>  
+   Link:<a href="https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theprojectbluebookarchive.org  
    Title: The Project Blue Book Archive Untitled  
-   Link: <a href="https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302530452.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302530452.pdf</a>  
+   Link:<a href="https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302530452.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302530452.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mississippi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mississippi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mississippi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mississippi</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: medium.com  
    Title: NUFOR C Geographic Data  
-   Link: <a href="https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42</a>  
+   Link:<a href="https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: libguides.hindscc.edu  
    Title: pascagoula abduction  
-   Link: <a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
+   Link:<a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ldhiji54-s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula man recalls the time he was abducted by aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ldhiji54-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula man recalls the time he was abducted by aliens...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Pascagoula man recalls the time he was abducted by aliens  
-   Link: <a href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nDFMB4r6W9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50th anniversary of the Pascagoula alien abduction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nDFMB4r6W9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50th anniversary of the Pascagoula alien abduction...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: locallifesc.com  
-   Link: <a href="https://www.locallifesc.com/ufo-sightings-in-southern-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.locallifesc.com/ufo-sightings-in-southern-skies/</a>  
+   Link:<a href="https://www.locallifesc.com/ufo-sightings-in-southern-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.locallifesc.com/ufo-sightings-in-southern-skies/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mynbc15/posts/a-historical-marker-has-been-placed-near-the-river-where-two-men-in-southern-mis/10156264631696587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mynbc15/posts/a-historical-marker-has-been-placed-near-the-river-where-two-men-in-southern-mis/10156264631696587/</a>  
+   Link:<a href="https://www.facebook.com/mynbc15/posts/a-historical-marker-has-been-placed-near-the-river-where-two-men-in-southern-mis/10156264631696587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mynbc15/posts/a-historical-marker-has-been-placed-near-the-river-where-two-men-in-southern-mis/10156264631696587/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Alien-Encounter-Pascagoula-Abduction-Incident/dp/B00C6CBPV8" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Alien-Encounter-Pascagoula-Abduction-Incident/dp/B00C6CBPV8</a>  
+   Link:<a href="https://www.amazon.co.uk/Alien-Encounter-Pascagoula-Abduction-Incident/dp/B00C6CBPV8" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Alien-Encounter-Pascagoula-Abduction-Incident/dp/B00C6CBPV8</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100058139047904/videos/historical-marker-in-pascagoula-to-commemorate-alien-abduction/352690868761896/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100058139047904/videos/historical-marker-in-pascagoula-to-commemorate-alien-abduction/352690868761896/</a>  
+   Link:<a href="https://www.facebook.com/100058139047904/videos/historical-marker-in-pascagoula-to-commemorate-alien-abduction/352690868761896/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100058139047904/videos/historical-marker-in-pascagoula-to-commemorate-alien-abduction/352690868761896/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2320211431645873/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2320211431645873/</a>  
+   Link:<a href="https://www.facebook.com/groups/149844915349213/posts/2320211431645873/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2320211431645873/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/mississippi-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/mississippi-ufo-sightings.html</a>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/mississippi-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/mississippi-ufo-sightings.html</a>

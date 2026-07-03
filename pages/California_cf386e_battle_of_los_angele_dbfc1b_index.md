@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /california-cf386e-battle-of-los-angele/
 description: Focused pages that expand on LA Battle.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: California_cf386e_battle_of_los_angele_dbfc1b
 parent_title: LA Battle
@@ -16,7 +16,7 @@ parent_permalink: /la-battle/
 
 # Explore Topics in LA Battle
 
-The following pages expand on the main **[LA Battle]({{ '/la-battle/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[LA Battle]({{ '/la-battle/' | relative_url }})** page and cover its key branches in.
 
 - [Photo Myth]({{ '/photo-myth/' | relative_url }})
 - [False Alarm]({{ '/false-alarm/' | relative_url }})

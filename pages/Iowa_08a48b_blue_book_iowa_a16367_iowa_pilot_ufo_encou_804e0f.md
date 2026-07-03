@@ -253,11 +253,11 @@ image: /assets/images/Iowa_08a48b_blue_book_iowa_a16367_iowa_pilot_ufo_encou_804
 Iowa’s pilot UFO reports occupy a small but revealing corner of the Project [Blue Book]({{ 'blue-book-4c1811/' | relative_url }}) archive. They matter less because they prove extraordinary aircraft and more because they show how the Air Force treated sightings from trained observers during the Cold War. In Iowa case files, military pilots were generally considered more credible than casual witnesses, yet even pilot reports often ended with uncertainty rather than dramatic conclusions. The surviving records show a recurring pattern: a fast visual encounter, limited radar support, incomplete data, and investigators trying to decide whether the object was an aircraft, astronomical effect, weather phenomenon, or something genuinely unexplained.
 
 <img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367_iowa_pilot_ufo_encou_804e0f-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Encounters illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367_iowa_pilot_ufo_encou_804e0f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367_iowa_pilot_ufo_encou_804e0f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Iowa material is especially useful because it strips away some of the mythology surrounding Blue Book. Pilot testimony could elevate a case inside the system, but it did not automatically produce a finding of “unknown”. In many Iowa-linked incidents, investigators treated the witness seriously while still concluding that the evidence was too weak, too brief or too incomplete to establish anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+The Iowa material is especially useful because it strips away some of the mythology surrounding Blue Book. Pilot testimony could elevate a case inside the system, but it did not automatically produce a finding of “unknown”. In many Iowa-linked incidents, investigators treated the witness seriously while still concluding that the evidence was too weak, too brief or too incomplete to establish anything extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 ## Why Pilot Cases Carried More Weight
 
-Project Blue Book did not regard all witnesses equally. Pilots, especially military aviators, occupied a privileged category because they were trained to estimate speed, altitude, lighting conditions and aircraft behaviour. Edward J. Ruppelt, the Iowa-born Air Force officer who directed Blue Book during its best-known years, repeatedly argued that pilot reports deserved careful handling even when they ultimately turned out to have ordinary [explanations]({{ 'explanations/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span>
+Project Blue Book did not regard all witnesses equally. Pilots, especially military aviators, occupied a privileged category because they were trained to estimate speed, altitude, lighting conditions and aircraft behaviour. Edward J. Ruppelt, the Iowa-born Air Force officer who directed Blue Book during its best-known years, repeatedly argued that pilot reports deserved careful handling even when they ultimately turned out to have ordinary [explanations]({{ 'explanations/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span>
 
 That did not mean pilots were considered infallible. Blue Book investigators knew that cockpit conditions created their own problems:
 
@@ -271,7 +271,7 @@ That did not mean pilots were considered infallible. Blue Book investigators kne
 
 </div>
 
-These limits are important when reading Iowa pilot cases because later UFO retellings often present “trained observer” status as if it solved all reliability problems. Blue Book’s own files show a more cautious attitude. Pilot testimony increased the seriousness of an investigation, but investigators still wanted radar data, corroborating witnesses, weather records and aircraft logs before treating a sighting as genuinely anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo12.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">piece of paper that made Project Blue Book legitimate was Air Force Letter 200-5, Subject: Unidentified Flying Objects. The letter, which...</span></span></span>
+These limits are important when reading Iowa pilot cases because later UFO retellings often present “trained observer” status as if it solved all reliability problems. Blue Book’s own files show a more cautious attitude. Pilot testimony increased the seriousness of an investigation, but investigators still wanted radar data, corroborating witnesses, weather records and aircraft logs before treating a sighting as genuinely anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo12.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">piece of paper that made Project Blue Book legitimate was Air Force Letter 200-5, Subject: Unidentified Flying Objects. The letter, which...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pSZUBulON6I" title="UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer">UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 3.2M &middot; Uploaded: August 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pSZUBulON6I">Open on YouTube</a></p></div></div></div>
 
@@ -294,7 +294,7 @@ What makes the Winterset case notable is not spectacular evidence but the combin
 
 At the same time, the weaknesses of the case are equally important. Publicly accessible material does not show decisive radar confirmation, physical evidence or long-duration tracking. The encounter appears to have been brief, which sharply limited reliable estimates of speed and distance. Those limitations kept the case in the ambiguous middle ground that characterised many Blue Book pilot reports nationwide.
 
-This pattern is easy to miss in later retellings. UFO literature sometimes treats pilot sightings as inherently strong evidence, but Blue Book investigators usually asked a narrower question: could the report support a defensible conclusion? In the Winterset material, the answer appears to have remained uncertain rather than affirmative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</span></span></span>
+This pattern is easy to miss in later retellings. UFO literature sometimes treats pilot sightings as inherently strong evidence, but Blue Book investigators usually asked a narrower question: could the report support a defensible conclusion? In the Winterset material, the answer appears to have remained uncertain rather than affirmative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNh7iHsx6g8" title="The Report on Unidentified Flying Objects 📖 By Edward Ruppelt. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNh7iHsx6g8" target="_blank" rel="noopener noreferrer">The Report on Unidentified Flying Objects 📖 By Edward Ruppelt. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Best Full Audiobooks &middot; Views: 255 &middot; Uploaded: January 2024 &middot; Length: 11 hours 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNh7iHsx6g8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNh7iHsx6g8">Open on YouTube</a></p></div></div></div>
 
@@ -302,7 +302,7 @@ This pattern is easy to miss in later retellings. UFO literature sometimes treat
 
 A striking feature of Iowa pilot cases is how quickly many encounters unfolded. Pilots often reported objects appearing suddenly, remaining visible for seconds or minutes, then disappearing at high apparent speed. These compressed timelines created major investigative difficulties.
 
-A pilot travelling hundreds of miles per hour had little time to stabilise visual references. Even experienced aviators could misjudge the behaviour of another light source against a dark sky. Blue Book investigators repeatedly encountered this problem in pilot reports across the United States, and Iowa cases fit the same pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span>
+A pilot travelling hundreds of miles per hour had little time to stabilise visual references. Even experienced aviators could misjudge the behaviour of another light source against a dark sky. Blue Book investigators repeatedly encountered this problem in pilot reports across the United States, and Iowa cases fit the same pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span>
 
 Several factors complicated interpretation:
 
@@ -319,11 +319,11 @@ Over rural Iowa at night, there were few visual landmarks. Without clouds, terra
 
 Training flights added another complication. The T-33, widely used as a trainer, demanded attention to instruments, communications and manoeuvring. Even highly competent crews were not conducting calm, controlled scientific observations.
 
-These factors do not make the witnesses unreliable in a dishonest sense. Instead, they explain why Blue Book often treated pilot cases as sincere but still evidentially weak. The distinction mattered. An honest witness could still misinterpret what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span>
+These factors do not make the witnesses unreliable in a dishonest sense. Instead, they explain why Blue Book often treated pilot cases as sincere but still evidentially weak. The distinction mattered. An honest witness could still misinterpret what they saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</span></span></span>
 
 ## How Blue Book Investigators Handled Iowa Aviation Reports
 
-The Air Force process for handling UFO reports helps explain why Iowa pilot encounters produced mixed outcomes. Under Air Force regulations, bases and installations were expected to forward UFO reports rapidly to Project Blue Book. That system allowed pilot sightings from places such as Iowa to move into federal intelligence channels even when the local incident itself was minor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo12.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">piece of paper that made Project Blue Book legitimate was Air Force Letter 200-5, Subject: Unidentified Flying Objects. The letter, which...</span></span></span>
+The Air Force process for handling UFO reports helps explain why Iowa pilot encounters produced mixed outcomes. Under Air Force regulations, bases and installations were expected to forward UFO reports rapidly to Project Blue Book. That system allowed pilot sightings from places such as Iowa to move into federal intelligence channels even when the local incident itself was minor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo12.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">piece of paper that made Project Blue Book legitimate was Air Force Letter 200-5, Subject: Unidentified Flying Objects. The letter, which...</span></span></span>
 
 Investigators generally tried to collect:
 
@@ -340,7 +340,7 @@ Investigators generally tried to collect:
 
 In practice, many cases remained incomplete. [Radar records]({{ 'radar-records/' | relative_url }}) might not survive. Witness recollections could differ slightly. Local weather data might be too general to resolve the sighting. This helps explain why some Iowa aviation reports remained “unidentified” in later catalogues without necessarily being persuasive evidence of exotic craft.
 
-The distinction between “unidentified” and “unexplainable” is critical. Blue Book’s unexplained category often meant only that investigators lacked enough information for a confident conclusion. The Air Force itself repeatedly stressed that unidentified cases did not constitute proof of extraterrestrial vehicles or advanced technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+The distinction between “unidentified” and “unexplainable” is critical. Blue Book’s unexplained category often meant only that investigators lacked enough information for a confident conclusion. The Air Force itself repeatedly stressed that unidentified cases did not constitute proof of extraterrestrial vehicles or advanced technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ivabTcSu_qU" title="The Report On Unidentified Flying Objects… by EDWARD J. RUPPELT · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ivabTcSu_qU" target="_blank" rel="noopener noreferrer">The Report On Unidentified Flying Objects… by EDWARD J. RUPPELT · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 63 &middot; Uploaded: February 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ivabTcSu_qU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ivabTcSu_qU">Open on YouTube</a></p></div></div></div>
 
@@ -361,7 +361,7 @@ A pilot reporting an unknown aerial object in the Cold War was not automatically
 
 </div>
 
-Later historical work added another layer. Some UFO reports from the Blue Book era were eventually linked to classified aircraft programmes such as the U-2 reconnaissance aircraft, whose unusual altitude and appearance confused both civilians and trained observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">u2s ufos and operation blue book</span><span class="citation-popover-snippet">Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — High-altitude testing of the U-2 soon led to an unexpe...</span></span></span>
+Later historical work added another layer. Some UFO reports from the Blue Book era were eventually linked to classified aircraft programmes such as the U-2 reconnaissance aircraft, whose unusual altitude and appearance confused both civilians and trained observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">u2s ufos and operation blue book</span><span class="citation-popover-snippet">Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — High-altitude testing of the U-2 soon led to an unexpe...</span></span></span>
 
 That broader context weakens claims that Iowa pilot sightings automatically represented extraordinary technology. It also explains why the Air Force treated the reports seriously. During the Cold War, even mistaken sightings could matter because they intersected with air-defence concerns.
 
@@ -372,7 +372,7 @@ The strongest conclusion supported by the Iowa pilot material is modest but hist
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Military aviators did sometimes report genuinely puzzling aerial observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Project Blue Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> ok took pilot reports more seriously than many civilian claims.
+* Military aviators did sometimes report genuinely puzzling aerial observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Project Blue Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> ok took pilot reports more seriously than many civilian claims.
 * Serious investigation still often ended without certainty.
 * “Unidentified” did not mean “confirmed extraterrestrial”.
 * Short visual encounters were extremely difficult to evaluate reliably.
@@ -381,197 +381,197 @@ The strongest conclusion supported by the Iowa pilot material is modest but hist
 
 The Iowa files also reveal a tension at the centre of Blue Book itself. The Air Force wanted credible reporting from pilots and military personnel, but it also faced public pressure, media sensationalism and limited investigative resources. That combination produced a record full of ambiguities rather than definitive answers.
 
-For modern readers, the Iowa pilot encounters are therefore most useful as evidence of how uncertain aerial observations entered official systems during the Cold War. The cases illuminate the mechanics of UFO investigation more clearly than they demonstrate the existence of extraordinary craft. The witnesses were often credible; the evidence was usually incomplete; and the final conclusions remained far less dramatic than later mythology sometimes suggests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+For modern readers, the Iowa pilot encounters are therefore most useful as evidence of how uncertain aerial observations entered official systems during the Cold War. The cases illuminate the mechanics of UFO investigation more clearly than they demonstrate the existence of extraordinary craft. The witnesses were often credible; the evidence was usually incomplete; and the final conclusions remained far less dramatic than later mythology sometimes suggests.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Iowa Pilot UFO Reports Reveal About Blue Book Cases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Iowa Pilot UFO Reports Reveal About Blue Book Cases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses pilot sightings and witness credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses pilot sightings and witness credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Contains numerous aviation-related UFO cases and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains numerous aviation-related UFO cases and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness evaluation methods applicable to pilot reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness evaluation methods applicable to pilot reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Focuses on evaluating testimony from trained observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating testimony from trained observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snoopy Air Force Pilot Patch Iron Sew On T Shirt Jacket Bag Embroidered Badge"><img src="https://i.ebayimg.com/images/g/PrMAAeSwhrZqCE8-/s-l225.jpg" alt="Listing image for Snoopy Air Force Pilot Patch Iron Sew On T Shirt Jacket Bag Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">Snoopy Air Force Pilot Patch Iron Sew On T Shirt Jacket Bag Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snoopy Air Force Pilot Patch Iron Sew On T Shirt Jacket Bag Embroidered Badge"><img src="https://i.ebayimg.com/images/g/PrMAAeSwhrZqCE8-/s-l225.jpg" alt="Listing image for Snoopy Air Force Pilot Patch Iron Sew On T Shirt Jacket Bag Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">Snoopy Air Force Pilot Patch Iron Sew On T Shirt Jacket Bag Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for King’s Crown RAF Pilot Wings Royal Air Force Sew On Embroidered Badge RAF Patch"><img src="https://i.ebayimg.com/images/g/t1oAAOSwLcVi2cyr/s-l225.jpg" alt="Listing image for King’s Crown RAF Pilot Wings Royal Air Force Sew On Embroidered Badge RAF Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">King’s Crown RAF Pilot Wings Royal Air Force Sew On Embroidered Badge RAF Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for King’s Crown RAF Pilot Wings Royal Air Force Sew On Embroidered Badge RAF Patch"><img src="https://i.ebayimg.com/images/g/t1oAAOSwLcVi2cyr/s-l225.jpg" alt="Listing image for King’s Crown RAF Pilot Wings Royal Air Force Sew On Embroidered Badge RAF Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">King’s Crown RAF Pilot Wings Royal Air Force Sew On Embroidered Badge RAF Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VF-1 United States Navy Patch Fighter Jet Pilot Top Gun Jacket Embroidery Badge"><img src="https://i.ebayimg.com/images/g/EXoAAOSwDXRnPz6-/s-l225.jpg" alt="Listing image for VF-1 United States Navy Patch Fighter Jet Pilot Top Gun Jacket Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">VF-1 United States Navy Patch Fighter Jet Pilot Top Gun Jacket Embroidery Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VF-1 United States Navy Patch Fighter Jet Pilot Top Gun Jacket Embroidery Badge"><img src="https://i.ebayimg.com/images/g/EXoAAOSwDXRnPz6-/s-l225.jpg" alt="Listing image for VF-1 United States Navy Patch Fighter Jet Pilot Top Gun Jacket Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">VF-1 United States Navy Patch Fighter Jet Pilot Top Gun Jacket Embroidery Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Pilot Wings Patch Iron Sew On Royal Air Force Uniform Embroidered Badge WW2"><img src="https://i.ebayimg.com/images/g/V98AAOSwHxll9CCS/s-l225.jpg" alt="Listing image for RAF Pilot Wings Patch Iron Sew On Royal Air Force Uniform Embroidered Badge WW2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Pilot Wings Patch Iron Sew On Royal Air Force Uniform Embroidered Badge WW2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Pilot Wings Patch Iron Sew On Royal Air Force Uniform Embroidered Badge WW2"><img src="https://i.ebayimg.com/images/g/V98AAOSwHxll9CCS/s-l225.jpg" alt="Listing image for RAF Pilot Wings Patch Iron Sew On Royal Air Force Uniform Embroidered Badge WW2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Pilot Wings Patch Iron Sew On Royal Air Force Uniform Embroidered Badge WW2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot patch" data-ebay-reference="what-iowa-pilot-ufo-reports-reveal-about-blue-book-cases-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ For modern readers, the Iowa pilot encounters are therefore most useful as evide
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ For modern readers, the Iowa pilot encounters are therefore most useful as evide
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ For modern readers, the Iowa pilot encounters are therefore most useful as evide
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ For modern readers, the Iowa pilot encounters are therefore most useful as evide
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ For modern readers, the Iowa pilot encounters are therefore most useful as evide
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,126 +777,126 @@ For modern readers, the Iowa pilot encounters are therefore most useful as evide
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsTHE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPELT Former Head of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: ufo fighter jet disappears over lake superior kinross incident  
-   Link: <a href="https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Air Force Jet Was Scrambled to Intercept a UFO...7 Jan 2020 — According to one, the jet had crashed into the UFO&#x27;s protective beam...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Air Force Jet Was Scrambled to Intercept a UFO...7 Jan 2020 — According to one, the jet had crashed into the UFO&#x27;s protective beam...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThe Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO invest...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThe Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO invest...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo12.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo12.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>piece of paper that made Project Blue Book legitimate was Air Force Letter 200-5, Subject: Unidentified Flying Objects. The letter, which...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo12.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo12.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>piece of paper that made Project Blue Book legitimate was Air Force Letter 200-5, Subject: Unidentified Flying Objects. The letter, which...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — High-altitude testing of the U-2 soon led to an unexpe...</p></details>
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — High-altitude testing of the U-2 soon led to an unexpe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Complete-ebook/dp/B0CZTND188" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Complete-ebook/dp/B0CZTND188</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into the mysterious phenomena of unidentified flying objects. Written by...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Complete-ebook/dp/B0CZTND188" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Complete-ebook/dp/B0CZTND188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into the mysterious phenomena of unidentified flying objects. Written by...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es Air Force (USAF), started in 1952 and continuing until the end of 1969.Read more...</p></details>
+   Link:<a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es Air Force (USAF), started in 1952 and continuing until the end of 1969.Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: globalgreyebooks.com  
-   Link: <a href="https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsFor readers interested in Project Blue Book, classic UFO sightings, Cold War-era military invest...</p></details>
+   Link:<a href="https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsFor readers interested in Project Blue Book, classic UFO sightings, Cold War-era military invest...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1551280578478882/posts/4250238598583053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1551280578478882/posts/4250238598583053/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting near american jet fighter | Bay City, MIThe U.S. Air Force tonight reported a small, metallic, disc-shaped object made a con...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1551280578478882/posts/4250238598583053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1551280578478882/posts/4250238598583053/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting near american jet fighter | Bay City, MIThe U.S. Air Force tonight reported a small, metallic, disc-shaped object made a con...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ebay.com  
-   Link: <a href="https://www.ebay.com/itm/389474103430" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/389474103430</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Author). Description: Project Blue Book Was A U S Government Investigation Of Unidentified Flying Objects - Ufos One Of The Men Working...</p></details>
+   Link:<a href="https://www.ebay.com/itm/389474103430" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/389474103430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Author). Description: Project Blue Book Was A U S Government Investigation Of Unidentified Flying Objects - Ufos One Of The Men Working...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Project/dp/1440462372" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Project/dp/1440462372</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert is an honest and detailed look at the origial Project Blue Book and how how he set up and tried to...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Project/dp/1440462372" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Project/dp/1440462372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert is an honest and detailed look at the origial Project Blue Book and how how he set up and tried to...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: librivox.org  
    Title: the report on unidentified flying objects by edward j ruppelt  
-   Link: <a href="https://librivox.org/the-report-on-unidentified-flying-objects-by-edward-j-ruppelt/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-report-on-unidentified-flying-objects-by-edward-j-ruppelt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects20 Sept 2010 — Here we go inside the workings of Project Blue Book, which had evolved from 2 ear...</p></details>
+   Link:<a href="https://librivox.org/the-report-on-unidentified-flying-objects-by-edward-j-ruppelt/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-report-on-unidentified-flying-objects-by-edward-j-ruppelt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects20 Sept 2010 — Here we go inside the workings of Project Blue Book, which had evolved from 2 ear...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Commision/dp/B0DMFTWXY5" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Commision/dp/B0DMFTWXY5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, government reactions, and the procedures involved in gathering and...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Commision/dp/B0DMFTWXY5" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Report-Unidentified-Flying-Objects-Commision/dp/B0DMFTWXY5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, government reactions, and the procedures involved in gathering and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l 1952, but was considered the most open minded leader...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l 1952, but was considered the most open minded leader...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: basedonatruestorypodcast.com  
-   Link: <a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast7 Oct 2025 — This time or a UFO use that term, but it&#x27;s also involving a creature o...</p></details>
+   Link:<a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast7 Oct 2025 — This time or a UFO use that term, but it&#x27;s also involving a creature o...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iheart.com  
    Title: How Project Blue Book Worked, Pt II  
-   Link: <a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>

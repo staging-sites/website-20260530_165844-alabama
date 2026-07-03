@@ -268,38 +268,38 @@ image: /assets/images/Minnesota_60590f_sighting_hotspots_eafece-overview-social.
 
 ## Introduction
 
-Minnesota’s UFO reports cluster most visibly where people cluster: Minneapolis, St Paul, Duluth, Rochester, St Cloud, suburbs such as Lakeville and Woodbury, and regional centres around lakes, highways and open [northern skies]({{ 'northern-skies/' | relative_url }}). That does not mean these places are “UFO capitals” in a literal sense. It means they combine more observers, more phones, more night travel, more aircraft, and sometimes better sky visibility. NUFORC’s location index lists 2,273 Minnesota reports, while city-level summaries based on NUFORC data put Minneapolis and St Paul at the top by raw count. Those figures are useful for seeing reporting patterns, but they are not proof of extraordinary craft. They are best read as a map of where Minnesotans notice, interpret and submit unusual sky events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
+Minnesota’s UFO reports cluster most visibly where people cluster: Minneapolis, St Paul, Duluth, Rochester, St Cloud, suburbs such as Lakeville and Woodbury, and regional centres around lakes, highways and open [northern skies]({{ 'northern-skies/' | relative_url }}). That does not mean these places are “UFO capitals” in a literal sense. It means they combine more observers, more phones, more night travel, more aircraft, and sometimes better sky visibility. NUFORC’s location index lists 2,273 Minnesota reports, while city-level summaries based on NUFORC data put Minneapolis and St Paul at the top by raw count. Those figures are useful for seeing reporting patterns, but they are not proof of extraordinary craft. They are best read as a map of where Minnesotans notice, interpret and submit unusual sky events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-overview.webp" | relative_url }}" alt="Overview image for Hotspots" loading="eager" decoding="sync" fetchpriority="high">
 ## Where the reports cluster — and why that can mislead
 
-The clearest hotspot in Minnesota is the [Twin Cities]({{ 'twin-cities/' | relative_url }}) region. In a Stacker ranking compiled from NUFORC reports dating back to 1995, Minneapolis ranked first in the state with 167 reports, followed by St Paul with 70; the rest of the top ten included Duluth, Rochester, Lakeville, Bemidji, Burnsville, St Cloud and Woodbury. The list is useful because it shows a familiar pattern: Minnesota’s “hotspots” are not only remote northern places with dark skies, but also large urban and suburban communities with enough residents to generate repeated reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span></span></span>
+The clearest hotspot in Minnesota is the [Twin Cities]({{ 'twin-cities/' | relative_url }}) region. In a Stacker ranking compiled from NUFORC reports dating back to 1995, Minneapolis ranked first in the state with 167 reports, followed by St Paul with 70; the rest of the top ten included Duluth, Rochester, Lakeville, Bemidji, Burnsville, St Cloud and Woodbury. The list is useful because it shows a familiar pattern: Minnesota’s “hotspots” are not only remote northern places with dark skies, but also large urban and suburban communities with enough residents to generate repeated reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span></span></span>
 
-That raw-count pattern needs careful handling. Minneapolis does not necessarily have stranger skies than the Boundary Waters, the Iron Range or prairie counties. It has more people, more commuters, more cameras, more planes, more social sharing and more residents who know where to file a report. The Minnesota State Demographic Center estimated the state’s 2024 population at 5,842,388, with the largest counties led by Hennepin, Ramsey, Dakota, Anoka and Washington — the same broad metro geography where many reports naturally accumulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mn.gov">[mn.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mn.gov</span><span class="citation-popover-title">our estimates</span><span class="citation-popover-snippet">our estimates</span></span></span>
+That raw-count pattern needs careful handling. Minneapolis does not necessarily have stranger skies than the Boundary Waters, the Iron Range or prairie counties. It has more people, more commuters, more cameras, more planes, more social sharing and more residents who know where to file a report. The Minnesota State Demographic Center estimated the state’s 2024 population at 5,842,388, with the largest counties led by Hennepin, Ramsey, Dakota, Anoka and Washington — the same broad metro geography where many reports naturally accumulate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mn.gov">[mn.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mn.gov</span><span class="citation-popover-title">our estimates</span><span class="citation-popover-snippet">our estimates</span></span></span>
 
-A national study in *Scientific Reports* helps explain why this matters. Using more than 98,000 public UAP reports from 2001 to 2020, researchers found that reports correlate with “opportunity to see”: sky view, darkness, air traffic and military activity can all influence whether people notice something and whether it seems unusual. In plain terms, a hotspot may mean “more chances to see and misidentify things”, not “more anomalous objects”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A national study in *Scientific Reports* helps explain why this matters. Using more than 98,000 public UAP reports from 2001 to 2020, researchers found that reports correlate with “opportunity to see”: sky view, darkness, air traffic and military activity can all influence whether people notice something and whether it seems unusual. In plain terms, a hotspot may mean “more chances to see and misidentify things”, not “more anomalous objects”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Twin Cities reports: population, aircraft and repeat visibility
 
-The Twin Cities are the centre of Minnesota reporting because they are the state’s largest population basin and one of its busiest air-traffic environments. Minneapolis–St Paul International Airport handled 37.2 million passengers in 2024, a 6.9% increase over 2023, putting large numbers of visible aircraft, approach lights and contrails above a heavily populated region every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metroairports.org">[Metropolitan Airports Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metroairports.org</span><span class="citation-popover-title">msp airport logs 69 increase passenger growth 2024</span><span class="citation-popover-snippet">msp airport logs 69 increase passenger growth 2024</span></span></span>
+The Twin Cities are the centre of Minnesota reporting because they are the state’s largest population basin and one of its busiest air-traffic environments. Minneapolis–St Paul International Airport handled 37.2 million passengers in 2024, a 6.9% increase over 2023, putting large numbers of visible aircraft, approach lights and contrails above a heavily populated region every day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metroairports.org">[Metropolitan Airports Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metroairports.org</span><span class="citation-popover-title">msp airport logs 69 increase passenger growth 2024</span><span class="citation-popover-snippet">msp airport logs 69 increase passenger growth 2024</span></span></span>
 
 This matters because many ordinary sky objects become ambiguous when viewed briefly, at night, through cloud, from a moving car or against a bright urban background. A landing aircraft can appear to hover when it is flying towards the observer. A line of satellites can look like a structured object. A drone can appear larger or higher than it is. A bright planet low on the horizon can seem to “follow” a driver because of parallax. These [explanations]({{ 'explanations-2d29c0/' | relative_url }}) do not dismiss every witness; they explain why high-report areas are also high-confusion areas.
 
-Twin Cities reports are still historically important because they show how UFO reporting shifted from rare local anecdotes to a steady civilian data stream. Older NUFORC entries include St Paul reports from the 1950s and 1960s, while modern entries increasingly include short videos, multiple witnesses, and reports from suburbs such as Bloomington, Eagan, Plymouth, Golden Valley and Lakeville. The evidence base has grown wider, but not always stronger: more devices produce more records, yet many records still lack precise time stamps, camera metadata, direction, altitude estimates or checks against flight and satellite data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Twin Cities reports are still historically important because they show how UFO reporting shifted from rare local anecdotes to a steady civilian data stream. Older NUFORC entries include St Paul reports from the 1950s and 1960s, while modern entries increasingly include short videos, multiple witnesses, and reports from suburbs such as Bloomington, Eagan, Plymouth, Golden Valley and Lakeville. The evidence base has grown wider, but not always stronger: more devices produce more records, yet many records still lack precise time stamps, camera metadata, direction, altitude estimates or checks against flight and satellite data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Duluth, the North Shore and the Iron Range
 
-Northern Minnesota has a different kind of hotspot logic. Duluth ranks high in city-level counts, with 69 reports in Stacker’s NUFORC-based listing, and NUFORC’s state page includes reports from Duluth, Hermantown, Gilbert, Hibbing, Virginia, Cotton, Barnum and Lake Winnibigoshish. These places do not all behave like a single “UFO corridor”, but they do share features that affect reporting: darker skies outside town centres, long highway sightlines, lake horizons, winter clarity, and a culture of outdoor night activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span></span></span>
+Northern Minnesota has a different kind of hotspot logic. Duluth ranks high in city-level counts, with 69 reports in Stacker’s NUFORC-based listing, and NUFORC’s state page includes reports from Duluth, Hermantown, Gilbert, Hibbing, Virginia, Cotton, Barnum and Lake Winnibigoshish. These places do not all behave like a single “UFO corridor”, but they do share features that affect reporting: darker skies outside town centres, long highway sightlines, lake horizons, winter clarity, and a culture of outdoor night activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Minnesota &#124; Stacker</span></span></span>
 
-The Iron Range and nearby northern communities are especially good examples of how clusters can arise without a single underlying cause. A witness in Gilbert reporting “green balls” in the sky, a Hibbing report of a fast-moving light, and a Virginia report describing lit “boomerang” or “batwing” shapes are all part of the state’s historical reporting texture, but they are not automatically linked events. They may reflect different phenomena: meteors, aircraft, satellites, drones, aurora-related expectations, optical effects, or simply rare observations that remained too thinly documented to resolve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182572" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The Iron Range and nearby northern communities are especially good examples of how clusters can arise without a single underlying cause. A witness in Gilbert reporting “green balls” in the sky, a Hibbing report of a fast-moving light, and a Virginia report describing lit “boomerang” or “batwing” shapes are all part of the state’s historical reporting texture, but they are not automatically linked events. They may reflect different phenomena: meteors, aircraft, satellites, drones, aurora-related expectations, optical effects, or simply rare observations that remained too thinly documented to resolve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=182572" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Duluth also shows how later scrutiny can weaken a claim. A 2025 Duluth-area report involving a long-duration light was later framed by local coverage as likely involving Venus; the explanation turned on a common effect in which a bright planet appears to move relative to a driver or landscape. That kind of post-report correction is not glamorous, but it is central to understanding Minnesota’s reporting trends: a database entry may preserve the witness’s experience, while later analysis may make the original interpretation less mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://b105country.com/ufo-sighting-duluth-debunk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: b105country.com">[B105]</a><span class="citation-popover" role="note"><span class="citation-popover-source">b105country.com</span><span class="citation-popover-title">ufo sighting duluth debunk</span><span class="citation-popover-snippet">ufo sighting duluth debunk</span></span></span>
+Duluth also shows how later scrutiny can weaken a claim. A 2025 Duluth-area report involving a long-duration light was later framed by local coverage as likely involving Venus; the explanation turned on a common effect in which a bright planet appears to move relative to a driver or landscape. That kind of post-report correction is not glamorous, but it is central to understanding Minnesota’s reporting trends: a database entry may preserve the witness’s experience, while later analysis may make the original interpretation less mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://b105country.com/ufo-sighting-duluth-debunk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: b105country.com">[B105]</a><span class="citation-popover" role="note"><span class="citation-popover-source">b105country.com</span><span class="citation-popover-title">ufo sighting duluth debunk</span><span class="citation-popover-snippet">ufo sighting duluth debunk</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-3-dark.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rural reports: fewer people, better skies, thinner records
 
-Rural Minnesota produces some of the state’s most vivid reports because the observing conditions can be better: darker skies, broad horizons, quiet roads and fewer competing lights. NUFORC entries include reports from places such as Brainerd, Pine City, Bagley, Cotton, Detroit Lakes, Little Falls, Randall, Morris and rural central Minnesota, often describing lights, triangles, fireballs or formations. These cases are valuable for historical mapping because they show UFO reporting beyond the metro, but they often remain hard to assess because they lack corroborating radar, photographs, exact bearings or independent witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184904" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Rural Minnesota produces some of the state’s most vivid reports because the observing conditions can be better: darker skies, broad horizons, quiet roads and fewer competing lights. NUFORC entries include reports from places such as Brainerd, Pine City, Bagley, Cotton, Detroit Lakes, Little Falls, Randall, Morris and rural central Minnesota, often describing lights, triangles, fireballs or formations. These cases are valuable for historical mapping because they show UFO reporting beyond the metro, but they often remain hard to assess because they lack corroborating radar, photographs, exact bearings or independent witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184904" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 This creates a paradox. Rural reports may feel more compelling to readers because the witness has fewer obvious urban distractions to mistake for UFOs. Yet rural reports can be harder to verify precisely because there may be fewer other observers, fewer surveillance cameras, fewer local media checks, and less immediate comparison with known flight paths. A single sincere witness under a dark sky can produce a memorable account, but sincerity alone cannot establish what the object was.
 
@@ -309,24 +309,24 @@ For Minnesota, the rural pattern also overlaps with lakes and seasonal outdoor l
 
 ## Why some years rise and others fall
 
-Minnesota’s reporting totals move up and down for reasons that may have little to do with the skies themselves. Local reporting based on NUFORC counted 45 Minnesota sightings in 2023, 68 in 2024 and 59 in 2025. Those figures suggest a recent rise from 2023 followed by a slight fall, rather than a simple straight-line increase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mix108.com/minnesota-ufo-sightings-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mix108.com">[MIX 108]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mix108.com</span><span class="citation-popover-title">minnesota ufo sightings 2025</span><span class="citation-popover-snippet">minnesota ufo sightings 2025</span></span></span>
+Minnesota’s reporting totals move up and down for reasons that may have little to do with the skies themselves. Local reporting based on NUFORC counted 45 Minnesota sightings in 2023, 68 in 2024 and 59 in 2025. Those figures suggest a recent rise from 2023 followed by a slight fall, rather than a simple straight-line increase.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mix108.com/minnesota-ufo-sightings-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mix108.com">[MIX 108]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mix108.com</span><span class="citation-popover-title">minnesota ufo sightings 2025</span><span class="citation-popover-snippet">minnesota ufo sightings 2025</span></span></span>
 
 Several forces can lift a year’s count:
 
 * **Public attention.** Congressional hearings, Pentagon reports, spy-balloon coverage and national media discussion make people more likely to reinterpret and report unusual lights.
 * **Technology.** Phones make reporting easier, but phone video of distant lights is often poor evidence.
-* **Satellite visibility.** Starlink trains and satellite flares have generated waves of UFO reports across the United States, especially when observers see unfamiliar lines or repeated bright points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">starlink satellites produce wave of ufo sightings in th 1840678429</span><span class="citation-popover-snippet">starlink satellites produce wave of ufo sightings in th 1840678429</span></span></span>
-* **Travel and aviation recovery.** As air traffic rebounds, more aircraft are visible and more observers are travelling at night; MSP’s 2024 passenger growth is relevant background for metro-area interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metroairports.org">[Metropolitan Airports Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metroairports.org</span><span class="citation-popover-title">msp airport logs 69 increase passenger growth 2024</span><span class="citation-popover-snippet">msp airport logs 69 increase passenger growth 2024</span></span></span>
+* **Satellite visibility.** Starlink trains and satellite flares have generated waves of UFO reports across the United States, especially when observers see unfamiliar lines or repeated bright points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">starlink satellites produce wave of ufo sightings in th 1840678429</span><span class="citation-popover-snippet">starlink satellites produce wave of ufo sightings in th 1840678429</span></span></span>
+* **Travel and aviation recovery.** As air traffic rebounds, more aircraft are visible and more observers are travelling at night; MSP’s 2024 passenger growth is relevant background for metro-area interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metroairports.org">[Metropolitan Airports Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metroairports.org</span><span class="citation-popover-title">msp airport logs 69 increase passenger growth 2024</span><span class="citation-popover-snippet">msp airport logs 69 increase passenger growth 2024</span></span></span>
 * **Weather and season.** Clear nights, meteor showers, winter transparency and summer outdoor gatherings can all change how often people look up.
 
-The key point is that a rise in reports is not the same as a rise in unexplained events. It may reflect better reporting channels, less stigma, more attention, more sky traffic, or more ambiguous human-made objects. NASA’s independent UAP study made a similar point nationally: eyewitness reports alone are not enough for firm conclusions, and better calibrated, standardised data is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The key point is that a rise in reports is not the same as a rise in unexplained events. It may reflect better reporting channels, less stigma, more attention, more sky traffic, or more ambiguous human-made objects. NASA’s independent UAP study made a similar point nationally: eyewitness reports alone are not enough for firm conclusions, and better calibrated, standardised data is needed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What databases can and cannot prove
 
-NUFORC, MUFON, Enigma and similar catalogues are essential for seeing patterns, but they do different jobs from a police investigation, a scientific survey or a military sensor analysis. NUFORC’s Minnesota listing preserves dates, places, shapes and witness summaries; Enigma has reported a larger Minnesota collection by combining public and internet-derived records, with the *Star Tribune* citing 3,698 Minnesota sightings, or about 63 per 100,000 residents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+NUFORC, MUFON, Enigma and similar catalogues are essential for seeing patterns, but they do different jobs from a police investigation, a scientific survey or a military sensor analysis. NUFORC’s Minnesota listing preserves dates, places, shapes and witness summaries; Enigma has reported a larger Minnesota collection by combining public and internet-derived records, with the *Star Tribune* citing 3,698 Minnesota sightings, or about 63 per 100,000 residents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Those numbers are useful for comparison, but they are not interchangeable. One database may include older reports, duplicates, retroactive submissions, internet-sourced accounts or cases omitted by another. A report filed in 2018 about an alleged 1932 event is historically interesting, but it is not the same kind of evidence as a same-night report with video, weather data and independent witnesses. CBS Minnesota noted that NUFORC’s Minnesota database included more than 2,100 reports and that the oldest listed sighting dated to 1932 but was reported much later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Feds investigate after Minnesota police officer says they saw a UFO</span><span class="citation-popover-snippet">CBS News...</span></span></span>
+Those numbers are useful for comparison, but they are not interchangeable. One database may include older reports, duplicates, retroactive submissions, internet-sourced accounts or cases omitted by another. A report filed in 2018 about an alleged 1932 event is historically interesting, but it is not the same kind of evidence as a same-night report with video, weather data and independent witnesses. CBS Minnesota noted that NUFORC’s Minnesota database included more than 2,100 reports and that the oldest listed sighting dated to 1932 but was reported much later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Feds investigate after Minnesota police officer says they saw a UFO</span><span class="citation-popover-snippet">CBS News...</span></span></span>
 
 The strongest use of these databases is not to “prove UFOs are real” in the extraordinary sense. It is to ask better questions:
 
@@ -340,7 +340,7 @@ The strongest use of these databases is not to “prove UFOs are real” in the 
 
 </div>
 
-This is where sceptical and open-minded approaches can meet. A database can preserve an unresolved account without endorsing an exotic explanation. It can also show that many reports are weakly documented, duplicated, delayed or likely conventional. AARO’s historical review similarly concluded that many unresolved cases remain unresolved mainly because they lack actionable data, while the “vast majority” reviewed by official programmes involved ordinary objects, natural phenomena or observer misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+This is where sceptical and open-minded approaches can meet. A database can preserve an unresolved account without endorsing an exotic explanation. It can also show that many reports are weakly documented, duplicated, delayed or likely conventional. AARO’s historical review similarly concluded that many unresolved cases remain unresolved mainly because they lack actionable data, while the “vast majority” reviewed by official programmes involved ordinary objects, natural phenomena or observer misidentification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gss_sbU-Ypc" title="Minnesota’s most notorious UFO sighting remains a mystery four decades later" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gss_sbU-Ypc" target="_blank" rel="noopener noreferrer">Minnesota’s most notorious UFO sighting remains a mystery four decades later</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 643.2K &middot; Uploaded: August 2021 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gss_sbU-Ypc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gss_sbU-Ypc">Open on YouTube</a></p></div></div></div>
 
@@ -355,194 +355,194 @@ This also keeps the state’s landmark cases in perspective. The [Val Johnson]({
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SQo2BP4FvhY" title="Minnesota Historia - Episode 6: The Ope Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer">Minnesota Historia - Episode 6: The Ope Files</a></p><p class="youtube-embed-meta">Channel: PBS North &middot; Views: 3.9K &middot; Uploaded: June 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SQo2BP4FvhY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Minnesota UFO Reports Cluster. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Minnesota UFO Reports Cluster. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding report clustering and case classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding report clustering and case classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines patterns of reports and investigative limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines patterns of reports and investigative limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring sighting themes and data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring sighting themes and data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Looks at recurring patterns in reports across regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Looks at recurring patterns in reports across regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-minnesota-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ This also keeps the state’s landmark cases in perspective. The [Val Johnson]({
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ This also keeps the state’s landmark cases in perspective. The [Val Johnson]({
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ This also keeps the state’s landmark cases in perspective. The [Val Johnson]({
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ This also keeps the state’s landmark cases in perspective. The [Val Johnson]({
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ This also keeps the state’s landmark cases in perspective. The [Val Johnson]({
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,184 +748,184 @@ This also keeps the state’s landmark cases in perspective. The [Val Johnson]({
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Minnesota | Stacker  
-   Link: <a href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota</a>  
+   Link:<a href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mn.gov  
    Title: our estimates  
-   Link: <a href="https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/" target="_blank" rel="noopener noreferrer nofollow">https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/</a>  
+   Link:<a href="https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/" target="_blank" rel="noopener noreferrer nofollow">https://mn.gov/admin/demography/data-by-topic/population-data/our-estimates/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lMN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMN</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lMN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMN</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mix108.com  
    Title: minnesota ufo sightings 2025  
-   Link: <a href="https://mix108.com/minnesota-ufo-sightings-2025/" target="_blank" rel="noopener noreferrer nofollow">https://mix108.com/minnesota-ufo-sightings-2025/</a>  
+   Link:<a href="https://mix108.com/minnesota-ufo-sightings-2025/" target="_blank" rel="noopener noreferrer nofollow">https://mix108.com/minnesota-ufo-sightings-2025/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gizmodo.com  
    Title: starlink satellites produce wave of ufo sightings in th 1840678429  
-   Link: <a href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429</a>  
+   Link:<a href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=182572" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182572</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=182572" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182572</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184904" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184904</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184904" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184904</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190962" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190962</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=190962" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190962</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185695" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185695</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185695" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185695</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185591" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185591</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185591" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185591</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189542" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189542</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=189542" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189542</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVA</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVA</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=161765" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161765</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=161765" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161765</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Feds investigate after Minnesota police officer says they saw a UFO  
-   Link: <a href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kH5wsaqGq-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kH5wsaqGq-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: metroairports.org  
    Title: msp airport logs 69 increase passenger growth 2024  
-   Link: <a href="https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024</a>  
+   Link:<a href="https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cbsnews.com  
    Title: CBS News A brief history of UFO sightings in Minnesota  
-   Link: <a href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/</a>  
+   Link:<a href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lrl.mn.gov  
-   Link: <a href="https://www.lrl.mn.gov/docs/2024/mandated/240758.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrl.mn.gov/docs/2024/mandated/240758.pdf</a>  
+   Link:<a href="https://www.lrl.mn.gov/docs/2024/mandated/240758.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrl.mn.gov/docs/2024/mandated/240758.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: macrotrends.net  
-   Link: <a href="https://www.macrotrends.net/global-metrics/cities/23068/minneapolis/population" target="_blank" rel="noopener noreferrer nofollow">https://www.macrotrends.net/global-metrics/cities/23068/minneapolis/population</a>  
+   Link:<a href="https://www.macrotrends.net/global-metrics/cities/23068/minneapolis/population" target="_blank" rel="noopener noreferrer nofollow">https://www.macrotrends.net/global-metrics/cities/23068/minneapolis/population</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt</a>  
+   Link:<a href="https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: usafacts.org  
-   Link: <a href="https://usafacts.org/answers/how-many-people-live-in-the-us/state/minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/state/minnesota/</a>  
+   Link:<a href="https://usafacts.org/answers/how-many-people-live-in-the-us/state/minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/state/minnesota/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Minnesota Historia  
-   Link: <a href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SQo2BP4FvhY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Twin Cities UFO and Research Group Believes the Truth is Out There is highly relevant because it features the local chapter of the Mu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SQo2BP4FvhY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Twin Cities UFO and Research Group Believes the Truth is Out There is highly relevant because it features the local chapter of the Mu...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Twin Cities UFO and Research Group Believes the Truth is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d-aZHhFv79A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspected UFO sighting involving Anoka police officers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d-aZHhFv79A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suspected UFO sighting involving Anoka police officers...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: census.gov  
-   Link: <a href="https://www.census.gov/quickfacts/fact/table/minneapoliscityminnesota/PST045224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/minneapoliscityminnesota/PST045224</a>  
+   Link:<a href="https://www.census.gov/quickfacts/fact/table/minneapoliscityminnesota/PST045224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/minneapoliscityminnesota/PST045224</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
+   Link:<a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUYvWNkkjql/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUYvWNkkjql/</a>  
+   Link:<a href="https://www.instagram.com/p/DUYvWNkkjql/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUYvWNkkjql/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NYPost/posts/a-popular-ufo-reporting-app-has-recorded-roughly-30000-ufo-sightings-since-its-l/1410145147644144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NYPost/posts/a-popular-ufo-reporting-app-has-recorded-roughly-30000-ufo-sightings-since-its-l/1410145147644144/</a>  
+   Link:<a href="https://www.facebook.com/NYPost/posts/a-popular-ufo-reporting-app-has-recorded-roughly-30000-ufo-sightings-since-its-l/1410145147644144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NYPost/posts/a-popular-ufo-reporting-app-has-recorded-roughly-30000-ufo-sightings-since-its-l/1410145147644144/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dav.kaufman.7/posts/did-anybody-else-in-minneapolis-see-this-in-the-sky-just-now-it-was-only-visible/10239519470274720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dav.kaufman.7/posts/did-anybody-else-in-minneapolis-see-this-in-the-sky-just-now-it-was-only-visible/10239519470274720/</a>  
+   Link:<a href="https://www.facebook.com/dav.kaufman.7/posts/did-anybody-else-in-minneapolis-see-this-in-the-sky-just-now-it-was-only-visible/10239519470274720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dav.kaufman.7/posts/did-anybody-else-in-minneapolis-see-this-in-the-sky-just-now-it-was-only-visible/10239519470274720/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/</a>  
+   Link:<a href="https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>

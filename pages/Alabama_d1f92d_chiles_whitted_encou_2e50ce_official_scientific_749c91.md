@@ -253,15 +253,15 @@ image: /assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scient
 The Chiles-Whitted encounter quickly became more than a dramatic pilot sighting over Alabama. Within the newly formed U.S. Air Force, it evolved into a test case for how unexplained aerial reports should be investigated, classified and explained. The 1948 incident forced military intelligence officers, astronomers and later UFO researchers to confront a difficult problem: how should trained eyewitness testimony be weighed against physical and astronomical evidence pointing toward a more ordinary explanation?
 
 <img src="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-1-dark.svg" | relative_url }}" alt="Official Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case historically important is not that investigators reached a single clear conclusion. They did not. Instead, the Chiles-Whitted report exposed deep disagreements inside early UFO studies. Some Air Force personnel treated it as evidence of an advanced craft, possibly foreign or even extraterrestrial. Others argued that the pilots had almost certainly witnessed a bright meteor whose appearance was distorted by darkness, surprise and human perception. The official interpretation shifted over time, reflecting wider changes in Project Sign, Project Grudge and eventually [Project Blue Book]({{ 'project-blue-book/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo chiles whitted soviet spycraft air force coverup</span><span class="citation-popover-snippet">Two Pilots Saw a UFO. Why Did the Air Force Destroy...16 Aug 2018 — Some believed the July 1948 sighting revealed the presence of secret...</span><span class="citation-popover-meta">Published: July 1948</span></span></span>
+What makes the case historically important is not that investigators reached a single clear conclusion. They did not. Instead, the Chiles-Whitted report exposed deep disagreements inside early UFO studies. Some Air Force personnel treated it as evidence of an advanced craft, possibly foreign or even extraterrestrial. Others argued that the pilots had almost certainly witnessed a bright meteor whose appearance was distorted by darkness, surprise and human perception. The official interpretation shifted over time, reflecting wider changes in Project Sign, Project Grudge and eventually [Project Blue Book]({{ 'project-blue-book/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo chiles whitted soviet spycraft air force coverup</span><span class="citation-popover-snippet">Two Pilots Saw a UFO. Why Did the Air Force Destroy...16 Aug 2018 — Some believed the July 1948 sighting revealed the presence of secret...</span><span class="citation-popover-meta">Published: July 1948</span></span></span>
 
 ## How Project Sign Treated the Sighting
 
 In 1948 the Air Force had not yet settled on a consistent policy for UFO reports. Project Sign, created in the aftermath of the 1947 flying saucer wave, was still deciding whether such sightings represented misunderstood natural phenomena, secret Soviet technology or something genuinely unknown.
 
-The Chiles-Whitted encounter immediately attracted attention because the witnesses were experienced commercial pilots rather than casual observers. Captain Clarence Chiles and First Officer John Whitted gave detailed and broadly consistent descriptions of a fast-moving luminous object with rows of illuminated windows and a fiery exhaust. Investigators considered airline pilots particularly credible because they were accustomed to identifying aircraft, judging distance at night and remaining calm under pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
+The Chiles-Whitted encounter immediately attracted attention because the witnesses were experienced commercial pilots rather than casual observers. Captain Clarence Chiles and First Officer John Whitted gave detailed and broadly consistent descriptions of a fast-moving luminous object with rows of illuminated windows and a fiery exhaust. Investigators considered airline pilots particularly credible because they were accustomed to identifying aircraft, judging distance at night and remaining calm under pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
-According to later accounts by Air Force officer Edward J. Ruppelt, the case became one of the incidents that persuaded some Project Sign personnel that UFOs represented a real phenomenon requiring serious study. Ruppelt later grouped the Chiles-Whitted encounter with the Mantell and Gorman cases as three defining UFO reports of 1948. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span>
+According to later accounts by Air Force officer Edward J. Ruppelt, the case became one of the incidents that persuaded some Project Sign personnel that UFOs represented a real phenomenon requiring serious study. Ruppelt later grouped the Chiles-Whitted encounter with the Mantell and Gorman cases as three defining UFO reports of 1948.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span>
 
 ### Why Some Investigators Rejected the Meteor Theory Early
 
@@ -275,7 +275,7 @@ Not everyone inside Project Sign accepted an astronomical explanation. One inter
 
 </div>
 
-To some early investigators, the description resembled an aircraft or missile more than a fleeting astronomical event. The object’s apparent climb into cloud cover also seemed inconsistent with a normal meteor trajectory as understood by many non-astronomers at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
+To some early investigators, the description resembled an aircraft or missile more than a fleeting astronomical event. The object’s apparent climb into cloud cover also seemed inconsistent with a normal meteor trajectory as understood by many non-astronomers at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
 These disagreements mattered because Project Sign was operating during the early Cold War. In 1948, fears about advanced Soviet aircraft or captured German technology were genuine military concerns. The Air Force could not simply dismiss every unusual aerial report without investigation.
 
@@ -285,17 +285,17 @@ These disagreements mattered because Project Sign was operating during the early
 
 The Chiles-Whitted sighting later became linked to one of the most controversial episodes in early UFO history: the alleged “Estimate of the Situation” prepared by members of Project Sign.
 
-According to later recollections by Ruppelt and other UFO researchers, some officers within Project Sign compiled an internal assessment arguing that certain sightings might indicate extraterrestrial craft. The document itself has never surfaced publicly and may have been destroyed, but the Chiles-Whitted encounter was reportedly among the cases used to support the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</span></span></span>
+According to later recollections by Ruppelt and other UFO researchers, some officers within Project Sign compiled an internal assessment arguing that certain sightings might indicate extraterrestrial craft. The document itself has never surfaced publicly and may have been destroyed, but the Chiles-Whitted encounter was reportedly among the cases used to support the argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</span></span></span>
 
 General Hoyt Vandenberg, then Air Force Chief of Staff, reportedly rejected the estimate because the evidence was considered insufficient. Whether the document was as dramatic as later UFO writers claimed remains disputed, but the episode illustrates how seriously at least some military analysts initially treated the case.
 
-This period also marked a turning point in official attitudes. After 1948, Air Force investigations increasingly shifted toward more conservative and sceptical interpretations. Project Sign gave way to Project Grudge, which adopted a more dismissive stance toward UFO reports overall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</span></span></span>
+This period also marked a turning point in official attitudes. After 1948, Air Force investigations increasingly shifted toward more conservative and sceptical interpretations. Project Sign gave way to Project Grudge, which adopted a more dismissive stance toward UFO reports overall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</span></span></span>
 
 ## Why Astronomers Focused on Meteors
 
 As scientific consultants became more involved, attention shifted from witness impressions toward astronomical conditions on the night of the sighting.
 
-Astronomer J. Allen Hynek, later famous for his UFO classifications, initially worked as a scientific adviser to the Air Force and approached many reports sceptically. In the Chiles-Whitted case, Hynek argued that several key details strongly matched a bright fireball meteor, also known as a bolide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
+Astronomer J. Allen Hynek, later famous for his UFO classifications, initially worked as a scientific adviser to the Air Force and approached many reports sceptically. In the Chiles-Whitted case, Hynek argued that several key details strongly matched a bright fireball meteor, also known as a bolide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
 The features supporting this interpretation included:
 
@@ -303,32 +303,32 @@ The features supporting this interpretation included:
 
 * A sudden bright appearance.
 * A fiery tail or exhaust effect.
-* Extremely high apparent speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Project Blue Book: The Chiles-Whitted UFO Encounter...15 May 2023 — Both Chiles and Whitted claimed the object shot past their DC-3 at...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+* Extremely high apparent speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Project Blue Book: The Chiles-Whitted UFO Encounter...15 May 2023 — Both Chiles and Whitted claimed the object shot past their DC-3 at...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 * Brief visibility lasting only seconds.
 * Rapid disappearance into cloud cover.
 
 </div>
 
-Hynek believed the pilots may have interpreted the meteor’s glowing fragmentation and turbulence as structural features such as windows or decks. He later suggested that psychology, expectation and the stress of a sudden night-time encounter could explain why trained observers perceived a structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
+Hynek believed the pilots may have interpreted the meteor’s glowing fragmentation and turbulence as structural features such as windows or decks. He later suggested that psychology, expectation and the stress of a sudden night-time encounter could explain why trained observers perceived a structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-2-dark.svg" | relative_url }}" alt="Official Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Aquarid Meteor Shower Argument
 
 Harvard astronomer Donald H. Menzel strengthened the meteor explanation by placing the sighting within a broader pattern of meteor activity.
 
-Menzel noted that late July coincides with increased activity from the Delta Aquarid meteor streams. Amateur astronomers across the southeastern United States recorded numerous bright meteors during the same period. One Alabama observer reportedly counted fifteen meteors within a single hour of observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The World of Flying Saucers, by Donald H</span><span class="citation-popover-snippet">Menzel...... Chiles-Whitted UFO was a meteor. The probability becomes virtual certainty when we examine the available records for the ni...</span></span></span>
+Menzel noted that late July coincides with increased activity from the Delta Aquarid meteor streams. Amateur astronomers across the southeastern United States recorded numerous bright meteors during the same period. One Alabama observer reportedly counted fifteen meteors within a single hour of observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The World of Flying Saucers, by Donald H</span><span class="citation-popover-snippet">Menzel...... Chiles-Whitted UFO was a meteor. The probability becomes virtual certainty when we examine the available records for the ni...</span></span></span>
 
-Additional reports of large fireballs over Georgia, Tennessee and North Carolina during the same week reinforced the idea that the region was experiencing unusually active meteor conditions. For Menzel, the timing was too strong to ignore. He argued that startled pilots, suddenly confronted by a bright atmospheric object at night, could easily overinterpret its shape and motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The World of Flying Saucers, by Donald H</span><span class="citation-popover-snippet">Menzel...... Chiles-Whitted UFO was a meteor. The probability becomes virtual certainty when we examine the available records for the ni...</span></span></span>
+Additional reports of large fireballs over Georgia, Tennessee and North Carolina during the same week reinforced the idea that the region was experiencing unusually active meteor conditions. For Menzel, the timing was too strong to ignore. He argued that startled pilots, suddenly confronted by a bright atmospheric object at night, could easily overinterpret its shape and motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The World of Flying Saucers, by Donald H</span><span class="citation-popover-snippet">Menzel...... Chiles-Whitted UFO was a meteor. The probability becomes virtual certainty when we examine the available records for the ni...</span></span></span>
 
-Menzel also pointed out that meteors approaching on a shallow angle can appear to move horizontally or even rise, depending on the observer’s perspective and relative motion. This was important because one of the strongest objections to the meteor theory was the pilots’ impression that the object climbed upward in a controlled manner. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
+Menzel also pointed out that meteors approaching on a shallow angle can appear to move horizontally or even rise, depending on the observer’s perspective and relative motion. This was important because one of the strongest objections to the meteor theory was the pilots’ impression that the object climbed upward in a controlled manner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
 ## The Scientific Weaknesses in the Meteor Explanation
 
 Despite eventually becoming the Air Force’s preferred explanation, the meteor theory never convinced all researchers.
 
-One major criticism concerned the reported duration and apparent proximity of the object. Chiles and Whitted believed the object passed close enough for them to observe details resembling windows and a cockpit. Critics argued that ordinary meteors rarely create such impressions with enough clarity to produce matching witness sketches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
+One major criticism concerned the reported duration and apparent proximity of the object. Chiles and Whitted believed the object passed close enough for them to observe details resembling windows and a cockpit. Critics argued that ordinary meteors rarely create such impressions with enough clarity to produce matching witness sketches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
-Physicist James E. McDonald later challenged aspects of Menzel’s astronomical analysis. McDonald argued that if the object had truly been an Aquarid meteor approaching from the expected radiant direction, its apparent movement should not have matched the pilots’ description. He considered this a serious geometrical problem for the official explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">Thus there is a clean-cut error of about 180° in Menzel&#x27;s Aquarid meteor explanation.Read more...</span></span></span>
+Physicist James E. McDonald later challenged aspects of Menzel’s astronomical analysis. McDonald argued that if the object had truly been an Aquarid meteor approaching from the expected radiant direction, its apparent movement should not have matched the pilots’ description. He considered this a serious geometrical problem for the official explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">Thus there is a clean-cut error of about 180° in Menzel&#x27;s Aquarid meteor explanation.Read more...</span></span></span>
 
 Another issue involved witness consistency. Although only one passenger saw a bright flash rather than a structured craft, Chiles and Whitted independently produced broadly similar descriptions. Supporters of the unidentified interpretation argued that simultaneous matching perceptions from two experienced pilots deserved more weight than later theoretical reconstructions.
 
@@ -338,7 +338,7 @@ Even so, critics of the UFO interpretation countered that human perception under
 
 ## Project Blue Book’s Final Position
 
-By the late 1950s, the Air Force had become increasingly committed to conventional explanations for older UFO cases. In 1959, Project Blue Book formally classified the Chiles-Whitted encounter as a probable fireball meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
+By the late 1950s, the Air Force had become increasingly committed to conventional explanations for older UFO cases. In 1959, Project Blue Book formally classified the Chiles-Whitted encounter as a probable fireball meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
 This conclusion reflected a broader institutional trend. Earlier speculative interpretations inside Project Sign were largely abandoned in favour of explanations rooted in astronomy, atmospheric optics, psychology and witness misidentification. The Air Force’s final public position on UFOs eventually became:
 
@@ -346,7 +346,7 @@ This conclusion reflected a broader institutional trend. Earlier speculative int
 
 * no confirmed threat to national security,
 * no verified evidence of advanced unknown technology,
-* and no evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[OSCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">project blue book part 1 ufo reports</span><span class="citation-popover-snippet">OSCAProject Blue Book Part 1 (UFO Reports)6 Aug 2020 — The lab concluded that while the item was unusual, there was no evidence that it b...</span></span></span>
+* and no evidence of extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[OSCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">project blue book part 1 ufo reports</span><span class="citation-popover-snippet">OSCAProject Blue Book Part 1 (UFO Reports)6 Aug 2020 — The lab concluded that while the item was unusual, there was no evidence that it b...</span></span></span>
 
 </div>
 
@@ -369,7 +369,7 @@ The case sits at the intersection of several recurring themes in American UFO in
 
 </div>
 
-It also helped shape the culture of official UFO investigation during the Air Force’s formative years. The debates surrounding the case influenced how later reports were handled under Project Grudge and Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</span></span></span>
+It also helped shape the culture of official UFO investigation during the Air Force’s formative years. The debates surrounding the case influenced how later reports were handled under Project Grudge and Project Blue Book.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</span></span></span>
 
 For sceptics, the incident demonstrates how dramatic UFO stories can emerge from rare but natural astronomical events combined with human perception errors. For UFO proponents, it remains an example of trained witnesses describing something far more structured and controlled than a simple meteor.
 
@@ -378,194 +378,194 @@ More than seventy years later, the Chiles-Whitted encounter still illustrates wh
 <img src="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-3-dark.svg" | relative_url }}" alt="Official Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Air Force and Scientists Interpreted the 1948 Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Air Force and Scientists Interpreted the 1948 Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses scientific interpretation of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses scientific interpretation of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how official investigators handled unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how official investigators handled unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides scientific skepticism relevant to meteor and perception explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific skepticism relevant to meteor and perception explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines institutional interpretations and policy responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines institutional interpretations and policy responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="how-the-air-force-and-scientists-interpreted-the-1948-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ More than seventy years later, the Chiles-Whitted encounter still illustrates wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ More than seventy years later, the Chiles-Whitted encounter still illustrates wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ More than seventy years later, the Chiles-Whitted encounter still illustrates wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ More than seventy years later, the Chiles-Whitted encounter still illustrates wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ More than seventy years later, the Chiles-Whitted encounter still illustrates wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,135 +771,135 @@ More than seventy years later, the Chiles-Whitted encounter still illustrates wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Chiles-Whitted UFO encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: ufo chiles whitted soviet spycraft air force coverup  
-   Link: <a href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Pilots Saw a UFO. Why Did the Air Force Destroy...16 Aug 2018 — Some believed the July 1948 sighting revealed the presence of secret...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Pilots Saw a UFO. Why Did the Air Force Destroy...16 Aug 2018 — Some believed the July 1948 sighting revealed the presence of secret...</p></details>
    Published: July 1948  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, detailing his experience running Project...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, detailing his experience running Project...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works Project Blue Book  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSCAProject Blue Book Part 1 (UFO Reports)6 Aug 2020 — The lab concluded that while the item was unusual, there was no evidence that it b...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSCAProject Blue Book Part 1 (UFO Reports)6 Aug 2020 — The lab concluded that while the item was unusual, there was no evidence that it b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg The World of Flying Saucers, by Donald H  
-   Link: <a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel...... Chiles-Whitted UFO was a meteor. The probability becomes virtual certainty when we examine the available records for the ni...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel...... Chiles-Whitted UFO was a meteor. The probability becomes virtual certainty when we examine the available records for the ni...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsHis argument was built around the three classics: the Mantell, the Chiles- Whitted, and the Gorm...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsHis argument was built around the three classics: the Mantell, the Chiles- Whitted, and the Gorm...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-chiles-whitted-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-chiles-whitted-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ilots spotting an elongated UAP. 1:53m watch...</p></details>
+   Link:<a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-chiles-whitted-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-chiles-whitted-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ilots spotting an elongated UAP. 1:53m watch...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: HISTORY OF UFOs AND ALIENS COMPILATION  
-   Link: <a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: PROJECT BLUE BOOK | "Operation Paperclips" Sneak Peek  
-   Link: <a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RbE3arOv3n8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RbE3arOv3n8</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kirkmcd.princeton.edu  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus there is a clean-cut error of about 180° in Menzel&#x27;s Aquarid meteor explanation.Read more...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thus there is a clean-cut error of about 180° in Menzel&#x27;s Aquarid meteor explanation.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kirkmcd.princeton.edu  
    Title: mcdonald nicap 67  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_nicap_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_nicap_67.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whitted seen an Aquarid meteor in the skies ahead of them, it would have given the appear- ance of moving in the same general heading as...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_nicap_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_nicap_67.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whitted seen an Aquarid meteor in the skies ahead of them, it would have given the appear- ance of moving in the same general heading as...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: slideshare.net  
    Title: project blue book 140388203  
-   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | PDFJuly 24, 1948 - Chiles-Whitted Case Drawings by Chiles and Whitted of their... Nearly fifty years later, investig...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | PDFJuly 24, 1948 - Chiles-Whitted Case Drawings by Chiles and Whitted of their... Nearly fifty years later, investig...</p></details>
    Published: July 24, 1948  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spoilertv.com  
-   Link: <a href="https://www.spoilertv.com/2019/02/project-blue-book-green-fireballs-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spoilertv.com/2019/02/project-blue-book-green-fireballs-review.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - The Green Fireballs - Review19 Feb 2019 — Quinn interviews the soldiers, but Hynek tells them that what they likely s...</p></details>
+   Link:<a href="https://www.spoilertv.com/2019/02/project-blue-book-green-fireballs-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spoilertv.com/2019/02/project-blue-book-green-fireballs-review.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - The Green Fireballs - Review19 Feb 2019 — Quinn interviews the soldiers, but Hynek tells them that what they likely s...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theufodatabase.com  
-   Link: <a href="https://theufodatabase.com/incidents/chiles-whitted-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/chiles-whitted-ufo-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chiles-Whitted UFO EncounterAfter additional analysis by J. Allen Hynek, Donald Menzel, Philip Klass and others, the USAF concluded in 19...</p></details>
+   Link:<a href="https://theufodatabase.com/incidents/chiles-whitted-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/chiles-whitted-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chiles-Whitted UFO EncounterAfter additional analysis by J. Allen Hynek, Donald Menzel, Philip Klass and others, the USAF concluded in 19...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufologist/booth/chiles-whitted-UFO-experience.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/chiles-whitted-UFO-experience.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogist: The Chiles Whitted UFO Montgomery AlabamaA classic UFO event that has all but been forgotten was the Chiles-Whitted sighting w...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufologist/booth/chiles-whitted-UFO-experience.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/chiles-whitted-UFO-experience.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogist: The Chiles Whitted UFO Montgomery AlabamaA classic UFO event that has all but been forgotten was the Chiles-Whitted sighting w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Chiles-Whitted UFO Encounter...15 May 2023 — Both Chiles and Whitted claimed the object shot past their DC-3 at...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Chiles-Whitted UFO Encounter...15 May 2023 — Both Chiles and Whitted claimed the object shot past their DC-3 at...</p></details>
    Published: May 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4iC6DawE9uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4iC6DawE9uM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4iC6DawE9uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4iC6DawE9uM</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>His book is one of the first that shows what the US government actually knows about...Read more...</p></details>
+   Link:<a href="https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His book is one of the first that shows what the US government actually knows about...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: The Report on Unidentified Flying Objects by Edward J  
-   Link: <a href="https://www.facebook.com/groups/4995087850/posts/10162813009302851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10162813009302851/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;In 1956, Ruppelt wrote that the Mantell Crash was one of three &quot;classic&quot; UFO cases in 1948 that would help to define the UFO phenomenon...</p></details>
+   Link:<a href="https://www.facebook.com/groups/4995087850/posts/10162813009302851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10162813009302851/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;In 1956, Ruppelt wrote that the Mantell Crash was one of three &quot;classic&quot; UFO cases in 1948 that would help to define the UFO phenomenon...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Him and his team researched and categorized thousands of UFO...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Him and his team researched and categorized thousands of UFO...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjsKXhQeez4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjsKXhQeez4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a weather balloon, but then they retracted that...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a weather balloon, but then they retracted that...Read more...</p></details>

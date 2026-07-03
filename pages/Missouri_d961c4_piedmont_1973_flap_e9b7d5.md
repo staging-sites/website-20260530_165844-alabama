@@ -268,7 +268,7 @@ image: /assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-overview-social.
 
 ## Introduction
 
-In the early months of **1973**, a rural corner of southeastern Missouri became the focus of one of the Midwest’s most widely discussed waves of unidentified aerial phenomena (UAP), commonly called the **Piedmont–Ozark UFO flap**. Between **February and April**, residents around **Piedmont** and **Clearwater Lake** reported **hundreds of unusual aerial sightings**, ranging from lights in the sky to more structured craft‑like objects. Local law enforcement, newspapers and later national outlets carried accounts of these events, which drew such sustained attention that decades later the **Missouri General Assembly officially designated Piedmont and Wayne County as the “UFO Capitals of Missouri”** in 2023 to mark the 50th anniversary of the flap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
+In the early months of **1973**, a rural corner of southeastern Missouri became the focus of one of the Midwest’s most widely discussed waves of unidentified aerial phenomena (UAP), commonly called the **Piedmont–Ozark UFO flap**. Between **February and April**, residents around **Piedmont** and **Clearwater Lake** reported **hundreds of unusual aerial sightings**, ranging from lights in the sky to more structured craft‑like objects. Local law enforcement, newspapers and later national outlets carried accounts of these events, which drew such sustained attention that decades later the **Missouri General Assembly officially designated Piedmont and Wayne County as the “UFO Capitals of Missouri”** in 2023 to mark the 50th anniversary of the flap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-overview.webp" | relative_url }}" alt="Overview image for Piedmont 1973" loading="eager" decoding="sync" fetchpriority="high">
 While individual reports varied in detail and quality, the sheer volume of witness accounts combined with follow‑up investigation by a university physicist made Piedmont one of the more documented UFO episodes in Missouri’s history. This page explains the main patterns within that 1973 wave, the media and investigative attention it attracted, and why it remains an enduring part of Missouri’s UFO lore.
@@ -277,36 +277,36 @@ While individual reports varied in detail and quality, the sheer volume of witne
 
 ### A Cluster of Reports in the Ozarks
 
-The flurry of sightings began in **late winter 1973** and unfolded primarily in the rural hills of **Wayne County**, including **Piedmont** and nearby **Clearwater Lake**. Residents reported repeated observations of lights, glowing objects, and aerial anomalies over a period of weeks. According to historical records and local signage, **several hundred calls reporting unexplained sky activity** were made to police, sheriffs and newspapers between February and April of that year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
+The flurry of sightings began in **late winter 1973** and unfolded primarily in the rural hills of **Wayne County**, including **Piedmont** and nearby **Clearwater Lake**. Residents reported repeated observations of lights, glowing objects, and aerial anomalies over a period of weeks. According to historical records and local signage, **several hundred calls reporting unexplained sky activity** were made to police, sheriffs and newspapers between February and April of that year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
 
 Reports included:
 
-* **Bright lights and shafts of light** seen over Clearwater Lake, sometimes from moving vehicles or from the lake’s surface. Witnesses described flashes that rose and hovered above the water, often changing colour or intensity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
-* **Multiple eyewitness clusters**, such as schoolchildren, coaches and other locals who reported objects exhibiting behaviours they felt were not consistent with known aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missourinet.com">[Missourinet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missourinet.com</span><span class="citation-popover-title">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park</span><span class="citation-popover-snippet">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park - MissourinetJune 14, 2024...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
-* Some accounts described **lights moving silently**, or patterns that held witnesses’ attention for several minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterufo.net">[waterufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterufo.net</span><span class="citation-popover-snippet">Water UFO Sightings 1973 -1979...</span></span></span>
+* **Bright lights and shafts of light** seen over Clearwater Lake, sometimes from moving vehicles or from the lake’s surface. Witnesses described flashes that rose and hovered above the water, often changing colour or intensity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
+* **Multiple eyewitness clusters**, such as schoolchildren, coaches and other locals who reported objects exhibiting behaviours they felt were not consistent with known aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missourinet.com">[Missourinet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missourinet.com</span><span class="citation-popover-title">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park</span><span class="citation-popover-snippet">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park - MissourinetJune 14, 2024...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
+* Some accounts described **lights moving silently**, or patterns that held witnesses’ attention for several minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterufo.net">[waterufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterufo.net</span><span class="citation-popover-snippet">Water UFO Sightings 1973 -1979...</span></span></span>
 
-A widely circulated anecdote involved a **Piedmont High School basketball coach and team** observing bright shafts of light in the sky on their return from a game, which helped spark wider local awareness and reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/close-encounters/piedmont-ufo-37th-parallel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Piedmont UFO Incident and The 37th Parallel Conspiracy</span><span class="citation-popover-snippet">UFO InsightThe Piedmont UFO Incident and The 37th Parallel Conspiracy - UFO InsightJune 25, 2018...</span><span class="citation-popover-meta">Published: June 25, 2018</span></span></span>
+A widely circulated anecdote involved a **Piedmont High School basketball coach and team** observing bright shafts of light in the sky on their return from a game, which helped spark wider local awareness and reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/close-encounters/piedmont-ufo-37th-parallel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Piedmont UFO Incident and The 37th Parallel Conspiracy</span><span class="citation-popover-snippet">UFO InsightThe Piedmont UFO Incident and The 37th Parallel Conspiracy - UFO InsightJune 25, 2018...</span><span class="citation-popover-meta">Published: June 25, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-1-dark.svg" | relative_url }}" alt="Piedmont 1973 illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Patterns and Timing
 
-Rather than a single dramatic incident, the 1973 episode took the form of a **“flap”** — a period in which multiple witnesses in a region independently report similar phenomena over a comparatively short span of time. In Piedmont’s case, sightings were said to occur almost nightly for weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterufo.net">[waterufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterufo.net</span><span class="citation-popover-snippet">Water UFO Sightings 1973 -1979...</span></span></span>
+Rather than a single dramatic incident, the 1973 episode took the form of a **“flap”** — a period in which multiple witnesses in a region independently report similar phenomena over a comparatively short span of time. In Piedmont’s case, sightings were said to occur almost nightly for weeks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterufo.net">[waterufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterufo.net</span><span class="citation-popover-snippet">Water UFO Sightings 1973 -1979...</span></span></span>
 
-The volume and spread of reports drew comparisons with other well‑known UFO waves in U.S. history, not because there was conclusive evidence of non‑human craft, but because **hundreds of separate observers** described unusual lights or objects in consistent time–place clusters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
+The volume and spread of reports drew comparisons with other well‑known UFO waves in U.S. history, not because there was conclusive evidence of non‑human craft, but because **hundreds of separate observers** described unusual lights or objects in consistent time–place clusters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
 
 ## Media Attention and Local Response
 
 ### Contemporary Coverage
 
-In 1973, local newspapers and later national media carried stories about the sightings, often framing them as an odd and intriguing regional phenomenon. These reports helped spread awareness beyond the Ozarks and sparked curiosity among UFO enthusiasts nationwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
+In 1973, local newspapers and later national media carried stories about the sightings, often framing them as an odd and intriguing regional phenomenon. These reports helped spread awareness beyond the Ozarks and sparked curiosity among UFO enthusiasts nationwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
 
-By the autumn of that year, the Piedmont sightings had drawn enough attention to be chronicled alongside broader national UFO reporting, which saw increased public interest in unidentified aerial phenomena during the early 1970s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
+By the autumn of that year, the Piedmont sightings had drawn enough attention to be chronicled alongside broader national UFO reporting, which saw increased public interest in unidentified aerial phenomena during the early 1970s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8MS1s5YlhCM" title="Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer">Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri</a></p><p class="youtube-embed-meta">Channel: State Historical Society of Missouri &middot; Views: 20.0K &middot; Uploaded: October 2021 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8MS1s5YlhCM">Open on YouTube</a></p></div></div></div>
 
 ### Community Memory and Tourism
 
-Over the ensuing decades, the 1973 flap became a part of local identity. Piedmont today embraces its connection to that episode with annual **UFO festivals**, space‑themed decorations and a small park celebrating its designation as Missouri’s UFO capital, opened in the early 2020s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missourinet.com">[Missourinet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missourinet.com</span><span class="citation-popover-title">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park</span><span class="citation-popover-snippet">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park - MissourinetJune 14, 2024...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
+Over the ensuing decades, the 1973 flap became a part of local identity. Piedmont today embraces its connection to that episode with annual **UFO festivals**, space‑themed decorations and a small park celebrating its designation as Missouri’s UFO capital, opened in the early 2020s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missourinet.com">[Missourinet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missourinet.com</span><span class="citation-popover-title">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park</span><span class="citation-popover-snippet">Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park - MissourinetJune 14, 2024...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
 
 These festivities and memorials lean into the cultural memory of the sightings more than any official scientific confirmation of extraordinary craft. They reflect how a once‑local news story became woven into the region’s tourist appeal and communal lore.
 
@@ -317,7 +317,7 @@ One of the distinctive aspects of the Piedmont flap was the involvement of a **t
 <img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-2-dark.svg" | relative_url }}" alt="Piedmont 1973 illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Harley D. Rutledge and Real‑Time Study
 
-**Dr. Harley D. Rutledge**, a physics professor at Southeast Missouri State University, took a special interest in the 1973 events. Rather than collecting only after‑the‑fact witness accounts, he and a team of trained observers mounted an effort called **Project Identification** to observe and record the phenomena as they unfolded, using telescopes, cameras and other [instruments]({{ 'instruments/' | relative_url }}). This endeavour later formed the basis of his 1981 book *Project Identification: The First Scientific Field Study of UFO Phenomena*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Piedmont%2C_Missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Piedmont, Missouri</span><span class="citation-popover-snippet">Piedmont, Missouri</span></span></span>
+**Dr. Harley D. Rutledge**, a physics professor at Southeast Missouri State University, took a special interest in the 1973 events. Rather than collecting only after‑the‑fact witness accounts, he and a team of trained observers mounted an effort called **Project Identification** to observe and record the phenomena as they unfolded, using telescopes, cameras and other [instruments]({{ 'instruments/' | relative_url }}). This endeavour later formed the basis of his 1981 book *Project Identification: The First Scientific Field Study of UFO Phenomena*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Piedmont%2C_Missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Piedmont, Missouri</span><span class="citation-popover-snippet">Piedmont, Missouri</span></span></span>
 
 Rutledge’s work was notable for its attempt to apply **scientific standards to field observation**, seeking to determine object distance, speed and other physical parameters during sightings. Yet even with this effort, the results did not amount to **definitive proof of extraterrestrial craft**; rather, they flagged the complexity of disentangling genuine anomalies from misinterpretations of natural or terrestrial phenomena.
 
@@ -325,9 +325,9 @@ Rutledge’s work was notable for its attempt to apply **scientific standards to
 
 ### Scientific and Skeptical Perspectives
 
-Subsequent commentary by sceptics and researchers suggests that many sights attributed to UFOs could be explained by conventional causes — atmospheric light phenomena, aircraft misidentifications or other ordinary sources. Official investigations such as Project Blue Book had ended by 1969, so there was **no government follow‑up** on the Piedmont reports despite their scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
+Subsequent commentary by sceptics and researchers suggests that many sights attributed to UFOs could be explained by conventional causes — atmospheric light phenomena, aircraft misidentifications or other ordinary sources. Official investigations such as Project Blue Book had ended by 1969, so there was **no government follow‑up** on the Piedmont reports despite their scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory UFOs in MO</span><span class="citation-popover-snippet">Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</span><span class="citation-popover-meta">Published: October 4, 2025</span></span></span>
 
-Academic interest extended beyond Rutledge’s work; some later studies have even explored geological variables, such as **tectonic strain**, to see if they correlate with clusters of anomalous light reports — a hypothesis advanced in the literature but far from universally accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.2466/pms.1988.67.2.571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGeophysical Variables and Behavior: L. Indications of a Tectonic Strain Factor in the Rutledge (Ufo) Observations during 197...</span></span></span>
+Academic interest extended beyond Rutledge’s work; some later studies have even explored geological variables, such as **tectonic strain**, to see if they correlate with clusters of anomalous light reports — a hypothesis advanced in the literature but far from universally accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.2466/pms.1988.67.2.571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGeophysical Variables and Behavior: L. Indications of a Tectonic Strain Factor in the Rutledge (Ufo) Observations during 197...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHWxWNy6VO0" title="Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer">Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 68.9K &middot; Uploaded: July 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHWxWNy6VO0">Open on YouTube</a></p></div></div></div>
 
@@ -337,9 +337,9 @@ The Piedmont flap stands out in state-level UFO chronologies for several reasons
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Scale of reporting:** Hundreds of independent sightings in a rural region over weeks is unusual compared with isolated reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterufo.net">[waterufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterufo.net</span><span class="citation-popover-snippet">Water UFO Sightings 1973 -1979...</span></span></span>
-* **Scientific engagement:** Project Identification represented one of the first sustained efforts to document UFO phenomena in the field rather than through post‑event interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
-* **Cultural legacy:** The sustained community memory, annual themed events and official designations make Piedmont an enduring symbol in Missouri’s UFO narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Piedmont%2C_Missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Piedmont, Missouri</span><span class="citation-popover-snippet">Piedmont, Missouri</span></span></span>
+* **Scale of reporting:** Hundreds of independent sightings in a rural region over weeks is unusual compared with isolated reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterufo.net">[waterufo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterufo.net</span><span class="citation-popover-snippet">Water UFO Sightings 1973 -1979...</span></span></span>
+* **Scientific engagement:** Project Identification represented one of the first sustained efforts to document UFO phenomena in the field rather than through post‑event interviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
+* **Cultural legacy:** The sustained community memory, annual themed events and official designations make Piedmont an enduring symbol in Missouri’s UFO narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Piedmont%2C_Missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Piedmont, Missouri</span><span class="citation-popover-snippet">Piedmont, Missouri</span></span></span>
 
 </div>
 
@@ -348,199 +348,199 @@ However, it’s important to acknowledge the limits of the evidence: while many 
 <img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-3-dark.svg" | relative_url }}" alt="Piedmont 1973 illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ongoing Interest and Commemoration
 
-Fifty years on, the Piedmont sightings continue to attract interest from both UFO enthusiasts and curious visitors. Annual festivals, new publications reflecting on the Ozark UFO flap and informal witness gatherings keep the story alive in local culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UfoUapNews/comments/1s7tne0/the_piedmont_lights_of_1973_a_50thanniversary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the piedmont lights of 1973 a 50thanniversary</span><span class="citation-popover-snippet">The Piedmont Lights of 1973: A 50th‑Anniversary Commemoration and Community UFO EventsMarch 30, 2026...</span><span class="citation-popover-meta">Published: March 30, 2026</span></span></span>
+Fifty years on, the Piedmont sightings continue to attract interest from both UFO enthusiasts and curious visitors. Annual festivals, new publications reflecting on the Ozark UFO flap and informal witness gatherings keep the story alive in local culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UfoUapNews/comments/1s7tne0/the_piedmont_lights_of_1973_a_50thanniversary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the piedmont lights of 1973 a 50thanniversary</span><span class="citation-popover-snippet">The Piedmont Lights of 1973: A 50th‑Anniversary Commemoration and Community UFO EventsMarch 30, 2026...</span><span class="citation-popover-meta">Published: March 30, 2026</span></span></span>
 
-Though the original 1973 reports remain **unresolved in terms of scientific consensus**, the Piedmont flap holds a distinctive place in Missouri’s UFO history as a **large‑scale, well‑remembered regional phenomenon** that bridged local experience, scientific observation and national curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
+Though the original 1973 reports remain **unresolved in terms of scientific consensus**, the Piedmont flap holds a distinctive place in Missouri’s UFO history as a **large‑scale, well‑remembered regional phenomenon** that bridged local experience, scientific observation and national curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-title">the 1973 piedmont missouri ufo flap</span><span class="citation-popover-snippet">UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</span><span class="citation-popover-meta">Published: August 9, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Piedmont Became Missouri&#x27;s UFO Capital. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Piedmont Became Missouri&#x27;s UFO Capital. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical context for official responses to UFO waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context for official responses to UFO waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d9BaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
-        </h4>
-        <p class="fr-book-author">By David Michael Jacobs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d9BaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
+</h4>
+<p class="fr-book-author">By David Michael Jacobs</p>
         
-        <p class="fr-book-desc">Places the Piedmont flap within national UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Piedmont flap within national UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Provides context for classifying and analysing mass sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for classifying and analysing mass sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
-        </h4>
-        <p class="fr-book-author">By Jane Roberts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
+</h4>
+<p class="fr-book-author">By Jane Roberts</p>
         
-        <p class="fr-book-desc">Directly documents the 1973 Wayne County investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly documents the 1973 Wayne County investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Controversy in America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Controversy in America</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-piedmont-became-missouri-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Though the original 1973 reports remain **unresolved in terms of scientific cons
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Though the original 1973 reports remain **unresolved in terms of scientific cons
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Though the original 1973 reports remain **unresolved in terms of scientific cons
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Though the original 1973 reports remain **unresolved in terms of scientific cons
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Though the original 1973 reports remain **unresolved in terms of scientific cons
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,142 +746,142 @@ Though the original 1973 reports remain **unresolved in terms of scientific cons
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Piedmont, Missouri  
-   Link: <a href="https://en.wikipedia.org/wiki/Piedmont%2C_Missouri" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Piedmont%2C_Missouri</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Piedmont%2C_Missouri" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Piedmont%2C_Missouri</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufofeed.com  
    Title: the 1973 piedmont missouri ufo flap  
-   Link: <a href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</p></details>
+   Link:<a href="https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/142059/the-1973-piedmont-missouri-ufo-flap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FEEDThe 1973 Piedmont, Missouri UFO Flap - UFO FEEDAugust 9, 2025...</p></details>
    Published: August 9, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: waterufo.net  
-   Link: <a href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.waterufo.net/19731979/19731979HtmlText1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Water UFO Sightings 1973 -1979...</p></details>
+   Link:<a href="https://www.waterufo.net/19731979/19731979HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.waterufo.net/19731979/19731979HtmlText1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Water UFO Sightings 1973 -1979...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: missourinet.com  
    Title: Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park  
-   Link: <a href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park - MissourinetJune 14, 2024...</p></details>
+   Link:<a href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greetings, Earthlings: Piedmont opens UFO Capital of Missouri Park - MissourinetJune 14, 2024...</p></details>
    Published: June 14, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Harley Rutledge  
-   Link: <a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: the [piedmont lights](&#123;&#123; 'piedmont-lights/' | relative_url &#125;&#125;) of 1973 a 50thanniversary  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1s7tne0/the_piedmont_lights_of_1973_a_50thanniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1s7tne0/the_piedmont_lights_of_1973_a_50thanniversary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Piedmont Lights of 1973: A 50th‑Anniversary Commemoration and Community UFO EventsMarch 30, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1s7tne0/the_piedmont_lights_of_1973_a_50thanniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1s7tne0/the_piedmont_lights_of_1973_a_50thanniversary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Piedmont Lights of 1973: A 50th‑Anniversary Commemoration and Community UFO EventsMarch 30, 2026...</p></details>
    Published: March 30, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vaticanobservatory.org  
    Title: Vatican Observatory UFOs in MO  
-   Link: <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</p></details>
+   Link:<a href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican ObservatoryUFOs in MO - Vatican ObservatoryOctober 4, 2025...</p></details>
    Published: October 4, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Piedmont UFO Incident and The 37th Parallel Conspiracy  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/piedmont-ufo-37th-parallel" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/piedmont-ufo-37th-parallel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Piedmont UFO Incident and The 37th Parallel Conspiracy - UFO InsightJune 25, 2018...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/piedmont-ufo-37th-parallel" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/piedmont-ufo-37th-parallel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Piedmont UFO Incident and The 37th Parallel Conspiracy - UFO InsightJune 25, 2018...</p></details>
    Published: June 25, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.2466/pms.1988.67.2.571" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.2466/pms.1988.67.2.571</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGeophysical Variables and Behavior: L. Indications of a Tectonic Strain Factor in the Rutledge (Ufo) Observations during 197...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.2466/pms.1988.67.2.571" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.2466/pms.1988.67.2.571</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGeophysical Variables and Behavior: L. Indications of a Tectonic Strain Factor in the Rutledge (Ufo) Observations during 197...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vaticanobservatory.org  
    Title: M O UFOs  
-   Link: <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Miracles - Vatican ObservatoryOctober 11, 2025 — MO UFOS… AND MIRACLES By Mr. Christopher Graney | 11 Oct 2025 | Sacred Space Astrono...</p></details>
+   Link:<a href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Miracles - Vatican ObservatoryOctober 11, 2025 — MO UFOS… AND MIRACLES By Mr. Christopher Graney | 11 Oct 2025 | Sacred Space Astrono...</p></details>
    Published: October 11, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoinsight.com  
    Title: The Piedmont UFO Incident and The 37th Parallel Conspiracy  
-   Link: <a href="https://www.ufoinsight.com/the-piedmont-ufo-incident-and-the-37th-parallel-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-piedmont-ufo-incident-and-the-37th-parallel-conspiracy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 25, 2018 — EXPERT OPINION One of the most recognized UFO flaps in Missouri’s modern chronicles took shape near Piedmont i...</p></details>
+   Link:<a href="https://www.ufoinsight.com/the-piedmont-ufo-incident-and-the-37th-parallel-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-piedmont-ufo-incident-and-the-37th-parallel-conspiracy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 25, 2018 — EXPERT OPINION One of the most recognized UFO flaps in Missouri’s modern chronicles took shape near Piedmont i...</p></details>
    Published: June 25, 2018  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oldmufon.weebly.com  
    Title: "YOU WON'T believe this," Reggie Bone told a FA  
-   Link: <a href="https://oldmufon.weebly.com/piedmont-mo-case---1973.html" target="_blank" rel="noopener noreferrer nofollow">https://oldmufon.weebly.com/piedmont-mo-case---1973.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident | 1973 Piedmont Missouri CasePIEDMONT MISSOURI CASE - 1973 * * * Starting in February 1973 police in Piedmont, Mo., received ove...</p></details>
+   Link:<a href="https://oldmufon.weebly.com/piedmont-mo-case---1973.html" target="_blank" rel="noopener noreferrer nofollow">https://oldmufon.weebly.com/piedmont-mo-case---1973.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident | 1973 Piedmont Missouri CasePIEDMONT MISSOURI CASE - 1973 * * * Starting in February 1973 police in Piedmont, Mo., received ove...</p></details>
    Published: February 1973  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/9781737899662/50th-Anniversary-Missouri-Ozarks-UFO-1737899663/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9781737899662/50th-Anniversary-Missouri-Ozarks-UFO-1737899663/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ziegelmeyer, Debbie; Kay, Margie: 9781737899662 - AbeBooksJanuary 1, 2023 — 50TH ANNIVERSARY OF THE SE MISSOURI OZARKS UFO FLAP: PIEDMONT...</p></details>
+   Link:<a href="https://www.abebooks.com/9781737899662/50th-Anniversary-Missouri-Ozarks-UFO-1737899663/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9781737899662/50th-Anniversary-Missouri-Ozarks-UFO-1737899663/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ziegelmeyer, Debbie; Kay, Margie: 9781737899662 - AbeBooksJanuary 1, 2023 — 50TH ANNIVERSARY OF THE SE MISSOURI OZARKS UFO FLAP: PIEDMONT...</p></details>
    Published: January 1, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newstribune.com  
    Title: Bill would name Piedmont as Missouri’s UFO capital | Jefferson City News Tribune  
-   Link: <a href="https://www.newstribune.com/news/2023/apr/06/bill-would-name-piedmont-as-missouris-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.newstribune.com/news/2023/apr/06/bill-would-name-piedmont-as-missouris-ufo-capital/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 6, 2023 — BILL WOULD NAME PIEDMONT AS MISSOURI’S UFO CAPITAL April 6, 2023 by Samir Knox Reggie Bone, the basketball coach at Clear...</p></details>
+   Link:<a href="https://www.newstribune.com/news/2023/apr/06/bill-would-name-piedmont-as-missouris-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.newstribune.com/news/2023/apr/06/bill-would-name-piedmont-as-missouris-ufo-capital/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 6, 2023 — BILL WOULD NAME PIEDMONT AS MISSOURI’S UFO CAPITAL April 6, 2023 by Samir Knox Reggie Bone, the basketball coach at Clear...</p></details>
    Published: April 6, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: podcastufo.com  
    Title: Besides the Pascagoula and the Coyne incidents, there were flaps all ov  
-   Link: <a href="https://podcastufo.com/the-first-scientific-ufo-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/the-first-scientific-ufo-field-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Scientific UFO Field Study – Podcast UFOJune 1, 2024 — THE FIRST SCIENTIFIC UFO FIELD STUDY June 1, 2024July 19, 2024admin by A...</p></details>
+   Link:<a href="https://podcastufo.com/the-first-scientific-ufo-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/the-first-scientific-ufo-field-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First Scientific UFO Field Study – Podcast UFOJune 1, 2024 — THE FIRST SCIENTIFIC UFO FIELD STUDY June 1, 2024July 19, 2024admin by A...</p></details>
    Published: June 1, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: 101theeagle.com  
    Title: 50 Years Ago, 500 Missourians Saw UFO's and It's Still a Mystery  
-   Link: <a href="https://101theeagle.com/piedmont-missouri-ufo-encounter-1973/" target="_blank" rel="noopener noreferrer nofollow">https://101theeagle.com/piedmont-missouri-ufo-encounter-1973/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 15, 2023 — Image: 50 Years Ago, 500 Missourians Saw UFO&amp;#8217;s and It&amp;#8217;s Still a Mystery 50 YEARS AGO, 500 MISSOURIANS SAW...</p></details>
+   Link:<a href="https://101theeagle.com/piedmont-missouri-ufo-encounter-1973/" target="_blank" rel="noopener noreferrer nofollow">https://101theeagle.com/piedmont-missouri-ufo-encounter-1973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 15, 2023 — Image: 50 Years Ago, 500 Missourians Saw UFO&amp;#8217;s and It&amp;#8217;s Still a Mystery 50 YEARS AGO, 500 MISSOURIANS SAW...</p></details>
    Published: November 15, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stateoftheozarks.net  
    Title: The Ozark Spooklights – State Of the Ozarks Showcase  
-   Link: <a href="https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2020 — Image: spooklights-Curtis THE OZARK SPOOKLIGHTS by Margie Kay (with art by Curtis Copeland) StateoftheOzarks Writers Arti...</p></details>
+   Link:<a href="https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2020 — Image: spooklights-Curtis THE OZARK SPOOKLIGHTS by Margie Kay (with art by Curtis Copeland) StateoftheOzarks Writers Arti...</p></details>
    Published: July 24, 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: stronghold-nation.com  
-   Link: <a href="https://www.stronghold-nation.com/history/myth/the-piedmont-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-piedmont-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Piedmont Incident | UFO Case Studies | Stronghold NationTHE PIEDMONT INCIDENT * UFO Case Studies * 1 min BY CRUSADER1307 Located in W...</p></details>
+   Link:<a href="https://www.stronghold-nation.com/history/myth/the-piedmont-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-piedmont-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Piedmont Incident | UFO Case Studies | Stronghold NationTHE PIEDMONT INCIDENT * UFO Case Studies * 1 min BY CRUSADER1307 Located in W...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Missouri Mysteries, Chapter Two  
-   Link: <a href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8MS1s5YlhCM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8MS1s5YlhCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LHWxWNy6VO0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This small Missouri town could become state&#x27;s &#x27;UFO Capital&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LHWxWNy6VO0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This small Missouri town could become state&#x27;s &#x27;UFO Capital&#x27;...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: How Piedmont became the UFO Capitol of Missouri | Living St. Louis  
-   Link: <a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDTIqTJMBZ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDTIqTJMBZ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: This small Missouri town could become state's 'UFO Capital'  
-   Link: <a href="https://www.youtube.com/watch?v=-Zx6ToyqoqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-Zx6ToyqoqQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ribbon cutting for &quot;UFO Capital of Missouri&quot; Park in Piedmont...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-Zx6ToyqoqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-Zx6ToyqoqQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ribbon cutting for &quot;UFO Capital of Missouri&quot; Park in Piedmont...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-index/
 description: Focused pages that expand on What Really Happened in Minnesota's Skies?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Minnesota_60590f
 parent_title: What Really Happened in Minnesota's Skies?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-minnesotas-skies/
 
 # Explore Topics in What Really Happened in Minnesota's Skies?
 
-The following pages expand on the main **[What Really Happened in Minnesota's Skies?]({{ '/what-really-happened-in-minnesotas-skies/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Minnesota's Skies?]({{ '/what-really-happened-in-minnesotas-skies/' | relative_url }})** page and cover its key branches in.
 
 - [Anoka Report]({{ '/anoka-report/' | relative_url }})
 - [Explanations]({{ '/explanations-2d29c0/' | relative_url }})

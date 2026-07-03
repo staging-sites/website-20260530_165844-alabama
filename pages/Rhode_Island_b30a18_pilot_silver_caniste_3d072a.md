@@ -268,25 +268,25 @@ image: /assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-overview-s
 
 ## Introduction
 
-Rhode Island’s “silver canister” pilot report is one of the state’s more interesting recent UFO stories because it did not begin as a casual skywatching claim. It involved a pilot on radio, an air-traffic-control exchange, a reported object close to an aircraft at about 3,500 feet, and later public attention after the audio circulated online. The strongest reading is cautious: the report is aviation-relevant and worth documenting, but the public evidence does not identify the object or prove anything extraordinary. The case matters less because of the “aliens” joke in the recording and more because a trained aircraft operator described an unknown object close enough to raise a flight-safety question. News accounts identify the aircraft as a Piper PA-32RT-300T Turbo Lance II and place the encounter over Rhode Island, with the pilot describing a small, silver, canister-like object near the wingtip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Rhode Island’s “silver canister” pilot report is one of the state’s more interesting recent UFO stories because it did not begin as a casual skywatching claim. It involved a pilot on radio, an air-traffic-control exchange, a reported object close to an aircraft at about 3,500 feet, and later public attention after the audio circulated online. The strongest reading is cautious: the report is aviation-relevant and worth documenting, but the public evidence does not identify the object or prove anything extraordinary. The case matters less because of the “aliens” joke in the recording and more because a trained aircraft operator described an unknown object close enough to raise a flight-safety question. News accounts identify the aircraft as a Piper PA-32RT-300T Turbo Lance II and place the encounter over Rhode Island, with the pilot describing a small, silver, canister-like object near the wingtip.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-overview.webp" | relative_url }}" alt="Overview image for Pilot Cases" loading="eager" decoding="sync" fetchpriority="high">
 ## The reported silver canister encounter
 
-The basic story is compact. A pilot flying over Rhode Island reported to air traffic control that the aircraft had passed a strange small object. In the publicly reported transcript of the exchange, the pilot described it as a “small silver canister”, said it appeared to be standing still, and placed it right off the wingtip while the aircraft was at about 3,500 feet. Controllers reportedly said they had no other report of an object in the area and asked whether it could have been a drone or balloon. The pilot’s answer, as quoted in several accounts, was that he saw nothing attached to it and that it seemed to be hovering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox4news.com">[FOX 4 News Dallas-Fort Worth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox4news.com</span><span class="citation-popover-title">pilot reports ufo beside jet atc jokes good luck aliens</span><span class="citation-popover-snippet">pilot reports ufo beside jet atc jokes good luck aliens</span></span></span>
+The basic story is compact. A pilot flying over Rhode Island reported to air traffic control that the aircraft had passed a strange small object. In the publicly reported transcript of the exchange, the pilot described it as a “small silver canister”, said it appeared to be standing still, and placed it right off the wingtip while the aircraft was at about 3,500 feet. Controllers reportedly said they had no other report of an object in the area and asked whether it could have been a drone or balloon. The pilot’s answer, as quoted in several accounts, was that he saw nothing attached to it and that it seemed to be hovering.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox4news.com">[FOX 4 News Dallas-Fort Worth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox4news.com</span><span class="citation-popover-title">pilot reports ufo beside jet atc jokes good luck aliens</span><span class="citation-popover-snippet">pilot reports ufo beside jet atc jokes good luck aliens</span></span></span>
 
-That is why the case has stuck in Rhode Island UFO discussions. It is not simply a distant light, a vague orb, or a social-media clip with no operational context. The useful evidence is the recorded aviation communication: a real-time report made to controllers, apparently during an ordinary flight. The weak point is just as important: the public record, at least so far, is not a full official case file. There is no publicly released photograph of the object, no confirmed radar track tied to it, no known recovered material, and no published FAA or AARO conclusion naming the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ptclvi/pilot_discovers_hovering_silver_cylinder_ufo_near/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pilot discovers hovering silver cylinder UFO near aircraft</span><span class="citation-popover-snippet">Pilot discovers hovering silver cylinder UFO near aircraft</span></span></span>
+That is why the case has stuck in Rhode Island UFO discussions. It is not simply a distant light, a vague orb, or a social-media clip with no operational context. The useful evidence is the recorded aviation communication: a real-time report made to controllers, apparently during an ordinary flight. The weak point is just as important: the public record, at least so far, is not a full official case file. There is no publicly released photograph of the object, no confirmed radar track tied to it, no known recovered material, and no published FAA or AARO conclusion naming the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ptclvi/pilot_discovers_hovering_silver_cylinder_ufo_near/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pilot discovers hovering silver cylinder UFO near aircraft</span><span class="citation-popover-snippet">Pilot discovers hovering silver cylinder UFO near aircraft</span></span></span>
 
 The location also matters. Reports place the exchange with Rhode Island T. F. Green International Airport air traffic control, which puts the story inside an ordinary civilian aviation environment rather than a remote military range or secret test area. That makes mundane possibilities harder to ignore. Rhode Island’s sky is full of explainable traffic and visual clutter: general aviation, airport operations, drones, balloons, coastal haze, reflected sunlight, and moving objects whose speed or distance can be misjudged from a cockpit. The case is therefore best treated as an unresolved aviation report, not as a confirmed anomalous craft.
 
-One caution is worth making early: some retellings call the aircraft a “private jet”, but the named aircraft type in the same reporting is a Piper PA-32RT-300T Turbo Lance II, a single-engine general-aviation aircraft rather than a jet. That detail does not undermine the pilot’s report, but it shows how quickly secondary coverage can add imprecision around a case. For a UFO history page, that is a warning sign: the most reliable parts are the radio exchange and the specific aircraft/altitude details repeated across reports; the weakest parts are the dramatic framing and loose media language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One caution is worth making early: some retellings call the aircraft a “private jet”, but the named aircraft type in the same reporting is a Piper PA-32RT-300T Turbo Lance II, a single-engine general-aviation aircraft rather than a jet. That detail does not undermine the pilot’s report, but it shows how quickly secondary coverage can add imprecision around a case. For a UFO history page, that is a warning sign: the most reliable parts are the radio exchange and the specific aircraft/altitude details repeated across reports; the weakest parts are the dramatic framing and loose media language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why pilot testimony changes the stakes
 
 Pilot sightings are often treated as stronger than ordinary witness reports because pilots spend more time reading the sky, judging distances, and separating aircraft from weather, glare, and traffic. That does not make a pilot infallible. It does mean the report deserves more careful handling than a casual “I saw a light” account, especially when the claimed object is close to an aircraft.
 
-The safety issue is straightforward. A small unknown object near a wingtip can be relevant whether it is a balloon, a drone, debris, a sensor package, or something genuinely unexplained. A collision hazard does not need to be exotic to matter. The 2021 US intelligence preliminary assessment on UAP made this distinction plainly: UAP reports can pose a hazard to safety of flight, and the assessment noted documented instances in which pilots reported near misses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+The safety issue is straightforward. A small unknown object near a wingtip can be relevant whether it is a balloon, a drone, debris, a sensor package, or something genuinely unexplained. A collision hazard does not need to be exotic to matter. The 2021 US intelligence preliminary assessment on UAP made this distinction plainly: UAP reports can pose a hazard to safety of flight, and the assessment noted documented instances in which pilots reported near misses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
 The Rhode Island case sits exactly in that safety-first category. The most useful question is not “Was it alien?” but “Was there an unidentified object close to an aircraft, and did the reporting chain preserve enough data to investigate it?” That is where the case becomes a governance issue rather than just a curiosity. A short radio exchange can show that something was reported; it cannot, by itself, reconstruct the object’s position, size, speed, altitude, or origin with confidence.
 
@@ -296,9 +296,9 @@ The pilot’s wording also deserves care. “Standing still” and “hovering�
 
 ## The “aliens” line is memorable, but it is not the evidence
 
-The phrase that made the recording travel was the controller’s reported joke: “Good luck with the aliens.” That line helped turn a local aviation oddity into a viral UFO item, but it is also the least useful part of the case analytically. It tells us something about the social handling of weird reports on a shared radio frequency: humour can defuse awkwardness, but it can also blur the distinction between a safety report and entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/pilot-reports-ufo-hovering-beside-jet-leaving-air-traffic-control-stunned-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The phrase that made the recording travel was the controller’s reported joke: “Good luck with the aliens.” That line helped turn a local aviation oddity into a viral UFO item, but it is also the least useful part of the case analytically. It tells us something about the social handling of weird reports on a shared radio frequency: humour can defuse awkwardness, but it can also blur the distinction between a safety report and entertainment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/pilot-reports-ufo-hovering-beside-jet-leaving-air-traffic-control-stunned-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This matters because stigma has long affected UFO and UAP reporting. NASA’s 2023 independent UAP study said there was no standardised system for civilian UAP reports, that data were often sparse and incomplete, and that the negative perception around reporting can lead to data loss. The report also pointed to the Aviation Safety Reporting System as a potentially valuable route for better commercial-pilot UAP reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because stigma has long affected UFO and UAP reporting. NASA’s 2023 independent UAP study said there was no standardised system for civilian UAP reports, that data were often sparse and incomplete, and that the negative perception around reporting can lead to data loss. The report also pointed to the Aviation Safety Reporting System as a potentially valuable route for better commercial-pilot UAP reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In that sense, the Rhode Island recording is a useful miniature of the whole problem. A pilot reports something odd. Controllers respond within the limits of what they can see or know. The public later receives a clipped, dramatic version. The alien joke becomes the headline. What gets lost is the operational checklist: exact time, aircraft call sign, object bearing, relative altitude, radar visibility, nearby aircraft, wind profile, balloon launches, drone authorisations, and any follow-up report.
 
@@ -307,7 +307,7 @@ A balanced Rhode Island UFO history should therefore avoid both extremes. It sho
 <img src="{{ "/assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_pilot_silver_caniste_3d072a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official data would be needed next
 
-The strongest next step would be a proper aviation reconstruction. The FAA’s current air-traffic guidance is directly relevant here. FAA Order JO 7110.65 tells controllers to inform the operations supervisor or controller-in-charge of reported or observed UAP activity. FAA Order JO 7210.3 says pilot reports or air-traffic observations of UAP activity must be reported to the National Tactical Security Operations Air Traffic Security Coordinator team on the Domestic Events Network, with details including the aircraft call sign, location, altitude, flight direction, the UAP’s relation to the aircraft, a general description, and whether the UAP appeared on ATC radar displays. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest next step would be a proper aviation reconstruction. The FAA’s current air-traffic guidance is directly relevant here. FAA Order JO 7110.65 tells controllers to inform the operations supervisor or controller-in-charge of reported or observed UAP activity. FAA Order JO 7210.3 says pilot reports or air-traffic observations of UAP activity must be reported to the National Tactical Security Operations Air Traffic Security Coordinator team on the Domestic Events Network, with details including the aircraft call sign, location, altitude, flight direction, the UAP’s relation to the aircraft, a general description, and whether the UAP appeared on ATC radar displays.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Those required fields show exactly why the public version of the silver canister story remains incomplete. The report has a general description, an approximate altitude, an aircraft type, and a radio exchange. What the public has not seen is the full official packet that would allow stronger judgement. A useful case file would include:
 
@@ -324,17 +324,17 @@ Those required fields show exactly why the public version of the silver canister
 
 </div>
 
-AARO’s current public guidance also fits the case. It says civilian pilots are encouraged to report UAP sightings promptly to air traffic control, and that AARO receives UAP-related Pilot Reports from the FAA. That does not mean AARO has publicly resolved this Rhode Island event; it means the kind of report described in the silver canister story now has a defined official pathway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
+AARO’s current public guidance also fits the case. It says civilian pilots are encouraged to report UAP sightings promptly to air traffic control, and that AARO receives UAP-related Pilot Reports from the FAA. That does not mean AARO has publicly resolved this Rhode Island event; it means the kind of report described in the silver canister story now has a defined official pathway.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
 
-The timing is notable. FAA Notice JO 7210.970, issued in September 2025 and effective from 26 October 2025, updated FAA terminology from “UFO” to “UAP” and added a reporting checklist for air-traffic facilities. Reports place the Rhode Island audio around 27 October 2025, almost exactly when the new FAA UAP reporting notice took effect. That coincidence does not prove the case was formally escalated, but it makes the report an interesting early example of the kind of civilian aviation incident the updated procedure was meant to capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The timing is notable. FAA Notice JO 7210.970, issued in September 2025 and effective from 26 October 2025, updated FAA terminology from “UFO” to “UAP” and added a reporting checklist for air-traffic facilities. Reports place the Rhode Island audio around 27 October 2025, almost exactly when the new FAA UAP reporting notice took effect. That coincidence does not prove the case was formally escalated, but it makes the report an interesting early example of the kind of civilian aviation incident the updated procedure was meant to capture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KeQpUodvpHs" title="&quot;Size of a Bathtub, Real Fast&quot; | UFO SIGHTING at Low Altitude" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KeQpUodvpHs" target="_blank" rel="noopener noreferrer">&quot;Size of a Bathtub, Real Fast&quot; | UFO SIGHTING at Low Altitude</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 18.2K &middot; Uploaded: February 2024 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KeQpUodvpHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KeQpUodvpHs">Open on YouTube</a></p></div></div></div>
 
 ## Plausible explanations remain open
 
-The silver canister description invites several ordinary possibilities. A weather balloon or radiosonde package is one. NOAA describes a radiosonde as a small instrument package suspended below a hydrogen- or helium-filled balloon, and the National Weather Service notes that radiosondes can be attached to twine, parachute material, or balloon remnants after descent. A pilot who saw a payload without clearly seeing the balloon, string, or parachute might describe a small canister-like object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Open source on noaa.gov.</span></span></span>
+The silver canister description invites several ordinary possibilities. A weather balloon or radiosonde package is one. NOAA describes a radiosonde as a small instrument package suspended below a hydrogen- or helium-filled balloon, and the National Weather Service notes that radiosondes can be attached to twine, parachute material, or balloon remnants after descent. A pilot who saw a payload without clearly seeing the balloon, string, or parachute might describe a small canister-like object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Open source on noaa.gov.</span></span></span>
 
-A drone is another possibility, although not a simple one. Routine small-drone operations are generally tied to altitude limits and authorisations, especially around controlled airspace, but illegal or unusual drone activity can still occur. The pilot reportedly said he saw no attachment and did not recognise the object as a drone or balloon. That observation counts, but it does not eliminate either explanation without supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A drone is another possibility, although not a simple one. Routine small-drone operations are generally tied to altitude limits and authorisations, especially around controlled airspace, but illegal or unusual drone activity can still occur. The pilot reportedly said he saw no attachment and did not recognise the object as a drone or balloon. That observation counts, but it does not eliminate either explanation without supporting data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Other possibilities include a lost party balloon, reflective debris, a small experimental device, a misjudged object at a different distance, or a combination of glare, motion, and perspective. None of these explanations is proven by the public evidence. The point is narrower: the case is unresolved because the identifying data are missing from public view, not because every ordinary explanation has been ruled out.
 
@@ -352,194 +352,194 @@ Later reporting has not decisively strengthened the original claim. It has sprea
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7AgcmoSecg" title="Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer">Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 139.1K &middot; Uploaded: October 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7AgcmoSecg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is Rhode Island&#x27;s Pilot UFO Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is Rhode Island&#x27;s Pilot UFO Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how reported aerial anomalies are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reported aerial anomalies are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly aligns with a pilot encounter and aviation testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with a pilot encounter and aviation testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Focuses on official witnesses and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official witnesses and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Includes aviation and government-focused UAP discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes aviation and government-focused UAP discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch"><img src="https://i.ebayimg.com/images/g/KocAAOSw6cZk~3Sq/s-l225.jpg" alt="Listing image for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch"><img src="https://i.ebayimg.com/images/g/KocAAOSw6cZk~3Sq/s-l225.jpg" alt="Listing image for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport"><img src="https://i.ebayimg.com/images/g/cBsAAOSwJItehJhF/s-l225.jpg" alt="Listing image for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport"><img src="https://i.ebayimg.com/images/g/cBsAAOSwJItehJhF/s-l225.jpg" alt="Listing image for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-strong-is-rhode-island-s-pilot-ufo-story-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ Later reporting has not decisively strengthened the original claim. It has sprea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ Later reporting has not decisively strengthened the original claim. It has sprea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ Later reporting has not decisively strengthened the original claim. It has sprea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ Later reporting has not decisively strengthened the original claim. It has sprea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ Later reporting has not decisively strengthened the original claim. It has sprea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,223 +745,223 @@ Later reporting has not decisively strengthened the original claim. It has sprea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fox4news.com  
    Title: pilot reports ufo beside jet atc jokes good luck aliens  
-   Link: <a href="https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens</a>  
+   Link:<a href="https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: Pilot discovers hovering silver cylinder UFO near aircraft  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ptclvi/pilot_discovers_hovering_silver_cylinder_ufo_near/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ptclvi/pilot_discovers_hovering_silver_cylinder_ufo_near/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ptclvi/pilot_discovers_hovering_silver_cylinder_ufo_near/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ptclvi/pilot_discovers_hovering_silver_cylinder_ufo_near/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 7. Reports  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
    Title: 2025 09 25 Notice N7210.970 Unidentied Anomalous Phenomena (UAP) Activity FINAL  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
+   Link:<a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/faq/if-i-operate-my-drone-within-400-ft-radius-or-400-ft-above-structure-do-i-still-need" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/faq/if-i-operate-my-drone-within-400-ft-radius-or-400-ft-above-structure-do-i-still-need</a>  
+   Link:<a href="https://www.faa.gov/faq/if-i-operate-my-drone-within-400-ft-radius-or-400-ft-above-structure-do-i-still-need" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/faq/if-i-operate-my-drone-within-400-ft-radius-or-400-ft-above-structure-do-i-still-need</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
    Title: 7210.3EE Chg 2 dtd 1 22 26 Final  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: pilot reports a silver canister ufo just flying  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pqprh3/pilot_reports_a_silver_canister_ufo_just_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pqprh3/pilot_reports_a_silver_canister_ufo_just_flying/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pqprh3/pilot_reports_a_silver_canister_ufo_just_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pqprh3/pilot_reports_a_silver_canister_ufo_just_flying/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1rbvl9w/resurfaced_atc_recording_captures_pilots_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rbvl9w/resurfaced_atc_recording_captures_pilots_report/</a>  
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rbvl9w/resurfaced_atc_recording_captures_pilots_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rbvl9w/resurfaced_atc_recording_captures_pilots_report/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/</a>  
+   Link:<a href="https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ohxre0/pilot_calls_in_ufo_to_atc_over_rhode_islandbonus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ohxre0/pilot_calls_in_ufo_to_atc_over_rhode_islandbonus/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ohxre0/pilot_calls_in_ufo_to_atc_over_rhode_islandbonus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ohxre0/pilot_calls_in_ufo_to_atc_over_rhode_islandbonus/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/drones/comments/1te26su/united_states_im_confused_about_how_the_400_feet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1te26su/united_states_im_confused_about_how_the_400_feet/</a>  
+   Link:<a href="https://www.reddit.com/r/drones/comments/1te26su/united_states_im_confused_about_how_the_400_feet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1te26su/united_states_im_confused_about_how_the_400_feet/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentNumber/7210.3" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentNumber/7210.3</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentNumber/7210.3" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentNumber/7210.3</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: faa.gov  
    Title: 2025 09 12 Notice N7110.800 Unidentied Anomalous Phenomena (UAP) Reports FINAL  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1044304</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1044304</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap0_info_eoc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap0_info_eoc.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap0_info_eoc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap0_info_eoc.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: faa.gov  
    Title: at notices  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/at_notices/?archive=true&amp;documentID=1043460" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/at_notices/?archive=true&amp;documentID=1043460</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/at_notices/?archive=true&amp;documentID=1043460" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/at_notices/?archive=true&amp;documentID=1043460</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap4_section_7.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap4_section_7.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap_4.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap_4.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap_4.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap_4.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: weather.gov  
    Title: KEY Weather Balloon Poster  
-   Link: <a href="https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/key/Weather-Balloons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/key/Weather-Balloons.pdf</a>  
+   Link:<a href="https://www.weather.gov/media/key/Weather-Balloons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/key/Weather-Balloons.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ncei.noaa.gov  
    Title: weather balloon  
-   Link: <a href="https://www.ncei.noaa.gov/products/weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon</a>  
+   Link:<a href="https://www.ncei.noaa.gov/products/weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aoml.noaa.gov  
    Title: upper air observations  
-   Link: <a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
+   Link:<a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nssl.noaa.gov  
-   Link: <a href="https://www.nssl.noaa.gov/projects/glidersonde/report/1Intro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/projects/glidersonde/report/1Intro.pdf</a>  
+   Link:<a href="https://www.nssl.noaa.gov/projects/glidersonde/report/1Intro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/projects/glidersonde/report/1Intro.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/</a>  
+   Link:<a href="https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/us/pilot-reports-ufo-hovering-beside-jet-leaving-air-traffic-control-stunned-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/pilot-reports-ufo-hovering-beside-jet-leaving-air-traffic-control-stunned-good-luck-aliens</a>  
+   Link:<a href="https://www.foxnews.com/us/pilot-reports-ufo-hovering-beside-jet-leaving-air-traffic-control-stunned-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/pilot-reports-ufo-hovering-beside-jet-leaving-air-traffic-control-stunned-good-luck-aliens</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eJJCHOMajGo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 &quot;Size of a Bathtub, Real Fast&quot; | UFO SIGHTING at Low Altitude...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eJJCHOMajGo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 &quot;Size of a Bathtub, Real Fast&quot; | UFO SIGHTING at Low Altitude...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Pilot Reports a UFO Just Flying By his Plane | "Creepy!"  
-   Link: <a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7AgcmoSecg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 &#x27;Good Luck With Aliens&#x27;: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7AgcmoSecg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 &#x27;Good Luck With Aliens&#x27;: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Again Multiple UFO/UAP Reports by Pilots | "They moving at Extreme Speeds!"  
-   Link: <a href="https://www.youtube.com/watch?v=SGtrOH2yXOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGtrOH2yXOE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SGtrOH2yXOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGtrOH2yXOE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: "Size of a Bathtub, Real Fast" | UFO SIGHTING at Low Altitude  
-   Link: <a href="https://www.youtube.com/watch?v=KeQpUodvpHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KeQpUodvpHs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Again Multiple UFO/UAP Reports by Pilots | &quot;They moving at Extreme Speeds!&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KeQpUodvpHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KeQpUodvpHs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Again Multiple UFO/UAP Reports by Pilots | &quot;They moving at Extreme Speeds!&quot;...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/</a>  
+   Link:<a href="https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/</a>  
+   Link:<a href="https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox5dc/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1331672222330668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1331672222330668/</a>  
+   Link:<a href="https://www.facebook.com/fox5dc/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1331672222330668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1331672222330668/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX7Austin/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1343635111136074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1343635111136074/</a>
+   Link:<a href="https://www.facebook.com/FOX7Austin/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1343635111136074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1343635111136074/</a>

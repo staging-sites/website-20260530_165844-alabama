@@ -253,11 +253,11 @@ image: /assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sigh
 One of the most common causes of modern UFO reports in Utah is not a secret aircraft, military experiment or unexplained object. It is the Starlink satellite network. Under Utah’s unusually dark skies, newly launched Starlink satellites can appear as a long, perfectly ordered line of bright lights moving silently across the night sky. To someone who has never seen them before, the sight can look extraordinary: dozens of lights travelling together in formation, often without flashing navigation lights or obvious aircraft noise.
 
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-1-dark.svg" | relative_url }}" alt="Starlink illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because Utah has extensive rural areas, high elevations and some of the darkest skies in North America, Starlink trains are often more visible than they would be in heavily light-polluted states. That visibility has made straight-line formations one of the most frequently reported modern explanations for apparent UFO sightings across the state. Reports that once might have been filed as mysterious aerial formations can now often be checked against satellite-launch schedules and orbital tracking data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Designed to deliver affordable internet to remote regions, Starlink&#x27;s low-Earth orbit constellation, potentially expanding to over 42,000...</span></span></span>
+Because Utah has extensive rural areas, high elevations and some of the darkest skies in North America, Starlink trains are often more visible than they would be in heavily light-polluted states. That visibility has made straight-line formations one of the most frequently reported modern explanations for apparent UFO sightings across the state. Reports that once might have been filed as mysterious aerial formations can now often be checked against satellite-launch schedules and orbital tracking data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Designed to deliver affordable internet to remote regions, Starlink&#x27;s low-Earth orbit constellation, potentially expanding to over 42,000...</span></span></span>
 
 ## What a Starlink train looks like from dark Utah skies
 
-A Starlink train forms shortly after a SpaceX launch. Instead of immediately spreading out around the Earth, newly deployed satellites initially travel in a closely packed line. Observers on the ground see what can resemble a string of evenly spaced stars drifting across the sky. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Starlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satellites will...</span></span></span>
+A Starlink train forms shortly after a SpaceX launch. Instead of immediately spreading out around the Earth, newly deployed satellites initially travel in a closely packed line. Observers on the ground see what can resemble a string of evenly spaced stars drifting across the sky. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Starlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satellites will...</span></span></span>
 
 Several features make the sight especially striking:
 
@@ -271,7 +271,7 @@ Several features make the sight especially striking:
 
 </div>
 
-For many witnesses, the most surprising detail is the apparent organisation of the formation. Human observers naturally associate coordinated movement with deliberate control. A line of twenty or thirty lights moving together can therefore look more like a fleet than a group of satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
+For many witnesses, the most surprising detail is the apparent organisation of the formation. Human observers naturally associate coordinated movement with deliberate control. A line of twenty or thirty lights moving together can therefore look more like a fleet than a group of satellites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
 
 Utah’s viewing conditions amplify that impression. In remote areas around the West Desert, the [Uintah Basin]({{ 'uintah-basin/' | relative_url }}), canyon country and the Colorado Plateau, observers may see the entire formation from horizon to horizon. In a city, only part of the pass might be visible through light pollution or buildings.
 
@@ -281,7 +281,7 @@ Many UFO reports rely on visual estimates rather than measured distances. Starli
 
 First, people are not accustomed to seeing multiple satellites together. Traditional satellites usually appear as single moving points of light. A chain of dozens of satellites violates expectations and immediately feels unusual.
 
-Second, the lights can seem lower than they really are. Starlink satellites orbit roughly 550 kilometres above Earth, yet under clear conditions they can appear bright enough that some witnesses assume they are aircraft-sized objects much closer to the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+Second, the lights can seem lower than they really are. Starlink satellites orbit roughly 550 kilometres above Earth, yet under clear conditions they can appear bright enough that some witnesses assume they are aircraft-sized objects much closer to the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 
 Third, Utah's wide horizons make scale difficult to judge. A satellite train crossing a vast desert sky can appear enormous because there are few visual reference points. The formation may stretch across a large portion of the sky while remaining impossible to estimate accurately in distance or altitude.
 
@@ -305,9 +305,9 @@ The underlying observation can be genuine while the interpretation proves mistak
 
 Local news organisations in Utah have repeatedly covered reports of mysterious straight-line lights that were later identified as Starlink satellites.
 
-In July 2022, residents from northern to southern Utah reported a train-like formation crossing the night sky. Tracking services predicted a visible Starlink pass over the state at the same time, and photographs submitted by witnesses matched the appearance of a newly launched satellite train. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
+In July 2022, residents from northern to southern Utah reported a train-like formation crossing the night sky. Tracking services predicted a visible Starlink pass over the state at the same time, and photographs submitted by witnesses matched the appearance of a newly launched satellite train.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
 
-A similar wave of reports occurred in June 2023, when Utah observers again reported a line of lights moving across the sky. Visibility forecasts from Starlink-tracking services matched the timing and location of the sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
+A similar wave of reports occurred in June 2023, when Utah observers again reported a line of lights moving across the sky. Visibility forecasts from Starlink-tracking services matched the timing and location of the sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
 
 These incidents illustrate an important shift in UFO reporting. Before the Starlink era, a mass sighting involving dozens of witnesses across hundreds of miles might have been treated as unusually significant. Today, investigators often begin by checking whether a Starlink launch had occurred in the previous few days.
 
@@ -320,7 +320,7 @@ The same environmental conditions that make Utah famous among amateur astronomer
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-2-dark.svg" | relative_url }}" alt="Starlink illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Dark skies increase visibility
 
-Utah contains numerous internationally recognised dark-sky locations. Under such conditions, satellites that might be invisible over major metropolitan areas can appear bright and obvious. This makes newly launched Starlink trains particularly conspicuous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">why would starlink launch appear as a blurred line</span><span class="citation-popover-snippet">would Starlink launch appear as a blurred line?16 Jun 2024 — I believe that I recently saw a Starlink launch (details below in case I am...</span></span></span>
+Utah contains numerous internationally recognised dark-sky locations. Under such conditions, satellites that might be invisible over major metropolitan areas can appear bright and obvious. This makes newly launched Starlink trains particularly conspicuous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">why would starlink launch appear as a blurred line</span><span class="citation-popover-snippet">would Starlink launch appear as a blurred line?16 Jun 2024 — I believe that I recently saw a Starlink launch (details below in case I am...</span></span></span>
 
 ### Rural viewing removes distractions
 
@@ -353,7 +353,7 @@ To an observer, this can create several puzzling effects:
 
 </div>
 
-These effects can look intentional if the observer is unfamiliar with satellite behaviour, but they are generally consistent with orbital geometry and reflected sunlight. Studies of Starlink brightness have shown that satellite visibility varies substantially depending on viewing angle, altitude and spacecraft orientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Starlink Satellite Brightness -- Characterized From 100,000 Visible Light MagnitudesNovember 18, 2021...</span><span class="citation-popover-meta">Published: November 18, 2021</span></span></span>
+These effects can look intentional if the observer is unfamiliar with satellite behaviour, but they are generally consistent with orbital geometry and reflected sunlight. Studies of Starlink brightness have shown that satellite visibility varies substantially depending on viewing angle, altitude and spacecraft orientation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Starlink Satellite Brightness -- Characterized From 100,000 Visible Light MagnitudesNovember 18, 2021...</span><span class="citation-popover-meta">Published: November 18, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-3-dark.svg" | relative_url }}" alt="Starlink illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_starlink_sighti_8944a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to check a sighting against satellite predictions
@@ -372,7 +372,7 @@ Useful indicators of a likely Starlink sighting include:
 
 </div>
 
-Observers can compare a sighting with publicly available tracking services such as Find Starlink, Satellite Map and James Darpinian's satellite tracker. These tools allow users to enter a location and check whether a Starlink pass was predicted for the relevant time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[Find Starlink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-snippet">Where is Starlink... So this app tracks only the first satellite in every &quot;chain&quot; of satellites...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satellitemap.space">[SatelliteMap.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satellitemap.space</span><span class="citation-popover-snippet">Live Starlink, SpaceX, Amazon LEO &amp; GPS Satellite MapDiscover live positions of Starlink, SpaceX, Amazon LEO &amp; GPS satellites. Interactiv...</span></span></span>
+Observers can compare a sighting with publicly available tracking services such as Find Starlink, Satellite Map and James Darpinian's satellite tracker. These tools allow users to enter a location and check whether a Starlink pass was predicted for the relevant time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[Find Starlink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-snippet">Where is Starlink... So this app tracks only the first satellite in every &quot;chain&quot; of satellites...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satellitemap.space">[SatelliteMap.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satellitemap.space</span><span class="citation-popover-snippet">Live Starlink, SpaceX, Amazon LEO &amp; GPS Satellite MapDiscover live positions of Starlink, SpaceX, Amazon LEO &amp; GPS satellites. Interactiv...</span></span></span>
 
 If the timing, direction and appearance match a known satellite pass, the explanation is often straightforward. If they do not match, investigators can then consider aircraft, drones, meteors or less easily identified possibilities.
 
@@ -384,197 +384,197 @@ Starlink has altered the way modern UFO reports are interpreted. A generation ag
 
 That does not mean every sighting involving multiple lights is automatically explained. Witnesses still report objects that do not match known satellite behaviour, and some cases remain disputed or poorly documented. However, Starlink has become one of the clearest examples of how new technology can create convincing UFO reports without requiring an extraordinary explanation.
 
-For Utah in particular, the combination of dark skies, open horizons and widespread outdoor observation makes Starlink trains one of the most important modern sources of straight-line UFO sightings. Understanding what they look like is now a basic part of evaluating any report involving organised lights moving silently across the state's night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[2FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
+For Utah in particular, the combination of dark skies, open horizons and widespread outdoor observation makes Starlink trains one of the most important modern sources of straight-line UFO sightings. Understanding what they look like is now a basic part of evaluating any report involving organised lights moving silently across the state's night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[2FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Starlink Looks So Strange Over Utah. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Starlink Looks So Strange Over Utah. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains cognitive and perceptual factors behind unusual interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains cognitive and perceptual factors behind unusual interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify satellites, planets and common night-sky objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify satellites, planets and common night-sky objects often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D2JjDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D2JjDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Teaches practical sky observation that helps distinguish satellite trains from unusual phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches practical sky observation that helps distinguish satellite trains from unusual phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Seventeen%3A+College+Goals+by+Editors+of+Seventeen+Magazine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seventeen: College Goals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjkLygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Seventeen: College Goals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seventeen%3A+College+Goals+by+Editors+of+Seventeen+Magazine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seventeen: College Goals">Seventeen: College Goals</a>
-        </h4>
-        <p class="fr-book-author">By Editors of Seventeen Magazine</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Seventeen%3A+College+Goals+by+Editors+of+Seventeen+Magazine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seventeen: College Goals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjkLygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Seventeen: College Goals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seventeen%3A+College+Goals+by+Editors+of+Seventeen+Magazine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seventeen: College Goals">Seventeen: College Goals</a>
+</h4>
+<p class="fr-book-author">By Editors of Seventeen Magazine</p>
         
-        <p class="fr-book-desc">Covers observing techniques useful for understanding bright moving lights in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seventeen%3A+College+Goals+by+Editors+of+Seventeen+Magazine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observing techniques useful for understanding bright moving lights in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seventeen%3A+College+Goals+by+Editors+of+Seventeen+Magazine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="https://i.ebayimg.com/images/g/QCsAAOSwFxlj8-l6/s-l225.jpg" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="https://i.ebayimg.com/images/g/QCsAAOSwFxlj8-l6/s-l225.jpg" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="https://i.ebayimg.com/images/g/21AAAeSwQAFqBwR4/s-l225.jpg" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="https://i.ebayimg.com/images/g/21AAAeSwQAFqBwR4/s-l225.jpg" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="https://i.ebayimg.com/images/g/aykAAOSwi~plwBNt/s-l225.jpg" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="https://i.ebayimg.com/images/g/aykAAOSwi~plwBNt/s-l225.jpg" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/H8cAAOSwyetjyHsj/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/H8cAAOSwyetjyHsj/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS POSTER UNIVERSE SPACE TRAVEL ASTRONOMY ART IMAGE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-looks-so-strange-over-utah-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="why-starlink-looks-so-strange-over-utah-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ For Utah in particular, the combination of dark skies, open horizons and widespr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ For Utah in particular, the combination of dark skies, open horizons and widespr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ For Utah in particular, the combination of dark skies, open horizons and widespr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ For Utah in particular, the combination of dark skies, open horizons and widespr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ For Utah in particular, the combination of dark skies, open horizons and widespr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,140 +780,140 @@ For Utah in particular, the combination of dark skies, open horizons and widespr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designed to deliver affordable internet to remote regions, Starlink&#x27;s low-Earth orbit constellation, potentially expanding to over 42,000...</p></details>
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designed to deliver affordable internet to remote regions, Starlink&#x27;s low-Earth orbit constellation, potentially expanding to over 42,000...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
+   Link:<a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Brightness -- Characterized From 100,000 Visible Light MagnitudesNovember 18, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Brightness -- Characterized From 100,000 Visible Light MagnitudesNovember 18, 2021...</p></details>
    Published: November 18, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv The Brightness of Starlink Mini Satellites During Orbit-Raising  
-   Link: <a href="https://arxiv.org/abs/2405.12007" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12007</a>  
+   Link:<a href="https://arxiv.org/abs/2405.12007" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12007</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: satellitemap.space  
-   Link: <a href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Starlink, SpaceX, Amazon LEO &amp; GPS Satellite MapDiscover live positions of Starlink, SpaceX, Amazon LEO &amp; GPS satellites. Interactiv...</p></details>
+   Link:<a href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Starlink, SpaceX, Amazon LEO &amp; GPS Satellite MapDiscover live positions of Starlink, SpaceX, Amazon LEO &amp; GPS satellites. Interactiv...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: james.darpinian.com  
-   Link: <a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
+   Link:<a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: satellitemap.space  
-   Link: <a href="https://satellitemap.space/constellation/starlink" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/constellation/starlink</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites are visible on most clear evenings within 1–2 hours after sunset or before sunrise. Newly...Read more...</p></details>
+   Link:<a href="https://satellitemap.space/constellation/starlink" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/constellation/starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellites are visible on most clear evenings within 1–2 hours after sunset or before sunrise. Newly...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: starwalk.space  
-   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satellites will...</p></details>
+   Link:<a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satellites will...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fox13now.com  
-   Link: <a href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</p></details>
+   Link:<a href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFOJuly 25, 2022 — 25 Jul 2022 — According to findstarlin...</p></details>
    Published: July 25, 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fox13now.com  
    Title: FOX 13 News Utah (KSTU)What were those lights flying across the Utah night sky?  
-   Link: <a href="https://www.fox13now.com/news/local-news/what-were-those-lights-flying-across-the-utah-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/what-were-those-lights-flying-across-the-utah-night-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2023 — 23 Jun 2023 — According to findstarlink.com, the train-like formation of satellites was visible in the Utah night sky Fri...</p></details>
+   Link:<a href="https://www.fox13now.com/news/local-news/what-were-those-lights-flying-across-the-utah-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/what-were-those-lights-flying-across-the-utah-night-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2023 — 23 Jun 2023 — According to findstarlink.com, the train-like formation of satellites was visible in the Utah night sky Fri...</p></details>
    Published: June 24, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: findstarlink.com  
-   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where is Starlink... So this app tracks only the first satellite in every &quot;chain&quot; of satellites...</p></details>
+   Link:<a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where is Starlink... So this app tracks only the first satellite in every &quot;chain&quot; of satellites...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/1hzo2r9/findstarlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1hzo2r9/findstarlink/</a>  
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/1hzo2r9/findstarlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1hzo2r9/findstarlink/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.stackexchange.com  
    Title: why would starlink launch appear as a blurred line  
-   Link: <a href="https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>would Starlink launch appear as a blurred line?16 Jun 2024 — I believe that I recently saw a Starlink launch (details below in case I am...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>would Starlink launch appear as a blurred line?16 Jun 2024 — I believe that I recently saw a Starlink launch (details below in case I am...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/us/app/find-starlink-satellites/id1501517711" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/find-starlink-satellites/id1501517711</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites - App Store - AppleFirst, please select your nearest city (or coordinates), and click on &#x27;Find Visible Times&#x27;. The ap...</p></details>
+   Link:<a href="https://apps.apple.com/us/app/find-starlink-satellites/id1501517711" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/find-starlink-satellites/id1501517711</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites - App Store - AppleFirst, please select your nearest city (or coordinates), and click on &#x27;Find Visible Times&#x27;. The ap...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/cz/app/find-starlink-satellites/id1501517711" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/cz/app/find-starlink-satellites/id1501517711</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites - App Store - AppleThese are Starlink satellites launched by SpaceX, and they look like a &quot;train&quot; of moving lights si...</p></details>
+   Link:<a href="https://apps.apple.com/cz/app/find-starlink-satellites/id1501517711" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/cz/app/find-starlink-satellites/id1501517711</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites - App Store - AppleThese are Starlink satellites launched by SpaceX, and they look like a &quot;train&quot; of moving lights si...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spacex/comments/dw50qs/how_to_spot_the_spacex_starlink_satellite_train/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/dw50qs/how_to_spot_the_spacex_starlink_satellite_train/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to spot the SpaceX Starlink satellite train overhead...Just click the &quot;Location: Unspecified&quot; from top right, set your location, and...</p></details>
+   Link:<a href="https://www.reddit.com/r/spacex/comments/dw50qs/how_to_spot_the_spacex_starlink_satellite_train/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/dw50qs/how_to_spot_the_spacex_starlink_satellite_train/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to spot the SpaceX Starlink satellite train overhead...Just click the &quot;Location: Unspecified&quot; from top right, set your location, and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO, but a train of Starlink satellites from SpaceX...Starlink satellite trains are visible chains of SpaceX-launched satellites a...</p></details>
+   Link:<a href="https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO, but a train of Starlink satellites from SpaceX...Starlink satellite trains are visible chains of SpaceX-launched satellites a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacexgroup/posts/10159915119756318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10159915119756318/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink train above Utah captured tonightWas outside looking for the comet and apparently also ended up spotting a Starlink satellite tr...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacexgroup/posts/10159915119756318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10159915119756318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink train above Utah captured tonightWas outside looking for the comet and apparently also ended up spotting a Starlink satellite tr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: vitotechnology.com  
-   Link: <a href="https://vitotechnology.com/apps/satellite-tracker" target="_blank" rel="noopener noreferrer nofollow">https://vitotechnology.com/apps/satellite-tracker</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISS, Starlink Tracker App — Satellite TrackingTap the Satellite icon in the upper right corner, go to the “Visible” section and see what...</p></details>
+   Link:<a href="https://vitotechnology.com/apps/satellite-tracker" target="_blank" rel="noopener noreferrer nofollow">https://vitotechnology.com/apps/satellite-tracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISS, Starlink Tracker App — Satellite TrackingTap the Satellite icon in the upper right corner, go to the “Visible” section and see what...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w3owsnOJwrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3owsnOJwrg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find the Starlink SatellitesStarlink satellites are often in the news for the wrong reasons, but you can see them for yourself. Ju...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w3owsnOJwrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3owsnOJwrg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find the Starlink SatellitesStarlink satellites are often in the news for the wrong reasons, but you can see them for yourself. Ju...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QV5rCP7uiaU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites light up night sky over MassachusettsA string of satellites that Elon Musk Starling company started launching back in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QV5rCP7uiaU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites light up night sky over MassachusettsA string of satellites that Elon Musk Starling company started launching back in...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0Ua-ZMr0ga0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Ua-ZMr0ga0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronized satellites: Explaining the straight line of lights in...The Starlink satellite train was launched by SpaceX to provide high...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0Ua-ZMr0ga0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Ua-ZMr0ga0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronized satellites: Explaining the straight line of lights in...The Starlink satellite train was launched by SpaceX to provide high...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/AZ8wJ07MFpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/AZ8wJ07MFpI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When to see Starlink &#x27;satellite train&#x27; in the night skyYou can only really see these about one to three days after launch and they have t...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/AZ8wJ07MFpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/AZ8wJ07MFpI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When to see Starlink &#x27;satellite train&#x27; in the night skyYou can only really see these about one to three days after launch and they have t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: Did you see the string of lights over the sky tonight?  
-   Link: <a href="https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>you happen to see a chain of bright lights flying across the sky at night, what you are seeing is a train of communication (c...</p></details>
+   Link:<a href="https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterBuschTV/posts/did-you-see-the-string-of-lights-over-the-sky-tonight-those-are-elon-musks-starl/1557945859673698/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>you happen to see a chain of bright lights flying across the sky at night, what you are seeing is a train of communication (c...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously good luck to be stargazing at that moment! Will the Starlink...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously good luck to be stargazing at that moment! Will the Starlink...Read more...</p></details>

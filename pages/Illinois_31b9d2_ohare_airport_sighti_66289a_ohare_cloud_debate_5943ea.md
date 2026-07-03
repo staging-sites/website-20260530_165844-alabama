@@ -250,16 +250,16 @@ image: /assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_de
 
 ## Introduction
 
-The debate around the 2006 O’Hare International Airport sighting centres on a narrow but important question: did experienced aviation workers witness a genuine solid object above the terminal, or did they collectively misinterpret an unusual atmospheric effect? The Federal Aviation Administration leaned toward the second explanation, suggesting a “hole-punch cloud” or related weather phenomenon. Witnesses, however, insisted they saw a structured metallic object before any cloud disturbance appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2006 O&#x27;Hare International Airport UFO sighting</span><span class="citation-popover-snippet">2006 O&#x27;Hare International Airport UFO sighting</span></span></span>
+The debate around the 2006 O’Hare International Airport sighting centres on a narrow but important question: did experienced aviation workers witness a genuine solid object above the terminal, or did they collectively misinterpret an unusual atmospheric effect? The Federal Aviation Administration leaned toward the second explanation, suggesting a “hole-punch cloud” or related weather phenomenon. Witnesses, however, insisted they saw a structured metallic object before any cloud disturbance appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2006 O&#x27;Hare International Airport UFO sighting</span><span class="citation-popover-snippet">2006 O&#x27;Hare International Airport UFO sighting</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-1-dark.svg" | relative_url }}" alt="Cloud debate illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This tension is what keeps the O’Hare case alive in [Illinois]({{ 'illinois/' | relative_url }}) UFO history. The meteorological explanation can account for the circular opening reportedly left in the cloud deck, but it does not neatly explain why multiple airline employees independently described a silent disc hovering over Gate C-17. At the same time, the witness testimony has weaknesses of its own: there was no radar confirmation, no photographs, and some accounts differed on key details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+This tension is what keeps the O’Hare case alive in [Illinois]({{ 'illinois/' | relative_url }}) UFO history. The meteorological explanation can account for the circular opening reportedly left in the cloud deck, but it does not neatly explain why multiple airline employees independently described a silent disc hovering over Gate C-17. At the same time, the witness testimony has weaknesses of its own: there was no radar confirmation, no photographs, and some accounts differed on key details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJJrPhZHwZU" title="From the archives: WGN&#x27;s 2007 interview with &#x27;UFO Guy&#x27; at O&#x27;Hare Airport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJJrPhZHwZU" target="_blank" rel="noopener noreferrer">From the archives: WGN&#x27;s 2007 interview with &#x27;UFO Guy&#x27; at O&#x27;Hare Airport</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 44.4K &middot; Uploaded: July 2021 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJJrPhZHwZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJJrPhZHwZU">Open on YouTube</a></p></div></div></div>
 
 ## What witnesses said they saw
 
-The strongest argument against a simple cloud explanation is that the reports did not begin with a hole in the clouds. Witnesses consistently described seeing an apparent object first. According to reporting that emerged after the Chicago Tribune investigated the incident, United Airlines staff including ramp workers, pilots, mechanics and supervisors described a dark grey or metallic disc hovering beneath the overcast layer for several minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wttw.com/chicago-mysteries/mystery/was-a-ufo-once-spotted-at-ohare-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wttw.com">[WTTW Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wttw.com</span><span class="citation-popover-title">Chicago Was a UFO Once Spotted at O&#x27;Hare Airport?</span><span class="citation-popover-snippet">Chicago...When it shot upward, it left a noticeable hole in the thick layer of clouds that blanketed the sky that day. According to Hi...</span></span></span>
+The strongest argument against a simple cloud explanation is that the reports did not begin with a hole in the clouds. Witnesses consistently described seeing an apparent object first. According to reporting that emerged after the Chicago Tribune investigated the incident, United Airlines staff including ramp workers, pilots, mechanics and supervisors described a dark grey or metallic disc hovering beneath the overcast layer for several minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wttw.com/chicago-mysteries/mystery/was-a-ufo-once-spotted-at-ohare-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wttw.com">[WTTW Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wttw.com</span><span class="citation-popover-title">Chicago Was a UFO Once Spotted at O&#x27;Hare Airport?</span><span class="citation-popover-snippet">Chicago...When it shot upward, it left a noticeable hole in the thick layer of clouds that blanketed the sky that day. According to Hi...</span></span></span>
 
 Several aspects of the testimony are repeatedly emphasised in later discussion of the case:
 
@@ -267,21 +267,21 @@ Several aspects of the testimony are repeatedly emphasised in later discussion o
 * Witnesses described a defined shape with edges rather than a vague patch of mist or light.
 * The object reportedly made no sound despite being over a noisy airport environment.
 * The final upward movement was described as extremely rapid and vertical.
-* The circular opening in the clouds was seen after the ascent, not before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discussions.flightaware.com/t/ufo-at-ohare/2636" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discussions.flightaware.com">[FlightAware Discussions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discussions.flightaware.com</span><span class="citation-popover-title">Flight Aware Discussions UFO at O&#x27;Hare</span><span class="citation-popover-snippet">at O&#x27;Hare - Aviation News1 Jan 2007 — “It was like somebody punched a hole in the sky,” said one United employee. Witnesses said they had...</span></span></span>
+* The circular opening in the clouds was seen after the ascent, not before.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discussions.flightaware.com/t/ufo-at-ohare/2636" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discussions.flightaware.com">[FlightAware Discussions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discussions.flightaware.com</span><span class="citation-popover-title">Flight Aware Discussions UFO at O&#x27;Hare</span><span class="citation-popover-snippet">at O&#x27;Hare - Aviation News1 Jan 2007 — “It was like somebody punched a hole in the sky,” said one United employee. Witnesses said they had...</span></span></span>
 
-Supporters of the sighting’s credibility often point to the witness pool itself. These were not casual skywatchers but aviation personnel accustomed to judging aircraft position, altitude and motion around one of the busiest airports in the United States. The fact that multiple workers independently contacted supervisors and FAA staff helped give the incident unusual staying power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2006 O&#x27;Hare International Airport UFO sighting</span><span class="citation-popover-snippet">2006 O&#x27;Hare International Airport UFO sighting</span></span></span>
+Supporters of the sighting’s credibility often point to the witness pool itself. These were not casual skywatchers but aviation personnel accustomed to judging aircraft position, altitude and motion around one of the busiest airports in the United States. The fact that multiple workers independently contacted supervisors and FAA staff helped give the incident unusual staying power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2006 O&#x27;Hare International Airport UFO sighting</span><span class="citation-popover-snippet">2006 O&#x27;Hare International Airport UFO sighting</span></span></span>
 
-Yet the testimony was not perfectly consistent. Reports varied on the object’s size, precise altitude, shape and duration. Some estimates placed it at only a few metres across, while others imagined something much larger. At least some witness accounts also disagreed about whether there was one object or more than one. Those inconsistencies are important because sceptics argue they suggest confusion in poor viewing conditions rather than observation of a clearly defined craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+Yet the testimony was not perfectly consistent. Reports varied on the object’s size, precise altitude, shape and duration. Some estimates placed it at only a few metres across, while others imagined something much larger. At least some witness accounts also disagreed about whether there was one object or more than one. Those inconsistencies are important because sceptics argue they suggest confusion in poor viewing conditions rather than observation of a clearly defined craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
-Another major complication is the lack of corroborating instrumentation. Air traffic controllers reportedly did not visually confirm the object, and radar systems detected nothing unusual. In an airport environment heavily monitored by aviation systems, that absence matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+Another major complication is the lack of corroborating instrumentation. Air traffic controllers reportedly did not visually confirm the object, and radar systems detected nothing unusual. In an airport environment heavily monitored by aviation systems, that absence matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UWbTVCxebyc" title="Hovering UFO witnessed at Chicago O’Hare Airport, November 7, 2006" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UWbTVCxebyc" target="_blank" rel="noopener noreferrer">Hovering UFO witnessed at Chicago O’Hare Airport, November 7, 2006</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 29.3K &middot; Uploaded: January 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UWbTVCxebyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UWbTVCxebyc">Open on YouTube</a></p></div></div></div>
 
 ## How hole-punch clouds could fit
 
-The FAA’s preferred explanation focused on the reported opening in the cloud layer. Meteorologists noted that atmospheric conditions around Chicago that afternoon may have supported the formation of a fallstreak hole, more commonly called a hole-punch cloud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wral.com/story/1183731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wral.com">[WRAL News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wral.com</span><span class="citation-popover-snippet">WRAL NewsThe recent &quot;UFO sighting&quot; at O&#x27;Hare airport (November...30 Jan 2007 — There is a phenomenon called &quot;hole-punch&quot; clouds in which...</span></span></span>
+The FAA’s preferred explanation focused on the reported opening in the cloud layer. Meteorologists noted that atmospheric conditions around Chicago that afternoon may have supported the formation of a fallstreak hole, more commonly called a hole-punch cloud.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wral.com/story/1183731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wral.com">[WRAL News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wral.com</span><span class="citation-popover-snippet">WRAL NewsThe recent &quot;UFO sighting&quot; at O&#x27;Hare airport (November...30 Jan 2007 — There is a phenomenon called &quot;hole-punch&quot; clouds in which...</span></span></span>
 
-Hole-punch clouds occur when supercooled water droplets in a cloud suddenly freeze into ice crystals. This process can create a dramatic circular or oval gap in an otherwise uniform cloud deck. Aircraft are known triggers because pressure changes around wings or propellers can initiate freezing. The resulting formation can look surprisingly sharp and artificial. WRAL News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a30681420/hole-punch-clouds-snow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Hole Punch Clouds</span><span class="citation-popover-snippet">This phenomenon can also cause hole punch clouds and fallstreak holes.Read more...</span></span></span>
+Hole-punch clouds occur when supercooled water droplets in a cloud suddenly freeze into ice crystals. This process can create a dramatic circular or oval gap in an otherwise uniform cloud deck. Aircraft are known triggers because pressure changes around wings or propellers can initiate freezing. The resulting formation can look surprisingly sharp and artificial. WRAL News<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a30681420/hole-punch-clouds-snow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Hole Punch Clouds</span><span class="citation-popover-snippet">This phenomenon can also cause hole punch clouds and fallstreak holes.Read more...</span></span></span>
 
 For sceptics, this explanation has several strengths:
 
@@ -290,24 +290,24 @@ For sceptics, this explanation has several strengths:
 * O’Hare is one of the world’s busiest airports, making aircraft-induced cloud effects plausible.
 * Witnesses specifically described a circular hole in the clouds, which matches known fallstreak formations.
 * Overcast conditions can distort depth perception and make moving shadows or breaks in clouds appear solid.
-* Human observers often impose structure and motion onto ambiguous aerial stimuli, especially during emotionally charged moments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wral.com/story/1183731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wral.com">[WRAL News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wral.com</span><span class="citation-popover-snippet">WRAL NewsThe recent &quot;UFO sighting&quot; at O&#x27;Hare airport (November...30 Jan 2007 — There is a phenomenon called &quot;hole-punch&quot; clouds in which...</span></span></span>
+* Human observers often impose structure and motion onto ambiguous aerial stimuli, especially during emotionally charged moments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wral.com/story/1183731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wral.com">[WRAL News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wral.com</span><span class="citation-popover-snippet">WRAL NewsThe recent &quot;UFO sighting&quot; at O&#x27;Hare airport (November...30 Jan 2007 — There is a phenomenon called &quot;hole-punch&quot; clouds in which...</span></span></span>
 
 </div>
 
-Astronomer Mark Hammergren was among those cited as saying conditions were favourable for a hole-punch cloud event. The FAA therefore concluded the incident was likely weather-related and declined to open a formal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+Astronomer Mark Hammergren was among those cited as saying conditions were favourable for a hole-punch cloud event. The FAA therefore concluded the incident was likely weather-related and declined to open a formal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
-The cloud explanation also helps explain one otherwise odd detail: the opening reportedly closed or dissipated fairly quickly. Witnesses described the hole as temporary, which is consistent with atmospheric behaviour rather than a permanent rupture in the cloud deck. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-at-ohare-officials-say-weird-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ufo at ohare officials say weird weather</span><span class="citation-popover-snippet">CBS NewsUFO At O&#x27;Hare? Officials Say Weird Weather2 Jan 2007 — Witnesses also said the object created an open hole of clear air in the cl...</span></span></span>
+The cloud explanation also helps explain one otherwise odd detail: the opening reportedly closed or dissipated fairly quickly. Witnesses described the hole as temporary, which is consistent with atmospheric behaviour rather than a permanent rupture in the cloud deck.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-at-ohare-officials-say-weird-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ufo at ohare officials say weird weather</span><span class="citation-popover-snippet">CBS NewsUFO At O&#x27;Hare? Officials Say Weird Weather2 Jan 2007 — Witnesses also said the object created an open hole of clear air in the cl...</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-2-dark.svg" | relative_url }}" alt="Cloud debate illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the explanation still struggles
 
-The hole-punch interpretation solves only part of the case. Its main weakness is chronological. Witnesses did not merely report seeing a hole appear in clouds; they claimed to observe a distinct object before the cloud opening formed. The meteorological explanation addresses the ending of the sighting more convincingly than the beginning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+The hole-punch interpretation solves only part of the case. Its main weakness is chronological. Witnesses did not merely report seeing a hole appear in clouds; they claimed to observe a distinct object before the cloud opening formed. The meteorological explanation addresses the ending of the sighting more convincingly than the beginning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
-Another difficulty is the repeated description of solidity. Witnesses spoke of a metallic or dark grey craft with a defined outline hovering beneath the cloud layer. A cloud effect alone does not easily account for why multiple observers interpreted the phenomenon as a sharply bounded disc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+Another difficulty is the repeated description of solidity. Witnesses spoke of a metallic or dark grey craft with a defined outline hovering beneath the cloud layer. A cloud effect alone does not easily account for why multiple observers interpreted the phenomenon as a sharply bounded disc.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
-Critics of the FAA explanation have also argued that the weather conditions may not have been ideal for a classic fallstreak hole. Some later discussions of the case cited atmospheric data suggesting temperatures and cloud structure may not perfectly match the normal mechanism. Debate over this point continues in UFO research circles and sceptical communities alike. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/pq69d7/a_skeptic_tries_debunking_the_2006_chicago_ohare/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A skeptic tries debunking the 2006 Chicago O&#x27;Hare UFO...September 17, 2021 — Hole-punch clouds occur naturally only when ice cryst...</span><span class="citation-popover-meta">Published: September 17, 2021</span></span></span>
+Critics of the FAA explanation have also argued that the weather conditions may not have been ideal for a classic fallstreak hole. Some later discussions of the case cited atmospheric data suggesting temperatures and cloud structure may not perfectly match the normal mechanism. Debate over this point continues in UFO research circles and sceptical communities alike.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/pq69d7/a_skeptic_tries_debunking_the_2006_chicago_ohare/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A skeptic tries debunking the 2006 Chicago O&#x27;Hare UFO...September 17, 2021 — Hole-punch clouds occur naturally only when ice cryst...</span><span class="citation-popover-meta">Published: September 17, 2021</span></span></span>
 
-There is also a behavioural issue. The sighting reportedly triggered immediate radio chatter among airline staff, and supervisors contacted FAA personnel while the event was unfolding. That reaction suggests witnesses believed they were observing a concrete aviation anomaly rather than an unusual cloud pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">chicago o hare airport reported ufo sighting 2006</span><span class="citation-popover-snippet">Simple FlyingDid You Know Chicago O&#x27;Hare Airport Had A Reported...22 Aug 2024 — The tapes revealed that a United Airlines supervisor cal...</span></span></span>
+There is also a behavioural issue. The sighting reportedly triggered immediate radio chatter among airline staff, and supervisors contacted FAA personnel while the event was unfolding. That reaction suggests witnesses believed they were observing a concrete aviation anomaly rather than an unusual cloud pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">chicago o hare airport reported ufo sighting 2006</span><span class="citation-popover-snippet">Simple FlyingDid You Know Chicago O&#x27;Hare Airport Had A Reported...22 Aug 2024 — The tapes revealed that a United Airlines supervisor cal...</span></span></span>
 
 Still, the witness case has limits that prevent it from becoming conclusive evidence of an unknown craft:
 
@@ -316,7 +316,7 @@ Still, the witness case has limits that prevent it from becoming conclusive evid
 * No authenticated photographs emerged despite the busy airport setting.
 * Radar systems recorded nothing unusual.
 * Accounts evolved through media retellings over time.
-* Some later versions of the story became more dramatic than the earliest reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+* Some later versions of the story became more dramatic than the earliest reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
 </div>
 
@@ -326,203 +326,203 @@ The result is an unresolved middle ground. The cloud explanation plausibly accou
 
 ## Why this debate matters in Illinois UFO history
 
-The O’Hare incident remains one of Illinois’ most discussed UFO cases precisely because neither side achieved a decisive victory. Unlike many reports built around a single observer, this incident involved multiple aviation employees at a major airport. Unlike stronger military radar cases, however, it lacked instrumental confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
+The O’Hare incident remains one of Illinois’ most discussed UFO cases precisely because neither side achieved a decisive victory. Unlike many reports built around a single observer, this incident involved multiple aviation employees at a major airport. Unlike stronger military radar cases, however, it lacked instrumental confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</span></span></span>
 
-That combination created a durable ambiguity. Sceptics can point to atmospheric optics, inconsistent testimony and absent radar data. Supporters can point to trained witnesses, contemporaneous FAA communications and the insistence that a structured object was seen before the cloud hole appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">chicago o hare airport reported ufo sighting 2006</span><span class="citation-popover-snippet">Simple FlyingDid You Know Chicago O&#x27;Hare Airport Had A Reported...22 Aug 2024 — The tapes revealed that a United Airlines supervisor cal...</span></span></span>
+That combination created a durable ambiguity. Sceptics can point to atmospheric optics, inconsistent testimony and absent radar data. Supporters can point to trained witnesses, contemporaneous FAA communications and the insistence that a structured object was seen before the cloud hole appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simpleflying.com">[Simple Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simpleflying.com</span><span class="citation-popover-title">chicago o hare airport reported ufo sighting 2006</span><span class="citation-popover-snippet">Simple FlyingDid You Know Chicago O&#x27;Hare Airport Had A Reported...22 Aug 2024 — The tapes revealed that a United Airlines supervisor cal...</span></span></span>
 
 In practice, the O’Hare case has become less a story about proving extraterrestrial craft than a case study in how difficult it can be to separate perception, weather, aviation environments and human interpretation during fast-moving aerial events. That unresolved balance is why the “UFO versus cloud effect” debate still defines discussion of the incident nearly two decades later.
 
 <img src="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-3-dark.svg" | relative_url }}" alt="Cloud debate illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_ohare_airport_sighti_66289a_ohare_cloud_debate_5943ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was O&#x27;Hare a UFO or a cloud effect?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was O&#x27;Hare a UFO or a cloud effect?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a page focused on witness evidence versus conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on witness evidence versus conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores alternative interpretations of anomalous sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores alternative interpretations of anomalous sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains aviation-related cases and discussion of unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains aviation-related cases and discussion of unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Relevant to evaluating atmospheric and perceptual explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to evaluating atmospheric and perceptual explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pvwAAeSwPu1philS/s-l225.jpg" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor"><img src="https://i.ebayimg.com/images/g/XkIAAeSwTU5qFY7l/s-l225.jpg" alt="Listing image for Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO band Wall Art Decor Metal Sign"><img src="https://i.ebayimg.com/images/g/xBEAAeSwGFFqKoox/s-l225.jpg" alt="Listing image for UFO band Wall Art Decor Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO band Wall Art Decor Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-o-hare-a-ufo-or-a-cloud-effect-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ In practice, the O’Hare case has become less a story about proving extraterres
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ In practice, the O’Hare case has become less a story about proving extraterres
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ In practice, the O’Hare case has become less a story about proving extraterres
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ In practice, the O’Hare case has become less a story about proving extraterres
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ In practice, the O’Hare case has become less a story about proving extraterres
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,151 +728,151 @@ In practice, the O’Hare case has become less a story about proving extraterres
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2006 O'Hare International Airport UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wttw.com  
    Title: Chicago Was a UFO Once Spotted at O'Hare Airport?  
-   Link: <a href="https://www.wttw.com/chicago-mysteries/mystery/was-a-ufo-once-spotted-at-ohare-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.wttw.com/chicago-mysteries/mystery/was-a-ufo-once-spotted-at-ohare-airport</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>it shot upward, it left a noticeable hole in the thick layer of clouds that blanketed the sky that day. According to Hi...</p></details>
+   Link:<a href="https://www.wttw.com/chicago-mysteries/mystery/was-a-ufo-once-spotted-at-ohare-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.wttw.com/chicago-mysteries/mystery/was-a-ufo-once-spotted-at-ohare-airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it shot upward, it left a noticeable hole in the thick layer of clouds that blanketed the sky that day. According to Hi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: discussions.flightaware.com  
    Title: Flight Aware Discussions UFO at O'Hare  
-   Link: <a href="https://discussions.flightaware.com/t/ufo-at-ohare/2636" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/ufo-at-ohare/2636</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>at O&#x27;Hare - Aviation News1 Jan 2007 — “It was like somebody punched a hole in the sky,” said one United employee. Witnesses said they had...</p></details>
+   Link:<a href="https://discussions.flightaware.com/t/ufo-at-ohare/2636" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/ufo-at-ohare/2636</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at O&#x27;Hare - Aviation News1 Jan 2007 — “It was like somebody punched a hole in the sky,” said one United employee. Witnesses said they had...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wral.com  
-   Link: <a href="https://www.wral.com/story/1183731/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/1183731/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsThe recent &quot;UFO sighting&quot; at O&#x27;Hare airport (November...30 Jan 2007 — There is a phenomenon called &quot;hole-punch&quot; clouds in which...</p></details>
+   Link:<a href="https://www.wral.com/story/1183731/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/1183731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsThe recent &quot;UFO sighting&quot; at O&#x27;Hare airport (November...30 Jan 2007 — There is a phenomenon called &quot;hole-punch&quot; clouds in which...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/pq69d7/a_skeptic_tries_debunking_the_2006_chicago_ohare/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pq69d7/a_skeptic_tries_debunking_the_2006_chicago_ohare/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A skeptic tries debunking the 2006 Chicago O&#x27;Hare UFO...September 17, 2021 — Hole-punch clouds occur naturally only when ice cryst...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/pq69d7/a_skeptic_tries_debunking_the_2006_chicago_ohare/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pq69d7/a_skeptic_tries_debunking_the_2006_chicago_ohare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A skeptic tries debunking the 2006 Chicago O&#x27;Hare UFO...September 17, 2021 — Hole-punch clouds occur naturally only when ice cryst...</p></details>
    Published: September 17, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chicago</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chicago" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chicago</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChicagoChicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transp...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/16swyfo/at_least_22ft_long_ufo_was_seen_by_more_than/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/16swyfo/at_least_22ft_long_ufo_was_seen_by_more_than/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufoOn November 7, 2006, a strange object hovered for ten minutes over Gate C17 at O&#x27;Hare International Airport in Chicago before rapidl...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/16swyfo/at_least_22ft_long_ufo_was_seen_by_more_than/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/16swyfo/at_least_22ft_long_ufo_was_seen_by_more_than/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufoOn November 7, 2006, a strange object hovered for ten minutes over Gate C17 at O&#x27;Hare International Airport in Chicago before rapidl...</p></details>
    Published: November 7, 2006  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: 2006 chicago ohare ufo sighting 22ft long alien  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/10tr2pn/2006_chicago_ohare_ufo_sighting_22ft_long_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/10tr2pn/2006_chicago_ohare_ufo_sighting_22ft_long_alien/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2006 Chicago O&#x27;Hare UFO Sighting...[https://twitter.com/Unexplained2020/status/1621593664425439240](https://twitter.com/Unexplained2020/status/1621593664425439240) The UFO event over Chicago’s O’Hare Ai...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/10tr2pn/2006_chicago_ohare_ufo_sighting_22ft_long_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/10tr2pn/2006_chicago_ohare_ufo_sighting_22ft_long_alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2006 Chicago O&#x27;Hare UFO Sighting...[https://twitter.com/Unexplained2020/status/1621593664425439240](https://twitter.com/Unexplained2020/status/1621593664425439240) The UFO event over Chicago’s O’Hare Ai...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: a look back at the chicago ohare ufo incident  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lsixlj/a_look_back_at_the_chicago_ohare_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lsixlj/a_look_back_at_the_chicago_ohare_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Look Back at the Chicago O&#x27;Hare UFO Incident with Rare...OP: An overview of the 2006 Chicago O&#x27;Hare UFO Incident, including recently r...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1lsixlj/a_look_back_at_the_chicago_ohare_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lsixlj/a_look_back_at_the_chicago_ohare_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Look Back at the Chicago O&#x27;Hare UFO Incident with Rare...OP: An overview of the 2006 Chicago O&#x27;Hare UFO Incident, including recently r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: What's going on here?: r/weather Alien ship? Time portal? Do tell  
-   Link: <a href="https://www.reddit.com/r/weather/comments/1s6aqif/whats_going_on_here/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/weather/comments/1s6aqif/whats_going_on_here/</a>  
+   Link:<a href="https://www.reddit.com/r/weather/comments/1s6aqif/whats_going_on_here/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/weather/comments/1s6aqif/whats_going_on_here/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFObelievers/comments/fsjekg/does_the_2006_chicao_o_hare_ufo_that_punched_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/fsjekg/does_the_2006_chicao_o_hare_ufo_that_punched_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an object shoots through the clouds, one would suggest that the void closes very fast due to air pressure and that the clouds...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFObelievers/comments/fsjekg/does_the_2006_chicao_o_hare_ufo_that_punched_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/fsjekg/does_the_2006_chicao_o_hare_ufo_that_punched_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an object shoots through the clouds, one would suggest that the void closes very fast due to air pressure and that the clouds...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: the chicago ohare ufo incident w rare faa audio  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1lsizug/the_chicago_ohare_ufo_incident_w_rare_faa_audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1lsizug/the_chicago_ohare_ufo_incident_w_rare_faa_audio/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Chicago O&#x27;Hare UFO Incident w/ RARE FAA Audio...A look back at the 2006 Chicago O&#x27;Hare UFO incident, including rare audio tapes from...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1lsizug/the_chicago_ohare_ufo_incident_w_rare_faa_audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1lsizug/the_chicago_ohare_ufo_incident_w_rare_faa_audio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Chicago O&#x27;Hare UFO Incident w/ RARE FAA Audio...A look back at the 2006 Chicago O&#x27;Hare UFO incident, including rare audio tapes from...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1jrhyy2/the_ohare_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jrhyy2/the_ohare_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The O&#x27;Hare incident: r/ufoIt punched a hole through the clouds then vanished. No radar contact. No official explanation. The FAA dismiss...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1jrhyy2/the_ohare_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1jrhyy2/the_ohare_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The O&#x27;Hare incident: r/ufoIt punched a hole through the clouds then vanished. No radar contact. No official explanation. The FAA dismiss...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cbsnews.com  
    Title: ufo at ohare officials say weird weather  
-   Link: <a href="https://www.cbsnews.com/news/ufo-at-ohare-officials-say-weird-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-at-ohare-officials-say-weird-weather/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsUFO At O&#x27;Hare? Officials Say Weird Weather2 Jan 2007 — Witnesses also said the object created an open hole of clear air in the cl...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-at-ohare-officials-say-weird-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-at-ohare-officials-say-weird-weather/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsUFO At O&#x27;Hare? Officials Say Weird Weather2 Jan 2007 — Witnesses also said the object created an open hole of clear air in the cl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: simpleflying.com  
    Title: chicago o hare airport reported ufo sighting 2006  
-   Link: <a href="https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simple FlyingDid You Know Chicago O&#x27;Hare Airport Had A Reported...22 Aug 2024 — The tapes revealed that a United Airlines supervisor cal...</p></details>
+   Link:<a href="https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/chicago-o-hare-airport-reported-ufo-sighting-2006/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simple FlyingDid You Know Chicago O&#x27;Hare Airport Had A Reported...22 Aug 2024 — The tapes revealed that a United Airlines supervisor cal...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Hole Punch Clouds  
-   Link: <a href="https://www.popularmechanics.com/science/a30681420/hole-punch-clouds-snow/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a30681420/hole-punch-clouds-snow/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon can also cause hole punch clouds and fallstreak holes.Read more...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a30681420/hole-punch-clouds-snow/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a30681420/hole-punch-clouds-snow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon can also cause hole punch clouds and fallstreak holes.Read more...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-mood/did-aliens-really-visit-ohare-airport-a36abca8ff00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mood/did-aliens-really-visit-ohare-airport-a36abca8ff00</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Really Visit O&#x27;Hare Airport? | by Joe MoodyAside from weather balloons, “weather phenomenon” is another common reason given fo...</p></details>
+   Link:<a href="https://medium.com/the-mood/did-aliens-really-visit-ohare-airport-a36abca8ff00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mood/did-aliens-really-visit-ohare-airport-a36abca8ff00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Really Visit O&#x27;Hare Airport? | by Joe MoodyAside from weather balloons, “weather phenomenon” is another common reason given fo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/the-chicago-ohare-uap-incident-physics-teams-analysis-offers-a-fresh-look-at-this-famous-2006-case/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-chicago-ohare-uap-incident-physics-teams-analysis-offers-a-fresh-look-at-this-famous-2006-case/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Chicago O&#x27;Hare UAP Incident: Physics Team&#x27;s...2 May 2023 — The Applied Physics team cautions that they do not intend their observati...</p></details>
+   Link:<a href="https://thedebrief.org/the-chicago-ohare-uap-incident-physics-teams-analysis-offers-a-fresh-look-at-this-famous-2006-case/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-chicago-ohare-uap-incident-physics-teams-analysis-offers-a-fresh-look-at-this-famous-2006-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Chicago O&#x27;Hare UAP Incident: Physics Team&#x27;s...2 May 2023 — The Applied Physics team cautions that they do not intend their observati...</p></details>
    Published: May 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40krindiri/what-blind-remote-viewing-revealed-about-the-2006-ohare-ufo-incident-and-why-it-changed-how-we-189ff35a665c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40krindiri/what-blind-remote-viewing-revealed-about-the-2006-ohare-ufo-incident-and-why-it-changed-how-we-189ff35a665c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Blind Remote Viewing Revealed About the 2006 O...The real-world reference for this session was the well-documented 2006 O&#x27;Hare Airp...</p></details>
+   Link:<a href="https://medium.com/%40krindiri/what-blind-remote-viewing-revealed-about-the-2006-ohare-ufo-incident-and-why-it-changed-how-we-189ff35a665c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40krindiri/what-blind-remote-viewing-revealed-about-the-2006-ohare-ufo-incident-and-why-it-changed-how-we-189ff35a665c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Blind Remote Viewing Revealed About the 2006 O...The real-world reference for this session was the well-documented 2006 O&#x27;Hare Airp...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: drloihjournal.blogspot.com  
    Title: chicago ohare international airport ufo sighting occurred on november 7 2006  
-   Link: <a href="https://drloihjournal.blogspot.com/2019/07/chicago-ohare-international-airport-ufo-sighting-occurred-on-november-7-2006.html" target="_blank" rel="noopener noreferrer nofollow">https://drloihjournal.blogspot.com/2019/07/chicago-ohare-international-airport-ufo-sighting-occurred-on-november-7-2006.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago O&#x27;Hare International Airport UFO sighting...Jul 11, 2019 — According to astronomer Mark Hammergren, weather conditions on the da...</p></details>
+   Link:<a href="https://drloihjournal.blogspot.com/2019/07/chicago-ohare-international-airport-ufo-sighting-occurred-on-november-7-2006.html" target="_blank" rel="noopener noreferrer nofollow">https://drloihjournal.blogspot.com/2019/07/chicago-ohare-international-airport-ufo-sighting-occurred-on-november-7-2006.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago O&#x27;Hare International Airport UFO sighting...Jul 11, 2019 — According to astronomer Mark Hammergren, weather conditions on the da...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works The 10 Most Legitimate Cases of U.F.O  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — The FAA suggested that the sighting was the result of a weather phenomenon called a hole punch cloud, but the temp...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — The FAA suggested that the sighting was the result of a weather phenomenon called a hole punch cloud, but the temp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: was a ufo once spotted at ohare chicago mysteries  
-   Link: <a href="https://www.facebook.com/wttwchicago/videos/was-a-ufo-once-spotted-at-ohare-chicago-mysteries/1541474223077481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wttwchicago/videos/was-a-ufo-once-spotted-at-ohare-chicago-mysteries/1541474223077481/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2006, more than a dozen airline workers saw a peculiar...Was a UFO once spotted at O&#x27;Hare? - Chicago Mysteries. In 2006, more than a...</p></details>
+   Link:<a href="https://www.facebook.com/wttwchicago/videos/was-a-ufo-once-spotted-at-ohare-chicago-mysteries/1541474223077481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wttwchicago/videos/was-a-ufo-once-spotted-at-ohare-chicago-mysteries/1541474223077481/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2006, more than a dozen airline workers saw a peculiar...Was a UFO once spotted at O&#x27;Hare? - Chicago Mysteries. In 2006, more than a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ryan-sprague51.medium.com  
    Title: the chicago ohare ufo incident 325c08e2c99f  
-   Link: <a href="https://ryan-sprague51.medium.com/the-chicago-ohare-ufo-incident-325c08e2c99f" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-chicago-ohare-ufo-incident-325c08e2c99f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago O&#x27;Hare UFO Incident - Ryan SpragueThe Chicago O&#x27;Hare UFO Incident. An airport full of witnesses and a case full of unanswered que...</p></details>
+   Link:<a href="https://ryan-sprague51.medium.com/the-chicago-ohare-ufo-incident-325c08e2c99f" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-chicago-ohare-ufo-incident-325c08e2c99f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago O&#x27;Hare UFO Incident - Ryan SpragueThe Chicago O&#x27;Hare UFO Incident. An airport full of witnesses and a case full of unanswered que...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: syfy.com  
    Title: ufo docuseries showtime ohare airport 2006  
-   Link: <a href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abrams UFO docu-series explores 2006 airport sighting4 Aug 2021 — What happened at O&#x27;Hare? Showtime docu-series revisits one of history&#x27;s...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abrams UFO docu-series explores 2006 airport sighting4 Aug 2021 — What happened at O&#x27;Hare? Showtime docu-series revisits one of history&#x27;s...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/rampagents/posts/9701065609910025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rampagents/posts/9701065609910025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ck, until shooting off and leaving a circular hole...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/rampagents/posts/9701065609910025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rampagents/posts/9701065609910025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ck, until shooting off and leaving a circular hole...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: brobible.com  
    Title: ufo caught camera ohare chicago united  
-   Link: <a href="https://brobible.com/culture/article/ufo-caught-camera-ohare-chicago-united/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/ufo-caught-camera-ohare-chicago-united/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO At O&#x27;Hare In Chicago Baffles Airline Employees...Oct 9, 2023 — The FAA claimed that the UFO sighting, which was witnessed by a dozen...</p></details>
+   Link:<a href="https://brobible.com/culture/article/ufo-caught-camera-ohare-chicago-united/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/ufo-caught-camera-ohare-chicago-united/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO At O&#x27;Hare In Chicago Baffles Airline Employees...Oct 9, 2023 — The FAA claimed that the UFO sighting, which was witnessed by a dozen...</p></details>

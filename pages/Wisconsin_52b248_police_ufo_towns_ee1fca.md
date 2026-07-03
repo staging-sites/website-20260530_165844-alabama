@@ -262,7 +262,7 @@ image: /assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-overview-social.j
 
 ## Introduction
 
-Elmwood and Belleville became two of Wisconsin’s best-known “UFO towns” not because either town produced conclusive proof of an extraordinary craft, but because police witnesses gave their local sighting stories unusual staying power. In Elmwood, George Wheeler’s 1970s reports helped turn a small Pierce County village into a place publicly associated with [Tuttle Hill]({{ 'tuttle-hill/' | relative_url }}), annual UFO Days, roadside memory, and the nickname “UFO Capital”. In Belleville, Glen Kazmar’s 1987 sighting helped launch a short but intense local flap that later became a Halloween-season community festival. In both places, the lasting story is about evidence and civic memory at once: official-sounding testimony made the reports harder to dismiss, while parades, clippings, talks, signs, and local branding kept the sightings alive long after the original night lights could no longer be checked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authenticwisconsin.com">[Authentic Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authenticwisconsin.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Elmwood and Belleville became two of Wisconsin’s best-known “UFO towns” not because either town produced conclusive proof of an extraordinary craft, but because police witnesses gave their local sighting stories unusual staying power. In Elmwood, George Wheeler’s 1970s reports helped turn a small Pierce County village into a place publicly associated with [Tuttle Hill]({{ 'tuttle-hill/' | relative_url }}), annual UFO Days, roadside memory, and the nickname “UFO Capital”. In Belleville, Glen Kazmar’s 1987 sighting helped launch a short but intense local flap that later became a Halloween-season community festival. In both places, the lasting story is about evidence and civic memory at once: official-sounding testimony made the reports harder to dismiss, while parades, clippings, talks, signs, and local branding kept the sightings alive long after the original night lights could no longer be checked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authenticwisconsin.com">[Authentic Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authenticwisconsin.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-overview.webp" | relative_url }}" alt="Overview image for UFO Towns" loading="eager" decoding="sync" fetchpriority="high">
 ## Why police witnesses changed the story
@@ -271,26 +271,26 @@ UFO reports are often strongest as human testimony and weakest as physical evide
 
 This does not mean that police sightings should be treated as proof. Officers can misidentify stars, aircraft, reflections, balloons, or atmospheric effects like anyone else. The important point for Wisconsin’s UFO history is social as much as evidential: in Elmwood and Belleville, law-enforcement witnesses made strange lights feel like public events rather than private oddities. Once a report had been tied to patrol work, radio calls, sheriff’s officers, or investigation, it could be retold as part of the town’s public memory.
 
-The pattern is visible in the way both communities now present the stories. Belleville’s own community site says that a UFO sighting witnessed by a Belleville police officer and Dane County Sheriff officers drew national attention in January 1987, and connects that episode directly to today’s UFO Days celebration on the last Saturday in October. Elmwood’s public identity similarly centres on George Wheeler’s encounter above the limestone quarry on Tuttle Hill and on the annual UFO Days festival held on the final weekend of July. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bellevillewi.com/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellevillewi.com">[bellevillewi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellevillewi.com</span><span class="citation-popover-title">UF O – Belleville, Wisconsin</span><span class="citation-popover-snippet">UF O – Belleville, Wisconsin</span></span></span>
+The pattern is visible in the way both communities now present the stories. Belleville’s own community site says that a UFO sighting witnessed by a Belleville police officer and Dane County Sheriff officers drew national attention in January 1987, and connects that episode directly to today’s UFO Days celebration on the last Saturday in October. Elmwood’s public identity similarly centres on George Wheeler’s encounter above the limestone quarry on Tuttle Hill and on the annual UFO Days festival held on the final weekend of July.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bellevillewi.com/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellevillewi.com">[bellevillewi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellevillewi.com</span><span class="citation-popover-title">UF O – Belleville, Wisconsin</span><span class="citation-popover-snippet">UF O – Belleville, Wisconsin</span></span></span>
 
 ## Elmwood’s George Wheeler reports
 
-Elmwood’s UFO identity rests on a cluster of 1970s sightings, but George Wheeler is the name that made the story durable. Wheeler was described in later local and regional accounts as a long-serving police figure in a village of fewer than 1,000 people, and the best-known account places his 1976 encounter near the limestone quarry on Tuttle Hill. Local heritage material for Pierce County describes Wheeler as a relief police officer who reported a UFO in April 1976, adding that the incident was also witnessed by several residents and was the second time in a year that he had been present at such an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: backroadspiercecounty.com">[backroadspiercecounty.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">backroadspiercecounty.com</span><span class="citation-popover-title">UF O Sightings (Tuttle Hill</span><span class="citation-popover-snippet">UF O Sightings (Tuttle Hill</span></span></span>
+Elmwood’s UFO identity rests on a cluster of 1970s sightings, but George Wheeler is the name that made the story durable. Wheeler was described in later local and regional accounts as a long-serving police figure in a village of fewer than 1,000 people, and the best-known account places his 1976 encounter near the limestone quarry on Tuttle Hill. Local heritage material for Pierce County describes Wheeler as a relief police officer who reported a UFO in April 1976, adding that the incident was also witnessed by several residents and was the second time in a year that he had been present at such an event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: backroadspiercecounty.com">[backroadspiercecounty.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">backroadspiercecounty.com</span><span class="citation-popover-title">UF O Sightings (Tuttle Hill</span><span class="citation-popover-snippet">UF O Sightings (Tuttle Hill</span></span></span>
 
-The core Elmwood story is vivid. Later accounts say Wheeler was on patrol when he saw an orange glow near the quarry, first thought it might be a fire, and drove to investigate. Milwaukee Magazine’s summary of the legend says Wheeler then described a silver object larger than a two-storey house, with an orange beam from the top; the account also includes a reported radio call, a loud sound, a beam striking the cruiser, failed lights, and damaged spark plugs. The same article is careful to add that the story’s veracity has never been confirmed, which is an important boundary for any balanced reading of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milwaukeemag.com">[Milwaukee Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milwaukeemag.com</span><span class="citation-popover-title">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span><span class="citation-popover-snippet">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span></span></span>
+The core Elmwood story is vivid. Later accounts say Wheeler was on patrol when he saw an orange glow near the quarry, first thought it might be a fire, and drove to investigate. Milwaukee Magazine’s summary of the legend says Wheeler then described a silver object larger than a two-storey house, with an orange beam from the top; the account also includes a reported radio call, a loud sound, a beam striking the cruiser, failed lights, and damaged spark plugs. The same article is careful to add that the story’s veracity has never been confirmed, which is an important boundary for any balanced reading of the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milwaukeemag.com">[Milwaukee Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milwaukeemag.com</span><span class="citation-popover-title">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span><span class="citation-popover-snippet">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span></span></span>
 
-Elmwood’s civic memory did not depend only on that one dramatic version. The village’s broader identity grew from “dozens of sightings” in the 1970s, the Tuttle Hill setting, and the repeated idea that ordinary residents had seen things as well. Authentic Wisconsin’s local profile says the Wheeler encounter became the most discussed of those sightings and notes that, in the 1970s, town leaders even proposed a multi-million-dollar, two-square-mile illuminated UFO landing strip. The landing strip was not built, but the proposal itself shows how quickly the sightings moved from testimony into civic imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authenticwisconsin.com">[Authentic Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authenticwisconsin.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Elmwood’s civic memory did not depend only on that one dramatic version. The village’s broader identity grew from “dozens of sightings” in the 1970s, the Tuttle Hill setting, and the repeated idea that ordinary residents had seen things as well. Authentic Wisconsin’s local profile says the Wheeler encounter became the most discussed of those sightings and notes that, in the 1970s, town leaders even proposed a multi-million-dollar, two-square-mile illuminated UFO landing strip. The landing strip was not built, but the proposal itself shows how quickly the sightings moved from testimony into civic imagination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authenticwisconsin.com">[Authentic Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authenticwisconsin.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That transformation matters because Elmwood is a small place. The 2020 census recorded Elmwood village’s population at 820, and recent demographic profiles put the community in the hundreds rather than thousands. In a town of that scale, a police officer’s repeated report is not just another newspaper item; it becomes a shared reference point, a joke, a claim to fame, a tourism hook, and a local argument about whether the town should lean into the story or keep its distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.census.gov/profile/Elmwood_village%2C_Pierce_County%2C_Wisconsin?g=060XX00US5509323700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.census.gov">[Census Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.census.gov</span><span class="citation-popover-title">Data Elmwood village, Pierce County, Wisconsin</span><span class="citation-popover-snippet">Data Elmwood village, Pierce County, Wisconsin</span></span></span>
+That transformation matters because Elmwood is a small place. The 2020 census recorded Elmwood village’s population at 820, and recent demographic profiles put the community in the hundreds rather than thousands. In a town of that scale, a police officer’s repeated report is not just another newspaper item; it becomes a shared reference point, a joke, a claim to fame, a tourism hook, and a local argument about whether the town should lean into the story or keep its distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://data.census.gov/profile/Elmwood_village%2C_Pierce_County%2C_Wisconsin?g=060XX00US5509323700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.census.gov">[Census Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.census.gov</span><span class="citation-popover-title">Data Elmwood village, Pierce County, Wisconsin</span><span class="citation-popover-snippet">Data Elmwood village, Pierce County, Wisconsin</span></span></span>
 
 <img src="{{ "/assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-Illustration-1-dark.svg" | relative_url }}" alt="UFO Towns illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Elmwood turned sightings into identity
 
-Elmwood’s UFO Days is the clearest example of the shift from witness claim to civic ritual. Wisconsin Frights describes Elmwood UFO Days as an annual festival commemorating strange UFO sightings in the 1970s, held every year since 1978, with food, music, a parade, family activities, bus tours to sighting locations, alien crafts, and a flying saucer toss. That mixture is important: the festival keeps the serious-origin story visible while turning it into something socially usable — a summer gathering, a visitor attraction, and a local brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">Wisconsin Frights Elmwood UFO Days</span><span class="citation-popover-snippet">Wisconsin Frights Elmwood UFO Days</span></span></span>
+Elmwood’s UFO Days is the clearest example of the shift from witness claim to civic ritual. Wisconsin Frights describes Elmwood UFO Days as an annual festival commemorating strange UFO sightings in the 1970s, held every year since 1978, with food, music, a parade, family activities, bus tours to sighting locations, alien crafts, and a flying saucer toss. That mixture is important: the festival keeps the serious-origin story visible while turning it into something socially usable — a summer gathering, a visitor attraction, and a local brand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">Wisconsin Frights Elmwood UFO Days</span><span class="citation-popover-snippet">Wisconsin Frights Elmwood UFO Days</span></span></span>
 
-The town’s memory also became physical. The Elmwood UFO Sightings Sign commemorates multiple sightings in the 1970s, including Wheeler’s first sighting of a red ball of light. A sign is not evidence that the original object was extraordinary, but it is evidence that the town chose to preserve the story in public space. It marks the sighting tradition as something visitors can find, photograph, and fold into a trip through Pierce County. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">Wisconsin Frights Elmwood UFO Days</span><span class="citation-popover-snippet">Wisconsin Frights Elmwood UFO Days</span></span></span>
+The town’s memory also became physical. The Elmwood UFO Sightings Sign commemorates multiple sightings in the 1970s, including Wheeler’s first sighting of a red ball of light. A sign is not evidence that the original object was extraordinary, but it is evidence that the town chose to preserve the story in public space. It marks the sighting tradition as something visitors can find, photograph, and fold into a trip through Pierce County.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">Wisconsin Frights Elmwood UFO Days</span><span class="citation-popover-snippet">Wisconsin Frights Elmwood UFO Days</span></span></span>
 
-Elmwood’s claim is also competitive. Authentic Wisconsin notes that Elmwood is one of three Wisconsin communities claiming some version of UFO-capital status, alongside Belleville and [Dundee]({{ 'dundee/' | relative_url }})/Long Lake. That rivalry is not a distraction from UFO history; it is part of the history. It shows how local UFO memory can become place-making, where a disputed night-sky report becomes part of how a town differentiates itself from neighbouring communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authenticwisconsin.com">[Authentic Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authenticwisconsin.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Elmwood’s claim is also competitive. Authentic Wisconsin notes that Elmwood is one of three Wisconsin communities claiming some version of UFO-capital status, alongside Belleville and [Dundee]({{ 'dundee/' | relative_url }})/Long Lake. That rivalry is not a distraction from UFO history; it is part of the history. It shows how local UFO memory can become place-making, where a disputed night-sky report becomes part of how a town differentiates itself from neighbouring communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authenticwisconsin.com">[Authentic Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authenticwisconsin.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For sceptical readers, the key point is that Elmwood’s evidence remains mostly testimonial and retrospective. The reported radio problems, vehicle effects, and Wheeler’s later ill health are often repeated, but public summaries do not provide a clean, testable record that would settle the case. The strongest historically defensible claim is narrower: in the 1970s, Elmwood residents and at least one police witness reported unusual aerial phenomena; those stories were reported widely enough, and embraced locally enough, to create one of Wisconsin’s longest-running UFO civic identities.
 
@@ -298,22 +298,22 @@ For sceptical readers, the key point is that Elmwood’s evidence remains mostly
 
 ## Belleville’s 1987 flap
 
-Belleville’s UFO memory began later and unfolded differently. Rather than revolving around one highly dramatic officer encounter, the Belleville story became a “flap”: a short period of multiple reports in and around a community. The first major report was associated with Glen Kazmar, a Belleville police officer, on the night of 15–16 January 1987. An Associated Press account from 2018, drawing on Wisconsin State Journal reporting, says Kazmar saw lights over Quarry Road between about 8:30 p.m. and 3:30 a.m.; later reports in March included Harvey Funseth, a state Department of Transportation surveyor, and Lavonne Freidig, who described an object that appeared to hang in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Wisconsin community remembers strange lights with UFO</span><span class="citation-popover-snippet">AP News Wisconsin community remembers strange lights with UFO</span></span></span>
+Belleville’s UFO memory began later and unfolded differently. Rather than revolving around one highly dramatic officer encounter, the Belleville story became a “flap”: a short period of multiple reports in and around a community. The first major report was associated with Glen Kazmar, a Belleville police officer, on the night of 15–16 January 1987. An Associated Press account from 2018, drawing on Wisconsin State Journal reporting, says Kazmar saw lights over Quarry Road between about 8:30 p.m. and 3:30 a.m.; later reports in March included Harvey Funseth, a state Department of Transportation surveyor, and Lavonne Freidig, who described an object that appeared to hang in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Wisconsin community remembers strange lights with UFO</span><span class="citation-popover-snippet">AP News Wisconsin community remembers strange lights with UFO</span></span></span>
 
-Public television captured the atmosphere while the flap was still fresh. A Wisconsin Magazine segment archived by the American Archive of Public Broadcasting described Belleville as a small, peaceful town whose “password” had become “look up”, and said investigators had come to examine sightings around Belleville, Paoli, Monticello, Argyle, Hollandale, and New Glarus. The same segment identified Don Schmitt as a Wisconsin investigator for the Center for UFO Studies and said the centre regarded the [Belleville flap]({{ 'belleville-flap/' | relative_url }}) as important not just because of the number of reports but because some witnesses described shapes rather than only lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanarchive.org">[American Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanarchive.org</span><span class="citation-popover-title">cpb aacip 29 375tb6xs</span><span class="citation-popover-snippet">cpb aacip 29 375tb6xs</span></span></span>
+Public television captured the atmosphere while the flap was still fresh. A Wisconsin Magazine segment archived by the American Archive of Public Broadcasting described Belleville as a small, peaceful town whose “password” had become “look up”, and said investigators had come to examine sightings around Belleville, Paoli, Monticello, Argyle, Hollandale, and New Glarus. The same segment identified Don Schmitt as a Wisconsin investigator for the Center for UFO Studies and said the centre regarded the [Belleville flap]({{ 'belleville-flap/' | relative_url }}) as important not just because of the number of reports but because some witnesses described shapes rather than only lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanarchive.org">[American Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanarchive.org</span><span class="citation-popover-title">cpb aacip 29 375tb6xs</span><span class="citation-popover-snippet">cpb aacip 29 375tb6xs</span></span></span>
 
-Kazmar’s role mattered because he was not simply a festival mascot or later storyteller. The archived television transcript says the flap started when the Belleville police officer reported an unusual series of red, blue, and white lights and said that, after more than ten years of work, he had never seen anything like it. By putting a police officer at the beginning of the flap, the story acquired an official tone before it became a local entertainment tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanarchive.org">[American Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanarchive.org</span><span class="citation-popover-title">cpb aacip 29 375tb6xs</span><span class="citation-popover-snippet">cpb aacip 29 375tb6xs</span></span></span>
+Kazmar’s role mattered because he was not simply a festival mascot or later storyteller. The archived television transcript says the flap started when the Belleville police officer reported an unusual series of red, blue, and white lights and said that, after more than ten years of work, he had never seen anything like it. By putting a police officer at the beginning of the flap, the story acquired an official tone before it became a local entertainment tradition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanarchive.org">[American Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanarchive.org</span><span class="citation-popover-title">cpb aacip 29 375tb6xs</span><span class="citation-popover-snippet">cpb aacip 29 375tb6xs</span></span></span>
 
-The investigation also gave Belleville’s story a public forum. The Associated Press account says about 200 people gathered in June 1987 at Belleville High School to hear Schmitt and his centre present the results of the investigation, which they treated as genuine UFO sightings. Later reporting by WISN said Schmitt spent months looking into the case, investigated 41 reports during the Belleville Wave, and concluded at the time that more than a dozen could not be explained. Those claims should be read as the conclusions of UFO investigators, not as a neutral government finding, but they help explain why Belleville’s memory of the flap did not fade quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Wisconsin community remembers strange lights with UFO</span><span class="citation-popover-snippet">AP News Wisconsin community remembers strange lights with UFO</span></span></span>
+The investigation also gave Belleville’s story a public forum. The Associated Press account says about 200 people gathered in June 1987 at Belleville High School to hear Schmitt and his centre present the results of the investigation, which they treated as genuine UFO sightings. Later reporting by WISN said Schmitt spent months looking into the case, investigated 41 reports during the Belleville Wave, and concluded at the time that more than a dozen could not be explained. Those claims should be read as the conclusions of UFO investigators, not as a neutral government finding, but they help explain why Belleville’s memory of the flap did not fade quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Wisconsin community remembers strange lights with UFO</span><span class="citation-popover-snippet">AP News Wisconsin community remembers strange lights with UFO</span></span></span>
 
 <img src="{{ "/assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-Illustration-2-dark.svg" | relative_url }}" alt="UFO Towns illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_police_ufo_towns_ee1fca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The doubts were part of the record from the start
 
-The Belleville case is especially useful because sceptical interpretation appeared in the same public record as the UFO claims. In the Wisconsin Magazine segment, University of Wisconsin astronomer Mark Slovak argued that some sky events can be explained as ordinary things seen under unusual conditions. For Kazmar’s reported red, white, and blue lights, the segment says Slovak used a computer sky view for the relevant date and time and pointed to bright stars near the horizon, especially Betelgeuse, whose light can appear to twinkle and change through thicker layers of atmosphere as it sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanarchive.org">[American Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanarchive.org</span><span class="citation-popover-title">cpb aacip 29 375tb6xs</span><span class="citation-popover-snippet">cpb aacip 29 375tb6xs</span></span></span>
+The Belleville case is especially useful because sceptical interpretation appeared in the same public record as the UFO claims. In the Wisconsin Magazine segment, University of Wisconsin astronomer Mark Slovak argued that some sky events can be explained as ordinary things seen under unusual conditions. For Kazmar’s reported red, white, and blue lights, the segment says Slovak used a computer sky view for the relevant date and time and pointed to bright stars near the horizon, especially Betelgeuse, whose light can appear to twinkle and change through thicker layers of atmosphere as it sets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanarchive.org">[American Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanarchive.org</span><span class="citation-popover-title">cpb aacip 29 375tb6xs</span><span class="citation-popover-snippet">cpb aacip 29 375tb6xs</span></span></span>
 
 That explanation does not automatically solve every Belleville report. The flap included more than one witness, more than one date, and different descriptions, including cylindrical or blimp-like forms. But it does show why the Belleville story should not be flattened into “police saw aliens” or “astronomer debunked everything”. A fairer reading is that some reports were probably vulnerable to astronomical or aircraft explanations, while others remained difficult for investigators to classify using the information available at the time.
 
-Elmwood has a different evidential problem. The story is powerful because it includes a named officer, a place, a patrol context, alleged vehicle effects, and a later festival tradition. Yet the public record available to ordinary readers is dominated by retellings rather than by primary technical documentation. Claims such as a beam striking the cruiser or spark plugs being damaged are memorable, but without a clear chain of physical evidence they remain claims within a local legend rather than proof of an anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milwaukeemag.com">[Milwaukee Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milwaukeemag.com</span><span class="citation-popover-title">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span><span class="citation-popover-snippet">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span></span></span>
+Elmwood has a different evidential problem. The story is powerful because it includes a named officer, a place, a patrol context, alleged vehicle effects, and a later festival tradition. Yet the public record available to ordinary readers is dominated by retellings rather than by primary technical documentation. Claims such as a beam striking the cruiser or spark plugs being damaged are memorable, but without a clear chain of physical evidence they remain claims within a local legend rather than proof of an anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milwaukeemag.com">[Milwaukee Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milwaukeemag.com</span><span class="citation-popover-title">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span><span class="citation-popover-snippet">Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin</span></span></span>
 
 This is why both towns are best understood as civic-memory cases. Their importance lies not in demonstrating that extraordinary vehicles visited Wisconsin, but in showing how a UFO claim becomes credible enough, public enough, and enjoyable enough for a community to preserve. The police sightings were the ignition point; the long memory came from repetition, ritual, and place.
 
@@ -321,11 +321,11 @@ This is why both towns are best understood as civic-memory cases. Their importan
 
 ## From witness claims to town festivals
 
-Elmwood and Belleville both converted uncertainty into community identity, but they did it with different seasonal rhythms and local styles. Elmwood’s UFO Days grew out of 1970s western Wisconsin sightings and became a summer event on the final weekend of July. Belleville’s UFO Days is held on the last Saturday in October, which makes its UFO identity overlap naturally with Halloween costumes, parades, and family activities. Belleville’s community site says the annual event includes a UFO-themed parade where children are encouraged to dress in Halloween costumes and collect candy from parade participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">Wisconsin Frights Elmwood UFO Days</span><span class="citation-popover-snippet">Wisconsin Frights Elmwood UFO Days</span></span></span>
+Elmwood and Belleville both converted uncertainty into community identity, but they did it with different seasonal rhythms and local styles. Elmwood’s UFO Days grew out of 1970s western Wisconsin sightings and became a summer event on the final weekend of July. Belleville’s UFO Days is held on the last Saturday in October, which makes its UFO identity overlap naturally with Halloween costumes, parades, and family activities. Belleville’s community site says the annual event includes a UFO-themed parade where children are encouraged to dress in Halloween costumes and collect candy from parade participants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">Wisconsin Frights Elmwood UFO Days</span><span class="citation-popover-snippet">Wisconsin Frights Elmwood UFO Days</span></span></span>
 
 That festive framing can make the cases look less serious, but it also explains their survival. Many UFO reports vanish because they never become attached to a repeatable civic practice. Elmwood and Belleville did the opposite. They gave the stories dates on the calendar, locations on the map, activities for children, lectures for believers, jokes for sceptics, and a reason for local businesses and visitors to participate.
 
-The 2018 Associated Press account of Belleville’s UFO Day shows the mix clearly. One organiser described the parade as having around 30 entries and said the event had partly turned into a Halloween thing, while also trying to bring back more alien-themed elements. The same report moved from parade planning to serious believer testimony and a lecture series featuring Don Schmitt, showing how Belleville’s civic memory holds comedy, commerce, belief, and unresolved testimony in the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Wisconsin community remembers strange lights with UFO</span><span class="citation-popover-snippet">AP News Wisconsin community remembers strange lights with UFO</span></span></span>
+The 2018 Associated Press account of Belleville’s UFO Day shows the mix clearly. One organiser described the parade as having around 30 entries and said the event had partly turned into a Halloween thing, while also trying to bring back more alien-themed elements. The same report moved from parade planning to serious believer testimony and a lecture series featuring Don Schmitt, showing how Belleville’s civic memory holds comedy, commerce, belief, and unresolved testimony in the same event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Wisconsin community remembers strange lights with UFO</span><span class="citation-popover-snippet">AP News Wisconsin community remembers strange lights with UFO</span></span></span>
 
 Elmwood’s version is more deeply tied to a founding local legend. Bus tours to sighting locations, a sighting sign, and references to Wheeler keep the geography of the 1970s reports in view. Belleville’s version, by contrast, is tied to a broader 1987 wave and to the continuing idea that the town once found itself under unusual skies. Both forms are effective, but they remember different things: Elmwood remembers a named officer and a hill; Belleville remembers a wave, a police start, and a town looking up.
 
@@ -336,201 +336,201 @@ Elmwood and Belleville help explain why Wisconsin’s UFO history is not just a 
 
 They also show why witness status matters but must be handled carefully. A police officer’s report is more interesting than an anonymous rumour because it comes from someone trained to observe and trusted with public responsibility. Yet police testimony remains human testimony. It needs the same questions as any other sighting: What exactly was seen? From where? For how long? Were there independent witnesses? Were aircraft, stars, planets, weather, reflections, or equipment effects checked? Did later retellings add details not present in earlier accounts?
 
-The modern reporting environment gives those questions extra relevance. The Federal Aviation Administration now instructs air-traffic personnel to inform supervisors of reported or observed unidentified anomalous phenomena activity, while civilian databases such as the National UFO Reporting Center continue to collect Wisconsin reports into 2026. That broader reporting culture can make older town cases feel newly current, but it does not retroactively strengthen their evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The modern reporting environment gives those questions extra relevance. The Federal Aviation Administration now instructs air-traffic personnel to inform supervisors of reported or observed unidentified anomalous phenomena activity, while civilian databases such as the National UFO Reporting Center continue to collect Wisconsin reports into 2026. That broader reporting culture can make older town cases feel newly current, but it does not retroactively strengthen their evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Wisconsin readers, the most balanced conclusion is simple. Elmwood and Belleville are not proof-centres; they are memory-centres. Their police sightings matter because they show how official-seeming witnesses can give disputed night-light reports enough public weight to become part of a town’s identity. The unresolved question of what was actually seen remains open in some details and plausibly ordinary in others. The clearer historical fact is that both towns learned how to remember the sightings — not as settled science, but as local stories strong enough to organise parades, signs, lectures, rival claims, and a durable place in Wisconsin’s UFO map.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JmQ411Xlnl0" title="World UFO Day: Years of Sightings in Elmwood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JmQ411Xlnl0" target="_blank" rel="noopener noreferrer">World UFO Day: Years of Sightings in Elmwood</a></p><p class="youtube-embed-meta">Channel: WQOW News 18 &middot; Views: 1.3K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JmQ411Xlnl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JmQ411Xlnl0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Police Sightings Built UFO Towns. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Police Sightings Built UFO Towns. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness categories and investigation challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness categories and investigation challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official reports gain lasting influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official reports gain lasting influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Police and official witnesses are central to the book&#x27;s appeal.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Police and official witnesses are central to the book&#x27;s appeal.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Demonstrates how official testimony sustains local legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how official testimony sustains local legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UFO Patch Iron On Patch Applique Not From This World NASA"><img src="https://i.ebayimg.com/images/g/dXAAAeSwKiRoldEg/s-l225.jpg" alt="Listing image for Aliens UFO Patch Iron On Patch Applique Not From This World NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Aliens UFO Patch Iron On Patch Applique Not From This World NASA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UFO Patch Iron On Patch Applique Not From This World NASA"><img src="https://i.ebayimg.com/images/g/dXAAAeSwKiRoldEg/s-l225.jpg" alt="Listing image for Aliens UFO Patch Iron On Patch Applique Not From This World NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Aliens UFO Patch Iron On Patch Applique Not From This World NASA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport"><img src="https://i.ebayimg.com/images/g/cBsAAOSwJItehJhF/s-l225.jpg" alt="Listing image for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport"><img src="https://i.ebayimg.com/images/g/cBsAAOSwJItehJhF/s-l225.jpg" alt="Listing image for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-police-sightings-built-ufo-towns-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ For Wisconsin readers, the most balanced conclusion is simple. Elmwood and Belle
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ For Wisconsin readers, the most balanced conclusion is simple. Elmwood and Belle
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ For Wisconsin readers, the most balanced conclusion is simple. Elmwood and Belle
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ For Wisconsin readers, the most balanced conclusion is simple. Elmwood and Belle
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ For Wisconsin readers, the most balanced conclusion is simple. Elmwood and Belle
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,158 +736,158 @@ For Wisconsin readers, the most balanced conclusion is simple. Elmwood and Belle
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bellevillewi.com  
    Title: UF O – Belleville, Wisconsin  
-   Link: <a href="https://bellevillewi.com/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://bellevillewi.com/ufo/</a>  
+   Link:<a href="https://bellevillewi.com/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://bellevillewi.com/ufo/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: backroadspiercecounty.com  
    Title: UF O Sightings (Tuttle Hill)  
-   Link: <a href="https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/" target="_blank" rel="noopener noreferrer nofollow">https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/</a>  
+   Link:<a href="https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/" target="_blank" rel="noopener noreferrer nofollow">https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: data.census.gov  
    Title: Data Elmwood village, Pierce County, Wisconsin  
-   Link: <a href="https://data.census.gov/profile/Elmwood_village%2C_Pierce_County%2C_Wisconsin?g=060XX00US5509323700" target="_blank" rel="noopener noreferrer nofollow">https://data.census.gov/profile/Elmwood_village%2C_Pierce_County%2C_Wisconsin?g=060XX00US5509323700</a>  
+   Link:<a href="https://data.census.gov/profile/Elmwood_village%2C_Pierce_County%2C_Wisconsin?g=060XX00US5509323700" target="_blank" rel="noopener noreferrer nofollow">https://data.census.gov/profile/Elmwood_village%2C_Pierce_County%2C_Wisconsin?g=060XX00US5509323700</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wisn.com  
    Title: ufo sightings in wisconsin  
-   Link: <a href="https://www.wisn.com/article/ufo-sightings-in-wisconsin/39013138" target="_blank" rel="noopener noreferrer nofollow">https://www.wisn.com/article/ufo-sightings-in-wisconsin/39013138</a>  
+   Link:<a href="https://www.wisn.com/article/ufo-sightings-in-wisconsin/39013138" target="_blank" rel="noopener noreferrer nofollow">https://www.wisn.com/article/ufo-sightings-in-wisconsin/39013138</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: test.data.census.gov  
    Title: Belleville village, Dane County, Wisconsin  
-   Link: <a href="https://test.data.census.gov/profile/Belleville_village%2C_Dane_County%2C_Wisconsin?g=060XX00US5502506300" target="_blank" rel="noopener noreferrer nofollow">https://test.data.census.gov/profile/Belleville_village%2C_Dane_County%2C_Wisconsin?g=060XX00US5502506300</a>  
+   Link:<a href="https://test.data.census.gov/profile/Belleville_village%2C_Dane_County%2C_Wisconsin?g=060XX00US5502506300" target="_blank" rel="noopener noreferrer nofollow">https://test.data.census.gov/profile/Belleville_village%2C_Dane_County%2C_Wisconsin?g=060XX00US5502506300</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: data.census.gov  
-   Link: <a href="https://data.census.gov/cedsci/profile?g=160XX00US5506350" target="_blank" rel="noopener noreferrer nofollow">https://data.census.gov/cedsci/profile?g=160XX00US5506350</a>  
+   Link:<a href="https://data.census.gov/cedsci/profile?g=160XX00US5506350" target="_blank" rel="noopener noreferrer nofollow">https://data.census.gov/cedsci/profile?g=160XX00US5506350</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: census.gov  
-   Link: <a href="https://www.census.gov/quickfacts/fact/table/elmgrovevillagewisconsin/BZA115223" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/elmgrovevillagewisconsin/BZA115223</a>  
+   Link:<a href="https://www.census.gov/quickfacts/fact/table/elmgrovevillagewisconsin/BZA115223" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/elmgrovevillagewisconsin/BZA115223</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: data.census.gov  
-   Link: <a href="https://data.census.gov/table/ACSDT5YSPT2021.B01003?q=Dresser+village%2C+Wisconsin+Chippewa+Cree" target="_blank" rel="noopener noreferrer nofollow">https://data.census.gov/table/ACSDT5YSPT2021.B01003?q=Dresser+village%2C+Wisconsin+Chippewa+Cree</a>  
+   Link:<a href="https://data.census.gov/table/ACSDT5YSPT2021.B01003?q=Dresser+village%2C+Wisconsin+Chippewa+Cree" target="_blank" rel="noopener noreferrer nofollow">https://data.census.gov/table/ACSDT5YSPT2021.B01003?q=Dresser+village%2C+Wisconsin+Chippewa+Cree</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: test.data.census.gov  
-   Link: <a href="https://test.data.census.gov/all?g=060XX00US5502102800" target="_blank" rel="noopener noreferrer nofollow">https://test.data.census.gov/all?g=060XX00US5502102800</a>  
+   Link:<a href="https://test.data.census.gov/all?g=060XX00US5502102800" target="_blank" rel="noopener noreferrer nofollow">https://test.data.census.gov/all?g=060XX00US5502102800</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: census.gov  
    Title: 2020s total cities and towns  
-   Link: <a href="https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html</a>  
+   Link:<a href="https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: www2.census.gov  
    Title: SUB IP EST2024 POP 55.xlsx  
-   Link: <a href="https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-55.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-55.xlsx</a>  
+   Link:<a href="https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-55.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-55.xlsx</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bellevillewi.gov  
    Title: demographic economic data  
-   Link: <a href="https://www.bellevillewi.gov/community-economic-development/page/demographic-economic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.bellevillewi.gov/community-economic-development/page/demographic-economic-data</a>  
+   Link:<a href="https://www.bellevillewi.gov/community-economic-development/page/demographic-economic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.bellevillewi.gov/community-economic-development/page/demographic-economic-data</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: docs.legis.wisconsin.gov  
    Title: 170 population and political subdivisions  
-   Link: <a href="https://docs.legis.wisconsin.gov/misc/lrb/blue_book/2021_2022/170_population_and_political_subdivisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.legis.wisconsin.gov/misc/lrb/blue_book/2021_2022/170_population_and_political_subdivisions.pdf</a>  
+   Link:<a href="https://docs.legis.wisconsin.gov/misc/lrb/blue_book/2021_2022/170_population_and_political_subdivisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.legis.wisconsin.gov/misc/lrb/blue_book/2021_2022/170_population_and_political_subdivisions.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: authenticwisconsin.com  
-   Link: <a href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/elmwood.html</a>  
+   Link:<a href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/elmwood.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: milwaukeemag.com  
    Title: Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin  
-   Link: <a href="https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow">https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/</a>  
+   Link:<a href="https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow">https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wisconsinfrights.com  
    Title: Wisconsin Frights Elmwood UFO Days  
-   Link: <a href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/elmwood-ufo-days/</a>  
+   Link:<a href="https://www.wisconsinfrights.com/elmwood-ufo-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/elmwood-ufo-days/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wisconsinfrights.com  
    Title: Wisconsin Frights Elmwood UFO Sightings Sign  
-   Link: <a href="https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/</a>  
+   Link:<a href="https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apnews.com  
    Title: AP News Wisconsin community remembers strange lights with UFO  
-   Link: <a href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8</a>  
+   Link:<a href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: americanarchive.org  
    Title: cpb aacip 29 375tb6xs  
-   Link: <a href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow">https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs</a>  
+   Link:<a href="https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs" target="_blank" rel="noopener noreferrer nofollow">https://americanarchive.org/catalog/cpb-aacip-29-375tb6xs</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: censusreporter.org  
    Title: Belleville, WI  
-   Link: <a href="https://censusreporter.org/profiles/16000US5506300-belleville-wi/" target="_blank" rel="noopener noreferrer nofollow">https://censusreporter.org/profiles/16000US5506300-belleville-wi/</a>  
+   Link:<a href="https://censusreporter.org/profiles/16000US5506300-belleville-wi/" target="_blank" rel="noopener noreferrer nofollow">https://censusreporter.org/profiles/16000US5506300-belleville-wi/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: worldpopulationreview.com  
-   Link: <a href="https://worldpopulationreview.com/us-cities/wisconsin/elmwood" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/wisconsin/elmwood</a>  
+   Link:<a href="https://worldpopulationreview.com/us-cities/wisconsin/elmwood" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/wisconsin/elmwood</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: worldpopulationreview.com  
-   Link: <a href="https://worldpopulationreview.com/us-cities/wisconsin/belleville" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/wisconsin/belleville</a>  
+   Link:<a href="https://worldpopulationreview.com/us-cities/wisconsin/belleville" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/wisconsin/belleville</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: datausa.io  
    Title: belleville wi  
-   Link: <a href="https://datausa.io/profile/geo/belleville-wi" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/belleville-wi</a>  
+   Link:<a href="https://datausa.io/profile/geo/belleville-wi" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/belleville-wi</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The BIZARRE & EERIE tales behind a Wisconsin town's yearly celebration  
-   Link: <a href="https://www.youtube.com/watch?v=2Q9649IgrHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Q9649IgrHc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Days Elmwood, Wisconsin, July 26-28, 2024: Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2Q9649IgrHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Q9649IgrHc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Days Elmwood, Wisconsin, July 26-28, 2024: Part 1...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wisconsin-demographics.com  
-   Link: <a href="https://www.wisconsin-demographics.com/belleville-demographics" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsin-demographics.com/belleville-demographics</a>  
+   Link:<a href="https://www.wisconsin-demographics.com/belleville-demographics" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsin-demographics.com/belleville-demographics</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DS7-ckgj_O6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS7-ckgj_O6/</a>  
+   Link:<a href="https://www.instagram.com/reel/DS7-ckgj_O6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS7-ckgj_O6/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: foxsanantonio.com  
-   Link: <a href="https://foxsanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://foxsanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+   Link:<a href="https://foxsanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://foxsanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UFODAYSELMWOOD/photos/hobbs-wilson-saw-something-that-changed-elmwood-forever-who-knew-that-46-years-l/1853185531394328/?locale=eu_ES" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFODAYSELMWOOD/photos/hobbs-wilson-saw-something-that-changed-elmwood-forever-who-knew-that-46-years-l/1853185531394328/?locale=eu_ES</a>  
+   Link:<a href="https://www.facebook.com/UFODAYSELMWOOD/photos/hobbs-wilson-saw-something-that-changed-elmwood-forever-who-knew-that-46-years-l/1853185531394328/?locale=eu_ES" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFODAYSELMWOOD/photos/hobbs-wilson-saw-something-that-changed-elmwood-forever-who-knew-that-46-years-l/1853185531394328/?locale=eu_ES</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUl-jY_lDHt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUl-jY_lDHt/</a>  
+   Link:<a href="https://www.instagram.com/reel/DUl-jY_lDHt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUl-jY_lDHt/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: genealogybank.com  
-   Link: <a href="https://www.genealogybank.com/newspaper-clippings/milwaukee-sentinel-september-23-1994-page-14/zvsxhyfadmvomhlntukldaewivgufnai_wma-gateway010_1665627685969" target="_blank" rel="noopener noreferrer nofollow">https://www.genealogybank.com/newspaper-clippings/milwaukee-sentinel-september-23-1994-page-14/zvsxhyfadmvomhlntukldaewivgufnai_wma-gateway010_1665627685969</a>  
+   Link:<a href="https://www.genealogybank.com/newspaper-clippings/milwaukee-sentinel-september-23-1994-page-14/zvsxhyfadmvomhlntukldaewivgufnai_wma-gateway010_1665627685969" target="_blank" rel="noopener noreferrer nofollow">https://www.genealogybank.com/newspaper-clippings/milwaukee-sentinel-september-23-1994-page-14/zvsxhyfadmvomhlntukldaewivgufnai_wma-gateway010_1665627685969</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61577349112090/posts/reel-to-reel-audio-recording-of-wcco-tvs-news-report-on-the-1975-elmwood-wi-ufo-/122094316550911637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61577349112090/posts/reel-to-reel-audio-recording-of-wcco-tvs-news-report-on-the-1975-elmwood-wi-ufo-/122094316550911637/</a>
+   Link:<a href="https://www.facebook.com/61577349112090/posts/reel-to-reel-audio-recording-of-wcco-tvs-news-report-on-the-1975-elmwood-wi-ufo-/122094316550911637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61577349112090/posts/reel-to-reel-audio-recording-of-wcco-tvs-news-report-on-the-1975-elmwood-wi-ufo-/122094316550911637/</a>

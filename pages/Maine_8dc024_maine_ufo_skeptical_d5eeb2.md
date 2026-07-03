@@ -271,26 +271,26 @@ image: /assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-overview-social.jp
 Most [Maine UFO reports]({{ 'per-capita/' | relative_url }}) are better understood as skywatching puzzles than as evidence of alien craft. The state’s dark coastlines, rural lakes, long winter nights and strong outdoor culture give people more chances to notice unfamiliar lights, while modern satellites, aircraft, drones, meteors and atmospheric optics create many genuinely strange-looking effects. That does not mean witnesses are foolish or dishonest. It means that “unidentified” is often a temporary label: a report may begin as a mystery because the observer lacks distance, altitude, timing or tracking data, not because the object itself is extraordinary.
 
 <img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-overview.webp" | relative_url }}" alt="Overview image for Sceptical Analysis" loading="eager" decoding="sync" fetchpriority="high">
-Maine’s UFO history is therefore best read in two layers. One layer contains famous narratives such as the Allagash Wilderness abduction claim, which remains culturally important but scientifically weak. The other contains hundreds of ordinary reports in databases such as the National UFO Reporting Center, where many entries describe brief lights, shapes or motion patterns that can plausibly fit known causes. NUFORC itself notes that its reports are largely posted as received and that it makes no claim as to their validity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
+Maine’s UFO history is therefore best read in two layers. One layer contains famous narratives such as the Allagash Wilderness abduction claim, which remains culturally important but scientifically weak. The other contains hundreds of ordinary reports in databases such as the National UFO Reporting Center, where many entries describe brief lights, shapes or motion patterns that can plausibly fit known causes. NUFORC itself notes that its reports are largely posted as received and that it makes no claim as to their validity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
 ## Why Maine produces convincing but fragile UFO reports
 
 Maine has conditions that make unusual sky reports more likely without requiring anything exotic. Much of the state is rural, coastal or forested, so observers may see a dark horizon with few reference points. A light over the ocean, above a lake or beyond a tree line can look closer, lower, faster or larger than it really is. That is especially true when the sighting is brief, silent or seen at night.
 
-The reporting pattern also reflects human behaviour. A 2021 WGME report, drawing on NUFORC and MUFON figures, noted that Maine reports dropped sharply from the pandemic-heavy outdoor year of 2020 to 2021: from 114 combined NUFORC and MUFON reports between January and late October 2020 to 50 over the same period in 2021. The quoted analyst Cheryl Costa argued that reporting is shaped by hours of darkness, population, weather and leisure time — in plain terms, people report more when they are outside, awake and looking up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wgme.com/news/local/maine-ufo-sightings-sharply-decline-this-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgme.com">[WGME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgme.com</span><span class="citation-popover-title">Maine UFO sightings sharply decline this year</span><span class="citation-popover-snippet">Maine UFO sightings sharply decline this year</span></span></span>
+The reporting pattern also reflects human behaviour. A 2021 WGME report, drawing on NUFORC and MUFON figures, noted that Maine reports dropped sharply from the pandemic-heavy outdoor year of 2020 to 2021: from 114 combined NUFORC and MUFON reports between January and late October 2020 to 50 over the same period in 2021. The quoted analyst Cheryl Costa argued that reporting is shaped by hours of darkness, population, weather and leisure time — in plain terms, people report more when they are outside, awake and looking up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wgme.com/news/local/maine-ufo-sightings-sharply-decline-this-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wgme.com">[WGME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wgme.com</span><span class="citation-popover-title">Maine UFO sightings sharply decline this year</span><span class="citation-popover-snippet">Maine UFO sightings sharply decline this year</span></span></span>
 
 This matters because many Maine sightings are not accompanied by the kind of data that would make a scientific identification possible. A witness may give a sincere account of a light “hovering” over water, “darting” over trees or “vanishing” into cloud, but without a precise time, compass direction, elevation angle, duration, photographs, radar, ADS-B aircraft data or satellite-track comparison, the report is hard to separate from a long list of mundane candidates.
 
-NUFORC’s Maine index illustrates the range. Its state page includes reports from towns such as Auburn, Gorham, West Southport, Harmony and Augusta, with short summaries ranging from vague enquiries about local sightings to a retired ship captain’s strange light that was later confirmed as a star. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State ME</span><span class="citation-popover-snippet">Reports for State ME</span></span></span> That example is important: one of the most common sceptical lessons is that a sighting can feel extraordinary at first and still become ordinary after checking sky position, movement and timing.
+NUFORC’s Maine index illustrates the range. Its state page includes reports from towns such as Auburn, Gorham, West Southport, Harmony and Augusta, with short summaries ranging from vague enquiries about local sightings to a retired ship captain’s strange light that was later confirmed as a star.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State ME</span><span class="citation-popover-snippet">Reports for State ME</span></span></span> That example is important: one of the most common sceptical lessons is that a sighting can feel extraordinary at first and still become ordinary after checking sky position, movement and timing.
 
 <img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-Illustration-1-dark.svg" | relative_url }}" alt="Sceptical Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Astronomical and atmospheric causes
 
 The simplest explanations often involve the sky doing exactly what it normally does, but in a context that makes it look unfamiliar. Bright planets, meteors, [fireballs]({{ 'fireballs/' | relative_url }}), the Moon behind thin cloud, aurora-like glows, ice-crystal effects and reflections over water can all become “UFOs” when seen unexpectedly.
 
-Meteors are a particularly good example for Maine because they can produce a sudden, dramatic, multi-state event. In December 2017, the American Meteor Society confirmed a fireball seen across parts of Maine, New Hampshire, Vermont, New York, Massachusetts, Rhode Island, Connecticut and Pennsylvania, with more than 180 witness reports. The event lasted only seconds, yet for an individual observer such a bright fireball can feel rare, startling and difficult to identify in the moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Meteor Soars Across Northeast Skies, Dazzles New England &#124; TIME</span><span class="citation-popover-snippet">Meteor Soars Across Northeast Skies, Dazzles New England &#124; TIME</span></span></span>
+Meteors are a particularly good example for Maine because they can produce a sudden, dramatic, multi-state event. In December 2017, the American Meteor Society confirmed a fireball seen across parts of Maine, New Hampshire, Vermont, New York, Massachusetts, Rhode Island, Connecticut and Pennsylvania, with more than 180 witness reports. The event lasted only seconds, yet for an individual observer such a bright fireball can feel rare, startling and difficult to identify in the moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Meteor Soars Across Northeast Skies, Dazzles New England &#124; TIME</span><span class="citation-popover-snippet">Meteor Soars Across Northeast Skies, Dazzles New England &#124; TIME</span></span></span>
 
-Atmospheric optics can be just as misleading because they often appear as structured light rather than as a moving object. The US National Weather Service explains that halos form when sunlight or moonlight refracts through ice crystals in cirrus clouds, that sundogs appear as coloured bright spots about 22 degrees from the Sun, and that sun pillars look like vertical shafts of light near sunrise or sunset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service What Causes Halos, Sundogs and Sun Pillars?</span><span class="citation-popover-snippet">National Weather Service What Causes Halos, Sundogs and Sun Pillars?</span></span></span> In a cold northern state, especially in winter or around low Sun angles, these effects can look artificial to someone who has never seen them before.
+Atmospheric optics can be just as misleading because they often appear as structured light rather than as a moving object. The US National Weather Service explains that halos form when sunlight or moonlight refracts through ice crystals in cirrus clouds, that sundogs appear as coloured bright spots about 22 degrees from the Sun, and that sun pillars look like vertical shafts of light near sunrise or sunset.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service What Causes Halos, Sundogs and Sun Pillars?</span><span class="citation-popover-snippet">National Weather Service What Causes Halos, Sundogs and Sun Pillars?</span></span></span> In a cold northern state, especially in winter or around low Sun angles, these effects can look artificial to someone who has never seen them before.
 
 Maine’s coast adds another complication: reflections and distance errors. A light from a boat, aircraft, lighthouse, harbour installation or distant vehicle can seem to hover over water when there is no clear foreground object for scale. Over lakes and wilderness areas, the same problem appears with aircraft lights seen through gaps in trees, planets low on the horizon, or a bright object reflected in rippled water. A sceptical analysis does not have to prove that every coastal or lake sighting is a reflection; it only needs to show that many reports lack enough positional evidence to rule that out.
 
@@ -298,11 +298,11 @@ Maine’s coast adds another complication: reflections and distance errors. A li
 
 Modern satellite traffic has changed the UFO landscape. A line of bright points crossing the sky after sunset may look like formation flight; a satellite flare may appear suddenly, brighten, vanish and seem to “respond” to the viewer; a rocket exhaust plume can form a glowing cloud or spiral that is unlike an ordinary aircraft trail. These effects are especially noticeable in dark-sky regions, which means Maine’s good viewing conditions can increase both genuine skywatching pleasure and misidentification risk.
 
-The strongest current official and technical work points to this same issue. AARO, the US government’s All-domain Anomaly Resolution Office, lists satellite flaring as a known source of UAP confusion and describes it as sunlight reflecting from satellite surfaces such as antennas or solar panels. Its records page specifically says such specular and diffuse reflections from man-made satellites can be misinterpreted as UAP, and it provides a method for observers to test whether a sighting may be due to satellite flaring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
+The strongest current official and technical work points to this same issue. AARO, the US government’s All-domain Anomaly Resolution Office, lists satellite flaring as a known source of UAP confusion and describes it as sunlight reflecting from satellite surfaces such as antennas or solar panels. Its records page specifically says such specular and diffuse reflections from man-made satellites can be misinterpreted as UAP, and it provides a method for observers to test whether a sighting may be due to satellite flaring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
 
-A 2024 technical case study on Starlink misidentification made the same point in an aviation setting. The authors reconstructed an incident in which five pilots on two commercial flights reported a UAP over the Pacific, using satellite orbital data and aircraft tracking to show how a recently launched Starlink train could account for the observations. Their broader conclusion was not that every UAP is Starlink, but that satellite illumination geometry can produce unfamiliar, apparently anomalous sights even for trained observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A 2024 technical case study on Starlink misidentification made the same point in an aviation setting. The authors reconstructed an incident in which five pilots on two commercial flights reported a UAP over the Pacific, using satellite orbital data and aircraft tracking to show how a recently launched Starlink train could account for the observations. Their broader conclusion was not that every UAP is Starlink, but that satellite illumination geometry can produce unfamiliar, apparently anomalous sights even for trained observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Aircraft create a different kind of confusion. A plane flying towards an observer can seem stationary for several minutes before its angle changes. Landing lights can appear brighter than expected. Navigation lights can suggest a triangle or line. Military, medical, cargo and private aircraft may fly at times or routes that a local observer does not expect. Drones add another layer because they can hover, move silently at a distance, change brightness and fly in small groups. AARO has reported resolving many UAP cases as ordinary objects including balloons, birds, drones, satellites and aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-8 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
+Aircraft create a different kind of confusion. A plane flying towards an observer can seem stationary for several minutes before its angle changes. Landing lights can appear brighter than expected. Navigation lights can suggest a triangle or line. Military, medical, cargo and private aircraft may fly at times or routes that a local observer does not expect. Drones add another layer because they can hover, move silently at a distance, change brightness and fly in small groups. AARO has reported resolving many UAP cases as ordinary objects including balloons, birds, drones, satellites and aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-8 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 For Maine, the practical sceptical question is therefore not “could the witness recognise an aeroplane?” Many could. The better question is “could the witness identify the object’s distance, height, speed and path well enough to exclude aircraft, satellites or drones?” In most short reports, the answer is no.
 
@@ -312,13 +312,13 @@ For Maine, the practical sceptical question is therefore not “could the witnes
 
 The psychology of UFO reporting is not an accusation against witnesses. It is a recognition that perception and memory are not recording devices. People judge speed by apparent motion, size by assumed distance, and significance by context. A silent light over a dark lake can feel closer than it is; a bright planet glimpsed through moving cloud can seem to move; a satellite flare can look like an object switching itself on and off.
 
-Memory also changes after the event. The first account may be cautious, but later retellings can become sharper, more structured and more confident, especially when witnesses compare notes, read UFO material, watch documentaries or speak to investigators who already favour an extraordinary interpretation. NASA’s UAP work has stressed this core data problem: there are many accounts, but a limited number of high-quality observations, making firm scientific conclusions difficult. The agency’s 2023 UAP release emphasised calibrated data, multiple measurements and sensor metadata as the route to better future analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span></span></span>
+Memory also changes after the event. The first account may be cautious, but later retellings can become sharper, more structured and more confident, especially when witnesses compare notes, read UFO material, watch documentaries or speak to investigators who already favour an extraordinary interpretation. NASA’s UAP work has stressed this core data problem: there are many accounts, but a limited number of high-quality observations, making firm scientific conclusions difficult. The agency’s 2023 UAP release emphasised calibrated data, multiple measurements and sensor metadata as the route to better future analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span></span></span>
 
 The Allagash Wilderness case shows how this issue plays out in Maine’s most famous UFO story. The core claim began with four men on a 1976 canoe trip reporting a strange light near Eagle Lake. The more dramatic abduction narrative developed years later through nightmares, UFO interest and hypnotic regression. That delay and method matter because memory recovered through hypnosis is not treated by sceptical psychologists as strong historical evidence.
 
-Research on alien-abduction memories supports caution. A study indexed by PubMed found that people reporting recovered memories of alien abduction were more prone than control participants to false recall and false recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> More broadly, the American Psychological Association has described hypnosis and memory as complicated rather than automatically reliable, noting that it is not clear when hypnosis produces accurate recall and when it does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/monitor/2011/01/hypnosis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research on alien-abduction memories supports caution. A study indexed by PubMed found that people reporting recovered memories of alien abduction were more prone than control participants to false recall and false recognition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> More broadly, the American Psychological Association has described hypnosis and memory as complicated rather than automatically reliable, noting that it is not clear when hypnosis produces accurate recall and when it does not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/monitor/2011/01/hypnosis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That does not prove that the Allagash witnesses lied about seeing a light. It does weaken the evidential value of later, highly detailed abduction memories. Chuck Rak’s later doubts and reported rejection of the abduction element further reduced the case’s reliability, even though other participants continued to stand by their account. Local reporting in 2016 described Rak as challenging the abduction narrative and saying his hypnosis experience did not produce the same detailed recall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecounty.me/2016/09/21/community/how-much-of-1976-ufo-abduction-is-true/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecounty.me">[The County]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecounty.me</span><span class="citation-popover-title">how much of 1976 ufo abduction is true</span><span class="citation-popover-snippet">how much of 1976 ufo abduction is true</span></span></span>
+That does not prove that the Allagash witnesses lied about seeing a light. It does weaken the evidential value of later, highly detailed abduction memories. Chuck Rak’s later doubts and reported rejection of the abduction element further reduced the case’s reliability, even though other participants continued to stand by their account. Local reporting in 2016 described Rak as challenging the abduction narrative and saying his hypnosis experience did not produce the same detailed recall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thecounty.me/2016/09/21/community/how-much-of-1976-ufo-abduction-is-true/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecounty.me">[The County]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecounty.me</span><span class="citation-popover-title">how much of 1976 ufo abduction is true</span><span class="citation-popover-snippet">how much of 1976 ufo abduction is true</span></span></span>
 
 <img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-Illustration-2-dark.svg" | relative_url }}" alt="Sceptical Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Allagash case as a sceptical test
@@ -347,9 +347,9 @@ A fair conclusion is that Allagash remains culturally significant within Maine U
 
 Recent US government and NASA work has not proved alien visitation; it has made the investigation of unusual reports more disciplined. The useful shift is methodological. Instead of asking whether a story sounds sincere or dramatic, investigators increasingly ask what data exists, what ordinary objects were in the sky, what sensors recorded, and whether the observation can be reconstructed.
 
-AARO says it uses a rigorous scientific and data-driven approach, and its public material points readers towards common causes, reporting trends and case-resolution work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span> In its 2024 public discussion, AARO stated that it had resolved hundreds of cases as balloons, birds, drones, satellites and aircraft, while more than 900 reports lacked enough scientific data for analysis and remained in an active archive. It also said it had found no verifiable evidence of extraterrestrial beings, activity or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-8 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
+AARO says it uses a rigorous scientific and data-driven approach, and its public material points readers towards common causes, reporting trends and case-resolution work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span> In its 2024 public discussion, AARO stated that it had resolved hundreds of cases as balloons, birds, drones, satellites and aircraft, while more than 900 reports lacked enough scientific data for analysis and remained in an active archive. It also said it had found no verifiable evidence of extraterrestrial beings, activity or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-8 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
-NASA’s position is similar in spirit. Its 2023 UAP work did not review old cases such as Allagash; instead, it recommended better future data collection, open scientific methods, artificial intelligence and machine learning, and broader citizen and pilot reporting to build more reliable datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">uap independent study team final report</span><span class="citation-popover-snippet">uap independent study team final report</span></span></span> For Maine, that means the most useful future sighting reports would include exact time, location, direction, elevation, duration, weather, photographs or video, and checks against aircraft and satellite trackers.
+NASA’s position is similar in spirit. Its 2023 UAP work did not review old cases such as Allagash; instead, it recommended better future data collection, open scientific methods, artificial intelligence and machine learning, and broader citizen and pilot reporting to build more reliable datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">uap independent study team final report</span><span class="citation-popover-snippet">uap independent study team final report</span></span></span> For Maine, that means the most useful future sighting reports would include exact time, location, direction, elevation, duration, weather, photographs or video, and checks against aircraft and satellite trackers.
 
 This approach also gives sceptics and believers a shared standard. A report should not be dismissed just because it sounds strange, but it should not be elevated just because it is sincere. The best Maine cases will be those with multiple independent observers, precise timing, instrument data and clear elimination of aircraft, satellites, drones, astronomical bodies and weather effects.
 
@@ -385,269 +385,269 @@ Some cases will remain unresolved because the information is too thin. “Unreso
 The most defensible sceptical conclusion is therefore modest: Maine has a rich UFO-reporting history, but the scientific burden has not been met for claims of alien craft or abduction. The state’s most famous case is weakened by delayed hypnotic recall and later dispute, while many routine sightings fit known patterns of satellites, aircraft, meteors, atmospheric optics and perception. The mystery that remains is real, but often it is a mystery about observation, evidence and interpretation rather than proof of something beyond Earth.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Many Maine UFOs Can Be Explained Scientifically. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Many Maine UFOs Can Be Explained Scientifically. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides case material useful for scientific evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides case material useful for scientific evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Focuses on conventional explanations for UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on conventional explanations for UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports scientific evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports scientific evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why people perceive patterns and mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people perceive patterns and mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-analysis-why-many-maine-ufos-can-be-explained-scientifically-maine-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -663,7 +663,7 @@ The most defensible sceptical conclusion is therefore modest: Maine has a rich U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -683,7 +683,7 @@ The most defensible sceptical conclusion is therefore modest: Maine has a rich U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -715,7 +715,7 @@ The most defensible sceptical conclusion is therefore modest: Maine has a rich U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -745,7 +745,7 @@ The most defensible sceptical conclusion is therefore modest: Maine has a rich U
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -803,198 +803,198 @@ The most defensible sceptical conclusion is therefore modest: Maine has a rich U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wgme.com  
    Title: Maine UFO sightings sharply decline this year  
-   Link: <a href="https://wgme.com/news/local/maine-ufo-sightings-sharply-decline-this-year" target="_blank" rel="noopener noreferrer nofollow">https://wgme.com/news/local/maine-ufo-sightings-sharply-decline-this-year</a>  
+   Link:<a href="https://wgme.com/news/local/maine-ufo-sightings-sharply-decline-this-year" target="_blank" rel="noopener noreferrer nofollow">https://wgme.com/news/local/maine-ufo-sightings-sharply-decline-this-year</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports for State ME  
-   Link: <a href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lME</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lME</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: Meteor Soars Across Northeast Skies, Dazzles New England | TIME  
-   Link: <a href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5080205/meteor-new-england-northeast/</a>  
+   Link:<a href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5080205/meteor-new-england-northeast/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
    Title: National Weather Service What Causes Halos, Sundogs and Sun Pillars?  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: UPDATE: NASA Shares UAP Independent Study Report; Names Director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=154602" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154602</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=154602" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154602</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=156577" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156577</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=156577" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156577</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/2018posts/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2018posts/</a>  
+   Link:<a href="https://nuforc.org/2018posts/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2018posts/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=75525" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75525</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=75525" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75525</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=147928" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=147928</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=147928" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=147928</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wgme.com  
    Title: rocket fuel behind ufo sighting reports in maine european space agency ariane 6  
-   Link: <a href="https://wgme.com/news/local/rocket-fuel-behind-ufo-sighting-reports-in-maine-european-space-agency-ariane-6" target="_blank" rel="noopener noreferrer nofollow">https://wgme.com/news/local/rocket-fuel-behind-ufo-sighting-reports-in-maine-european-space-agency-ariane-6</a>  
+   Link:<a href="https://wgme.com/news/local/rocket-fuel-behind-ufo-sighting-reports-in-maine-european-space-agency-ariane-6" target="_blank" rel="noopener noreferrer nofollow">https://wgme.com/news/local/rocket-fuel-behind-ufo-sighting-reports-in-maine-european-space-agency-ariane-6</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/monitor/2011/01/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2011/01/hypnosis</a>  
+   Link:<a href="https://www.apa.org/monitor/2011/01/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2011/01/hypnosis</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thecounty.me  
    Title: how much of 1976 ufo abduction is true  
-   Link: <a href="https://thecounty.me/2016/09/21/community/how-much-of-1976-ufo-abduction-is-true/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/21/community/how-much-of-1976-ufo-abduction-is-true/</a>  
+   Link:<a href="https://thecounty.me/2016/09/21/community/how-much-of-1976-ufo-abduction-is-true/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/21/community/how-much-of-1976-ufo-abduction-is-true/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dash.harvard.edu  
    Title: alien abduction  
-   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
+   Link:<a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thecounty.me  
    Title: how much of a famed 1976 ufo abduction is true 4  
-   Link: <a href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/</a>  
+   Link:<a href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thecounty.me  
    Title: how much of a famed ufo abduction is true  
-   Link: <a href="https://thecounty.me/2016/09/28/caribou/how-much-of-a-famed-ufo-abduction-is-true/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/28/caribou/how-much-of-a-famed-ufo-abduction-is-true/</a>  
+   Link:<a href="https://thecounty.me/2016/09/28/caribou/how-much-of-a-famed-ufo-abduction-is-true/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/28/caribou/how-much-of-a-famed-ufo-abduction-is-true/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kWz2t_DSK8o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWz2t_DSK8o</a>  
+   Link:<a href="https://www.youtube.com/watch?v=kWz2t_DSK8o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWz2t_DSK8o</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nspb.net  
-   Link: <a href="https://www.nspb.net/index.php/nspb/article/view/288" target="_blank" rel="noopener noreferrer nofollow">https://www.nspb.net/index.php/nspb/article/view/288</a>  
+   Link:<a href="https://www.nspb.net/index.php/nspb/article/view/288" target="_blank" rel="noopener noreferrer nofollow">https://www.nspb.net/index.php/nspb/article/view/288</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Four Men Abducted on a Lake? The Allagash Abductions | That Chapter Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=GrDOo7UY6Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GrDOo7UY6Fk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Encounter: A TERRIFYING UFO Abduction Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GrDOo7UY6Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GrDOo7UY6Fk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Encounter: A TERRIFYING UFO Abduction Story...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: UFO sightings in Maine are 'way up' despite official count, says expert  
-   Link: <a href="https://www.youtube.com/watch?v=qa9ZiG2mgaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qa9ZiG2mgaY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maine ranks in the top 5 for most UFO sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qa9ZiG2mgaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qa9ZiG2mgaY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maine ranks in the top 5 for most UFO sightings...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Maine ranks in the top 5 for most UFO sightings  
-   Link: <a href="https://www.youtube.com/watch?v=hDLSiYAkpJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hDLSiYAkpJU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four Men Abducted on a Lake? The Allagash Abductions | That Chapter Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hDLSiYAkpJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hDLSiYAkpJU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Four Men Abducted on a Lake? The Allagash Abductions | That Chapter Podcast...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/</a>  
+   Link:<a href="https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
+   Link:<a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News8/posts/a-rare-fireball-was-spotted-in-the-sky-over-the-eastern-us/1366625732169238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News8/posts/a-rare-fireball-was-spotted-in-the-sky-over-the-eastern-us/1366625732169238/</a>  
+   Link:<a href="https://www.facebook.com/News8/posts/a-rare-fireball-was-spotted-in-the-sky-over-the-eastern-us/1366625732169238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News8/posts/a-rare-fireball-was-spotted-in-the-sky-over-the-eastern-us/1366625732169238/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/a-strange-spiral-of-light-lit-up-the-night-sky-over-maine-after-a-rocket-launch-/1207314027919908/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/a-strange-spiral-of-light-lit-up-the-night-sky-over-maine-after-a-rocket-launch-/1207314027919908/</a>  
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/a-strange-spiral-of-light-lit-up-the-night-sky-over-maine-after-a-rocket-launch-/1207314027919908/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/a-strange-spiral-of-light-lit-up-the-night-sky-over-maine-after-a-rocket-launch-/1207314027919908/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>  
+   Link:<a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal</a>
+   Link:<a href="https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal</a>

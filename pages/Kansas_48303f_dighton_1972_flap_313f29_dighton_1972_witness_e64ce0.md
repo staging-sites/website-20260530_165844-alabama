@@ -250,20 +250,20 @@ image: /assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witnes
 
 ## Introduction
 
-During the 1972 UFO wave centred on Dighton and the surrounding plains of western Kansas, the most striking material did not come only from police chases or newspaper headlines. It also came from ordinary residents describing what they believed they had seen, heard, smelled, and physically felt during encounters with unusual lights. Farmers, motorists, teenagers, and families reported hovering glows over roads and fields, lights that appeared to react to approaching vehicles, and experiences that left witnesses shaken long after the sightings ended. Contemporary reporting emphasised how widespread the conversations became in rural communities where unusual events were normally discussed cautiously rather than publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+During the 1972 UFO wave centred on Dighton and the surrounding plains of western Kansas, the most striking material did not come only from police chases or newspaper headlines. It also came from ordinary residents describing what they believed they had seen, heard, smelled, and physically felt during encounters with unusual lights. Farmers, motorists, teenagers, and families reported hovering glows over roads and fields, lights that appeared to react to approaching vehicles, and experiences that left witnesses shaken long after the sightings ended. Contemporary reporting emphasised how widespread the conversations became in rural communities where unusual events were normally discussed cautiously rather than publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-1-dark.svg" | relative_url }}" alt="Witness Accounts illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The accounts varied in reliability and detail, and many were never formally investigated beyond local interviews. Even so, the sensory reports became an important part of Kansas UFO history because they moved beyond simple “lights in the sky” observations. Witnesses described brightness changes, silence, strange odours, bodily unease, and emotional reactions that they struggled to compare with normal aircraft or astronomical objects. Those reports helped turn the 1972 Dighton wave into one of the state’s best remembered UFO episodes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+The accounts varied in reliability and detail, and many were never formally investigated beyond local interviews. Even so, the sensory reports became an important part of Kansas UFO history because they moved beyond simple “lights in the sky” observations. Witnesses described brightness changes, silence, strange odours, bodily unease, and emotional reactions that they struggled to compare with normal aircraft or astronomical objects. Those reports helped turn the 1972 Dighton wave into one of the state’s best remembered UFO episodes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
 ## Civilians Described Lights That Seemed Responsive
 
-Many western Kansas witnesses described the lights as behaving less like distant aircraft and more like objects aware of nearby observers. Reports commonly mentioned glowing red-orange or white lights hovering low over fields or roads before suddenly moving away when pursued. Local police accounts received most of the publicity, but civilian testimony repeated similar themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+Many western Kansas witnesses described the lights as behaving less like distant aircraft and more like objects aware of nearby observers. Reports commonly mentioned glowing red-orange or white lights hovering low over fields or roads before suddenly moving away when pursued. Local police accounts received most of the publicity, but civilian testimony repeated similar themes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
-Residents around Dighton said lights sometimes remained stationary for long periods before accelerating rapidly once cars approached. Others claimed the objects paced vehicles along isolated roads. In a region with little air traffic and extremely dark skies, such behaviour stood out sharply against everyday experience. Farmers and rural drivers were accustomed to recognising aircraft lights, distant towers, meteors, and vehicle headlights across the plains, which is one reason many witnesses insisted they were not merely misidentifying ordinary objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+Residents around Dighton said lights sometimes remained stationary for long periods before accelerating rapidly once cars approached. Others claimed the objects paced vehicles along isolated roads. In a region with little air traffic and extremely dark skies, such behaviour stood out sharply against everyday experience. Farmers and rural drivers were accustomed to recognising aircraft lights, distant towers, meteors, and vehicle headlights across the plains, which is one reason many witnesses insisted they were not merely misidentifying ordinary objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
-Some reports became more dramatic as retellings spread through the community. Witnesses spoke of lights approaching within a few hundred feet of vehicles before abruptly retreating or disappearing. Others described lights splitting apart, changing intensity, or shifting colour while hovering silently. The consistency of these broad themes across multiple reports helped sustain public interest, even though individual sightings often lacked photographs or independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+Some reports became more dramatic as retellings spread through the community. Witnesses spoke of lights approaching within a few hundred feet of vehicles before abruptly retreating or disappearing. Others described lights splitting apart, changing intensity, or shifting colour while hovering silently. The consistency of these broad themes across multiple reports helped sustain public interest, even though individual sightings often lacked photographs or independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
-At the same time, sceptics argued that western Kansas geography could exaggerate unusual visual impressions. The flat High Plains landscape allows distant headlights, aircraft, stars near the horizon, and atmospheric distortions to appear unusually vivid. Mirage effects and depth-perception problems on dark rural roads may also have contributed to impressions that lights were following or retreating from observers. Those explanations did not settle the matter locally, but they formed part of the continuing debate around the sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
+At the same time, sceptics argued that western Kansas geography could exaggerate unusual visual impressions. The flat High Plains landscape allows distant headlights, aircraft, stars near the horizon, and atmospheric distortions to appear unusually vivid. Mirage effects and depth-perception problems on dark rural roads may also have contributed to impressions that lights were following or retreating from observers. Those explanations did not settle the matter locally, but they formed part of the continuing debate around the sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eY8Ju19VT9I" title="The Proof Is Out There: SILVER UFO CAUGHT ON TAPE IN KANSAS (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eY8Ju19VT9I" target="_blank" rel="noopener noreferrer">The Proof Is Out There: SILVER UFO CAUGHT ON TAPE IN KANSAS (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 464.1K &middot; Uploaded: October 2021 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eY8Ju19VT9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eY8Ju19VT9I">Open on YouTube</a></p></div></div></div>
 
@@ -271,20 +271,20 @@ At the same time, sceptics argued that western Kansas geography could exaggerate
 
 What separated some Dighton-area accounts from more routine UFO reports were the sensory details attached to them. Witnesses occasionally described unusual smells near sighting locations, although accounts differed on exactly what the odours resembled. Some compared them to burning electrical equipment or ozone-like air after storms. These reports were fragmentary and often emerged later through interviews rather than contemporaneous police records, making them difficult to verify independently.
 
-Several residents also described an unsettling silence surrounding close observations of the lights. In rural Kansas, background noise typically included wind, insects, distant engines, or livestock. Witnesses who expected helicopter or aircraft sounds instead reported either complete silence or only faint humming. Such descriptions reinforced the impression among believers that the objects did not behave like conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+Several residents also described an unsettling silence surrounding close observations of the lights. In rural Kansas, background noise typically included wind, insects, distant engines, or livestock. Witnesses who expected helicopter or aircraft sounds instead reported either complete silence or only faint humming. Such descriptions reinforced the impression among believers that the objects did not behave like conventional aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
 Physical sensations were another recurring theme. Some witnesses described feelings of nervousness, pressure, dizziness, or temporary disorientation during encounters. Others simply spoke of fear or shock intense enough that they avoided isolated roads afterwards. These reactions do not necessarily confirm anything extraordinary; emotional stress, darkness, fatigue, and surprise can all intensify bodily sensations. Still, the persistence of such reports became part of the [folklore]({{ 'folklore/' | relative_url }}) surrounding the 1972 wave.
 
-The sensory language used by witnesses also reflected the wider UFO culture of the early 1970s. By that period, national reporting on UFOs frequently included claims about electromagnetic effects, strange odours, paralysis, or psychological reactions. Some researchers later argued that witnesses may have unconsciously framed experiences using patterns already circulating in newspapers and television discussions. That possibility complicates efforts to separate direct observation from culturally shaped interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
+The sensory language used by witnesses also reflected the wider UFO culture of the early 1970s. By that period, national reporting on UFOs frequently included claims about electromagnetic effects, strange odours, paralysis, or psychological reactions. Some researchers later argued that witnesses may have unconsciously framed experiences using patterns already circulating in newspapers and television discussions. That possibility complicates efforts to separate direct observation from culturally shaped interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-2-dark.svg" | relative_url }}" alt="Witness Accounts illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Plains Environment Shaped the Sightings
 
-Western Kansas itself played an important role in how witnesses experienced the 1972 wave. The region’s open terrain gave residents exceptionally long sightlines across fields and highways. A light visible for miles could appear suspended in empty darkness with few reference points for judging size, distance, or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
+Western Kansas itself played an important role in how witnesses experienced the 1972 wave. The region’s open terrain gave residents exceptionally long sightlines across fields and highways. A light visible for miles could appear suspended in empty darkness with few reference points for judging size, distance, or speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
 
 The area also had relatively little light pollution in the early 1970s. Residents spent substantial time outdoors at night during farming and ranching work, increasing opportunities to notice unusual aerial phenomena. This environment made western Kansas especially receptive to extended observation and discussion of strange lights.
 
-Local weather conditions may have added to the confusion. Temperature inversions, dust, haze, and atmospheric refraction can distort the apparent movement and brightness of distant lights. Sceptical investigators later suggested that some reports may have involved stars near the horizon, aircraft viewed under unusual atmospheric conditions, or reflections from vehicles travelling across the plains. Yet witnesses often rejected those explanations because they believed the lights demonstrated intelligent or reactive movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
+Local weather conditions may have added to the confusion. Temperature inversions, dust, haze, and atmospheric refraction can distort the apparent movement and brightness of distant lights. Sceptical investigators later suggested that some reports may have involved stars near the horizon, aircraft viewed under unusual atmospheric conditions, or reflections from vehicles travelling across the plains. Yet witnesses often rejected those explanations because they believed the lights demonstrated intelligent or reactive movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
 
 The contrast between familiar rural surroundings and unfamiliar aerial behaviour intensified the emotional impact. Witnesses were not reporting events from crowded urban settings filled with visual distractions. They were describing experiences on quiet roads, isolated farms, and open prairie landscapes where unexpected lights immediately drew attention.
 
@@ -292,214 +292,214 @@ The contrast between familiar rural surroundings and unfamiliar aerial behaviour
 
 ## How Local Media Turned Experiences Into Community Memory
 
-Newspapers across Kansas amplified the wave by treating sightings as both serious local news and a source of regional fascination. Stories circulated through the Garden City Telegram, Hutchinson News, Wichita papers, and later retrospectives in the Lawrence Journal-World. Reporters interviewed police officers, farmers, and teenagers in language that emphasised ordinary credibility rather than sensational showmanship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+Newspapers across Kansas amplified the wave by treating sightings as both serious local news and a source of regional fascination. Stories circulated through the Garden City Telegram, Hutchinson News, Wichita papers, and later retrospectives in the Lawrence Journal-World. Reporters interviewed police officers, farmers, and teenagers in language that emphasised ordinary credibility rather than sensational showmanship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
-The media coverage helped create a shared community narrative. Residents who might otherwise have kept quiet became more willing to report experiences once neighbours admitted seeing similar things. Vance Ehmke, who later reflected on the period, described western Kansas as filled with conversation about mysterious lights during the summer of 1972. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+The media coverage helped create a shared community narrative. Residents who might otherwise have kept quiet became more willing to report experiences once neighbours admitted seeing similar things. Vance Ehmke, who later reflected on the period, described western Kansas as filled with conversation about mysterious lights during the summer of 1972.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
-Over time, these reports became part of local identity. Dighton acquired a reputation as one of Kansas’s principal UFO hotspots, and later articles revisited the sightings as a curious but memorable chapter in regional history. Retrospective coverage often blended documented reports with oral history, making it difficult to separate firmly sourced testimony from stories polished through decades of retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlyinyourstate.com">[Only In Your State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlyinyourstate.com</span><span class="citation-popover-title">ufo sighting ks</span><span class="citation-popover-snippet">Only In Your StateUFO Sightings In Dighton, KS Made Headlines 50 Years Ago4 Oct 2023 — Dighton, KS is a quiet little city in western Kans...</span></span></span>
+Over time, these reports became part of local identity. Dighton acquired a reputation as one of Kansas’s principal UFO hotspots, and later articles revisited the sightings as a curious but memorable chapter in regional history. Retrospective coverage often blended documented reports with oral history, making it difficult to separate firmly sourced testimony from stories polished through decades of retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlyinyourstate.com">[Only In Your State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlyinyourstate.com</span><span class="citation-popover-title">ufo sighting ks</span><span class="citation-popover-snippet">Only In Your StateUFO Sightings In Dighton, KS Made Headlines 50 Years Ago4 Oct 2023 — Dighton, KS is a quiet little city in western Kans...</span></span></span>
 
 That process matters when assessing the reliability of the sensory accounts. Contemporary reports usually focused on visible lights and police pursuit narratives. More elaborate descriptions involving smells, bodily sensations, or intense emotional reactions often became more prominent in later retellings. Historians of UFO culture note that this pattern is common in long-lived flap stories, where memory, folklore, and media repetition gradually reshape how events are remembered.
 
 <img src="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-3-dark.svg" | relative_url }}" alt="Witness Accounts illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_1972_witness_e64ce0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Witness Accounts Still Mean in Kansas UFO History
 
-The 1972 Dighton wave remains important in Kansas UFO history less because of definitive evidence and more because of the breadth of community participation. The episode involved police officers, families, farmers, and motorists rather than a single isolated witness. The combination of visual sightings and sensory impressions gave the reports unusual emotional force within local memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
+The 1972 Dighton wave remains important in Kansas UFO history less because of definitive evidence and more because of the breadth of community participation. The episode involved police officers, families, farmers, and motorists rather than a single isolated witness. The combination of visual sightings and sensory impressions gave the reports unusual emotional force within local memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span>
 
 No decisive explanation ever unified all the accounts. Some sightings may well have involved ordinary aircraft, astronomical objects, or misperceptions amplified by the conditions of the High Plains at night. Others remain too poorly documented to evaluate confidently. Yet the witness testimony still illustrates how UFO waves develop socially: once unusual experiences begin circulating through a close-knit rural region, reports can spread rapidly and acquire additional layers of interpretation.
 
-For Kansas historians and UFO researchers alike, the Dighton accounts are valuable partly because they capture how ordinary people reacted in real time to events they could not easily explain. Whether interpreted as misidentified lights, psychologically intensified experiences, or genuinely anomalous phenomena, the eyewitness reports reveal the atmosphere of uncertainty and fascination that surrounded western Kansas during the remarkable summer of 1972. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
+For Kansas historians and UFO researchers alike, the Dighton accounts are valuable partly because they capture how ordinary people reacted in real time to events they could not easily explain. Whether interpreted as misidentified lights, psychologically intensified experiences, or genuinely anomalous phenomena, the eyewitness reports reveal the atmosphere of uncertainty and fascination that surrounded western Kansas during the remarkable summer of 1972.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salamancapress.com">[Salamanca Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salamancapress.com</span><span class="citation-popover-title">ufo sightings once common in rural kansas</span><span class="citation-popover-snippet">DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7byEMoFezRQ" title="The 1971 Delphos, Kansas, UFO landing with physical evidence, witnessed by 15-year-old Ron Johnson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7byEMoFezRQ" target="_blank" rel="noopener noreferrer">The 1971 Delphos, Kansas, UFO landing with physical evidence, witnessed by 15-year-old Ron Johnson</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 19.9K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7byEMoFezRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7byEMoFezRQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Kansas Residents Experienced During the 1972 Dighton UFO Wave. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Kansas Residents Experienced During the 1972 Dighton UFO Wave. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects witness narratives with broader folklore patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects witness narratives with broader folklore patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores witness experiences, perceptions, and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness experiences, perceptions, and encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Strong fit for analyzing civilian reports and encounter narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for analyzing civilian reports and encounter narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Focuses on subjective encounter experiences and reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on subjective encounter experiences and reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-kansas-residents-experienced-during-the-1972-dighton-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ For Kansas historians and UFO researchers alike, the Dighton accounts are valuab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ For Kansas historians and UFO researchers alike, the Dighton accounts are valuab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ For Kansas historians and UFO researchers alike, the Dighton accounts are valuab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ For Kansas historians and UFO researchers alike, the Dighton accounts are valuab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ For Kansas historians and UFO researchers alike, the Dighton accounts are valuab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,100 +705,100 @@ For Kansas historians and UFO researchers alike, the Dighton accounts are valuab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: www2.ljworld.com  
    Title: dighton recalls ufo sightings 1972  
-   Link: <a href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow">https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>recalls UFO sightings of 1972 | News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</p></details>
+   Link:<a href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow">https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recalls UFO sightings of 1972 | News, Sports, Jobs29 Aug 2010 — The year was 1972, and Kansas was a hotbed of UFO sightings. In fact, the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Lubbock Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Val Johnson incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Val_Johnson_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Val Johnson incidentThe Val Johnson Incident is an alleged UFO encounter by Marshall County, Minnesota Deputy Sheriff Val Johnson in 1...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Val_Johnson_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Val Johnson incidentThe Val Johnson Incident is an alleged UFO encounter by Marshall County, Minnesota Deputy Sheriff Val Johnson in 1...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: salamancapress.com  
    Title: ufo sightings once common in rural kansas  
-   Link: <a href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow">https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</p></details>
+   Link:<a href="https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/" target="_blank" rel="noopener noreferrer nofollow">https://www.salamancapress.com/2010/08/20/ufo-sightings-once-common-in-rural-kansas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIGHTON, Kan. (AP) — One can see for miles across the flat High Plains. There are few houses. Few...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlyinyourstate.com  
    Title: ufo sighting ks  
-   Link: <a href="https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Only In Your StateUFO Sightings In Dighton, KS Made Headlines 50 Years Ago4 Oct 2023 — Dighton, KS is a quiet little city in western Kans...</p></details>
+   Link:<a href="https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Only In Your StateUFO Sightings In Dighton, KS Made Headlines 50 Years Ago4 Oct 2023 — Dighton, KS is a quiet little city in western Kans...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Delphos Kansas UFO sighting 1971 eyewitness accounts The 1971 Delphos, Kansas, UFO landing with physical evidence, witnessed by 15-year-o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delphos Kansas UFO sighting 1971 eyewitness accounts The 1971 Delphos, Kansas, UFO landing with physical evidence, witnessed by 15-year-o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kansasreflector.com  
-   Link: <a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kansas ReflectorAt the &#x27;UFO capital of Kansas,&#x27; a celebration of the weird...29 Oct 2023 — The humanoid aliens were attracted to the wat...</p></details>
+   Link:<a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kansas ReflectorAt the &#x27;UFO capital of Kansas,&#x27; a celebration of the weird...29 Oct 2023 — The humanoid aliens were attracted to the wat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: did you know about the dighton ufo sightings  
-   Link: <a href="https://www.facebook.com/kansasonly/posts/did-you-know-about-the-dighton-ufo-sightings/712540237582105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kansasonly/posts/did-you-know-about-the-dighton-ufo-sightings/712540237582105/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?11 Oct 2023 — Did you know about the Dighton UFO sightings? 50 Years Ago, This Small Kansas Town Was A Hotbed Of UFO Sightings.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/kansasonly/posts/did-you-know-about-the-dighton-ufo-sightings/712540237582105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kansasonly/posts/did-you-know-about-the-dighton-ufo-sightings/712540237582105/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?11 Oct 2023 — Did you know about the Dighton UFO sightings? 50 Years Ago, This Small Kansas Town Was A Hotbed Of UFO Sightings.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1izphlv/help_me_explain_these_strange_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1izphlv/help_me_explain_these_strange_lights_in_the_sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0:37. 88. 35. UFO Sightings and Alien Abduction in Kansas 60s-70s &amp;middot; r/UFOs. •...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1izphlv/help_me_explain_these_strange_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1izphlv/help_me_explain_these_strange_lights_in_the_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0:37. 88. 35. UFO Sightings and Alien Abduction in Kansas 60s-70s &amp;middot; r/UFOs. •...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: SILVER UFO CAUGHT ON TAPE IN KANSAS (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=eY8Ju19VT9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eY8Ju19VT9I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eY8Ju19VT9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eY8Ju19VT9I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blog.britishnewspaperarchive.co.uk  
    Title: incredible ufo sightings  
-   Link: <a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>britishnewspaperarchive.co.uk10 Incredible UFO Sightings As Reported in Our Archive13 Jul 2022 — As part of space and the stars month on...</p></details>
+   Link:<a href="https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.britishnewspaperarchive.co.uk/2022/07/13/incredible-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>britishnewspaperarchive.co.uk10 Incredible UFO Sightings As Reported in Our Archive13 Jul 2022 — As part of space and the stars month on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: humanitieskansas.org  
    Title: kansas 1972 to the stars  
-   Link: <a href="https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kansas 1972: To the Stars19 May 2022 — And the state was a hotbed of UFO sightings, including notable encounters in Dighton and Delphos...</p></details>
+   Link:<a href="https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kansas 1972: To the Stars19 May 2022 — And the state was a hotbed of UFO sightings, including notable encounters in Dighton and Delphos...</p></details>
    Published: May 2022  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gbtribune.com  
    Title: out of the morgue 41  
-   Link: <a href="https://www.gbtribune.com/news/local-news/out-of-the-morgue-41/" target="_blank" rel="noopener noreferrer nofollow">https://www.gbtribune.com/news/local-news/out-of-the-morgue-41/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out of the Morgue27 Jul 2016 — ([http://ufodigest.com/article/ufo-sightings-once-common-rural-kansas](http://ufodigest.com/article/ufo-sightings-once-common-rural-kansas)) “The year was 1972 and Kansas was a...</p></details>
+   Link:<a href="https://www.gbtribune.com/news/local-news/out-of-the-morgue-41/" target="_blank" rel="noopener noreferrer nofollow">https://www.gbtribune.com/news/local-news/out-of-the-morgue-41/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out of the Morgue27 Jul 2016 — ([http://ufodigest.com/article/ufo-sightings-once-common-rural-kansas](http://ufodigest.com/article/ufo-sightings-once-common-rural-kansas)) “The year was 1972 and Kansas was a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7byEMoFezRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7byEMoFezRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Greatest UFO Testimony of All Time - Ronnie Johnson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7byEMoFezRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7byEMoFezRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Greatest UFO Testimony of All Time - Ronnie Johnson...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Audio Blog: UFO Trace Evidence in Delphos, Kansas  
-   Link: <a href="https://www.youtube.com/watch?v=9nYjaVGL8KQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9nYjaVGL8KQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: SILVER UFO CAUGHT ON TAPE IN KANSAS (Season 2) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9nYjaVGL8KQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9nYjaVGL8KQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: SILVER UFO CAUGHT ON TAPE IN KANSAS (Season 2) | History...</p></details>

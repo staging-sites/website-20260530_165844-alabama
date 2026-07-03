@@ -262,33 +262,33 @@ image: /assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-overview-social
 
 ## Introduction
 
-The Kingman UFO crash story is one of Arizona’s most persistent saucer legends, but it is not one of the state’s strongest UFO cases. The central claim is that, in May 1953, a secret team was taken to a crash site near Kingman, Arizona, where an intact or near-intact non-human craft and at least one body were recovered. The problem is that the story rests mainly on retrospective testimony gathered about twenty years later, a disputed witness account, second-hand corroboration, and later folklore that has grown more elaborate than the surviving evidence can support. That does not make Kingman irrelevant. It matters because it shows how Arizona’s UFO history is shaped not only by mass sightings such as the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}), but also by desert military geography, Cold War secrecy, nuclear-test-era anxiety, and the way a thinly documented claim can become a local tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+The Kingman UFO crash story is one of Arizona’s most persistent saucer legends, but it is not one of the state’s strongest UFO cases. The central claim is that, in May 1953, a secret team was taken to a crash site near Kingman, Arizona, where an intact or near-intact non-human craft and at least one body were recovered. The problem is that the story rests mainly on retrospective testimony gathered about twenty years later, a disputed witness account, second-hand corroboration, and later folklore that has grown more elaborate than the surviving evidence can support. That does not make Kingman irrelevant. It matters because it shows how Arizona’s UFO history is shaped not only by mass sightings such as the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}), but also by desert military geography, Cold War secrecy, nuclear-test-era anxiety, and the way a thinly documented claim can become a local tradition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
 <img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-overview.webp" | relative_url }}" alt="Overview image for Kingman Legend" loading="eager" decoding="sync" fetchpriority="high">
 ## What the crash-retrieval claim says
 
-The most commonly repeated Kingman version centres on a man later publicly identified as Arthur Stansel, who was given the pseudonym “Fritz Werner” in earlier UFO literature. According to accounts preserved by UFO researcher Raymond Fowler and later summarised by Kevin Randle, Stansel said he was working around the Nevada atomic-test environment when he was sent on a special assignment. In the version Fowler recorded, he was flown from Indian Springs Air Force Base to Phoenix and then taken by bus, with other specialists, towards a desert site near Kingman. There, he said, he saw a disc-like object under military control, examined physical traces in the sand, and saw a small humanoid body in a guarded tent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+The most commonly repeated Kingman version centres on a man later publicly identified as Arthur Stansel, who was given the pseudonym “Fritz Werner” in earlier UFO literature. According to accounts preserved by UFO researcher Raymond Fowler and later summarised by Kevin Randle, Stansel said he was working around the Nevada atomic-test environment when he was sent on a special assignment. In the version Fowler recorded, he was flown from Indian Springs Air Force Base to Phoenix and then taken by bus, with other specialists, towards a desert site near Kingman. There, he said, he saw a disc-like object under military control, examined physical traces in the sand, and saw a small humanoid body in a guarded tent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
-The dates often attached to the story are 20–21 May 1953. That timing has helped keep the case alive because it sits close to Operation Upshot-Knothole, the 1953 Nevada nuclear-test series. The “Harry” shot was detonated at the Nevada Test Site on 19 May 1953, two days before Stansel’s alleged trip, and later became notorious for fallout. The overlap is important because many Kingman retellings link the alleged crash to atomic testing, radar, or military activity in the region, even though the existence of a nuclear test nearby does not by itself verify a crash retrieval. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/9-UPSHOT-KNOTHOLE-2021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtra.mil">[Defense Threat Reduction Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtra.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The dates often attached to the story are 20–21 May 1953. That timing has helped keep the case alive because it sits close to Operation Upshot-Knothole, the 1953 Nevada nuclear-test series. The “Harry” shot was detonated at the Nevada Test Site on 19 May 1953, two days before Stansel’s alleged trip, and later became notorious for fallout. The overlap is important because many Kingman retellings link the alleged crash to atomic testing, radar, or military activity in the region, even though the existence of a nuclear test nearby does not by itself verify a crash retrieval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/9-UPSHOT-KNOTHOLE-2021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtra.mil">[Defense Threat Reduction Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtra.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The claim has several features that make it appealing as folklore. It has a specific place, a Cold War setting, a technical witness, blacked-out transport, armed guards, a secret oath, and a recovered body. Those details give the story narrative weight. But they also create a high evidential burden. A claim of a recovered non-human craft is not simply another sighting report; it asks readers to accept a major physical event, a military recovery, a cover-up, and decades of silence without the kind of documents, photographs, material samples, site records, or mutually checkable first-hand testimony that would normally be expected.
 
 ## Why the record is hard to verify
 
-The strongest single reason for caution is that the Kingman story did not emerge as a clear contemporary public record in 1953. It became prominent through later UFO investigation, especially after Stansel’s interviews and Fowler’s reporting in the 1970s. Randle’s NICAP-hosted case summary notes that Fowler did have more than hearsay: he had interviewed the witness, obtained a signed statement, and seen supporting material. But the same summary describes the evidence as “flimsy” and says the case would be impossible to accept without corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+The strongest single reason for caution is that the Kingman story did not emerge as a clear contemporary public record in 1953. It became prominent through later UFO investigation, especially after Stansel’s interviews and Fowler’s reporting in the 1970s. Randle’s NICAP-hosted case summary notes that Fowler did have more than hearsay: he had interviewed the witness, obtained a signed statement, and seen supporting material. But the same summary describes the evidence as “flimsy” and says the case would be impossible to accept without corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
-The Stansel account also changed in important ways. In the earlier interview with two young UFO enthusiasts, the object was described as a much smaller teardrop or cigar-like craft. In Fowler’s later interview, it became a roughly thirty-foot disc-like object. When confronted with the discrepancy, the witness reportedly admitted that he had lied to the younger interviewers and said the later version was the accurate one. For a crash-retrieval claim, that is a serious problem: the shape, size and identity of the recovered object are not minor atmospheric details; they are the centre of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+The Stansel account also changed in important ways. In the earlier interview with two young UFO enthusiasts, the object was described as a much smaller teardrop or cigar-like craft. In Fowler’s later interview, it became a roughly thirty-foot disc-like object. When confronted with the discrepancy, the witness reportedly admitted that he had lied to the younger interviewers and said the later version was the accurate one. For a crash-retrieval claim, that is a serious problem: the shape, size and identity of the recovered object are not minor atmospheric details; they are the centre of the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
-The calendar evidence is also suggestive rather than decisive. Stansel reportedly had entries saying he received a “funny call” from Dr Doll on 20 May and was picked up at Indian Springs Air Force Base on 21 May for a job he could not write or talk about. That is interesting if authentic and contemporary, but it does not say “UFO”, “Kingman”, “crash”, “disc”, “body”, or anything equivalent. It supports the weaker proposition that Stansel may have had an unusual assignment; it does not independently support the stronger claim that the assignment involved an extraterrestrial crash retrieval. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+The calendar evidence is also suggestive rather than decisive. Stansel reportedly had entries saying he received a “funny call” from Dr Doll on 20 May and was picked up at Indian Springs Air Force Base on 21 May for a job he could not write or talk about. That is interesting if authentic and contemporary, but it does not say “UFO”, “Kingman”, “crash”, “disc”, “body”, or anything equivalent. It supports the weaker proposition that Stansel may have had an unusual assignment; it does not independently support the stronger claim that the assignment involved an extraterrestrial crash retrieval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
-Attempts at corroboration have produced mixed or weak results. Fowler tried to check whether the witness had a Project Blue Book connection; one former official could not rule it out, while another did not remember him. William Moore later said he had located Dr Doll, the named superior in the story, and that Doll denied knowing the incident and did not recognise the witness as someone who had worked for him at the Nevada Test Site. Randle has cautioned that Moore’s analysis may itself contain errors, but the overall effect is still not a clean confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+Attempts at corroboration have produced mixed or weak results. Fowler tried to check whether the witness had a Project Blue Book connection; one former official could not rule it out, while another did not remember him. William Moore later said he had located Dr Doll, the named superior in the story, and that Doll denied knowing the incident and did not recognise the witness as someone who had worked for him at the Nevada Test Site. Randle has cautioned that Moore’s analysis may itself contain errors, but the overall effect is still not a clean confirmation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
 <img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-Illustration-1-dark.svg" | relative_url }}" alt="Kingman Legend illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The supporting claims are mostly second-hand
 
-Kingman is sometimes presented as more than a single-witness story. There are additional accounts: a “Major Daly” story reported through Leonard Stringfield, a Wright-Patterson office anecdote about alien bodies, and the Woolcott account involving a military man who allegedly saw or approached a crashed object near Kingman. These are part of why the legend has not disappeared. They appear to cluster around the same general idea: a desert recovery, military control, and something extraordinary hidden from ordinary channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+Kingman is sometimes presented as more than a single-witness story. There are additional accounts: a “Major Daly” story reported through Leonard Stringfield, a Wright-Patterson office anecdote about alien bodies, and the Woolcott account involving a military man who allegedly saw or approached a crashed object near Kingman. These are part of why the legend has not disappeared. They appear to cluster around the same general idea: a desert recovery, military control, and something extraordinary hidden from ordinary channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
-The difficulty is that these additions do not rise to the level of strong independent confirmation. Randle’s summary treats them as potentially relevant but repeatedly notes their evidential limits: second-hand reporting, unavailable witnesses, uncertain timing, speculative links to Kingman, and no opportunity to test the claims directly. The Woolcott account, for instance, is described as more documentation than nothing, but the original alleged witness was not available to question, and the date was not firm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
+The difficulty is that these additions do not rise to the level of strong independent confirmation. Randle’s summary treats them as potentially relevant but repeatedly notes their evidential limits: second-hand reporting, unavailable witnesses, uncertain timing, speculative links to Kingman, and no opportunity to test the claims directly. The Woolcott account, for instance, is described as more documentation than nothing, but the original alleged witness was not available to question, and the date was not firm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittal</span></span></span>
 
 That distinction matters. A weak case can look stronger when several stories resemble each other, but resemblance is not the same as verification. Later witnesses may be influenced by earlier UFO literature, local talk, memory drift, or the general crash-retrieval template that developed after Roswell and Aztec. The useful question is not “are there several stories?” but “do they independently confirm the same concrete facts?” For Kingman, the answer remains largely no.
 
@@ -296,11 +296,11 @@ That distinction matters. A weak case can look stronger when several stories res
 
 ## The official record does not carry the claim
 
-Project Blue Book is often invoked in Kingman discussions because the alleged witness was said to have had some connection with official UFO work. The broader official record, however, does not provide confirmation of a Kingman crash retrieval. The National Archives says Project Blue Book’s declassified records are available for research and that the project closed in 1969. The US Air Force fact sheet says Blue Book investigated 12,618 sightings, left 701 unidentified, and concluded that no investigated UFO report showed evidence of extraterrestrial vehicles or technology beyond modern scientific knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book is often invoked in Kingman discussions because the alleged witness was said to have had some connection with official UFO work. The broader official record, however, does not provide confirmation of a Kingman crash retrieval. The National Archives says Project Blue Book’s declassified records are available for research and that the project closed in 1969. The US Air Force fact sheet says Blue Book investigated 12,618 sightings, left 701 unidentified, and concluded that no investigated UFO report showed evidence of extraterrestrial vehicles or technology beyond modern scientific knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That official position does not automatically disprove every crash-retrieval allegation. Sceptics and UFO researchers alike have long debated whether Blue Book was incomplete, under-resourced, or shaped by public-relations pressure. But for Kingman, the key point is narrower: there is no publicly established Blue Book file that verifies the alleged crash, recovery team, non-human body, or transfer of material. The available official framework supports caution, not confirmation.
 
-A more recent official review points in the same direction. The All-domain Anomaly Resolution Office’s 2024 historical report reviewed decades of US government UAP activity and said it found no evidence that any UAP report represented extraterrestrial origin. It also stated that past investigations of alleged physical evidence found nothing of foreign or extraterrestrial origin, and that lack of high-quality actionable data has plagued UAP investigations across decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+A more recent official review points in the same direction. The All-domain Anomaly Resolution Office’s 2024 historical report reviewed decades of US government UAP activity and said it found no evidence that any UAP report represented extraterrestrial origin. It also stated that past investigations of alleged physical evidence found nothing of foreign or extraterrestrial origin, and that lack of high-quality actionable data has plagued UAP investigations across decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 AARO’s report has been criticised by some UFO advocates, so it should not be treated as the last possible word on every historical claim. Still, it is the current official counterweight to crash-retrieval narratives. For Kingman specifically, it means the public evidence has not moved from folklore and testimony into verified government acknowledgement.
 
@@ -308,18 +308,18 @@ AARO’s report has been criticised by some UFO advocates, so it should not be t
 
 ## Why later reporting has not solved the case
 
-The Kingman story gained renewed attention in 2024 after Christopher Mellon released or discussed a Signal exchange with an unnamed senior government official referring to a recovered UAP associated with Kingman. This revived interest because Mellon is not a random online commentator; he is a former senior defence and intelligence figure who has been prominent in modern UAP debates. But the Kingman-related exchange, as reported publicly, still depends on an unnamed source and does not provide direct documents, physical evidence, chain of custody, or a verifiable recovery file. It’s a Very Exciting Time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/chris-mellon-releases-texts-from-government-official-claiming-a-crashed-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">chris mellon releases texts from government official claiming a crashed ufo</span><span class="citation-popover-snippet">chris mellon releases texts from government official claiming a crashed ufo</span></span></span>
+The Kingman story gained renewed attention in 2024 after Christopher Mellon released or discussed a Signal exchange with an unnamed senior government official referring to a recovered UAP associated with Kingman. This revived interest because Mellon is not a random online commentator; he is a former senior defence and intelligence figure who has been prominent in modern UAP debates. But the Kingman-related exchange, as reported publicly, still depends on an unnamed source and does not provide direct documents, physical evidence, chain of custody, or a verifiable recovery file. It’s a Very Exciting Time<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/chris-mellon-releases-texts-from-government-official-claiming-a-crashed-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">chris mellon releases texts from government official claiming a crashed ufo</span><span class="citation-popover-snippet">chris mellon releases texts from government official claiming a crashed ufo</span></span></span>
 
-This is a pattern in the Kingman case: each revival adds attention, but not necessarily stronger evidence. A local tourism or heritage page may preserve the legend; UFO podcasts and specialist sites may connect Stansel, Stringfield, Harry Drew and Mellon; cable or local news may report renewed claims. Those sources show that the story has cultural life. They do not by themselves settle whether a craft crashed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorekingman.com">[Explore Kingman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorekingman.com</span><span class="citation-popover-title">blog 1953 kingman ufo crash</span><span class="citation-popover-snippet">blog 1953 kingman ufo crash</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/the-kingman-ufo-incident-1953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">the kingman ufo incident 1953</span><span class="citation-popover-snippet">the kingman ufo incident 1953</span></span></span>
+This is a pattern in the Kingman case: each revival adds attention, but not necessarily stronger evidence. A local tourism or heritage page may preserve the legend; UFO podcasts and specialist sites may connect Stansel, Stringfield, Harry Drew and Mellon; cable or local news may report renewed claims. Those sources show that the story has cultural life. They do not by themselves settle whether a craft crashed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorekingman.com">[Explore Kingman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorekingman.com</span><span class="citation-popover-title">blog 1953 kingman ufo crash</span><span class="citation-popover-snippet">blog 1953 kingman ufo crash</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/the-kingman-ufo-incident-1953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">the kingman ufo incident 1953</span><span class="citation-popover-snippet">the kingman ufo incident 1953</span></span></span>
 
-The Harry Drew material is a good example of the tension. Drew, described in UFO discussions as a Kingman historian and former museum curator, has been associated with claims of multiple Kingman-area saucer recoveries, radar involvement, live beings, and transport to Nevada. These claims are vivid and locally specific, but even sympathetic summaries note that the underlying evidence has not been fully presented in a way that outsiders can independently check. Randle’s 2024 discussion says Drew claimed three Prescott-reported craft crashed near Kingman, but adds that, to his knowledge, Drew had not presented the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2024/08/the-kingman-ufo-crash-connumdrum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog A Different Perspective: The Kingman UFO Crash Connumdrum</span><span class="citation-popover-snippet">Kevin Randle&#x27;s Blog A Different Perspective: The Kingman UFO Crash Connumdrum</span></span></span>
+The Harry Drew material is a good example of the tension. Drew, described in UFO discussions as a Kingman historian and former museum curator, has been associated with claims of multiple Kingman-area saucer recoveries, radar involvement, live beings, and transport to Nevada. These claims are vivid and locally specific, but even sympathetic summaries note that the underlying evidence has not been fully presented in a way that outsiders can independently check. Randle’s 2024 discussion says Drew claimed three Prescott-reported craft crashed near Kingman, but adds that, to his knowledge, Drew had not presented the evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2024/08/the-kingman-ufo-crash-connumdrum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog A Different Perspective: The Kingman UFO Crash Connumdrum</span><span class="citation-popover-snippet">Kevin Randle&#x27;s Blog A Different Perspective: The Kingman UFO Crash Connumdrum</span></span></span>
 
 That does not mean every later witness is lying. It means the public evidential status has not changed enough. A credible upgrade would require something like a dated official recovery order, a verifiable crash-site record, a named first-hand participant whose service and role can be checked, material with a documented chain of custody, or independent contemporary reporting that matches the later story in specific details. Kingman has not yet produced that.
 
 <img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-Illustration-2-dark.svg" | relative_url }}" alt="Kingman Legend illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How folklore becomes local UFO history
 
-Kingman survives because it sits at the intersection of several powerful Arizona and south-western themes. The setting is plausible for secrecy: desert roads, wartime airfields, Nevada test activity, military transport, and sparse population. The timing is evocative: May 1953, just after a major nuclear test and during the early Cold War. The story also fits the crash-retrieval pattern made famous by Roswell: ordinary witnesses are excluded, specialists are brought in, bodies are hidden, and the military removes the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+Kingman survives because it sits at the intersection of several powerful Arizona and south-western themes. The setting is plausible for secrecy: desert roads, wartime airfields, Nevada test activity, military transport, and sparse population. The timing is evocative: May 1953, just after a major nuclear test and during the early Cold War. The story also fits the crash-retrieval pattern made famous by Roswell: ordinary witnesses are excluded, specialists are brought in, bodies are hidden, and the military removes the evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 Local UFO history often forms in layers. First comes a claim; then a pseudonym; then a researcher’s report; then a later author’s summary; then local retellings; then new witnesses, rumours or “leaked” references are folded in. Each layer can make the story feel more established even if the original evidential base has not improved. Kingman is a textbook example of that process. The story is durable not because it has been proved, but because it is narratively complete and geographically persuasive.
 
@@ -348,194 +348,194 @@ Kingman therefore belongs in Arizona UFO history as a cautionary case. It shows 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Inwd9UwAOU0" title="Kingman UFO crash" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Inwd9UwAOU0" target="_blank" rel="noopener noreferrer">Kingman UFO crash</a></p><p class="youtube-embed-meta">Channel: Mutual UFO Network (MUFON) &middot; Views: 47.3K &middot; Uploaded: June 2015 &middot; Length: 1 hour 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Inwd9UwAOU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Inwd9UwAOU0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is the Kingman UFO Crash Story Credible?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is the Kingman UFO Crash Story Credible?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard M. Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard M. Dolan</p>
         
-        <p class="fr-book-desc">Places Kingman within broader government-UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Kingman within broader government-UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Explores how crash legends develop and persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how crash legends develop and persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Provides context for assessing crash-retrieval claims like Kingman.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing crash-retrieval claims like Kingman.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner</p>
         
-        <p class="fr-book-desc">Kingman is frequently compared to Roswell-style recovery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Kingman is frequently compared to Roswell-style recovery narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/CIMAAeSwPI1pgk0U/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/CIMAAeSwPI1pgk0U/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/NRAAAeSw7EFpnqXD/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/NRAAAeSw7EFpnqXD/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)"><img src="https://i.ebayimg.com/images/g/rYEAAeSwX3lnzul9/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Desktop Model ! (B)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)"><img src="https://i.ebayimg.com/images/g/rYEAAeSwX3lnzul9/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Desktop Model ! (B)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened"><img src="https://i.ebayimg.com/images/g/MZgAAOSwjH1keQGN/s-l225.jpg" alt="Listing image for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened"><img src="https://i.ebayimg.com/images/g/MZgAAOSwjH1keQGN/s-l225.jpg" alt="Listing image for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-kingman-ufo-crash-story-credible-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="is-the-kingman-ufo-crash-story-credible-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ Kingman therefore belongs in Arizona UFO history as a cautionary case. It shows 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ Kingman therefore belongs in Arizona UFO history as a cautionary case. It shows 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ Kingman therefore belongs in Arizona UFO history as a cautionary case. It shows 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ Kingman therefore belongs in Arizona UFO history as a cautionary case. It shows 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ Kingman therefore belongs in Arizona UFO history as a cautionary case. It shows 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,175 +741,175 @@ Kingman therefore belongs in Arizona UFO history as a cautionary case. It shows 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: case submittal  
-   Link: <a href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/kingman530521_randle.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/kingman530521_randle.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jasoncolavito.com  
    Title: chris mellon releases texts from government official claiming a crashed ufo  
-   Link: <a href="https://www.jasoncolavito.com/blog/chris-mellon-releases-texts-from-government-official-claiming-a-crashed-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/chris-mellon-releases-texts-from-government-official-claiming-a-crashed-ufo</a>  
+   Link:<a href="https://www.jasoncolavito.com/blog/chris-mellon-releases-texts-from-government-official-claiming-a-crashed-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/chris-mellon-releases-texts-from-government-official-claiming-a-crashed-ufo</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: the-unidentified.net  
    Title: the kingman ufo incident 1953  
-   Link: <a href="https://www.the-unidentified.net/the-kingman-ufo-incident-1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-unidentified.net/the-kingman-ufo-incident-1953/</a>  
+   Link:<a href="https://www.the-unidentified.net/the-kingman-ufo-incident-1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-unidentified.net/the-kingman-ufo-incident-1953/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kingman.tours  
-   Link: <a href="https://kingman.tours/planes-trains-automobiles-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://kingman.tours/planes-trains-automobiles-and-ufos/</a>  
+   Link:<a href="https://kingman.tours/planes-trains-automobiles-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://kingman.tours/planes-trains-automobiles-and-ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Kingman, Arizona UFO crash  
-   Link: <a href="https://www.youtube.com/watch?v=jcpZpG1LFpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jcpZpG1LFpk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kingman UFO crash...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jcpZpG1LFpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jcpZpG1LFpk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kingman UFO crash...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Kingman UFO crash  
-   Link: <a href="https://www.youtube.com/watch?v=Inwd9UwAOU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Inwd9UwAOU0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO Crash: The Truth Behind the 1953 Kingman Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Inwd9UwAOU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Inwd9UwAOU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO Crash: The Truth Behind the 1953 Kingman Incident...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: explorekingman.com  
    Title: blog 1953 kingman ufo crash  
-   Link: <a href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.explorekingman.com/blog-1953-kingman-ufo-crash/</a>  
+   Link:<a href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.explorekingman.com/blog-1953-kingman-ufo-crash/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuclearweaponarchive.org  
-   Link: <a href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html</a>  
+   Link:<a href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dtra.mil  
-   Link: <a href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/9-UPSHOT-KNOTHOLE-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/9-UPSHOT-KNOTHOLE-2021.pdf</a>  
+   Link:<a href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/9-UPSHOT-KNOTHOLE-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/9-UPSHOT-KNOTHOLE-2021.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kevinrandle.blogspot.com  
    Title: Kevin Randle's Blog A Different Perspective: The Kingman UFO Crash Connumdrum  
-   Link: <a href="https://kevinrandle.blogspot.com/2024/08/the-kingman-ufo-crash-connumdrum.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2024/08/the-kingman-ufo-crash-connumdrum.html</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2024/08/the-kingman-ufo-crash-connumdrum.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2024/08/the-kingman-ufo-crash-connumdrum.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: catalog.hathitrust.org  
-   Link: <a href="https://catalog.hathitrust.org/Record/101835946" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/101835946</a>  
+   Link:<a href="https://catalog.hathitrust.org/Record/101835946" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/101835946</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: atomicarchive.com  
-   Link: <a href="https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-5.html</a>  
+   Link:<a href="https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-5.html</a>  
 
-22. <a id="endnote-22"></a>
-   Source: atomicarchive.com  
-   Title: Operation Upshot-Knothole  
-   Link: <a href="https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-8.html</a>  
-
-23. <a id="endnote-23"></a>
+22.<a id="endnote-22"></a>
    Source: atomicarchive.com  
    Title: Operation Upshot-Knothole  
-   Link: <a href="https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-7.html</a>  
+   Link:<a href="https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-8.html</a>  
 
-24. <a id="endnote-24"></a>
+23.<a id="endnote-23"></a>
+   Source: atomicarchive.com  
+   Title: Operation Upshot-Knothole  
+   Link:<a href="https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/upshot-knothole/upshot-7.html</a>  
+
+24.<a id="endnote-24"></a>
    Source: cancerbenefits.com  
-   Link: <a href="https://www.cancerbenefits.com/cancer-benefit-programs/atomic-veterans/operation-upshot-knothole/" target="_blank" rel="noopener noreferrer nofollow">https://www.cancerbenefits.com/cancer-benefit-programs/atomic-veterans/operation-upshot-knothole/</a>  
+   Link:<a href="https://www.cancerbenefits.com/cancer-benefit-programs/atomic-veterans/operation-upshot-knothole/" target="_blank" rel="noopener noreferrer nofollow">https://www.cancerbenefits.com/cancer-benefit-programs/atomic-veterans/operation-upshot-knothole/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufoinsight.com  
    Title: kingman ufo crash  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash</a>  
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7UU6531PtRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7UU6531PtRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kingman UFO crash Arizona 1953 The 1953 Kingman, Arizona UFO Crash UAP Gerb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7UU6531PtRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7UU6531PtRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kingman UFO crash Arizona 1953 The 1953 Kingman, Arizona UFO Crash UAP Gerb...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=e6S-1KcKnp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e6S-1KcKnp8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1953 🇺🇸 #UFOB [CASE] The Kingman crash Arizona...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e6S-1KcKnp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e6S-1KcKnp8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1953 🇺🇸 #UFOB [CASE] The Kingman crash Arizona...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: kingmanarizonarelocation.com  
-   Link: <a href="https://kingmanarizonarelocation.com/famous-people/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://kingmanarizonarelocation.com/famous-people/aliens.htm</a>  
+   Link:<a href="https://kingmanarizonarelocation.com/famous-people/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://kingmanarizonarelocation.com/famous-people/aliens.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/arizonanate/posts/arizona-has-its-own-roswell-style-ufo-crash-legend-and-in-the-folklore-one-of-th/1554864896648326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arizonanate/posts/arizona-has-its-own-roswell-style-ufo-crash-legend-and-in-the-folklore-one-of-th/1554864896648326/</a>  
+   Link:<a href="https://www.facebook.com/arizonanate/posts/arizona-has-its-own-roswell-style-ufo-crash-legend-and-in-the-folklore-one-of-th/1554864896648326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arizonanate/posts/arizona-has-its-own-roswell-style-ufo-crash-legend-and-in-the-folklore-one-of-th/1554864896648326/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/complex-first-public-ufo-hearing-in-decades?srsltid=AfmBOoqVi0gBs6VfTFpoTMBNZuG3OBJIUHTuuhzxlrPZ6MWttkf5ToDN" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/complex-first-public-ufo-hearing-in-decades?srsltid=AfmBOoqVi0gBs6VfTFpoTMBNZuG3OBJIUHTuuhzxlrPZ6MWttkf5ToDN</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/complex-first-public-ufo-hearing-in-decades?srsltid=AfmBOoqVi0gBs6VfTFpoTMBNZuG3OBJIUHTuuhzxlrPZ6MWttkf5ToDN" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/complex-first-public-ufo-hearing-in-decades?srsltid=AfmBOoqVi0gBs6VfTFpoTMBNZuG3OBJIUHTuuhzxlrPZ6MWttkf5ToDN</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ena862/did_a_ufouap_crash_in_kingman_arizona_leaked/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ena862/did_a_ufouap_crash_in_kingman_arizona_leaked/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ena862/did_a_ufouap_crash_in_kingman_arizona_leaked/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ena862/did_a_ufouap_crash_in_kingman_arizona_leaked/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RGJmedia/posts/fallout-from-the-upshot-knothole-harry-test-on-may-19-1953-spread-radiation-over/1381844300644516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RGJmedia/posts/fallout-from-the-upshot-knothole-harry-test-on-may-19-1953-spread-radiation-over/1381844300644516/</a>  
+   Link:<a href="https://www.facebook.com/RGJmedia/posts/fallout-from-the-upshot-knothole-harry-test-on-may-19-1953-spread-radiation-over/1381844300644516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RGJmedia/posts/fallout-from-the-upshot-knothole-harry-test-on-may-19-1953-spread-radiation-over/1381844300644516/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/bodies.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/bodies.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/bodies.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/bodies.htm</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/08/09/lifestyle/secret-ufo-crash-6-years-after-roswell-still-under-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/08/09/lifestyle/secret-ufo-crash-6-years-after-roswell-still-under-investigation/</a>  
+   Link:<a href="https://nypost.com/2024/08/09/lifestyle/secret-ufo-crash-6-years-after-roswell-still-under-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/08/09/lifestyle/secret-ufo-crash-6-years-after-roswell-still-under-investigation/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1cb23zz/ray_fowler_on_the_kingman_crash_arizona_53/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1cb23zz/ray_fowler_on_the_kingman_crash_arizona_53/</a>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1cb23zz/ray_fowler_on_the_kingman_crash_arizona_53/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1cb23zz/ray_fowler_on_the_kingman_crash_arizona_53/</a>

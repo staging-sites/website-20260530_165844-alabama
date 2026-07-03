@@ -262,27 +262,27 @@ image: /assets/images/Maine_8dc024_allagash_abductions_6349c1-overview-social.jp
 
 ## Introduction
 
-In August 1976, a remote stretch of the Maine wilderness became the setting for what would become one of the most discussed and contested episodes in the history of unidentified aerial phenomena (UAP) reporting: the **Allagash Wilderness UFO case**. Four young men on a canoe and camping trip reported a dramatic sighting of an unusual light in the night sky on Eagle Lake. Decades later, under hypnotic regression, the same four recount strikingly similar memories of being taken aboard a craft and examined by non‑human beings. This case stands out in U.S. UFO history for its multiple witnesses, detailed post‑event narratives, and ensuing debates over the reliability of hypnotically recovered memories, witness credibility, and differing interpretations of the events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+In August 1976, a remote stretch of the Maine wilderness became the setting for what would become one of the most discussed and contested episodes in the history of unidentified aerial phenomena (UAP) reporting: the **Allagash Wilderness UFO case**. Four young men on a canoe and camping trip reported a dramatic sighting of an unusual light in the night sky on Eagle Lake. Decades later, under hypnotic regression, the same four recount strikingly similar memories of being taken aboard a craft and examined by non‑human beings. This case stands out in U.S. UFO history for its multiple witnesses, detailed post‑event narratives, and ensuing debates over the reliability of hypnotically recovered memories, witness credibility, and differing interpretations of the events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-overview.webp" | relative_url }}" alt="Overview image for Allagash Case" loading="eager" decoding="sync" fetchpriority="high">
 ## The Initial Encounter and Witness Accounts
 
-On the night of **20 August 1976** four friends — **Jack and Jim Weiner** (identical twins), **Chuck Rak** and **Charlie Foltz** — were deep in the wooded **Allagash Wilderness Waterway**, a remote river and lake system in northern Maine, on a planned two‑week camping and fishing trip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+On the night of **20 August 1976** four friends — **Jack and Jim Weiner** (identical twins), **Chuck Rak** and **Charlie Foltz** — were deep in the wooded **Allagash Wilderness Waterway**, a remote river and lake system in northern Maine, on a planned two‑week camping and fishing trip.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
-According to the men’s own accounts, while fishing from a canoe on **Eagle Lake** after dark they observed an intensely bright, multicoloured spherical light hovering above the treetops. One of the group signalled the light with a torch, which they say appeared to provoke a responsive movement: the object reportedly approached and projected a beam of light that “tracked” their canoe before engulfing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
+According to the men’s own accounts, while fishing from a canoe on **Eagle Lake** after dark they observed an intensely bright, multicoloured spherical light hovering above the treetops. One of the group signalled the light with a torch, which they say appeared to provoke a responsive movement: the object reportedly approached and projected a beam of light that “tracked” their canoe before engulfing them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
 
-When the men next regained clear awareness they were back on shore, startled to find their bonfire reduced to embers — despite believing they had only been on the water a few minutes. This discrepancy between subjective time and the physical evidence of how much the fire had burned became central to the “missing time” element of the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
+When the men next regained clear awareness they were back on shore, startled to find their bonfire reduced to embers — despite believing they had only been on the water a few minutes. This discrepancy between subjective time and the physical evidence of how much the fire had burned became central to the “missing time” element of the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
 
-For many years after the trip, the four said little to no one about the August encounter. There was **no recorded official report at the time**, beyond an unverified anecdote that a park ranger dismissed their sighting as possibly being distant searchlights from a Millinocket business, a suggestion the witnesses later rejected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
+For many years after the trip, the four said little to no one about the August encounter. There was **no recorded official report at the time**, beyond an unverified anecdote that a park ranger dismissed their sighting as possibly being distant searchlights from a Millinocket business, a suggestion the witnesses later rejected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
 
 <img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-1-dark.svg" | relative_url }}" alt="Allagash Case illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hypnotic Regression and the Abduction Narrative
 
-More than a decade later, in **1988‑1989**, all four of the men independently underwent **hypnotic regression sessions** conducted by a hypnotherapist at the behest of ufologist **Raymond E. Fowler**, then director of investigations for the Mutual UFO Network (MUFON). Fowler documented the sessions in his 1993 book *The Allagash Abductions: Undeniable Evidence of Alien Intervention*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">The Allagash Abductions: Undeniable Evidence of Alien I…This book centered around a multiple person abduction that took place in...</span></span></span>
+More than a decade later, in **1988‑1989**, all four of the men independently underwent **hypnotic regression sessions** conducted by a hypnotherapist at the behest of ufologist **Raymond E. Fowler**, then director of investigations for the Mutual UFO Network (MUFON). Fowler documented the sessions in his 1993 book *The Allagash Abductions: Undeniable Evidence of Alien Intervention*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">The Allagash Abductions: Undeniable Evidence of Alien I…This book centered around a multiple person abduction that took place in...</span></span></span>
 
-Under hypnosis, each of the four purportedly described vivid but highly unusual sequences of being levitated aboard a craft illuminated by bright lights, taken into separate examination rooms, and subjected to medical‑style inspections by non‑human beings. These descriptions contained common elements: humanoid figures with large heads and reflective eyes, clinical interiors likened to a **vet’s office**, fluid and tissue sampling, and peculiar communication dynamics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
+Under hypnosis, each of the four purportedly described vivid but highly unusual sequences of being levitated aboard a craft illuminated by bright lights, taken into separate examination rooms, and subjected to medical‑style inspections by non‑human beings. These descriptions contained common elements: humanoid figures with large heads and reflective eyes, clinical interiors likened to a **vet’s office**, fluid and tissue sampling, and peculiar communication dynamics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">allagash abductions 1976 maines wilderness encounter</span><span class="citation-popover-snippet">Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span> - Unlocking New Realities
 
-Proponents of the case have highlighted that all four men — who were not immediate family members in every respect — produced **remarkably consistent sketches and narratives** without prior collusion, and that each had been subjected to polygraph tests and psychiatric screening before publicity. Fowler’s account positions this consistency as a key reason the case is historically significant among multiple‑witness abduction reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond E. Fowler</span><span class="citation-popover-snippet">Raymond E. Fowler</span></span></span>
+Proponents of the case have highlighted that all four men — who were not immediate family members in every respect — produced **remarkably consistent sketches and narratives** without prior collusion, and that each had been subjected to polygraph tests and psychiatric screening before publicity. Fowler’s account positions this consistency as a key reason the case is historically significant among multiple‑witness abduction reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond E. Fowler</span><span class="citation-popover-snippet">Raymond E. Fowler</span></span></span>
 
 <img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-3-dark.svg" | relative_url }}" alt="Allagash Case illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -292,213 +292,213 @@ Proponents of the case have highlighted that all four men — who were not immed
 
 Despite its prominence in ufology literature, the Allagash case has been the subject of significant sceptical critique centred on methodological and credibility issues:
 
-* **Hypnotic regression Reliability:** Modern psychological research cautions that hypnosis can increase suggestibility and produce false memories. Scholars note that subjects under hypnosis may “edit their thoughts less rigorously,” making independent recall of genuine events difficult to verify. This broader critique applies directly to abduction narratives like Allagash, where the most dramatic elements emerged only through regression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Forensic hypnosis</span><span class="citation-popover-snippet">Forensic hypnosis</span></span></span>
-* **Delayed Reporting and Memory Issues:** The abduction accounts took shape more than a decade after the 1976 sighting, often emerging after recurring nightmares or nightmares combined with psychological stress. Such delayed recollection complicates independent corroboration of the core events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
-* **Recantation by a Participant:** In **2016**, co‑witness **Chuck Rak** publicly stated he did not believe the abduction portion of the story and suggested it had been exaggerated or “brilliant storytelling” rather than factual recollection. While Rak did affirm seeing unusual lights on Eagle Lake, he later rejected the hypnotically recovered abduction narrative and said he had been influenced by expectations of financial gain — a claim strongly disputed by the others and by Fowler. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecounty.me">[The County]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecounty.me</span><span class="citation-popover-title">how much of a famed 1976 ufo abduction is true 4</span><span class="citation-popover-snippet">“I don&#x27;t call it a hoax, just brilliant storytelling. It&#x27;s not the...Read more...</span></span></span>
-* **Witness Dispute:** The remaining three witnesses have continued to defend their accounts, challenging Rak’s later statements and describing interpersonal disagreements as a factor in his recantation. Some proponents argue that internal conflict and personal resentment explain the divergence in testimony rather than invalidation of the original narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoq0yf3WhonTF05lRyVbcvGplTzsk6z5VGLKMQQKHZyV7B4BV3jI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">The Allagash Abductions: Maine&#x27;s Iconic Alien Encounter</span><span class="citation-popover-snippet">The Allagash Abductions: Maine&#x27;s Iconic Alien EncounterMay 5, 2025 — Despite the controversy ignited by Chuck Rak&#x27;s 2016...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span>
+* **Hypnotic regression Reliability:** Modern psychological research cautions that hypnosis can increase suggestibility and produce false memories. Scholars note that subjects under hypnosis may “edit their thoughts less rigorously,” making independent recall of genuine events difficult to verify. This broader critique applies directly to abduction narratives like Allagash, where the most dramatic elements emerged only through regression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Forensic hypnosis</span><span class="citation-popover-snippet">Forensic hypnosis</span></span></span>
+* **Delayed Reporting and Memory Issues:** The abduction accounts took shape more than a decade after the 1976 sighting, often emerging after recurring nightmares or nightmares combined with psychological stress. Such delayed recollection complicates independent corroboration of the core events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+* **Recantation by a Participant:** In **2016**, co‑witness **Chuck Rak** publicly stated he did not believe the abduction portion of the story and suggested it had been exaggerated or “brilliant storytelling” rather than factual recollection. While Rak did affirm seeing unusual lights on Eagle Lake, he later rejected the hypnotically recovered abduction narrative and said he had been influenced by expectations of financial gain — a claim strongly disputed by the others and by Fowler.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecounty.me">[The County]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecounty.me</span><span class="citation-popover-title">how much of a famed 1976 ufo abduction is true 4</span><span class="citation-popover-snippet">“I don&#x27;t call it a hoax, just brilliant storytelling. It&#x27;s not the...Read more...</span></span></span>
+* **Witness Dispute:** The remaining three witnesses have continued to defend their accounts, challenging Rak’s later statements and describing interpersonal disagreements as a factor in his recantation. Some proponents argue that internal conflict and personal resentment explain the divergence in testimony rather than invalidation of the original narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoq0yf3WhonTF05lRyVbcvGplTzsk6z5VGLKMQQKHZyV7B4BV3jI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">The Allagash Abductions: Maine&#x27;s Iconic Alien Encounter</span><span class="citation-popover-snippet">The Allagash Abductions: Maine&#x27;s Iconic Alien EncounterMay 5, 2025 — Despite the controversy ignited by Chuck Rak&#x27;s 2016...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span>
 
-Mainstream scientific commentary on alien abduction phenomena more generally treats such hypnotically recovered narratives with caution, recognising the potential for **false memory creation** and the lack of independent physical evidence to substantiate extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perspectives on the alien abduction phenomenon</span><span class="citation-popover-snippet">Perspectives on the alien abduction phenomenon</span></span></span>
+Mainstream scientific commentary on alien abduction phenomena more generally treats such hypnotically recovered narratives with caution, recognising the potential for **false memory creation** and the lack of independent physical evidence to substantiate extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perspectives on the alien abduction phenomenon</span><span class="citation-popover-snippet">Perspectives on the alien abduction phenomenon</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lpu7gZnKfK4" title="The Allagash Encounter: A TERRIFYING UFO Abduction Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer">The Allagash Encounter: A TERRIFYING UFO Abduction Story</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 256.6K &middot; Uploaded: March 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lpu7gZnKfK4">Open on YouTube</a></p></div></div></div>
 
 <img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-2-dark.svg" | relative_url }}" alt="Allagash Case illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Legacy and Place in UFO History
 
-Within the context of UAP reporting in Maine and across the United States, the Allagash case retains an outsized cultural footprint. It has been featured in television programmes like *Unsolved Mysteries*, extensively discussed in UFO literature, and continually cited by both proponents and critics as emblematic of the wider debates surrounding alleged abductions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+Within the context of UAP reporting in Maine and across the United States, the Allagash case retains an outsized cultural footprint. It has been featured in television programmes like *Unsolved Mysteries*, extensively discussed in UFO literature, and continually cited by both proponents and critics as emblematic of the wider debates surrounding alleged abductions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
-For believers and UFO researchers, the **multiple independent witnesses** and detailed regression accounts make Allagash unusually compelling among similar narratives. For sceptics, the central role of hypnosis, the delayed emergence of the abduction story, and the later recantation by one participant underscore why the case remains controversial and unresolved. In either interpretation, the Allagash Wilderness encounter exemplifies how human memory, cultural context, and interpretive frameworks intersect in the uncertain terrain between unexplained sightings and definitive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+For believers and UFO researchers, the **multiple independent witnesses** and detailed regression accounts make Allagash unusually compelling among similar narratives. For sceptics, the central role of hypnosis, the delayed emergence of the abduction story, and the later recantation by one participant underscore why the case remains controversial and unresolved. In either interpretation, the Allagash Wilderness encounter exemplifies how human memory, cultural context, and interpretive frameworks intersect in the uncertain terrain between unexplained sightings and definitive evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9eL97AI9uTI" title="Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9eL97AI9uTI" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode</a></p><p class="youtube-embed-meta">Channel: Unsolved Mysteries - Full Episodes &middot; Views: 677.3K &middot; Uploaded: March 2019 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9eL97AI9uTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9eL97AI9uTI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Unpacking the Allagash Abductions of 1976. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Unpacking the Allagash Abductions of 1976. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Allagash+Abductions+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Allagash Abductions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5cJSQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Allagash Abductions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Allagash+Abductions+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Allagash Abductions">The Allagash Abductions</a>
-        </h4>
-        <p class="fr-book-author">By Raymond E. Fowler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Allagash+Abductions+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Allagash Abductions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5cJSQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Allagash Abductions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Allagash+Abductions+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Allagash Abductions">The Allagash Abductions</a>
+</h4>
+<p class="fr-book-author">By Raymond E. Fowler</p>
         
-        <p class="fr-book-desc">Dedicated account of the Allagash witnesses, investigation and controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Allagash+Abductions+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Dedicated account of the Allagash witnesses, investigation and controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Allagash+Abductions+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Provides cultural and historical context for abduction narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural and historical context for abduction narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Explores reported abduction experiences and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reported abduction experiences and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places dramatic cases within the wider UFO evidence discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places dramatic cases within the wider UFO evidence discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Allagash+Abductions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Allagash Abductions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Allagash+Abductions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Allagash Abductions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="https://i.ebayimg.com/images/g/rAEAAeSwMrtqIVp9/s-l225.jpg" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="https://i.ebayimg.com/images/g/rAEAAeSwMrtqIVp9/s-l225.jpg" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Wall Art, Vintage Sci-fi Alien Abduction Poster, UAP Cryptid NHI Decor"><img src="https://i.ebayimg.com/images/g/1V8AAOSwx~1n3Bcd/s-l225.jpg" alt="Listing image for ALIEN UFO Wall Art, Vintage Sci-fi Alien Abduction Poster, UAP Cryptid NHI Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Wall Art, Vintage Sci-fi Alien Abduction Poster, UAP Cryptid NHI Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Wall Art, Vintage Sci-fi Alien Abduction Poster, UAP Cryptid NHI Decor"><img src="https://i.ebayimg.com/images/g/1V8AAOSwx~1n3Bcd/s-l225.jpg" alt="Listing image for ALIEN UFO Wall Art, Vintage Sci-fi Alien Abduction Poster, UAP Cryptid NHI Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Wall Art, Vintage Sci-fi Alien Abduction Poster, UAP Cryptid NHI Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;"><img src="https://i.ebayimg.com/images/g/B1UAAOSwQ~FmzR9U/s-l225.jpg" alt="Listing image for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;"><img src="https://i.ebayimg.com/images/g/B1UAAOSwQ~FmzR9U/s-l225.jpg" alt="Listing image for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 36&quot;"><img src="https://i.ebayimg.com/images/g/sWAAAOSwklpm0ZfE/s-l225.jpg" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 36&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 36&quot;"><img src="https://i.ebayimg.com/images/g/sWAAAOSwklpm0ZfE/s-l225.jpg" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 36&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-allagash-abductions-of-1976-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="unpacking-the-allagash-abductions-of-1976-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ For believers and UFO researchers, the **multiple independent witnesses** and de
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ For believers and UFO researchers, the **multiple independent witnesses** and de
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ For believers and UFO researchers, the **multiple independent witnesses** and de
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ For believers and UFO researchers, the **multiple independent witnesses** and de
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ For believers and UFO researchers, the **multiple independent witnesses** and de
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,163 +704,163 @@ For believers and UFO researchers, the **multiple independent witnesses** and de
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uapedia.ai  
    Title: allagash abductions 1976 maines wilderness encounter  
-   Link: <a href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/allagash-abductions-1976-maines-wilderness-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesAllagash Abductions (1976): Maine’s Wilderness Encounter - UAPediaFebruary 10, 2026...</p></details>
    Published: February 10, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Undeniable Evidence of Alien I…This book centered around a multiple person abduction that took place in...</p></details>
+   Link:<a href="https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Undeniable Evidence of Alien I…This book centered around a multiple person abduction that took place in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Raymond E. Fowler  
-   Link: <a href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_E._Fowler</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_E._Fowler</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Forensic hypnosis  
-   Link: <a href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forensic_hypnosis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forensic_hypnosis</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Perspectives on the alien abduction phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hangar1publishing.com  
    Title: The Allagash Abductions: Maine's Iconic Alien Encounter  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoq0yf3WhonTF05lRyVbcvGplTzsk6z5VGLKMQQKHZyV7B4BV3jI" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoq0yf3WhonTF05lRyVbcvGplTzsk6z5VGLKMQQKHZyV7B4BV3jI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Maine&#x27;s Iconic Alien EncounterMay 5, 2025 — Despite the controversy ignited by Chuck Rak&#x27;s 2016...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoq0yf3WhonTF05lRyVbcvGplTzsk6z5VGLKMQQKHZyV7B4BV3jI" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoq0yf3WhonTF05lRyVbcvGplTzsk6z5VGLKMQQKHZyV7B4BV3jI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Maine&#x27;s Iconic Alien EncounterMay 5, 2025 — Despite the controversy ignited by Chuck Rak&#x27;s 2016...</p></details>
    Published: May 5, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unsolved.com  
    Title: Allagash Abductees  
-   Link: <a href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/allagash-abductees/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesFour men — Jack Weiner, Jim Weiner, Chuck Rak, and Charlie Foltz — say they experienced a terrifying encounter with ali...</p></details>
+   Link:<a href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/allagash-abductees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesFour men — Jack Weiner, Jim Weiner, Chuck Rak, and Charlie Foltz — say they experienced a terrifying encounter with ali...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Maine&#x27;s Iconic Alien Encounter – Hangar1publishingUNLOCKING THE VAULT: HYPNOSIS AND RECALLED TRAUMA Driven by th...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Maine&#x27;s Iconic Alien Encounter – Hangar1publishingUNLOCKING THE VAULT: HYPNOSIS AND RECALLED TRAUMA Driven by th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura The Allagash Abductions: This State Park's Most Famous  
-   Link: <a href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/podcast-allagash-abductions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</p></details>
+   Link:<a href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/podcast-allagash-abductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraThe Allagash Abductions: This State Park&#x27;s Most Famous...June 6, 2025 — 6 Jun 2025 — Explore the eerie story of the Allagas...</p></details>
    Published: June 6, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thecounty.me  
    Title: how much of a famed 1976 ufo abduction is true 4  
-   Link: <a href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“I don&#x27;t call it a hoax, just brilliant storytelling. It&#x27;s not the...Read more...</p></details>
+   Link:<a href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“I don&#x27;t call it a hoax, just brilliant storytelling. It&#x27;s not the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lionsberg.wiki  
-   Link: <a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_allagash_abductions_%281976%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_allagash_abductions_%281976%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions (1976) — LIØNSBERG WikiMay 22, 2026 — THE ALLAGASH ABDUCTIONS (1976) Summary: The Allagash Abductions is one of t...</p></details>
+   Link:<a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_allagash_abductions_%281976%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_allagash_abductions_%281976%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions (1976) — LIØNSBERG WikiMay 22, 2026 — THE ALLAGASH ABDUCTIONS (1976) Summary: The Allagash Abductions is one of t...</p></details>
    Published: May 22, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: en.everybodywiki.com  
    Title: Allagash abductions  
-   Link: <a href="https://en.everybodywiki.com/Allagash_abductions" target="_blank" rel="noopener noreferrer nofollow">https://en.everybodywiki.com/Allagash_abductions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>abductions - EverybodyWiki Bios &amp; WikiJuly 23, 2025 — ALLAGASH ABDUCTIONS From EverybodyWiki Bios &amp; Wiki Jump to:navigation, search The A...</p></details>
+   Link:<a href="https://en.everybodywiki.com/Allagash_abductions" target="_blank" rel="noopener noreferrer nofollow">https://en.everybodywiki.com/Allagash_abductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>abductions - EverybodyWiki Bios &amp; WikiJuly 23, 2025 — ALLAGASH ABDUCTIONS From EverybodyWiki Bios &amp; Wiki Jump to:navigation, search The A...</p></details>
    Published: July 23, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufomatrix.org  
    Title: allagash abductions 1976  
-   Link: <a href="https://www.ufomatrix.org/2025/03/allagash-abductions-1976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/03/allagash-abductions-1976.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions (1976): A Chilling Alien Encounter in the Maine WildernessMarch 22, 2025 — Homehistorical ufo sightings THE ALLAG...</p></details>
+   Link:<a href="https://www.ufomatrix.org/2025/03/allagash-abductions-1976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/03/allagash-abductions-1976.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions (1976): A Chilling Alien Encounter in the Maine WildernessMarch 22, 2025 — Homehistorical ufo sightings THE ALLAG...</p></details>
    Published: March 22, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tvi.show  
    Title: the allagash abductions  
-   Link: <a href="https://www.tvi.show/legend-hunters/the-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/legend-hunters/the-allagash-abductions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Raymond Fowler’s Famous 1976 UFO Encounter in MaineTHE ALLAGASH ABDUCTIONS 7 May Written By Guest User RAYMOND FOWLER’S UFO CASE F...</p></details>
+   Link:<a href="https://www.tvi.show/legend-hunters/the-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/legend-hunters/the-allagash-abductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Raymond Fowler’s Famous 1976 UFO Encounter in MaineTHE ALLAGASH ABDUCTIONS 7 May Written By Guest User RAYMOND FOWLER’S UFO CASE F...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spookyvalley.com  
-   Link: <a href="https://spookyvalley.com/events/1976-allagash-abductions-maine/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/1976-allagash-abductions-maine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Years later, under hypnosis, all four independently recalled identical details of an alien...</p></details>
+   Link:<a href="https://spookyvalley.com/events/1976-allagash-abductions-maine/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/1976-allagash-abductions-maine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Years later, under hypnosis, all four independently recalled identical details of an alien...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: The Allagash Abductions  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allagash Abductions | Unsolved Mysteries Wiki | FandomTHE ALLAGASH ABDUCTIONS Sign In to Save Save View source * History * Purge * Talk (...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allagash Abductions | Unsolved Mysteries Wiki | FandomTHE ALLAGASH ABDUCTIONS Sign In to Save Save View source * History * Purge * Talk (...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thriftbooks.com  
    Title: The Allagash Abductions: Undeniable  
-   Link: <a href="https://www.thriftbooks.com/w/the-allagash-abductions-undeniable-evidence-of-alien-intervention_raymond-e-fowler/449080/?srsltid=AfmBOor1-GsLJ1zQS0DKYEBKNucXNGyhJkyYtC1OrrlRadkUBOlRjkMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.thriftbooks.com/w/the-allagash-abductions-undeniable-evidence-of-alien-intervention_raymond-e-fowler/449080/?srsltid=AfmBOor1-GsLJ1zQS0DKYEBKNucXNGyhJkyYtC1OrrlRadkUBOlRjkMQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>book by Raymond...In 1976 four men, including a pair of twins, sought adventure in the Allagash Wilderness of northern Maine. What they...</p></details>
+   Link:<a href="https://www.thriftbooks.com/w/the-allagash-abductions-undeniable-evidence-of-alien-intervention_raymond-e-fowler/449080/?srsltid=AfmBOor1-GsLJ1zQS0DKYEBKNucXNGyhJkyYtC1OrrlRadkUBOlRjkMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.thriftbooks.com/w/the-allagash-abductions-undeniable-evidence-of-alien-intervention_raymond-e-fowler/449080/?srsltid=AfmBOor1-GsLJ1zQS0DKYEBKNucXNGyhJkyYtC1OrrlRadkUBOlRjkMQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>book by Raymond...In 1976 four men, including a pair of twins, sought adventure in the Allagash Wilderness of northern Maine. What they...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mysteriousharbortours.com  
-   Link: <a href="https://mysteriousharbortours.com/allagash-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousharbortours.com/allagash-abductions/</a>  
+   Link:<a href="https://mysteriousharbortours.com/allagash-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousharbortours.com/allagash-abductions/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: in 1976 four men witnessed a ufo while visiting the allagash wilderness waterway  
-   Link: <a href="https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976, four men witnessed a UFO while visiting...Over time, through hypnosis and interviews, the men described vivid accounts of being...</p></details>
+   Link:<a href="https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976, four men witnessed a UFO while visiting...Over time, through hypnosis and interviews, the men described vivid accounts of being...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: countdowntodisclosure.com  
    Title: allagash abduction 1976 four witnesses separately recall alien examination  
-   Link: <a href="https://countdowntodisclosure.com/articles/allagash-abduction-1976-four-witnesses-separately-recall-alien-examination/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/allagash-abduction-1976-four-witnesses-separately-recall-alien-examination/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allagash Abduction 1976: Four Witnesses Separately Recall Alien Examination – Countdown to DisclosureMarch 1, 2026 — ALLAGASH ABDUCTION 1...</p></details>
+   Link:<a href="https://countdowntodisclosure.com/articles/allagash-abduction-1976-four-witnesses-separately-recall-alien-examination/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/allagash-abduction-1976-four-witnesses-separately-recall-alien-examination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allagash Abduction 1976: Four Witnesses Separately Recall Alien Examination – Countdown to DisclosureMarch 1, 2026 — ALLAGASH ABDUCTION 1...</p></details>
    Published: March 1, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2016, Chuck Rak publicly retracted parts of the abduction story. He said that part of the story (the...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2016, Chuck Rak publicly retracted parts of the abduction story. He said that part of the story (the...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: astonishinglegends.com  
    Title: Imagine this: fishing, laughing, friends. It doesn’t get more relaxi  
-   Link: <a href="https://astonishinglegends.com/astonishing-legends/2024/6/1/the-allagash-maine-abductions" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/astonishing-legends/2024/6/1/the-allagash-maine-abductions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Maine Abductions — Astonishing LegendsJune 1, 2024 — THE ALLAGASH MAINE ABDUCTIONS On a summer night in August 1976, a group...</p></details>
+   Link:<a href="https://astonishinglegends.com/astonishing-legends/2024/6/1/the-allagash-maine-abductions" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/astonishing-legends/2024/6/1/the-allagash-maine-abductions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Maine Abductions — Astonishing LegendsJune 1, 2024 — THE ALLAGASH MAINE ABDUCTIONS On a summer night in August 1976, a group...</p></details>
    Published: June 1, 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four artists, independently regressed into their suppressed memories, tell the same details of...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Four artists, independently regressed into their suppressed memories, tell the same details of...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: believingthebizarre.com  
    Title: The Allagash Abduction: Maine's Most Documented UFO Case  
-   Link: <a href="https://believingthebizarre.com/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/allagash-abductees/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Believing the BizarreJuly 7, 2025 — { &quot;@context&quot;: &quot;[https://schema.org&quot;](https://schema.org&quot;), &quot;@graph&quot;: [ { &quot;@type&quot;: &quot;AboutPage&quot;, &quot;@id&quot;: &quot;[https://believingtheb...&quot;](https://believingtheb...&quot;)...</p></details>
+   Link:<a href="https://believingthebizarre.com/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/allagash-abductees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Believing the BizarreJuly 7, 2025 — { &quot;@context&quot;: &quot;[https://schema.org&quot;](https://schema.org&quot;), &quot;@graph&quot;: [ { &quot;@type&quot;: &quot;AboutPage&quot;, &quot;@id&quot;: &quot;[https://believingtheb...&quot;](https://believingtheb...&quot;)...</p></details>
    Published: July 7, 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Mysteries of Alien Beings” Special (Allagash Abductions, Area 51, Roswell).Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l4ydww/4_friends_get_abducted_during_a_camping_trip_all/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Mysteries of Alien Beings” Special (Allagash Abductions, Area 51, Roswell).Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufomatrix.org  
    Title: allagash abductions 1976 group alien encounter maine  
-   Link: <a href="https://www.ufomatrix.org/2025/05/allagash-abductions-1976-group-alien-encounter-maine.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/05/allagash-abductions-1976-group-alien-encounter-maine.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: A 1976 UFO Encounter in the Maine WildernessMay 26, 2025 — THE ALLAGASH ABDUCTIONS: A 1976 UFO ENCOUNTER IN THE...</p></details>
+   Link:<a href="https://www.ufomatrix.org/2025/05/allagash-abductions-1976-group-alien-encounter-maine.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/05/allagash-abductions-1976-group-alien-encounter-maine.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: A 1976 UFO Encounter in the Maine WildernessMay 26, 2025 — THE ALLAGASH ABDUCTIONS: A 1976 UFO ENCOUNTER IN THE...</p></details>
    Published: May 26, 2025  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OfficialUnsolvedMysteries/posts/on-the-fourth-night-of-unsolved-the-viewers-came-to-see-four-allagash-abductees-/669755035333174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialUnsolvedMysteries/posts/on-the-fourth-night-of-unsolved-the-viewers-came-to-see-four-allagash-abductees-/669755035333174/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nation or a shared psychological phenomenon, while others believe...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/OfficialUnsolvedMysteries/posts/on-the-fourth-night-of-unsolved-the-viewers-came-to-see-four-allagash-abductees-/669755035333174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialUnsolvedMysteries/posts/on-the-fourth-night-of-unsolved-the-viewers-came-to-see-four-allagash-abductees-/669755035333174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nation or a shared psychological phenomenon, while others believe...Read more...</p></details>

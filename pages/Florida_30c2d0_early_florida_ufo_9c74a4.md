@@ -267,35 +267,35 @@ Long before the infamous sightings in [Gulf Breeze]({{ 'gulf-breeze/' | relative
 <img src="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-overview.webp" | relative_url }}" alt="Overview image for Early Cases" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1952 Everglades Scoutmaster Incident
 
-One of the earliest and most discussed UFO reports in Florida occurred on the night of **19 August 1952**, when Scoutmaster D.S. “Sonny” DesVergers emerged from the dense palmetto thickets near West Palm Beach burned and disoriented, claiming a close encounter with a luminous object. According to witness accounts and later archival summaries, DesVergers was driving three Boy Scouts home after a meeting when he saw a bright flash of light descend into the brush beside Military Trail. Thinking it might be a fire or crash site, he investigated on foot, leaving his flashlights and, briefly, the boys in the car. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+One of the earliest and most discussed UFO reports in Florida occurred on the night of **19 August 1952**, when Scoutmaster D.S. “Sonny” DesVergers emerged from the dense palmetto thickets near West Palm Beach burned and disoriented, claiming a close encounter with a luminous object. According to witness accounts and later archival summaries, DesVergers was driving three Boy Scouts home after a meeting when he saw a bright flash of light descend into the brush beside Military Trail. Thinking it might be a fire or crash site, he investigated on foot, leaving his flashlights and, briefly, the boys in the car.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-At the scene, DesVergers reported intense heat, a strong odour and an object hovering before him, after which he found himself injured and the grass and undergrowth singed. Project Blue Book, the U.S. Air Force’s official UFO investigation programme of the era, took the case seriously enough to dispatch investigators, including Captain Edward J. Ruppelt. They collected soil and grass samples at the site and interviewed all four witnesses. While definitive physical proof of an aircraft remained elusive, burn marks on DesVergers’s clothing and hair, as well as scorch evidence on vegetation, were documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+At the scene, DesVergers reported intense heat, a strong odour and an object hovering before him, after which he found himself injured and the grass and undergrowth singed. Project Blue Book, the U.S. Air Force’s official UFO investigation programme of the era, took the case seriously enough to dispatch investigators, including Captain Edward J. Ruppelt. They collected soil and grass samples at the site and interviewed all four witnesses. While definitive physical proof of an aircraft remained elusive, burn marks on DesVergers’s clothing and hair, as well as scorch evidence on vegetation, were documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-Even decades later, the scoutmaster case continues to attract attention in UFO literature and online archives because of the physical trace evidence and multiple witnesses — even as some critics and later commentators have recast the event as a possible hoax or misinterpretation of known phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Even decades later, the scoutmaster case continues to attract attention in UFO literature and online archives because of the physical trace evidence and multiple witnesses — even as some critics and later commentators have recast the event as a possible hoax or misinterpretation of known phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-1-dark.svg" | relative_url }}" alt="Early Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Daylight Sightings: Miami‑Dade in 1967
 
-The 1960s saw a broader uptick in UFO reports across the United States, and Florida was no exception. Among the more intriguing episodes was a **daylight mass sighting near Opa‑Locka and Miami in April 1967**, centred on Crestview Elementary School. On **7 April 1967**, hundreds of schoolchildren and several teachers reportedly observed oval‑shaped, metallic objects in the sky behind the school during morning recess. Witness accounts collected in period UFO archives describe an object that hovered, dipped behind tree lines and moved with apparent intent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
+The 1960s saw a broader uptick in UFO reports across the United States, and Florida was no exception. Among the more intriguing episodes was a **daylight mass sighting near Opa‑Locka and Miami in April 1967**, centred on Crestview Elementary School. On **7 April 1967**, hundreds of schoolchildren and several teachers reportedly observed oval‑shaped, metallic objects in the sky behind the school during morning recess. Witness accounts collected in period UFO archives describe an object that hovered, dipped behind tree lines and moved with apparent intent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
 
-NICAP (National [Investigations]({{ 'investigations/' | relative_url }}) Committee on Aerial Phenomena) and other civilian research organisations documented the event, noting that both students and staff were “yelling and pointing” at the object, which one teacher described simply as a “flying saucer”. Air Force investigators from nearby Homestead Air Force Base were said to have interviewed witnesses on the ground in the days after the sightings. These reports also extended beyond the school population: local residents described similar sightings over the surrounding area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
+NICAP (National [Investigations]({{ 'investigations/' | relative_url }}) Committee on Aerial Phenomena) and other civilian research organisations documented the event, noting that both students and staff were “yelling and pointing” at the object, which one teacher described simply as a “flying saucer”. Air Force investigators from nearby Homestead Air Force Base were said to have interviewed witnesses on the ground in the days after the sightings. These reports also extended beyond the school population: local residents described similar sightings over the surrounding area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
 
-Official explanations at the time varied, with some suggesting that misidentified helicopters or military flares might account for the commotion, while sceptics pointed to misperceptions and psychological contagion among excited observers. Nevertheless, the episode stands out in Florida’s UFO history for the number of witnesses involved and the fact that it occurred in broad daylight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
+Official explanations at the time varied, with some suggesting that misidentified helicopters or military flares might account for the commotion, while sceptics pointed to misperceptions and psychological contagion among excited observers. Nevertheless, the episode stands out in Florida’s UFO history for the number of witnesses involved and the fact that it occurred in broad daylight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WUf77z92dq0" title="Most CHILLING UFO Sightings You Haven&#x27;t Heard About!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WUf77z92dq0" target="_blank" rel="noopener noreferrer">Most CHILLING UFO Sightings You Haven&#x27;t Heard About!</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 63.7K &middot; Uploaded: January 2019 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WUf77z92dq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WUf77z92dq0">Open on YouTube</a></p></div></div></div>
 
 ## Wider 1960s Patterns and Radar Reports
 
-Beyond the schoolyard reports, there are indications that **radar and military personnel on Florida’s defence networks logged unidentified aerial targets in 1967**. According to both MUFON and radar operator testimonies contained in UFO research newsletters, operators at Homestead and Key West reported tracking unidentified returns off the southeastern coast of Florida in March‑April of that year. Some accounts note objects moving at high speed and performing manoeuvres that did not match conventional aircraft profiles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://myemail.constantcontact.com/MUFON-UFO-Sighting-of-the-Month.html?aid=5G-7UTb1Z3w&amp;soid=1103452603797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myemail.constantcontact.com">[Constant Contact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myemail.constantcontact.com</span><span class="citation-popover-title">MUFON UFO Sighting of the Month</span><span class="citation-popover-snippet">Constant ContactUFO Sighting Of The MonthUSAF Investigation and Findings document number 1003764 dated 4 May 1967, event date April 7, 19...</span><span class="citation-popover-meta">Published: May 1967</span></span></span>
+Beyond the schoolyard reports, there are indications that **radar and military personnel on Florida’s defence networks logged unidentified aerial targets in 1967**. According to both MUFON and radar operator testimonies contained in UFO research newsletters, operators at Homestead and Key West reported tracking unidentified returns off the southeastern coast of Florida in March‑April of that year. Some accounts note objects moving at high speed and performing manoeuvres that did not match conventional aircraft profiles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://myemail.constantcontact.com/MUFON-UFO-Sighting-of-the-Month.html?aid=5G-7UTb1Z3w&amp;soid=1103452603797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myemail.constantcontact.com">[Constant Contact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myemail.constantcontact.com</span><span class="citation-popover-title">MUFON UFO Sighting of the Month</span><span class="citation-popover-snippet">Constant ContactUFO Sighting Of The MonthUSAF Investigation and Findings document number 1003764 dated 4 May 1967, event date April 7, 19...</span><span class="citation-popover-meta">Published: May 1967</span></span></span>
 
 These radar sightings, though not uniquely Floridian in the context of broader 1960s UFO reports, illustrate that Florida’s incident history included not only visual observations but also instrument‑based anomalies that drew attention from civilian and military observers alike.
 
 <img src="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-2-dark.svg" | relative_url }}" alt="Early Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Assessing Evidence and Skepticism
 
-Early Florida UFO reports are intriguing precisely because they sit at the intersection of witness testimony, physical trace investigation and official inquiry. The **1952 scoutmaster case** warranted direct Air Force involvement and remains one of the more physically documented encounters in mid‑century UFO investigations, even as interpretations differ about its meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Early Florida UFO reports are intriguing precisely because they sit at the intersection of witness testimony, physical trace investigation and official inquiry. The **1952 scoutmaster case** warranted direct Air Force involvement and remains one of the more physically documented encounters in mid‑century UFO investigations, even as interpretations differ about its meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-The **1967 Crestview Elementary sightings**, meanwhile, underscore how mass sightings of unusual aerial objects in broad daylight challenged observers and investigators at a time when the public imagination was acutely tuned to UFO phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
+The **1967 Crestview Elementary sightings**, meanwhile, underscore how mass sightings of unusual aerial objects in broad daylight challenged observers and investigators at a time when the public imagination was acutely tuned to UFO phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.secure.website">[files.secure.website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.secure.website</span><span class="citation-popover-snippet">APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</span><span class="citation-popover-meta">Published: April 7, 1967</span></span></span>
 
 Yet in both cases, ambiguity persists. Without definitive photographic evidence or corroborating instrumentation from independent sources, these historical reports remain unresolved in many respects. Skeptical analyses often point to misidentification of known aircraft, atmospheric phenomena, or human expectations shaped by the broader UFO culture of the era.
 
@@ -305,199 +305,199 @@ Yet in both cases, ambiguity persists. Without definitive photographic evidence 
 
 ## Why These Early Cases Matter
 
-Understanding Florida’s UFO history before Gulf Breeze enriches the broader picture of American aerial phenomena in the 20th century. These cases — whether ultimately explained or not — show that Floridians were reporting unusual aerial encounters long before the sensational wave of sightings in the late 1980s put Gulf Breeze at the centre of UFO discourse. They also illustrate the evolving interplay between witness testimony, media coverage, official investigation and later reinterpretation, a dynamic that continues to shape public perceptions of unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Understanding Florida’s UFO history before Gulf Breeze enriches the broader picture of American aerial phenomena in the 20th century. These cases — whether ultimately explained or not — show that Floridians were reporting unusual aerial encounters long before the sensational wave of sightings in the late 1980s put Gulf Breeze at the centre of UFO discourse. They also illustrate the evolving interplay between witness testimony, media coverage, official investigation and later reinterpretation, a dynamic that continues to shape public perceptions of unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-3-dark.svg" | relative_url }}" alt="Early Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Florida UFO Encounters Before Gulf Breeze. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Florida UFO Encounters Before Gulf Breeze. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines classic UFO reports and investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines classic UFO reports and investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Includes discussion of early 1950s UFO cases and Blue Book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of early 1950s UFO cases and Blue Book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides historical context for early Florida UFO encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for early Florida UFO encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Catalogues many notable mid-century sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Catalogues many notable mid-century sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Posters"><img src="https://i.ebayimg.com/images/g/AfkAAeSwfN5qJnfY/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer Area 51 Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Posters"><img src="https://i.ebayimg.com/images/g/AfkAAeSwfN5qJnfY/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer Area 51 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science"><img src="https://i.ebayimg.com/images/g/hI0AAOSwrJBoJzT8/s-l225.jpg" alt="Listing image for American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science"><img src="https://i.ebayimg.com/images/g/hI0AAOSwrJBoJzT8/s-l225.jpg" alt="Listing image for American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small A6 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/JoYAAOSwTntoL3lh/s-l225.jpg" alt="Listing image for Small A6 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">Small A6 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small A6 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/JoYAAOSwTntoL3lh/s-l225.jpg" alt="Listing image for Small A6 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">Small A6 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo history poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo history poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+history+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=florida-ufo-encounters-before-gulf-breeze-ufo-history-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo history poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="florida-ufo-encounters-before-gulf-breeze-ufo-history-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -513,7 +513,7 @@ Understanding Florida’s UFO history before Gulf Breeze enriches the broader pi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -533,7 +533,7 @@ Understanding Florida’s UFO history before Gulf Breeze enriches the broader pi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -565,7 +565,7 @@ Understanding Florida’s UFO history before Gulf Breeze enriches the broader pi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -617,7 +617,7 @@ Understanding Florida’s UFO history before Gulf Breeze enriches the broader pi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -662,7 +662,7 @@ Understanding Florida’s UFO history before Gulf Breeze enriches the broader pi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -703,101 +703,101 @@ Understanding Florida’s UFO history before Gulf Breeze enriches the broader pi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: ufo encounter florida desvergers scoutmaster burned  
-   Link: <a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. | HISTORYAugust 23, 2018...</p></details>
+   Link:<a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. | HISTORYAugust 23, 2018...</p></details>
    Published: August 23, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.secure.website  
-   Link: <a href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</p></details>
+   Link:<a href="https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10517518/25903896/usa-florida.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APRIL 7, 1967 – OPA LOCKA FLORIDAFebruary 26, 2020 — Later in the day it was discovered that the UFO sightings were not limited to the ch...</p></details>
    Published: April 7, 1967  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/670407opalocka_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/670407opalocka_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 1967. Opa Locka, Florida. Fran Ridge: April 7, 1967; Opa Locka, Florida 10:00 a.m. Children at Crestview Elementary School saw...</p></details>
+   Link:<a href="https://www.nicap.org/670407opalocka_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/670407opalocka_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 1967. Opa Locka, Florida. Fran Ridge: April 7, 1967; Opa Locka, Florida 10:00 a.m. Children at Crestview Elementary School saw...</p></details>
    Published: April 7, 1967  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: myemail.constantcontact.com  
    Title: MUFON UFO Sighting of the Month  
-   Link: <a href="https://myemail.constantcontact.com/MUFON-UFO-Sighting-of-the-Month.html?aid=5G-7UTb1Z3w&amp;soid=1103452603797" target="_blank" rel="noopener noreferrer nofollow">https://myemail.constantcontact.com/MUFON-UFO-Sighting-of-the-Month.html?aid=5G-7UTb1Z3w&amp;soid=1103452603797</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Constant ContactUFO Sighting Of The MonthUSAF Investigation and Findings document number 1003764 dated 4 May 1967, event date April 7, 19...</p></details>
+   Link:<a href="https://myemail.constantcontact.com/MUFON-UFO-Sighting-of-the-Month.html?aid=5G-7UTb1Z3w&amp;soid=1103452603797" target="_blank" rel="noopener noreferrer nofollow">https://myemail.constantcontact.com/MUFON-UFO-Sighting-of-the-Month.html?aid=5G-7UTb1Z3w&amp;soid=1103452603797</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constant ContactUFO Sighting Of The MonthUSAF Investigation and Findings document number 1003764 dated 4 May 1967, event date April 7, 19...</p></details>
    Published: May 1967  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1952e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952e.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15, 1952 Cattle Stampeded Twice By Mysterious “Object” A herd of cattle at the Everglades Experiment Station, Belle Glade, was stampeded...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1952e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952e.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15, 1952 Cattle Stampeded Twice By Mysterious “Object” A herd of cattle at the Everglades Experiment Station, Belle Glade, was stampeded...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=74085" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74085</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 7408514 Feb 2010 — NUFORC UFO Sighting 74085. Occurred: 1966-11-01 12:00 Local... Crestview Elementary school in Nor...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=74085" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74085</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 7408514 Feb 2010 — NUFORC UFO Sighting 74085. Occurred: 1966-11-01 12:00 Local... Crestview Elementary school in Nor...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Schoolyard-UFO-Encounters-True-Accounts/dp/1075776988" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Schoolyard-UFO-Encounters-True-Accounts/dp/1075776988</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schoolyard UFO Encounters: 100 True AccountsThe first part concerns incidents where a school has been involved in a UFO sightings; the se...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Schoolyard-UFO-Encounters-True-Accounts/dp/1075776988" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Schoolyard-UFO-Encounters-True-Accounts/dp/1075776988</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schoolyard UFO Encounters: 100 True AccountsThe first part concerns incidents where a school has been involved in a UFO sightings; the se...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Cristina_Gomez/playground-in-the-sky-documented-ufo-encounters-at-schools-across-the-globe-ce22e3d5398e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/playground-in-the-sky-documented-ufo-encounters-at-schools-across-the-globe-ce22e3d5398e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Documented UFO Encounters at Schools Across the GlobeCrestview Elementary: The “Cruise Ship” UFO (1967). In April... [https://www.ufoinsi...&quot;](https://www.ufoinsi...&quot;)...</p></details>
+   Link:<a href="https://medium.com/%40Cristina_Gomez/playground-in-the-sky-documented-ufo-encounters-at-schools-across-the-globe-ce22e3d5398e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/playground-in-the-sky-documented-ufo-encounters-at-schools-across-the-globe-ce22e3d5398e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Documented UFO Encounters at Schools Across the GlobeCrestview Elementary: The “Cruise Ship” UFO (1967). In April... [https://www.ufoinsi...&quot;](https://www.ufoinsi...&quot;)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: meaww.com  
-   Link: <a href="https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings" target="_blank" rel="noopener noreferrer nofollow">https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Season 1 Episode 7: The strange story of a scoutmaster who was attacked by a UFOFebruary 17, 2019 — &#x27;PROJECT BLUE BOO...</p></details>
+   Link:<a href="https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings" target="_blank" rel="noopener noreferrer nofollow">https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Season 1 Episode 7: The strange story of a scoutmaster who was attacked by a UFOFebruary 17, 2019 — &#x27;PROJECT BLUE BOO...</p></details>
    Published: February 17, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: the history of ufo sightings in north america goes back nearly 80 years explore  
-   Link: <a href="https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic UKIn 1978, five young ladies reported a UFO circling over the local college. More cases of UFOs chasing cars down Hic...</p></details>
+   Link:<a href="https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic UKIn 1978, five young ladies reported a UFO circling over the local college. More cases of UFOs chasing cars down Hic...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoinsight.com  
    Title: One Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightSeptember 10, 2023 — Image ONE OF THE MOST DIVISIVE CASES IN HISTORY: THE GULF BREEZE UFO ENCOUNTERS By Marcus Lowth Image: Pu...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightSeptember 10, 2023 — Image ONE OF THE MOST DIVISIVE CASES IN HISTORY: THE GULF BREEZE UFO ENCOUNTERS By Marcus Lowth Image: Pu...</p></details>
    Published: September 10, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thehiddentruth.co  
    Title: Des Vergers emerged burned and barely coherent from a dense palmetto gr  
-   Link: <a href="https://thehiddentruth.co/1952-scoutmaster-attacked-by-ufo-va-166/" target="_blank" rel="noopener noreferrer nofollow">https://thehiddentruth.co/1952-scoutmaster-attacked-by-ufo-va-166/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952: Scoutmaster Attacked by UFO | The Hidden TruthOctober 6, 2022 — 1952: SCOUTMASTER ATTACKED BY UFO [BACK] * * * Posted On: October 6...</p></details>
+   Link:<a href="https://thehiddentruth.co/1952-scoutmaster-attacked-by-ufo-va-166/" target="_blank" rel="noopener noreferrer nofollow">https://thehiddentruth.co/1952-scoutmaster-attacked-by-ufo-va-166/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952: Scoutmaster Attacked by UFO | The Hidden TruthOctober 6, 2022 — 1952: SCOUTMASTER ATTACKED BY UFO [BACK] * * * Posted On: October 6...</p></details>
    Published: October 6, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/trtworld/posts/us-releases-a-second-set-of-formerly-classified-records-about-alleged-ufo-encoun/1466335505528686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtworld/posts/us-releases-a-second-set-of-formerly-classified-records-about-alleged-ufo-encoun/1466335505528686/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephanie Holmes ▻ Unicorn Detectives - Mysteries - Ghosts Bigfoot UFO Alien Sightings...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/trtworld/posts/us-releases-a-second-set-of-formerly-classified-records-about-alleged-ufo-encoun/1466335505528686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtworld/posts/us-releases-a-second-set-of-formerly-classified-records-about-alleged-ufo-encoun/1466335505528686/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stephanie Holmes ▻ Unicorn Detectives - Mysteries - Ghosts Bigfoot UFO Alien Sightings...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: latest-ufo-sightings.net  
    Title: America Image: Scoutmaster Sonny Des Vergers got burned by a U  
-   Link: <a href="https://www.latest-ufo-sightings.net/2023/08/the-unsolved-enigma-of-scoutmaster-sonny-desvergers-a-close-encounter-of-the-third-kind-in-1952.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/08/the-unsolved-enigma-of-scoutmaster-sonny-desvergers-a-close-encounter-of-the-third-kind-in-1952.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Enigma of Scoutmaster Sonny DesVergers: A Close Encounter of the Third Kind in 1952 • Latest UFO SightingsAugust 25, 2023 —...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2023/08/the-unsolved-enigma-of-scoutmaster-sonny-desvergers-a-close-encounter-of-the-third-kind-in-1952.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/08/the-unsolved-enigma-of-scoutmaster-sonny-desvergers-a-close-encounter-of-the-third-kind-in-1952.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Enigma of Scoutmaster Sonny DesVergers: A Close Encounter of the Third Kind in 1952 • Latest UFO SightingsAugust 25, 2023 —...</p></details>
    Published: August 25, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sasquatchchronicles.com  
    Title: The grass where he claimed to have had the encounter  
-   Link: <a href="https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scoutmaster Had A Run In With A UFO - Sasquatch ChroniclesMarch 28, 2019 — Image Mar 28 THE SCOUTMASTER HAD A RUN IN WITH A UFO Inves...</p></details>
+   Link:<a href="https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scoutmaster Had A Run In With A UFO - Sasquatch ChroniclesMarch 28, 2019 — Image Mar 28 THE SCOUTMASTER HAD A RUN IN WITH A UFO Inves...</p></details>
    Published: March 28, 2019  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: flheritage.org  
    Title: What happened in the Gulf Breeze UFO Incident?  
-   Link: <a href="https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>* Image: Writer: Joe Marzo Joe Marzo * Oct 15, 2025 * 4 min read By Joe Marzo Image A QUIET FLORIDA TOWN BECOMES THE CENTER OF THE UFO WO...</p></details>
+   Link:<a href="https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>* Image: Writer: Joe Marzo Joe Marzo * Oct 15, 2025 * 4 min read By Joe Marzo Image A QUIET FLORIDA TOWN BECOMES THE CENTER OF THE UFO WO...</p></details>

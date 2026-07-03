@@ -250,14 +250,14 @@ image: /assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_fireballs_deb
 
 ## Introduction
 
-Some of Utah’s most dramatic UFO reports begin with a sudden streak of light, a glowing object breaking apart overhead, or what appears to be something falling from the sky. In many cases, witnesses genuinely believe they have seen a crashing craft, an unusual vehicle, or an object behaving unlike a normal aircraft. Yet some of the strongest explanations for these reports come from two well-understood sources: bright meteors, often called fireballs, and the re-entry of human-made space debris. Utah’s dark skies, wide horizons and large rural viewing areas make both phenomena especially noticeable. What looks at first like an extraordinary UFO can later turn out to be a natural object burning through the atmosphere or fragments of a rocket stage returning from orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The American Meteor Society&#x27;s fireball reporting database reported...Read more...</span></span></span>
+Some of Utah’s most dramatic UFO reports begin with a sudden streak of light, a glowing object breaking apart overhead, or what appears to be something falling from the sky. In many cases, witnesses genuinely believe they have seen a crashing craft, an unusual vehicle, or an object behaving unlike a normal aircraft. Yet some of the strongest explanations for these reports come from two well-understood sources: bright meteors, often called fireballs, and the re-entry of human-made space debris. Utah’s dark skies, wide horizons and large rural viewing areas make both phenomena especially noticeable. What looks at first like an extraordinary UFO can later turn out to be a natural object burning through the atmosphere or fragments of a rocket stage returning from orbit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The American Meteor Society&#x27;s fireball reporting database reported...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_fireballs_debri_28ed1c-Illustration-1-dark.svg" | relative_url }}" alt="Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_fireballs_debri_28ed1c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_fireballs_debri_28ed1c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean every witness account is careless or dishonest. Fireballs and re-entering debris can be genuinely startling. They are often brighter than Venus, can illuminate entire landscapes, may fragment into multiple glowing pieces, and sometimes produce delayed sonic booms. Those features overlap closely with descriptions found in many Utah UFO reports. Understanding that overlap is one of the most useful ways to separate a potentially unusual case from a likely misidentification.
 
 ## How fireballs differ from ordinary shooting stars
 
-Many people have seen a brief shooting star. A fireball is something much more dramatic. The American Meteor Society defines fireballs as exceptionally bright meteors, often visible over large regions and reported by many witnesses at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The American Meteor Society&#x27;s fireball reporting database reported...Read more...</span></span></span>
+Many people have seen a brief shooting star. A fireball is something much more dramatic. The American Meteor Society defines fireballs as exceptionally bright meteors, often visible over large regions and reported by many witnesses at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The American Meteor Society&#x27;s fireball reporting database reported...Read more...</span></span></span>
 
 In Utah, a fireball can produce several effects that encourage UFO interpretations:
 
@@ -274,11 +274,11 @@ In Utah, a fireball can produce several effects that encourage UFO interpretatio
 
 The distance problem is especially important. A meteor burning tens of kilometres above the Earth can look as though it is descending behind the next ridge or mountain range. Utah’s desert basins and mountain horizons provide few reliable visual references, making size and distance difficult to judge.
 
-This pattern appears repeatedly in public reporting. Bright fireballs seen across northern Utah, the Wasatch Front and western desert regions often generate clusters of reports describing a falling object, a crash, or an unknown craft. Later analysis commonly shows that the object was visible across multiple states at the same time, indicating an altitude and scale far beyond what witnesses initially estimated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">FOX 13 News Utah (KSTU)Comet?</span><span class="citation-popover-snippet">Fireball? UFO? What was that flash of light above...4 May 2025 — In August 2022, a meteorite was actually recovered in Salt Lake City, b...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This pattern appears repeatedly in public reporting. Bright fireballs seen across northern Utah, the Wasatch Front and western desert regions often generate clusters of reports describing a falling object, a crash, or an unknown craft. Later analysis commonly shows that the object was visible across multiple states at the same time, indicating an altitude and scale far beyond what witnesses initially estimated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">FOX 13 News Utah (KSTU)Comet?</span><span class="citation-popover-snippet">Fireball? UFO? What was that flash of light above...4 May 2025 — In August 2022, a meteorite was actually recovered in Salt Lake City, b...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ### Why green fireballs attract UFO claims
 
-One recurring source of confusion is the green fireball. Many witnesses assume a vivid green object must be unusual or artificial. In reality, green colouring is common in bright meteors because certain minerals and atmospheric interactions can produce green light during atmospheric entry. Scientific discussions of historical green-fireball waves have generally favoured meteoric explanations rather than exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/9030-mystery-green-fireball-ufos-solved.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">9030 mystery green fireball ufos solved</span><span class="citation-popover-snippet">Live ScienceMystery of Green Fireball &#x27;UFOs&#x27; Solved30 Nov 2010 — The timing of the fireballs suggests they might have been debris from Co...</span></span></span>
+One recurring source of confusion is the green fireball. Many witnesses assume a vivid green object must be unusual or artificial. In reality, green colouring is common in bright meteors because certain minerals and atmospheric interactions can produce green light during atmospheric entry. Scientific discussions of historical green-fireball waves have generally favoured meteoric explanations rather than exotic craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/9030-mystery-green-fireball-ufos-solved.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">9030 mystery green fireball ufos solved</span><span class="citation-popover-snippet">Live ScienceMystery of Green Fireball &#x27;UFOs&#x27; Solved30 Nov 2010 — The timing of the fireballs suggests they might have been debris from Co...</span></span></span>
 
 Green fireballs have a long place in American UFO folklore, including reports throughout the western states. In Utah, where dark skies make colours easier to see, the effect can be especially striking. Witnesses may remember the colour more strongly than the object's actual motion, leading to descriptions that sound stranger than the original event.
 
@@ -288,7 +288,7 @@ Green fireballs have a long place in American UFO folklore, including reports th
 
 If meteors create confusion, re-entering rocket debris can be even more misleading.
 
-A natural meteor usually appears as a single fast-moving streak. Rocket stages and other orbital debris often behave differently. They can move more slowly, remain visible for longer, and break into long chains of glowing fragments. Witnesses may see multiple lights travelling together, changing shape, or spreading across a large section of sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span>
+A natural meteor usually appears as a single fast-moving streak. Rocket stages and other orbital debris often behave differently. They can move more slowly, remain visible for longer, and break into long chains of glowing fragments. Witnesses may see multiple lights travelling together, changing shape, or spreading across a large section of sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span>
 
 These characteristics overlap with classic UFO descriptions:
 
@@ -302,15 +302,15 @@ These characteristics overlap with classic UFO descriptions:
 
 </div>
 
-Several widely observed western US sky events initially produced UFO speculation before being linked to rocket re-entries. One notable example occurred in July 2016, when debris from China's Long March 7 rocket produced a spectacular display visible across much of the western United States. Reports came from several states, including Utah. Astronomers later identified the source as re-entering rocket hardware rather than a natural meteor or unknown craft. Observers described multiple fiery streaks moving across the sky, exactly the kind of appearance that can generate UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/33581-amazing-fireball-from-chinese-rocket-space-junk-video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">33581 amazing fireball from chinese rocket space junk video</span><span class="citation-popover-snippet">Amazing Fireball Over Western US Caused by Chinese...28 Jul 2016 — NASA astronaut Chris Williams photographed this fireball — likel...</span></span></span>
+Several widely observed western US sky events initially produced UFO speculation before being linked to rocket re-entries. One notable example occurred in July 2016, when debris from China's Long March 7 rocket produced a spectacular display visible across much of the western United States. Reports came from several states, including Utah. Astronomers later identified the source as re-entering rocket hardware rather than a natural meteor or unknown craft. Observers described multiple fiery streaks moving across the sky, exactly the kind of appearance that can generate UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/33581-amazing-fireball-from-chinese-rocket-space-junk-video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">33581 amazing fireball from chinese rocket space junk video</span><span class="citation-popover-snippet">Amazing Fireball Over Western US Caused by Chinese...28 Jul 2016 — NASA astronaut Chris Williams photographed this fireball — likel...</span></span></span>
 
-More recently, re-entering SpaceX hardware and satellites have produced similar confusion across the American West. In some cases, reports extended as far east as Utah, with witnesses describing glowing objects, unusual formations and apparent fragmentation before experts identified the events as controlled or uncontrolled re-entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfgate.com/bayarea/article/mysterious-fireball-san-francisco-tahoe-vegas-20241946.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">Mysterious &#x27;fireball&#x27; spotted flying over San Francisco, Tahoe, Vegas</span><span class="citation-popover-snippet">Astronomers clarified it was not a meteorite but debris from SpaceX’s DRAGON FREEDOM-2 DEB spacecraft reentering Earth’s atmosphere. The...</span></span></span>
+More recently, re-entering SpaceX hardware and satellites have produced similar confusion across the American West. In some cases, reports extended as far east as Utah, with witnesses describing glowing objects, unusual formations and apparent fragmentation before experts identified the events as controlled or uncontrolled re-entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfgate.com/bayarea/article/mysterious-fireball-san-francisco-tahoe-vegas-20241946.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">Mysterious &#x27;fireball&#x27; spotted flying over San Francisco, Tahoe, Vegas</span><span class="citation-popover-snippet">Astronomers clarified it was not a meteorite but debris from SpaceX’s DRAGON FREEDOM-2 DEB spacecraft reentering Earth’s atmosphere. The...</span></span></span>
 
 ### The growing role of space debris
 
 This source of misidentification is becoming more important rather than less important.
 
-Researchers studying atmospheric re-entries note that artificial objects are becoming increasingly common in the sky as launch rates rise. Fireball-observation networks now devote significant effort to distinguishing natural meteors from re-entering spacecraft components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span>
+Researchers studying atmospheric re-entries note that artificial objects are becoming increasingly common in the sky as launch rates rise. Fireball-observation networks now devote significant effort to distinguishing natural meteors from re-entering spacecraft components.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span>
 
 For Utah UFO history, this matters because reports from the 1950s and 1960s rarely involved large numbers of satellites or commercial launch systems. Modern witnesses live under a sky containing vastly more human-made objects. Some unusual lights reported today would not have existed during earlier UFO waves.
 
@@ -319,11 +319,11 @@ For Utah UFO history, this matters because reports from the 1950s and 1960s rare
 
 Many Utah fireball events follow a familiar pattern. A bright object appears over a wide area, social media fills with speculation, and some witnesses describe a UFO or possible crash. Hours later, astronomers, meteor networks or satellite trackers provide a more conventional explanation.
 
-In May 2025, a bright object seen across Utah generated widespread discussion, with reports ranging from Salt Lake County to Box Elder County and beyond. Witness videos captured a dramatic streak of light crossing the sky. Reporting quickly raised questions about whether it was a meteor, a UFO or something else, but the event fit the pattern of a major fireball visible across several western states. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">FOX 13 News Utah (KSTU)Comet?</span><span class="citation-popover-snippet">Fireball? UFO? What was that flash of light above...4 May 2025 — In August 2022, a meteorite was actually recovered in Salt Lake City, b...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+In May 2025, a bright object seen across Utah generated widespread discussion, with reports ranging from Salt Lake County to Box Elder County and beyond. Witness videos captured a dramatic streak of light crossing the sky. Reporting quickly raised questions about whether it was a meteor, a UFO or something else, but the event fit the pattern of a major fireball visible across several western states.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">FOX 13 News Utah (KSTU)Comet?</span><span class="citation-popover-snippet">Fireball? UFO? What was that flash of light above...4 May 2025 — In August 2022, a meteorite was actually recovered in Salt Lake City, b...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-Another example came in April 2026, when a bright early-morning fireball was reported across Utah and neighbouring states. Witnesses described an intense flash and a striking object crossing the sky. As with many similar incidents, reports arrived from a broad geographic area, suggesting a high-altitude atmospheric event rather than a nearby unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eastidahonews.com/2026/04/bright-fireball-may-have-dropped-debris-over-utah-early-thursday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eastidahonews.com">[East Idaho News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eastidahonews.com</span><span class="citation-popover-snippet">East Idaho NewsBright fireball lit up night sky, may have dropped debris...24 Apr 2026 — Multiple reports confirm the fireball lit up th...</span></span></span>
+Another example came in April 2026, when a bright early-morning fireball was reported across Utah and neighbouring states. Witnesses described an intense flash and a striking object crossing the sky. As with many similar incidents, reports arrived from a broad geographic area, suggesting a high-altitude atmospheric event rather than a nearby unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eastidahonews.com/2026/04/bright-fireball-may-have-dropped-debris-over-utah-early-thursday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eastidahonews.com">[East Idaho News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eastidahonews.com</span><span class="citation-popover-snippet">East Idaho NewsBright fireball lit up night sky, may have dropped debris...24 Apr 2026 — Multiple reports confirm the fireball lit up th...</span></span></span>
 
-The American Meteor Society's reporting system regularly logs Utah fireball observations, often showing multiple independent reports from different communities describing the same event. This wider geographic perspective frequently helps investigators determine that an apparently local mystery was actually a regional atmospheric phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The American Meteor Society&#x27;s fireball reporting database reported...Read more...</span></span></span>
+The American Meteor Society's reporting system regularly logs Utah fireball observations, often showing multiple independent reports from different communities describing the same event. This wider geographic perspective frequently helps investigators determine that an apparently local mystery was actually a regional atmospheric phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The American Meteor Society&#x27;s fireball reporting database reported...Read more...</span></span></span>
 
 ## Clues that separate falling objects from unknown craft
 
@@ -363,7 +363,7 @@ Re-entering debris often leaves a different signature:
 
 </div>
 
-Because debris pieces can separate gradually, observers sometimes describe apparent formation flying or coordinated movement. What looks like intelligent control can simply be fragmentation occurring at orbital speeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/27658-meteors-monday-red-bull-stunt.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Three Fireballs Lit Up US Skies Monday, But One Might Be...4 Nov 2014 — The fireball seen over Arkansas was most likely a Taurid meteor...</span></span></span>
+Because debris pieces can separate gradually, observers sometimes describe apparent formation flying or coordinated movement. What looks like intelligent control can simply be fragmentation occurring at orbital speeds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/27658-meteors-monday-red-bull-stunt.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Three Fireballs Lit Up US Skies Monday, But One Might Be...4 Nov 2014 — The fireball seen over Arkansas was most likely a Taurid meteor...</span></span></span>
 
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_fireballs_debri_28ed1c-Illustration-3-dark.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_fireballs_debri_28ed1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459_utah_fireballs_debri_28ed1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What remains genuinely harder to explain
@@ -378,199 +378,199 @@ Fireballs and rocket debris occupy an important place in Utah's UFO record becau
 
 The strongest lesson is not that every report is explained. Rather, it is that some of the most dramatic reports are precisely the ones most likely to attract conventional explanations later. A brilliant green object breaking apart over the desert, a chain of glowing lights crossing the night sky, or an apparent crash beyond a mountain ridge can all feel deeply mysterious in the moment.
 
-Utah's combination of dark skies, broad horizons and active skywatching culture ensures that these events receive attention whenever they occur. As satellite constellations expand and orbital traffic increases, the state will probably continue producing UFO reports that begin with a spectacular sight in the sky and end with investigators tracing the event to a meteor, a rocket stage or another piece of returning space hardware. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span>
+Utah's combination of dark skies, broad horizons and active skywatching culture ensures that these events receive attention whenever they occur. As satellite constellations expand and orbital traffic increases, the state will probably continue producing UFO reports that begin with a spectacular sight in the sky and end with investigators tracing the event to a meteor, a rocket stage or another piece of returning space hardware.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c94BKfcSw_I" title="Utah Fireball - The Mystery Of Dugway Military Base| Meteorite Men" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c94BKfcSw_I" target="_blank" rel="noopener noreferrer">Utah Fireball - The Mystery Of Dugway Military Base| Meteorite Men</a></p><p class="youtube-embed-meta">Channel: Curious? Science and Engineering &middot; Views: 8.0K &middot; Uploaded: January 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c94BKfcSw_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c94BKfcSw_I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Falling Lights Become Utah UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Falling Lights Become Utah UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how astronomical events become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how astronomical events become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why dramatic events can generate extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains why dramatic events can generate extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly relates to fireballs and atmospheric phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to fireballs and atmospheric phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation of unusual sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation of unusual sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/9NkAAOSwuaJmOQ-v/s-l225.jpg" alt="Listing image for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/9NkAAOSwuaJmOQ-v/s-l225.jpg" alt="Listing image for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-falling-lights-become-utah-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ Utah's combination of dark skies, broad horizons and active skywatching culture 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ Utah's combination of dark skies, broad horizons and active skywatching culture 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ Utah's combination of dark skies, broad horizons and active skywatching culture 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ Utah's combination of dark skies, broad horizons and active skywatching culture 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ Utah's combination of dark skies, broad horizons and active skywatching culture 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,160 +776,160 @@ Utah's combination of dark skies, broad horizons and active skywatching culture 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.01004</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</p></details>
+   Link:<a href="https://arxiv.org/abs/2109.01004" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.01004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using fireball networks to track more frequent reentries: Falcon 9 upper stage orbit determination from video recordingsSeptember 2...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: 33581 amazing fireball from chinese rocket space junk video  
-   Link: <a href="https://www.space.com/33581-amazing-fireball-from-chinese-rocket-space-junk-video.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/33581-amazing-fireball-from-chinese-rocket-space-junk-video.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Fireball Over Western US Caused by Chinese...28 Jul 2016 — NASA astronaut Chris Williams photographed this fireball — likel...</p></details>
+   Link:<a href="https://www.space.com/33581-amazing-fireball-from-chinese-rocket-space-junk-video.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/33581-amazing-fireball-from-chinese-rocket-space-junk-video.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Fireball Over Western US Caused by Chinese...28 Jul 2016 — NASA astronaut Chris Williams photographed this fireball — likel...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/4428132/debris-chinese-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4428132/debris-chinese-rocket/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Long March 7 Rocket’s remnants passed over regions including California, Colorado, Nevada, Utah, and Idaho, sparking numerous social...</p></details>
+   Link:<a href="https://time.com/4428132/debris-chinese-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4428132/debris-chinese-rocket/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Long March 7 Rocket’s remnants passed over regions including California, Colorado, Nevada, Utah, and Idaho, sparking numerous social...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sfgate.com  
    Title: Mysterious 'fireball' spotted flying over San Francisco, Tahoe, Vegas  
-   Link: <a href="https://www.sfgate.com/bayarea/article/mysterious-fireball-san-francisco-tahoe-vegas-20241946.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/bayarea/article/mysterious-fireball-san-francisco-tahoe-vegas-20241946.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers clarified it was not a meteorite but debris from SpaceX’s DRAGON FREEDOM-2 DEB spacecraft reentering Earth’s atmosphere. The...</p></details>
+   Link:<a href="https://www.sfgate.com/bayarea/article/mysterious-fireball-san-francisco-tahoe-vegas-20241946.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/bayarea/article/mysterious-fireball-san-francisco-tahoe-vegas-20241946.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers clarified it was not a meteorite but debris from SpaceX’s DRAGON FREEDOM-2 DEB spacecraft reentering Earth’s atmosphere. The...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Unnecessary risks created by uncontrolled rocket reentries  
-   Link: <a href="https://arxiv.org/abs/2210.02188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.02188</a>  
+   Link:<a href="https://arxiv.org/abs/2210.02188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.02188</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/27658-meteors-monday-red-bull-stunt.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/27658-meteors-monday-red-bull-stunt.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Fireballs Lit Up US Skies Monday, But One Might Be...4 Nov 2014 — The fireball seen over Arkansas was most likely a Taurid meteor...</p></details>
+   Link:<a href="https://www.space.com/27658-meteors-monday-red-bull-stunt.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/27658-meteors-monday-red-bull-stunt.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three Fireballs Lit Up US Skies Monday, But One Might Be...4 Nov 2014 — The fireball seen over Arkansas was most likely a Taurid meteor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Meteor Society&#x27;s fireball reporting database reported...Read more...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The American Meteor Society&#x27;s fireball reporting database reported...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Bright fireball streaks across Utah sky, dropping debris  
-   Link: <a href="https://www.youtube.com/watch?v=qiQEXcBhC9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qiQEXcBhC9o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Space Junk&#x27; seen around Utah July 27, 2016 - KUTV viewer submitted videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qiQEXcBhC9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qiQEXcBhC9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Space Junk&#x27; seen around Utah July 27, 2016 - KUTV viewer submitted videos...</p></details>
    Published: July 27, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: 'Space Junk' seen around Utah  
-   Link: <a href="https://www.youtube.com/watch?v=CSVAc5R55so" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CSVAc5R55so</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Seen Over Western US Was Spent Chinese Rocket | Video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CSVAc5R55so" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CSVAc5R55so</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Seen Over Western US Was Spent Chinese Rocket | Video...</p></details>
    Published: July 27, 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Salt Lake City in potential path of space debris from Chinese rocket  
-   Link: <a href="https://www.youtube.com/watch?v=mlpzXV0q4iE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mlpzXV0q4iE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utah Fireball - The Mystery Of Dugway Military Base | Meteorite Men...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mlpzXV0q4iE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mlpzXV0q4iE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utah Fireball - The Mystery Of Dugway Military Base | Meteorite Men...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Utah Fireball  
-   Link: <a href="https://www.youtube.com/watch?v=c94BKfcSw_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c94BKfcSw_I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Over Utah 11-18-2009...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c94BKfcSw_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c94BKfcSw_I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Over Utah 11-18-2009...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor show...</p></details>
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor show...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amsmeteors.org  
    Title: fireball report  
-   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the a...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fox13now.com  
    Title: FOX 13 News Utah (KSTU)Comet?  
-   Link: <a href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball? UFO? What was that flash of light above...4 May 2025 — In August 2022, a meteorite was actually recovered in Salt Lake City, b...</p></details>
+   Link:<a href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball? UFO? What was that flash of light above...4 May 2025 — In August 2022, a meteorite was actually recovered in Salt Lake City, b...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eastidahonews.com  
-   Link: <a href="https://www.eastidahonews.com/2026/04/bright-fireball-may-have-dropped-debris-over-utah-early-thursday/" target="_blank" rel="noopener noreferrer nofollow">https://www.eastidahonews.com/2026/04/bright-fireball-may-have-dropped-debris-over-utah-early-thursday/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>East Idaho NewsBright fireball lit up night sky, may have dropped debris...24 Apr 2026 — Multiple reports confirm the fireball lit up th...</p></details>
+   Link:<a href="https://www.eastidahonews.com/2026/04/bright-fireball-may-have-dropped-debris-over-utah-early-thursday/" target="_blank" rel="noopener noreferrer nofollow">https://www.eastidahonews.com/2026/04/bright-fireball-may-have-dropped-debris-over-utah-early-thursday/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>East Idaho NewsBright fireball lit up night sky, may have dropped debris...24 Apr 2026 — Multiple reports confirm the fireball lit up th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: livescience.com  
    Title: 9030 mystery green fireball ufos solved  
-   Link: <a href="https://www.livescience.com/9030-mystery-green-fireball-ufos-solved.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/9030-mystery-green-fireball-ufos-solved.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceMystery of Green Fireball &#x27;UFOs&#x27; Solved30 Nov 2010 — The timing of the fireballs suggests they might have been debris from Co...</p></details>
+   Link:<a href="https://www.livescience.com/9030-mystery-green-fireball-ufos-solved.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/9030-mystery-green-fireball-ufos-solved.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceMystery of Green Fireball &#x27;UFOs&#x27; Solved30 Nov 2010 — The timing of the fireballs suggests they might have been debris from Co...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&amp;month=1&amp;search_by_month=1&amp;state=UT&amp;year=2024" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&amp;month=1&amp;search_by_month=1&amp;state=UT&amp;year=2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyJan 2024 - Report a Fireball - American Meteor SocietyReports found: 7 in January 2024 in UT - (US); 434a, 2024-0...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&amp;month=1&amp;search_by_month=1&amp;state=UT&amp;year=2024" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&amp;month=1&amp;search_by_month=1&amp;state=UT&amp;year=2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyJan 2024 - Report a Fireball - American Meteor SocietyReports found: 7 in January 2024 in UT - (US); 434a, 2024-0...</p></details>
    Published: January 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fox13now.com  
-   Link: <a href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFO25 Jul 2022 — According to findstarlink.com, the train...</p></details>
+   Link:<a href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 News Utah (KSTU)Utahns report unusual sight in night sky, but it&#x27;s not a UFO25 Jul 2022 — According to findstarlink.com, the train...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/11/us-news/broken-[starlink" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/11/us-news/broken-[starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it was later identified as a human-made phenomenon—a SpaceX Starlink satellite re-entering Earth&#x27;s atmosphere. Reports of the ev...</p></details>
+   Link:<a href="https://nypost.com/2024/11/11/us-news/broken-[starlink" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/11/us-news/broken-[starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, it was later identified as a human-made phenomenon—a SpaceX Starlink satellite re-entering Earth&#x27;s atmosphere. Reports of the ev...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nbcnewyork.com  
-   Link: <a href="https://www.nbcnewyork.com/video/on-air/as-seen-on/rocket-re-entry-lights-up-sky-over-utah_new-york/1379359/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcnewyork.com/video/on-air/as-seen-on/rocket-re-entry-lights-up-sky-over-utah_new-york/1379359/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Re-Entry Lights Up Sky Over UtahA rocket body used in the launch of a Chinese satellite in December reenters Earth&#x27;s atmosphere, l...</p></details>
+   Link:<a href="https://www.nbcnewyork.com/video/on-air/as-seen-on/rocket-re-entry-lights-up-sky-over-utah_new-york/1379359/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcnewyork.com/video/on-air/as-seen-on/rocket-re-entry-lights-up-sky-over-utah_new-york/1379359/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Re-Entry Lights Up Sky Over UtahA rocket body used in the launch of a Chinese satellite in December reenters Earth&#x27;s atmosphere, l...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/utahweather/posts/2381634485628489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/utahweather/posts/2381634485628489/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual light seen in the night skyI haven&#x27;t ever seen a trail this strong during the night. Holy cow! It was almost like a light beaming...</p></details>
+   Link:<a href="https://www.facebook.com/groups/utahweather/posts/2381634485628489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/utahweather/posts/2381634485628489/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual light seen in the night skyI haven&#x27;t ever seen a trail this strong during the night. Holy cow! It was almost like a light beaming...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/videos?video_id=22076" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=22076</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideosOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and related meteoric phe...</p></details>
+   Link:<a href="https://www.amsmeteors.org/videos?video_id=22076" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=22076</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideosOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and related meteoric phe...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXeW2FeAiHL/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXeW2FeAiHL/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXeW2FeAiHL/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXeW2FeAiHL/?hl=en</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: 06 april 2026 video circulating online showed bright streaks of light crossing t  
-   Link: <a href="https://www.facebook.com/thesundaily/posts/06-april-2026-video-circulating-online-showed-bright-streaks-of-light-crossing-t/1565959225535529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesundaily/posts/06-april-2026-video-circulating-online-showed-bright-streaks-of-light-crossing-t/1565959225535529/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>debris from a SpaceX Falcon 9 rocket burning up in Earth&#x27;s atmosphere.... The images show the post about strange lights seen in the sky...</p></details>
+   Link:<a href="https://www.facebook.com/thesundaily/posts/06-april-2026-video-circulating-online-showed-bright-streaks-of-light-crossing-t/1565959225535529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesundaily/posts/06-april-2026-video-circulating-online-showed-bright-streaks-of-light-crossing-t/1565959225535529/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>debris from a SpaceX Falcon 9 rocket burning up in Earth&#x27;s atmosphere.... The images show the post about strange lights seen in the sky...</p></details>
    Published: april 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: did you check your doorbell camera another cool video of the ball of fire that l  
-   Link: <a href="https://www.facebook.com/KUTVHeidiHatch/posts/did-you-check-your-doorbell-camera-another-cool-video-of-the-ball-of-fire-that-l/1365252032095990/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KUTVHeidiHatch/posts/did-you-check-your-doorbell-camera-another-cool-video-of-the-ball-of-fire-that-l/1365252032095990/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you check your doorbell camera? Another cool video of...On Apr 23, 2024, the network reported 31 fireballs. (17 sporadics, 14 Lyrids...</p></details>
+   Link:<a href="https://www.facebook.com/KUTVHeidiHatch/posts/did-you-check-your-doorbell-camera-another-cool-video-of-the-ball-of-fire-that-l/1365252032095990/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KUTVHeidiHatch/posts/did-you-check-your-doorbell-camera-another-cool-video-of-the-ball-of-fire-that-l/1365252032095990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did you check your doorbell camera? Another cool video of...On Apr 23, 2024, the network reported 31 fireballs. (17 sporadics, 14 Lyrids...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/space-news/whats-behind-the-recent-spike-in-meteor-sightings-across-the-us-europe/1876408" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/space-news/whats-behind-the-recent-spike-in-meteor-sightings-across-the-us-europe/1876408</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Every fireball in the AMS database with sufficient trajectory data is consistent with objects on heliocentric orbits — material orbiting...</p></details>
+   Link:<a href="https://www.accuweather.com/en/space-news/whats-behind-the-recent-spike-in-meteor-sightings-across-the-us-europe/1876408" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/space-news/whats-behind-the-recent-spike-in-meteor-sightings-across-the-us-europe/1876408</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Every fireball in the AMS database with sufficient trajectory data is consistent with objects on heliocentric orbits — material orbiting...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FcB7bsgH1yA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FcB7bsgH1yA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball streaks across Utah sky, surprises early morning driversA bright fireball streaked across Utah&#x27;s skies early Thursday morning, s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FcB7bsgH1yA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FcB7bsgH1yA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball streaks across Utah sky, surprises early morning driversA bright fireball streaked across Utah&#x27;s skies early Thursday morning, s...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NGrpGC7aQak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NGrpGC7aQak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METEOR MELTDOWN OVER THE USA ☄️ What&#x27;s Really...[https://fireballs.ndc](https://fireballs.ndc).... American Meteor Society: [https://www](https://www)... The Most Shocking Ali...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NGrpGC7aQak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NGrpGC7aQak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>METEOR MELTDOWN OVER THE USA ☄️ What&#x27;s Really...[https://fireballs.ndc](https://fireballs.ndc).... American Meteor Society: [https://www](https://www)... The Most Shocking Ali...</p></details>

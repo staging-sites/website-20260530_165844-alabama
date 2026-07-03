@@ -250,12 +250,12 @@ image: /assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_l
 
 ## Introduction
 
-In California’s UFO reporting history, one recurrent and well‑documented source of misidentified “unidentified flying objects” is the spectacular visual effect created by rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxla.com">[FOX 11 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxla.com</span><span class="citation-popover-snippet">FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies &#124; FOX 11 Los AngelesMarch 19, 2024...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span> **Vandenberg Space Force Base** on the Central Coast. These launches — including SpaceX’s frequent Falcon 9 missions — routinely produce dramatic light trails, plasma plumes, columns, and iridescent cloud formations that can be seen hundreds of miles away, especially around dawn or dusk. To many casual observers on the ground such phenomena look unfamiliar and mysterious, prompting emergency calls, social‑media speculation and entries in civilian UFO reporting databases. Understanding how and why these rocket launch signatures trigger misidentifications helps explain a notable pattern in California’s UFO archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Space X Rocket Launch Sparks UFO Rumors On Social Media</span><span class="citation-popover-snippet">CBS NewsSpaceX Rocket Launch Sparks UFO Rumors On Social Media - CBS New YorkDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
+In California’s UFO reporting history, one recurrent and well‑documented source of misidentified “unidentified flying objects” is the spectacular visual effect created by rocket launches from<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxla.com">[FOX 11 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxla.com</span><span class="citation-popover-snippet">FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies &#124; FOX 11 Los AngelesMarch 19, 2024...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span> **Vandenberg Space Force Base** on the Central Coast. These launches — including SpaceX’s frequent Falcon 9 missions — routinely produce dramatic light trails, plasma plumes, columns, and iridescent cloud formations that can be seen hundreds of miles away, especially around dawn or dusk. To many casual observers on the ground such phenomena look unfamiliar and mysterious, prompting emergency calls, social‑media speculation and entries in civilian UFO reporting databases. Understanding how and why these rocket launch signatures trigger misidentifications helps explain a notable pattern in California’s UFO archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Space X Rocket Launch Sparks UFO Rumors On Social Media</span><span class="citation-popover-snippet">CBS NewsSpaceX Rocket Launch Sparks UFO Rumors On Social Media - CBS New YorkDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
 
 <img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-1-dark.svg" | relative_url }}" alt="Vandenberg Launches illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Rocket Plumes Produce “UFO‑Like” Sky Effects
 
-Modern orbital and suborbital rockets lift off with exhaust plumes that interact with sunlight and the upper atmosphere in ways unfamiliar to most skywatchers. At high altitude, hydrocarbon‑rich rocket exhaust expands into thin ice‑crystal clouds that catch low‑angle light after sunset or before sunrise, producing glowing streaks, spiral shapes or expansive bright plumes against a darkening sky. These effects are particularly vivid when viewed at long range, where perspective foreshortens the rocket’s trajectory and accentuates the luminous trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">its a bird its a ufo its … a falcon 9 rocket</span><span class="citation-popover-snippet">its a bird its a ufo its … a falcon 9 rocket</span></span></span>
+Modern orbital and suborbital rockets lift off with exhaust plumes that interact with sunlight and the upper atmosphere in ways unfamiliar to most skywatchers. At high altitude, hydrocarbon‑rich rocket exhaust expands into thin ice‑crystal clouds that catch low‑angle light after sunset or before sunrise, producing glowing streaks, spiral shapes or expansive bright plumes against a darkening sky. These effects are particularly vivid when viewed at long range, where perspective foreshortens the rocket’s trajectory and accentuates the luminous trail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">its a bird its a ufo its … a falcon 9 rocket</span><span class="citation-popover-snippet">its a bird its a ufo its … a falcon 9 rocket</span></span></span>
 
 Several factors contribute to misidentification:
 
@@ -267,24 +267,24 @@ Several factors contribute to misidentification:
 
 </div>
 
-When a rocket is visible from far beyond its launch site, local media and emergency services can receive multiple reports of strange sightings until the launch is confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpbs.org">[KPBS Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpbs.org</span><span class="citation-popover-snippet">KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents &#124; KPBS Public MediaDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
+When a rocket is visible from far beyond its launch site, local media and emergency services can receive multiple reports of strange sightings until the launch is confirmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpbs.org">[KPBS Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpbs.org</span><span class="citation-popover-snippet">KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents &#124; KPBS Public MediaDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/myp5U38iVtE" title="SpaceX launch spooks the west coast, causes #aliens to trend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=myp5U38iVtE" target="_blank" rel="noopener noreferrer">SpaceX launch spooks the west coast, causes #aliens to trend</a></p><p class="youtube-embed-meta">Channel: Washington Post &middot; Views: 105.5K &middot; Uploaded: December 2017 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=myp5U38iVtE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=myp5U38iVtE">Open on YouTube</a></p></div></div></div>
 
 ## Notable California Sightings Linked to Vandenberg Launches
 
-One especially prominent wave of sightings occurred on 22 December 2017, when a **SpaceX Falcon 9 rocket** lifted off from Vandenberg carrying Iridium satellites. Residents across Southern California reported bright lights, glowing streaks and strange cloud structures in the night sky, with many initially speculating about UFOs or unknown aerial phenomena. Local authorities, including the Los Angeles Fire Department, issued statements clarifying the origin of the sighting as a rocket launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpbs.org">[KPBS Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpbs.org</span><span class="citation-popover-snippet">KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents &#124; KPBS Public MediaDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
+One especially prominent wave of sightings occurred on 22 December 2017, when a **SpaceX Falcon 9 rocket** lifted off from Vandenberg carrying Iridium satellites. Residents across Southern California reported bright lights, glowing streaks and strange cloud structures in the night sky, with many initially speculating about UFOs or unknown aerial phenomena. Local authorities, including the Los Angeles Fire Department, issued statements clarifying the origin of the sighting as a rocket launch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpbs.org">[KPBS Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpbs.org</span><span class="citation-popover-snippet">KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents &#124; KPBS Public MediaDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
 
-News coverage from multiple outlets recounts how the launch’s luminous contrail was visible from Long Beach to San Diego, causing drivers to stop and film the event and prompting social media speculation about “mysterious lights in the sky.” SpaceX’s chief executive, Elon Musk, even joked on social platforms about the event’s resemblance to a “nuclear alien UFO”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Space X Rocket Launch Sparks UFO Rumors On Social Media</span><span class="citation-popover-snippet">CBS NewsSpaceX Rocket Launch Sparks UFO Rumors On Social Media - CBS New YorkDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
+News coverage from multiple outlets recounts how the launch’s luminous contrail was visible from Long Beach to San Diego, causing drivers to stop and film the event and prompting social media speculation about “mysterious lights in the sky.” SpaceX’s chief executive, Elon Musk, even joked on social platforms about the event’s resemblance to a “nuclear alien UFO”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Space X Rocket Launch Sparks UFO Rumors On Social Media</span><span class="citation-popover-snippet">CBS NewsSpaceX Rocket Launch Sparks UFO Rumors On Social Media - CBS New YorkDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
 
-Other similar episodes are documented both in mainstream reporting and in civilian UFO forums. Reddit threads describe how observers in 2022 and 2023 saw dramatic streaks or cloud‑like formations over California that they initially took for UFOs, only to later learn they coincided with Vandenberg launches by SpaceX or other operators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/LosAngeles/comments/yf9pii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Any one know what this is? Moor Park area, didn’t pop like a firework but did expand into a oval like bubble towards the endOctober...</span></span></span>
+Other similar episodes are documented both in mainstream reporting and in civilian UFO forums. Reddit threads describe how observers in 2022 and 2023 saw dramatic streaks or cloud‑like formations over California that they initially took for UFOs, only to later learn they coincided with Vandenberg launches by SpaceX or other operators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/LosAngeles/comments/yf9pii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Any one know what this is? Moor Park area, didn’t pop like a firework but did expand into a oval like bubble towards the endOctober...</span></span></span>
 
 <img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-2-dark.svg" | relative_url }}" alt="Vandenberg Launches illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Historical Rocket Misidentifications
 
-Even mid‑20th‑century launches from Vandenberg produced ambiguous recordings. The 1963 *Condon Report* on UFOs discusses a case in which tracking cameras at Vandenberg captured a bright “object” near a Thor‑Agena rocket launch that was later identified as the planet Venus, underscoring how routine aerospace activity can masquerade as something unexplained in the absence of contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 51: Vandenberg AFBDecember 5, 1963...</span><span class="citation-popover-meta">Published: December 5, 1963</span></span></span>
+Even mid‑20th‑century launches from Vandenberg produced ambiguous recordings. The 1963 *Condon Report* on UFOs discusses a case in which tracking cameras at Vandenberg captured a bright “object” near a Thor‑Agena rocket launch that was later identified as the planet Venus, underscoring how routine aerospace activity can masquerade as something unexplained in the absence of contextual data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 51: Vandenberg AFBDecember 5, 1963...</span><span class="citation-popover-meta">Published: December 5, 1963</span></span></span>
 
-A related claim from 1964, known as the **Big Sur UFO**, involved military personnel photographing an unusual light near an Atlas rocket test. Subsequent analyses by sceptical researchers concluded the footage likely showed rocket decoys and chaff rather than an “intelligently controlled” object, illustrating how aerospace test imagery can fuel extraordinary interpretations without careful technical context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+A related claim from 1964, known as the **Big Sur UFO**, involved military personnel photographing an unusual light near an Atlas rocket test. Subsequent analyses by sceptical researchers concluded the footage likely showed rocket decoys and chaff rather than an “intelligently controlled” object, illustrating how aerospace test imagery can fuel extraordinary interpretations without careful technical context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 ## How Investigators Distinguish Launches from Unknowns
 
@@ -305,207 +305,207 @@ In California’s UFO reporting archives, many cases that seemed mysterious in i
 
 ## Why Vandenberg Launches Feature Prominently in UFO Records
 
-California’s unique geography and aerospace activity make Vandenberg launches especially visible. The base sits on the Central Coast, with launch azimuths (flight paths) that often send rockets over the Pacific before arcing southeast — trajectories that carry rocket plumes into view across the state. Combined with a high volume of launches from both government and commercial operators, especially in recent years, this creates a recurring pattern of sky displays that generate civilian reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxla.com">[FOX 11 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxla.com</span><span class="citation-popover-snippet">FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies &#124; FOX 11 Los AngelesMarch 19, 2024...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
+California’s unique geography and aerospace activity make Vandenberg launches especially visible. The base sits on the Central Coast, with launch azimuths (flight paths) that often send rockets over the Pacific before arcing southeast — trajectories that carry rocket plumes into view across the state. Combined with a high volume of launches from both government and commercial operators, especially in recent years, this creates a recurring pattern of sky displays that generate civilian reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxla.com">[FOX 11 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxla.com</span><span class="citation-popover-snippet">FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies &#124; FOX 11 Los AngelesMarch 19, 2024...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
 
-In essence, Vandenberg’s contribution to California’s UFO archive is not evidence of unexplained phenomena, but rather a predictable intersection of public observation and aerospace visibility. When rocket launches are not widely known to the public — or occur at times of dramatic lighting — ordinary observers may describe them as “UFOs” even though the underlying mechanism is well understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">its a bird its a ufo its … a falcon 9 rocket</span><span class="citation-popover-snippet">its a bird its a ufo its … a falcon 9 rocket</span></span></span>
+In essence, Vandenberg’s contribution to California’s UFO archive is not evidence of unexplained phenomena, but rather a predictable intersection of public observation and aerospace visibility. When rocket launches are not widely known to the public — or occur at times of dramatic lighting — ordinary observers may describe them as “UFOs” even though the underlying mechanism is well understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">its a bird its a ufo its … a falcon 9 rocket</span><span class="citation-popover-snippet">its a bird its a ufo its … a falcon 9 rocket</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QLPvB52uItE" title="Is that a UFO? No! SpaceX rocket launch in LA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QLPvB52uItE" target="_blank" rel="noopener noreferrer">Is that a UFO? No! SpaceX rocket launch in LA</a></p><p class="youtube-embed-meta">Channel: CGTN &middot; Views: 63.1K &middot; Uploaded: December 2017 &middot; Length: 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QLPvB52uItE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QLPvB52uItE">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
-Rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxla.com">[FOX 11 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxla.com</span><span class="citation-popover-snippet">FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies &#124; FOX 11 Los AngelesMarch 19, 2024...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span> Vandenberg Space Force Base are a well‑documented source of misidentified UFO sightings in California. The dramatic light effects caused by plume dynamics at high altitude, especially around twilight, match many features attributed to unexplained aerial phenomena in civilian reports. By correlating sighting times with known launch schedules and understanding the physics of rocket exhaust signatures, investigators routinely reclassify such reports as misidentifications of ordinary aerospace activity rather than evidence of unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpbs.org">[KPBS Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpbs.org</span><span class="citation-popover-snippet">KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents &#124; KPBS Public MediaDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
+Rocket launches from<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxla.com">[FOX 11 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxla.com</span><span class="citation-popover-snippet">FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies &#124; FOX 11 Los AngelesMarch 19, 2024...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span> Vandenberg Space Force Base are a well‑documented source of misidentified UFO sightings in California. The dramatic light effects caused by plume dynamics at high altitude, especially around twilight, match many features attributed to unexplained aerial phenomena in civilian reports. By correlating sighting times with known launch schedules and understanding the physics of rocket exhaust signatures, investigators routinely reclassify such reports as misidentifications of ordinary aerospace activity rather than evidence of unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpbs.org">[KPBS Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpbs.org</span><span class="citation-popover-snippet">KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents &#124; KPBS Public MediaDecember 23, 2017...</span><span class="citation-popover-meta">Published: December 23, 2017</span></span></span>
 
 <img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-3-dark.svg" | relative_url }}" alt="Vandenberg Launches illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44_vandenberg_launch_uf_857902-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vandenberg Launches Keep Triggering UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vandenberg Launches Keep Triggering UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating misidentifications caused by unusual sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating misidentifications caused by unusual sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=SpaceX+by+Brad+Bergan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SpaceX on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnPLEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for SpaceX" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=SpaceX+by+Brad+Bergan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SpaceX">SpaceX</a>
-        </h4>
-        <p class="fr-book-author">By Brad Bergan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=SpaceX+by+Brad+Bergan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open SpaceX on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnPLEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for SpaceX" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=SpaceX+by+Brad+Bergan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SpaceX">SpaceX</a>
+</h4>
+<p class="fr-book-author">By Brad Bergan</p>
         
-        <p class="fr-book-desc">Connects directly to modern launches often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=SpaceX+by+Brad+Bergan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects directly to modern launches often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=SpaceX+by+Brad+Bergan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SW1REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
-        </h4>
-        <p class="fr-book-author">By John Drury Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SW1REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
+</h4>
+<p class="fr-book-author">By John Drury Clark</p>
         
-        <p class="fr-book-desc">Explains rocket behavior and launch phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains rocket behavior and launch phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nKorDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
-        </h4>
-        <p class="fr-book-author">By Robert Kurson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nKorDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
+</h4>
+<p class="fr-book-author">By Robert Kurson</p>
         
-        <p class="fr-book-desc">Helps readers understand dramatic visual aspects of spaceflight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand dramatic visual aspects of spaceflight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=SpaceX&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SpaceX</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ignition%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ignition!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=SpaceX&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SpaceX</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ignition%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ignition!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Wall Art Print Framed 12x16"><img src="https://i.ebayimg.com/images/g/cA4AAOSwgT1nShmh/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Wall Art Print Framed 12x16" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Wall Art Print Framed 12x16</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Wall Art Print Framed 12x16"><img src="https://i.ebayimg.com/images/g/cA4AAOSwgT1nShmh/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Wall Art Print Framed 12x16" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Wall Art Print Framed 12x16</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/2T0AAOSwmDZnR4el/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/2T0AAOSwmDZnR4el/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/VsUAAOSwoWpnR3QF/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/VsUAAOSwoWpnR3QF/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Kepler Mission Delta II Rocket Launch Photo XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/LXUAAOSw6XRnR3R4/s-l225.jpg" alt="Listing image for Space NASA Kepler Mission Delta II Rocket Launch Photo XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Kepler Mission Delta II Rocket Launch Photo XL Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Kepler Mission Delta II Rocket Launch Photo XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/LXUAAOSw6XRnR3R4/s-l225.jpg" alt="Listing image for Space NASA Kepler Mission Delta II Rocket Launch Photo XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">Space NASA Kepler Mission Delta II Rocket Launch Photo XL Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: rocket launch photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch photo print" data-ebay-reference="why-vandenberg-launches-keep-triggering-ufo-reports-rocket-launch-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ Rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ Rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ Rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ Rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ Rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,144 +711,144 @@ Rocket launches from <span class="citation-chip-wrap"><a class="citation-chip" h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: syfy.com  
    Title: its a bird its a ufo its … a falcon 9 rocket  
-   Link: <a href="https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/its-a-bird-its-a-ufo-its-%E2%80%A6-a-falcon-9-rocket</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kpbs.org  
-   Link: <a href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | KPBS Public MediaDecember 23, 2017...</p></details>
+   Link:<a href="https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.kpbs.org/news/2017/12/23/spacex-rocket-launch-lights-up-the-california-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KPBS Public MediaSpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | KPBS Public MediaDecember 23, 2017...</p></details>
    Published: December 23, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LosAngeles/comments/yf9pii" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LosAngeles/comments/yf9pii</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Any one know what this is? Moor Park area, didn’t pop like a firework but did expand into a oval like bubble towards the endOctober...</p></details>
+   Link:<a href="https://www.reddit.com/r/LosAngeles/comments/yf9pii" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LosAngeles/comments/yf9pii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Any one know what this is? Moor Park area, didn’t pop like a firework but did expand into a oval like bubble towards the endOctober...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Weird cloud thing in the sky  
-   Link: <a href="https://www.reddit.com/r/CalPolyPomona/comments/16j4f1m" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CalPolyPomona/comments/16j4f1m</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird cloud thing in the sky...</p></details>
+   Link:<a href="https://www.reddit.com/r/CalPolyPomona/comments/16j4f1m" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CalPolyPomona/comments/16j4f1m</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird cloud thing in the sky...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case51.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case51.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Case 51: Vandenberg AFBDecember 5, 1963...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case51.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case51.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Case 51: Vandenberg AFBDecember 5, 1963...</p></details>
    Published: December 5, 1963  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
+   Link:<a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: foxla.com  
-   Link: <a href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow">https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies | FOX 11 Los AngelesMarch 19, 2024...</p></details>
+   Link:<a href="https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california" target="_blank" rel="noopener noreferrer nofollow">https://www.foxla.com/news/spacex-launch-los-angeles-aliens-arent-coming-to-california</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 11 Los AngelesAliens aren&#x27;t coming to California. SpaceX launch leaves streak of light over LA skies | FOX 11 Los AngelesMarch 19, 2024...</p></details>
    Published: March 19, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: CBS News Space X Rocket Launch Sparks UFO Rumors On Social Media  
-   Link: <a href="https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsSpaceX Rocket Launch Sparks UFO Rumors On Social Media - CBS New YorkDecember 23, 2017...</p></details>
+   Link:<a href="https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/newyork/news/california-rocket-launch-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsSpaceX Rocket Launch Sparks UFO Rumors On Social Media - CBS New YorkDecember 23, 2017...</p></details>
    Published: December 23, 2017  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.wypr.org  
    Title: spacex rocket launch lights up the california sky freaks out some residents  
-   Link: <a href="https://news.wypr.org/science/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://news.wypr.org/science/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | WYPR ArchiveDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS UP TH...</p></details>
+   Link:<a href="https://news.wypr.org/science/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://news.wypr.org/science/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | WYPR ArchiveDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS UP TH...</p></details>
    Published: December 23, 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: Rocket Launch Lights Up LA Sky -- And Social Media  
-   Link: <a href="https://www.cbsnews.com/losangeles/news/rocket-launch-lights-up-la-sky-and-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/news/rocket-launch-lights-up-la-sky-and-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Los AngelesDecember 22, 2017 — ROCKET LAUNCH LIGHTS UP LA SKY -- AND SOCIAL MEDIA December 22, 2017 / 10:30 PM PST / CBS LA LOS ANGEL...</p></details>
+   Link:<a href="https://www.cbsnews.com/losangeles/news/rocket-launch-lights-up-la-sky-and-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/news/rocket-launch-lights-up-la-sky-and-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Los AngelesDecember 22, 2017 — ROCKET LAUNCH LIGHTS UP LA SKY -- AND SOCIAL MEDIA December 22, 2017 / 10:30 PM PST / CBS LA LOS ANGEL...</p></details>
    Published: December 22, 2017  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
    Title: Residents Across Western States Report Seeing Strange Lights Across The Sky  
-   Link: <a href="https://www.cbsnews.com/losangeles/news/residents-report-seeing-strange-light-over-california-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/news/residents-report-seeing-strange-light-over-california-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Los AngelesNovember 7, 2015 — RESIDENTS ACROSS WESTERN STATES REPORT SEEING STRANGE LIGHTS ACROSS THE SKY November 7, 2015 / 6:43 PM...</p></details>
+   Link:<a href="https://www.cbsnews.com/losangeles/news/residents-report-seeing-strange-light-over-california-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/news/residents-report-seeing-strange-light-over-california-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Los AngelesNovember 7, 2015 — RESIDENTS ACROSS WESTERN STATES REPORT SEEING STRANGE LIGHTS ACROSS THE SKY November 7, 2015 / 6:43 PM...</p></details>
    Published: November 7, 2015  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: Strange light in California sky sparks questions  
-   Link: <a href="https://www.cbsnews.com/news/strange-light-in-california-sky-sparks-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/strange-light-in-california-sky-sparks-questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNovember 7, 2015 — STRANGE LIGHT IN CALIFORNIA SKY SPARKS QUESTIONS November 7, 2015 / 11:37 PM EST / CBS/AP Add CBS News on Goog...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/strange-light-in-california-sky-sparks-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/strange-light-in-california-sky-sparks-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNovember 7, 2015 — STRANGE LIGHT IN CALIFORNIA SKY SPARKS QUESTIONS November 7, 2015 / 11:37 PM EST / CBS/AP Add CBS News on Goog...</p></details>
    Published: November 7, 2015  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fox6now.com  
-   Link: <a href="https://www.fox6now.com/news/brilliant-light-over-socal-skies-after-spacex-launches-rocket-from-vandenberg-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.fox6now.com/news/brilliant-light-over-socal-skies-after-spacex-launches-rocket-from-vandenberg-air-force-base</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brilliant light over SoCal skies after SpaceX launches rocket from Vandenberg Air Force Base | FOX6 MilwaukeeDecember 22, 2017 — BRILLIAN...</p></details>
+   Link:<a href="https://www.fox6now.com/news/brilliant-light-over-socal-skies-after-spacex-launches-rocket-from-vandenberg-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.fox6now.com/news/brilliant-light-over-socal-skies-after-spacex-launches-rocket-from-vandenberg-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brilliant light over SoCal skies after SpaceX launches rocket from Vandenberg Air Force Base | FOX6 MilwaukeeDecember 22, 2017 — BRILLIAN...</p></details>
    Published: December 22, 2017  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fox13seattle.com  
-   Link: <a href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 22, 2017 — ROCKET LAUNCH IN CALIFORNIA TRIGGERS REPORTS OF &#x27;STRANGE LIGHTS IN SKY&#x27;, UFOS By Rob Mackay Published December 22, 20...</p></details>
+   Link:<a href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 22, 2017 — ROCKET LAUNCH IN CALIFORNIA TRIGGERS REPORTS OF &#x27;STRANGE LIGHTS IN SKY&#x27;, UFOS By Rob Mackay Published December 22, 20...</p></details>
    Published: December 22, 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: masscentral.com  
-   Link: <a href="https://masscentral.com/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents/" target="_blank" rel="noopener noreferrer nofollow">https://masscentral.com/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents – MassCentral MediaDecember 24, 2017 — SPACEX ROCKET LAUNCH...</p></details>
+   Link:<a href="https://masscentral.com/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents/" target="_blank" rel="noopener noreferrer nofollow">https://masscentral.com/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents – MassCentral MediaDecember 24, 2017 — SPACEX ROCKET LAUNCH...</p></details>
    Published: December 24, 2017  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wxxinews.org  
-   Link: <a href="https://www.wxxinews.org/npr-news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.wxxinews.org/npr-news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | WXXI NewsDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS U...</p></details>
+   Link:<a href="https://www.wxxinews.org/npr-news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.wxxinews.org/npr-news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | WXXI NewsDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS U...</p></details>
    Published: December 23, 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wgbh.org  
-   Link: <a href="https://www.wgbh.org/news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.wgbh.org/news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | GBHDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS UP THE...</p></details>
+   Link:<a href="https://www.wgbh.org/news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.wgbh.org/news/2017-12-23/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | GBHDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS UP THE...</p></details>
    Published: December 23, 2017  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: npr.org  
    Title: spacex rocket launch lights up the california sky freaks out some residents  
-   Link: <a href="https://www.npr.org/sections/thetwo-way/2017/12/23/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.npr.org/sections/thetwo-way/2017/12/23/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents: The Two-Way: NPRDecember 23, 2017 — SPACEX ROCKET LAUNCH...</p></details>
+   Link:<a href="https://www.npr.org/sections/thetwo-way/2017/12/23/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.npr.org/sections/thetwo-way/2017/12/23/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents: The Two-Way: NPRDecember 23, 2017 — SPACEX ROCKET LAUNCH...</p></details>
    Published: December 23, 2017  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: latimes.com  
    Title: UF O hearing in Congress details sighting at California launch site  
-   Link: <a href="https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ONE STRANGE SIGHTING CAME AT THIS CALIFORNIA LAUNCH SITE Image: A Delta 4 Heavy rocket lifts off from Vandenberg Air Force Base. A Delta...</p></details>
+   Link:<a href="https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ONE STRANGE SIGHTING CAME AT THIS CALIFORNIA LAUNCH SITE Image: A Delta 4 Heavy rocket lifts off from Vandenberg Air Force Base. A Delta...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ksl.com  
    Title: Rocket lights sky as it carries satellites from California | KSL.com  
-   Link: <a href="https://www.ksl.com/article/46223298" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/46223298</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23, 2017 AT 2:49 P.M. Image: Rocket lights sky as it carries satellites from California * * *...</p></details>
+   Link:<a href="https://www.ksl.com/article/46223298" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/46223298</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23, 2017 AT 2:49 P.M. Image: Rocket lights sky as it carries satellites from California * * *...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: northcountrypublicradio.org  
    Title: The Los Angeles Fire Depar  
-   Link: <a href="https://www.northcountrypublicradio.org/news/npr/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.northcountrypublicradio.org/news/npr/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | NCPR NewsDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS U...</p></details>
+   Link:<a href="https://www.northcountrypublicradio.org/news/npr/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents" target="_blank" rel="noopener noreferrer nofollow">https://www.northcountrypublicradio.org/news/npr/573194940/spacex-rocket-launch-lights-up-the-california-sky-freaks-out-some-residents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Lights Up The California Sky, Freaks Out Some Residents | NCPR NewsDecember 23, 2017 — SPACEX ROCKET LAUNCH LIGHTS U...</p></details>
    Published: December 23, 2017  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aerotechnews.com  
    Title: Aerotech News & Review Space X launch sparks UFO sightings  
-   Link: <a href="https://www.aerotechnews.com/blog/2017/12/29/spacex-launch-sparks-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotechnews.com/blog/2017/12/29/spacex-launch-sparks-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerotech News &amp; ReviewSpaceX launch sparks UFO sightings - Aerotech News &amp; Review...</p></details>
+   Link:<a href="https://www.aerotechnews.com/blog/2017/12/29/spacex-launch-sparks-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotechnews.com/blog/2017/12/29/spacex-launch-sparks-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerotech News &amp; ReviewSpaceX launch sparks UFO sightings - Aerotech News &amp; Review...</p></details>

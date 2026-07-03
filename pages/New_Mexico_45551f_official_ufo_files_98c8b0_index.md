@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-mexico-45551f-official-ufo-files/
 description: Focused pages that expand on Official Files.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: New_Mexico_45551f_official_ufo_files_98c8b0
 parent_title: Official Files
@@ -16,7 +16,7 @@ parent_permalink: /official-files-825fe7/
 
 # Explore Topics in Official Files
 
-The following pages expand on the main **[Official Files]({{ '/official-files-825fe7/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Official Files]({{ '/official-files-825fe7/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book]({{ '/blue-book-12faa9/' | relative_url }})
 - [1947 Records]({{ '/1947-records/' | relative_url }})

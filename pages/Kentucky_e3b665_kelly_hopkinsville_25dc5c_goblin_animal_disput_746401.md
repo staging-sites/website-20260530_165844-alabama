@@ -250,231 +250,231 @@ image: /assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_di
 
 ## Introduction
 
-One of the most talked‑about aspects of the 1955 **Kelly–Hopkinsville encounter** in Kentucky is the detailed and peculiar way its witnesses described the “goblins” they believed surrounded their farmhouse. Reports of large, glowing eyes, metallic‑looking bodies and bobbing movements helped cement the image of strange beings in UFO lore. But these descriptions have also been central to sceptical challenges: could ordinary animals and the psychology of a frightening night explain the goblin [sightings]({{ 'sightings-4a7cde/' | relative_url }})? This page explores what witnesses said they saw, how critics have proposed mundane explanations, and how press retellings shaped later creature counts and descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+One of the most talked‑about aspects of the 1955 **Kelly–Hopkinsville encounter** in Kentucky is the detailed and peculiar way its witnesses described the “goblins” they believed surrounded their farmhouse. Reports of large, glowing eyes, metallic‑looking bodies and bobbing movements helped cement the image of strange beings in UFO lore. But these descriptions have also been central to sceptical challenges: could ordinary animals and the psychology of a frightening night explain the goblin [sightings]({{ 'sightings-4a7cde/' | relative_url }})? This page explores what witnesses said they saw, how critics have proposed mundane explanations, and how press retellings shaped later creature counts and descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-1-dark.svg" | relative_url }}" alt="Goblin dispute illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses said the figures looked like
 
-The original reports from the Sutton family and their guests described small figures that were **around three to four feet tall**, with **oversized, bulging eyes, pointed ears or ear‑like tufts, long arms with claw‑like hands**, and bodies that occasionally appeared to **glint or shimmer in the light** of lanterns or gunfire. These details, emphasised in contemporary and later accounts, contributed to the “goblin” and “little green men” label that the story acquired in the press. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+The original reports from the Sutton family and their guests described small figures that were **around three to four feet tall**, with **oversized, bulging eyes, pointed ears or ear‑like tufts, long arms with claw‑like hands**, and bodies that occasionally appeared to **glint or shimmer in the light** of lanterns or gunfire. These details, emphasised in contemporary and later accounts, contributed to the “goblin” and “little green men” label that the story acquired in the press.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
-Many accounts also noted unusual gait or motion: witnesses said the figures seemed to **float or glide rather than walk normally**, retreating into darkness only to reappear later near windows and doorways. One witness claimed earlier in the evening to have seen a bright, streaking object in the sky, sometimes interpreted as a meteor, before the figures were seen outside the farmhouse. The fear and adrenaline of a night‑long siege with firearms in hand is a key part of how these vivid descriptions came to be associated with the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapwoo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapwoo.com">[UAPWOO.COM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapwoo.com</span><span class="citation-popover-title">UAPWO O</span><span class="citation-popover-snippet">UFO, UAP &amp; Paranormal Insights...</span></span></span>
+Many accounts also noted unusual gait or motion: witnesses said the figures seemed to **float or glide rather than walk normally**, retreating into darkness only to reappear later near windows and doorways. One witness claimed earlier in the evening to have seen a bright, streaking object in the sky, sometimes interpreted as a meteor, before the figures were seen outside the farmhouse. The fear and adrenaline of a night‑long siege with firearms in hand is a key part of how these vivid descriptions came to be associated with the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapwoo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapwoo.com">[UAPWOO.COM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapwoo.com</span><span class="citation-popover-title">UAPWO O</span><span class="citation-popover-snippet">UFO, UAP &amp; Paranormal Insights...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HQ71y-1AmxE" title="The Kentucky Goblins - Part Two | The Return?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HQ71y-1AmxE" target="_blank" rel="noopener noreferrer">The Kentucky Goblins - Part Two | The Return?</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 1.3M &middot; Uploaded: November 2019 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HQ71y-1AmxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HQ71y-1AmxE">Open on YouTube</a></p></div></div></div>
 
 ## Owls, darkness, and gunfire as sceptical explanations
 
-From a critical standpoint, several features of the goblin descriptions align closely with **misidentified local wildlife**, especially **great horned owls**, which are common nocturnal birds in Kentucky. Skeptics, including investigator Joe Nickell and researchers cited in academic sources, argue that the combination of **large, reflective yellow eyes, prominent ear tufts, and silent, low‑light flight** could easily be misperceived as humanoid creatures when glimpsed under stress and fear at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY...</span></span></span>
+From a critical standpoint, several features of the goblin descriptions align closely with **misidentified local wildlife**, especially **great horned owls**, which are common nocturnal birds in Kentucky. Skeptics, including investigator Joe Nickell and researchers cited in academic sources, argue that the combination of **large, reflective yellow eyes, prominent ear tufts, and silent, low‑light flight** could easily be misperceived as humanoid creatures when glimpsed under stress and fear at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY...</span></span></span>
 
-Great horned owls typically stand roughly two feet tall and have **forward‑facing eyes and prominent feather tufts** that, when illuminated by torchlight or flashes from firearms, can produce the illusion of oversized eyes and “pointed ears.” The motion of an owl gliding or hopping between tree branches could also be interpreted as odd movement, especially when observers are primed to expect something unusual. Some accounts even suggest that the sound of bullets pinging off nearby metal objects could have been misattributed to impacts on the creatures themselves, amplifying the sense of a siege. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">little green men origins aliens hopkinsville kelly</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORYJanuary 2, 2020...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
+Great horned owls typically stand roughly two feet tall and have **forward‑facing eyes and prominent feather tufts** that, when illuminated by torchlight or flashes from firearms, can produce the illusion of oversized eyes and “pointed ears.” The motion of an owl gliding or hopping between tree branches could also be interpreted as odd movement, especially when observers are primed to expect something unusual. Some accounts even suggest that the sound of bullets pinging off nearby metal objects could have been misattributed to impacts on the creatures themselves, amplifying the sense of a siege.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">little green men origins aliens hopkinsville kelly</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORYJanuary 2, 2020...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
-Other sceptical interpretations combine **perceptual and social psychology** with the natural environment: darkness reduces reliable visual cues, fear and expectation bias can lead to **pattern‑seeking under uncertainty**, and repeated scanning of shadows and branches can reinforce a shared narrative among group members. Additionally, the earlier sighting of a bright object or meteor may have heightened vigilance for anything unusual outside, contributing to misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/kelly-hopkinsville-1955-glowing-beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">kelly hopkinsville 1955 glowing beings</span><span class="citation-popover-snippet">Countdown to DisclosureKelly–Hopkinsville Encounter: 1955 Farmhouse Report of Small Glowing Beings by the Sutton Family – Countdown to Di...</span></span></span>
+Other sceptical interpretations combine **perceptual and social psychology** with the natural environment: darkness reduces reliable visual cues, fear and expectation bias can lead to **pattern‑seeking under uncertainty**, and repeated scanning of shadows and branches can reinforce a shared narrative among group members. Additionally, the earlier sighting of a bright object or meteor may have heightened vigilance for anything unusual outside, contributing to misidentifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/kelly-hopkinsville-1955-glowing-beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">kelly hopkinsville 1955 glowing beings</span><span class="citation-popover-snippet">Countdown to DisclosureKelly–Hopkinsville Encounter: 1955 Farmhouse Report of Small Glowing Beings by the Sutton Family – Countdown to Di...</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-2-dark.svg" | relative_url }}" alt="Goblin dispute illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How press retellings shaped the creature count
 
-The number of creatures involved in the encounter is another point where early accounts and later retellings diverge. While later popular narratives often talk about “12 to 15 goblins,” original press coverage from the night and early summaries did not firmly establish such a count. Instead, later newspaper and magazine accounts amplified both visual detail and creature numbers, a common pattern in sensational reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+The number of creatures involved in the encounter is another point where early accounts and later retellings diverge. While later popular narratives often talk about “12 to 15 goblins,” original press coverage from the night and early summaries did not firmly establish such a count. Instead, later newspaper and magazine accounts amplified both visual detail and creature numbers, a common pattern in sensational reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
-This process of amplification — sometimes framed around the familiar image of “little green men” — fed back into the cultural memory of the event, influencing how subsequent witnesses, authors and even local tourism narratives presented the story. By the time the case entered UFO textbooks and cryptid databases, creature descriptions had taken on more elaborate features than those found in the earliest police reports and family statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paranormalcatalog.net/ufos/goblins-in-kentucky-the-kelly-hopkinsville-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormalcatalog.net">[PARANORMAL CATALOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormalcatalog.net</span><span class="citation-popover-title">PARANORMAL CATALOGGoblins in Kentucky? The Kelly-Hopkinsville Encounter</span><span class="citation-popover-snippet">May 27, 2023...</span><span class="citation-popover-meta">Published: May 27, 2023</span></span></span>
+This process of amplification — sometimes framed around the familiar image of “little green men” — fed back into the cultural memory of the event, influencing how subsequent witnesses, authors and even local tourism narratives presented the story. By the time the case entered UFO textbooks and cryptid databases, creature descriptions had taken on more elaborate features than those found in the earliest police reports and family statements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paranormalcatalog.net/ufos/goblins-in-kentucky-the-kelly-hopkinsville-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormalcatalog.net">[PARANORMAL CATALOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormalcatalog.net</span><span class="citation-popover-title">PARANORMAL CATALOGGoblins in Kentucky? The Kelly-Hopkinsville Encounter</span><span class="citation-popover-snippet">May 27, 2023...</span><span class="citation-popover-meta">Published: May 27, 2023</span></span></span>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBLvVmWbGCE" title="HOPKINSVILLE: THE ALIEN GOBLINS 🌍 Full Exclusive Documentary Premiere 🌍 English HD 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBLvVmWbGCE" target="_blank" rel="noopener noreferrer">HOPKINSVILLE: THE ALIEN GOBLINS 🌍 Full Exclusive Documentary Premiere 🌍 English HD 2024</a></p><p class="youtube-embed-meta">Channel: WATCHDOCU - THE DOCUMENTARY CHANNEL &middot; Views: 1.2K &middot; Uploaded: April 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBLvVmWbGCE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBLvVmWbGCE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBLvVmWbGCE" title="HOPKINSVILLE: THE ALIEN GOBLINS 🌍 Full Exclusive Documentary Premiere 🌍 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBLvVmWbGCE" target="_blank" rel="noopener noreferrer">HOPKINSVILLE: THE ALIEN GOBLINS 🌍 Full Exclusive Documentary Premiere 🌍 English</a></p><p class="youtube-embed-meta">Channel: WATCHDOCU - THE DOCUMENTARY CHANNEL &middot; Views: 1.2K &middot; Uploaded: April 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBLvVmWbGCE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBLvVmWbGCE">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S89tgWDoUDI" title="The Kelly-Hopkinsville Encounter | Paranormal Portals: Gateway to the Unknown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S89tgWDoUDI" target="_blank" rel="noopener noreferrer">The Kelly-Hopkinsville Encounter | Paranormal Portals: Gateway to the Unknown</a></p><p class="youtube-embed-meta">Channel: Extreme Mysteries &middot; Views: 4.5K &middot; Uploaded: May 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S89tgWDoUDI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S89tgWDoUDI">Open on YouTube</a></p></div></div></div>
 
 ## Reader takeaways
 
-The creature descriptions from the Kentucky farm night of August 1955 remain one of the most distinctive aspects of the **Kelly‑Hopkinsville encounter**, but they are also where the dispute between extraordinary claim and mundane explanation is most vivid. On one hand, consistent witness details gave the story its enduring power; on the other, known wildlife such as owls, low‑light visual distortions and collective fear provide plausible natural explanations that align with many of the reported features. Whether viewed as misidentified animals, a group perceptual event, or something unresolved, the goblin descriptions continue to illustrate how human perception, reporting, and press amplification interact in high‑stress, unexplained encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY...</span></span></span>
+The creature descriptions from the Kentucky farm night of August 1955 remain one of the most distinctive aspects of the **Kelly‑Hopkinsville encounter**, but they are also where the dispute between extraordinary claim and mundane explanation is most vivid. On one hand, consistent witness details gave the story its enduring power; on the other, known wildlife such as owls, low‑light visual distortions and collective fear provide plausible natural explanations that align with many of the reported features. Whether viewed as misidentified animals, a group perceptual event, or something unresolved, the goblin descriptions continue to illustrate how human perception, reporting, and press amplification interact in high‑stress, unexplained encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm &#124; HISTORY...</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-3-dark.svg" | relative_url }}" alt="Goblin dispute illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_goblin_animal_disput_746401-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Hopkinsville goblins misidentified animals?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Hopkinsville goblins misidentified animals?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports, perception issues, and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports, perception issues, and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abducted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=U8fqoTvsvUEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abducted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abducted">Abducted</a>
-        </h4>
-        <p class="fr-book-author">By Susan A. Clancy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abducted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=U8fqoTvsvUEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abducted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abducted">Abducted</a>
+</h4>
+<p class="fr-book-author">By Susan A. Clancy</p>
         
-        <p class="fr-book-desc">Useful for understanding memory, fear, and interpretation of unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding memory, fear, and interpretation of unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Places Hopkinsville-style creature reports within wider mystery traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Hopkinsville-style creature reports within wider mystery traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Includes major cases such as Hopkinsville and discusses competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes major cases such as Hopkinsville and discusses competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abducted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abducted</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abducted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abducted</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-JYAAeSwxmpp1TxN/s-l225.jpg" alt="Listing image for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-JYAAeSwxmpp1TxN/s-l225.jpg" alt="Listing image for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hopkinsville Goblin T-ShirtHopkinsv Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/yL4AAeSw~Zdpy~xF/s-l225.jpg" alt="Listing image for Hopkinsville Goblin T-ShirtHopkinsv Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Hopkinsville Goblin T-ShirtHopkinsv Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hopkinsville Goblin T-ShirtHopkinsv Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/yL4AAeSw~Zdpy~xF/s-l225.jpg" alt="Listing image for Hopkinsville Goblin T-ShirtHopkinsv Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Hopkinsville Goblin T-ShirtHopkinsv Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Hopkinsville Goblins - Cool V Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-BkAAeSwVcBp1~WK/s-l225.jpg" alt="Listing image for Retro Hopkinsville Goblins - Cool V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Hopkinsville Goblins - Cool V Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Hopkinsville Goblins - Cool V Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-BkAAeSwVcBp1~WK/s-l225.jpg" alt="Listing image for Retro Hopkinsville Goblins - Cool V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Hopkinsville Goblins - Cool V Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/A6sAAeSwVcBp1~bh/s-l225.jpg" alt="Listing image for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/A6sAAeSwVcBp1~bh/s-l225.jpg" alt="Listing image for Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">Hopkinsville Goblins - Cool Retro V Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hopkinsville goblin poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hopkinsville goblin poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hopkinsville+goblin+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hopkinsville goblin poster" data-ebay-reference="were-the-hopkinsville-goblins-misidentified-animals-hopkinsville-goblin-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -490,7 +490,7 @@ The creature descriptions from the Kentucky farm night of August 1955 remain o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -510,7 +510,7 @@ The creature descriptions from the Kentucky farm night of August 1955 remain o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -542,7 +542,7 @@ The creature descriptions from the Kentucky farm night of August 1955 remain o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -594,7 +594,7 @@ The creature descriptions from the Kentucky farm night of August 1955 remain o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -639,7 +639,7 @@ The creature descriptions from the Kentucky farm night of August 1955 remain o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -680,106 +680,106 @@ The creature descriptions from the Kentucky farm night of August 1955 remain o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kelly–Hopkinsville encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: How the 'Little Green Men' Phenomenon Began on a Kentucky Farm | HISTORY  
-   Link: <a href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORY...</p></details>
+   Link:<a href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORY...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uapwoo.com  
    Title: UAPWO O  
-   Link: <a href="https://uapwoo.com/" target="_blank" rel="noopener noreferrer nofollow">https://uapwoo.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, UAP &amp; Paranormal Insights...</p></details>
+   Link:<a href="https://uapwoo.com/" target="_blank" rel="noopener noreferrer nofollow">https://uapwoo.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, UAP &amp; Paranormal Insights...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: little green men origins aliens hopkinsville kelly  
-   Link: <a href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORYJanuary 2, 2020...</p></details>
+   Link:<a href="https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/little-green-men-origins-aliens-hopkinsville-kelly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a Kentucky Farm | HISTORYJanuary 2, 2020...</p></details>
    Published: January 2, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: paranormalcatalog.net  
    Title: PARANORMAL CATALOGGoblins in Kentucky? The Kelly-Hopkinsville Encounter  
-   Link: <a href="https://www.paranormalcatalog.net/ufos/goblins-in-kentucky-the-kelly-hopkinsville-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalcatalog.net/ufos/goblins-in-kentucky-the-kelly-hopkinsville-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2023...</p></details>
+   Link:<a href="https://www.paranormalcatalog.net/ufos/goblins-in-kentucky-the-kelly-hopkinsville-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalcatalog.net/ufos/goblins-in-kentucky-the-kelly-hopkinsville-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2023...</p></details>
    Published: May 27, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: countdowntodisclosure.com  
    Title: kelly hopkinsville 1955 glowing beings  
-   Link: <a href="https://countdowntodisclosure.com/articles/kelly-hopkinsville-1955-glowing-beings/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/kelly-hopkinsville-1955-glowing-beings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Countdown to DisclosureKelly–Hopkinsville Encounter: 1955 Farmhouse Report of Small Glowing Beings by the Sutton Family – Countdown to Di...</p></details>
+   Link:<a href="https://countdowntodisclosure.com/articles/kelly-hopkinsville-1955-glowing-beings/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/kelly-hopkinsville-1955-glowing-beings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countdown to DisclosureKelly–Hopkinsville Encounter: 1955 Farmhouse Report of Small Glowing Beings by the Sutton Family – Countdown to Di...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fringecreatures.com  
-   Link: <a href="https://fringecreatures.com/the-hopkinsville-goblins-unraveling-kentuckys-mysterious-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://fringecreatures.com/the-hopkinsville-goblins-unraveling-kentuckys-mysterious-encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins: Unraveling Kentucky’s Mysterious Encounter – Fringe CreaturesINVESTIGATIONS AND EXPLANATIONS POLICE AND MILITAR...</p></details>
+   Link:<a href="https://fringecreatures.com/the-hopkinsville-goblins-unraveling-kentuckys-mysterious-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://fringecreatures.com/the-hopkinsville-goblins-unraveling-kentuckys-mysterious-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins: Unraveling Kentucky’s Mysterious Encounter – Fringe CreaturesINVESTIGATIONS AND EXPLANATIONS POLICE AND MILITAR...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: everything.explained.today  
-   Link: <a href="https://everything.explained.today/Kelly-Hopkinsville_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Kelly-Hopkinsville_encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>explained.todayKelly–Hopkinsville encounter explainedKELLY–HOPKINSVILLE ENCOUNTER EXPLAINED Kelly–Hopkinsville encounter Also Known As: |...</p></details>
+   Link:<a href="https://everything.explained.today/Kelly-Hopkinsville_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Kelly-Hopkinsville_encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>explained.todayKelly–Hopkinsville encounter explainedKELLY–HOPKINSVILLE ENCOUNTER EXPLAINED Kelly–Hopkinsville encounter Also Known As: |...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Alien abductions, invasions, or the mere existence of aliens provide  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govHauntings, homeopathy, and the Hopkinsville Goblins: using pseudoscience to teach scientific thinking - PMCApril 17, 2014 — ALIENS...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govHauntings, homeopathy, and the Hopkinsville Goblins: using pseudoscience to teach scientific thinking - PMCApril 17, 2014 — ALIENS...</p></details>
    Published: April 17, 2014  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skeptic.org.uk  
-   Link: <a href="https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticApril 23, 2021 — THE TROUBLE WITH OWLS Let’s start with the Flatwoods Monster. The suggestion that this being was in fact an o...</p></details>
+   Link:<a href="https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticApril 23, 2021 — THE TROUBLE WITH OWLS Let’s start with the Flatwoods Monster. The suggestion that this being was in fact an o...</p></details>
    Published: April 23, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skeptic.org.uk  
    Title: Guns and Goblins: what really happened during the Kentucky Alien Invasion?  
-   Link: <a href="https://www.skeptic.org.uk/2024/01/guns-and-goblins-what-really-happened-during-the-kentucky-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2024/01/guns-and-goblins-what-really-happened-during-the-kentucky-alien-invasion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticJanuary 22, 2024 — GUNS AND GOBLINS: WHAT REALLY HAPPENED DURING THE KENTUCKY ALIEN INVASION? By Blake Smith 22nd January 2024...</p></details>
+   Link:<a href="https://www.skeptic.org.uk/2024/01/guns-and-goblins-what-really-happened-during-the-kentucky-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2024/01/guns-and-goblins-what-really-happened-during-the-kentucky-alien-invasion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticJanuary 22, 2024 — GUNS AND GOBLINS: WHAT REALLY HAPPENED DURING THE KENTUCKY ALIEN INVASION? By Blake Smith 22nd January 2024...</p></details>
    Published: January 22, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: forteanwinds.com  
    Title: The Hopkinsville (Kentucky) Goblins – Fortean Winds: Anolmalous Research  
-   Link: <a href="https://forteanwinds.com/2021/11/30/the-hopkinsville-kentucky-goblins/" target="_blank" rel="noopener noreferrer nofollow">https://forteanwinds.com/2021/11/30/the-hopkinsville-kentucky-goblins/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 30, 2021 — FORTEAN WINDS: ANOLMALOUS RESEARCH Anomalous, Cryptids Image: Fortean Winds thumbnail for the Kelly-Hopkinsville gobl...</p></details>
+   Link:<a href="https://forteanwinds.com/2021/11/30/the-hopkinsville-kentucky-goblins/" target="_blank" rel="noopener noreferrer nofollow">https://forteanwinds.com/2021/11/30/the-hopkinsville-kentucky-goblins/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 30, 2021 — FORTEAN WINDS: ANOLMALOUS RESEARCH Anomalous, Cryptids Image: Fortean Winds thumbnail for the Kelly-Hopkinsville gobl...</p></details>
    Published: November 30, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: connectparanormal.net  
    Title: The Sutton family and their visitor, Billy Ray Taylor, claimed the being  
-   Link: <a href="https://connectparanormal.net/2025/04/02/the-hopkinsville-goblins-ufo-legends-of-1955/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2025/04/02/the-hopkinsville-goblins-ufo-legends-of-1955/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins: UFO Legends of 1955 - Connect Paranormal BlogApril 2, 2025 — Across several witnesses’ stories, the physical de...</p></details>
+   Link:<a href="https://connectparanormal.net/2025/04/02/the-hopkinsville-goblins-ufo-legends-of-1955/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2025/04/02/the-hopkinsville-goblins-ufo-legends-of-1955/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins: UFO Legends of 1955 - Connect Paranormal BlogApril 2, 2025 — Across several witnesses’ stories, the physical de...</p></details>
    Published: April 2, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: appalachianhistorian.org  
    Title: The Hopkinsville Goblins: Little Green Men on a Kentucky Farm  
-   Link: <a href="https://appalachianhistorian.org/the-hopkinsville-goblins-little-green-men-on-a-kentucky-farm/" target="_blank" rel="noopener noreferrer nofollow">https://appalachianhistorian.org/the-hopkinsville-goblins-little-green-men-on-a-kentucky-farm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2026 — THE HOPKINSVILLE GOBLINS: LITTLE GREEN MEN ON A KENTUCKY FARM By Alex Hall / January 13, 2026 Appalachian Folklore &amp; Myths Ser...</p></details>
+   Link:<a href="https://appalachianhistorian.org/the-hopkinsville-goblins-little-green-men-on-a-kentucky-farm/" target="_blank" rel="noopener noreferrer nofollow">https://appalachianhistorian.org/the-hopkinsville-goblins-little-green-men-on-a-kentucky-farm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2026 — THE HOPKINSVILLE GOBLINS: LITTLE GREEN MEN ON A KENTUCKY FARM By Alex Hall / January 13, 2026 Appalachian Folklore &amp; Myths Ser...</p></details>
    Published: January 13, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: haunts.us  
    Title: Kelly-Hopkinsville Goblins · Cryptid Database · Haunts.us  
-   Link: <a href="https://www.haunts.us/cryptids/551/" target="_blank" rel="noopener noreferrer nofollow">https://www.haunts.us/cryptids/551/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 21, 1955 — KELLY-HOPKINSVILLE GOBLINS OVERVIEW Entity/Being Limited Research Evidence Quality: (4/5) Image: Kelly-Hopkinsville Gob...</p></details>
+   Link:<a href="https://www.haunts.us/cryptids/551/" target="_blank" rel="noopener noreferrer nofollow">https://www.haunts.us/cryptids/551/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 21, 1955 — KELLY-HOPKINSVILLE GOBLINS OVERVIEW Entity/Being Limited Research Evidence Quality: (4/5) Image: Kelly-Hopkinsville Gob...</p></details>
    Published: August 21, 1955  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lairofmythics.com  
    Title: the hopkinsville goblins kentucky s night of terror  
-   Link: <a href="https://lairofmythics.com/blogs/out-of-this-world-sightings-encounters/the-hopkinsville-goblins-kentucky-s-night-of-terror" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/out-of-this-world-sightings-encounters/the-hopkinsville-goblins-kentucky-s-night-of-terror</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkinsville Goblins | 1955 Kentucky UFO Encounter – Lair of Mythics | Artifacts of Myth &amp; Legendary CollectiblesAugust 30, 2025 — Image...</p></details>
+   Link:<a href="https://lairofmythics.com/blogs/out-of-this-world-sightings-encounters/the-hopkinsville-goblins-kentucky-s-night-of-terror" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/out-of-this-world-sightings-encounters/the-hopkinsville-goblins-kentucky-s-night-of-terror</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkinsville Goblins | 1955 Kentucky UFO Encounter – Lair of Mythics | Artifacts of Myth &amp; Legendary CollectiblesAugust 30, 2025 — Image...</p></details>
    Published: August 30, 2025

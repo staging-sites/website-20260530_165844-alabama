@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-ohare-airport-sighti/
 description: Focused pages that expand on O Hare Sighting.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Illinois_31b9d2_ohare_airport_sighti_66289a
 parent_title: O Hare Sighting
@@ -16,7 +16,7 @@ parent_permalink: /o-hare-sighting/
 
 # Explore Topics in O Hare Sighting
 
-The following pages expand on the main **[O Hare Sighting]({{ '/o-hare-sighting/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[O Hare Sighting]({{ '/o-hare-sighting/' | relative_url }})** page and cover its key branches in.
 
 - [FAA response]({{ '/faa-response/' | relative_url }})
 - [Cloud debate]({{ '/cloud-debate/' | relative_url }})

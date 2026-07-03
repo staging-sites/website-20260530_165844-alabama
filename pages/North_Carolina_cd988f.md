@@ -76,9 +76,9 @@ heading_title: What Really Happened in North Carolina's UFO Skies?
 page_heading_title: What Really Happened in North Carolina's UFO Skies?
 source_count: 126
 infographic_count: 3
-page_website_name: NC UFOs
+page_website_name: NC
 page_banner_line: Evidence-led stories behind North Carolina's strange lights, files, and sightings.
-site_website_name: NC UFOs
+site_website_name: NC
 site_banner_line: Evidence-led stories behind North Carolina's strange lights, files, and sightings.
 site_image_description: A dark Blue Ridge overlook with distant lights on the horizon and a small group watching the night sky.
 output_language: English
@@ -482,7 +482,7 @@ image: /assets/images/North_Carolina_cd988f-overview-social.jpg
 North Carolina sits at the meeting point of several ingredients that often produce UFO reports: dark mountain horizons, coastal skies, military aviation, commercial air routes, fast-growing cities, and a long local habit of telling stories about strange lights. Its UFO history is unusually mixed. Some reports belong to official federal archives. Others come from civilian reporting databases. Others are local legends that only later became folded into UFO culture.
 
 <img src="{{ "/assets/images/North_Carolina_cd988f-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in North Carolina&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-That mixture matters because the word “UFO” simply means an unidentified flying object, not an alien craft. A witness may honestly report something odd while the cause turns out to be a planet, aircraft, balloon, meteor, satellite, drone, searchlight, train headlamp, reflection, or sensor artefact. Modern US agencies use the term UAP, usually meaning unidentified anomalous phenomena, and official guidance now treats UAP reports as an air-safety and data-quality issue rather than automatically as science fiction. The Federal Aviation Administration tells air-traffic staff to inform supervisors of reported or observed UAP or unexplained phenomena activity, while the Pentagon’s All-domain Anomaly Resolution Office has published examples ranging from unresolved footage to cases assessed as balloons, birds, or ordinary aircraft-like objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That mixture matters because the word “UFO” simply means an unidentified flying object, not an alien craft. A witness may honestly report something odd while the cause turns out to be a planet, aircraft, balloon, meteor, satellite, drone, searchlight, train headlamp, reflection, or sensor artefact. Modern US agencies use the term UAP, usually meaning unidentified anomalous phenomena, and official guidance now treats UAP reports as an air-safety and data-quality issue rather than automatically as science fiction. The Federal Aviation Administration tells air-traffic staff to inform supervisors of reported or observed UAP or unexplained phenomena activity, while the Pentagon’s All-domain Anomaly Resolution Office has published examples ranging from unresolved footage to cases assessed as balloons, birds, or ordinary aircraft-like objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 North Carolina’s record is strongest where there are dates, locations, named witnesses, agency files, or repeatable observation points. It is weakest where a story is repeated without an original document, photograph, radar record, chain of custody, or contemporaneous reporting. That distinction is especially important in this state because its most famous “UFO-adjacent” landmark, the Brown Mountain Lights, is both a real cultural phenomenon and a cautionary tale about how legends can outgrow the evidence.
 
@@ -490,28 +490,28 @@ North Carolina’s record is strongest where there are dates, locations, named w
 
 The Brown Mountain Lights, reported near Brown Mountain and Linville Gorge in western North Carolina, are the best-known anomalous-light tradition in the state. They are often discussed in ghost-lore, folklore, and UFO settings, and have become a North Carolina landmark in popular culture. For UFO history, their importance is not that they prove anything extraterrestrial. It is that they show how an ambiguous visual phenomenon can move through several interpretive frames: local curiosity, newspaper mystery, government investigation, ghost story, UFO claim, and tourist attraction.
 
-The most important official record is George R. Mansfield’s US Geological Survey work, later published as *Origin of the Brown Mountain light in North Carolina*. The USGS catalogue identifies it as Circular 646 by Mansfield, a numbered federal report on the Brown Mountain light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> A sceptical summary of Mansfield’s investigation notes that he spent two weeks in the area in 1922 and concluded that the lights he studied were not unusual in origin, attributing observed lights to automobile headlights, locomotive headlights, stationary lights, and brush fires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important official record is George R. Mansfield’s US Geological Survey work, later published as *Origin of the Brown Mountain light in North Carolina*. The USGS catalogue identifies it as Circular 646 by Mansfield, a numbered federal report on the Brown Mountain light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> A sceptical summary of Mansfield’s investigation notes that he spent two weeks in the area in 1922 and concluded that the lights he studied were not unusual in origin, attributing observed lights to automobile headlights, locomotive headlights, stationary lights, and brush fires.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not mean every later claim has been individually explained. It does mean the original public mystery has a serious prosaic explanation for many observations. Brown Mountain is a landscape where distant lights can appear strange because of elevation, darkness, line of sight, weather, and expectation. A light that is ordinary at its source can look uncanny from a ridge miles away.
 
-Modern observation has not ended the argument. Appalachian State University physicist Daniel Caton’s Brown Mountain Lights project has operated night cameras looking towards Brown Mountain and Linville Gorge, giving the subject more systematic monitoring than most local UFO legends receive. The project page describes cameras taking night images of Brown Mountain and Linville Gorge, with one camera looking from the Gingercake area towards the ridge and the lights of Lenoir beyond it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dancaton.physics.appstate.edu">[dancaton.physics.appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dancaton.physics.appstate.edu</span><span class="citation-popover-title">The Brown Mountain Lights</span><span class="citation-popover-snippet">The Brown Mountain Lights</span></span></span> Local reporting in 2016 covered App State researchers’ apparent capture of an unexplained light image, but that kind of episode is better read as an unresolved observation within a heavily contaminated visual environment than as a decisive answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wlos.com/news/local/asu-scientists-capture-rare-images-of-wncs-brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlos.com">[WLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlos.com</span><span class="citation-popover-title">ASU scientists think they&#x27;ve captured images of WNC&#x27;s unexplained</span><span class="citation-popover-snippet">ASU scientists think they&#x27;ve captured images of WNC&#x27;s unexplained</span></span></span>
+Modern observation has not ended the argument. Appalachian State University physicist Daniel Caton’s Brown Mountain Lights project has operated night cameras looking towards Brown Mountain and Linville Gorge, giving the subject more systematic monitoring than most local UFO legends receive. The project page describes cameras taking night images of Brown Mountain and Linville Gorge, with one camera looking from the Gingercake area towards the ridge and the lights of Lenoir beyond it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dancaton.physics.appstate.edu">[dancaton.physics.appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dancaton.physics.appstate.edu</span><span class="citation-popover-title">The Brown Mountain Lights</span><span class="citation-popover-snippet">The Brown Mountain Lights</span></span></span> Local reporting in 2016 covered App State researchers’ apparent capture of an unexplained light image, but that kind of episode is better read as an unresolved observation within a heavily contaminated visual environment than as a decisive answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wlos.com/news/local/asu-scientists-capture-rare-images-of-wncs-brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlos.com">[WLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlos.com</span><span class="citation-popover-title">ASU scientists think they&#x27;ve captured images of WNC&#x27;s unexplained</span><span class="citation-popover-snippet">ASU scientists think they&#x27;ve captured images of WNC&#x27;s unexplained</span></span></span>
 
 The Brown Mountain case is therefore a useful test of UFO reasoning. It contains genuine witness interest, official investigation, later monitoring, and recurring unexplained anecdotes. It also contains strong reasons for caution: known distant light sources, changing folklore, and a long gap between early reports and later claims of close, intelligent, or alien-like behaviour.
 
 <img src="{{ "/assets/images/North_Carolina_cd988f-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in North Carolina&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Project Blue Book and North Carolina’s Cold War-era cases
 
-For North Carolina’s more formal UFO record, Project Blue Book is the central archive. The National Archives states that the US Air Force retired Project Blue Book UFO investigation records to the National Archives, that the project has been declassified, and that it closed in 1969, with no information held there on sightings after that date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> This gives North Carolina sightings from the 1950s and 1960s a different evidential status from later internet reports: they were at least part of an official federal reporting and classification system.
+For North Carolina’s more formal UFO record, Project Blue Book is the central archive. The National Archives states that the US Air Force retired Project Blue Book UFO investigation records to the National Archives, that the project has been declassified, and that it closed in 1969, with no information held there on sightings after that date.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> This gives North Carolina sightings from the 1950s and 1960s a different evidential status from later internet reports: they were at least part of an official federal reporting and classification system.
 
-Civilian researcher indexes of Project Blue Book’s “unknowns” list several North Carolina entries. These include Pope Air Force Base on 15 October 1950, Bonlee on 23 October 1950, Southern Pines on 29 September 1952, Highland on 14 September 1956, [Fort Bragg]({{ 'fort-bragg/' | relative_url }}) on 20 June 1958, Asheville on 9 May 1964, Salisbury on 2 February 1966, Burnsville on 18 June 1966, Vanceboro on 25 July 1966, and Rural Hall on 17 May 1967. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Complete List of Project Blue Book&#x27;s Unsolved Cases</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases</span></span></span>
+Civilian researcher indexes of Project Blue Book’s “unknowns” list several North Carolina entries. These include Pope Air Force Base on 15 October 1950, Bonlee on 23 October 1950, Southern Pines on 29 September 1952, Highland on 14 September 1956, [Fort Bragg]({{ 'fort-bragg/' | relative_url }}) on 20 June 1958, Asheville on 9 May 1964, Salisbury on 2 February 1966, Burnsville on 18 June 1966, Vanceboro on 25 July 1966, and Rural Hall on 17 May 1967.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Complete List of Project Blue Book&#x27;s Unsolved Cases</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases</span></span></span>
 
 A few cases stand out because they connect ordinary civilian geography with military or trained-observer contexts:
 
-* **Pope Air Force Base, 1950:** listed as unidentified, though the detailed support in one index is thin, with the note that no supporting data could be found for at least one folder entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
-* **Bonlee, 1950:** attributed to ex-USAF pilot Frank Risher, who described an aluminium, dirigible-like object with portholes, hovering briefly before departing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
-* **Southern Pines, 1952:** reported by a US Army Reserve lieutenant and two others as a green ellipse with a long tail, seen for about 15 minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/uso/bbpdf.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
-* **Fort Bragg, 1958:** reported by a battalion communications chief as a circular object, partly seen through a green haze, hovering and then moving rapidly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Complete List of Project Blue Book&#x27;s Unsolved Cases</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases</span></span></span>
-* **Salisbury, Burnsville and Vanceboro, 1966:** these fall within the wider 1960s surge of US UFO reporting and include long-duration or close-approach claims, but the descriptions rely heavily on witness testimony rather than recoverable physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
+* **Pope Air Force Base, 1950:** listed as unidentified, though the detailed support in one index is thin, with the note that no supporting data could be found for at least one folder entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
+* **Bonlee, 1950:** attributed to ex-USAF pilot Frank Risher, who described an aluminium, dirigible-like object with portholes, hovering briefly before departing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+* **Southern Pines, 1952:** reported by a US Army Reserve lieutenant and two others as a green ellipse with a long tail, seen for about 15 minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/uso/bbpdf.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+* **Fort Bragg, 1958:** reported by a battalion communications chief as a circular object, partly seen through a green haze, hovering and then moving rapidly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Complete List of Project Blue Book&#x27;s Unsolved Cases</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases</span></span></span>
+* **Salisbury, Burnsville and Vanceboro, 1966:** these fall within the wider 1960s surge of US UFO reporting and include long-duration or close-approach claims, but the descriptions rely heavily on witness testimony rather than recoverable physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
 
 These cases matter because they show that North Carolina was not peripheral to the classic flying-saucer era. The state appears repeatedly in the same archival ecosystem that shaped national UFO debate. At the same time, “unidentified” in a Blue Book context should not be overread. It often meant the available information was insufficient for confident explanation, not that investigators had confirmed extraordinary craft.
 
@@ -523,15 +523,15 @@ North Carolina’s aviation setting is unusually relevant. Fort Bragg, now Fort 
 
 That does not mean military-area reports should be dismissed. In fact, they can be more important if they involve trained witnesses, radar, multiple observers, or air-safety implications. The problem is that they are also more likely to involve classified, routine, or poorly understood military activity. A civilian report near a base may be sincere and still be impossible to evaluate from public information alone.
 
-The federal approach has shifted towards treating UAP as a data problem. AARO’s public imagery page is instructive because it does not treat all cases the same: some are unresolved, some are under analysis, and some are assessed as balloons, birds, or not anomalous aircraft-like objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> That framework is useful for North Carolina: the goal is not to force every sighting into either “alien” or “hoax”, but to ask what data exists, what ordinary explanations fit, and whether anything remains genuinely anomalous after careful checking.
+The federal approach has shifted towards treating UAP as a data problem. AARO’s public imagery page is instructive because it does not treat all cases the same: some are unresolved, some are under analysis, and some are assessed as balloons, birds, or not anomalous aircraft-like objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> That framework is useful for North Carolina: the goal is not to force every sighting into either “alien” or “hoax”, but to ask what data exists, what ordinary explanations fit, and whether anything remains genuinely anomalous after careful checking.
 
-Aviation misidentification has also become harder in some ways and easier in others. Flight-tracking apps, satellite trackers, phone cameras, and public weather data can quickly resolve many sightings. But modern skies now include drones, LED-lit aircraft, high-altitude balloons, [Starlink]({{ 'starlink/' | relative_url }}) satellite trains, and military exercises that can look unfamiliar even to careful observers. Recent scientific work on UAP data quality has emphasised the need for curated, standardised information rather than scattered anecdotes, which is directly relevant to a state with many casual public reports but comparatively few fully documented cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Aviation misidentification has also become harder in some ways and easier in others. Flight-tracking apps, satellite trackers, phone cameras, and public weather data can quickly resolve many sightings. But modern skies now include drones, LED-lit aircraft, high-altitude balloons, [Starlink]({{ 'starlink/' | relative_url }}) satellite trains, and military exercises that can look unfamiliar even to careful observers. Recent scientific work on UAP data quality has emphasised the need for curated, standardised information rather than scattered anecdotes, which is directly relevant to a state with many casual public reports but comparatively few fully documented cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Modern reporting: many sightings, uneven evidence
 
-North Carolina continues to generate a large number of public UFO reports. The National UFO Reporting Center’s state index lists North Carolina with 3,917 reports, placing it among the more active reporting states in raw volume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Raw counts, however, are not the same as confirmed anomalies. They reflect population, internet access, willingness to report, media attention, weather, sky visibility, and the presence of common misidentification sources.
+North Carolina continues to generate a large number of public UFO reports. The National UFO Reporting Center’s state index lists North Carolina with 3,917 reports, placing it among the more active reporting states in raw volume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Raw counts, however, are not the same as confirmed anomalies. They reflect population, internet access, willingness to report, media attention, weather, sky visibility, and the presence of common misidentification sources.
 
-[Modern reports]({{ 'modern-reports-6a42f5/' | relative_url }}) often cluster around cities such as Charlotte, Raleigh, Asheville, Wilmington, Fayetteville, and coastal or mountain viewing areas. That pattern is not surprising. More people means more witnesses, more phones, and more reports. It also means more aircraft, drones, advertising lights, satellites, police helicopters, and event lighting. Local reporting has treated Charlotte and other North Carolina cities as recurring centres of UFO reports, but these rankings usually depend on voluntary databases rather than verified investigative outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DLcmhiCODIV/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Charlotte Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Charlotte Observer</span></span></span>
+[Modern reports]({{ 'modern-reports-6a42f5/' | relative_url }}) often cluster around cities such as Charlotte, Raleigh, Asheville, Wilmington, Fayetteville, and coastal or mountain viewing areas. That pattern is not surprising. More people means more witnesses, more phones, and more reports. It also means more aircraft, drones, advertising lights, satellites, police helicopters, and event lighting. Local reporting has treated Charlotte and other North Carolina cities as recurring centres of UFO reports, but these rankings usually depend on voluntary databases rather than verified investigative outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DLcmhiCODIV/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Charlotte Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Charlotte Observer</span></span></span>
 
 The strongest modern reports would be those with multiple independent witnesses, exact time and location, direction of travel, duration, weather data, photographs or video with metadata, flight-tracking checks, satellite checks, and a record of whether law enforcement, air traffic control, or military authorities were contacted. Many public database entries lack enough of that information. That does not make witnesses dishonest; it makes the reports hard to resolve.
 
@@ -548,7 +548,7 @@ Most public UFO material falls into the first two categories. The third category
 <img src="{{ "/assets/images/North_Carolina_cd988f-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in North Carolina&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local investigators and the North Carolina UFO culture
 
-North Carolina also has a notable civilian UFO-research tradition. One important figure was George D. Fawcett, a long-time UFO investigator associated with Lincolnton and North Carolina UFO collecting. Contemporary and later reporting described him as a prominent state UFO figure who tried to build a UFO museum and maintained extensive files, clippings, photographs, books, and other materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DLcmhiCODIV/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Charlotte Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Charlotte Observer</span></span></span>
+North Carolina also has a notable civilian UFO-research tradition. One important figure was George D. Fawcett, a long-time UFO investigator associated with Lincolnton and North Carolina UFO collecting. Contemporary and later reporting described him as a prominent state UFO figure who tried to build a UFO museum and maintained extensive files, clippings, photographs, books, and other materials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/p/DLcmhiCODIV/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Charlotte Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Charlotte Observer</span></span></span>
 
 Fawcett’s importance is cultural as much as evidential. He represents the period when UFO research depended heavily on local investigators, newspaper clippings, witness interviews, newsletters, and personal archives. Before searchable databases and digital cameras, a determined collector could shape what survived. That makes such collections valuable, but also uneven. They can preserve reports that would otherwise disappear, while also reflecting the assumptions and interests of the collector.
 
@@ -561,7 +561,7 @@ The strongest sceptical argument about North Carolina UFO reports is not that no
 
 In the mountains, distant vehicle and settlement lights can appear to hover or move strangely because of terrain, atmospheric conditions, and limited depth perception. Brown Mountain is the classic example. In cities, aircraft, drones, police helicopters, and illuminated objects are common. Along the coast, military aircraft, flares, boats, offshore lights, weather effects, and low-angle celestial objects can all confuse observers. Near bases, ordinary training operations may look extraordinary to someone who does not know what is being flown.
 
-The strongest pro-investigation argument is that some cases still deserve preservation and analysis. Project Blue Book-era North Carolina entries include military locations, trained witnesses, and detailed narratives. Modern UAP policy acknowledges that unexplained aerial reports can matter for aviation safety even when no exotic origin is implied. AARO’s own public case examples show that some cases remain unresolved because the available data is insufficient, while others can be closed once ordinary explanations are tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO Historical Record Report Vol 1 2024</span></span></span>
+The strongest pro-investigation argument is that some cases still deserve preservation and analysis. Project Blue Book-era North Carolina entries include military locations, trained witnesses, and detailed narratives. Modern UAP policy acknowledges that unexplained aerial reports can matter for aviation safety even when no exotic origin is implied. AARO’s own public case examples show that some cases remain unresolved because the available data is insufficient, while others can be closed once ordinary explanations are tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO Historical Record Report Vol</span></span></span>
 
 This is the balanced position: North Carolina’s UFO record is real as a historical and reporting phenomenon, but it is not proof of alien visitation. Its value lies in the cases that can be dated, checked, compared, and re-examined, and in the way its famous legends show how quickly mystery can be amplified by culture.
 
@@ -578,194 +578,194 @@ For readers trying to understand North Carolina’s UFO history, the best starti
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2CwVS9dC_jU" title="The Proof Is Out There: Brown Mountain Lights CONFOUND Astronomers | Exclusive (S2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2CwVS9dC_jU" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Brown Mountain Lights CONFOUND Astronomers | Exclusive (S2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 92.4K &middot; Uploaded: August 2023 &middot; Length: 4 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2CwVS9dC_jU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2CwVS9dC_jU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in North Carolina&#x27;s UFO Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in North Carolina&#x27;s UFO Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides framework for evaluating sightings and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides framework for evaluating sightings and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses military, pilot and official UFO reports relevant to North Carolina.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses military, pilot and official UFO reports relevant to North Carolina.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Explains official UFO case handling during the Cold War.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official UFO case handling during the Cold War.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring folklore patterns seen in mystery-light traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring folklore patterns seen in mystery-light traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/pB8AAOSwX81mSmKS/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/pB8AAOSwX81mSmKS/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-north-carolina-s-ufo-skies-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -781,7 +781,7 @@ For readers trying to understand North Carolina’s UFO history, the best starti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -801,7 +801,7 @@ For readers trying to understand North Carolina’s UFO history, the best starti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -833,7 +833,7 @@ For readers trying to understand North Carolina’s UFO history, the best starti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -885,7 +885,7 @@ For readers trying to understand North Carolina’s UFO history, the best starti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -930,7 +930,7 @@ For readers trying to understand North Carolina’s UFO history, the best starti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -971,199 +971,199 @@ For readers trying to understand North Carolina’s UFO history, the best starti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubs.usgs.gov  
    Title: U.S. Geological Survey Origin of the Brown Mountain light in North Carolina  
-   Link: <a href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/cir646</a>  
+   Link:<a href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/cir646</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dancaton.physics.appstate.edu  
    Title: The Brown Mountain Lights  
-   Link: <a href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dancaton.physics.appstate.edu/BML/index.htm</a>  
+   Link:<a href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dancaton.physics.appstate.edu/BML/index.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wlos.com  
    Title: ASU scientists think they've captured images of WNC's unexplained  
-   Link: <a href="https://wlos.com/news/local/asu-scientists-capture-rare-images-of-wncs-brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://wlos.com/news/local/asu-scientists-capture-rare-images-of-wncs-brown-mountain-lights</a>  
+   Link:<a href="https://wlos.com/news/local/asu-scientists-capture-rare-images-of-wncs-brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://wlos.com/news/local/asu-scientists-capture-rare-images-of-wncs-brown-mountain-lights</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
    Title: Complete List of Project Blue Book's Unsolved Cases  
-   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"  
-   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
+   Link:<a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wlos.com  
    Title: Newly declassified UFO files reveal unexplained encounters  
-   Link: <a href="https://wlos.com/news/nation-world/newly-declassified-ufo-files-reveal-unexplained-encounters-pentagon-department-of-war-president-donald-trump-unidentified-anomalous-phenomena-classified-videos-documents-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://wlos.com/news/nation-world/newly-declassified-ufo-files-reveal-unexplained-encounters-pentagon-department-of-war-president-donald-trump-unidentified-anomalous-phenomena-classified-videos-documents-intelligence</a>  
+   Link:<a href="https://wlos.com/news/nation-world/newly-declassified-ufo-files-reveal-unexplained-encounters-pentagon-department-of-war-president-donald-trump-unidentified-anomalous-phenomena-classified-videos-documents-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://wlos.com/news/nation-world/newly-declassified-ufo-files-reveal-unexplained-encounters-pentagon-department-of-war-president-donald-trump-unidentified-anomalous-phenomena-classified-videos-documents-intelligence</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNC</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lNC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNC</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dancaton.physics.appstate.edu  
    Title: USGS p01  
-   Link: <a href="https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm" target="_blank" rel="noopener noreferrer nofollow">https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm</a>  
+   Link:<a href="https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm" target="_blank" rel="noopener noreferrer nofollow">https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dancaton.physics.appstate.edu  
-   Link: <a href="https://www.dancaton.physics.appstate.edu/BML/Camera1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dancaton.physics.appstate.edu/BML/Camera1.html</a>  
+   Link:<a href="https://www.dancaton.physics.appstate.edu/BML/Camera1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dancaton.physics.appstate.edu/BML/Camera1.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/uso/bbpdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/uso/bbpdf.pdf</a>  
+   Link:<a href="https://www.nicap.org/uso/bbpdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/uso/bbpdf.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/circ/1971/0646/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/circ/1971/0646/report.pdf</a>  
+   Link:<a href="https://pubs.usgs.gov/circ/1971/0646/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/circ/1971/0646/report.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/</a>  
+   Link:<a href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: charlotteobserver.com  
-   Link: <a href="https://www.charlotteobserver.com/news/local/article245262965.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article245262965.html</a>  
+   Link:<a href="https://www.charlotteobserver.com/news/local/article245262965.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article245262965.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: charlotteobserver.com  
-   Link: <a href="https://www.charlotteobserver.com/news/local/article275097716.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article275097716.html</a>  
+   Link:<a href="https://www.charlotteobserver.com/news/local/article275097716.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article275097716.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Brown Mountain lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Brown_Mountain_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brown_Mountain_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brown_Mountain_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brown_Mountain_lights</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ashevilleterrors.com  
    Title: brown mountain lights  
-   Link: <a href="https://ashevilleterrors.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://ashevilleterrors.com/brown-mountain-lights/</a>  
+   Link:<a href="https://ashevilleterrors.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://ashevilleterrors.com/brown-mountain-lights/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: foothillsdigest.com  
    Title: brown mountain lights  
-   Link: <a href="https://foothillsdigest.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://foothillsdigest.com/brown-mountain-lights/</a>  
+   Link:<a href="https://foothillsdigest.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://foothillsdigest.com/brown-mountain-lights/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
    Title: Charlotte Observer  
-   Link: <a href="https://www.instagram.com/p/DLcmhiCODIV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLcmhiCODIV/</a>  
+   Link:<a href="https://www.instagram.com/p/DLcmhiCODIV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLcmhiCODIV/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: alien-abduction-film.fandom.com  
    Title: Brown Mountain Lights  
-   Link: <a href="https://alien-abduction-film.fandom.com/wiki/Brown_Mountain_Lights" target="_blank" rel="noopener noreferrer nofollow">https://alien-abduction-film.fandom.com/wiki/Brown_Mountain_Lights</a>  
+   Link:<a href="https://alien-abduction-film.fandom.com/wiki/Brown_Mountain_Lights" target="_blank" rel="noopener noreferrer nofollow">https://alien-abduction-film.fandom.com/wiki/Brown_Mountain_Lights</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wherethedogwoodblooms.com  
    Title: brown mountain lights  
-   Link: <a href="https://www.wherethedogwoodblooms.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.wherethedogwoodblooms.com/brown-mountain-lights/</a>  
+   Link:<a href="https://www.wherethedogwoodblooms.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.wherethedogwoodblooms.com/brown-mountain-lights/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: I Can't Explain It  
-   Link: <a href="https://www.youtube.com/watch?v=iX5vTuo4Jxc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iX5vTuo4Jxc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Captured at Brown Mountain Shouldn&#x27;t Be Possible...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iX5vTuo4Jxc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iX5vTuo4Jxc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What We Captured at Brown Mountain Shouldn&#x27;t Be Possible...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Asheville Included in Project Blue Book UFO Sightings Report  
-   Link: <a href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7YNAWs9w_88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Brown Mountain Lights captured in 1999 | From TV Archives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7YNAWs9w_88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Brown Mountain Lights captured in 1999 | From TV Archives...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TDcY9ecMlY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Brown Mountain Lights Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TDcY9ecMlY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Brown Mountain Lights Episode...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Mystery of the Brown Mountain Lights Episode  
-   Link: <a href="https://www.youtube.com/watch?v=Zq6_Fxv_8RY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zq6_Fxv_8RY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Can&#x27;t Explain It - The Brown Mountain Ghost Lights Camping Adventure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Zq6_Fxv_8RY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zq6_Fxv_8RY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Can&#x27;t Explain It - The Brown Mountain Ghost Lights Camping Adventure...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/</a>  
+   Link:<a href="https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox11la/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1197994342516216/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/218676792817854/posts/1380216686663853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1380216686663853/</a>  
+   Link:<a href="https://www.facebook.com/groups/218676792817854/posts/1380216686663853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1380216686663853/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: bpr.org  
-   Link: <a href="https://www.bpr.org/news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.bpr.org/news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain</a>  
+   Link:<a href="https://www.bpr.org/news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.bpr.org/news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: newspapers.com  
-   Link: <a href="https://www.newspapers.com/article/the-charlotte-observer/118087661/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-charlotte-observer/118087661/</a>  
+   Link:<a href="https://www.newspapers.com/article/the-charlotte-observer/118087661/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-charlotte-observer/118087661/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYF0NrjiKof/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYF0NrjiKof/</a>
+   Link:<a href="https://www.instagram.com/reel/DYF0NrjiKof/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYF0NrjiKof/</a>

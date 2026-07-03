@@ -268,39 +268,39 @@ image: /assets/images/Vermont_835aef_buff_ledge_abduction_a01612-overview-social
 
 ## Introduction
 
-Buff Ledge is Vermont’s best-known abduction story because it has the ingredients that make a UFO case memorable: a lakeside summer camp, two young witnesses, a claimed period of “missing time”, later hypnotic regression, and an investigation by Walter N. Webb for the J. Allen Hynek Center for UFO Studies. The core claim is that on 7 August 1968, two staff members at Buff Ledge Camp in Colchester, on Lake Champlain, saw unusual lights and later recovered memories of being taken aboard a craft. Webb’s 1994 book made the case a landmark in New England UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</span></span></span>
+Buff Ledge is Vermont’s best-known abduction story because it has the ingredients that make a UFO case memorable: a lakeside summer camp, two young witnesses, a claimed period of “missing time”, later hypnotic regression, and an investigation by Walter N. Webb for the J. Allen Hynek Center for UFO Studies. The core claim is that on 7 August 1968, two staff members at Buff Ledge Camp in Colchester, on Lake Champlain, saw unusual lights and later recovered memories of being taken aboard a craft. Webb’s 1994 book made the case a landmark in New England UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-overview.webp" | relative_url }}" alt="Overview image for Buff Ledge" loading="eager" decoding="sync" fetchpriority="high">
-Its weakness is also clear. The most dramatic abduction details were not reported immediately in 1968; they emerged roughly a decade later, after nightmares, renewed inquiry and hypnotic regression. That does not automatically make the witnesses dishonest, but it does move the case from ordinary sighting evidence into the much more fragile territory of recovered memory. Modern memory research gives strong reasons to treat such testimony cautiously, especially where [hypnosis]({{ 'hypnosis-5ce9b3/' | relative_url }}) and culturally familiar abduction imagery are involved. UFO Casebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Its weakness is also clear. The most dramatic abduction details were not reported immediately in 1968; they emerged roughly a decade later, after nightmares, renewed inquiry and hypnotic regression. That does not automatically make the witnesses dishonest, but it does move the case from ordinary sighting evidence into the much more fragile territory of recovered memory. Modern memory research gives strong reasons to treat such testimony cautiously, especially where [hypnosis]({{ 'hypnosis-5ce9b3/' | relative_url }}) and culturally familiar abduction imagery are involved. UFO Casebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The Lake Champlain camp account
 
-Buff Ledge Camp stood on the Vermont side of Lake Champlain in Colchester, near Malletts Bay. The setting matters because the reported event did not unfold in a city street or at an airport; it was tied to an open-water, low-light environment where distance, scale and motion can be hard to judge. Later accounts place the incident on the evening of 7 August 1968, when most campers and staff were said to be away at a swim meet in Burlington, leaving two young employees at or near the waterfront. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[New England Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">New England Legends Podcast 423</span><span class="citation-popover-snippet">Alien Abduction Evidence: Terry Lovelace&#x27;s Devil&#x27;s Den Encounter...</span></span></span>
+Buff Ledge Camp stood on the Vermont side of Lake Champlain in Colchester, near Malletts Bay. The setting matters because the reported event did not unfold in a city street or at an airport; it was tied to an open-water, low-light environment where distance, scale and motion can be hard to judge. Later accounts place the incident on the evening of 7 August 1968, when most campers and staff were said to be away at a swim meet in Burlington, leaving two young employees at or near the waterfront.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[New England Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">New England Legends Podcast 423</span><span class="citation-popover-snippet">Alien Abduction Evidence: Terry Lovelace&#x27;s Devil&#x27;s Den Encounter...</span></span></span>
 
-The two central witnesses are usually identified by the pseudonyms “Michael Lapp”, a 16-year-old maintenance worker, and “Janet Cornell”, a 19-year-old water-skiing instructor. The commonly repeated version says they were at the end of the camp dock after sunset when a bright object appeared over Lake Champlain, released smaller lights or objects, and approached the dock area. Some versions describe a cigar-shaped light, smaller orbs, a dome-like craft, a beam of light and a sensation of being overwhelmed or immobilised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
+The two central witnesses are usually identified by the pseudonyms “Michael Lapp”, a 16-year-old maintenance worker, and “Janet Cornell”, a 19-year-old water-skiing instructor. The commonly repeated version says they were at the end of the camp dock after sunset when a bright object appeared over Lake Champlain, released smaller lights or objects, and approached the dock area. Some versions describe a cigar-shaped light, smaller orbs, a dome-like craft, a beam of light and a sensation of being overwhelmed or immobilised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
 On the face of it, the first layer of the story is a UFO sighting rather than an abduction. Two people allegedly saw anomalous lights over water at dusk. That kind of report is not unique in Vermont’s UFO history, particularly around Lake Champlain, where open horizons and reflective water can make aerial lights appear more dramatic than they would inland. What made Buff Ledge famous was not simply the sighting, but the later claim that the witnesses had lost time and had been taken into a craft.
 
-The return of the swim team is important in the story’s internal timeline. In later summaries, Michael and Janet are said to have found themselves back on the dock, disoriented, with the sky darker than expected, as sounds from returning campers became audible. The alleged gap between the beginning of the encounter and their next clear awareness became the hinge on which the abduction interpretation later turned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
+The return of the swim team is important in the story’s internal timeline. In later summaries, Michael and Janet are said to have found themselves back on the dock, disoriented, with the sky darker than expected, as sounds from returning campers became audible. The alleged gap between the beginning of the encounter and their next clear awareness became the hinge on which the abduction interpretation later turned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
 <img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-dark.svg" | relative_url }}" alt="Buff Ledge illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Buff Ledge became Vermont’s landmark abduction case
 
-Buff Ledge became prominent because it was not just passed around as a campfire story. Walter N. Webb, an experienced UFO investigator associated with the Center for UFO Studies, investigated the case and published *Encounter at Buff Ledge: A UFO Case History* in 1994. Library records describe the book as a 306-page account of an investigation into a UFO allegedly abducting two staff members from a Vermont summer camp in 1968. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</span></span></span>
+Buff Ledge became prominent because it was not just passed around as a campfire story. Walter N. Webb, an experienced UFO investigator associated with the Center for UFO Studies, investigated the case and published *Encounter at Buff Ledge: A UFO Case History* in 1994. Library records describe the book as a 306-page account of an investigation into a UFO allegedly abducting two staff members from a Vermont summer camp in 1968. Internet Archive<span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</span></span></span>
 
-That book gave the case staying power. It placed Buff Ledge within a recognisable lineage of New England abduction narratives, following the much better-known Betty and Barney Hill case from New Hampshire and preceding later regional cases such as Allagash in Maine. A Journal of Scientific Exploration review grouped Buff Ledge with other New England abduction stories and treated Webb’s book as one of the major texts in that subgenre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That book gave the case staying power. It placed Buff Ledge within a recognisable lineage of New England abduction narratives, following the much better-known Betty and Barney Hill case from New Hampshire and preceding later regional cases such as Allagash in Maine. A Journal of Scientific Exploration review grouped Buff Ledge with other New England abduction stories and treated Webb’s book as one of the major texts in that subgenre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Vermont specifically, Buff Ledge fills a different role from an official-file case such as [Bellevue Hill]({{ 'bellevue-hill/' | relative_url }}). Bellevue Hill matters because it appears in the US Air Force Project Blue Book record. Buff Ledge matters because it became the state’s major abduction narrative: less official, more personal, and much more dependent on witness memory, investigator interpretation and later retelling. That makes it useful not as a clean proof case, but as a test of how UFO researchers, sceptics and readers should handle extraordinary claims built from delayed testimony.
 
-The case also persisted locally. Colchester historical material lists *Encounter at Buff Ledge* among holdings relating to town history, describing it as a case history of a UFO double-witness abduction experience involving two staff members of Buff Ledge Camp. Recent New England folklore coverage has also revisited the site and described the story as one of the most famous UFO cases associated with Vermont. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colchestervt.gov">[Colchester VT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colchestervt.gov</span><span class="citation-popover-title">Historical Society Collection 1 Aug 2025</span><span class="citation-popover-snippet">Historical Society Collection 1 Aug 2025</span></span></span>
+The case also persisted locally. Colchester historical material lists *Encounter at Buff Ledge* among holdings relating to town history, describing it as a case history of a UFO double-witness abduction experience involving two staff members of Buff Ledge Camp. Recent New England folklore coverage has also revisited the site and described the story as one of the most famous UFO cases associated with Vermont.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colchestervt.gov">[Colchester VT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colchestervt.gov</span><span class="citation-popover-title">Historical Society Collection 1 Aug 2025</span><span class="citation-popover-snippet">Historical Society Collection 1 Aug 2025</span></span></span>
 
 ## Missing time and later testimony
 
-The most important evidential divide in the Buff Ledge story is between what was supposedly remembered at the time and what emerged later. The immediate episode, as usually told, involved lights, an approach, a beam, confusion and a later sense that time had passed. The detailed abduction sequence — being taken aboard, seeing beings, observing medical-style procedures — came later through hypnotic regression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
+The most important evidential divide in the Buff Ledge story is between what was supposedly remembered at the time and what emerged later. The immediate episode, as usually told, involved lights, an approach, a beam, confusion and a later sense that time had passed. The detailed abduction sequence — being taken aboard, seeing beings, observing medical-style procedures — came later through hypnotic regression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
-According to later summaries of Webb’s investigation, Michael did not make a formal report until about ten years after the event, after recurring nightmares and distress led him to contact the Center for UFO Studies. Webb then took up the case and suggested regressive hypnosis. Under hypnosis, Michael reportedly described being lifted into a craft, seeing Janet on an examination table, and encountering small beings with large eyes and unusual hands. Janet was later located and also underwent regression, reportedly producing details that Webb considered corroborative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
+According to later summaries of Webb’s investigation, Michael did not make a formal report until about ten years after the event, after recurring nightmares and distress led him to contact the Center for UFO Studies. Webb then took up the case and suggested regressive hypnosis. Under hypnosis, Michael reportedly described being lifted into a craft, seeing Janet on an examination table, and encountering small beings with large eyes and unusual hands. Janet was later located and also underwent regression, reportedly producing details that Webb considered corroborative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
-This is the strongest pro-Buff Ledge argument: two people, separated after the summer, were said to have produced broadly similar accounts; Webb also reportedly found other camp witnesses who remembered strange lights over Lake Champlain that evening or during the same summer. Supporters argue that the witnesses had little obvious motive to invent a story, did not immediately seek fame, and did not appear to have coordinated their accounts for public gain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
+This is the strongest pro-Buff Ledge argument: two people, separated after the summer, were said to have produced broadly similar accounts; Webb also reportedly found other camp witnesses who remembered strange lights over Lake Champlain that evening or during the same summer. Supporters argue that the witnesses had little obvious motive to invent a story, did not immediately seek fame, and did not appear to have coordinated their accounts for public gain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
 
 But the same structure creates the central problem. If a case’s most extraordinary details depend on material retrieved years later under hypnosis, the evidence is not equivalent to contemporaneous notes, photographs, radar records, medical documentation, independent immediate reports or physical traces. The witness accounts may be sincere and still unreliable as historical evidence. A person can truly believe a recovered memory and yet be mistaken about its source, timing or literal accuracy.
 
@@ -310,13 +310,13 @@ But the same structure creates the central problem. If a case’s most extraordi
 
 The sceptical case against Buff Ledge does not require accusing Michael or Janet of deliberate fraud. The more serious objection is that delayed memory and regression are poor foundations for a claim as extraordinary as alien abduction. In psychology, memory is widely treated as reconstructive rather than as a perfect recording. It can be shaped by expectation, later discussion, dreams, suggestion, stress and cultural imagery.
 
-That issue is especially relevant here because the detailed abduction narrative followed nightmares and hypnotic regression rather than a prompt 1968 report. A 2002 study by Susan Clancy, Richard McNally, Daniel Schacter, Mark Lenzenweger and Roger Pitman found that people reporting recovered or repressed memories of alien abduction were more prone than control participants to false recall and false recognition, although they did not differ in correct recall or recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That issue is especially relevant here because the detailed abduction narrative followed nightmares and hypnotic regression rather than a prompt 1968 report. A 2002 study by Susan Clancy, Richard McNally, Daniel Schacter, Mark Lenzenweger and Roger Pitman found that people reporting recovered or repressed memories of alien abduction were more prone than control participants to false recall and false recognition, although they did not differ in correct recall or recognition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Harvard’s own report on Clancy’s work framed the research not as a study of extraterrestrials, but as a study of how people can develop false memories of traumatic events they sincerely believe happened. Clancy stressed that her interest was in memory formation and belief, not in proving that witnesses were “crazy” or dishonest. That distinction matters for Buff Ledge: a sceptical reading can respect the witnesses’ sincerity while still doubting the literal abduction claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">starship memories 2</span><span class="citation-popover-snippet">starship memories 2</span></span></span>
+Harvard’s own report on Clancy’s work framed the research not as a study of extraterrestrials, but as a study of how people can develop false memories of traumatic events they sincerely believe happened. Clancy stressed that her interest was in memory formation and belief, not in proving that witnesses were “crazy” or dishonest. That distinction matters for Buff Ledge: a sceptical reading can respect the witnesses’ sincerity while still doubting the literal abduction claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">starship memories 2</span><span class="citation-popover-snippet">starship memories 2</span></span></span>
 
-Hypnosis adds another layer of caution. Reviews of hypnotic memory retrieval have repeatedly warned that hypnosis is not a reliable way to recover accurate historical memories and can increase confidence in inaccurate material. A review titled “Recalling the Unrecallable” argued that hypnosis would be valuable only if it reliably recovered accurate memories, but concluded that it does not meet that standard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.edu">[appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Hypnosis adds another layer of caution. Reviews of hypnotic memory retrieval have repeatedly warned that hypnosis is not a reliable way to recover accurate historical memories and can increase confidence in inaccurate material. A review titled “Recalling the Unrecallable” argued that hypnosis would be valuable only if it reliably recovered accurate memories, but concluded that it does not meet that standard.<span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.edu">[appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-In practical terms, this means the Buff Ledge evidence has to be separated into tiers: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[ufoinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
+In practical terms, this means the Buff Ledge evidence has to be separated into tiers:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[ufoinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
 
 **More useful evidence:** the claim that two people later reported an unusual experience at Buff Ledge; Webb’s documented investigation; the existence of a substantial 1994 case history; local and UFO-literature continuity around the story; and reported subsidiary witnesses to unusual lights.
 
@@ -327,13 +327,13 @@ In practical terms, this means the Buff Ledge evidence has to be separated into 
 <img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-dark.svg" | relative_url }}" alt="Buff Ledge illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Webb’s investigation strengthens — and what it cannot fix
 
-Webb’s role is one reason Buff Ledge cannot be dismissed as a one-paragraph internet legend. He was not merely repeating a rumour; he produced a book-length case history through the J. Allen Hynek Center for UFO Studies, and his investigation reportedly included interviews, attempts to trace other camp witnesses, psychological or character assessments, and comparison of the two main accounts. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</span></span></span>
+Webb’s role is one reason Buff Ledge cannot be dismissed as a one-paragraph internet legend. He was not merely repeating a rumour; he produced a book-length case history through the J. Allen Hynek Center for UFO Studies, and his investigation reportedly included interviews, attempts to trace other camp witnesses, psychological or character assessments, and comparison of the two main accounts. Internet Archive<span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</span></span></span>
 
 That strengthens the case in a limited way. It means there was a serious UFO-investigation effort behind the published version. It also means later readers can ask concrete questions about interview sequence, witness contact, the timing of recollections, the role of the hypnotist, and whether the two main witnesses had opportunities to influence one another. A thin local rumour and a documented investigation are not the same thing.
 
 However, investigation quality cannot convert weak primary evidence into strong proof. If the key abduction details were first articulated under hypnosis years after the event, even a careful investigator is working downstream from the central uncertainty. The best Webb could do was assess consistency, motives, demeanour, possible corroboration and alternative explanations. Those are useful, but they are not the same as independent confirmation that an abduction occurred.
 
-The Journal of Scientific Exploration article that discusses abduction evidence treats multiple-witness cases such as Buff Ledge as among the more challenging cases for simple hoax or psychopathology explanations. It notes that the Buff Ledge principals were acquaintances, reportedly had little contact afterwards, and did not obviously capitalise on the story. Yet the same article also acknowledges that hypnosis and false-memory concerns remain major problems in abduction research generally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
+The Journal of Scientific Exploration article that discusses abduction evidence treats multiple-witness cases such as Buff Ledge as among the more challenging cases for simple hoax or psychopathology explanations. It notes that the Buff Ledge principals were acquaintances, reportedly had little contact afterwards, and did not obviously capitalise on the story. Yet the same article also acknowledges that hypnosis and false-memory concerns remain major problems in abduction research generally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
 That is probably the fairest place to land. Webb’s work may weaken a casual hoax explanation, but it does not remove the memory problem. Buff Ledge is stronger than a lone anonymous internet report, but weaker than a case with contemporaneous multi-witness statements, instrument data, physical traces and independent official records.
 
@@ -343,7 +343,7 @@ That is probably the fairest place to land. Webb’s work may weaken a casual ho
 
 Buff Ledge’s Vermont setting gives the story atmosphere, but atmosphere is not evidence. Lake Champlain is a large body of water with long sightlines, shifting reflections, aircraft routes, boats, weather effects and distant lights. A witness on a dock at dusk may have a vivid and sincere experience while still misjudging distance, altitude, speed or size. That is not a debunking in itself; it is a reminder that the first stage of the case could have begun with a real but misinterpreted visual event.
 
-The summer-camp context also cuts both ways. On one hand, an almost empty camp reduces the number of immediate witnesses and makes the two-person experience seem isolated. On the other hand, it also leaves fewer contemporaneous checks: fewer people to confirm the exact time, observe the same object from another angle, or record the witnesses’ condition immediately afterwards. Later claims that other staff saw unusual lights help the atmosphere of the case, but they do not by themselves confirm the abduction sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
+The summer-camp context also cuts both ways. On one hand, an almost empty camp reduces the number of immediate witnesses and makes the two-person experience seem isolated. On the other hand, it also leaves fewer contemporaneous checks: fewer people to confirm the exact time, observe the same object from another angle, or record the witnesses’ condition immediately afterwards. Later claims that other staff saw unusual lights help the atmosphere of the case, but they do not by themselves confirm the abduction sequence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
 This is why Buff Ledge works better as a case study in abduction evidence than as a straightforward mystery to “solve”. The reader’s central question should not only be “Did aliens take two people from a dock?” A better question is: “What kinds of evidence would be needed to support that claim, and does Buff Ledge provide them?” Once framed that way, the answer is clearer. It provides a rich narrative, a serious UFO-investigation record and some claimed corroboration of unusual lights; it does not provide strong independent evidence for an abduction.
 
@@ -351,18 +351,18 @@ This is why Buff Ledge works better as a case study in abduction evidence than a
 
 ## How later reporting changed the case
 
-Later reporting has mostly kept Buff Ledge alive rather than decisively strengthening it. The book remains the key source, and modern retellings generally summarise Webb’s account rather than add new primary evidence. UFO Casebook, UFO Insight, New England Legends and Vermont-focused writing repeat the main structure: 1968 camp sighting, delayed report, Webb investigation, hypnosis, parallel witness memories and unresolved status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vermontdailychronicle.com/the-buff-ledge-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontdailychronicle.com">[Vermont Daily Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontdailychronicle.com</span><span class="citation-popover-title">the buff ledge ufo</span><span class="citation-popover-snippet">the buff ledge ufo</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
+Later reporting has mostly kept Buff Ledge alive rather than decisively strengthening it. The book remains the key source, and modern retellings generally summarise Webb’s account rather than add new primary evidence. UFO Casebook, UFO Insight, New England Legends and Vermont-focused writing repeat the main structure: 1968 camp sighting, delayed report, Webb investigation, hypnosis, parallel witness memories and unresolved status.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vermontdailychronicle.com/the-buff-ledge-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontdailychronicle.com">[Vermont Daily Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontdailychronicle.com</span><span class="citation-popover-title">the buff ledge ufo</span><span class="citation-popover-snippet">the buff ledge ufo</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
 
 That continuity is valuable for cultural history. It shows how Buff Ledge became part of Vermont’s UFO identity and New England’s abduction folklore. But repetition is not corroboration. A case can appear in many articles and podcasts while still relying on the same underlying evidence chain. For Buff Ledge, that chain still runs primarily through Webb’s investigation and the hypnotic-regression testimony.
 
-The case has also become easier to assess because memory science has moved on. In the 1960s and 1970s, hypnotic regression was often treated in popular UFO circles as a way to unlock hidden truth. Today, readers have stronger reasons to be wary. Research on false recall, recovered memories, sleep-related experiences and suggestibility does not explain every detail of every abduction claim, but it does show why recovered abduction memories cannot be treated as straightforward recordings of buried events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.edu">[2appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case has also become easier to assess because memory science has moved on. In the 1960s and 1970s, hypnotic regression was often treated in popular UFO circles as a way to unlock hidden truth. Today, readers have stronger reasons to be wary. Research on false recall, recovered memories, sleep-related experiences and suggestibility does not explain every detail of every abduction claim, but it does show why recovered abduction memories cannot be treated as straightforward recordings of buried events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.edu">[2appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In that sense, later reporting has weakened the evidential weight of the most spectacular parts of the story, even as it has strengthened the case’s reputation as Vermont’s signature abduction narrative. Buff Ledge has become more important historically, but not necessarily stronger evidentially.
 
 <img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-dark.svg" | relative_url }}" alt="Buff Ledge illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How strong is the Buff Ledge story?
 
-Buff Ledge is strong as a Vermont UFO landmark, moderate as a report of an unusual lakeside sighting, and weak as proof of alien abduction. Its strongest features are the presence of two named-but-pseudonymous central witnesses, the claim that they were separated for years before detailed comparison, Webb’s sustained investigation, and reports of additional witnesses to unusual lights. Those points make it more substantial than many lightly sourced abduction tales. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
+Buff Ledge is strong as a Vermont UFO landmark, moderate as a report of an unusual lakeside sighting, and weak as proof of alien abduction. Its strongest features are the presence of two named-but-pseudonymous central witnesses, the claim that they were separated for years before detailed comparison, Webb’s sustained investigation, and reports of additional witnesses to unusual lights. Those points make it more substantial than many lightly sourced abduction tales.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
 
 Its weakest features are decisive for anyone asking whether the abduction itself is well evidenced. The most extraordinary content came long after the alleged event, through hypnosis, after nightmares and retrospective interpretation. There appears to be no publicly available physical evidence, no official contemporaneous investigation comparable to Project Blue Book case files, no radar record, no photograph, and no immediate 1968 witness dossier that can independently carry the claim.
 
@@ -371,269 +371,269 @@ The fairest classification is unresolved but evidentially fragile. That does not
 For Vermont’s UFO history, that is the lesson. Buff Ledge matters less because it proves what happened over Lake Champlain in August 1968, and more because it shows the problem at the heart of abduction evidence: the farther a claim moves from immediate observation towards recovered memory, the more careful the reader has to be.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is the Buff Ledge Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is the Buff Ledge Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
-        </h4>
-        <p class="fr-book-author">By John Fuller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
+</h4>
+<p class="fr-book-author">By John Fuller</p>
         
-        <p class="fr-book-desc">Provides key context for New England abduction narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides key context for New England abduction narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge+by+Walter+N.+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter at Buff Ledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fYxYAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Encounter at Buff Ledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge+by+Walter+N.+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter at Buff Ledge">Encounter at Buff Ledge</a>
-        </h4>
-        <p class="fr-book-author">By Walter N. Webb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge+by+Walter+N.+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter at Buff Ledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fYxYAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Encounter at Buff Ledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge+by+Walter+N.+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter at Buff Ledge">Encounter at Buff Ledge</a>
+</h4>
+<p class="fr-book-author">By Walter N. Webb</p>
         
-        <p class="fr-book-desc">Directly investigates the Buff Ledge incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge+by+Walter+N.+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly investigates the Buff Ledge incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge+by+Walter+N.+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Explores themes of missing time and remembered encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores themes of missing time and remembered encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places abduction-style reports within a broader investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places abduction-style reports within a broader investigative framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter at Buff Ledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+at+Buff+Ledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter at Buff Ledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buff-ledge-how-strong-is-the-buff-ledge-story-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ For Vermont’s UFO history, that is the lesson. Buff Ledge matters less because
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ For Vermont’s UFO history, that is the lesson. Buff Ledge matters less because
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ For Vermont’s UFO history, that is the lesson. Buff Ledge matters less because
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ For Vermont’s UFO history, that is the lesson. Buff Ledge matters less because
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -789,137 +789,137 @@ For Vermont’s UFO history, that is the lesson. Buff Ledge matters less because
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/encounteratbuffl0000webb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</p></details>
+   Link:<a href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/encounteratbuffl0000webb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</p></details>
+   Link:<a href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.harvard.edu  
    Title: starship memories 2  
-   Link: <a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
+   Link:<a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: colchestervt.gov  
    Title: Historical Society Collection 1 Aug 2025  
-   Link: <a href="https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025</a>  
+   Link:<a href="https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: appstate.edu  
-   Link: <a href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf</a>  
+   Link:<a href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: buff.com  
-   Link: <a href="https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw" target="_blank" rel="noopener noreferrer nofollow">https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw</a>  
+   Link:<a href="https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw" target="_blank" rel="noopener noreferrer nofollow">https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.secure.website  
    Title: usa vermont  
-   Link: <a href="https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf</a>  
+   Link:<a href="https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dash.harvard.edu  
    Title: alien abduction  
-   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
+   Link:<a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 423  
-   Link: <a href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6_iAK2vFDI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction Evidence: Terry Lovelace&#x27;s Devil&#x27;s Den Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6_iAK2vFDI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction Evidence: Terry Lovelace&#x27;s Devil&#x27;s Den Encounter...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Buffledge.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</p></details>
+   Link:<a href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Buffledge.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: alien abduction buff ledge  
-   Link: <a href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge</a>  
+   Link:<a href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ournewenglandlegends.com  
    Title: podcast 423 the buff ledge ufo abduction  
-   Link: <a href="https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/</a>  
+   Link:<a href="https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/724/528</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/724/528</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/pdf/abductionexperience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/abductionexperience.pdf</a>  
+   Link:<a href="https://www.ufocasebook.com/pdf/abductionexperience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/abductionexperience.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vermontdailychronicle.com  
    Title: the buff ledge ufo  
-   Link: <a href="https://vermontdailychronicle.com/the-buff-ledge-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vermontdailychronicle.com/the-buff-ledge-ufo/</a>  
+   Link:<a href="https://vermontdailychronicle.com/the-buff-ledge-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vermontdailychronicle.com/the-buff-ledge-ufo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: colchestervt.gov  
-   Link: <a href="https://colchestervt.gov/DocumentCenter/View/10984" target="_blank" rel="noopener noreferrer nofollow">https://colchestervt.gov/DocumentCenter/View/10984</a>  
+   Link:<a href="https://colchestervt.gov/DocumentCenter/View/10984" target="_blank" rel="noopener noreferrer nofollow">https://colchestervt.gov/DocumentCenter/View/10984</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gooutdoors.co.uk  
-   Link: <a href="https://www.gooutdoors.co.uk/collections/brand-buff" target="_blank" rel="noopener noreferrer nofollow">https://www.gooutdoors.co.uk/collections/brand-buff</a>  
+   Link:<a href="https://www.gooutdoors.co.uk/collections/brand-buff" target="_blank" rel="noopener noreferrer nofollow">https://www.gooutdoors.co.uk/collections/brand-buff</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abebooks.com  
    Title: Encounter at Buff Ledge: A Ufo Case History  
-   Link: <a href="https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp</a>  
+   Link:<a href="https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JGC9uD0rDZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGC9uD0rDZ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction with PHYSICAL EVIDENCE: The Peter Khoury Case &amp; Anomalous Hair...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JGC9uD0rDZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGC9uD0rDZ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction with PHYSICAL EVIDENCE: The Peter Khoury Case &amp; Anomalous Hair...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i9CoEKDp4Ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i9CoEKDp4Ps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Encounters with Aliens Part II with John Mack (1929 - 2004)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i9CoEKDp4Ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i9CoEKDp4Ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Encounters with Aliens Part II with John Mack (1929 - 2004)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Alien Abduction Evidence: Terry Lovelace's Devil's Den Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=WV0sogulSGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WV0sogulSGY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack: 1994 Interview on Alien Abduction and Human Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WV0sogulSGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WV0sogulSGY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack: 1994 Interview on Alien Abduction and Human Encounters...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS</a>  
+   Link:<a href="https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/buff" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/buff</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/buff" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/buff</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cotswoldoutdoor.com  
-   Link: <a href="https://www.cotswoldoutdoor.com/brands/buff.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswoldoutdoor.com/brands/buff.html</a>  
+   Link:<a href="https://www.cotswoldoutdoor.com/brands/buff.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswoldoutdoor.com/brands/buff.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085</a>  
+   Link:<a href="https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: neuroscigroup.us  
-   Link: <a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
+   Link:<a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd</a>  
+   Link:<a href="https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: marebooksellers.com  
-   Link: <a href="https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history" target="_blank" rel="noopener noreferrer nofollow">https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history</a>
+   Link:<a href="https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history" target="_blank" rel="noopener noreferrer nofollow">https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history</a>

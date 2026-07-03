@@ -250,25 +250,25 @@ image: /assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_pattys_triangl
 
 ## Introduction
 
-Patty’s Triangle is one of Michigan’s most frequently discussed video-era UFO cases because it combines two things that are often missing from sighting reports: a named witness and a surviving piece of footage. On 14 June 2006, near Lansing, Michigan, Patty Blackburn recorded roughly 24 seconds of video showing what appeared to be three lights arranged in a triangular pattern moving against the night sky. The recording has been cited by Michigan investigators as one of the better-known pieces of UFO footage from the state, yet it also illustrates an important lesson for anyone using MUFON, NUFORC, or other civilian databases: a video can strengthen a report without proving what was actually observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
+Patty’s Triangle is one of Michigan’s most frequently discussed video-era UFO cases because it combines two things that are often missing from sighting reports: a named witness and a surviving piece of footage. On 14 June 2006, near Lansing, Michigan, Patty Blackburn recorded roughly 24 seconds of video showing what appeared to be three lights arranged in a triangular pattern moving against the night sky. The recording has been cited by Michigan investigators as one of the better-known pieces of UFO footage from the state, yet it also illustrates an important lesson for anyone using MUFON, NUFORC, or other civilian databases: a video can strengthen a report without proving what was actually observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_pattys_triangle_vide_d9b530-Illustration-1-dark.svg" | relative_url }}" alt="Patty s Triangle illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_pattys_triangle_vide_d9b530-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_pattys_triangle_vide_d9b530-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For researchers cataloguing Michigan sightings, Patty’s Triangle is valuable less because it settles a mystery and more because it shows how evidence should be weighed. The video preserves part of the event, but it leaves many critical questions unanswered.
 
 ## What the 2006 Lansing video shows
 
-The basic facts are relatively straightforward. According to reporting on the case, Patty Blackburn filmed an unusual triangular arrangement of lights near Lansing on 14 June 2006. The clip lasts about 24 seconds and appears to show three lights maintaining a broadly triangular configuration while exhibiting movement that witnesses considered unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
+The basic facts are relatively straightforward. According to reporting on the case, Patty Blackburn filmed an unusual triangular arrangement of lights near Lansing on 14 June 2006. The clip lasts about 24 seconds and appears to show three lights maintaining a broadly triangular configuration while exhibiting movement that witnesses considered unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
 
 Several features make the case more useful than a typical database entry:
 
 * The witness was publicly identified rather than remaining anonymous.
 * A video record exists rather than relying solely on memory.
 * The event has remained available for later review and comparison.
-* Investigators and commentators have been able to examine the same footage instead of relying entirely on second-hand descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
+* Investigators and commentators have been able to examine the same footage instead of relying entirely on second-hand descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
 
 These points matter because most civilian UFO databases contain reports with far less supporting material. A written account can be sincere yet impossible to evaluate. A video at least preserves some observable details and allows future investigators to revisit the evidence.
 
-The footage also became notable within Michigan UFO circles because it survived long after many other reported sightings faded into obscurity. Michigan MUFON representatives have repeatedly cited it as one of the state's more intriguing unresolved video cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
+The footage also became notable within Michigan UFO circles because it survived long after many other reported sightings faded into obscurity. Michigan MUFON representatives have repeatedly cited it as one of the state's more intriguing unresolved video cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/teOV_IkKfTA" title="Over 300 People Report UFOs Over Lake Michigan | 1994 Michigan UFO Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=teOV_IkKfTA" target="_blank" rel="noopener noreferrer">Over 300 People Report UFOs Over Lake Michigan | 1994 Michigan UFO Event</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 23.0K &middot; Uploaded: March 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=teOV_IkKfTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=teOV_IkKfTA">Open on YouTube</a></p></div></div></div>
 
@@ -292,7 +292,7 @@ The clip also does not provide enough information to rule out every conventional
 
 The absence of clear answers does not mean the sighting was misidentified. It simply means the footage cannot, by itself, determine the explanation.
 
-This distinction is important when evaluating claims that the video proves the existence of an extraordinary craft. The footage can demonstrate that a witness recorded something unusual enough to attract attention. It cannot by itself prove extraterrestrial technology, a secret military aircraft, or any other specific interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
+This distinction is important when evaluating claims that the video proves the existence of an extraordinary craft. The footage can demonstrate that a witness recorded something unusual enough to attract attention. It cannot by itself prove extraterrestrial technology, a secret military aircraft, or any other specific interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_pattys_triangle_vide_d9b530-Illustration-2-dark.svg" | relative_url }}" alt="Patty s Triangle illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_pattys_triangle_vide_d9b530-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_pattys_triangle_vide_d9b530-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the witness still matters
@@ -332,7 +332,7 @@ These are precisely the kinds of cross-checks that transform a database entry fr
 
 Patty’s Triangle occupies an important place in Michigan UFO history because it demonstrates both the strengths and weaknesses of civilian evidence.
 
-The video can support several modest conclusions. It shows that a named witness recorded an unusual pattern of lights near Lansing in June 2006. It provides a piece of physical evidence that can be reviewed repeatedly rather than relying solely on memory. It also shows why some Michigan sightings remain in the unresolved category after routine explanations are considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
+The video can support several modest conclusions. It shows that a named witness recorded an unusual pattern of lights near Lansing in June 2006. It provides a piece of physical evidence that can be reviewed repeatedly rather than relying solely on memory. It also shows why some Michigan sightings remain in the unresolved category after routine explanations are considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</span><span class="citation-popover-meta">Published: August 2, 2021</span></span></span>
 
 What it cannot do is identify the object with certainty. The footage does not establish origin, technology, or intent. It does not prove an extraterrestrial craft, nor does it conclusively eliminate every conventional explanation.
 
@@ -341,194 +341,194 @@ For readers exploring Michigan sightings through MUFON and other civilian databa
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JUxB4rlY-2k" title="Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JUxB4rlY-2k" target="_blank" rel="noopener noreferrer">Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 1</a></p><p class="youtube-embed-meta">Channel: WWMT-TV &middot; Views: 6.9K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JUxB4rlY-2k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JUxB4rlY-2k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What can Patty&#x27;s Triangle really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What can Patty&#x27;s Triangle really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong match for evaluating witness testimony, photos, and videos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for evaluating witness testimony, photos, and videos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand what a short video can and cannot establish.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand what a short video can and cannot establish.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Useful comparison for how testimony and evidence are weighed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison for how testimony and evidence are weighed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses modern evidence, media coverage, and unresolved incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses modern evidence, media coverage, and unresolved incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-patty-s-triangle-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-patty-s-triangle-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For readers exploring Michigan sightings through MUFON and other civilian databa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For readers exploring Michigan sightings through MUFON and other civilian databa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For readers exploring Michigan sightings through MUFON and other civilian databa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For readers exploring Michigan sightings through MUFON and other civilian databa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For readers exploring Michigan sightings through MUFON and other civilian databa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,65 +734,65 @@ For readers exploring Michigan sightings through MUFON and other civilian databa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hourdetroit.com  
    Title: Patty's Triangle Remains Among Michigan's Most Baffling  
-   Link: <a href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</p></details>
+   Link:<a href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 2, 2021 — 2 Aug 2021 — In this month&#x27;s Object Lesson, we take a look at Patty&#x27;s Triangle, a UFO that caught it on camera in 2006 n...</p></details>
    Published: August 2, 2021  
 
 ### Additional References
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aadl.org  
-   Link: <a href="https://aadl.org/sites/default/files/docfiles/aa_observer_20090200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aadl.org/sites/default/files/docfiles/aa_observer_20090200.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lLL#d 06*&quot;UFOs over Michigan&quot;: Ann Arbor District Li- brary. Mutual UFO Network Michigan chapter direc- tor William Konkolesky discusses...</p></details>
+   Link:<a href="https://aadl.org/sites/default/files/docfiles/aa_observer_20090200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aadl.org/sites/default/files/docfiles/aa_observer_20090200.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lLL#d 06*&quot;UFOs over Michigan&quot;: Ann Arbor District Li- brary. Mutual UFO Network Michigan chapter direc- tor William Konkolesky discusses...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: boston.lti.cs.cmu.edu  
    Title: edu56 about 57 community 58 yahoo 59 texas 60 car 61 parts  
-   Link: <a href="https://boston.lti.cs.cmu.edu/appendices/WSDM2018-ConvKNRM/K-NRM/bing/vocab" target="_blank" rel="noopener noreferrer nofollow">https://boston.lti.cs.cmu.edu/appendices/WSDM2018-ConvKNRM/K-NRM/bing/vocab</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>video 73 map 74 services 75 union 76 2006 77 beach 78 site 79 us 80 homes 81... michigan 272 ford 273 motorcycle 274 equipment 275 plans...</p></details>
+   Link:<a href="https://boston.lti.cs.cmu.edu/appendices/WSDM2018-ConvKNRM/K-NRM/bing/vocab" target="_blank" rel="noopener noreferrer nofollow">https://boston.lti.cs.cmu.edu/appendices/WSDM2018-ConvKNRM/K-NRM/bing/vocab</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>video 73 map 74 services 75 union 76 2006 77 beach 78 site 79 us 80 homes 81... michigan 272 ford 273 motorcycle 274 equipment 275 plans...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Had small white flat rectangle lights on each corner, and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Had small white flat rectangle lights on each corner, and...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: online.umich.edu  
    Title: reporting ufo sightings bill konkolesky  
-   Link: <a href="https://online.umich.edu/teach-outs/ufos-scanning-the-skies-teach-out/lessons/reporting-ufo-sightings-bill-konkolesky/" target="_blank" rel="noopener noreferrer nofollow">https://online.umich.edu/teach-outs/ufos-scanning-the-skies-teach-out/lessons/reporting-ufo-sightings-bill-konkolesky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>umich.eduUFOs: Scanning the Skies Teach-Out | Michigan OnlineUFOs: Scanning the Skies Teach-Out · Reporting UFO Sightings - Bill Konkoles...</p></details>
+   Link:<a href="https://online.umich.edu/teach-outs/ufos-scanning-the-skies-teach-out/lessons/reporting-ufo-sightings-bill-konkolesky/" target="_blank" rel="noopener noreferrer nofollow">https://online.umich.edu/teach-outs/ufos-scanning-the-skies-teach-out/lessons/reporting-ufo-sightings-bill-konkolesky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>umich.eduUFOs: Scanning the Skies Teach-Out | Michigan OnlineUFOs: Scanning the Skies Teach-Out · Reporting UFO Sightings - Bill Konkoles...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HourDetroit/posts/you-dont-have-to-think-a-slow-moving-alien-invasion-is-underway-to-accept-that-t/10159734036136112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HourDetroit/posts/you-dont-have-to-think-a-slow-moving-alien-invasion-is-underway-to-accept-that-t/10159734036136112/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You don&#x27;t have to think a slow-moving alien invasion is...It&#x27;s called Patty&#x27;s Triangle because a woman named Patty Blackburn cau...</p></details>
+   Link:<a href="https://www.facebook.com/HourDetroit/posts/you-dont-have-to-think-a-slow-moving-alien-invasion-is-underway-to-accept-that-t/10159734036136112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HourDetroit/posts/you-dont-have-to-think-a-slow-moving-alien-invasion-is-underway-to-accept-that-t/10159734036136112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You don&#x27;t have to think a slow-moving alien invasion is...It&#x27;s called Patty&#x27;s Triangle because a woman named Patty Blackburn cau...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lansingpolicedepartment/posts/are-orvs-off-road-vehicles-allowed-to-be-driven-on-city-streets-definitely-notdr/669756878518139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lansingpolicedepartment/posts/are-orvs-off-road-vehicles-allowed-to-be-driven-on-city-streets-definitely-notdr/669756878518139/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>al to operate them in city parks.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/lansingpolicedepartment/posts/are-orvs-off-road-vehicles-allowed-to-be-driven-on-city-streets-definitely-notdr/669756878518139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lansingpolicedepartment/posts/are-orvs-off-road-vehicles-allowed-to-be-driven-on-city-streets-definitely-notdr/669756878518139/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al to operate them in city parks.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nlp.biu.ac.il  
    Title: glove vocab.250k.txt  
-   Link: <a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>biu.ac.ilglove_vocab.250k.txt... video part online each little high + look around same game read service 2009... june following special...</p></details>
+   Link:<a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>biu.ac.ilglove_vocab.250k.txt... video part online each little high + look around same game read service 2009... june following special...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=teOV_IkKfTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=teOV_IkKfTA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=teOV_IkKfTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=teOV_IkKfTA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Muskegon Michigan's Mass UFO Sightings 30 Years Later | Talking Strange  
-   Link: <a href="https://www.youtube.com/watch?v=eW5LGxxDthc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eW5LGxxDthc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eW5LGxxDthc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eW5LGxxDthc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 1...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: edu.eacd.org  
-   Link: <a href="https://edu.eacd.org/sites/default/files/Meeting_Archive/Stockholm-16/Abstract-book-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edu.eacd.org/sites/default/files/Meeting_Archive/Stockholm-16/Abstract-book-16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bookHuman rights are those rights that every individual, including children with disability, should enjoy – simply because he/she is huma...</p></details>
+   Link:<a href="https://edu.eacd.org/sites/default/files/Meeting_Archive/Stockholm-16/Abstract-book-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edu.eacd.org/sites/default/files/Meeting_Archive/Stockholm-16/Abstract-book-16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bookHuman rights are those rights that every individual, including children with disability, should enjoy – simply because he/she is huma...</p></details>

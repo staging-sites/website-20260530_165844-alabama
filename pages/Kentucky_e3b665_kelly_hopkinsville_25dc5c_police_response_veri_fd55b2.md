@@ -250,16 +250,16 @@ image: /assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_
 
 ## Introduction
 
-The Kelly-Hopkinsville encounter became one of Kentucky’s most famous UFO stories partly because police reached the Sutton farmhouse while the witnesses were still visibly frightened and the alleged events were supposedly ongoing. That immediate response gave the case an unusual degree of official attention for a 1950s UFO report. Yet the police presence is often misunderstood. Officers did verify that something disruptive had happened at the farmhouse: there had been heavy gunfire, the occupants appeared badly shaken, and there was physical damage around the property. What they did not verify was the presence of alien beings, spacecraft, or any unknown creature. The gap between those two points is central to understanding why the case remains famous but disputed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+The Kelly-Hopkinsville encounter became one of Kentucky’s most famous UFO stories partly because police reached the Sutton farmhouse while the witnesses were still visibly frightened and the alleged events were supposedly ongoing. That immediate response gave the case an unusual degree of official attention for a 1950s UFO report. Yet the police presence is often misunderstood. Officers did verify that something disruptive had happened at the farmhouse: there had been heavy gunfire, the occupants appeared badly shaken, and there was physical damage around the property. What they did not verify was the presence of alien beings, spacecraft, or any unknown creature. The gap between those two points is central to understanding why the case remains famous but disputed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-1-dark.svg" | relative_url }}" alt="Police response illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 11 p.m. report at Hopkinsville police station
 
-Late on the night of 21 August 1955, a group from the Sutton farmhouse drove into Hopkinsville claiming that strange small beings had surrounded their home for several hours. Accounts consistently state that adults and children arrived in a highly distressed state rather than behaving like people casually telling a ghost story. That reaction strongly influenced the authorities’ response. Officers treated the situation as a potentially dangerous armed incident, not as a routine prank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbko.com">[https://www.wbko.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbko.com</span><span class="citation-popover-title">70 years later revisiting kelly hopkinsville encounter</span><span class="citation-popover-snippet">21, 1955 a family in Kelly, Kentucky allegedly experienced a close encounter. The story went on to become one of the most famous...</span></span></span>
+Late on the night of 21 August 1955, a group from the Sutton farmhouse drove into Hopkinsville claiming that strange small beings had surrounded their home for several hours. Accounts consistently state that adults and children arrived in a highly distressed state rather than behaving like people casually telling a ghost story. That reaction strongly influenced the authorities’ response. Officers treated the situation as a potentially dangerous armed incident, not as a routine prank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbko.com">[https://www.wbko.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbko.com</span><span class="citation-popover-title">70 years later revisiting kelly hopkinsville encounter</span><span class="citation-popover-snippet">21, 1955 a family in Kelly, Kentucky allegedly experienced a close encounter. The story went on to become one of the most famous...</span></span></span>
 
-The scale of the response is one reason the case gained lasting credibility in UFO culture. Reports describe four city police officers, several Kentucky state troopers, sheriff’s deputies, and military police from nearby Fort Campbell travelling to the farmhouse. Officials were concerned partly because the witnesses said firearms had already been used repeatedly during the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
+The scale of the response is one reason the case gained lasting credibility in UFO culture. Reports describe four city police officers, several Kentucky state troopers, sheriff’s deputies, and military police from nearby Fort Campbell travelling to the farmhouse. Officials were concerned partly because the witnesses said firearms had already been used repeatedly during the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
-What matters historically is not simply that police arrived, but what they found once there. Officers did not report seeing creatures themselves. No police report described captured beings, footprints clearly attributable to unknown animals, landed craft, or physical remains. The official response confirmed a frightened household and a disturbed crime-scene-like environment, but not the extraordinary explanation attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
+What matters historically is not simply that police arrived, but what they found once there. Officers did not report seeing creatures themselves. No police report described captured beings, footprints clearly attributable to unknown animals, landed craft, or physical remains. The official response confirmed a frightened household and a disturbed crime-scene-like environment, but not the extraordinary explanation attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
 This distinction is often blurred in retellings. Popular summaries sometimes imply that because police took the report seriously, they therefore endorsed the alien interpretation. The historical record does not support that leap. Officers investigated because armed citizens believed they were under attack, not because police independently confirmed extraterrestrial visitors.
 
@@ -267,26 +267,26 @@ This distinction is often blurred in retellings. Popular summaries sometimes imp
 
 ## Shell casings, damaged screens, and missing traces
 
-The strongest verified evidence from the night was mundane rather than mysterious. Investigators found spent shell casings, signs of gunfire, damaged window screens, and bullet holes around the farmhouse. Those findings matched the witnesses’ claim that weapons had been fired repeatedly during the alleged siege. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Kentucky State PoliceThe Kelly–Hopkinsville encounter (a.k.a. Hopkinsville Goblins Case, Kelly Green Men Case)... Police found shell cas...</span></span></span>
+The strongest verified evidence from the night was mundane rather than mysterious. Investigators found spent shell casings, signs of gunfire, damaged window screens, and bullet holes around the farmhouse. Those findings matched the witnesses’ claim that weapons had been fired repeatedly during the alleged siege.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Kentucky State PoliceThe Kelly–Hopkinsville encounter (a.k.a. Hopkinsville Goblins Case, Kelly Green Men Case)... Police found shell cas...</span></span></span>
 
 That evidence matters because it demonstrates the event was not entirely invented after the fact. Something intense enough to produce panic and extensive shooting had clearly occurred. However, the physical traces only confirmed human behaviour inside the farmhouse. They did not establish what the family had been shooting at.
 
-The absence of stronger traces quickly became important to sceptical interpretations. Officers reportedly searched the area with flashlights and found no dead animals, no pools of blood, no unusual tracks, and no signs of a landed craft. Given the amount of shooting described by witnesses, critics argued that the lack of convincing physical evidence weakened claims that solid creatures had been repeatedly hit at close range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
+The absence of stronger traces quickly became important to sceptical interpretations. Officers reportedly searched the area with flashlights and found no dead animals, no pools of blood, no unusual tracks, and no signs of a landed craft. Given the amount of shooting described by witnesses, critics argued that the lack of convincing physical evidence weakened claims that solid creatures had been repeatedly hit at close range.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
 
-Another complication is that at least some of the visible damage may simply have been caused by the frightened residents themselves. Broken windows and torn screens fit the reported gunfire just as easily as they fit an external attack. Later sceptical writers repeatedly pointed out that the physical evidence proved shots had been fired, but not what inspired the shooting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
+Another complication is that at least some of the visible damage may simply have been caused by the frightened residents themselves. Broken windows and torn screens fit the reported gunfire just as easily as they fit an external attack. Later sceptical writers repeatedly pointed out that the physical evidence proved shots had been fired, but not what inspired the shooting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
 
 The missing traces became even more significant as the story spread nationally. In later folklore versions, the encounter often sounds like a heavily evidenced siege involving dozens of witnesses and official corroboration. In reality, the hard evidence remained extremely limited from the start.
 
 <img src="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-2-dark.svg" | relative_url }}" alt="Police response illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why official response is not official confirmation
 
-One of the most persistent misunderstandings surrounding the Kelly-Hopkinsville encounter is the belief that police or military authorities “confirmed” the creatures. Contemporary reporting does not support that claim. Investigators confirmed fear, gunfire, and property disturbance. They did not officially validate the witnesses’ interpretation of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
+One of the most persistent misunderstandings surrounding the Kelly-Hopkinsville encounter is the belief that police or military authorities “confirmed” the creatures. Contemporary reporting does not support that claim. Investigators confirmed fear, gunfire, and property disturbance. They did not officially validate the witnesses’ interpretation of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
 
 This distinction matters because the case occupies an unusual middle ground in UFO history. It was neither quietly ignored nor conclusively solved. Authorities clearly thought the witnesses were sincere enough to justify a serious response. At the same time, investigators failed to uncover evidence strong enough to support claims of non-human visitors.
 
-The later history of the case further complicated perceptions. UFO writers frequently highlighted the rapid police mobilisation as evidence that “something real” occurred. Sceptics focused instead on the lack of objective proof and the possibility of misidentification under stress. Joe Nickell and other investigators later argued that owls, darkness, fear, and excitement could explain many details of the reported creatures, especially the glowing eyes and hovering appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
+The later history of the case further complicated perceptions. UFO writers frequently highlighted the rapid police mobilisation as evidence that “something real” occurred. Sceptics focused instead on the lack of objective proof and the possibility of misidentification under stress. Joe Nickell and other investigators later argued that owls, darkness, fear, and excitement could explain many details of the reported creatures, especially the glowing eyes and hovering appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
 
-The official US Air Force position also leaned away from confirmation. Project Blue Book ultimately classified the incident as a hoax or misinterpretation rather than evidence of extraterrestrial contact. Even some UFO researchers who considered the witnesses sincere acknowledged that the police findings themselves remained weak as proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
+The official US Air Force position also leaned away from confirmation. Project Blue Book ultimately classified the incident as a hoax or misinterpretation rather than evidence of extraterrestrial contact. Even some UFO researchers who considered the witnesses sincere acknowledged that the police findings themselves remained weak as proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span>
 
 In practical terms, the police response verified four things with reasonable confidence:
 
@@ -307,203 +307,203 @@ That combination is exactly why the Kelly-Hopkinsville encounter remains difficu
 
 ## Why this still matters in Kentucky UFO history
 
-Within Kentucky’s UFO history, the police investigation gave the Kelly-Hopkinsville encounter a legitimacy that many regional sighting stories never achieved. Countless UFO reports consist only of distant lights or isolated testimony. This case instead involved armed witnesses, immediate law-enforcement attention, newspaper coverage, and a documented search of the scene while emotions were still raw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryliving.com">[Country Living]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryliving.com</span><span class="citation-popover-title">eclipseville hopkinsville ky history</span><span class="citation-popover-snippet">Hopkinsville, Kentucky&#x27;s Historic UFO Sighting21 Jul 2017 — The Kelly-Hopkinsville encounter of Aug. 21, 1955 is where the term “little g...</span></span></span>
+Within Kentucky’s UFO history, the police investigation gave the Kelly-Hopkinsville encounter a legitimacy that many regional sighting stories never achieved. Countless UFO reports consist only of distant lights or isolated testimony. This case instead involved armed witnesses, immediate law-enforcement attention, newspaper coverage, and a documented search of the scene while emotions were still raw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryliving.com">[Country Living]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryliving.com</span><span class="citation-popover-title">eclipseville hopkinsville ky history</span><span class="citation-popover-snippet">Hopkinsville, Kentucky&#x27;s Historic UFO Sighting21 Jul 2017 — The Kelly-Hopkinsville encounter of Aug. 21, 1955 is where the term “little g...</span></span></span>
 
 At the same time, the case became a textbook example of how official involvement can be overstated in popular memory. The presence of police cars and military personnel sounds dramatic, but official attendance is not the same thing as official endorsement. That distinction has become increasingly important as modern readers revisit older UFO cases with greater attention to what records actually show.
 
-The enduring tension in the Kelly-Hopkinsville story is therefore not whether police arrived. They clearly did. The real question is what their investigation genuinely established. More than seventy years later, the answer remains surprisingly narrow: something frightened the Sutton household badly enough to produce hours of gunfire and a major police response, but no investigator found conclusive evidence that non-human beings were ever present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+The enduring tension in the Kelly-Hopkinsville story is therefore not whether police arrived. They clearly did. The real question is what their investigation genuinely established. More than seventy years later, the answer remains surprisingly narrow: something frightened the Sutton household badly enough to produce hours of gunfire and a major police response, but no investigator found conclusive evidence that non-human beings were ever present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Encuentro de Kelly-Hopkinsville</span><span class="citation-popover-snippet">Encuentro de Kelly-Hopkinsville</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
 <img src="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-3-dark.svg" | relative_url }}" alt="Police response illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_kelly_hopkinsville_25dc5c_police_response_veri_fd55b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the police really verify?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the police really verify?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official investigations differed from public assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official investigations differed from public assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores evidential standards and official responses to sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evidential standards and official responses to sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on what officials and investigators can genuinely verify.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on what officials and investigators can genuinely verify.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Explains how famous cases were documented and investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how famous cases were documented and investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="https://i.ebayimg.com/images/g/tPwAAeSwvxhpJvyE/s-l225.jpg" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="https://i.ebayimg.com/images/g/hhQAAOSwq-Jemtmx/s-l225.jpg" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="https://i.ebayimg.com/images/g/cOkAAOSwQb5hqPMn/s-l225.jpg" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="https://i.ebayimg.com/images/g/N0sAAeSwB9Zp28nM/s-l225.jpg" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="what-did-the-police-really-verify-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-police-really-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-police-really-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -519,7 +519,7 @@ The enduring tension in the Kelly-Hopkinsville story is therefore not whether po
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -539,7 +539,7 @@ The enduring tension in the Kelly-Hopkinsville story is therefore not whether po
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -571,7 +571,7 @@ The enduring tension in the Kelly-Hopkinsville story is therefore not whether po
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -623,7 +623,7 @@ The enduring tension in the Kelly-Hopkinsville story is therefore not whether po
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -668,7 +668,7 @@ The enduring tension in the Kelly-Hopkinsville story is therefore not whether po
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -709,128 +709,128 @@ The enduring tension in the Kelly-Hopkinsville story is therefore not whether po
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kelly–Hopkinsville encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kentucky State PoliceThe Kelly–Hopkinsville encounter (a.k.a. Hopkinsville Goblins Case, Kelly Green Men Case)... Police found shell cas...</p></details>
+   Link:<a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kentucky State PoliceThe Kelly–Hopkinsville encounter (a.k.a. Hopkinsville Goblins Case, Kelly Green Men Case)... Police found shell cas...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wbko.com  
    Title: 70 years later revisiting kelly hopkinsville encounter  
-   Link: <a href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21, 1955 a family in Kelly, Kentucky allegedly experienced a close encounter. The story went on to become one of the most famous...</p></details>
+   Link:<a href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21, 1955 a family in Kelly, Kentucky allegedly experienced a close encounter. The story went on to become one of the most famous...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO [sightings](&#123;&#123; 'sightings-4a7cde/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Encuentro de Kelly-Hopkinsville  
-   Link: <a href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Encuentro_de_Kelly-Hopkinsville</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/</a>  
+   Link:<a href="https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mrballen/posts/in-1955-a-family-in-kentucky-claimed-their-farmhouse-was-attacked-by-small-gobli/786635067068662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-1955-a-family-in-kentucky-claimed-their-farmhouse-was-attacked-by-small-gobli/786635067068662/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1955, a family in Kentucky claimed their farmhouse was...In 1955, a family in Kentucky claimed their farmhouse was attacked by small...</p></details>
+   Link:<a href="https://www.facebook.com/mrballen/posts/in-1955-a-family-in-kentucky-claimed-their-farmhouse-was-attacked-by-small-gobli/786635067068662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-1955-a-family-in-kentucky-claimed-their-farmhouse-was-attacked-by-small-gobli/786635067068662/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1955, a family in Kentucky claimed their farmhouse was...In 1955, a family in Kentucky claimed their farmhouse was attacked by small...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: today the kentucky state police launches seeing stranger things a three part ser  
-   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-launches-seeing-stranger-things-a-three-part-ser/1306106984884127/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-launches-seeing-stranger-things-a-three-part-ser/1306106984884127/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kentucky State PoliceKelly-Hopkinsville encounter of 1955 This event took place on the night of August 21 to 22, 1955, near the small tow...</p></details>
+   Link:<a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-launches-seeing-stranger-things-a-three-part-ser/1306106984884127/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-launches-seeing-stranger-things-a-three-part-ser/1306106984884127/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kentucky State PoliceKelly-Hopkinsville encounter of 1955 This event took place on the night of August 21 to 22, 1955, near the small tow...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the Kentucky State Police concludes our threeToday is the 68th anniversary of the High Strangeness, which is the Kelly-Hopkinsvill...</p></details>
+   Link:<a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the Kentucky State Police concludes our threeToday is the 68th anniversary of the High Strangeness, which is the Kelly-Hopkinsvill...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wbko.com  
-   Link: <a href="https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>70 years later: Revisiting the Kelly-Hopkinsville EncounterAdam Ferguson takes us through a stranger aspect of South Central ky&#x27;s past wi...</p></details>
+   Link:<a href="https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>70 years later: Revisiting the Kelly-Hopkinsville EncounterAdam Ferguson takes us through a stranger aspect of South Central ky&#x27;s past wi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gj25hQe-uGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gj25hQe-uGQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kelly-Hopkinsville Encounter - The Alien Visit of 1955 - Bust or Trust...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gj25hQe-uGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gj25hQe-uGQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kelly-Hopkinsville Encounter - The Alien Visit of 1955 - Bust or Trust...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Kelly-Hopkinsville Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=7C9TcLHJHNI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7C9TcLHJHNI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kelly-Hopkinsville ”Little Green Men” Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7C9TcLHJHNI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7C9TcLHJHNI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kelly-Hopkinsville ”Little Green Men” Encounter...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: countryliving.com  
    Title: eclipseville hopkinsville ky history  
-   Link: <a href="https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkinsville, Kentucky&#x27;s Historic UFO Sighting21 Jul 2017 — The Kelly-Hopkinsville encounter of Aug. 21, 1955 is where the term “little g...</p></details>
+   Link:<a href="https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkinsville, Kentucky&#x27;s Historic UFO Sighting21 Jul 2017 — The Kelly-Hopkinsville encounter of Aug. 21, 1955 is where the term “little g...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/creepy/comments/3yiibj/til_of_the_kelly_hopkinsville_alien_encounter_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/creepy/comments/3yiibj/til_of_the_kelly_hopkinsville_alien_encounter_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL of the Kelly Hopkinsville alien encounter, in which...Kelly Hopkinsville alien encounter, in which Kentucky farmhouse people alleged...</p></details>
+   Link:<a href="https://www.reddit.com/r/creepy/comments/3yiibj/til_of_the_kelly_hopkinsville_alien_encounter_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/creepy/comments/3yiibj/til_of_the_kelly_hopkinsville_alien_encounter_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL of the Kelly Hopkinsville alien encounter, in which...Kelly Hopkinsville alien encounter, in which Kentucky farmhouse people alleged...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Kentucky Goblins! Kelly-Hopkinsville UFO Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=W5v_H2L7ZMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W5v_H2L7ZMY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>happened in Kelly-Hopkinsville, Kentucky in 1955? A terrified family, strange glowing figures, and bullets that had no effe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W5v_H2L7ZMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W5v_H2L7ZMY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>happened in Kelly-Hopkinsville, Kentucky in 1955? A terrified family, strange glowing figures, and bullets that had no effe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: completely-kentucky.fandom.com  
    Title: Kelly Hopkinsville Encounter  
-   Link: <a href="https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comKelly-Hopkinsville Encounter - Completely Kentucky WikiA claimed close encounter with extraterrestrial beings in 1955 near Kell...</p></details>
+   Link:<a href="https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comKelly-Hopkinsville Encounter - Completely Kentucky WikiA claimed close encounter with extraterrestrial beings in 1955 near Kell...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KhLc07CEZuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KhLc07CEZuE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncounter. 10K views · 1 year ago. Red Web...more. Red Web. 55.6K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KhLc07CEZuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KhLc07CEZuE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncounter. 10K views · 1 year ago. Red Web...more. Red Web. 55.6K...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cryptidz.fandom.com  
    Title: Hopkinsville Goblins  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Hopkinsville_Goblins" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Hopkinsville_Goblins</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goblins - Cryptid Wiki - FandomThe seven people present in the farmhouse claimed that they were terrorized by an unknown number of creatu...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Hopkinsville_Goblins" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Hopkinsville_Goblins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goblins - Cryptid Wiki - FandomThe seven people present in the farmhouse claimed that they were terrorized by an unknown number of creatu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/horror/veil-of-shadows-the-kelly-hopkinsville-goblin-encounter-a-siege-not-an-abduction" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/veil-of-shadows-the-kelly-hopkinsville-goblin-encounter-a-siege-not-an-abduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Veil of Shadows — The Kelly–Hopkinsville Goblin EncounterHopkinsville police rallied troopers, city officers, county deputies, and most i...</p></details>
+   Link:<a href="https://vocal.media/horror/veil-of-shadows-the-kelly-hopkinsville-goblin-encounter-a-siege-not-an-abduction" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/veil-of-shadows-the-kelly-hopkinsville-goblin-encounter-a-siege-not-an-abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Veil of Shadows — The Kelly–Hopkinsville Goblin EncounterHopkinsville police rallied troopers, city officers, county deputies, and most i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: husheduphistory.com  
-   Link: <a href="https://husheduphistory.com/post/649040698500333568/little-green-men-the-alien-encounter-of-kelly" target="_blank" rel="noopener noreferrer nofollow">https://husheduphistory.com/post/649040698500333568/little-green-men-the-alien-encounter-of-kelly</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: The Alien Encounter of Kelly Kentucky20 Apr 2021 — Curiosity seekers flocked to the farmhouse to investigate the scene...</p></details>
+   Link:<a href="https://husheduphistory.com/post/649040698500333568/little-green-men-the-alien-encounter-of-kelly" target="_blank" rel="noopener noreferrer nofollow">https://husheduphistory.com/post/649040698500333568/little-green-men-the-alien-encounter-of-kelly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: The Alien Encounter of Kelly Kentucky20 Apr 2021 — Curiosity seekers flocked to the farmhouse to investigate the scene...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Episode 79 The Kelly-Hopkinsville Encounter Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=AcgdchW4pJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AcgdchW4pJo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHERE DID THE LITTLE GREEN MEN COME FROM? THE KELLY-HOPKINSVILLE, KENTUCKY, 1955 UFO ATTACK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AcgdchW4pJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AcgdchW4pJo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHERE DID THE LITTLE GREEN MEN COME FROM? THE KELLY-HOPKINSVILLE, KENTUCKY, 1955 UFO ATTACK...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Kelly-Hopkinsville ”Little Green Men” Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=OQRHnJpfu2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OQRHnJpfu2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Silly Mysteries That Piss Me Off (Mothman, The Hopkinsville Goblins, Skinwalker Ranch)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OQRHnJpfu2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OQRHnJpfu2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Silly Mysteries That Piss Me Off (Mothman, The Hopkinsville Goblins, Skinwalker Ranch)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
    Title: Small figures  
-   Link: <a href="https://www.instagram.com/reel/DYD4YN7h8g5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYD4YN7h8g5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing eyes. Watching from outside the house...The Kelly-Hopkinsville encounter is a famous 1955 UFO case involving a prolonged standof...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYD4YN7h8g5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYD4YN7h8g5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing eyes. Watching from outside the house...The Kelly-Hopkinsville encounter is a famous 1955 UFO case involving a prolonged standof...</p></details>

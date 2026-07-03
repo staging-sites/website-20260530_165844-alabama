@@ -262,12 +262,12 @@ image: /assets/images/Utah_2ff606_skinwalker_ranch_cla_b38749-overview-social.jp
 
 ## Introduction
 
-Skinwalker Ranch is the best-known UFO-related location in Utah, but it is also one of the hardest to assess cleanly. The public story mixes aerial lights, alleged craft, cattle deaths, strange animals, poltergeist-like events, health claims, government-linked research, private secrecy and reality television. That mixture is exactly why the ranch matters in Utah UFO history: not because it proves alien visitation, but because it shows how a local cluster of reports can become a national legend when testimony, money, media and official interest overlap. The strongest conclusion is cautious. Skinwalker Ranch has produced many claims and a few lines of documented institutional interest, but it has not produced publicly available, independently verifiable evidence strong enough to establish an extraordinary UFO explanation. NASA’s 2023 UAP study made the same wider point about unidentified anomalous phenomena: there is no conclusive peer-reviewed evidence for an extraterrestrial origin, and the central problem is often poor, incomplete or non-repeatable data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Skinwalker Ranch is the best-known UFO-related location in Utah, but it is also one of the hardest to assess cleanly. The public story mixes aerial lights, alleged craft, cattle deaths, strange animals, poltergeist-like events, health claims, government-linked research, private secrecy and reality television. That mixture is exactly why the ranch matters in Utah UFO history: not because it proves alien visitation, but because it shows how a local cluster of reports can become a national legend when testimony, money, media and official interest overlap. The strongest conclusion is cautious. Skinwalker Ranch has produced many claims and a few lines of documented institutional interest, but it has not produced publicly available, independently verifiable evidence strong enough to establish an extraordinary UFO explanation. NASA’s 2023 UAP study made the same wider point about unidentified anomalous phenomena: there is no conclusive peer-reviewed evidence for an extraterrestrial origin, and the central problem is often poor, incomplete or non-repeatable data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Utah_2ff606_skinwalker_ranch_cla_b38749-overview.webp" | relative_url }}" alt="Overview image for Skinwalker Ranch" loading="eager" decoding="sync" fetchpriority="high">
 ## From Sherman family claims to national attention
 
-The modern Skinwalker Ranch story begins in the mid-1990s, when Terry and Gwen Sherman described a run of disturbing events on their ranch in the [Uintah Basin]({{ 'uintah-basin/' | relative_url }}) of north-eastern Utah. A 1996 Deseret News report presented the family’s claims of unusual aerial objects, cattle mutilations and other incidents, including Terry Sherman’s account of an object moving low over trees near where a cow had been mutilated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1996/6/30/19251541/frequent-fliers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News FREQUENT FLIERS?</span><span class="citation-popover-snippet">Deseret NewsFREQUENT FLIERS?June 30, 1996 — 30 Jun 1996 —... UFOs or cattle mutilations in recent memory.... &quot;It went clear down here a...</span><span class="citation-popover-meta">Published: June 30, 1996</span></span></span>
+The modern Skinwalker Ranch story begins in the mid-1990s, when Terry and Gwen Sherman described a run of disturbing events on their ranch in the [Uintah Basin]({{ 'uintah-basin/' | relative_url }}) of north-eastern Utah. A 1996 Deseret News report presented the family’s claims of unusual aerial objects, cattle mutilations and other incidents, including Terry Sherman’s account of an object moving low over trees near where a cow had been mutilated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1996/6/30/19251541/frequent-fliers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News FREQUENT FLIERS?</span><span class="citation-popover-snippet">Deseret NewsFREQUENT FLIERS?June 30, 1996 — 30 Jun 1996 —... UFOs or cattle mutilations in recent memory.... &quot;It went clear down here a...</span><span class="citation-popover-meta">Published: June 30, 1996</span></span></span>
 
 For UFO history, the important point is not simply that the Shermans reported strange things. It is that the reports arrived in a region that already had a reputation for unusual sky sightings. Utah’s Uintah Basin had been associated with UFO reports before the ranch became famous, so the Sherman story could be absorbed into a larger local pattern rather than being treated as a single isolated farm tale. That gave the ranch a regional plausibility among believers: it seemed to sit inside a known hotspot rather than appearing from nowhere.
 
@@ -277,13 +277,13 @@ That distinction matters because rural aerial reports are often difficult to int
 
 ## Bigelow, private research and Pentagon-linked interest
 
-The ranch became nationally important after Las Vegas businessman Robert Bigelow bought it in 1996. Bigelow had already created the National Institute for Discovery Science, or NIDS, to study UFO and paranormal claims. Reporting on Bigelow’s wider UFO interests describes NIDS as a private organisation that investigated anomalous subjects, with Skinwalker Ranch becoming its most famous site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span><span class="citation-popover-snippet">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span></span></span>
+The ranch became nationally important after Las Vegas businessman Robert Bigelow bought it in 1996. Bigelow had already created the National Institute for Discovery Science, or NIDS, to study UFO and paranormal claims. Reporting on Bigelow’s wider UFO interests describes NIDS as a private organisation that investigated anomalous subjects, with Skinwalker Ranch becoming its most famous site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span><span class="citation-popover-snippet">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span></span></span>
 
-This phase is central to the ranch’s credibility debate. On one hand, Bigelow’s involvement meant that the property was not merely a campfire story. It attracted investigators, surveillance equipment, researchers and later links to people involved in government-funded UAP work. On the other hand, the NIDS phase did not leave behind a public, peer-reviewed body of evidence that resolves the ranch’s claims. Wired reported that Bigelow deactivated NIDS in 2004 “after years of failing to capture the supposedly supernatural”, while noting that he continued his UFO interests through later aerospace and government-linked work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span><span class="citation-popover-snippet">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span></span></span>
+This phase is central to the ranch’s credibility debate. On one hand, Bigelow’s involvement meant that the property was not merely a campfire story. It attracted investigators, surveillance equipment, researchers and later links to people involved in government-funded UAP work. On the other hand, the NIDS phase did not leave behind a public, peer-reviewed body of evidence that resolves the ranch’s claims. Wired reported that Bigelow deactivated NIDS in 2004 “after years of failing to capture the supposedly supernatural”, while noting that he continued his UFO interests through later aerospace and government-linked work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span><span class="citation-popover-snippet">Inside Robert Bigelow&#x27;s Decades-Long Obsession With UFOs</span></span></span>
 
-The most politically significant development came through the Defense Intelligence Agency programme usually discussed under the confusing labels AAWSAP and AATIP. The All-domain Anomaly Resolution Office, or AARO, stated in its 2024 historical report that the DIA-managed AAWSAP/AATIP effort was funded through a special appropriation and executed by a private-sector contractor. AARO also said that, although the official purpose concerned advanced aerospace research, the contractor team and at least one supportive government programme manager also conducted UAP and paranormal research at a property owned by that contractor’s organisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+The most politically significant development came through the Defense Intelligence Agency programme usually discussed under the confusing labels AAWSAP and AATIP. The All-domain Anomaly Resolution Office, or AARO, stated in its 2024 historical report that the DIA-managed AAWSAP/AATIP effort was funded through a special appropriation and executed by a private-sector contractor. AARO also said that, although the official purpose concerned advanced aerospace research, the contractor team and at least one supportive government programme manager also conducted UAP and paranormal research at a property owned by that contractor’s organisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
-That is important but easy to overstate. Pentagon-linked interest shows that some officials and contractors took the ranch seriously enough to spend time and money on it. It does not show that the ranch produced confirmed alien technology, off-world biological material, repeatable anomalies or a solved UFO case. AARO’s same historical report says the DIA cancelled the programme in 2012 because of a lack of merit and the limited utility of deliverables, and it describes the later proposed KONA BLUE effort as a rejected attempt to restart similar UAP, paranormal and alleged reverse-engineering work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+That is important but easy to overstate. Pentagon-linked interest shows that some officials and contractors took the ranch seriously enough to spend time and money on it. It does not show that the ranch produced confirmed alien technology, off-world biological material, repeatable anomalies or a solved UFO case. AARO’s same historical report says the DIA cancelled the programme in 2012 because of a lack of merit and the limited utility of deliverables, and it describes the later proposed KONA BLUE effort as a rejected attempt to restart similar UAP, paranormal and alleged reverse-engineering work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 The government connection therefore cuts both ways. It raises the ranch above ordinary local folklore because it became entangled with real federal contracting, political support and classified-adjacent culture. But the official paper trail also weakens the strongest claims if readers expect hard confirmation. The publicly available record shows interest, proposals, contracts and controversy. It does not show a public evidentiary breakthrough.
 
@@ -296,9 +296,9 @@ A useful way to sort the evidence is to separate four categories.
 
 **Witness testimony** is the largest category. This includes the Sherman family’s accounts, neighbours’ stories, investigators’ recollections and later claims by ranch owners or television participants. Testimony can be valuable, especially when it is early, consistent and independently corroborated. But testimony alone rarely establishes a highly unusual cause, because perception, memory, stress, darkness, distance and expectation all affect what people report.
 
-**Physical traces** include alleged cattle mutilations, marks on the ground, damaged equipment and environmental readings. These sound stronger because they seem tangible. The difficulty is that physical traces need careful documentation: when were they found, who handled them, what controls were used, what ordinary causes were excluded, and were the results replicated by independent specialists? Cattle mutilation claims are especially difficult because post-mortem scavenging, insects, bloating, tissue drying and predator activity can create injuries that look surgically strange to non-specialists. A veterinary article on bovine carcass scavenging reviewed how common carrion-eaters can produce misleading patterns after death. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1681190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPatterns of postmortem scavenging of the bovine carcass</span><span class="citation-popover-snippet">PMCPatterns of postmortem scavenging of the bovine carcass</span></span></span>
+**Physical traces** include alleged cattle mutilations, marks on the ground, damaged equipment and environmental readings. These sound stronger because they seem tangible. The difficulty is that physical traces need careful documentation: when were they found, who handled them, what controls were used, what ordinary causes were excluded, and were the results replicated by independent specialists? Cattle mutilation claims are especially difficult because post-mortem scavenging, insects, bloating, tissue drying and predator activity can create injuries that look surgically strange to non-specialists. A veterinary article on bovine carcass scavenging reviewed how common carrion-eaters can produce misleading patterns after death.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1681190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPatterns of postmortem scavenging of the bovine carcass</span><span class="citation-popover-snippet">PMCPatterns of postmortem scavenging of the bovine carcass</span></span></span>
 
-**Instrumented observations** should be the strongest category, because cameras, sensors, radar, radiation meters and other devices can capture data beyond human perception. Skinwalker Ranch has repeatedly been presented as heavily monitored, especially in the NIDS and television eras. Yet the public record still lacks a widely accepted, independently analysed dataset that demonstrates extraordinary aerial performance or a non-human cause. AARO’s own public UAP imagery pages show why this matters: even military sensor footage can be resolved as balloons or birds, or left unresolved because the available data is insufficient to evaluate performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span>
+**Instrumented observations** should be the strongest category, because cameras, sensors, radar, radiation meters and other devices can capture data beyond human perception. Skinwalker Ranch has repeatedly been presented as heavily monitored, especially in the NIDS and television eras. Yet the public record still lacks a widely accepted, independently analysed dataset that demonstrates extraordinary aerial performance or a non-human cause. AARO’s own public UAP imagery pages show why this matters: even military sensor footage can be resolved as balloons or birds, or left unresolved because the available data is insufficient to evaluate performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span>
 
 **Institutional interest** is the most misunderstood category. The fact that Bigelow, NIDS, BAASS, DIA-linked personnel or later television investigators studied the ranch is evidence that people were interested. It is not, by itself, evidence that the ranch’s phenomena were extraordinary. In UFO history, an official or semi-official investigation can make a case more important historically while still failing to prove the underlying claim.
 
@@ -310,7 +310,7 @@ Skinwalker Ranch is unusual because the claims are not limited to objects in the
 
 That may seem counter-intuitive. To believers, many different kinds of strangeness in one place can feel like convergence. If lights, animals, injuries, electronics and personal experiences all cluster around one ranch, perhaps the ranch is the common factor. But in evidence terms, breadth can weaken rather than strengthen the argument. Each claim type needs its own test. A sky light needs astronomical, aviation and sensor analysis. A cattle death needs veterinary and forensic analysis. A health effect needs medical evaluation. A claimed portal needs instrumented, repeatable observation. A feeling of being watched or followed needs a different standard again.
 
-The History Channel era has made this problem more visible. The Secret of Skinwalker Ranch brought the property to a large audience and showcased lasers, drones, digging, mapping and sensor readings. That makes the ranch feel more scientific than older campfire accounts. But television is not a neutral laboratory format. It rewards cliff-hangers, dramatic uncertainty and suggestive editing. History’s own promotional material frames the ranch around portals, wormholes and strange creatures, which may be entertaining but also blurs the line between investigation and paranormal branding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Open source on history.com.</span></span></span>
+The History Channel era has made this problem more visible. The Secret of Skinwalker Ranch brought the property to a large audience and showcased lasers, drones, digging, mapping and sensor readings. That makes the ranch feel more scientific than older campfire accounts. But television is not a neutral laboratory format. It rewards cliff-hangers, dramatic uncertainty and suggestive editing. History’s own promotional material frames the ranch around portals, wormholes and strange creatures, which may be entertaining but also blurs the line between investigation and paranormal branding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Open source on history.com.</span></span></span>
 
 The most careful conclusion is that Skinwalker Ranch is a mixed-claim site with some UFO relevance, not a clean UFO case. Its value to Utah UFO history lies partly in that messiness. It shows how UFO narratives often merge with older folklore, animal-mutilation panics, government secrecy, private research culture and modern entertainment. For a reader trying to decide “what is the UFO evidence?”, the answer is narrower than the legend: there are aerial claims and reports of lights, but they are embedded in a much wider paranormal story that makes controlled interpretation harder.
 
@@ -318,9 +318,9 @@ The most careful conclusion is that Skinwalker Ranch is a mixed-claim site with 
 
 The strongest version of the Skinwalker Ranch argument often points to federal interest. If the US government spent money connected to Bigelow’s organisation, and if people linked to that effort were interested in the ranch, does that not mean the ranch had something extraordinary?
 
-The answer is: it means the ranch influenced a real strand of official and contractor activity, but it does not validate the extraordinary claims. The 2017 New York Times reporting on a secretive Pentagon UFO programme helped bring UAP into mainstream discussion and noted Bigelow’s role as a contractor and UFO believer. Later reporting and official reviews complicated the picture by distinguishing between AATIP as popularly understood and AAWSAP as a broader DIA-funded effort with fringe and paranormal elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-title">Secret Pentagon Program Spent Millions to Research UFOs</span><span class="citation-popover-snippet">Secret Pentagon Program Spent Millions to Research UFOs</span></span></span>
+The answer is: it means the ranch influenced a real strand of official and contractor activity, but it does not validate the extraordinary claims. The 2017 New York Times reporting on a secretive Pentagon UFO programme helped bring UAP into mainstream discussion and noted Bigelow’s role as a contractor and UFO believer. Later reporting and official reviews complicated the picture by distinguishing between AATIP as popularly understood and AAWSAP as a broader DIA-funded effort with fringe and paranormal elements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-title">Secret Pentagon Program Spent Millions to Research UFOs</span><span class="citation-popover-snippet">Secret Pentagon Program Spent Millions to Research UFOs</span></span></span>
 
-AARO’s KONA BLUE discussion is especially useful because it shows how claims can move from belief to bureaucracy. According to AARO, KONA BLUE was proposed to the Department of Homeland Security as a possible special-access programme after AAWSAP/AATIP ended, with advocates hoping to restart UAP investigations, paranormal research and reverse-engineering work if alleged off-world material could be acquired. AARO says the proposal was not approved, did not receive material or funding, and was rejected by DHS leadership for lacking merit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+AARO’s KONA BLUE discussion is especially useful because it shows how claims can move from belief to bureaucracy. According to AARO, KONA BLUE was proposed to the Department of Homeland Security as a possible special-access programme after AAWSAP/AATIP ended, with advocates hoping to restart UAP investigations, paranormal research and reverse-engineering work if alleged off-world material could be acquired. AARO says the proposal was not approved, did not receive material or funding, and was rejected by DHS leadership for lacking merit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 That is a crucial distinction for Utah readers. Skinwalker Ranch did not remain a purely local legend. It helped shape a modern UAP policy story involving contractors, senators, intelligence officials and later public controversy. But the official record available so far supports a modest claim: the ranch mattered to people who believed unusual things were happening. It does not support the stronger claim that the government confirmed those things were non-human, extraterrestrial or physically anomalous.
 
@@ -331,7 +331,7 @@ A fair sceptical reading does not require accusing every witness of lying. Many 
 
 For aerial reports, the ordinary-cause list is broad: aircraft, helicopters, drones, satellites, meteors, military activity, distant vehicle lights, atmospheric effects and camera artefacts. For animal deaths, natural predation and scavenging can produce strange-looking carcasses, while deliberate human interference is also possible in some mutilation cases. For electronics and sensor anomalies, investigators must account for equipment faults, interference, calibration problems, software assumptions and the temptation to treat unexplained readings as meaningful before mundane causes have been excluded.
 
-This sceptical position has been stated more sharply by writers such as Brian Dunning, whose Skeptoid episode argues that the Skinwalker story is a paranormal legend with little solid evidence behind it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span> Other sceptical coverage has focused on the weakness of the public evidence, the dependence on dramatic testimony and the way Skinwalker Ranch became a branded media property. IFLScience, for example, summarised the evidentiary problem bluntly by arguing that the public case lacks hard supporting evidence despite the popularity of the stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?</span><span class="citation-popover-snippet">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?</span></span></span>
+This sceptical position has been stated more sharply by writers such as Brian Dunning, whose Skeptoid episode argues that the Skinwalker story is a paranormal legend with little solid evidence behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span> Other sceptical coverage has focused on the weakness of the public evidence, the dependence on dramatic testimony and the way Skinwalker Ranch became a branded media property. IFLScience, for example, summarised the evidentiary problem bluntly by arguing that the public case lacks hard supporting evidence despite the popularity of the stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?</span><span class="citation-popover-snippet">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?</span></span></span>
 
 The more balanced formulation is this: the ranch has many reports, but reports are not all equal. Early, independent, well-documented observations would count for more than late retellings. Multi-sensor recordings with open data would count for more than television clips. Veterinary necropsies with full documentation would count for more than photographs of carcasses. A repeated anomaly captured under controlled conditions would count for much more than a one-off surprise. By those standards, Skinwalker Ranch remains famous but evidentially unresolved.
 
@@ -339,9 +339,9 @@ The more balanced formulation is this: the ranch has many reports, but reports a
 
 ## What later reporting has changed
 
-Later reporting has strengthened Skinwalker Ranch’s importance as a cultural and institutional story, while weakening the idea that it can be treated as a straightforward UFO proof case. The ranch is now better documented as a node in the modern UAP network: Bigelow, NIDS, BAASS, George Knapp, Colm Kelleher, Harry Reid, AAWSAP/AATIP confusion, KONA BLUE and the post-2017 revival of official UFO interest all intersect with it in some way. Scientific American’s 2024 discussion of the Pentagon’s hidden UFO office noted unreleased databases, Skinwalker Ranch references and reasons to doubt the quality and objectivity of some programme outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">what really happened at the pentagons once hidden ufo office</span><span class="citation-popover-snippet">what really happened at the pentagons once hidden ufo office</span></span></span>
+Later reporting has strengthened Skinwalker Ranch’s importance as a cultural and institutional story, while weakening the idea that it can be treated as a straightforward UFO proof case. The ranch is now better documented as a node in the modern UAP network: Bigelow, NIDS, BAASS, George Knapp, Colm Kelleher, Harry Reid, AAWSAP/AATIP confusion, KONA BLUE and the post-2017 revival of official UFO interest all intersect with it in some way. Scientific American’s 2024 discussion of the Pentagon’s hidden UFO office noted unreleased databases, Skinwalker Ranch references and reasons to doubt the quality and objectivity of some programme outputs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">what really happened at the pentagons once hidden ufo office</span><span class="citation-popover-snippet">what really happened at the pentagons once hidden ufo office</span></span></span>
 
-At the same time, modern official reviews have made the evidentiary standard clearer. AARO’s historical report found no empirical evidence for claims that the US government or private companies had reverse-engineered extraterrestrial technology, and its discussion of AAWSAP/KONA BLUE places Skinwalker-linked research in the category of disputed, poorly supported and ultimately rejected programme expansion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span> NASA’s independent UAP report similarly argued for better data, standardised collection and a move away from stigma and sensationalism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+At the same time, modern official reviews have made the evidentiary standard clearer. AARO’s historical report found no empirical evidence for claims that the US government or private companies had reverse-engineered extraterrestrial technology, and its discussion of AAWSAP/KONA BLUE places Skinwalker-linked research in the category of disputed, poorly supported and ultimately rejected programme expansion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span> NASA’s independent UAP report similarly argued for better data, standardised collection and a move away from stigma and sensationalism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 This does not make Skinwalker Ranch irrelevant. It makes it a different kind of important. The ranch is not Utah’s clearest case if the question is “what is the best UFO evidence?” Tremonton’s 1952 film, for example, is a more contained case because it involves a specific filmed event and a defined official debate. Skinwalker Ranch is more important if the question is “how do UFO claims become durable, funded and culturally powerful despite weak public evidence?” In that sense, it is one of Utah’s most revealing UFO stories.
 
@@ -375,194 +375,194 @@ The answer, on the public evidence, is not that Skinwalker Ranch has proved alie
 That is why the ranch deserves careful treatment in any Utah UFO history. It should not be inflated into proof, but it should not be ignored as mere entertainment either. Skinwalker Ranch shows how the most famous UFO-related places often become famous not because the evidence is clean, but because the evidence is messy in exactly the way that keeps a mystery alive.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is the UFO Case for Skinwalker Ranch?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is the UFO Case for Skinwalker Ranch?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Directly recounts the ranch investigations that made the location famous.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly recounts the ranch investigations that made the location famous.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
+</h4>
+<p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
         
-        <p class="fr-book-desc">Extends the government-investigation angle central to the ranch story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Extends the government-investigation angle central to the ranch story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Relevant because Skinwalker discussions often extend beyond conventional UFO categories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant because Skinwalker discussions often extend beyond conventional UFO categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Examines government-connected research associated with Skinwalker Ranch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government-connected research associated with Skinwalker Ranch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Inside the U.S. Government Covert UFO Program</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Inside the U.S. Government Covert UFO Program</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-the-ufo-case-for-skinwalker-ranch-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ That is why the ranch deserves careful treatment in any Utah UFO history. It sho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ That is why the ranch deserves careful treatment in any Utah UFO history. It sho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ That is why the ranch deserves careful treatment in any Utah UFO history. It sho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ That is why the ranch deserves careful treatment in any Utah UFO history. It sho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ That is why the ranch deserves careful treatment in any Utah UFO history. It sho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,207 +768,207 @@ That is why the ranch deserves careful treatment in any Utah UFO history. It sho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: deseret.com  
    Title: News FREQUENT FLIERS?  
-   Link: <a href="https://www.deseret.com/1996/6/30/19251541/frequent-fliers/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1996/6/30/19251541/frequent-fliers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFREQUENT FLIERS?June 30, 1996 — 30 Jun 1996 —... UFOs or cattle mutilations in recent memory.... &quot;It went clear down here a...</p></details>
+   Link:<a href="https://www.deseret.com/1996/6/30/19251541/frequent-fliers/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1996/6/30/19251541/frequent-fliers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFREQUENT FLIERS?June 30, 1996 — 30 Jun 1996 —... UFOs or cattle mutilations in recent memory.... &quot;It went clear down here a...</p></details>
    Published: June 30, 1996  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: Inside Robert Bigelow's Decades-Long Obsession With UFOs  
-   Link: <a href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos</a>  
+   Link:<a href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPatterns of postmortem scavenging of the bovine carcass  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1681190/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1681190/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1681190/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1681190/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kqed.org  
    Title: Secret Pentagon Program Spent Millions to Research UFOs  
-   Link: <a href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos</a>  
+   Link:<a href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/321" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/321</a>  
+   Link:<a href="https://skeptoid.com/episodes/321" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/321</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iflscience.com  
    Title: Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?  
-   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
+   Link:<a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
+   Link:<a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: history.com  
    Title: skinwalker ranch paranormal ufos mutilation  
-   Link: <a href="https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation</a>  
+   Link:<a href="https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.com  
    Title: cattle mutilation 1970s skinwalker ranch ufos  
-   Link: <a href="https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos</a>  
+   Link:<a href="https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skeptoid.com  
    Title: The Pentagon's UFO Huntby Brian Dunning  
-   Link: <a href="https://skeptoid.com/episodes/621" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/621</a>  
+   Link:<a href="https://skeptoid.com/episodes/621" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/621</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/788" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/788</a>  
+   Link:<a href="https://skeptoid.com/episodes/788" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/788</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: utah.com  
    Title: what is skinwalker ranch and whats really going on there  
-   Link: <a href="https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/</a>  
+   Link:<a href="https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: attheu.utah.edu  
    Title: the west is best to spot ufos  
-   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
+   Link:<a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: military.com  
    Title: how believers paranormal birthed pentagons new hunt ufos  
-   Link: <a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
+   Link:<a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scientificamerican.com  
    Title: what really happened at the pentagons once hidden ufo office  
-   Link: <a href="https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/</a>  
+   Link:<a href="https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Cattle mutilation  
-   Link: <a href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cattle_mutilation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cattle_mutilation</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scientificamerican.com  
    Title: heres what i learned as the u s governments ufo hunter  
-   Link: <a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
+   Link:<a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/the-bizarre-history-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/the-bizarre-history-of-skinwalker-ranch</a>  
+   Link:<a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/the-bizarre-history-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/the-bizarre-history-of-skinwalker-ranch</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/9-unknown-and-spooky-facts-about-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/9-unknown-and-spooky-facts-about-skinwalker-ranch</a>  
+   Link:<a href="https://www.history.co.uk/articles/9-unknown-and-spooky-facts-about-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/9-unknown-and-spooky-facts-about-skinwalker-ranch</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dev.mrarch.com  
    Title: Historycom Skinwalker Ranch  
-   Link: <a href="https://dev.mrarch.com/read/010/0TW/vuTzOY/HistorycomSkinwalkerRanch" target="_blank" rel="noopener noreferrer nofollow">https://dev.mrarch.com/read/010/0TW/vuTzOY/HistorycomSkinwalkerRanch</a>  
+   Link:<a href="https://dev.mrarch.com/read/010/0TW/vuTzOY/HistorycomSkinwalkerRanch" target="_blank" rel="noopener noreferrer nofollow">https://dev.mrarch.com/read/010/0TW/vuTzOY/HistorycomSkinwalkerRanch</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9krI2n6Pc8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9krI2n6Pc8M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Unexplained Paranormal Mysteries | The Secret of Skinwalker Ranch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9krI2n6Pc8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9krI2n6Pc8M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Unexplained Paranormal Mysteries | The Secret of Skinwalker Ranch...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: What's Really Happening at Skinwalker Ranch | Dr. Travis Taylor | Ep 155  
-   Link: <a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon Fugal: Billionaire Owner of Skinwalker Ranch: “I Saw It With My Own Eyes” | DSH #1644...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon Fugal: Billionaire Owner of Skinwalker Ranch: “I Saw It With My Own Eyes” | DSH #1644...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1759035434339655/posts/4031955357047640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1759035434339655/posts/4031955357047640/</a>  
+   Link:<a href="https://www.facebook.com/groups/1759035434339655/posts/4031955357047640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1759035434339655/posts/4031955357047640/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/a-place-filled-with-fear-questions-and-secrets-skinwalker-ranch-remains-one-of-t/1394469942679822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/a-place-filled-with-fear-questions-and-secrets-skinwalker-ranch-remains-one-of-t/1394469942679822/</a>  
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/a-place-filled-with-fear-questions-and-secrets-skinwalker-ranch-remains-one-of-t/1394469942679822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/a-place-filled-with-fear-questions-and-secrets-skinwalker-ranch-remains-one-of-t/1394469942679822/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
+   Link:<a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/645814355517952/posts/1310578679041513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/645814355517952/posts/1310578679041513/</a>  
+   Link:<a href="https://www.facebook.com/groups/645814355517952/posts/1310578679041513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/645814355517952/posts/1310578679041513/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/300947308141298/posts/1127705868798767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/300947308141298/posts/1127705868798767/</a>  
+   Link:<a href="https://www.facebook.com/groups/300947308141298/posts/1127705868798767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/300947308141298/posts/1127705868798767/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/wh6xeo/exactly_why_did_robert_bigelow_sell_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/wh6xeo/exactly_why_did_robert_bigelow_sell_skinwalker/</a>  
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/wh6xeo/exactly_why_did_robert_bigelow_sell_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/wh6xeo/exactly_why_did_robert_bigelow_sell_skinwalker/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5r3ct/explain_kona_blue_to_me_like_i_was_a_6th_grader/</a>

@@ -248,14 +248,14 @@ image: /assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_police_radar_a
 
 ## Introduction
 
-The police observations and radar reports from the night of 8 March 1994 are the strongest pieces of evidence in the West Michigan UFO case. Hundreds of people reported unusual lights, but what set this incident apart from many other sightings was that law-enforcement officers became directly involved and a National Weather Service (NWS) meteorologist reported unusual radar returns at roughly the same time. Those two elements transformed the event from a collection of civilian sightings into one of Michigan's most discussed unexplained aerial incidents. At the same time, neither the police observations nor the radar data provide a definitive explanation. Both remain open to interpretation, and the debate over their meaning is central to understanding why the case remains unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">March 14, 2026 — The sightings were reported to 9-1-1 and were observed by police and a National Weather Service radar at Muskegon County...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
+The police observations and radar reports from the night of 8 March 1994 are the strongest pieces of evidence in the West Michigan UFO case. Hundreds of people reported unusual lights, but what set this incident apart from many other sightings was that law-enforcement officers became directly involved and a National Weather Service (NWS) meteorologist reported unusual radar returns at roughly the same time. Those two elements transformed the event from a collection of civilian sightings into one of Michigan's most discussed unexplained aerial incidents. At the same time, neither the police observations nor the radar data provide a definitive explanation. Both remain open to interpretation, and the debate over their meaning is central to understanding why the case remains unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">March 14, 2026 — The sightings were reported to 9-1-1 and were observed by police and a National Weather Service radar at Muskegon County...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_police_radar_analysi_ed9391-Illustration-1-dark.svg" | relative_url }}" alt="Police &amp; Radar illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_police_radar_analysi_ed9391-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_police_radar_analysi_ed9391-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## National Weather Service Radar Readings and Their Interpretation
 
-The radar evidence originated at the National Weather Service office at Muskegon County Airport. On the evening of the sightings, Ottawa County dispatchers contacted meteorologist Jack Bushong after receiving numerous reports of unusual lights. Bushong later stated that he switched the weather radar into a mode that allowed him to examine the reported area more closely and began tracking returns that he considered unusual. According to his later accounts, some targets appeared to move, stop, change altitude and form groupings that did not resemble ordinary weather patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">Retired meteorologist shares his account of 1994 West...Sep 3, 2020 — Jack Bushong is a retired meteorologist who spent his career w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
+The radar evidence originated at the National Weather Service office at Muskegon County Airport. On the evening of the sightings, Ottawa County dispatchers contacted meteorologist Jack Bushong after receiving numerous reports of unusual lights. Bushong later stated that he switched the weather radar into a mode that allowed him to examine the reported area more closely and began tracking returns that he considered unusual. According to his later accounts, some targets appeared to move, stop, change altitude and form groupings that did not resemble ordinary weather patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">Retired meteorologist shares his account of 1994 West...Sep 3, 2020 — Jack Bushong is a retired meteorologist who spent his career w...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
 
-Bushong's testimony became particularly influential because he was not a civilian witness looking at lights in the sky. He was trained to interpret meteorological radar and initially expected to confirm ordinary conditions. In later interviews, he described observing targets over parts of Lake Michigan and the lakeshore that appeared inconsistent with the weather conditions of the night. He also reported that some returns seemed to travel at speeds or display movements he found difficult to reconcile with conventional aircraft behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">Retired meteorologist shares his account of 1994 West...Sep 3, 2020 — Jack Bushong is a retired meteorologist who spent his career w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
+Bushong's testimony became particularly influential because he was not a civilian witness looking at lights in the sky. He was trained to interpret meteorological radar and initially expected to confirm ordinary conditions. In later interviews, he described observing targets over parts of Lake Michigan and the lakeshore that appeared inconsistent with the weather conditions of the night. He also reported that some returns seemed to travel at speeds or display movements he found difficult to reconcile with conventional aircraft behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">Retired meteorologist shares his account of 1994 West...Sep 3, 2020 — Jack Bushong is a retired meteorologist who spent his career w...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
 
 However, the radar evidence has important limitations:
 
@@ -264,7 +264,7 @@ However, the radar evidence has important limitations:
 * The system involved was a weather radar, not an air-traffic-control radar designed primarily to track aircraft.
 * Much of the discussion relies on Bushong's recollections and later interviews rather than publicly available archived radar recordings.
 * Weather radar can detect non-weather targets, including birds, atmospheric effects and ground clutter.
-* Independent researchers cannot fully reconstruct the radar picture because the original operational data are not widely available for review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
+* Independent researchers cannot fully reconstruct the radar picture because the original operational data are not widely available for review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
 </div>
 
@@ -272,9 +272,9 @@ These limitations do not invalidate Bushong's observations, but they make it dif
 
 ### Could Atmospheric Conditions Explain the Radar Returns?
 
-One of the main sceptical interpretations focuses on atmospheric propagation effects. Under certain temperature and humidity conditions, radar beams can bend unusually and detect distant objects or surface features that would not normally appear. This phenomenon, often called anomalous propagation, can create misleading radar targets and unusual apparent movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">March 14, 2026 — The sightings were reported to 9-1-1 and were observed by police and a National Weather Service radar at Muskegon County...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
+One of the main sceptical interpretations focuses on atmospheric propagation effects. Under certain temperature and humidity conditions, radar beams can bend unusually and detect distant objects or surface features that would not normally appear. This phenomenon, often called anomalous propagation, can create misleading radar targets and unusual apparent movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">March 14, 2026 — The sightings were reported to 9-1-1 and were observed by police and a National Weather Service radar at Muskegon County...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
 
-Later reporting noted that some meteorological experts were unconvinced that the radar returns represented extraordinary objects. Critics argued that weather radar was never intended to identify unknown craft and that unusual returns alone could not establish the presence of physical vehicles. The challenge is that the available public record does not contain enough technical information to determine conclusively whether anomalous propagation, ground clutter, distant aircraft or another cause produced the returns Bushong described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
+Later reporting noted that some meteorological experts were unconvinced that the radar returns represented extraordinary objects. Critics argued that weather radar was never intended to identify unknown craft and that unusual returns alone could not establish the presence of physical vehicles. The challenge is that the available public record does not contain enough technical information to determine conclusively whether anomalous propagation, ground clutter, distant aircraft or another cause produced the returns Bushong described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
 As a result, the radar evidence remains suggestive rather than conclusive. Supporters view it as independent confirmation of witness reports, while sceptics see it as a potentially misinterpreted meteorological signal.
 
@@ -284,9 +284,9 @@ As a result, the radar evidence remains suggestive rather than conclusive. Suppo
 
 The police evidence is often considered more straightforward than the radar evidence because it involves documented emergency calls and on-scene observations.
 
-Among the officers associated with the case, Holland police officer Jeff Velthouse became the most prominent. After reports began reaching dispatch centres, Velthouse responded to a residence where witnesses were observing unusual lights. Rather than arriving after the event had ended, he reportedly observed the lights himself while speaking with witnesses. This placed a trained law-enforcement observer directly into the chain of evidence. WWMT <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Netflix&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;Oct 18, 2022 — A radar operator from the National Weather Service watched the...</span></span></span> The significance of the police involvement lies less in the specific description of the lights and more in the reaction of dispatch and responding officers. Dispatchers were receiving multiple independent reports from different locations. The calls came from people who did not appear to know one another, reducing the likelihood that a single misunderstanding or local rumour had generated the reports. Contemporary accounts describe officers attempting to track the lights and compare information from different callers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[2unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Lake Michigan UFO &#124; Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">Location: Muskegon, Michigan Date: March 8, 1994 Description: The UFO (or UFOs) has been described somewhat differently by various...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span>
+Among the officers associated with the case, Holland police officer Jeff Velthouse became the most prominent. After reports began reaching dispatch centres, Velthouse responded to a residence where witnesses were observing unusual lights. Rather than arriving after the event had ended, he reportedly observed the lights himself while speaking with witnesses. This placed a trained law-enforcement observer directly into the chain of evidence. WWMT<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Netflix&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;Oct 18, 2022 — A radar operator from the National Weather Service watched the...</span></span></span> The significance of the police involvement lies less in the specific description of the lights and more in the reaction of dispatch and responding officers. Dispatchers were receiving multiple independent reports from different locations. The calls came from people who did not appear to know one another, reducing the likelihood that a single misunderstanding or local rumour had generated the reports. Contemporary accounts describe officers attempting to track the lights and compare information from different callers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[2unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Lake Michigan UFO &#124; Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">Location: Muskegon, Michigan Date: March 8, 1994 Description: The UFO (or UFOs) has been described somewhat differently by various...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span>
 
-The surviving 911 recordings became an important part of the case after journalists obtained them through public-records requests. Listeners often point to the apparent sincerity and urgency of callers and dispatch personnel. While emotional reactions do not prove the existence of an extraordinary object, they do suggest that witnesses believed they were observing something unusual rather than participating in a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://muskegonchannel.com/muskegon-metro-area/1140-paranormal-muskegon-ufo-sighting-of-1994-with-mike-walsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muskegonchannel.com">[MuskegonChannel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muskegonchannel.com</span><span class="citation-popover-title">Muskegon Channel.com Paranormal Muskegon</span><span class="citation-popover-snippet">Paranormal Muskegon - UFO Sighting of 1994 With Mike...Jan 15, 2020 — I have investigated over 100 UFO cases in Michigan for MUFON and w...</span></span></span>
+The surviving 911 recordings became an important part of the case after journalists obtained them through public-records requests. Listeners often point to the apparent sincerity and urgency of callers and dispatch personnel. While emotional reactions do not prove the existence of an extraordinary object, they do suggest that witnesses believed they were observing something unusual rather than participating in a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://muskegonchannel.com/muskegon-metro-area/1140-paranormal-muskegon-ufo-sighting-of-1994-with-mike-walsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muskegonchannel.com">[MuskegonChannel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muskegonchannel.com</span><span class="citation-popover-title">Muskegon Channel.com Paranormal Muskegon</span><span class="citation-popover-snippet">Paranormal Muskegon - UFO Sighting of 1994 With Mike...Jan 15, 2020 — I have investigated over 100 UFO cases in Michigan for MUFON and w...</span></span></span>
 
 ### What Police Testimony Can and Cannot Prove
 
@@ -299,7 +299,7 @@ Police observations can establish that:
 * Multiple reports were received from different locations.
 * Officers considered the reports serious enough to investigate.
 * At least some officers reported seeing unusual lights themselves.
-* The observations were occurring in real time rather than being reconstructed years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
+* The observations were occurring in real time rather than being reconstructed years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
 </div>
 
@@ -310,7 +310,7 @@ Police observations cannot by themselves establish:
 * The distance or size of the objects.
 * Their altitude.
 * Whether they were physical craft, atmospheric phenomena or distant conventional objects.
-* Whether separate witnesses were observing the same object or different objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-line-up.com/march-8-1994-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-line-up.com">[The Lineup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-line-up.com</span><span class="citation-popover-snippet">Just because no one knows what an object is, doesn&#x27;t mean that it is necessarily aliens or any other...Read more...</span></span></span>
+* Whether separate witnesses were observing the same object or different objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://the-line-up.com/march-8-1994-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-line-up.com">[The Lineup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-line-up.com</span><span class="citation-popover-snippet">Just because no one knows what an object is, doesn&#x27;t mean that it is necessarily aliens or any other...Read more...</span></span></span>
 
 </div>
 
@@ -321,11 +321,11 @@ This distinction is important because the strongest UFO cases often combine mult
 
 The most persuasive aspect of the 1994 incident is that the radar and police evidence appear to overlap in time and geography.
 
-Dispatchers receiving reports contacted the National Weather Service. Bushong then reported unusual radar returns in the general area where witnesses and officers were describing lights. This sequence creates a form of corroboration: visual reports prompted a radar check, and the radar operator reported seeing something unusual rather than simply reporting clear skies and empty screens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
+Dispatchers receiving reports contacted the National Weather Service. Bushong then reported unusual radar returns in the general area where witnesses and officers were describing lights. This sequence creates a form of corroboration: visual reports prompted a radar check, and the radar operator reported seeing something unusual rather than simply reporting clear skies and empty screens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
 
-For supporters of the unexplained interpretation, this convergence is the heart of the case. They argue that independent witnesses, police officers, dispatch records and radar observations all point toward an aerial phenomenon that has not been satisfactorily identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Netflix&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;Oct 18, 2022 — A radar operator from the National Weather Service watched the...</span></span></span>
+For supporters of the unexplained interpretation, this convergence is the heart of the case. They argue that independent witnesses, police officers, dispatch records and radar observations all point toward an aerial phenomenon that has not been satisfactorily identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Netflix&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;Oct 18, 2022 — A radar operator from the National Weather Service watched the...</span></span></span>
 
-Sceptics counter that the convergence may be weaker than it appears. Radar targets may not have corresponded exactly to the lights witnesses observed. Human observers can misjudge position and movement at night, and once reports begin circulating, different observations can become linked in retrospect even when they stem from separate causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
+Sceptics counter that the convergence may be weaker than it appears. Radar targets may not have corresponded exactly to the lights witnesses observed. Human observers can misjudge position and movement at night, and once reports begin circulating, different observations can become linked in retrospect even when they stem from separate causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_police_radar_analysi_ed9391-Illustration-3-dark.svg" | relative_url }}" alt="Police &amp; Radar illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_police_radar_analysi_ed9391-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_police_radar_analysi_ed9391-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Inconsistencies, Gaps and the Limits of the Evidence
@@ -337,7 +337,7 @@ Several unresolved issues remain:
 * Witnesses described the lights differently, suggesting either varying viewing angles or multiple phenomena.
 * Publicly available radar records are limited, forcing investigators to rely heavily on recollections and secondary reporting.
 * No confirmed photographic or physical evidence emerged that could independently verify the radar interpretations.
-* Later retellings sometimes emphasised dramatic elements, making it difficult to separate original observations from decades of retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Lake Michigan UFO &#124; Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">Location: Muskegon, Michigan Date: March 8, 1994 Description: The UFO (or UFOs) has been described somewhat differently by various...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brettmilam.com/2022/10/23/unsolved-mysteries-something-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brettmilam.com">[Milam&#x27;s Musings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brettmilam.com</span><span class="citation-popover-snippet">Milam&#x27;s MusingsUnsolved Mysteries: Something in the Sky - Milam&#x27;s MusingsOct 23, 2022 — That means he started his career with NWS in 1994...</span></span></span>
+* Later retellings sometimes emphasised dramatic elements, making it difficult to separate original observations from decades of retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Lake Michigan UFO &#124; Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">Location: Muskegon, Michigan Date: March 8, 1994 Description: The UFO (or UFOs) has been described somewhat differently by various...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://brettmilam.com/2022/10/23/unsolved-mysteries-something-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brettmilam.com">[Milam&#x27;s Musings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brettmilam.com</span><span class="citation-popover-snippet">Milam&#x27;s MusingsUnsolved Mysteries: Something in the Sky - Milam&#x27;s MusingsOct 23, 2022 — That means he started his career with NWS in 1994...</span></span></span>
 
 These weaknesses do not mean the event was explained. Instead, they define why the case remains debated. The police and radar evidence elevate the incident above a routine report of distant lights, yet neither source provides the level of documentation needed for a definitive conclusion.
 
@@ -345,201 +345,201 @@ These weaknesses do not mean the event was explained. Instead, they define why t
 
 ## Why the Police and Radar Evidence Still Matter
 
-Within Michigan's UFO history, the 1994 West Michigan event remains notable because it produced two kinds of evidence that rarely appear together: contemporaneous law-enforcement involvement and reported radar confirmation from a government meteorological facility. The case is therefore remembered less for dramatic witness stories than for the interaction between dispatch records, police observations and radar reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
+Within Michigan's UFO history, the 1994 West Michigan event remains notable because it produced two kinds of evidence that rarely appear together: contemporaneous law-enforcement involvement and reported radar confirmation from a government meteorological facility. The case is therefore remembered less for dramatic witness stories than for the interaction between dispatch records, police observations and radar reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
 
-More than three decades later, the evidence supports a cautious conclusion. Something prompted a large number of witnesses to contact authorities, officers investigated the reports, and a National Weather Service meteorologist reported unusual radar activity. What remains uncertain is whether those observations reflected a single extraordinary aerial phenomenon, a combination of ordinary phenomena interpreted together, or something that cannot now be reconstructed from the surviving record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
+More than three decades later, the evidence supports a cautious conclusion. Something prompted a large number of witnesses to contact authorities, officers investigated the reports, and a National Weather Service meteorologist reported unusual radar activity. What remains uncertain is whether those observations reflected a single extraordinary aerial phenomenon, a combination of ordinary phenomena interpreted together, or something that cannot now be reconstructed from the surviving record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7dgTCHo7gK0" title="Lights Over West Michigan | 1994 UFO Sighting Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7dgTCHo7gK0" target="_blank" rel="noopener noreferrer">Lights Over West Michigan | 1994 UFO Sighting Special</a></p><p class="youtube-embed-meta">Channel: 13 ON YOUR SIDE &middot; Views: 163.6K &middot; Uploaded: August 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7dgTCHo7gK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7dgTCHo7gK0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Police and Radar Data Shaped the 1994 UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Police and Radar Data Shaped the 1994 UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers investigative reasoning and official assessments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers investigative reasoning and official assessments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces categories of evidence including radar-associated cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces categories of evidence including radar-associated cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Radar and law-enforcement testimony are central themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Radar and law-enforcement testimony are central themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Analyzes physical and observational evidence in UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes physical and observational evidence in UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-police-and-radar-data-shaped-the-1994-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ More than three decades later, the evidence supports a cautious conclusion. Some
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ More than three decades later, the evidence supports a cautious conclusion. Some
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ More than three decades later, the evidence supports a cautious conclusion. Some
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ More than three decades later, the evidence supports a cautious conclusion. Some
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ More than three decades later, the evidence supports a cautious conclusion. Some
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,128 +745,128 @@ More than three decades later, the evidence supports a cautious conclusion. Some
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1994 Michigan UFO event  
-   Link: <a href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1994_Michigan_UFO_event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 14, 2026 — The sightings were reported to 9-1-1 and were observed by police and a National Weather Service radar at Muskegon County...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1994_Michigan_UFO_event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 14, 2026 — The sightings were reported to 9-1-1 and were observed by police and a National Weather Service radar at Muskegon County...</p></details>
    Published: March 14, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wwmt.com  
    Title: retired meteorologist shares his account of 1994 west michigan ufo sightings  
-   Link: <a href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired meteorologist shares his account of 1994 West...Sep 3, 2020 — Jack Bushong is a retired meteorologist who spent his career w...</p></details>
+   Link:<a href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired meteorologist shares his account of 1994 West...Sep 3, 2020 — Jack Bushong is a retired meteorologist who spent his career w...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wwmt.com  
-   Link: <a href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</p></details>
+   Link:<a href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering West Michigan&#x27;s most famous UFO sighting...Mar 8, 2024 — Meteorologist tracks objects on radar: “Oh my god! What is this...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;Oct 18, 2022 — A radar operator from the National Weather Service watched the...</p></details>
+   Link:<a href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;Oct 18, 2022 — A radar operator from the National Weather Service watched the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Lake Michigan UFO | Unsolved Mysteries Wiki  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Location: Muskegon, Michigan Date: March 8, 1994 Description: The UFO (or UFOs) has been described somewhat differently by various...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Location: Muskegon, Michigan Date: March 8, 1994 Description: The UFO (or UFOs) has been described somewhat differently by various...</p></details>
    Published: March 8, 1994  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: muskegonchannel.com  
    Title: Muskegon Channel.com Paranormal Muskegon  
-   Link: <a href="https://muskegonchannel.com/muskegon-metro-area/1140-paranormal-muskegon-ufo-sighting-of-1994-with-mike-walsh" target="_blank" rel="noopener noreferrer nofollow">https://muskegonchannel.com/muskegon-metro-area/1140-paranormal-muskegon-ufo-sighting-of-1994-with-mike-walsh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Muskegon - UFO Sighting of 1994 With Mike...Jan 15, 2020 — I have investigated over 100 UFO cases in Michigan for MUFON and w...</p></details>
+   Link:<a href="https://muskegonchannel.com/muskegon-metro-area/1140-paranormal-muskegon-ufo-sighting-of-1994-with-mike-walsh" target="_blank" rel="noopener noreferrer nofollow">https://muskegonchannel.com/muskegon-metro-area/1140-paranormal-muskegon-ufo-sighting-of-1994-with-mike-walsh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Muskegon - UFO Sighting of 1994 With Mike...Jan 15, 2020 — I have investigated over 100 UFO cases in Michigan for MUFON and w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unsolved.com  
    Title: Mysteries Discover Something in the Sky Case  
-   Link: <a href="https://unsolved.com/gallery/something-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/something-in-the-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jack Bushong tracks the mysterious objects on the National Weather Service radar system. CASE...Read more...</p></details>
+   Link:<a href="https://unsolved.com/gallery/something-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/something-in-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jack Bushong tracks the mysterious objects on the National Weather Service radar system. CASE...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: brettmilam.com  
-   Link: <a href="https://brettmilam.com/2022/10/23/unsolved-mysteries-something-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://brettmilam.com/2022/10/23/unsolved-mysteries-something-in-the-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Milam&#x27;s MusingsUnsolved Mysteries: Something in the Sky - Milam&#x27;s MusingsOct 23, 2022 — That means he started his career with NWS in 1994...</p></details>
+   Link:<a href="https://brettmilam.com/2022/10/23/unsolved-mysteries-something-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://brettmilam.com/2022/10/23/unsolved-mysteries-something-in-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Milam&#x27;s MusingsUnsolved Mysteries: Something in the Sky - Milam&#x27;s MusingsOct 23, 2022 — That means he started his career with NWS in 1994...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: the-line-up.com  
-   Link: <a href="https://the-line-up.com/march-8-1994-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://the-line-up.com/march-8-1994-ufo-sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just because no one knows what an object is, doesn&#x27;t mean that it is necessarily aliens or any other...Read more...</p></details>
+   Link:<a href="https://the-line-up.com/march-8-1994-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://the-line-up.com/march-8-1994-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just because no one knows what an object is, doesn&#x27;t mean that it is necessarily aliens or any other...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wkfr.com  
    Title: unsolved mysteries ufo west michigan muksegon  
-   Link: <a href="https://wkfr.com/unsolved-mysteries-ufo-west-michigan-muksegon/" target="_blank" rel="noopener noreferrer nofollow">https://wkfr.com/unsolved-mysteries-ufo-west-michigan-muksegon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix&#x27;s Unsolved Mysteries Features West Michigan UFO...Oct 20, 2022 — On March 8, 1994 west Michigan dispatchers received over 300 ca...</p></details>
+   Link:<a href="https://wkfr.com/unsolved-mysteries-ufo-west-michigan-muksegon/" target="_blank" rel="noopener noreferrer nofollow">https://wkfr.com/unsolved-mysteries-ufo-west-michigan-muksegon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix&#x27;s Unsolved Mysteries Features West Michigan UFO...Oct 20, 2022 — On March 8, 1994 west Michigan dispatchers received over 300 ca...</p></details>
    Published: March 8, 1994  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnsolvedMysteries/comments/y85eqd/ama_request_petition_for_jack_bushong_ret_nat/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/y85eqd/ama_request_petition_for_jack_bushong_ret_nat/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMA Request: Petition for Jack Bushong (Ret. Nat....He both suffered the consequences of being doubted about his radar sighting of the U...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnsolvedMysteries/comments/y85eqd/ama_request_petition_for_jack_bushong_ret_nat/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/y85eqd/ama_request_petition_for_jack_bushong_ret_nat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMA Request: Petition for Jack Bushong (Ret. Nat....He both suffered the consequences of being doubted about his radar sighting of the U...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fox17online.com  
    Title: strange lights over lake michigan ufo sightings remembered 30 years later  
-   Link: <a href="https://www.fox17online.com/news/local-news/lakeshore/strange-lights-over-lake-michigan-ufo-sightings-remembered-30-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.fox17online.com/news/local-news/lakeshore/strange-lights-over-lake-michigan-ufo-sightings-remembered-30-years-later</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights over Lake Michigan: UFO sightings...Mar 8, 2024 — Thirty years ago on March 8, 1994, reports of UFO activity took West Mi...</p></details>
+   Link:<a href="https://www.fox17online.com/news/local-news/lakeshore/strange-lights-over-lake-michigan-ufo-sightings-remembered-30-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.fox17online.com/news/local-news/lakeshore/strange-lights-over-lake-michigan-ufo-sightings-remembered-30-years-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights over Lake Michigan: UFO sightings...Mar 8, 2024 — Thirty years ago on March 8, 1994, reports of UFO activity took West Mi...</p></details>
    Published: March 8, 1994  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt22336526/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt22336526/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMDb&quot;Unsolved Mysteries&quot; Something in the Sky (TV Episode...On the night of March 8, 1994, hundreds of people called 911 to report stran...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt22336526/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt22336526/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMDb&quot;Unsolved Mysteries&quot; Something in the Sky (TV Episode...On the night of March 8, 1994, hundreds of people called 911 to report stran...</p></details>
    Published: March 8, 1994  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/retired-meteorologist-jack-bushong-tracked-a-ufo-on-radar-and-says-it-hovered-an/302253108848380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/retired-meteorologist-jack-bushong-tracked-a-ufo-on-radar-and-says-it-hovered-an/302253108848380/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired meteorologist Jack Bushong tracked a UFO on...On March 8, 1994, meteorologist Jack Bushong got word that mysterious ligh...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/retired-meteorologist-jack-bushong-tracked-a-ufo-on-radar-and-says-it-hovered-an/302253108848380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/retired-meteorologist-jack-bushong-tracked-a-ufo-on-radar-and-says-it-hovered-an/302253108848380/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired meteorologist Jack Bushong tracked a UFO on...On March 8, 1994, meteorologist Jack Bushong got word that mysterious ligh...</p></details>
    Published: March 8, 1994  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: unsolved mysteries episode on [1994 lake michigan](&#123;&#123; '1994-lake-michigan/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/y8nvyn/unsolved_mysteries_episode_on_1994_lake_michigan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/y8nvyn/unsolved_mysteries_episode_on_1994_lake_michigan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the witnesses is Jack Bushong who worked for the National Weather Service and was tracking the objects on radar, was appare...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/y8nvyn/unsolved_mysteries_episode_on_1994_lake_michigan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/y8nvyn/unsolved_mysteries_episode_on_1994_lake_michigan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the witnesses is Jack Bushong who worked for the National Weather Service and was tracking the objects on radar, was appare...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: the strangest thing ever captured on weather  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1rs63zo/the_strangest_thing_ever_captured_on_weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1rs63zo/the_strangest_thing_ever_captured_on_weather/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RadarUnsolved Mysteries Episode on 1994 Lake Michigan UFO Sightings - Vol 3, Ep.... r/UFOs - 1994 audio tapes of a 911 operator and Nati...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1rs63zo/the_strangest_thing_ever_captured_on_weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1rs63zo/the_strangest_thing_ever_captured_on_weather/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RadarUnsolved Mysteries Episode on 1994 Lake Michigan UFO Sightings - Vol 3, Ep.... r/UFOs - 1994 audio tapes of a 911 operator and Nati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: screenrant.com  
    Title: While featured in Unsolved Mysteries volume  
-   Link: <a href="https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Jack Bushong Stayed Silent About 1994&#x27;s Lake...Oct 18, 2022 — After retiring from the NWS, Jack Bushong acknowledged his sighting of...</p></details>
+   Link:<a href="https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Jack Bushong Stayed Silent About 1994&#x27;s Lake...Oct 18, 2022 — After retiring from the NWS, Jack Bushong acknowledged his sighting of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/280444085792236/posts/1784915945345035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/280444085792236/posts/1784915945345035/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in West Michigan on March 8, 1994?So I&#x27;m watching Unsolved mysteries on Netflix, and theres an episode about March 8, 1994...</p></details>
+   Link:<a href="https://www.facebook.com/groups/280444085792236/posts/1784915945345035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/280444085792236/posts/1784915945345035/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in West Michigan on March 8, 1994?So I&#x27;m watching Unsolved mysteries on Netflix, and theres an episode about March 8, 1994...</p></details>
    Published: March 8, 1994  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: twistingmyths.substack.com  
    Title: lake michigan ufo sighting of 1994  
-   Link: <a href="https://twistingmyths.substack.com/p/lake-michigan-ufo-sighting-of-1994" target="_blank" rel="noopener noreferrer nofollow">https://twistingmyths.substack.com/p/lake-michigan-ufo-sighting-of-1994</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan UFO Sighting of 1994 - Twisting the MythsThe police received over 300 calls about the incident. Some officers even witnessed it...</p></details>
+   Link:<a href="https://twistingmyths.substack.com/p/lake-michigan-ufo-sighting-of-1994" target="_blank" rel="noopener noreferrer nofollow">https://twistingmyths.substack.com/p/lake-michigan-ufo-sighting-of-1994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan UFO Sighting of 1994 - Twisting the MythsThe police received over 300 calls about the incident. Some officers even witnessed it...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Retired meteorologist claims UFO was 'showing off for me' | CUOMO  
-   Link: <a href="https://www.youtube.com/watch?v=VQC_EOxrVs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VQC_EOxrVs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VQC_EOxrVs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VQC_EOxrVs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange...</p></details>

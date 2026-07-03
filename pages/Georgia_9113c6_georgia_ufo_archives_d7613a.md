@@ -269,24 +269,24 @@ Georgia’s UFO record is useful, but it is not a clean catalogue of proven myst
 
 Georgia does not have one official state UFO archive. Instead, its sightings are scattered across several kinds of record, each with a different purpose and a different reliability problem. Civilian databases collect public reports at scale; newspaper archives preserve what local communities were told at the time; federal collections preserve older official investigations; and modern apps try to turn witness accounts into more structured data.
 
-The National UFO Reporting Center, usually shortened to NUFORC, is the most visible public database for Georgia reports. Its Georgia index lists sightings by date, city, shape, summary and report date, with entries ranging from historic claims to very recent reports, including 2026 items from places such as Chickamauga and Statesboro. That breadth is useful for spotting clusters and recurring report types, but it also means the index mixes fresh accounts, delayed memories, single-witness stories, and reports with very different levels of detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The National UFO Reporting Center, usually shortened to NUFORC, is the most visible public database for Georgia reports. Its Georgia index lists sightings by date, city, shape, summary and report date, with entries ranging from historic claims to very recent reports, including 2026 items from places such as Chickamauga and Statesboro. That breadth is useful for spotting clusters and recurring report types, but it also means the index mixes fresh accounts, delayed memories, single-witness stories, and reports with very different levels of detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Enigma Labs offers another modern public-facing layer. Its Georgia page presents mapped UFO and UAP sightings, distinguishes Enigma-submitted sightings from third-party sightings, and markets itself as a mobile reporting and alert platform. Its wider site says it combines more than 270,000 historical reports from public sources with its own structured reporting tools, which makes it valuable for navigation but not automatically authoritative for case resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+Enigma Labs offers another modern public-facing layer. Its Georgia page presents mapped UFO and UAP sightings, distinguishes Enigma-submitted sightings from third-party sightings, and markets itself as a mobile reporting and alert platform. Its wider site says it combines more than 270,000 historical reports from public sources with its own structured reporting tools, which makes it valuable for navigation but not automatically authoritative for case resolution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-Federal records matter mainly for older cases. The National Archives explains that the US Air Force’s Project Blue Book UFO files were declassified and transferred to archival custody, but also notes that Project Blue Book closed in 1969 and does not cover later sightings. That limitation is crucial for Georgia: Blue Book can help with mid-century cases, but it does not explain the 1973 Georgia flap, Carter’s later-filed report, or modern Atlanta-area entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Federal records matter mainly for older cases. The National Archives explains that the US Air Force’s Project Blue Book UFO files were declassified and transferred to archival custody, but also notes that Project Blue Book closed in 1969 and does not cover later sightings. That limitation is crucial for Georgia: Blue Book can help with mid-century cases, but it does not explain the 1973 Georgia flap, Carter’s later-filed report, or modern Atlanta-area entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-Local journalism fills some of that gap. Macon-area reporting has preserved details of the [1973 wave]({{ '1973-wave/' | relative_url }}), including accounts of police, firefighters and other residents seeing unusual lights across Middle Georgia. Newspaper pieces are not scientific investigations, but they can show when a claim entered public circulation, whether officials were named, and whether multiple communities reported similar events within the same narrow period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local journalism fills some of that gap. Macon-area reporting has preserved details of the [1973 wave]({{ '1973-wave/' | relative_url }}), including accounts of police, firefighters and other residents seeing unusual lights across Middle Georgia. Newspaper pieces are not scientific investigations, but they can show when a claim entered public circulation, whether officials were named, and whether multiple communities reported similar events within the same narrow period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NUFORC and archive collections: useful, but not verdicts
 
-NUFORC’s value is that it keeps reports accessible. A researcher can move from a statewide Georgia index to individual entries and compare dates, shapes, locations, observer counts and summaries. For example, one NUFORC-listed Georgia case from Chatsworth/Fort Mountain describes a 1998 sighting by one law-enforcement observer and includes a “MUFON/GEORGIA FOLLOW-UP REPORT” note; another, from Atlanta in 2023, identifies the witnesses as pilots and describes a burst of light during take-off from Hartsfield-Jackson Atlanta International Airport. Those details make the reports more useful than a bare rumour, because they provide witness type, place, time and context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=11257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+NUFORC’s value is that it keeps reports accessible. A researcher can move from a statewide Georgia index to individual entries and compare dates, shapes, locations, observer counts and summaries. For example, one NUFORC-listed Georgia case from Chatsworth/Fort Mountain describes a 1998 sighting by one law-enforcement observer and includes a “MUFON/GEORGIA FOLLOW-UP REPORT” note; another, from Atlanta in 2023, identifies the witnesses as pilots and describes a burst of light during take-off from Hartsfield-Jackson Atlanta International Airport. Those details make the reports more useful than a bare rumour, because they provide witness type, place, time and context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=11257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-That still does not make the reports solved or verified. A NUFORC entry is usually a submitted report, not a completed investigation. Some entries include unusually helpful notes, while others are brief, emotional, ambiguous or filed many years after the claimed event. The Georgia index itself shows this problem: entries may describe precise dates, approximate dates, long reporting delays, single witnesses, multiple witnesses, or only very general locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=176033" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+That still does not make the reports solved or verified. A NUFORC entry is usually a submitted report, not a completed investigation. Some entries include unusually helpful notes, while others are brief, emotional, ambiguous or filed many years after the claimed event. The Georgia index itself shows this problem: entries may describe precise dates, approximate dates, long reporting delays, single witnesses, multiple witnesses, or only very general locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=176033" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Newspaper archives have a different strength. They capture public reaction close to the time of a local wave. The 1973 South Georgia reports, for instance, were described as coming from police in Albany, Dawson, Cordele and Adel, with other reports from Macon, Leary and nearby communities. That kind of contemporaneous clustering is harder to dismiss than a lone memory posted decades later, but it still leaves open the central question: were witnesses seeing one unusual phenomenon, several ordinary phenomena in a charged news environment, or a mixture of both? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">tallahassee democrat south georgia ufo 1</span></span></span>
+Newspaper archives have a different strength. They capture public reaction close to the time of a local wave. The 1973 South Georgia reports, for instance, were described as coming from police in Albany, Dawson, Cordele and Adel, with other reports from Macon, Leary and nearby communities. That kind of contemporaneous clustering is harder to dismiss than a lone memory posted decades later, but it still leaves open the central question: were witnesses seeing one unusual phenomenon, several ordinary phenomena in a charged news environment, or a mixture of both?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">tallahassee democrat south georgia ufo 1</span></span></span>
 
-The Carter file shows why archives can be both strong and frustrating. The National Archives notes that Carter filed a report about seeing a UFO over Leary, Georgia, and that the Jimmy Carter Presidential Museum and Library holds the report he submitted to the International UFO Bureau. The document is historically important because it ties a Georgia sighting to a named, prominent witness and a preserved written record. Yet the case remains disputed because the report was filed years after the event, the exact date has been debated, and later explanations have ranged from Venus to a high-altitude barium cloud experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">Carter UFO</span></span></span>
+The Carter file shows why archives can be both strong and frustrating. The National Archives notes that Carter filed a report about seeing a UFO over Leary, Georgia, and that the Jimmy Carter Presidential Museum and Library holds the report he submitted to the International UFO Bureau. The document is historically important because it ties a Georgia sighting to a named, prominent witness and a preserved written record. Yet the case remains disputed because the report was filed years after the event, the exact date has been debated, and later explanations have ranged from Venus to a high-altitude barium cloud experiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">Carter UFO</span></span></span>
 
 ## What makes a strong Georgia UFO report?
 
@@ -305,9 +305,9 @@ A stronger Georgia report usually has several features working together:
 
 </div>
 
-NASA’s UAP independent study team made a similar point at national level: eyewitness reports can reveal patterns, including clusters in time or location, but without calibrated sensor data they cannot by themselves provide conclusive evidence about what an object was. That standard applies directly to Georgia’s databases. A cluster near Atlanta, Macon, Savannah or a military aviation corridor may be worth investigating, but a cluster is not proof of anything exotic unless the individual records are strong enough to test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s UAP independent study team made a similar point at national level: eyewitness reports can reveal patterns, including clusters in time or location, but without calibrated sensor data they cannot by themselves provide conclusive evidence about what an object was. That standard applies directly to Georgia’s databases. A cluster near Atlanta, Macon, Savannah or a military aviation corridor may be worth investigating, but a cluster is not proof of anything exotic unless the individual records are strong enough to test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-AARO, the US All-domain Anomaly Resolution Office, also stresses a data-driven approach. Its public material lists ordinary sources commonly reported as UAP, including airborne clutter, and later Defence Department coverage says AARO has resolved many cases as balloons, birds, drones, satellites and aircraft. That does not mean every Georgia report is mundane; it means mundane explanations must be checked before an “unidentified” label carries much weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+AARO, the US All-domain Anomaly Resolution Office, also stresses a data-driven approach. Its public material lists ordinary sources commonly reported as UAP, including airborne clutter, and later Defence Department coverage says AARO has resolved many cases as balloons, birds, drones, satellites and aircraft. That does not mean every Georgia report is mundane; it means mundane explanations must be checked before an “unidentified” label carries much weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WpRWkuYu9V8" title="All the videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer">All the videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 60.4K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WpRWkuYu9V8">Open on YouTube</a></p></div></div></div>
 
@@ -317,22 +317,22 @@ Many Georgia sightings remain unidentified for a simple reason: the record is in
 
 Georgia’s aviation environment complicates the record. Atlanta is one of the most active aviation areas in the United States, and the state also has military aviation connections, regional airports, training routes and busy night skies. A witness may honestly report a silent, hovering, zigzagging or fast-moving light, while the apparent behaviour is shaped by distance, cloud, viewing angle, aircraft lights, atmospheric conditions or the lack of a fixed reference point.
 
-Modern sky clutter adds another layer. AARO’s historical review notes that older UFO reports were often explained by afterburners, satellites, missiles, reflections, searchlights, birds, kites, false radar returns, fireworks, flares and hoaxes. Today, drones and satellite constellations add more opportunities for sincere misidentification, especially when people see lights in formation or moving in unfamiliar ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
+Modern sky clutter adds another layer. AARO’s historical review notes that older UFO reports were often explained by afterburners, satellites, missiles, reflections, searchlights, birds, kites, false radar returns, fireworks, flares and hoaxes. Today, drones and satellite constellations add more opportunities for sincere misidentification, especially when people see lights in formation or moving in unfamiliar ways.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
 
-Delayed reporting is one of the biggest weaknesses in Georgia databases. A person may remember a striking light over Savannah in 1986, a triangle near Warner Robins in 1993, or an odd object near Macon in the 1970s, but if the account is filed years later, investigators cannot easily reconstruct sky conditions, aircraft movements, local events or the witness’s original uncertainty. NUFORC’s Georgia index includes many entries where the occurred date and reported date are far apart, which makes those cases useful as folklore or witness testimony but much weaker as evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Delayed reporting is one of the biggest weaknesses in Georgia databases. A person may remember a striking light over Savannah in 1986, a triangle near Warner Robins in 1993, or an odd object near Macon in the 1970s, but if the account is filed years later, investigators cannot easily reconstruct sky conditions, aircraft movements, local events or the witness’s original uncertainty. NUFORC’s Georgia index includes many entries where the occurred date and reported date are far apart, which makes those cases useful as folklore or witness testimony but much weaker as evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The 1973 Georgia wave shows the tension clearly. Reports from Macon and South Georgia are historically important because they were clustered, public and locally reported. Yet the surviving record is still uneven: some witnesses were named by role, some accounts are summarised through newspapers, and many lack the kind of triangulated physical data that would let a modern investigator distinguish aircraft, astronomical objects, atmospheric effects and truly anomalous movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1973 Georgia wave shows the tension clearly. Reports from Macon and South Georgia are historically important because they were clustered, public and locally reported. Yet the surviving record is still uneven: some witnesses were named by role, some accounts are summarised through newspapers, and many lack the kind of triangulated physical data that would let a modern investigator distinguish aircraft, astronomical objects, atmospheric effects and truly anomalous movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-2-dark.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Georgia sighting maps without being misled
 
 Sightings maps are tempting because they look precise. A cluster of markers around Atlanta, Macon, Savannah, Augusta or north Georgia can seem to imply a hotspot. Sometimes it may. But maps of UFO reports often show population density, internet access, media attention, outdoor activity, local culture, and database popularity as much as unusual aerial events.
 
-Axios Atlanta, using NUFORC data, reported that metro Atlanta had a lower sighting rate per 100,000 residents from 2000 to 2023 than the national average, while Fulton, Gwinnett and Cobb counties had the highest raw county counts in the metro area. That is a useful caution: a large city may produce many reports simply because more people are looking up, filing reports and living under busy flight paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Mapped: UFO sightings in Georgia</span><span class="citation-popover-snippet">Mapped: UFO sightings in Georgia</span></span></span>
+Axios Atlanta, using NUFORC data, reported that metro Atlanta had a lower sighting rate per 100,000 residents from 2000 to 2023 than the national average, while Fulton, Gwinnett and Cobb counties had the highest raw county counts in the metro area. That is a useful caution: a large city may produce many reports simply because more people are looking up, filing reports and living under busy flight paths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Mapped: UFO sightings in Georgia</span><span class="citation-popover-snippet">Mapped: UFO sightings in Georgia</span></span></span>
 
-Local media summaries can help readers find patterns, but they should not be treated as case investigations. WSB Radio reported in 2023 that Georgia had more than 2,600 NUFORC-listed sightings and that Atlanta had 170 reports, with the earliest Atlanta entry dating back to 1951. Those figures are helpful for scale, but a count of reports is not a count of unexplained objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsbradio.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-georgia-heres-where/NCTKJ43RERHCRHA444K6YXA3QU/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsbradio.com">[95.5 WSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsbradio.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local media summaries can help readers find patterns, but they should not be treated as case investigations. WSB Radio reported in 2023 that Georgia had more than 2,600 NUFORC-listed sightings and that Atlanta had 170 reports, with the earliest Atlanta entry dating back to 1951. Those figures are helpful for scale, but a count of reports is not a count of unexplained objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsbradio.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-georgia-heres-where/NCTKJ43RERHCRHA444K6YXA3QU/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsbradio.com">[95.5 WSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsbradio.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same caution applies to app-based systems. Enigma’s Georgia page and wider database are helpful for browsing modern and historical material, and its app claims tools such as metadata capture and identification features for known objects. Those are improvements over loose storytelling, but the system still depends heavily on public submissions, user behaviour, proprietary scoring choices and the quality of uploaded media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+The same caution applies to app-based systems. Enigma’s Georgia page and wider database are helpful for browsing modern and historical material, and its app claims tools such as metadata capture and identification features for known objects. Those are improvements over loose storytelling, but the system still depends heavily on public submissions, user behaviour, proprietary scoring choices and the quality of uploaded media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
 A good rule for Georgia maps is to ask what the marker actually represents. Is it a same-night multi-witness event? A single witness? A report imported from another database? A delayed memory? A video with metadata? A newspaper item? A pilot report? A map point should be treated as an invitation to inspect the underlying record, not as evidence by itself.
 
@@ -342,11 +342,11 @@ A good rule for Georgia maps is to ask what the marker actually represents. Is i
 
 Georgia has several reports involving witnesses who sound credible: law-enforcement observers, pilots, firefighters, public officials and ordinary residents with no obvious reason to invent a story. That matters. It is unfair to dismiss witnesses simply because their account is strange. But it is also a mistake to treat sincerity as proof of correct identification.
 
-The Carter sighting is the clearest Georgia example. Carter was a serious public figure, his report is archived, and the sighting became part of national political and UFO history. Yet the case is still disputed because the event was reported years later, the date is uncertain, and later analyses have proposed ordinary or at least non-extraterrestrial explanations. The lesson is not that Carter lied; it is that a trustworthy witness can still leave behind an unresolved and debatable record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The Carter sighting is the clearest Georgia example. Carter was a serious public figure, his report is archived, and the sighting became part of national political and UFO history. Yet the case is still disputed because the event was reported years later, the date is uncertain, and later analyses have proposed ordinary or at least non-extraterrestrial explanations. The lesson is not that Carter lied; it is that a trustworthy witness can still leave behind an unresolved and debatable record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-Pilot reports deserve careful attention because pilots are trained observers of the sky, but even they are not immune to ambiguity. A NUFORC Atlanta report from 2023 identifies the witnesses as pilots and places the event during take-off from Hartsfield-Jackson. That context makes the report more serious than a vague backyard sighting, but it still requires corroboration: flight path, weather, traffic, cockpit workload, possible ground lights, satellites, other aircraft and any available sensor data all matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Pilot reports deserve careful attention because pilots are trained observers of the sky, but even they are not immune to ambiguity. A NUFORC Atlanta report from 2023 identifies the witnesses as pilots and places the event during take-off from Hartsfield-Jackson. That context makes the report more serious than a vague backyard sighting, but it still requires corroboration: flight path, weather, traffic, cockpit workload, possible ground lights, satellites, other aircraft and any available sensor data all matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-NASA’s UAP report is especially relevant here because it avoids both extremes. It does not say witness reports are worthless; it says they can show patterns but need calibrated supporting data to become conclusive. For Georgia readers, that is the practical middle ground: listen to witnesses carefully, preserve their accounts, then test the account against independent information wherever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s UAP report is especially relevant here because it avoids both extremes. It does not say witness reports are worthless; it says they can show patterns but need calibrated supporting data to become conclusive. For Georgia readers, that is the practical middle ground: listen to witnesses carefully, preserve their accounts, then test the account against independent information wherever possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j4r1dAm-LtQ" title="The Hunter Army Airfield Close UFO Encounter By Military Police ( 1973 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j4r1dAm-LtQ" target="_blank" rel="noopener noreferrer">The Hunter Army Airfield Close UFO Encounter By Military Police ( 1973 )</a></p><p class="youtube-embed-meta">Channel: The Spiderman &middot; Views: 1.2K &middot; Uploaded: March 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j4r1dAm-LtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j4r1dAm-LtQ">Open on YouTube</a></p></div></div></div>
 
@@ -356,210 +356,210 @@ A reader trying to judge a Georgia UFO entry can sort it into rough reliability 
 
 **Stronger records** include prompt reports with exact time, location, direction, duration, multiple independent witnesses, photographs or video with metadata, aviation context, and documented checks against aircraft, satellites, weather and astronomy. A pilot or law-enforcement witness can add weight, but only when the rest of the record is specific enough to test.
 
-**Moderate records** include named or role-identified witnesses, same-night local reporting, several consistent accounts from nearby communities, or newspaper coverage close to the event. The 1973 Middle and South Georgia reports often sit in this middle zone: historically significant and worth preserving, but not usually supported by the kind of technical data needed for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Moderate records** include named or role-identified witnesses, same-night local reporting, several consistent accounts from nearby communities, or newspaper coverage close to the event. The 1973 Middle and South Georgia reports often sit in this middle zone: historically significant and worth preserving, but not usually supported by the kind of technical data needed for firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Weak records** include single-witness memories filed long after the event, reports with no direction or duration, claims based mainly on emotional impact, or descriptions that could fit common sky objects. Many database entries are still worth reading, but they should not be inflated into evidence of extraordinary craft.
 
-**Poor or contaminated records** include copied stories with no original source, social-media retellings detached from the first witness, vague claims attached to famous places, and cases where later versions add details not present in the earliest account. Carter’s case shows why this matters: even a famous report can become distorted through later retellings, date confusion and secondary summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+**Poor or contaminated records** include copied stories with no original source, social-media retellings detached from the first witness, vague claims attached to famous places, and cases where later versions add details not present in the earliest account. Carter’s case shows why this matters: even a famous report can become distorted through later retellings, date confusion and secondary summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-3-dark.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Georgia’s records can and cannot prove
 
 Georgia’s UFO databases and archives prove that people across the state have repeatedly reported unusual things in the sky, from mid-century federal cases to the 1973 wave, the Carter report, modern NUFORC entries, and app-based sightings. They also show that UFO reporting is shaped by where people live, what they expect, what the media is covering, how easy it is to file a report, and what ordinary aerial objects are present at the time.
 
-They do not prove that Georgia has been visited by extraterrestrial craft. AARO’s recent public position is that many UAP cases resolve to ordinary objects and that only a small percentage require deeper scientific inquiry; NASA likewise found that existing UAP data is often too limited and that better observations are needed. Those conclusions fit Georgia’s record well: the interesting question is often not “which case proves aliens?” but “which cases have enough information to remain genuinely unresolved after ordinary explanations are checked?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
+They do not prove that Georgia has been visited by extraterrestrial craft. AARO’s recent public position is that many UAP cases resolve to ordinary objects and that only a small percentage require deeper scientific inquiry; NASA likewise found that existing UAP data is often too limited and that better observations are needed. Those conclusions fit Georgia’s record well: the interesting question is often not “which case proves aliens?” but “which cases have enough information to remain genuinely unresolved after ordinary explanations are checked?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
 
 The most responsible use of Georgia’s UFO records is therefore comparative. NUFORC helps identify report patterns. Newspaper archives help reconstruct what was known at the time. Federal archives establish which older cases were officially collected. Enigma and similar platforms may improve modern reporting by standardising submissions and capturing media, but they still need independent verification. Together, these sources make Georgia a useful case study in how UFO history is built: not from one perfect archive, but from many imperfect records that must be read carefully against each other.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Georgia&#x27;s UFO Records and Databases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Are Georgia&#x27;s UFO Records and Databases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to evaluating report databases and archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to evaluating report databases and archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains official record-keeping and case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official record-keeping and case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights what makes reports credible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights what makes reports credible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses interpretation of large bodies of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses interpretation of large bodies of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="https://i.ebayimg.com/images/g/8wgAAOSweepmbp4T/s-l225.jpg" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="https://i.ebayimg.com/images/g/bLgAAeSwIDhqDxIn/s-l225.jpg" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - UK Tour Concert Programme 1981"><img src="https://i.ebayimg.com/images/g/n3EAAeSw5zhp9mL4/s-l225.jpg" alt="Listing image for UFO - UK Tour Concert Programme 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO - UK Tour Concert Programme 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="https://i.ebayimg.com/images/g/PwcAAOSwjzdoHiu2/s-l225.jpg" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="https://i.ebayimg.com/images/g/cOkAAOSwQb5hqPMn/s-l225.jpg" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-reliable-are-georgia-s-ufo-records-and-databases-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ The most responsible use of Georgia’s UFO records is therefore comparative. NU
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ The most responsible use of Georgia’s UFO records is therefore comparative. NU
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ The most responsible use of Georgia’s UFO records is therefore comparative. NU
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ The most responsible use of Georgia’s UFO records is therefore comparative. NU
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ The most responsible use of Georgia’s UFO records is therefore comparative. NU
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,301 +765,301 @@ The most responsible use of Georgia’s UFO records is therefore comparative. NU
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lGA</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lGA</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/ge" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ge</a>  
+   Link:<a href="https://enigmalabs.io/explore/ge" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ge</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
+   Link:<a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: macon.com  
-   Link: <a href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229804369.html</a>  
+   Link:<a href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229804369.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: macon.com  
-   Link: <a href="https://www.macon.com/news/local/article229959549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229959549.html</a>  
+   Link:<a href="https://www.macon.com/news/local/article229959549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229959549.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=11257" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11257</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=11257" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11257</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=176033" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176033</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=176033" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176033</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newspapers.com  
    Title: tallahassee democrat south georgia ufo 1  
-   Link: <a href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/</a>  
+   Link:<a href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs?  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: axios.com  
    Title: Mapped: UFO sightings in Georgia  
-   Link: <a href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings</a>  
+   Link:<a href="https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/atlanta/2024/02/26/georgia-ufo-sightings</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wsbradio.com  
-   Link: <a href="https://www.wsbradio.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-georgia-heres-where/NCTKJ43RERHCRHA444K6YXA3QU/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsbradio.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-georgia-heres-where/NCTKJ43RERHCRHA444K6YXA3QU/</a>  
+   Link:<a href="https://www.wsbradio.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-georgia-heres-where/NCTKJ43RERHCRHA444K6YXA3QU/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsbradio.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-georgia-heres-where/NCTKJ43RERHCRHA444K6YXA3QU/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.com  
    Title: carter files report on ufo sighting  
-   Link: <a href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=68188" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68188</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=68188" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68188</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=29229" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=29229</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=29229" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=29229</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=135209" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135209</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=135209" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135209</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=74682" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74682</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=74682" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74682</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=61559" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61559</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=61559" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61559</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110892</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110892</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=38792" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38792</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=38792" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38792</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=144411" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=144411</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=144411" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=144411</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=154388" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154388</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=154388" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154388</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=60605" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=60605</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=60605" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=60605</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=120196" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=120196</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=120196" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=120196</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=101662" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=101662</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=101662" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=101662</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=126835" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=126835</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=126835" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=126835</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/2025/11/28/what-about-all-those-uso-sightings-since-august-in-the-media-the-real-story-by-bob-spearing/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2025/11/28/what-about-all-those-uso-sightings-since-august-in-the-media-the-real-story-by-bob-spearing/</a>  
+   Link:<a href="https://mufon.com/2025/11/28/what-about-all-those-uso-sightings-since-august-in-the-media-the-real-story-by-bob-spearing/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2025/11/28/what-about-all-those-uso-sightings-since-august-in-the-media-the-real-story-by-bob-spearing/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mufon.com  
    Title: Mufon April 2023 Journal  
-   Link: <a href="https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf</a>  
+   Link:<a href="https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf</a>  
    Published: April 2023  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/what-is-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/what-is-ufology/</a>  
+   Link:<a href="https://mufon.com/what-is-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/what-is-ufology/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: archive.org  
    Title: 1949 07 6310493 Valdosta Georgia 407  
-   Link: <a href="https://archive.org/details/1949-07-6310493-Valdosta-Georgia-407-" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1949-07-6310493-Valdosta-Georgia-407-</a>  
+   Link:<a href="https://archive.org/details/1949-07-6310493-Valdosta-Georgia-407-" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1949-07-6310493-Valdosta-Georgia-407-</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: archives.gov  
    Title: rg collections  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: macon.com  
-   Link: <a href="https://www.macon.com/news/state/georgia/article314318198.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/state/georgia/article314318198.html</a>  
+   Link:<a href="https://www.macon.com/news/state/georgia/article314318198.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/state/georgia/article314318198.html</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: documents.theblackvault.com  
    Title: Carter UFO  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/gs" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gs</a>  
+   Link:<a href="https://enigmalabs.io/explore/gs" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gs</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/united-states" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/united-states</a>  
+   Link:<a href="https://enigmalabs.io/explore/united-states" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/united-states</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: enigmalabs.io  
    Title: large triangle ufos  
-   Link: <a href="https://enigmalabs.io/blog/large-triangle-ufos" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/large-triangle-ufos</a>  
+   Link:<a href="https://enigmalabs.io/blog/large-triangle-ufos" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/large-triangle-ufos</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: enigmalabs.io  
    Title: the benefits of crowdsourcing ufo data  
-   Link: <a href="https://enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data</a>  
+   Link:<a href="https://enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
+   Link:<a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: enigmalabs.io  
    Title: 12000 uap sightings and counting  
-   Link: <a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
+   Link:<a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: uk.forceswarrecords.com  
-   Link: <a href="https://uk.forceswarrecords.com/document/9169583" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169583</a>  
+   Link:<a href="https://uk.forceswarrecords.com/document/9169583" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169583</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: ufodatalive.com  
-   Link: <a href="https://www.ufodatalive.com/states/georgia/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/georgia/</a>  
+   Link:<a href="https://www.ufodatalive.com/states/georgia/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/georgia/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: sentientorbs.com  
    Title: NUFORC 38792  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-38792" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-38792</a>  
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-38792" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-38792</a>  
 
 ### Additional References
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: MUFON – The Truth Behind UFOs and Alien Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: TRUTH UNCOVERED By UFO Investigation (Season 19) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: TRUTH UNCOVERED By UFO Investigation (Season 19) | History...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/834804162399165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/834804162399165/</a>  
+   Link:<a href="https://www.facebook.com/groups/617328327480084/posts/834804162399165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/834804162399165/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
+   Link:<a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PSLMissouri/posts/a-new-ufo-stalker-map-on-the-mufon-website-which-hosts-thousands-upon-thousands-/10155239202564506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PSLMissouri/posts/a-new-ufo-stalker-map-on-the-mufon-website-which-hosts-thousands-upon-thousands-/10155239202564506/</a>  
+   Link:<a href="https://www.facebook.com/PSLMissouri/posts/a-new-ufo-stalker-map-on-the-mufon-website-which-hosts-thousands-upon-thousands-/10155239202564506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PSLMissouri/posts/a-new-ufo-stalker-map-on-the-mufon-website-which-hosts-thousands-upon-thousands-/10155239202564506/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: mufongeorgia.org  
-   Link: <a href="https://mufongeorgia.org/about-mufon-georgia/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/about-mufon-georgia/</a>  
+   Link:<a href="https://mufongeorgia.org/about-mufon-georgia/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/about-mufon-georgia/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
+   Link:<a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>
+   Link:<a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>

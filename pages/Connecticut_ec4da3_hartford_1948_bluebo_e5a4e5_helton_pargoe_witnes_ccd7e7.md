@@ -253,11 +253,11 @@ image: /assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_helton_parg
 The credibility of the Hartford 1948 UFO report rests heavily on the status of its two witnesses: USAF Captains Kenneth M. Helton and James J. Pargoe. Unlike many post-war “flying saucer” stories that depended on fleeting civilian observations, this case involved military transport pilots trained to observe weather, navigation, aircraft behaviour, and unusual aerial conditions while in flight. That does not automatically make their sighting accurate or unexplainable, but it does make the report harder to dismiss as casual misidentification or invention.
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_helton_pargoe_witnes_ccd7e7-Illustration-1-dark.svg" | relative_url }}" alt="Pilot witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_helton_pargoe_witnes_ccd7e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_helton_pargoe_witnes_ccd7e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Connecticut UFO history, the case matters less because of what the object supposedly was and more because it illustrates an early Cold War pattern: military aviators reporting something they could not confidently identify, while leaving behind only sparse official documentation. The key question is therefore not whether Helton and Pargoe were “right”, but how much weight their testimony deserves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
+For Connecticut UFO history, the case matters less because of what the object supposedly was and more because it illustrates an early Cold War pattern: military aviators reporting something they could not confidently identify, while leaving behind only sparse official documentation. The key question is therefore not whether Helton and Pargoe were “right”, but how much weight their testimony deserves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
 
 ## Who Helton and Pargoe were in the report
 
-The surviving summaries identify the witnesses as USAF transport pilots flying near Hartford on 11 January 1948. Some archival references describe them as attached to an Air Evacuation or Air Transport Command-related unit, indicating experienced military aviation personnel rather than inexperienced flyers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beannames.com/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beannames.com">[Beannames]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beannames.com</span><span class="citation-popover-title">FBI UFO Files</span><span class="citation-popover-snippet">FBI UFO Files - vault62... sighting on January 11, 1948 at 1630 over Hartford, Connecticut. Observers were Captains Kenneth M. H...</span><span class="citation-popover-meta">Published: January 11, 1948</span></span></span>
+The surviving summaries identify the witnesses as USAF transport pilots flying near Hartford on 11 January 1948. Some archival references describe them as attached to an Air Evacuation or Air Transport Command-related unit, indicating experienced military aviation personnel rather than inexperienced flyers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beannames.com/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beannames.com">[Beannames]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beannames.com</span><span class="citation-popover-title">FBI UFO Files</span><span class="citation-popover-snippet">FBI UFO Files - vault62... sighting on January 11, 1948 at 1630 over Hartford, Connecticut. Observers were Captains Kenneth M. H...</span><span class="citation-popover-meta">Published: January 11, 1948</span></span></span>
 
 That distinction mattered greatly in the late 1940s. Military pilots were expected to:
 
@@ -271,13 +271,13 @@ That distinction mattered greatly in the late 1940s. Military pilots were expect
 
 </div>
 
-Because of that training, early Air Force UFO investigators often treated pilot reports as higher-grade evidence than ordinary civilian testimony. The Hartford sighting entered later catalogues of significant military UFO cases largely because the observers were trained aircrew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
+Because of that training, early Air Force UFO investigators often treated pilot reports as higher-grade evidence than ordinary civilian testimony. The Hartford sighting entered later catalogues of significant military UFO cases largely because the observers were trained aircrew.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
 
 At the same time, there are important limits to what is actually known about Helton and Pargoe themselves. Publicly available records contain little detailed biographical information about their flying hours, later careers, or whether they gave extended written testimony beyond the short surviving summaries. The absence of a full surviving investigative file weakens attempts to make strong claims either for or against their reliability. The modern discussion therefore depends more on the nature of their observation than on a rich personal record.
 
 ## What trained pilots could and could not judge
 
-The strongest argument in favour of Helton and Pargoe’s credibility is that two pilots reportedly observed the same object from the same aircraft and described distinctive details: a fast-moving disc-like form with a bluish centre, reddish edges, and a descending motion toward the east at roughly a 45-degree angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span>
+The strongest argument in favour of Helton and Pargoe’s credibility is that two pilots reportedly observed the same object from the same aircraft and described distinctive details: a fast-moving disc-like form with a bluish centre, reddish edges, and a descending motion toward the east at roughly a 45-degree angle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span>
 
 Multiple trained observers reduce the likelihood of pure fabrication or a single-person perceptual mistake. Pilots are also generally better than ground observers at noticing unusual flight characteristics because they routinely estimate heading, angular movement, and relative speed in three-dimensional space.
 
@@ -301,7 +301,7 @@ Aviation training improves observational discipline, but it does not eliminate v
 
 </div>
 
-This problem becomes more severe near dusk or sunset, when atmospheric scattering and glare can create dramatic colour effects. The Hartford report occurred around 4:30 p.m. in January, close to winter sunset conditions in New England. <span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span>
+This problem becomes more severe near dusk or sunset, when atmospheric scattering and glare can create dramatic colour effects. The Hartford report occurred around 4:30 p.m. in January, close to winter sunset conditions in New England.<span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span>
 
 A distant aircraft reflecting sunlight, a meteor-like object, or even an unusual atmospheric reflection can appear far stranger in open sky than it would from the ground. The pilots’ description of coloured edges and rapid angled movement may therefore reflect a genuine observation filtered through difficult viewing conditions rather than proof of an exotic craft.
 
@@ -309,7 +309,7 @@ A distant aircraft reflecting sunlight, a meteor-like object, or even an unusual
 
 One recurring issue in pilot UFO reports is the perception of extraordinary speed. Without knowing an object’s true distance, witnesses can easily overestimate velocity. A nearby small object crossing the visual field can appear slower than a distant object whose motion is actually modest but visually compressed against the horizon.
 
-The Hartford witnesses reportedly saw the object descend toward the east until it vanished near Mount Tom in western Massachusetts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span> That geographical reference suggests they were tracking something across a large visual area, but it does not establish the object’s actual altitude or range.
+The Hartford witnesses reportedly saw the object descend toward the east until it vanished near Mount Tom in western Massachusetts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span> That geographical reference suggests they were tracking something across a large visual area, but it does not establish the object’s actual altitude or range.
 
 In practical terms, the pilots may have accurately reported what they saw while still misunderstanding what physical event produced the sighting.
 
@@ -318,7 +318,7 @@ In practical terms, the pilots may have accurately reported what they saw while 
 
 A common mistake in UFO discussions is to treat credible witnesses as evidence that an extraordinary explanation must therefore be true. The Hartford case is a good example of why those are separate questions.
 
-There is little reason to think Helton and Pargoe invented the incident. Nothing in the surviving record suggests a hoax, publicity attempt, or obvious inconsistency. Their report fits the broader pattern of sincere military observations logged during the early “flying saucer” era. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1947-1948-Revision.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sohp.us">[Sign Oral History Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sohp.us</span><span class="citation-popover-title">GROSS 1947 1948 Revision</span><span class="citation-popover-snippet">Sign Oral History ProjectUFOs: A History10 Oct 1980 — Elsewhere a Captain Kenneth Helton and a Captain James Pargoe of Squadron &quot;D&quot; of a...</span></span></span>
+There is little reason to think Helton and Pargoe invented the incident. Nothing in the surviving record suggests a hoax, publicity attempt, or obvious inconsistency. Their report fits the broader pattern of sincere military observations logged during the early “flying saucer” era. Internet Archive<span class="citation-chip-wrap"><a class="citation-chip" href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1947-1948-Revision.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sohp.us">[Sign Oral History Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sohp.us</span><span class="citation-popover-title">GROSS 1947 1948 Revision</span><span class="citation-popover-snippet">Sign Oral History ProjectUFOs: A History10 Oct 1980 — Elsewhere a Captain Kenneth Helton and a Captain James Pargoe of Squadron &quot;D&quot; of a...</span></span></span>
 
 But sincerity is not the same as correct interpretation.
 
@@ -346,11 +346,11 @@ The weakest part of the case is equally important:
 
 That combination places the Hartford report in a middle category common in early UFO history: credible witnesses attached to limited evidence.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings, 1896 - 1897" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings, 1896 - 1897</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 182.4K &middot; Uploaded: July 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings,</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 182.4K &middot; Uploaded: July 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
 
 ## How later researchers treated the pilots
 
-Later UFO researchers generally used the Hartford case to support a broader argument that trained military personnel sometimes encountered objects they could not identify. Brad Sparks’ catalogues of Project Blue Book “unknowns” and related archival compilations preserved the case mainly because the witnesses were military aviators rather than because the underlying evidence was unusually strong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
+Later UFO researchers generally used the Hartford case to support a broader argument that trained military personnel sometimes encountered objects they could not identify. Brad Sparks’ catalogues of Project Blue Book “unknowns” and related archival compilations preserved the case mainly because the witnesses were military aviators rather than because the underlying evidence was unusually strong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
 
 This distinction matters. Researchers often separate UFO reports into categories such as:
 
@@ -376,199 +376,199 @@ Helton and Pargoe were probably reliable reporters in the sense that they appear
 
 Yet the evidence stops well short of proving that the object itself was extraordinary. The surviving record is too brief, too incomplete, and too dependent on human perception alone to establish what the pilots actually saw.
 
-That tension is precisely why the Hartford report remains notable. It captures a recurring feature of early American UFO history: credible observers describing something unusual, while the evidence remains too limited to move beyond uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
+That tension is precisely why the Hartford report remains notable. It captures a recurring feature of early American UFO history: credible observers describing something unusual, while the evidence remains too limited to move beyond uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Air Force...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cr1rIDb-3Fk" title="A Glowing Craft Crossed New England in 1910… And No One Claimed It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cr1rIDb-3Fk" target="_blank" rel="noopener noreferrer">A Glowing Craft Crossed New England in 1910… And No One Claimed It</a></p><p class="youtube-embed-meta">Channel: The Hidden Truth &middot; Views: 25 &middot; Uploaded: February 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cr1rIDb-3Fk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cr1rIDb-3Fk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How reliable were the Hartford pilot witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How reliable were the Hartford pilot witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly examines the value and limits of pilot testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the value and limits of pilot testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness credibility and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness credibility and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Uses numerous witness cases to assess reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Uses numerous witness cases to assess reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Centered on evaluating testimony and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centered on evaluating testimony and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing"><img src="https://i.ebayimg.com/images/g/ENMAAOSwHuhfS6Ad/s-l225.jpg" alt="Listing image for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing"><img src="https://i.ebayimg.com/images/g/ENMAAOSwHuhfS6Ad/s-l225.jpg" alt="Listing image for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="https://i.ebayimg.com/images/g/wsEAAeSwT65qH~8U/s-l225.jpg" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="https://i.ebayimg.com/images/g/wsEAAeSwT65qH~8U/s-l225.jpg" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="https://i.ebayimg.com/images/g/2pEAAOSwje1kLA5-/s-l225.jpg" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="https://i.ebayimg.com/images/g/2pEAAOSwje1kLA5-/s-l225.jpg" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-hartford-pilot-witnesses-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-reliable-were-the-hartford-pilot-witnesses-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ That tension is precisely why the Hartford report remains notable. It captures a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ That tension is precisely why the Hartford report remains notable. It captures a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ That tension is precisely why the Hartford report remains notable. It captures a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ That tension is precisely why the Hartford report remains notable. It captures a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ That tension is precisely why the Hartford report remains notable. It captures a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,91 +774,91 @@ That tension is precisely why the Hartford report remains notable. It captures a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: decur.org  
    Title: Research Data  
-   Link: <a href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</p></details>
+   Link:<a href="https://decur.org/data" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Data - DECUR1948 Hartford, Conn. UFO Incident. 4:30 p.m. Pilot USAF Capt. Helton and copilot Pargoe in transport plane saw...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: beannames.com  
    Title: FBI UFO Files  
-   Link: <a href="https://beannames.com/timeline" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UFO Files - vault62... sighting on January 11, 1948 at 1630 over Hartford, Connecticut. Observers were Captains Kenneth M. H...</p></details>
+   Link:<a href="https://beannames.com/timeline" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UFO Files - vault62... sighting on January 11, 1948 at 1630 over Hartford, Connecticut. Observers were Captains Kenneth M. H...</p></details>
    Published: January 11, 1948  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/congressrecindex112unit/congressrecindex112unit_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/congressrecindex112unit/congressrecindex112unit_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See also Immigration and National- ity Act. Address: Immigration Act of 1965, by James J. Hlnes, 5861. Report: Reufgee Problems In Vietna...</p></details>
+   Link:<a href="https://archive.org/stream/congressrecindex112unit/congressrecindex112unit_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/congressrecindex112unit/congressrecindex112unit_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See also Immigration and National- ity Act. Address: Immigration Act of 1965, by James J. Hlnes, 5861. Report: Reufgee Problems In Vietna...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sohp.us  
    Title: GROSS 1947 1948 Revision  
-   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1947-1948-Revision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1947-1948-Revision.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sign Oral History ProjectUFOs: A History10 Oct 1980 — Elsewhere a Captain Kenneth Helton and a Captain James Pargoe of Squadron &quot;D&quot; of a...</p></details>
+   Link:<a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1947-1948-Revision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1947-1948-Revision.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sign Oral History ProjectUFOs: A History10 Oct 1980 — Elsewhere a Captain Kenneth Helton and a Captain James Pargoe of Squadron &quot;D&quot; of a...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uncorruptedtruth.com  
-   Link: <a href="https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Top Secret UFO FilesAll UFO illustrations in the book are designed by John Scott Chace. Other Books by John Scott Chace...</p></details>
+   Link:<a href="https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Top Secret UFO FilesAll UFO illustrations in the book are designed by John Scott Chace. Other Books by John Scott Chace...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: downloads.cs.stanford.edu  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... james schools language areas special 100 km records others without right video modern railway or...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... james schools language areas special 100 km records others without right video modern railway or...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... m human india defense asked total october players bill important southern move fire population...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... m human india defense asked total october players bill important southern move fire population...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, Top Secret UFO Files - The Untold Truth...However, by the time he left the Air Force, he came to believe UFOs were real...</p></details>
+   Link:<a href="https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, Top Secret UFO Files - The Untold Truth...However, by the time he left the Air Force, he came to believe UFOs were real...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hybrid-analysis.com  
    Title: Viewing online file analysis results for 'zxcvbn.js'  
-   Link: <a href="https://hybrid-analysis.com/sample/7792234cdbf56c80195333ada1c77a9ca069ae34aa046f51a405e01d368dfe66/5bec95197ca3e1543127aca3" target="_blank" rel="noopener noreferrer nofollow">https://hybrid-analysis.com/sample/7792234cdbf56c80195333ada1c77a9ca069ae34aa046f51a405e01d368dfe66/5bec95197ca3e1543127aca3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>helton,sutherland,peoples,mcqueen,thomason,givens,crocker,vogel,robison... ufos,tyres,typhoid,tweek&#x27;s,tuxedos,tushie,turret,turds,tumnus...</p></details>
+   Link:<a href="https://hybrid-analysis.com/sample/7792234cdbf56c80195333ada1c77a9ca069ae34aa046f51a405e01d368dfe66/5bec95197ca3e1543127aca3" target="_blank" rel="noopener noreferrer nofollow">https://hybrid-analysis.com/sample/7792234cdbf56c80195333ada1c77a9ca069ae34aa046f51a405e01d368dfe66/5bec95197ca3e1543127aca3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>helton,sutherland,peoples,mcqueen,thomason,givens,crocker,vogel,robison... ufos,tyres,typhoid,tweek&#x27;s,tuxedos,tushie,turret,turds,tumnus...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cr1rIDb-3Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cr1rIDb-3Fk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The clip from &#x27;Project Blue Book&#x27; Ep. 1 Official Clip highlights the historical lens through which military pilot witness credibility and...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cr1rIDb-3Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cr1rIDb-3Fk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The clip from &#x27;Project Blue Book&#x27; Ep. 1 Official Clip highlights the historical lens through which military pilot witness credibility and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/294851313555143/posts/443955888644684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/294851313555143/posts/443955888644684/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and walked on at Southern Illinois. Caleb&#x27;s 42 points in one...</p></details>
+   Link:<a href="https://www.facebook.com/groups/294851313555143/posts/443955888644684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/294851313555143/posts/443955888644684/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and walked on at Southern Illinois. Caleb&#x27;s 42 points in one...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: freepages.rootsweb.com  
    Title: death notices 02 2003.txt  
-   Link: <a href="https://freepages.rootsweb.com/~steinie/history/detroit-deaths/2003/death_notices_02-2003.txt" target="_blank" rel="noopener noreferrer nofollow">https://freepages.rootsweb.com/~steinie/history/detroit-deaths/2003/death_notices_02-2003.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rootsweb.comdeath_notices_02-2003.txtDear mother of Joanne (Ronald) Goldfarb, David (Marian) Jacob, the late Herbert Jacob and his wife...</p></details>
+   Link:<a href="https://freepages.rootsweb.com/~steinie/history/detroit-deaths/2003/death_notices_02-2003.txt" target="_blank" rel="noopener noreferrer nofollow">https://freepages.rootsweb.com/~steinie/history/detroit-deaths/2003/death_notices_02-2003.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rootsweb.comdeath_notices_02-2003.txtDear mother of Joanne (Ronald) Goldfarb, David (Marian) Jacob, the late Herbert Jacob and his wife...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: worldradiohistory.com  
-   Link: <a href="https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1986/RR-1986-10-31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1986/RR-1986-10-31.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feuer Noble Exec. VP /COO31 Oct 1986 —... Brad Messer. 43. CHR: Joel Denver. 44. AC: Donna Brake. 48. AOR: Steve Feinstein. 50. Country...</p></details>
+   Link:<a href="https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1986/RR-1986-10-31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1986/RR-1986-10-31.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feuer Noble Exec. VP /COO31 Oct 1986 —... Brad Messer. 43. CHR: Joel Denver. 44. AC: Donna Brake. 48. AOR: Steve Feinstein. 50. Country...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: worldradiohistory.com  
-   Link: <a href="https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1990s/1992/RR-1992-10-30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1990s/1992/RR-1992-10-30.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INSIDE:30 Oct 1992 —... UFO 28-20. BON JOVI. Keep The Faith (Mercury). LP Keep The Faith. Total Reports 160. 70%. Parallel. Regional. Re...</p></details>
+   Link:<a href="https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1990s/1992/RR-1992-10-30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1990s/1992/RR-1992-10-30.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INSIDE:30 Oct 1992 —... UFO 28-20. BON JOVI. Keep The Faith (Mercury). LP Keep The Faith. Total Reports 160. 70%. Parallel. Regional. Re...</p></details>

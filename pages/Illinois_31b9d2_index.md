@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-index/
 description: Focused pages that expand on Illinois.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Illinois_31b9d2
 parent_title: Illinois
@@ -16,7 +16,7 @@ parent_permalink: /illinois/
 
 # Explore Topics in Illinois
 
-The following pages expand on the main **[Illinois]({{ '/illinois/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Illinois]({{ '/illinois/' | relative_url }})** page and cover its key branches in.
 
 - [Historic Sightings]({{ '/historic-sightings/' | relative_url }})
 - [O Hare Sighting]({{ '/o-hare-sighting/' | relative_url }})

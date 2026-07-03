@@ -268,27 +268,27 @@ image: /assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-overview-social.
 
 ## Introduction
 
-Pine Bush became New York’s “UFO town” not because one sighting was proved extraordinary, but because decades of reported lights, night-time skywatching, local storytelling, media attention, a museum, and an annual fair turned UFO folklore into civic identity. The Orange County hamlet sits within the wider Hudson Valley UFO tradition, but its modern significance is different from the famous 1980s Westchester [Boomerang]({{ 'boomerang/' | relative_url }}): Pine Bush shows how unresolved reports can become a place-brand, a tourist draw, and a shared local language. The town is now widely promoted as the “UFO Capital of the East Coast”, with the Pine Bush UFO & Paranormal Museum on Main Street and a June [UFO Fair]({{ 'ufo-fair/' | relative_url }}) that mixes sincere experiencer culture with costumes, speakers, vendors, and family entertainment. Haunted History Trail of New York State <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Pine Bush became New York’s “UFO town” not because one sighting was proved extraordinary, but because decades of reported lights, night-time skywatching, local storytelling, media attention, a museum, and an annual fair turned UFO folklore into civic identity. The Orange County hamlet sits within the wider Hudson Valley UFO tradition, but its modern significance is different from the famous 1980s Westchester [Boomerang]({{ 'boomerang/' | relative_url }}): Pine Bush shows how unresolved reports can become a place-brand, a tourist draw, and a shared local language. The town is now widely promoted as the “UFO Capital of the East Coast”, with the Pine Bush UFO & Paranormal Museum on Main Street and a June [UFO Fair]({{ 'ufo-fair/' | relative_url }}) that mixes sincere experiencer culture with costumes, speakers, vendors, and family entertainment. Haunted History Trail of New York State<span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-overview.webp" | relative_url }}" alt="Overview image for Pine Bush" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Pine Bush became a UFO town, not just a sighting location
 
-Many places have UFO reports. Pine Bush is unusual because the reports became part of how the place explains itself to outsiders. Tourism material describes extra-terrestrial enthusiasts visiting Pine Bush since the early 1960s, while newer reporting connects the town’s reputation to the larger Hudson Valley sighting wave of the 1980s and later Pine Bush-centred reports in the 1990s. Haunted History Trail of New York State <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Many places have UFO reports. Pine Bush is unusual because the reports became part of how the place explains itself to outsiders. Tourism material describes extra-terrestrial enthusiasts visiting Pine Bush since the early 1960s, while newer reporting connects the town’s reputation to the larger Hudson Valley sighting wave of the 1980s and later Pine Bush-centred reports in the 1990s. Haunted History Trail of New York State<span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That layered chronology matters. The famous Hudson Valley flap supplied a regional frame: large, silent, V-shaped or boomerang-like lights reported by many witnesses across parts of New York and nearby Connecticut. Pine Bush then became one of the communities where the story did not fade into old newspaper files. Local skywatchers, experiencers, paranormal enthusiasts and tourism organisers kept translating the sightings into repeatable public activity: talks, tours, [museum]({{ 'museum/' | relative_url }}) displays, fair traditions and informal directions to places where people might watch the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
+That layered chronology matters. The famous Hudson Valley flap supplied a regional frame: large, silent, V-shaped or boomerang-like lights reported by many witnesses across parts of New York and nearby Connecticut. Pine Bush then became one of the communities where the story did not fade into old newspaper files. Local skywatchers, experiencers, paranormal enthusiasts and tourism organisers kept translating the sightings into repeatable public activity: talks, tours, [museum]({{ 'museum/' | relative_url }}) displays, fair traditions and informal directions to places where people might watch the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
 
-The town’s identity also benefited from a useful contrast. Pine Bush is close enough to New York City to be reachable as a day trip, yet rural enough to feel like a plausible dark-sky setting for strange lights. Thrillist described it as about 80 miles north of New York City and placed it in the shadow of the Shawangunk Ridge, a landscape that helps visitors imagine the UFO story as tied to fields, roads, ridgelines and night horizons rather than to a single isolated incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
+The town’s identity also benefited from a useful contrast. Pine Bush is close enough to New York City to be reachable as a day trip, yet rural enough to feel like a plausible dark-sky setting for strange lights. Thrillist described it as about 80 miles north of New York City and placed it in the shadow of the Shawangunk Ridge, a landscape that helps visitors imagine the UFO story as tied to fields, roads, ridgelines and night horizons rather than to a single isolated incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
 
-A key difference between Pine Bush and a single “case file” is that the town’s UFO identity does not depend on one piece of decisive evidence. It depends on accumulation: stories repeated across decades, a recognisable local label, a built attraction, a yearly event, and a willingness by residents and visitors to treat the theme as both serious and playful. Chronogram’s 2026 preview captured that mix clearly, describing the fair as somewhere between a county fair, comic convention and paranormal symposium. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chronogram.com">[Chronogram Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chronogram.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A key difference between Pine Bush and a single “case file” is that the town’s UFO identity does not depend on one piece of decisive evidence. It depends on accumulation: stories repeated across decades, a recognisable local label, a built attraction, a yearly event, and a willingness by residents and visitors to treat the theme as both serious and playful. Chronogram’s 2026 preview captured that mix clearly, describing the fair as somewhere between a county fair, comic convention and paranormal symposium.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chronogram.com">[Chronogram Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chronogram.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-1-dark.svg" | relative_url }}" alt="Pine Bush illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sightings and skywatching culture
 
-Pine Bush’s sighting culture is usually discussed as part of the wider Hudson Valley UFO tradition, but local accounts often give it its own flavour. Reports commonly involve lights seen at night, sometimes interpreted as structured craft, sometimes treated more cautiously as unidentified aerial phenomena. The museum and tourism literature present Pine Bush as a place where visitors can hear local stories, take guided or self-guided tours, and learn about claimed phenomena in the Pine Bush, Hudson Valley, New York and New England region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://townofcrawford.org/Community-Services/Pine-Bush-UFO-Paranormal-Museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townofcrawford.org">[townofcrawford.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townofcrawford.org</span><span class="citation-popover-snippet">Open source on townofcrawford.org.</span></span></span>
+Pine Bush’s sighting culture is usually discussed as part of the wider Hudson Valley UFO tradition, but local accounts often give it its own flavour. Reports commonly involve lights seen at night, sometimes interpreted as structured craft, sometimes treated more cautiously as unidentified aerial phenomena. The museum and tourism literature present Pine Bush as a place where visitors can hear local stories, take guided or self-guided tours, and learn about claimed phenomena in the Pine Bush, Hudson Valley, New York and New England region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://townofcrawford.org/Community-Services/Pine-Bush-UFO-Paranormal-Museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townofcrawford.org">[townofcrawford.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townofcrawford.org</span><span class="citation-popover-snippet">Open source on townofcrawford.org.</span></span></span>
 
-The number most often repeated in recent coverage is an estimate rather than a verified official count. Times Union reported that Lance Hallowell, director of museum operations and special events at the Pine Bush UFO & Paranormal Museum, said there were “easily close to 3,000” estimated sightings around Pine Bush in the 1990s. That figure is useful as a marker of local folklore and reporting volume, but it should not be read as 3,000 confirmed anomalous craft. It tells us that Pine Bush became a sustained reporting centre, not that every report had the same evidential quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
+The number most often repeated in recent coverage is an estimate rather than a verified official count. Times Union reported that Lance Hallowell, director of museum operations and special events at the Pine Bush UFO & Paranormal Museum, said there were “easily close to 3,000” estimated sightings around Pine Bush in the 1990s. That figure is useful as a marker of local folklore and reporting volume, but it should not be read as 3,000 confirmed anomalous craft. It tells us that Pine Bush became a sustained reporting centre, not that every report had the same evidential quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesunion.com">[Times Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesunion.com</span><span class="citation-popover-title">ufo sightings westchester pine bush mystery 19363246</span><span class="citation-popover-snippet">ufo sightings westchester pine bush mystery 19363246</span></span></span>
 
-One reason the folklore endured is that skywatching itself became part of the story. Visitors and locals did not only read about old sightings; they went out looking. Travel coverage notes that museum interpretation has worked with researchers from the United Friends Observers Society, a group associated with documenting local sightings, and that visitors with experiences of their own are part of the museum’s audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
+One reason the folklore endured is that skywatching itself became part of the story. Visitors and locals did not only read about old sightings; they went out looking. Travel coverage notes that museum interpretation has worked with researchers from the United Friends Observers Society, a group associated with documenting local sightings, and that visitors with experiences of their own are part of the museum’s audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
 
 This is where Pine Bush becomes more than an archive of claims. A UFO town is produced by behaviour as much as by reports: people gather, compare memories, revisit roads, tell newcomers where to look, and reinterpret ordinary landscapes as possible observation points. Even when a light is later explained, the ritual of watching the sky can reinforce the idea that Pine Bush is a place where something might happen.
 
@@ -296,24 +296,24 @@ This is where Pine Bush becomes more than an archive of claims. A UFO town is pr
 
 ## Museum and fair traditions
 
-The Pine Bush UFO & Paranormal Museum is the clearest sign that local folklore has become a year-round public identity. The museum opened in 2021 and operates on Main Street, with tours and exhibits about UFO and paranormal claims connected to Pine Bush and the Hudson Valley. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
+The Pine Bush UFO & Paranormal Museum is the clearest sign that local folklore has become a year-round public identity. The museum opened in 2021 and operates on Main Street, with tours and exhibits about UFO and paranormal claims connected to Pine Bush and the Hudson Valley.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
 
-Its public role is not simply to display alleged evidence. It also gives visitors a structured way to encounter the town’s stories. Tourism listings describe self-guided tours, numbered interactive exhibits, UFO and paranormal galleries, guided tours, a photo-op, and opportunities for visitors to share their own experiences with a museum guide. That design matters because it turns scattered oral tradition into a repeatable visitor experience. Haunted History Trail of New York State <span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Its public role is not simply to display alleged evidence. It also gives visitors a structured way to encounter the town’s stories. Tourism listings describe self-guided tours, numbered interactive exhibits, UFO and paranormal galleries, guided tours, a photo-op, and opportunities for visitors to share their own experiences with a museum guide. That design matters because it turns scattered oral tradition into a repeatable visitor experience. Haunted History Trail of New York State<span class="citation-chip-wrap"><a class="citation-chip" href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhistorytrail.com">[hauntedhistorytrail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhistorytrail.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The annual UFO Fair performs a different but related function. Since debuting in 2011, it has become a central part of the town’s culture, according to Thrillist’s 2024 account. Chronogram’s 2026 preview described the 15th annual fair as a free Main Street event with live music, food vendors, alien cosplay, paranormal lectures, games, costume contests and an Alien Beauty Pageant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
+The annual UFO Fair performs a different but related function. Since debuting in 2011, it has become a central part of the town’s culture, according to Thrillist’s 2024 account. Chronogram’s 2026 preview described the 15th annual fair as a free Main Street event with live music, food vendors, alien cosplay, paranormal lectures, games, costume contests and an Alien Beauty Pageant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">Annual Pine Bush UFO Fair in Upstate New York Returns</span><span class="citation-popover-snippet">Annual Pine Bush UFO Fair in Upstate New York Returns</span></span></span>
 
 The fair is important because it makes the UFO identity visible. A museum can preserve a story indoors; a street fair lets the town perform it in public. Main Street becomes a stage where believers, sceptics, families, vendors, speakers and tourists all participate without needing to agree on what UFO sightings actually are. That is why Pine Bush’s UFO identity can survive uncertainty. The event is not only an argument about evidence; it is also a festival, a local economy, a costume culture and a form of small-town branding.
 
-The fair’s tone is usually described as playful rather than grimly conspiratorial. Hudson Valley One’s 2019 preview emphasised that visitors did not need to have seen inexplicable lights or even believe in extra-terrestrial visitors to enjoy the event, which included a speaker tent, alien stroll, scavenger hunt, live music, vendors and family activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hudsonvalleyone.com/2019/05/16/ufo-fair-lands-again-in-pine-bush/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hudsonvalleyone.com">[Hudson Valley One]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hudsonvalleyone.com</span><span class="citation-popover-title">Hudson Valley One UFO Fair lands again in Pine Bush</span><span class="citation-popover-snippet">Hudson Valley One UFO Fair lands again in Pine Bush</span></span></span>
+The fair’s tone is usually described as playful rather than grimly conspiratorial. Hudson Valley One’s 2019 preview emphasised that visitors did not need to have seen inexplicable lights or even believe in extra-terrestrial visitors to enjoy the event, which included a speaker tent, alien stroll, scavenger hunt, live music, vendors and family activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hudsonvalleyone.com/2019/05/16/ufo-fair-lands-again-in-pine-bush/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hudsonvalleyone.com">[Hudson Valley One]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hudsonvalleyone.com</span><span class="citation-popover-title">Hudson Valley One UFO Fair lands again in Pine Bush</span><span class="citation-popover-snippet">Hudson Valley One UFO Fair lands again in Pine Bush</span></span></span>
 
 <img src="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-2-dark.svg" | relative_url }}" alt="Pine Bush illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Folklore, tourism, and scepticism
 
 Pine Bush works as folklore because it leaves room for multiple levels of belief. Some visitors arrive as convinced experiencers. Others treat the town as a quirky Hudson Valley destination. Some are openly sceptical but still enjoy the fair, museum and spectacle. That broad appeal is part of the town’s durability: the identity does not collapse if a visitor does not believe every story.
 
-The sceptical context is essential. The wider Hudson Valley sightings have long had a strong conventional explanation: small aircraft flying in tight formations with lights. The Unsolved Mysteries archive summarises the major sceptical turn in the case, saying the sightings appeared to be a hoax or misidentification involving small aircraft in precise patterns, and quoting air traffic control specialist Anthony Capaldi on how a tight formation could look peculiar from a distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Hudson Valley UFO</span><span class="citation-popover-snippet">Mysteries Hudson Valley UFO</span></span></span>
+The sceptical context is essential. The wider Hudson Valley sightings have long had a strong conventional explanation: small aircraft flying in tight formations with lights. The Unsolved Mysteries archive summarises the major sceptical turn in the case, saying the sightings appeared to be a hoax or misidentification involving small aircraft in precise patterns, and quoting air traffic control specialist Anthony Capaldi on how a tight formation could look peculiar from a distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Hudson Valley UFO</span><span class="citation-popover-snippet">Mysteries Hudson Valley UFO</span></span></span>
 
-That explanation does not automatically account for every Pine Bush story, especially because local claims extend beyond the best-known 1980s wave and include later reports, personal experiences and paranormal material. But it does set a standard for interpretation: lights at night can look structured, silent or strange when distance, angle, aircraft lighting, sound conditions, expectation and memory all interact. The US All-domain Anomaly Resolution Office made the broader point in its 2024 historical review, concluding that most official UAP investigations found ordinary objects, natural phenomena, optical illusions or misidentifications behind the vast majority of reports, while many cases remain unresolved because of poor or limited data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-8 "Endnote 8")
+That explanation does not automatically account for every Pine Bush story, especially because local claims extend beyond the best-known 1980s wave and include later reports, personal experiences and paranormal material. But it does set a standard for interpretation: lights at night can look structured, silent or strange when distance, angle, aircraft lighting, sound conditions, expectation and memory all interact. The US All-domain Anomaly Resolution Office made the broader point in its 2024 historical review, concluding that most official UAP investigations found ordinary objects, natural phenomena, optical illusions or misidentifications behind the vast majority of reports, while many cases remain unresolved because of poor or limited data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-8 "Endnote 8")
 
 For Pine Bush, the honest position sits between dismissal and belief. The town’s UFO identity is real as culture, tourism and local memory. The claims behind it are mixed: some are weakly documented, some are sincere but hard to test, some may fit known aircraft or sky phenomena, and some remain unresolved in the ordinary sense that the available record is not good enough to identify them confidently.
 
@@ -334,194 +334,194 @@ That does not make the evidence stronger. In some ways, it makes careful reading
 <img src="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-3-dark.svg" | relative_url }}" alt="Pine Bush illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_pine_bush_ufo_town_c2bcb6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Pine Bush Became New York&#x27;s UFO Town. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Pine Bush Became New York&#x27;s UFO Town. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
         
-        <p class="fr-book-desc">Directly covers the regional sightings central to Pine Bush UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the regional sightings central to Pine Bush UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative context for evaluating regional sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative context for evaluating regional sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Strongly associated with New York UFO and experiencer culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongly associated with New York UFO and experiencer culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects UFO reports with broader folklore traditions like those seen in Pine Bush.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports with broader folklore traditions like those seen in Pine Bush.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-pine-bush-became-new-york-s-ufo-town-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That does not make the evidence stronger. In some ways, it makes careful reading
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That does not make the evidence stronger. In some ways, it makes careful reading
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That does not make the evidence stronger. In some ways, it makes careful reading
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That does not make the evidence stronger. In some ways, it makes careful reading
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That does not make the evidence stronger. In some ways, it makes careful reading
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,161 +727,161 @@ That does not make the evidence stronger. In some ways, it makes careful reading
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hauntedhistorytrail.com  
-   Link: <a href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast</a>  
+   Link:<a href="https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhistorytrail.com/explore/hamlet-of-pine-bush-ufo-capital-of-the-east-coast</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: chronogram.com  
-   Link: <a href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow">https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/</a>  
+   Link:<a href="https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/" target="_blank" rel="noopener noreferrer nofollow">https://www.chronogram.com/arts/festivals/pine-bush-ufo-fair-returns-with-aliens-paranormal-speakers-and-main-street-mayhem/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: timesunion.com  
    Title: ufo sightings westchester pine bush mystery 19363246  
-   Link: <a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
+   Link:<a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thrillist.com  
    Title: Annual Pine Bush UFO Fair in Upstate New York Returns  
-   Link: <a href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum</a>  
+   Link:<a href="https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/new-york/pine-bush-ufo-fair-paranormal-museum</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: townofcrawford.org  
-   Link: <a href="https://townofcrawford.org/Community-Services/Pine-Bush-UFO-Paranormal-Museum" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Community-Services/Pine-Bush-UFO-Paranormal-Museum</a>  
+   Link:<a href="https://townofcrawford.org/Community-Services/Pine-Bush-UFO-Paranormal-Museum" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Community-Services/Pine-Bush-UFO-Paranormal-Museum</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hudsonvalleyone.com  
    Title: Hudson Valley One UFO Fair lands again in Pine Bush  
-   Link: <a href="https://hudsonvalleyone.com/2019/05/16/ufo-fair-lands-again-in-pine-bush/" target="_blank" rel="noopener noreferrer nofollow">https://hudsonvalleyone.com/2019/05/16/ufo-fair-lands-again-in-pine-bush/</a>  
+   Link:<a href="https://hudsonvalleyone.com/2019/05/16/ufo-fair-lands-again-in-pine-bush/" target="_blank" rel="noopener noreferrer nofollow">https://hudsonvalleyone.com/2019/05/16/ufo-fair-lands-again-in-pine-bush/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unsolved.com  
    Title: Mysteries Hudson Valley UFO  
-   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pinebushmuseum.com  
-   Link: <a href="https://pinebushmuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://pinebushmuseum.com/</a>  
+   Link:<a href="https://pinebushmuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://pinebushmuseum.com/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: townofcrawford.org  
    Title: UF O Fair  
-   Link: <a href="https://townofcrawford.org/Calendar-Events/EventID/4274/UFO-Fair" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Calendar-Events/EventID/4274/UFO-Fair</a>  
+   Link:<a href="https://townofcrawford.org/Calendar-Events/EventID/4274/UFO-Fair" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Calendar-Events/EventID/4274/UFO-Fair</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: townofcrawford.org  
    Title: 2025 UFO Fair  
-   Link: <a href="https://www.townofcrawford.org/Calendar-Events/EventID/3304/CRC/A651569E78F103AFE6B70FEE4D989462/2025-UFO-Fair" target="_blank" rel="noopener noreferrer nofollow">https://www.townofcrawford.org/Calendar-Events/EventID/3304/CRC/A651569E78F103AFE6B70FEE4D989462/2025-UFO-Fair</a>  
+   Link:<a href="https://www.townofcrawford.org/Calendar-Events/EventID/3304/CRC/A651569E78F103AFE6B70FEE4D989462/2025-UFO-Fair" target="_blank" rel="noopener noreferrer nofollow">https://www.townofcrawford.org/Calendar-Events/EventID/3304/CRC/A651569E78F103AFE6B70FEE4D989462/2025-UFO-Fair</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: townofcrawford.org  
-   Link: <a href="https://townofcrawford.org/Home/PageYear1053/1772/PageMonth1053/11" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Home/PageYear1053/1772/PageMonth1053/11</a>  
+   Link:<a href="https://townofcrawford.org/Home/PageYear1053/1772/PageMonth1053/11" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Home/PageYear1053/1772/PageMonth1053/11</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: townofcrawford.org  
    Title: Pine Bush Seniors Club  
-   Link: <a href="https://townofcrawford.org/Community-Services/Pine-Bush-Seniors-Club" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Community-Services/Pine-Bush-Seniors-Club</a>  
+   Link:<a href="https://townofcrawford.org/Community-Services/Pine-Bush-Seniors-Club" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Community-Services/Pine-Bush-Seniors-Club</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: townofcrawford.org  
    Title: town wide yard sale  
-   Link: <a href="https://townofcrawford.org/Crawford-Online/Press-Releases/town-wide-yard-sale" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Crawford-Online/Press-Releases/town-wide-yard-sale</a>  
+   Link:<a href="https://townofcrawford.org/Crawford-Online/Press-Releases/town-wide-yard-sale" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Crawford-Online/Press-Releases/town-wide-yard-sale</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: townofcrawford.org  
-   Link: <a href="https://www.townofcrawford.org/Crawford-Online/Historian" target="_blank" rel="noopener noreferrer nofollow">https://www.townofcrawford.org/Crawford-Online/Historian</a>  
+   Link:<a href="https://www.townofcrawford.org/Crawford-Online/Historian" target="_blank" rel="noopener noreferrer nofollow">https://www.townofcrawford.org/Crawford-Online/Historian</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: townofcrawford.org  
    Title: Community Links  
-   Link: <a href="https://www.townofcrawford.org/Crawford-Online/Community-Links" target="_blank" rel="noopener noreferrer nofollow">https://www.townofcrawford.org/Crawford-Online/Community-Links</a>  
+   Link:<a href="https://www.townofcrawford.org/Crawford-Online/Community-Links" target="_blank" rel="noopener noreferrer nofollow">https://www.townofcrawford.org/Crawford-Online/Community-Links</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: townofcrawford.org  
    Title: Spring 2025 Newsletter  
-   Link: <a href="https://townofcrawford.org/Portals/6/Spring%202025%20Newsletter.pdf?ver=zc786TUGZmmLRTRKDzjz7Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Portals/6/Spring%202025%20Newsletter.pdf?ver=zc786TUGZmmLRTRKDzjz7Q%3D%3D</a>  
+   Link:<a href="https://townofcrawford.org/Portals/6/Spring%202025%20Newsletter.pdf?ver=zc786TUGZmmLRTRKDzjz7Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Portals/6/Spring%202025%20Newsletter.pdf?ver=zc786TUGZmmLRTRKDzjz7Q%3D%3D</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: townofcrawford.org  
    Title: notice of completion of tentative assessment roll7  
-   Link: <a href="https://townofcrawford.org/Crawford-Online/Press-Releases/notice-of-completion-of-tentative-assessment-roll7" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Crawford-Online/Press-Releases/notice-of-completion-of-tentative-assessment-roll7</a>  
+   Link:<a href="https://townofcrawford.org/Crawford-Online/Press-Releases/notice-of-completion-of-tentative-assessment-roll7" target="_blank" rel="noopener noreferrer nofollow">https://townofcrawford.org/Crawford-Online/Press-Releases/notice-of-completion-of-tentative-assessment-roll7</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hauntedhistorytrail.com  
-   Link: <a href="https://hauntedhistorytrail.com/events/pine-bush-ufo-fair-2" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhistorytrail.com/events/pine-bush-ufo-fair-2</a>  
+   Link:<a href="https://hauntedhistorytrail.com/events/pine-bush-ufo-fair-2" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhistorytrail.com/events/pine-bush-ufo-fair-2</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tmIQmUDVtY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tmIQmUDVtY</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=QOrfNJSbFuQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QOrfNJSbFuQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QOrfNJSbFuQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QOrfNJSbFuQ</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hvmag.com  
    Title: pine bush  
-   Link: <a href="https://hvmag.com/home-real-estate/pine-bush/" target="_blank" rel="noopener noreferrer nofollow">https://hvmag.com/home-real-estate/pine-bush/</a>  
+   Link:<a href="https://hvmag.com/home-real-estate/pine-bush/" target="_blank" rel="noopener noreferrer nofollow">https://hvmag.com/home-real-estate/pine-bush/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hvmag.com  
    Title: unsolved mysteries hudson valley  
-   Link: <a href="https://hvmag.com/life-style/unsolved-mysteries-hudson-valley/" target="_blank" rel="noopener noreferrer nofollow">https://hvmag.com/life-style/unsolved-mysteries-hudson-valley/</a>  
+   Link:<a href="https://hvmag.com/life-style/unsolved-mysteries-hudson-valley/" target="_blank" rel="noopener noreferrer nofollow">https://hvmag.com/life-style/unsolved-mysteries-hudson-valley/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Life in Pine Bush: The UFO Capital of the World  
-   Link: <a href="https://www.youtube.com/watch?v=50OuVU-xHgo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50OuVU-xHgo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=50OuVU-xHgo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50OuVU-xHgo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Locals in Pine Bush Believe in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=jI7xjFwgUKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jI7xjFwgUKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Festival Parade Hosted by The UFO Capital of the East Coast | New York Post...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jI7xjFwgUKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jI7xjFwgUKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Festival Parade Hosted by The UFO Capital of the East Coast | New York Post...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G3xPynKV7no" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3xPynKV7no</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Locals in Pine Bush Believe in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G3xPynKV7no" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3xPynKV7no</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Locals in Pine Bush Believe in UFOs...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: girlsinfilm.net  
-   Link: <a href="https://www.girlsinfilm.net/videos/extraterrestrial-life-in-pine-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.girlsinfilm.net/videos/extraterrestrial-life-in-pine-bush</a>  
+   Link:<a href="https://www.girlsinfilm.net/videos/extraterrestrial-life-in-pine-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.girlsinfilm.net/videos/extraterrestrial-life-in-pine-bush</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/</a>  
+   Link:<a href="https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/aliens-among-us-f670b1daf220" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/aliens-among-us-f670b1daf220</a>  
+   Link:<a href="https://medium.com/illumination/aliens-among-us-f670b1daf220" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/aliens-among-us-f670b1daf220</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/thehudsonvalley/posts/4368314646785778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thehudsonvalley/posts/4368314646785778/</a>  
+   Link:<a href="https://www.facebook.com/groups/thehudsonvalley/posts/4368314646785778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thehudsonvalley/posts/4368314646785778/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/6524619c-43f9-4577-8606-6637da744532" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6524619c-43f9-4577-8606-6637da744532</a>  
+   Link:<a href="https://enigmalabs.io/library/6524619c-43f9-4577-8606-6637da744532" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6524619c-43f9-4577-8606-6637da744532</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/</a>
+   Link:<a href="https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/</a>

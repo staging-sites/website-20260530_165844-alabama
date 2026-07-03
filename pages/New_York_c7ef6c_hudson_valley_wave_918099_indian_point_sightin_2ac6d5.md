@@ -250,18 +250,18 @@ image: /assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sig
 
 ## Introduction
 
-The Indian Point sightings became one of the most controversial parts of New York’s Hudson Valley UFO wave because they appeared to place an unexplained object near one of the region’s most sensitive pieces of infrastructure: the Indian Point nuclear power station on the Hudson River. During the summer of 1984, several security guards and other witnesses reportedly described large illuminated objects near the plant, adding a security dimension that made the claims more dramatic than many ordinary roadside sightings. Yet the case is also a good example of why nuclear-site UFO stories require careful scrutiny. Many of the most striking details came through later UFO investigators rather than official [records]({{ 'records-637b5f/' | relative_url }}), and key claims were disputed by plant officials and police. The result is a case that remains memorable in New York UFO history, but far less clear-cut than later retellings often suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+The Indian Point sightings became one of the most controversial parts of New York’s Hudson Valley UFO wave because they appeared to place an unexplained object near one of the region’s most sensitive pieces of infrastructure: the Indian Point nuclear power station on the Hudson River. During the summer of 1984, several security guards and other witnesses reportedly described large illuminated objects near the plant, adding a security dimension that made the claims more dramatic than many ordinary roadside sightings. Yet the case is also a good example of why nuclear-site UFO stories require careful scrutiny. Many of the most striking details came through later UFO investigators rather than official [records]({{ 'records-637b5f/' | relative_url }}), and key claims were disputed by plant officials and police. The result is a case that remains memorable in New York UFO history, but far less clear-cut than later retellings often suggest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 <img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-dark.svg" | relative_url }}" alt="Indian Point illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What guards and witnesses reportedly described
 
-Indian Point, located in Buchanan in Westchester County, sat directly within the broader area affected by the [Hudson Valley wave]({{ 'hudson-wave/' | relative_url }}) of 1983–84. Because thousands of residents were already reporting unusual lights and large V-shaped formations, any sighting near the nuclear station immediately attracted extra attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+Indian Point, located in Buchanan in Westchester County, sat directly within the broader area affected by the [Hudson Valley wave]({{ 'hudson-wave/' | relative_url }}) of 1983–84. Because thousands of residents were already reporting unusual lights and large V-shaped formations, any sighting near the nuclear station immediately attracted extra attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-The most frequently repeated accounts concern two dates: 14 June and 24 July 1984. UFO researcher Philip Imbrogno later said that Indian Point security personnel approached him with reports of a large object hovering near the facility. According to his version of events, guards described an enormous illuminated craft that remained over or near the plant for several minutes. Some reports characterised it as roughly 900 feet across, while one guard reportedly estimated an object around 100 feet long at a relatively low altitude and compared its appearance to helicopters flying in a V formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+The most frequently repeated accounts concern two dates: 14 June and 24 July 1984. UFO researcher Philip Imbrogno later said that Indian Point security personnel approached him with reports of a large object hovering near the facility. According to his version of events, guards described an enormous illuminated craft that remained over or near the plant for several minutes. Some reports characterised it as roughly 900 feet across, while one guard reportedly estimated an object around 100 feet long at a relatively low altitude and compared its appearance to helicopters flying in a V formation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-The July 1984 reports became especially well known because they appeared to overlap with one of the major peaks in Hudson Valley sightings. Video footage taken elsewhere in the region that evening was later linked in UFO literature to the Indian Point incident, creating a narrative that the same object had travelled across multiple counties before appearing near the reactors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5rt7iaKNzyc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">1984-07-24: Brewster and Indian Point UFO VideoOn this 24 July night in 1984, Hudson Valley sightings peaked once again across Wes...</span></span></span>
+The July 1984 reports became especially well known because they appeared to overlap with one of the major peaks in Hudson Valley sightings. Video footage taken elsewhere in the region that evening was later linked in UFO literature to the Indian Point incident, creating a narrative that the same object had travelled across multiple counties before appearing near the reactors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5rt7iaKNzyc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">1984-07-24: Brewster and Indian Point UFO VideoOn this 24 July night in 1984, Hudson Valley sightings peaked once again across Wes...</span></span></span>
 
-As with many Hudson Valley accounts, witnesses emphasised several recurring features: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Hudson Valley Boomerangs</span><span class="citation-popover-snippet">A 1980&#x27;s UFO sightings...Alien Encounters You Won&#x27;t Believe &#124; Ancient Aliens &#124; History · Ancient Aliens: UFO Invasion in New York...</span></span></span>
+As with many Hudson Valley accounts, witnesses emphasised several recurring features:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Hudson Valley Boomerangs</span><span class="citation-popover-snippet">A 1980&#x27;s UFO sightings...Alien Encounters You Won&#x27;t Believe &#124; Ancient Aliens &#124; History · Ancient Aliens: UFO Invasion in New York...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -269,7 +269,7 @@ As with many Hudson Valley accounts, witnesses emphasised several recurring feat
 * Multiple bright lights arranged in a structured pattern.
 * Apparently slow movement or hovering.
 * The impression of a single enormous craft rather than separate aircraft.
-* Sudden directional changes or departures that seemed unusual to observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+* Sudden directional changes or departures that seemed unusual to observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 </div>
 
@@ -281,34 +281,34 @@ These descriptions helped make the Indian Point reports a favourite example for 
 
 One reason the Indian Point case gained lasting attention was the claim that security personnel treated the event as a genuine security threat.
 
-Imbrogno told journalists that guards had become sufficiently concerned for supervisors to order shotguns brought out and that military authorities at Camp Smith were contacted. In later retellings, this detail became one of the most dramatic parts of the story because it suggested trained security staff believed something unusual was approaching a nuclear facility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+Imbrogno told journalists that guards had become sufficiently concerned for supervisors to order shotguns brought out and that military authorities at Camp Smith were contacted. In later retellings, this detail became one of the most dramatic parts of the story because it suggested trained security staff believed something unusual was approaching a nuclear facility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-The problem is that the strongest versions of these claims were never supported by publicly available documentation. Imbrogno himself reportedly acknowledged that he did not possess records confirming the alleged shotgun deployment or military response. Plant representatives challenged the account, and security officials disputed suggestions that guards armed themselves in response to a UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+The problem is that the strongest versions of these claims were never supported by publicly available documentation. Imbrogno himself reportedly acknowledged that he did not possess records confirming the alleged shotgun deployment or military response. Plant representatives challenged the account, and security officials disputed suggestions that guards armed themselves in response to a UFO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 That gap between witness stories and documentary evidence is central to understanding the case. The more dramatic the claim becomes, the more important official records become. In the Indian Point story, the paperwork has never matched the most sensational versions.
 
-A later Nuclear Regulatory Commission records search also found no documentation supporting claims of a UFO incident at the plant. Freedom of Information requests produced responses indicating that agency files contained no records confirming the reported event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
+A later Nuclear Regulatory Commission records search also found no documentation supporting claims of a UFO incident at the plant. Freedom of Information requests produced responses indicating that agency files contained no records confirming the reported event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
 
 ## The Cessna landmark explanation
 
 The strongest conventional explanation emerged from the same source that explained many other Hudson Valley sightings: small aircraft flying in coordinated formations.
 
-During the wider wave, state police and aviation officials concluded that some of the most famous sightings involved pilots operating Cessna aircraft from local airports, particularly around Stormville. These pilots flew in tight formations using bright navigation and rotating lights that could appear from the ground as a single giant object. Dark-painted undersides and the night sky made the individual aircraft difficult to distinguish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+During the wider wave, state police and aviation officials concluded that some of the most famous sightings involved pilots operating Cessna aircraft from local airports, particularly around Stormville. These pilots flew in tight formations using bright navigation and rotating lights that could appear from the ground as a single giant object. Dark-painted undersides and the night sky made the individual aircraft difficult to distinguish.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 Indian Point fit that explanation in several ways.
 
-First, the plant was an obvious visual landmark for pilots navigating the Hudson Valley at night. Officials noted that aircraft commonly used the facility as a reference point because it was easy to identify from the air. There were also no special restrictions that would automatically prevent aircraft from passing nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+First, the plant was an obvious visual landmark for pilots navigating the Hudson Valley at night. Officials noted that aircraft commonly used the facility as a reference point because it was easy to identify from the air. There were also no special restrictions that would automatically prevent aircraft from passing nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-Second, both New York State Police representatives and power authority officials reportedly believed the Indian Point sightings were consistent with the same Cessna-formation activity already associated with other Hudson Valley reports. Their position was not that nothing had been seen, but that witnesses had probably misidentified aircraft formations under night-time viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+Second, both New York State Police representatives and power authority officials reportedly believed the Indian Point sightings were consistent with the same Cessna-formation activity already associated with other Hudson Valley reports. Their position was not that nothing had been seen, but that witnesses had probably misidentified aircraft formations under night-time viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-Third, some witness descriptions themselves contain clues that point toward multiple aircraft. The comparison to helicopters flying in a V formation is notable because it resembles the structured light arrangements repeatedly reported elsewhere in the Hudson Valley wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+Third, some witness descriptions themselves contain clues that point toward multiple aircraft. The comparison to helicopters flying in a V formation is notable because it resembles the structured light arrangements repeatedly reported elsewhere in the Hudson Valley wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 None of this proves that every observer saw aircraft. It does show, however, that Indian Point was not an isolated mystery. It occurred in the middle of a regional flap already known to include genuine aircraft-generated sightings.
 
 <img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-dark.svg" | relative_url }}" alt="Indian Point illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why nuclear-site UFO claims need extra caution
 
-Nuclear facilities occupy a special place in UFO culture. Reports near reactors, missile fields or weapons sites often receive greater attention than ordinary sightings because they seem to imply strategic significance. That attention can sometimes distort how evidence is weighed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos near nuclear facilities uss roosevelt rendlesham</span><span class="citation-popover-snippet">Between 1947 and 1969, a small, top-secret Air Force team called Project Blue Book scientifically investigated some 12,000 UFO...Read more...</span></span></span>
+Nuclear facilities occupy a special place in UFO culture. Reports near reactors, missile fields or weapons sites often receive greater attention than ordinary sightings because they seem to imply strategic significance. That attention can sometimes distort how evidence is weighed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos near nuclear facilities uss roosevelt rendlesham</span><span class="citation-popover-snippet">Between 1947 and 1969, a small, top-secret Air Force team called Project Blue Book scientifically investigated some 12,000 UFO...Read more...</span></span></span>
 
 Indian Point demonstrates several reasons for caution.
 
@@ -322,7 +322,7 @@ In reality, a sensitive location does not automatically produce better evidence.
 
 ### Later retellings often become more dramatic
 
-The Indian Point story grew through books, television programmes and UFO conferences. As often happens in long-running UFO cases, later accounts tended to emphasise the largest object estimates, the strongest security-response claims and the most extraordinary witness interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+The Indian Point story grew through books, television programmes and UFO conferences. As often happens in long-running UFO cases, later accounts tended to emphasise the largest object estimates, the strongest security-response claims and the most extraordinary witness interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 Researchers and readers therefore have to distinguish between:
 
@@ -341,282 +341,282 @@ Those are not always the same thing.
 
 One of the strongest sceptical points is not that witnesses were dishonest. It is that key supporting records have never surfaced.
 
-If a major security incident occurred at an operating nuclear plant, researchers would expect at least some trace in security logs, regulatory correspondence or law-enforcement records. Publicly known document searches have not produced confirmation of the most dramatic claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
+If a major security incident occurred at an operating nuclear plant, researchers would expect at least some trace in security logs, regulatory correspondence or law-enforcement records. Publicly known document searches have not produced confirmation of the most dramatic claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
 
 ## Where Indian Point fits in New York UFO history
 
 Indian Point remains important because it sits at the intersection of two recurring themes in New York UFO history: the Hudson Valley mass-sighting wave and the wider belief that UFOs show unusual interest in nuclear facilities.
 
-The case is not remembered because it produced definitive evidence. It is remembered because it sharpened the central argument running through the entire Hudson Valley story. Supporters saw trained security personnel reporting a huge silent object near a reactor and concluded that ordinary aircraft could not explain everything. Sceptics saw another example of lights in the sky being interpreted through the atmosphere of an already famous UFO flap, with aviation explanations fitting many of the known facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">hudson valley ufo americas ufo hotspot</span><span class="citation-popover-snippet">Hudson Valley UFO: America&#x27;s UFO Hotspot - Discovery UKJan 15, 2026 — Discover the astonishing story of the Hudson Valley UFO wave, one o...</span></span></span>
+The case is not remembered because it produced definitive evidence. It is remembered because it sharpened the central argument running through the entire Hudson Valley story. Supporters saw trained security personnel reporting a huge silent object near a reactor and concluded that ordinary aircraft could not explain everything. Sceptics saw another example of lights in the sky being interpreted through the atmosphere of an already famous UFO flap, with aviation explanations fitting many of the known facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">hudson valley ufo americas ufo hotspot</span><span class="citation-popover-snippet">Hudson Valley UFO: America&#x27;s UFO Hotspot - Discovery UKJan 15, 2026 — Discover the astonishing story of the Hudson Valley UFO wave, one o...</span></span></span>
 
-More than forty years later, the Indian Point reports remain unresolved in the narrow sense that no single event was conclusively identified. At the same time, they are far from a proven mystery. The absence of supporting documentation, the existence of a well-established aircraft explanation in the region, and disputes over key witness claims mean the case is best understood as a contested chapter within the larger Hudson Valley wave rather than as independent proof that an unknown craft approached a New York nuclear plant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
+More than forty years later, the Indian Point reports remain unresolved in the narrow sense that no single event was conclusively identified. At the same time, they are far from a proven mystery. The absence of supporting documentation, the existence of a well-established aircraft explanation in the region, and disputes over key witness claims mean the case is best understood as a contested chapter within the larger Hudson Valley wave rather than as independent proof that an unknown craft approached a New York nuclear plant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xQotYfBKg8g" title="The Hudson Valley UFO Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xQotYfBKg8g" target="_blank" rel="noopener noreferrer">The Hudson Valley UFO Phenomenon</a></p><p class="youtube-embed-meta">Channel: Everything Vaguely Paranormal &middot; Views: 287 &middot; Uploaded: April 2024 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xQotYfBKg8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xQotYfBKg8g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did UFOs really approach Indian Point?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did UFOs really approach Indian Point?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing witness reports and anomalous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing witness reports and anomalous claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines notable cases involving official witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable cases involving official witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
         
-        <p class="fr-book-desc">Contains the wider wave from which the Indian Point claims emerged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the wider wave from which the Indian Point claims emerged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Night+Siege+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly relevant to nuclear-site UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to nuclear-site UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-680e77-did-ufos-really-approach-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -632,7 +632,7 @@ More than forty years later, the Indian Point reports remain unresolved in the n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -652,7 +652,7 @@ More than forty years later, the Indian Point reports remain unresolved in the n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -684,7 +684,7 @@ More than forty years later, the Indian Point reports remain unresolved in the n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ More than forty years later, the Indian Point reports remain unresolved in the n
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -772,143 +772,143 @@ More than forty years later, the Indian Point reports remain unresolved in the n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5rt7iaKNzyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5rt7iaKNzyc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1984-07-24: Brewster and Indian Point UFO VideoOn this 24 July night in 1984, Hudson Valley sightings peaked once again across Wes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5rt7iaKNzyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5rt7iaKNzyc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1984-07-24: Brewster and Indian Point UFO VideoOn this 24 July night in 1984, Hudson Valley sightings peaked once again across Wes...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: hudson valley ufo americas ufo hotspot  
-   Link: <a href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO: America&#x27;s UFO Hotspot - Discovery UKJan 15, 2026 — Discover the astonishing story of the Hudson Valley UFO wave, one o...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO: America&#x27;s UFO Hotspot - Discovery UKJan 15, 2026 — Discover the astonishing story of the Hudson Valley UFO wave, one o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt rendlesham  
-   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Between 1947 and 1969, a small, top-secret Air Force team called Project Blue Book scientifically investigated some 12,000 UFO...Read more...</p></details>
+   Link:<a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Between 1947 and 1969, a small, top-secret Air Force team called Project Blue Book scientifically investigated some 12,000 UFO...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xQotYfBKg8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xQotYfBKg8g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4:04 · Go to channel NewsNation · Rep...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xQotYfBKg8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xQotYfBKg8g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4:04 · Go to channel NewsNation · Rep...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xpYTG2xoc7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpYTG2xoc7Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ve sparked global curiosity and security concerns...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xpYTG2xoc7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpYTG2xoc7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ve sparked global curiosity and security concerns...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Hudson Valley Boomerangs  
-   Link: <a href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syZ9cXHutAU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A 1980&#x27;s UFO sightings...Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History &amp;middot; Ancient Aliens: UFO Invasion in New York...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syZ9cXHutAU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 1980&#x27;s UFO sightings...Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History &amp;middot; Ancient Aliens: UFO Invasion in New York...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ddWpdqV2R9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ddWpdqV2R9o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and UFO sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ddWpdqV2R9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ddWpdqV2R9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and UFO sightings...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Dennis Farina  
-   Link: <a href="https://www.youtube.com/watch?v=0mMgZc0ntq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mMgZc0ntq8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 285 - The Hudson Valley UFO Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mMgZc0ntq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mMgZc0ntq8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 285 - The Hudson Valley UFO Sightings...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Episode 285  
-   Link: <a href="https://www.youtube.com/watch?v=Os2KocEJ7mE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Os2KocEJ7mE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystic Energy Lines Run Through New York? | Ancient Aliens | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Os2KocEJ7mE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Os2KocEJ7mE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystic Energy Lines Run Through New York? | Ancient Aliens | History...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mystic Energy Lines Run Through New York? | Ancient Aliens | History  
-   Link: <a href="https://www.youtube.com/watch?v=9gH3rT9d4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gH3rT9d4ss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files #10: Invasion of the Flying Boomerangs - 1984...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9gH3rT9d4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gH3rT9d4ss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files #10: Invasion of the Flying Boomerangs - 1984...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFO Files #10: Invasion of the Flying Boomerangs  
-   Link: <a href="https://www.youtube.com/watch?v=SVV1Tx4intc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SVV1Tx4intc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 UFO Sightings That MIGHT BE REAL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SVV1Tx4intc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SVV1Tx4intc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 UFO Sightings That MIGHT BE REAL...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Top 20 UFO Sightings That MIGHT BE REAL  
-   Link: <a href="https://www.youtube.com/watch?v=aUgrzNDJkCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aUgrzNDJkCM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=aUgrzNDJkCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aUgrzNDJkCM</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2117/ML21179A021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</p></details>
+   Link:<a href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2117/ML21179A021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unsolved.com  
    Title: hudson valley ufo  
-   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries(Two witnesses) ”…saw an object near…home in Bridgeport, CT, just before 11:00 P.M...</p></details>
+   Link:<a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries(Two witnesses) ”…saw an object near…home in Bridgeport, CT, just before 11:00 P.M...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/documents/doc689.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc689.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At Indian PointThe first time I heard about the sighting over the reactor was on September 2, 1984, about a month and a half aft...</p></details>
+   Link:<a href="https://www.ufoevidence.org/documents/doc689.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc689.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At Indian PointThe first time I heard about the sighting over the reactor was on September 2, 1984, about a month and a half aft...</p></details>
    Published: September 2, 1984  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On New Year&#x27;s Eve 1982 in a small New York town...- *June 14 and July 24, 1984*: Security guards at the Indian Point Nuclear Power Plant...</p></details>
+   Link:<a href="https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On New Year&#x27;s Eve 1982 in a small New York town...- *June 14 and July 24, 1984*: Security guards at the Indian Point Nuclear Power Plant...</p></details>
    Published: July 24, 1984  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/565331069713495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/565331069713495/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 1984*: Security guards at the Indian Point Nuclear Power Plant reported a 900-foot UFO hovering over the plant for 15...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/552059654373970/posts/565331069713495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/565331069713495/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 1984*: Security guards at the Indian Point Nuclear Power Plant reported a 900-foot UFO hovering over the plant for 15...Read more...</p></details>
    Published: July 24, 1984  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ryan-sprague51.medium.com  
    Title: ufo incident at nuclear complex still perplexes today e7b115d4a6ce  
-   Link: <a href="https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Nuclear Complex Still Perplexes TodayThe Indian Point UFO incident of 1984 is a captivating case in the field of UFOlogy, not...</p></details>
+   Link:<a href="https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Nuclear Complex Still Perplexes TodayThe Indian Point UFO incident of 1984 is a captivating case in the field of UFOlogy, not...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100028272500453/photos/1801881854097547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100028272500453/photos/1801881854097547/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 1984 Location: Buchahan, New York, United States The object consisted of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100028272500453/photos/1801881854097547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100028272500453/photos/1801881854097547/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 1984 Location: Buchahan, New York, United States The object consisted of...Read more...</p></details>
    Published: June 14, 1984  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: timesunion.com  
    Title: ufo sightings westchester [pine bush](&#123;&#123; 'pine-bush/' | relative_url &#125;&#125;) mystery 19363246  
-   Link: <a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious history of the Hudson Valley UFO sightingsJul 2, 2024 — In the 1980s and &#x27;90s, the Hudson Valley experienced one of the bi...</p></details>
+   Link:<a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious history of the Hudson Valley UFO sightingsJul 2, 2024 — In the 1980s and &#x27;90s, the Hudson Valley experienced one of the bi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Hudson Park UFO | HowStuffWorks - ScienceDuring one sighting, the UFO hovered about 30 feet above the Indian Point Nuclear Plant...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North Hudson Park UFO | HowStuffWorks - ScienceDuring one sighting, the UFO hovered about 30 feet above the Indian Point Nuclear Plant...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DJajwOgpGEU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJajwOgpGEU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS FL - 出い New Jersey NewJerseyDrones Drones 2024.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DJajwOgpGEU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJajwOgpGEU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS FL - 出い New Jersey NewJerseyDrones Drones 2024.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/indianpoint1984.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/indianpoint1984.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Indian Point Reactor Complex, NY 1984The first event entailed the brief flyover of a huge craft, witnessed by three security...</p></details>
+   Link:<a href="https://www.ufocasebook.com/indianpoint1984.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/indianpoint1984.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Indian Point Reactor Complex, NY 1984The first event entailed the brief flyover of a huge craft, witnessed by three security...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in New York City 1974In 1974, John Lennon claimed to have seen a UFO hovering over New York and that, in a second encounter...</p></details>
+   Link:<a href="https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in New York City 1974In 1974, John Lennon claimed to have seen a UFO hovering over New York and that, in a second encounter...</p></details>

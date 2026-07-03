@@ -269,18 +269,18 @@ The most useful way to read the Barksdale material is not as a single dramatic c
 
 ## The 1952 lights over Barksdale
 
-The clearest historical anchor is the 1952 Bossier City reporting around lights seen over or near Barksdale. A Bossier Parish Libraries History Center article, based on the *Bossier City Planter’s Press*, notes an August 1952 headline: “Sky Objects Over Barksdale Not Balloons, Weather Records Prove!” The article described a local resident seeing a bright light over the air base night after night for about three weeks, usually between 8:25 and 8:45, apparently blinking and darting in an odd way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bossierlibrary.org">[Bossier Parish Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bossierlibrary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest historical anchor is the 1952 Bossier City reporting around lights seen over or near Barksdale. A Bossier Parish Libraries History Center article, based on the *Bossier City Planter’s Press*, notes an August 1952 headline: “Sky Objects Over Barksdale Not Balloons, Weather Records Prove!” The article described a local resident seeing a bright light over the air base night after night for about three weeks, usually between 8:25 and 8:45, apparently blinking and darting in an odd way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bossierlibrary.org">[Bossier Parish Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bossierlibrary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That timing is important. A recurring object seen at roughly the same time each evening can feel more mysterious to a witness, but it can also point towards regular human activity, a repeated atmospheric condition, a celestial object seen under similar viewing circumstances, or a scheduled aviation operation. The 1952 newspaper framing pushed back against a balloon explanation by invoking weather records, but that does not automatically establish an extraordinary craft. It tells us that a local debate existed and that at least one ordinary explanation was publicly contested.
 
-The case also appears in Project Blue Book-related files. Searchable copies of the Barksdale file identify an Air Intelligence Information Report from Barksdale AFB dated 30 August 1952, with information from 28–29 August 1952 and a connection to the 301st Bombardment Wing, Strategic Air Command. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">Project Blue Book Archive Untitled</span></span></span> That does not mean the Air Force confirmed anything exotic. It means the report entered the official military UFO-reporting machinery of the period, when the Air Force was collecting and evaluating reports under what became Project Blue Book.
+The case also appears in Project Blue Book-related files. Searchable copies of the Barksdale file identify an Air Intelligence Information Report from Barksdale AFB dated 30 August 1952, with information from 28–29 August 1952 and a connection to the 301st Bombardment Wing, Strategic Air Command.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">Project Blue Book Archive Untitled</span></span></span> That does not mean the Air Force confirmed anything exotic. It means the report entered the official military UFO-reporting machinery of the period, when the Air Force was collecting and evaluating reports under what became Project Blue Book.
 
-The wider Project Blue Book context matters because 1952 was a peak year for American UFO concern, including high-profile radar and visual reports elsewhere in the country. The Air Force later said Project Blue Book collected 12,618 sightings between 1947 and 1969, of which 701 remained “unidentified”, and concluded that the investigated reports did not demonstrate a national-security threat, technology beyond modern science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span> The Barksdale lights belong inside that cautious frame: historically interesting, locally specific, but not a settled alien case.
+The wider Project Blue Book context matters because 1952 was a peak year for American UFO concern, including high-profile radar and visual reports elsewhere in the country. The Air Force later said Project Blue Book collected 12,618 sightings between 1947 and 1969, of which 701 remained “unidentified”, and concluded that the investigated reports did not demonstrate a national-security threat, technology beyond modern science, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span> The Barksdale lights belong inside that cautious frame: historically interesting, locally specific, but not a settled alien case.
 
 <img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-dark.svg" | relative_url }}" alt="Barksdale illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a bomber base creates honest confusion
 
-Barksdale is not just a place on the map. It is an active military aviation environment. The 2nd Bomb Wing fact sheet states that the wing conducts Barksdale’s primary mission with three squadrons of B-52H Stratofortress bombers: the 11th Bomb Squadron, the 20th Bomb Squadron and the 96th Bomb Squadron. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span> The base’s history also ties it to long-range bomber operations, including the 2nd Bomb Wing’s 1991 Operation Desert Storm missions from Barksdale to the Persian Gulf. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span>
+Barksdale is not just a place on the map. It is an active military aviation environment. The 2nd Bomb Wing fact sheet states that the wing conducts Barksdale’s primary mission with three squadrons of B-52H Stratofortress bombers: the 11th Bomb Squadron, the 20th Bomb Squadron and the 96th Bomb Squadron.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span> The base’s history also ties it to long-range bomber operations, including the 2nd Bomb Wing’s 1991 Operation Desert Storm missions from Barksdale to the Persian Gulf.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span>
 
 For UFO interpretation, that setting cuts both ways. On one hand, military airfields are places where observers may see aircraft, navigation lights, flares, training patterns, approach lights, unusual angles of movement, and security responses that are not obvious from outside the fence. On the other hand, a military base is exactly the kind of location where an unusual intrusion, sensor track or unauthorised aircraft could matter. The correct response is neither automatic belief nor automatic dismissal.
 
@@ -302,22 +302,22 @@ This is why the [1952 Barksdale lights]({{ '1952-barksdale-lights/' | relative_u
 
 ## Balloons, aircraft and the limits of “not explained”
 
-Weather balloons are a recurring feature in UFO history because they can be bright, high, wind-driven and unfamiliar to casual observers. The Barksdale newspaper headline is interesting precisely because it rejected the balloon explanation by referring to weather records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bossierlibrary.org">[Bossier Parish Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bossierlibrary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> But “not a weather balloon” is a much narrower claim than “therefore a non-human craft”. It only removes one candidate explanation if the records were complete, correctly interpreted and relevant to the object actually seen.
+Weather balloons are a recurring feature in UFO history because they can be bright, high, wind-driven and unfamiliar to casual observers. The Barksdale newspaper headline is interesting precisely because it rejected the balloon explanation by referring to weather records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bossierlibrary.org">[Bossier Parish Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bossierlibrary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> But “not a weather balloon” is a much narrower claim than “therefore a non-human craft”. It only removes one candidate explanation if the records were complete, correctly interpreted and relevant to the object actually seen.
 
-Aircraft explanations also need care. Barksdale’s later identity as a B-52 base can tempt readers to project modern bomber operations backwards onto every older sighting. The 1952 report belongs to an earlier Strategic Air Command setting, and the searchable Blue Book file points to the 301st Bombardment Wing rather than the later B-52-heavy Barksdale identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">Project Blue Book Archive Untitled</span></span></span> The military-airfield point still stands, but the exact aircraft, unit and operational context should not be guessed.
+Aircraft explanations also need care. Barksdale’s later identity as a B-52 base can tempt readers to project modern bomber operations backwards onto every older sighting. The 1952 report belongs to an earlier Strategic Air Command setting, and the searchable Blue Book file points to the 301st Bombardment Wing rather than the later B-52-heavy Barksdale identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">Project Blue Book Archive Untitled</span><span class="citation-popover-snippet">Project Blue Book Archive Untitled</span></span></span> The military-airfield point still stands, but the exact aircraft, unit and operational context should not be guessed.
 
-Civilian databases add another layer. The National UFO Reporting Center includes later Barksdale- and Shreveport-area reports, such as a 2002 sighting of an orange-white object apparently passing over Barksdale AFB, a 1997 Bossier Parish rectangular light report, and a 2007 Shreveport report mentioning repeated observations near U.S. Air Force bases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=22792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=5195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These entries are useful as public testimony and pattern markers, but they are not the same as a completed investigation. Many are single-witness or lightly documented reports, often with limited sensor data, photographs, exact bearings or independent corroboration.
+Civilian databases add another layer. The National UFO Reporting Center includes later Barksdale- and Shreveport-area reports, such as a 2002 sighting of an orange-white object apparently passing over Barksdale AFB, a 1997 Bossier Parish rectangular light report, and a 2007 Shreveport report mentioning repeated observations near U.S. Air Force bases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=22792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=5195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These entries are useful as public testimony and pattern markers, but they are not the same as a completed investigation. Many are single-witness or lightly documented reports, often with limited sensor data, photographs, exact bearings or independent corroboration.
 
 A fair Barksdale assessment therefore has to keep two ideas together. First, witnesses may have seen something genuinely puzzling from their vantage point. Second, the available record often does not let later readers rule out aircraft, balloons, meteors, satellites, drones, reflections, or ordinary lights seen under unusual conditions.
 
 <img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-dark.svg" | relative_url }}" alt="Barksdale illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern drones have changed the meaning of “unknown lights”
 
-The 2026 Barksdale drone incidents show why older UFO language can be misleading today. On 31 March 2026, Air Force Global Strike Command published a fact-check saying that, beginning Monday 9 March, Barksdale AFB experienced several unauthorised drone incursions that varied in duration and number of drones. It also said base leadership issued a shelter-in-place order on the morning of 9 March, later lifted the same morning, and that operations continued while the incident remained under active federal investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span></span></span>
+The 2026 Barksdale drone incidents show why older UFO language can be misleading today. On 31 March 2026, Air Force Global Strike Command published a fact-check saying that, beginning Monday 9 March, Barksdale AFB experienced several unauthorised drone incursions that varied in duration and number of drones. It also said base leadership issued a shelter-in-place order on the morning of 9 March, later lifted the same morning, and that operations continued while the incident remained under active federal investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span></span></span>
 
-This is not a classic “UFO” case in the older saucer sense. The official terminology was drone or small unmanned aircraft system. Yet the public-facing ingredients are familiar: lights or objects over a sensitive base, initial uncertainty, restricted airspace, security concern, incomplete public information and rapid media amplification. ABC News reported, citing a confidential internal briefing, that between 9 and 15 March 2026 Barksdale Security Forces observed multiple waves of 12–15 drones over sensitive areas, including the flight line, with long-range links and resistance to jamming described in the document. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted</span></span></span>
+This is not a classic “UFO” case in the older saucer sense. The official terminology was drone or small unmanned aircraft system. Yet the public-facing ingredients are familiar: lights or objects over a sensitive base, initial uncertainty, restricted airspace, security concern, incomplete public information and rapid media amplification. ABC News reported, citing a confidential internal briefing, that between 9 and 15 March 2026 Barksdale Security Forces observed multiple waves of 12–15 drones over sensitive areas, including the flight line, with long-range links and resistance to jamming described in the document.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted</span></span></span>
 
-Local reporting from KSLA/WAFB carried the base’s statement that multiple unauthorised drones entered Barksdale airspace during the week of 9 March and that flying a drone over a military installation is a safety issue and a criminal offence under federal law. It also reported that the first 9 March sighting triggered a shelter-in-place order and that the FAA was contacted as part of the investigation. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wafb.com">[www.wafb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wafb.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PBS NewsHour later framed the incident as part of a wider concern about drone swarms over key U.S. military bases, noting that the Barksdale activity was being investigated by federal and local law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/deptula-dis-1774646710/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">News Hour &#124; Drone swarms over key U.S. military bases</span><span class="citation-popover-snippet">News Hour &#124; Drone swarms over key U.S. military bases</span></span></span>
+Local reporting from KSLA/WAFB carried the base’s statement that multiple unauthorised drones entered Barksdale airspace during the week of 9 March and that flying a drone over a military installation is a safety issue and a criminal offence under federal law. It also reported that the first 9 March sighting triggered a shelter-in-place order and that the FAA was contacted as part of the investigation. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wafb.com">[www.wafb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wafb.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PBS NewsHour later framed the incident as part of a wider concern about drone swarms over key U.S. military bases, noting that the Barksdale activity was being investigated by federal and local law enforcement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/deptula-dis-1774646710/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">News Hour &#124; Drone swarms over key U.S. military bases</span><span class="citation-popover-snippet">News Hour &#124; Drone swarms over key U.S. military bases</span></span></span>
 
 For readers trying to understand UFO history, the lesson is sharp. Some modern “mystery lights” near military bases may be neither alien craft nor misidentified stars. They may be unauthorised drones, some of them capable enough to create serious security problems. That makes the sightings more real in one sense, but less exotic in another.
 
@@ -325,7 +325,7 @@ For readers trying to understand UFO history, the lesson is sharp. Some modern �
 
 ## Restricted airspace is not a mystery amplifier by itself
 
-Barksdale has already warned the public that it is a no-drone zone. In an August 2024 release, the base said FAA and Barksdale policies prohibit small unmanned aircraft systems and model rockets within and around the base, because drones pose safety and security risks to national security, the mission and personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span> The FAA’s own B4UFLY service is designed to show recreational flyers where they can and cannot fly, and FAA national-security UAS restrictions are issued under 14 CFR § 99.7 special security instructions. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: udds-faa.opendata.arcgis.com">[2udds-faa.opendata.arcgis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">udds-faa.opendata.arcgis.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Barksdale has already warned the public that it is a no-drone zone. In an August 2024 release, the base said FAA and Barksdale policies prohibit small unmanned aircraft systems and model rockets within and around the base, because drones pose safety and security risks to national security, the mission and personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span> The FAA’s own B4UFLY service is designed to show recreational flyers where they can and cannot fly, and FAA national-security UAS restrictions are issued under 14 CFR § 99.7 special security instructions. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: udds-faa.opendata.arcgis.com">[2udds-faa.opendata.arcgis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">udds-faa.opendata.arcgis.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This regulatory context changes how Barksdale sightings should be read. A light over restricted airspace is not automatically more mysterious because the airspace is restricted. It may be a permitted military aircraft, an emergency response, a law-enforcement aircraft, a mislocated object outside the restricted zone, or an illegal drone. The restricted status raises the stakes, but it does not identify the object.
 
@@ -355,269 +355,269 @@ The 1952 lights show how quickly a repeated night-time observation can become a 
 For a Louisiana UFO history page, that is the central takeaway: Barksdale sightings should be treated as evidence of persistent aerial ambiguity around a major military installation, not as proof of alien visitation. The best cases deserve careful checking against base activity, weather records, aviation data and official files. The weaker cases belong in the record too, but as examples of how easily lights near a bomber base can become UFO lore when context is missing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Barksdale Lights UFOs or Base Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Barksdale Lights UFOs or Base Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains aviation and military-witness perspectives relevant to base-area sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains aviation and military-witness perspectives relevant to base-area sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to Blue Book-era reports around military facilities like Barksdale.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to Blue Book-era reports around military facilities like Barksdale.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how recurring light sightings are evaluated and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how recurring light sightings are evaluated and classified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers firsthand insight into military reporting and analysis processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers firsthand insight into military reporting and analysis processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barksdale-were-barksdale-lights-ufos-or-base-activity-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ For a Louisiana UFO history page, that is the central takeaway: Barksdale sighti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ For a Louisiana UFO history page, that is the central takeaway: Barksdale sighti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ For a Louisiana UFO history page, that is the central takeaway: Barksdale sighti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ For a Louisiana UFO history page, that is the central takeaway: Barksdale sighti
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -773,192 +773,192 @@ For a Louisiana UFO history page, that is the central takeaway: Barksdale sighti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=22792" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=22792</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=22792" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=22792</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=5195" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=5195</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=5195" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=5195</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=56526" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56526</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=56526" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56526</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wafb.com  
-   Link: <a href="https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/</a>  
+   Link:<a href="https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pbs.org  
    Title: News Hour | Drone swarms over key U.S. military bases  
-   Link: <a href="https://www.pbs.org/video/deptula-dis-1774646710/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/deptula-dis-1774646710/</a>  
+   Link:<a href="https://www.pbs.org/video/deptula-dis-1774646710/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/deptula-dis-1774646710/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/getting_started/b4ufly" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/b4ufly</a>  
+   Link:<a href="https://www.faa.gov/uas/getting_started/b4ufly" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/b4ufly</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: udds-faa.opendata.arcgis.com  
-   Link: <a href="https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about" target="_blank" rel="noopener noreferrer nofollow">https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about</a>  
+   Link:<a href="https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about" target="_blank" rel="noopener noreferrer nofollow">https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=58595" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58595</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=58595" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58595</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
    Title: establishes restrictions drone operations over additional military facilities  
-   Link: <a href="https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities</a>  
+   Link:<a href="https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
    Title: no drone zone  
-   Link: <a href="https://www.faa.gov/uas/resources/community_engagement/no_drone_zone" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/community_engagement/no_drone_zone</a>  
+   Link:<a href="https://www.faa.gov/uas/resources/community_engagement/no_drone_zone" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/community_engagement/no_drone_zone</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Blue Book Artifacts  
-   Link: <a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
+   Link:<a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ksla.com  
    Title: 2 barksdale b 52s deploy diego garcia support bomber task force mission  
-   Link: <a href="https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/</a>  
+   Link:<a href="https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bossierlibrary.org  
-   Link: <a href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow">https://www.bossierlibrary.org/node/29651</a>  
+   Link:<a href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow">https://www.bossierlibrary.org/node/29651</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theprojectbluebookarchive.org  
    Title: Project Blue Book Archive Untitled  
-   Link: <a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf</a>  
+   Link:<a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: barksdale.af.mil  
-   Link: <a href="https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/</a>  
+   Link:<a href="https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: barksdale.af.mil  
    Title: 2nd bomb wing history  
-   Link: <a href="https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/</a>  
+   Link:<a href="https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: afgsc.af.mil  
    Title: Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion  
-   Link: <a href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
+   Link:<a href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abcnews.com  
    Title: ABC News'Multiple waves' of unauthorized drones recently spotted  
-   Link: <a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
+   Link:<a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: barksdale.af.mil  
-   Link: <a href="https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/</a>  
+   Link:<a href="https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Barksdale Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/</a>  
+   Link:<a href="https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWHhzJ8kQXS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHhzJ8kQXS/</a>  
+   Link:<a href="https://www.instagram.com/p/DWHhzJ8kQXS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHhzJ8kQXS/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dronelife.com  
    Title: barksdale air force base drone incident  
-   Link: <a href="https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/</a>  
+   Link:<a href="https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: 2nd Bomb Wing  
-   Link: <a href="https://www.youtube.com/c/2ndBombWingOfficial/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/2ndBombWingOfficial/videos</a>  
+   Link:<a href="https://www.youtube.com/c/2ndBombWingOfficial/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/2ndBombWingOfficial/videos</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: x.com  
-   Link: <a href="https://x.com/JenGriffinFNC/status/2037506764875104410" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JenGriffinFNC/status/2037506764875104410</a>  
+   Link:<a href="https://x.com/JenGriffinFNC/status/2037506764875104410" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JenGriffinFNC/status/2037506764875104410</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: vetfriends.com  
-   Link: <a href="https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing</a>  
+   Link:<a href="https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Why the US government won't explain what's in our skies | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HXOfCmMOvzQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mysterious Drone Encounter at Barksdale Air Force Base...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HXOfCmMOvzQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mysterious Drone Encounter at Barksdale Air Force Base...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Inside the Mysterious Drone Encounter at Barksdale Air Force Base  
-   Link: <a href="https://www.youtube.com/watch?v=VXhY3YFDQKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXhY3YFDQKk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New details on drone that shut down Louisiana Air Force base...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VXhY3YFDQKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXhY3YFDQKk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New details on drone that shut down Louisiana Air Force base...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: New details on drone that shut down Louisiana Air Force base  
-   Link: <a href="https://www.youtube.com/watch?v=42fc2WNx1SY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=42fc2WNx1SY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=42fc2WNx1SY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=42fc2WNx1SY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force on Lockdown after UFO Flies into Airspace...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force on Lockdown after UFO Flies into Airspace...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/</a>  
+   Link:<a href="https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/unit/2DBWPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/2DBWPA</a>  
+   Link:<a href="https://www.dvidshub.net/unit/2DBWPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/2DBWPA</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/</a>  
+   Link:<a href="https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: historyinpieces.com  
-   Link: <a href="https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis" target="_blank" rel="noopener noreferrer nofollow">https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis</a>
+   Link:<a href="https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis" target="_blank" rel="noopener noreferrer nofollow">https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-oregon-reports-cultu/
 description: Focused pages that expand on Reports.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Oregon_07719a_oregon_reports_cultu_516a79
 parent_title: Reports
@@ -16,7 +16,7 @@ parent_permalink: /reports/
 
 # Explore Topics in Reports
 
-The following pages expand on the main **[Reports]({{ '/reports/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Reports]({{ '/reports/' | relative_url }})** page and cover its key branches in.
 
 - [Eugene lights]({{ '/eugene-lights/' | relative_url }})
 - [Reports to lore]({{ '/reports-to-lore/' | relative_url }})

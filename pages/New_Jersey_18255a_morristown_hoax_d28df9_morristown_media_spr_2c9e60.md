@@ -250,256 +250,256 @@ image: /assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_
 
 ## Introduction
 
-The [Morristown]({{ 'morristown/' | relative_url }}) UFO hoax became famous not because the lights were especially sophisticated, but because a local sighting rapidly turned into a regional and then national media story. In early 2009, reports of red lights over Morris County moved from 911 calls and neighbourhood conversations into television broadcasts, newspaper coverage, UFO websites and cable documentaries. By the time the hoax was exposed, many viewers had seen witness interviews, video clips and expert commentary that made the mystery appear more substantial than it really was. The case remains one of New Jersey’s clearest examples of how media attention can strengthen public certainty around a UFO claim before the underlying cause is known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
+The [Morristown]({{ 'morristown/' | relative_url }}) UFO hoax became famous not because the lights were especially sophisticated, but because a local sighting rapidly turned into a regional and then national media story. In early 2009, reports of red lights over Morris County moved from 911 calls and neighbourhood conversations into television broadcasts, newspaper coverage, UFO websites and cable documentaries. By the time the hoax was exposed, many viewers had seen witness interviews, video clips and expert commentary that made the mystery appear more substantial than it really was. The case remains one of New Jersey’s clearest examples of how media attention can strengthen public certainty around a UFO claim before the underlying cause is known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-1-dark.svg" | relative_url }}" alt="Media spread illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike many disputed UFO incidents, Morristown offers a rare before-and-after comparison. The public saw the mystery develop in real time, and later saw the perpetrators explain exactly how they created it. That makes the case valuable not simply as a hoax, but as a study in how modern UFO stories gain credibility through repetition, witness interviews and news exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+Unlike many disputed UFO incidents, Morristown offers a rare before-and-after comparison. The public saw the mystery develop in real time, and later saw the perpetrators explain exactly how they created it. That makes the case valuable not simply as a hoax, but as a study in how modern UFO stories gain credibility through repetition, witness interviews and news exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
 ## How the sightings reached police and newsrooms
 
-The first reports on 5 January 2009 began as ordinary public-safety calls. Hanover Township police received multiple 911 reports about unusual red lights in the sky. Nearby departments were contacted, and officials reached out to Morristown Airport because of concerns about possible aviation hazards. Controllers could see lights but could not immediately identify them, while radar reportedly failed to provide a clear explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
+The first reports on 5 January 2009 began as ordinary public-safety calls. Hanover Township police received multiple 911 reports about unusual red lights in the sky. Nearby departments were contacted, and officials reached out to Morristown Airport because of concerns about possible aviation hazards. Controllers could see lights but could not immediately identify them, while radar reportedly failed to provide a clear explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
 
-That uncertainty was important. A sighting does not need official confirmation to gain attention; it only needs enough ambiguity for authorities to say they do not yet know what they are seeing. Once police agencies, airport personnel and emergency dispatchers became part of the story, local journalists had a stronger reason to treat the event as news rather than a simple misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+That uncertainty was important. A sighting does not need official confirmation to gain attention; it only needs enough ambiguity for authorities to say they do not yet know what they are seeing. Once police agencies, airport personnel and emergency dispatchers became part of the story, local journalists had a stronger reason to treat the event as news rather than a simple misidentification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-The sightings also occurred repeatedly over several weeks. Instead of fading after one evening, the lights reappeared on multiple dates during January and February 2009. Each new appearance generated additional reports, allowing journalists to frame the story as an ongoing mystery rather than an isolated incident. Repetition helped create the impression of a persistent phenomenon affecting several Morris County communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+The sightings also occurred repeatedly over several weeks. Instead of fading after one evening, the lights reappeared on multiple dates during January and February 2009. Each new appearance generated additional reports, allowing journalists to frame the story as an ongoing mystery rather than an isolated incident. Repetition helped create the impression of a persistent phenomenon affecting several Morris County communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-As coverage spread, television stations began collecting eyewitness accounts and amateur video. National outlets followed local reporting, while UFO-focused websites and discussion forums amplified claims and speculation. The story travelled far beyond the people who had actually seen the lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+As coverage spread, television stations began collecting eyewitness accounts and amateur video. National outlets followed local reporting, while UFO-focused websites and discussion forums amplified claims and speculation. The story travelled far beyond the people who had actually seen the lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-cW8RsWNnKg" title="How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-cW8RsWNnKg" target="_blank" rel="noopener noreferrer">How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers</a></p><p class="youtube-embed-meta">Channel: VICE &middot; Views: 239.2K &middot; Uploaded: July 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-cW8RsWNnKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-cW8RsWNnKg">Open on YouTube</a></p></div></div></div>
 
 ## Why pilot testimony and video made the case feel stronger
 
-One reason the Morristown case gained traction was the presence of witnesses who appeared especially credible to audiences. News coverage frequently highlighted statements from Paul Hurley, a pilot who said the lights did not resemble ordinary aircraft. His family's video footage was shown on television broadcasts, including national cable coverage. Reporters often treated aviation experience as evidence that the sighting deserved special attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+One reason the Morristown case gained traction was the presence of witnesses who appeared especially credible to audiences. News coverage frequently highlighted statements from Paul Hurley, a pilot who said the lights did not resemble ordinary aircraft. His family's video footage was shown on television broadcasts, including national cable coverage. Reporters often treated aviation experience as evidence that the sighting deserved special attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-This reflects a common pattern in UFO reporting. A pilot's testimony can sound more authoritative than that of an average observer because pilots are assumed to know the appearance and behaviour of aircraft. Yet expertise in aviation does not automatically solve problems of distance, lighting, perspective or night-time perception. The Morristown hoax demonstrated that even experienced observers can be misled when viewing unfamiliar lights against a dark sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</span></span></span>
+This reflects a common pattern in UFO reporting. A pilot's testimony can sound more authoritative than that of an average observer because pilots are assumed to know the appearance and behaviour of aircraft. Yet expertise in aviation does not automatically solve problems of distance, lighting, perspective or night-time perception. The Morristown hoax demonstrated that even experienced observers can be misled when viewing unfamiliar lights against a dark sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</span></span></span>
 
-Video footage added another layer of apparent credibility. Viewers could see lights moving in formation and appearing to hover or change position. However, the recordings largely consisted of bright points against a black background, offering little reliable information about altitude, scale or speed. The footage preserved the mystery without necessarily providing enough information to identify the objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/morristown-ufo-hoaxers-tell-their-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">Universe Today Morristown UFO?</span><span class="citation-popover-snippet">Hoaxers Tell Their Story2 Apr 2009 —... new show, UFO Hunters. Well, yesterday two New Jersey residents Joe Rudy and Chris Russo reveale...</span></span></span>
+Video footage added another layer of apparent credibility. Viewers could see lights moving in formation and appearing to hover or change position. However, the recordings largely consisted of bright points against a black background, offering little reliable information about altitude, scale or speed. The footage preserved the mystery without necessarily providing enough information to identify the objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/morristown-ufo-hoaxers-tell-their-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">Universe Today Morristown UFO?</span><span class="citation-popover-snippet">Hoaxers Tell Their Story2 Apr 2009 —... new show, UFO Hunters. Well, yesterday two New Jersey residents Joe Rudy and Chris Russo reveale...</span></span></span>
 
-Media interviews often reinforced this impression. Witnesses described formations, unusual movement and behaviour that seemed inconsistent with aircraft. Some observers rejected explanations involving balloons or flares. Yet later revelations showed that many of the characteristics discussed on television were exactly the kinds of visual impressions produced by the hoax itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+Media interviews often reinforced this impression. Witnesses described formations, unusual movement and behaviour that seemed inconsistent with aircraft. Some observers rejected explanations involving balloons or flares. Yet later revelations showed that many of the characteristics discussed on television were exactly the kinds of visual impressions produced by the hoax itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-2-dark.svg" | relative_url }}" alt="Media spread illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How UFO commentary expanded the mystery
 
-The story did not remain inside local news. UFO organisations, specialist websites and television programmes began treating Morristown as a potentially significant case. The Mutual UFO Network, commonly known as MUFON, circulated information about the sightings, while online discussions speculated about possible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+The story did not remain inside local news. UFO organisations, specialist websites and television programmes began treating Morristown as a potentially significant case. The Mutual UFO Network, commonly known as MUFON, circulated information about the sightings, while online discussions speculated about possible explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-The most significant amplification came from entertainment-focused UFO programming. According to later accounts from the hoaxers themselves, the appearance of the case on the History Channel series *UFO Hunters* represented a turning point. Investigators on the programme rejected some conventional explanations and treated the lights as a serious mystery. The show's presentation gave the story a national audience and attached it to a broader culture of UFO investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</span></span></span>
+The most significant amplification came from entertainment-focused UFO programming. According to later accounts from the hoaxers themselves, the appearance of the case on the History Channel series *UFO Hunters* represented a turning point. Investigators on the programme rejected some conventional explanations and treated the lights as a serious mystery. The show's presentation gave the story a national audience and attached it to a broader culture of UFO investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</span></span></span>
 
-For viewers, this kind of coverage can create a feedback loop. News reports cite witnesses. UFO investigators cite the news reports. Later broadcasts cite both. As the same material circulates through multiple outlets, the story can begin to look more heavily documented than it actually is. Morristown became an example of how media repetition can be mistaken for independent confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</span></span></span>
+For viewers, this kind of coverage can create a feedback loop. News reports cite witnesses. UFO investigators cite the news reports. Later broadcasts cite both. As the same material circulates through multiple outlets, the story can begin to look more heavily documented than it actually is. Morristown became an example of how media repetition can be mistaken for independent confirmation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</span></span></span>
 
-The hoaxers later argued that this was precisely what they wanted to demonstrate. Their stated goal was not simply to fool witnesses but to test how confidently commentators and investigators would interpret limited evidence. Whether one accepts their motives or not, the resulting media cycle exposed weaknesses in how some UFO claims are evaluated in public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+The hoaxers later argued that this was precisely what they wanted to demonstrate. Their stated goal was not simply to fool witnesses but to test how confidently commentators and investigators would interpret limited evidence. Whether one accepts their motives or not, the resulting media cycle exposed weaknesses in how some UFO claims are evaluated in public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nq3cUSl1QEg" title="How We Staged the Morristown UFO Hoax, Part 1: The Setup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer">How We Staged the Morristown UFO Hoax, Part 1: The Setup</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 9.1K &middot; Uploaded: April 2011 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nq3cUSl1QEg">Open on YouTube</a></p></div></div></div>
 
 ## The reveal, penalties and lasting public reaction
 
-On 1 April 2009, Chris Russo and Joe Rudy publicly revealed that they had staged the sightings using flares attached to helium balloons. They released videos showing preparations, launches and the resulting public reaction. The confession transformed Morristown from an unresolved UFO case into a documented hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+On 1 April 2009, Chris Russo and Joe Rudy publicly revealed that they had staged the sightings using flares attached to helium balloons. They released videos showing preparations, launches and the resulting public reaction. The confession transformed Morristown from an unresolved UFO case into a documented hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-The revelation produced mixed responses. Some commentators praised the hoax as a demonstration of the limits of eyewitness testimony and the dangers of premature conclusions. Others criticised the pair for wasting police resources and creating unnecessary concern. Morris County prosecutors ultimately pursued disorderly-conduct charges, and both men received fines and community-service sentences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+The revelation produced mixed responses. Some commentators praised the hoax as a demonstration of the limits of eyewitness testimony and the dangers of premature conclusions. Others criticised the pair for wasting police resources and creating unnecessary concern. Morris County prosecutors ultimately pursued disorderly-conduct charges, and both men received fines and community-service sentences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-What makes the reaction especially revealing is that the confession did not completely end belief in the original mystery. Interviews years later showed that some people continued to doubt the explanation or suspected that the perpetrators were hiding a deeper truth. Even after a detailed admission and supporting evidence, parts of the UFO narrative survived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</span></span></span>
+What makes the reaction especially revealing is that the confession did not completely end belief in the original mystery. Interviews years later showed that some people continued to doubt the explanation or suspected that the perpetrators were hiding a deeper truth. Even after a detailed admission and supporting evidence, parts of the UFO narrative survived.<span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</span></span></span>
 
-That persistence highlights one of the most important lessons of the Morristown episode. Media amplification does not merely spread information; it can shape memories and expectations. Once a UFO story becomes widely known, later corrections often receive less attention than the original mystery. The dramatic images, witness interviews and speculation tend to remain more memorable than the eventual explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</span></span></span>
+That persistence highlights one of the most important lessons of the Morristown episode. Media amplification does not merely spread information; it can shape memories and expectations. Once a UFO story becomes widely known, later corrections often receive less attention than the original mystery. The dramatic images, witness interviews and speculation tend to remain more memorable than the eventual explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-3-dark.svg" | relative_url }}" alt="Media spread illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9_morristown_media_spr_2c9e60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Morristown case still matters in New Jersey UFO history
 
-Morristown occupies an unusual place in New Jersey's UFO record because the complete cycle is visible. Researchers can compare the original reports, the television coverage, the expert commentary and the later confession. Few UFO cases provide such a direct opportunity to examine how certainty develops around an unexplained event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+Morristown occupies an unusual place in New Jersey's UFO record because the complete cycle is visible. Researchers can compare the original reports, the television coverage, the expert commentary and the later confession. Few UFO cases provide such a direct opportunity to examine how certainty develops around an unexplained event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-The case does not prove that all UFO sightings are hoaxes or mistakes. What it does show is how quickly an ordinary stimulus can acquire extraordinary meaning when multiple forms of validation appear at once. Witnesses saw real lights. Police received real calls. Journalists recorded genuine reactions. Television programmes discussed the event seriously. Yet the underlying cause remained far simpler than many observers believed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+The case does not prove that all UFO sightings are hoaxes or mistakes. What it does show is how quickly an ordinary stimulus can acquire extraordinary meaning when multiple forms of validation appear at once. Witnesses saw real lights. Police received real calls. Journalists recorded genuine reactions. Television programmes discussed the event seriously. Yet the underlying cause remained far simpler than many observers believed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-For New Jersey's wider UFO history, Morristown serves as a cautionary example. It demonstrates that public confidence can grow faster than the evidence, and that media exposure can make a weakly understood event appear increasingly persuasive. Because the hoax was later documented in detail, it remains one of the state's most useful case studies in the relationship between eyewitness certainty, news coverage and the creation of modern UFO narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+For New Jersey's wider UFO history, Morristown serves as a cautionary example. It demonstrates that public confidence can grow faster than the evidence, and that media exposure can make a weakly understood event appear increasingly persuasive. Because the hoax was later documented in detail, it remains one of the state's most useful case studies in the relationship between eyewitness certainty, news coverage and the creation of modern UFO narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YOtr9yzUlRM" title="How We Staged the Morristown UFO Hoax, Part 2: The Launches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer">How We Staged the Morristown UFO Hoax, Part 2: The Launches</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 9.0K &middot; Uploaded: April 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YOtr9yzUlRM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a prank became a public UFO story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a prank became a public UFO story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly examines how UFO stories spread through culture and news coverage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how UFO stories spread through culture and news coverage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official uncertainty can amplify public fascination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official uncertainty can amplify public fascination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines contemporary UFO reporting and public narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contemporary UFO reporting and public narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how unusual narratives gain public traction and attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explores how unusual narratives gain public traction and attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-a-prank-became-a-public-ufo-story-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ For New Jersey's wider UFO history, Morristown serves as a cautionary example. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ For New Jersey's wider UFO history, Morristown serves as a cautionary example. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ For New Jersey's wider UFO history, Morristown serves as a cautionary example. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ For New Jersey's wider UFO history, Morristown serves as a cautionary example. I
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ For New Jersey's wider UFO history, Morristown serves as a cautionary example. I
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,102 +705,102 @@ For New Jersey's wider UFO history, Morristown serves as a cautionary example. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Morristown UFO hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsweek.com  
    Title: great ufo hoax 2009 221750  
-   Link: <a href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/great-ufo-hoax-2009-221750</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</p></details>
+   Link:<a href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/great-ufo-hoax-2009-221750</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great UFO Hoax of 20091 Apr 2009 — A lot of it featured Paul Hurley, a pilot, and his family, who appeared on several news br...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: patch.com  
    Title: morristown ufo hoax meet duo behind 2009 experiment  
-   Link: <a href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</p></details>
+   Link:<a href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: universetoday.com  
    Title: Universe Today Morristown UFO?  
-   Link: <a href="https://www.universetoday.com/articles/morristown-ufo-hoaxers-tell-their-story" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/morristown-ufo-hoaxers-tell-their-story</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hoaxers Tell Their Story2 Apr 2009 —... new show, UFO Hunters. Well, yesterday two New Jersey residents Joe Rudy and Chris Russo reveale...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/morristown-ufo-hoaxers-tell-their-story" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/morristown-ufo-hoaxers-tell-their-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hoaxers Tell Their Story2 Apr 2009 —... new show, UFO Hunters. Well, yesterday two New Jersey residents Joe Rudy and Chris Russo reveale...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: roswellufomuseum.com  
    Title: morristown ufo hoax  
-   Link: <a href="https://www.roswellufomuseum.com/post/morristown-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/post/morristown-ufo-hoax</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2020 — In January of 2009, the perpetrators blogged about and captured a video of UFO&#x27;s hovering above the skies of New Jersey. The...</p></details>
+   Link:<a href="https://www.roswellufomuseum.com/post/morristown-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/post/morristown-ufo-hoax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2020 — In January of 2009, the perpetrators blogged about and captured a video of UFO&#x27;s hovering above the skies of New Jersey. The...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kevinrandle.blogspot.com  
    Title: morristown ufo hoax  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Morristown UFO Hoax7 Apr 2009 — The second witness was presented by the news media by way of his 911 call to the...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Morristown UFO Hoax7 Apr 2009 — The second witness was presented by the news media by way of his 911 call to the...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO HoaxWell the first news report in the reaction video talks about a 911 call that said he saw the balloon...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO HoaxWell the first news report in the reaction video talks about a 911 call that said he saw the balloon...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: in 2009 morris county was struck by ufo mania that winter several residents repo  
-   Link: <a href="https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, Morris County was struck by UFO mania....On April Fools&#x27; Day, a pair of local men announced on Skeptic. com that the lights wer...</p></details>
+   Link:<a href="https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, Morris County was struck by UFO mania....On April Fools&#x27; Day, a pair of local men announced on Skeptic. com that the lights wer...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: centerforinquiry.org  
    Title: nj ufo hoax by skeptics proves point but raises questions  
-   Link: <a href="https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryNJ UFO Hoax by Skeptics Proves Point But Raises Questions2 Apr 2009 — Strange lights appeared over New Jersey&#x27;s Morris...</p></details>
+   Link:<a href="https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryNJ UFO Hoax by Skeptics Proves Point But Raises Questions2 Apr 2009 — Strange lights appeared over New Jersey&#x27;s Morris...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In early 2009, Joe Rudy and Chris Russo staged a UFO...In early 2009, Joe Rudy and Chris Russo staged a UFO hoax with flares tied to wea...</p></details>
+   Link:<a href="https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In early 2009, Joe Rudy and Chris Russo staged a UFO...In early 2009, Joe Rudy and Chris Russo staged a UFO hoax with flares tied to wea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: how we staged a ufo hoax fakes frauds scammers  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/v9zwsi/how_we_staged_a_ufo_hoax_fakes_frauds_scammers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v9zwsi/how_we_staged_a_ufo_hoax_fakes_frauds_scammers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged a UFO Hoax | Fakes, Frauds &amp; ScammersThe 2009 Morristown UFO hoax was a series of aerial events involving mysterious floati...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/v9zwsi/how_we_staged_a_ufo_hoax_fakes_frauds_scammers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v9zwsi/how_we_staged_a_ufo_hoax_fakes_frauds_scammers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged a UFO Hoax | Fakes, Frauds &amp; ScammersThe 2009 Morristown UFO hoax was a series of aerial events involving mysterious floati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: centerforinquiry.org  
    Title: debunkers launch ldquogreat ufo hoaxrdquo  
-   Link: <a href="https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online at skeptic.com, feature; accessed April 2, 2009.) Similar hoaxes are common...Read more...</p></details>
+   Link:<a href="https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online at skeptic.com, feature; accessed April 2, 2009.) Similar hoaxes are common...Read more...</p></details>
    Published: April 2, 2009  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 2: The Launches  
-   Link: <a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YOtr9yzUlRM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 3: The Reactions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YOtr9yzUlRM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 3: The Reactions...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 1: The Setup  
-   Link: <a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nq3cUSl1QEg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 2: The Launches...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nq3cUSl1QEg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 2: The Launches...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc11.com  
-   Link: <a href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/archive/6742325/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC11 Raleigh-DurhamPair charged in UFO hoax2 Apr 2009 — MORRISTOWN Two men have come forward to say they behind the lights that sparked...</p></details>
+   Link:<a href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/archive/6742325/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC11 Raleigh-DurhamPair charged in UFO hoax2 Apr 2009 — MORRISTOWN Two men have come forward to say they behind the lights that sparked...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: x.com  
-   Link: <a href="https://x.com/DaniLavelle/status/2054667217699246349" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DaniLavelle/status/2054667217699246349</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chasing Aliens: Faith and Conspiracy in the UFO HeartlandsFor my book I spoke to Chris Russo and Joe Rudy about their 2009 UFO hoax over...</p></details>
+   Link:<a href="https://x.com/DaniLavelle/status/2054667217699246349" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DaniLavelle/status/2054667217699246349</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chasing Aliens: Faith and Conspiracy in the UFO HeartlandsFor my book I spoke to Chris Russo and Joe Rudy about their 2009 UFO hoax over...</p></details>

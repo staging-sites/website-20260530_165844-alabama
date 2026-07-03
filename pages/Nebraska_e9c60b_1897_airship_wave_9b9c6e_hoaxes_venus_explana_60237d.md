@@ -250,18 +250,18 @@ image: /assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_expl
 
 ## Introduction
 
-The Nebraska airship reports of 1897 remain fascinating partly because they contain both apparently sincere witness testimony and clear signs of exaggeration, imitation and outright invention. For modern readers interested in Nebraska’s UFO history, that mixed record is not a side issue but one of the central facts of the case. Newspapers carried reports of mysterious lights, strange craft and unusual aerial manoeuvres, yet the same period also produced admitted hoaxes, practical jokes involving kites and lanterns, and repeated suggestions that observers were misidentifying bright planets such as Venus. Historians who have studied the wave closely generally treat it as a blend of genuine observations, public excitement and media amplification rather than a single unexplained phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+The Nebraska airship reports of 1897 remain fascinating partly because they contain both apparently sincere witness testimony and clear signs of exaggeration, imitation and outright invention. For modern readers interested in Nebraska’s UFO history, that mixed record is not a side issue but one of the central facts of the case. Newspapers carried reports of mysterious lights, strange craft and unusual aerial manoeuvres, yet the same period also produced admitted hoaxes, practical jokes involving kites and lanterns, and repeated suggestions that observers were misidentifying bright planets such as Venus. Historians who have studied the wave closely generally treat it as a blend of genuine observations, public excitement and media amplification rather than a single unexplained phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
 <img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-1-dark.svg" | relative_url }}" alt="Hoaxes illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That combination makes the Nebraska episode more valuable as a case study than if every report pointed in the same direction. The airship mystery shows how a large sighting wave can contain credible witnesses, doubtful testimony, honest mistakes and fabricated stories at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+That combination makes the Nebraska episode more valuable as a case study than if every report pointed in the same direction. The airship mystery shows how a large sighting wave can contain credible witnesses, doubtful testimony, honest mistakes and fabricated stories at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
 ## Known jokes, kites and fabricated sightings
 
-One reason historians approach the Nebraska airship reports cautiously is that newspapers themselves sometimes admitted that false sightings were circulating. History Nebraska notes that editors occasionally fabricated reports to draw attention to their communities and that practical jokers launched box kites to create apparent aerial mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+One reason historians approach the Nebraska airship reports cautiously is that newspapers themselves sometimes admitted that false sightings were circulating. History Nebraska notes that editors occasionally fabricated reports to draw attention to their communities and that practical jokers launched box kites to create apparent aerial mysteries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
-This was not an isolated feature of the wider 1896–97 [airship wave]({{ 'airship-wave-089275/' | relative_url }}). Across the United States, newspapers openly discussed hoaxes, and some reports were eventually traced to lanterns or lights attached to balloons and kites. Sceptics of the period argued that many witnesses were responding to rumours as much as to anything physically present in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+This was not an isolated feature of the wider 1896–97 [airship wave]({{ 'airship-wave-089275/' | relative_url }}). Across the United States, newspapers openly discussed hoaxes, and some reports were eventually traced to lanterns or lights attached to balloons and kites. Sceptics of the period argued that many witnesses were responding to rumours as much as to anything physically present in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-The newspaper environment encouraged imitation. Once a town had gained attention through an airship story, neighbouring communities had an incentive to produce their own account. Editors competed for readers, and unusual aerial stories were highly marketable. Roger L. Welsch’s study of Nebraska sightings emphasised that the reports unfolded through a newspaper culture that mixed reporting, entertainment and local boosterism. Even when witnesses were sincere, stories often became more elaborate as they were repeated from paper to paper. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+The newspaper environment encouraged imitation. Once a town had gained attention through an airship story, neighbouring communities had an incentive to produce their own account. Editors competed for readers, and unusual aerial stories were highly marketable. Roger L. Welsch’s study of Nebraska sightings emphasised that the reports unfolded through a newspaper culture that mixed reporting, entertainment and local boosterism. Even when witnesses were sincere, stories often became more elaborate as they were repeated from paper to paper.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
 Several features of the Nebraska reports fit this pattern:
 
@@ -270,7 +270,7 @@ Several features of the Nebraska reports fit this pattern:
 * Descriptions became increasingly detailed after the first widely publicised sightings.
 * Later reports often included mechanical details such as wings, rudders, engines and visible passengers.
 * Witnesses sometimes described conversations, laughter or voices coming from the craft.
-* Different towns repeated remarkably similar visual elements, suggesting that published reports may have shaped later expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+* Different towns repeated remarkably similar visual elements, suggesting that published reports may have shaped later expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
 </div>
 
@@ -278,18 +278,18 @@ This does not prove that every report was fabricated. It does show why historian
 
 ### The problem of newspaper folklore
 
-Nebraska already had a history of sensational newspaper stories before the 1897 airship flap. The state is also associated with earlier aerial mysteries that later proved to be hoaxes or highly questionable reports. One famous example was the 1884 Dundy County “celestial visitor” story, which was eventually acknowledged as a newspaper fabrication but continued to attract believers long afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+Nebraska already had a history of sensational newspaper stories before the 1897 airship flap. The state is also associated with earlier aerial mysteries that later proved to be hoaxes or highly questionable reports. One famous example was the 1884 Dundy County “celestial visitor” story, which was eventually acknowledged as a newspaper fabrication but continued to attract believers long afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
-That earlier case illustrates an important point for interpreting the 1897 wave. Once a dramatic story enters local folklore, later retellings often become detached from the original evidence. The same process affected some airship accounts. Sensational claims could survive for decades even when their origins were doubtful or openly humorous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+That earlier case illustrates an important point for interpreting the 1897 wave. Once a dramatic story enters local folklore, later retellings often become detached from the original evidence. The same process affected some airship accounts. Sensational claims could survive for decades even when their origins were doubtful or openly humorous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
 <img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-2-dark.svg" | relative_url }}" alt="Hoaxes illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Venus and other ordinary explanations
 
 Not every sceptical explanation involved deliberate fraud. Many contemporary observers believed that at least some airship reports resulted from misidentified astronomical objects.
 
-Venus was one of the most commonly suggested explanations. The planet is capable of appearing extremely bright in the evening or morning sky and can seem unusually striking to observers who are not expecting it. During periods of public excitement, a bright celestial object can acquire additional meaning because people are actively searching for something unusual. History Nebraska specifically lists Venus among the leading explanations proposed for the 1897 sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+Venus was one of the most commonly suggested explanations. The planet is capable of appearing extremely bright in the evening or morning sky and can seem unusually striking to observers who are not expecting it. During periods of public excitement, a bright celestial object can acquire additional meaning because people are actively searching for something unusual. History Nebraska specifically lists Venus among the leading explanations proposed for the 1897 sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
-Astronomers of the era also offered more general astronomical explanations. Reports from the wider airship wave record experts suggesting that witnesses were confusing planets and bright stars with mysterious craft. Venus, Jupiter and Mars were all mentioned by sceptics, while some astronomers argued that prominent stars were being transformed into airships by expectation and rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dundy County UFO hoax</span><span class="citation-popover-snippet">Dundy County UFO hoax</span></span></span>
+Astronomers of the era also offered more general astronomical explanations. Reports from the wider airship wave record experts suggesting that witnesses were confusing planets and bright stars with mysterious craft. Venus, Jupiter and Mars were all mentioned by sceptics, while some astronomers argued that prominent stars were being transformed into airships by expectation and rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dundy County UFO hoax</span><span class="citation-popover-snippet">Dundy County UFO hoax</span></span></span>
 
 The Venus explanation works best for a particular subset of reports:
 
@@ -302,7 +302,7 @@ The Venus explanation works best for a particular subset of reports:
 
 </div>
 
-It works much less well for claims involving close encounters, audible machinery or clearly described structured craft. That does not automatically make those reports genuine airships. It simply means that a single explanation cannot comfortably account for every story in the Nebraska wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+It works much less well for claims involving close encounters, audible machinery or clearly described structured craft. That does not automatically make those reports genuine airships. It simply means that a single explanation cannot comfortably account for every story in the Nebraska wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFkhH7t7e0w" title="UFO Sightings in 1897 Arkansas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer">UFO Sightings in 1897 Arkansas</a></p><p class="youtube-embed-meta">Channel: Old State House Museum &middot; Views: 4.6K &middot; Uploaded: November 2015 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFkhH7t7e0w">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +310,7 @@ It works much less well for claims involving close encounters, audible machinery
 
 Modern studies of UFO waves often note that public expectations can influence perception. The Nebraska airship reports offer an early example.
 
-After newspapers repeatedly described a craft with lights, wings and mechanical features, witnesses were primed to interpret unusual lights through that framework. Someone who initially noticed a bright object might begin looking for details that matched the widely circulated airship narrative. Welsch noted that many witnesses who had previously dismissed reports as stars or clouds changed their views after believing they had seen the phenomenon themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+After newspapers repeatedly described a craft with lights, wings and mechanical features, witnesses were primed to interpret unusual lights through that framework. Someone who initially noticed a bright object might begin looking for details that matched the widely circulated airship narrative. Welsch noted that many witnesses who had previously dismissed reports as stars or clouds changed their views after believing they had seen the phenomenon themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
 This dynamic helps explain why ordinary objects and sincere testimony can coexist. A witness may honestly describe what they believe they saw while still being influenced by prior stories, rumours and expectations.
 
@@ -318,278 +318,278 @@ This dynamic helps explain why ordinary objects and sincere testimony can coexis
 
 The strongest lesson from the Nebraska airship wave is not that it was entirely genuine or entirely fraudulent. The evidence points toward a more complicated picture.
 
-Some reports were probably jokes. Some were likely misidentifications of ordinary objects or celestial bodies. Some were exaggerated through repeated newspaper coverage. Yet there were also numerous witnesses who appear to have been sincere and who described experiences they could not readily explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span> State Historical Society <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[Nebraska State Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+Some reports were probably jokes. Some were likely misidentifications of ordinary objects or celestial bodies. Some were exaggerated through repeated newspaper coverage. Yet there were also numerous witnesses who appear to have been sincere and who described experiences they could not readily explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span> State Historical Society<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[Nebraska State Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
-For students of UFO history, this mixture is important because it resembles patterns seen in later sighting waves. The presence of hoaxes does not automatically invalidate every report. At the same time, the existence of apparently credible witnesses does not prove that extraordinary claims were correct. Nebraska’s 1897 episode demonstrates how rapidly stories can spread through media networks, how expectation can shape observation and how difficult it becomes to separate original events from later embellishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+For students of UFO history, this mixture is important because it resembles patterns seen in later sighting waves. The presence of hoaxes does not automatically invalidate every report. At the same time, the existence of apparently credible witnesses does not prove that extraordinary claims were correct. Nebraska’s 1897 episode demonstrates how rapidly stories can spread through media networks, how expectation can shape observation and how difficult it becomes to separate original events from later embellishment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
-The airship reports therefore remain compelling but unstable evidence. They are significant not because they establish the existence of a revolutionary aircraft or extraterrestrial craft, but because they reveal how unexplained sightings, public fascination, journalism and folklore can combine into a lasting mystery. More than a century later, the Nebraska wave is still discussed precisely because it sits at the intersection of genuine observation and manufactured legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
+The airship reports therefore remain compelling but unstable evidence. They are significant not because they establish the existence of a revolutionary aircraft or extraterrestrial craft, but because they reveal how unexplained sightings, public fascination, journalism and folklore can combine into a lasting mystery. More than a century later, the Nebraska wave is still discussed precisely because it sits at the intersection of genuine observation and manufactured legend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</span><span class="citation-popover-meta">Published: February 1897</span></span></span>
 
 <img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-3-dark.svg" | relative_url }}" alt="Hoaxes illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hoaxes_venus_explana_60237d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the airship mystery partly manufactured?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the airship mystery partly manufactured?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains historical airship-wave coverage and discussion of UFO folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains historical airship-wave coverage and discussion of UFO folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Abductions+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Abductions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UD5-AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Abductions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Abductions+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Abductions">UFOs and Abductions</a>
-        </h4>
-        <p class="fr-book-author">By David Michael Jacobs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Abductions+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Abductions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UD5-AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Abductions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Abductions+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Abductions">UFOs and Abductions</a>
+</h4>
+<p class="fr-book-author">By David Michael Jacobs</p>
         
-        <p class="fr-book-desc">Explores evidence evaluation and competing explanations in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Abductions+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evidence evaluation and competing explanations in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Abductions+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Airship Mystery">The Great Airship Mystery</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Cohen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Airship Mystery">The Great Airship Mystery</a>
+</h4>
+<p class="fr-book-author">By Daniel Cohen</p>
         
-        <p class="fr-book-desc">Directly covers the airship mystery, hoaxes, sightings and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the airship mystery, hoaxes, sightings and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Places the Nebraska airship stories within broader UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Nebraska airship stories within broader UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Abductions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Abductions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Airship Mystery</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Abductions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Abductions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Airship Mystery</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-was-the-airship-mystery-partly-manufactured-nebraska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ The airship reports therefore remain compelling but unstable evidence. They are 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ The airship reports therefore remain compelling but unstable evidence. They are 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ The airship reports therefore remain compelling but unstable evidence. They are 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ The airship reports therefore remain compelling but unstable evidence. They are 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -745,104 +745,104 @@ The airship reports therefore remain compelling but unstable evidence. They are 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.nebraska.gov  
-   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
+   Link:<a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
    Published: February 1897  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.nebraska.gov  
    Title: State Historical Society"Look!  
-   Link: <a href="https://history.nebraska.gov/look-up-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/look-up-in-the-air/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Up in the Air...! - Nebraska State Historical SocietyNewspaper editors mentioned the reports and also fabricated a few sightings to pub...</p></details>
+   Link:<a href="https://history.nebraska.gov/look-up-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/look-up-in-the-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Up in the Air...! - Nebraska State Historical SocietyNewspaper editors mentioned the reports and also fabricated a few sightings to pub...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.nebraska.gov  
-   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings, 1897,” Nebraska History 60 (Spring 1979): 92-113. 8. “Lime Jello with...Read more...</p></details>
+   Link:<a href="https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings, 1897,” Nebraska History 60 (Spring 1979): 92-113. 8. “Lime Jello with...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Dundy County UFO hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: in 1897 numerous reports of an unusual phenomenon in the sky described what some  
-   Link: <a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyIn 1897, numerous reports of an unusual phenomenon in the sky described what some thought to be a UFO. A...</p></details>
+   Link:<a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyIn 1897, numerous reports of an unusual phenomenon in the sky described what some thought to be a UFO. A...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accounts of &quot;Airship&quot; Sightings in Nebraska 125 Years AgoThe linked article, authored by Roger L. Welsh, was published the Nebraska Histo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accounts of &quot;Airship&quot; Sightings in Nebraska 125 Years AgoThe linked article, authored by Roger L. Welsh, was published the Nebraska Histo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: today in ufo history on todays date 129 years ago friday april 16 1897 during th  
-   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today in UFO History -- On today&#x27;s date 129 years...The 1896-1897 airship wave is probably the best investigated of all historical anoma...</p></details>
+   Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today in UFO History -- On today&#x27;s date 129 years...The 1896-1897 airship wave is probably the best investigated of all historical anoma...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-97 - ReadexSeptember 12, 2014 — For five months beginning in November 1896, newspapers across the country...</p></details>
+   Link:<a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-97 - ReadexSeptember 12, 2014 — For five months beginning in November 1896, newspapers across the country...</p></details>
    Published: September 12, 2014  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: historynet.com  
    Title: On April Fools' Day, as many as 10,000 reportedly  
-   Link: <a href="https://historynet.com/people-and-planes/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/people-and-planes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Airship Mystery of the 1800s - HistoryNetMarch 31, 2016 — In March and April 1897, thousands of Midwestern Americans reported s...</p></details>
+   Link:<a href="https://historynet.com/people-and-planes/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/people-and-planes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Airship Mystery of the 1800s - HistoryNetMarch 31, 2016 — In March and April 1897, thousands of Midwestern Americans reported s...</p></details>
    Published: March 31, 2016  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On today&#x27;s date 129 years ago, Monday, April 19, 1897, during the...April 19, 2026 — ☞Note: The Mystery Airship sightings of 1896-1897 p...</p></details>
+   Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On today&#x27;s date 129 years ago, Monday, April 19, 1897, during the...April 19, 2026 — ☞Note: The Mystery Airship sightings of 1896-1897 p...</p></details>
    Published: April 19, 1897  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart... Roger L. Welsch, “This Mysterious Light Called an Airship: Nebraska Saucer Sightings, 1897,” Nebraska History 60...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. Eberhart... Roger L. Welsch, “This Mysterious Light Called an Airship: Nebraska Saucer Sightings, 1897,” Nebraska History 60...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: planeandpilotmag.com  
    Title: ghost airships of the 1800s  
-   Link: <a href="https://planeandpilotmag.com/ghost-airships-of-the-1800s/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/ghost-airships-of-the-1800s/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane + Pilot MagazineApril 6, 2020 — A mysterious wave of ghost airship sightings took place in the U.S...</p></details>
+   Link:<a href="https://planeandpilotmag.com/ghost-airships-of-the-1800s/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/ghost-airships-of-the-1800s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane + Pilot MagazineApril 6, 2020 — A mysterious wave of ghost airship sightings took place in the U.S...</p></details>
    Published: April 6, 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: 0,, 2556,00  
-   Link: <a href="https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 1876 to May 1897 mysterious large airships...Most famous of the hoaxes were Alexander Hamilton&#x27;s March 1897 cow-napping by airs...</p></details>
+   Link:<a href="https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 1876 to May 1897 mysterious large airships...Most famous of the hoaxes were Alexander Hamilton&#x27;s March 1897 cow-napping by airs...</p></details>
    Published: November 1876  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
    Title: DXO2Xgf AK2Y  
-   Link: <a href="https://www.instagram.com/p/DXO2XgfAK2Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXO2XgfAK2Y/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These clippings are just two of many &quot;...The most famous of these unexplained objects is the Aurora Airship, which was said to have cras...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXO2XgfAK2Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXO2XgfAK2Y/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These clippings are just two of many &quot;...The most famous of these unexplained objects is the Aurora Airship, which was said to have cras...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nThHfFdS8b4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nThHfFdS8b4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World...</p></details>

@@ -250,14 +250,14 @@ image: /assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_
 
 ## Introduction
 
-During the late summer of **1973**, a burst of reports about strange lights in the night sky rippled through middle and south Georgia. While the best‑known cluster of this **UFO “flap”** involved police and fire crews in Macon on the night of **31 August**, other communities from Cordele and Dawson to **Albany** also entered the narrative. In Albany and its surrounding counties, a mix of police radio chatter, local press interest and multiple civilian eyewitnesses helped shape a *regional impression* that something unusual was happening overhead — or at least that residents and officials were seeing something worthy of discussion. The Albany reports are a useful case study in how local actors helped coordinate and amplify sightings during this wave without any clear federal investigation or definitive explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
+During the late summer of **1973**, a burst of reports about strange lights in the night sky rippled through middle and south Georgia. While the best‑known cluster of this **UFO “flap”** involved police and fire crews in Macon on the night of **31 August**, other communities from Cordele and Dawson to **Albany** also entered the narrative. In Albany and its surrounding counties, a mix of police radio chatter, local press interest and multiple civilian eyewitnesses helped shape a *regional impression* that something unusual was happening overhead — or at least that residents and officials were seeing something worthy of discussion. The Albany reports are a useful case study in how local actors helped coordinate and amplify sightings during this wave without any clear federal investigation or definitive explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-1-dark.svg" | relative_url }}" alt="Albany Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Police and press overlap during the sightings
 
-The 1973 Middle Georgia flap was not confined to a single moment or town but unfolded over a series of nights as reports broadcast across police and civil channels. On **31 August**, police in Terrell County — north‑west of Albany — were among the first to radio sightings shortly before midnight; within hours, calls had spread south and east to include Albany and other small towns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
+The 1973 Middle Georgia flap was not confined to a single moment or town but unfolded over a series of nights as reports broadcast across police and civil channels. On **31 August**, police in Terrell County — north‑west of Albany — were among the first to radio sightings shortly before midnight; within hours, calls had spread south and east to include Albany and other small towns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
 
-Local press quickly picked up on this network of reports. Georgia newspapers such as the *Tallahassee Democrat* carried dispatches listing sightings from **Albany, Dawson, Cordele, and Adel**, showing that multiple county and city authorities were hearing and relaying similar accounts over police networks. These reports described glowing, moving lights and sometimes reflected uncertainty about what was being seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
+Local press quickly picked up on this network of reports. Georgia newspapers such as the *Tallahassee Democrat* carried dispatches listing sightings from **Albany, Dawson, Cordele, and Adel**, showing that multiple county and city authorities were hearing and relaying similar accounts over police networks. These reports described glowing, moving lights and sometimes reflected uncertainty about what was being seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
 
 It was this mix of **official channels reporting to other officials** — via police radio or other dispatches — combined with newspaper coverage that created a sense of coordinated, regional observation rather than a series of isolated anecdotes. Rather than one community’s story growing in isolation, neighbouring towns were, in a sense, *hearing about the same thing* through civic channels and then reporting their own sightings back into that loop.
 
@@ -265,16 +265,16 @@ It was this mix of **official channels reporting to other officials** — via po
 
 ## Reports from neighbouring towns and the sense of a regional event
 
-Eyewitnesses in Albany were part of a wider geographic pattern that stretched across central and south Georgia on the nights when the flare was most active. Police and civilians in towns such as **Dawson, Adel, Cordele and Leary** all reported light phenomena in the night sky, often of various colours or with motion that witnesses found hard to categorise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
+Eyewitnesses in Albany were part of a wider geographic pattern that stretched across central and south Georgia on the nights when the flare was most active. Police and civilians in towns such as **Dawson, Adel, Cordele and Leary** all reported light phenomena in the night sky, often of various colours or with motion that witnesses found hard to categorise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
 
-For Albany residents and law enforcement, hearing similar reports from nearby towns seemed to *validate* their own observations. If a dispatcher in Dawson was reporting coloured lights and a sheriff’s deputy in Cordele was looking at something similar, then an Albany officer checking his own skies could interpret what he saw as part of a broader pattern — rather than a lone, inexplicable event. This geographical clustering was reinforced in press coverage that listed multiple towns under a shared heading of “UFOs over Georgia”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
+For Albany residents and law enforcement, hearing similar reports from nearby towns seemed to *validate* their own observations. If a dispatcher in Dawson was reporting coloured lights and a sheriff’s deputy in Cordele was looking at something similar, then an Albany officer checking his own skies could interpret what he saw as part of a broader pattern — rather than a lone, inexplicable event. This geographical clustering was reinforced in press coverage that listed multiple towns under a shared heading of “UFOs over Georgia”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
 
-Local news coverage in and around Albany didn’t constrain itself to just describing one set of lights; it often referenced that **reports from multiple jurisdictions** were coming in on the same police networks. In some wire‑service stories reprinted across Georgia newspapers, dispatchers noted that switchboards were ringing across a dozen counties and that both official and civilian sightings were mounting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
+Local news coverage in and around Albany didn’t constrain itself to just describing one set of lights; it often referenced that **reports from multiple jurisdictions** were coming in on the same police networks. In some wire‑service stories reprinted across Georgia newspapers, dispatchers noted that switchboards were ringing across a dozen counties and that both official and civilian sightings were mounting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-2-dark.svg" | relative_url }}" alt="Albany Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limitations of eyewitness testimony and lack of federal investigation
 
-Although Albany’s role in the [1973 flap]({{ '1973-flap/' | relative_url }}) illustrates a coordination of reports at the local level, the **quality and nature of the evidence** remained limited. None of the police departments involved presented scientific measurements or radar data, and attempts by military installations in the region — such as **Naval Air Station Albany** — to detect anything unusual were reported as unsuccessful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span> The NAS reported that no unidentified targets appeared on radar during the peak reporting hours, and there’s no public record of formal federal investigation into these specific sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
+Although Albany’s role in the [1973 flap]({{ '1973-flap/' | relative_url }}) illustrates a coordination of reports at the local level, the **quality and nature of the evidence** remained limited. None of the police departments involved presented scientific measurements or radar data, and attempts by military installations in the region — such as **Naval Air Station Albany** — to detect anything unusual were reported as unsuccessful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span> The NAS reported that no unidentified targets appeared on radar during the peak reporting hours, and there’s no public record of formal federal investigation into these specific sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
 
 Eyewitness testimony also carries inherent challenges. Colourful, moving lights can be reported differently by separate witnesses; atmospheric conditions, aircraft, satellites, or even distant celestial objects can be misidentified when expectations are influenced by reports coming in from neighbouring towns. The clustering of reports across middle and south Georgia may thus reflect *social and communicative dynamics* — police radio alerts, newswire stories, and word of mouth — as much as whatever was actually visible in the night sky.
 
@@ -286,203 +286,203 @@ Eyewitness testimony also carries inherent challenges. Colourful, moving lights 
 
 Within Georgia’s broader UFO history, the Albany and regional eyewitness coordination during the 1973 Middle Georgia flap highlights how **local officials, media and civilian witnesses interacted** to produce a regional narrative. It shows that:
 
-* Sightings were not limited to isolated individuals but entered civic channels via police and dispatchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
-* Press reporting connected communities, creating expectations and shared frames for interpreting ambiguous lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
-* Despite lively local and regional interest, there was no corresponding federal or military investigation that produced definitive conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
+* Sightings were not limited to isolated individuals but entered civic channels via police and dispatchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
+* Press reporting connected communities, creating expectations and shared frames for interpreting ambiguous lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
+* Despite lively local and regional interest, there was no corresponding federal or military investigation that produced definitive conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</span></span></span>
 
 As such, the Albany role in the 1973 flap is less about proving the existence of an unexplained craft and more about understanding how multiple communities *coordinated and reinforced* each other’s observations — a pattern repeated in other state and national sightings waves in the same period.
 
 <img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-3-dark.svg" | relative_url }}" alt="Albany Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_albany_regional_witn_1f9f48-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Albany Police and Witnesses Shaped Regional UFO Coverage. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Albany Police and Witnesses Shaped Regional UFO Coverage. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses multiple-witness reports and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses multiple-witness reports and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how authorities historically handled reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how authorities historically handled reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCCmAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCCmAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical examples of regional UFO flaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical examples of regional UFO flaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Relevant to media amplification and regional sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Relevant to media amplification and regional sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metropolitan Police Logo Embroidered Patch Sew Iron-on patch Heddlu police"><img src="https://i.ebayimg.com/images/g/48YAAOSwZGxf2kvB/s-l225.jpg" alt="Listing image for Metropolitan Police Logo Embroidered Patch Sew Iron-on patch Heddlu police" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">Metropolitan Police Logo Embroidered Patch Sew Iron-on patch Heddlu police</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metropolitan Police Logo Embroidered Patch Sew Iron-on patch Heddlu police"><img src="https://i.ebayimg.com/images/g/48YAAOSwZGxf2kvB/s-l225.jpg" alt="Listing image for Metropolitan Police Logo Embroidered Patch Sew Iron-on patch Heddlu police" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">Metropolitan Police Logo Embroidered Patch Sew Iron-on patch Heddlu police</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kent Police Tactical Firearms Unit - Unit Signifier - Morale Patch"><img src="https://i.ebayimg.com/images/g/WvQAAeSw9Z5qJd-g/s-l225.jpg" alt="Listing image for Kent Police Tactical Firearms Unit - Unit Signifier - Morale Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">Kent Police Tactical Firearms Unit - Unit Signifier - Morale Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kent Police Tactical Firearms Unit - Unit Signifier - Morale Patch"><img src="https://i.ebayimg.com/images/g/WvQAAeSw9Z5qJd-g/s-l225.jpg" alt="Listing image for Kent Police Tactical Firearms Unit - Unit Signifier - Morale Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">Kent Police Tactical Firearms Unit - Unit Signifier - Morale Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MESSAGE Famous Popular Embroidered Iron Sew On Patch message badge Biker Dress"><img src="https://i.ebayimg.com/images/g/NaEAAOSwkvhluOOK/s-l225.jpg" alt="Listing image for MESSAGE Famous Popular Embroidered Iron Sew On Patch message badge Biker Dress" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">MESSAGE Famous Popular Embroidered Iron Sew On Patch message badge Biker Dress</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MESSAGE Famous Popular Embroidered Iron Sew On Patch message badge Biker Dress"><img src="https://i.ebayimg.com/images/g/NaEAAOSwkvhluOOK/s-l225.jpg" alt="Listing image for MESSAGE Famous Popular Embroidered Iron Sew On Patch message badge Biker Dress" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">MESSAGE Famous Popular Embroidered Iron Sew On Patch message badge Biker Dress</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POLICE - large Patch/Badge Embroidered Hook + Loop Police Badge 24.5cm x 10cm"><img src="https://i.ebayimg.com/images/g/0WsAAeSwKUlpKGuw/s-l225.jpg" alt="Listing image for POLICE - large Patch/Badge Embroidered Hook + Loop Police Badge 24.5cm x 10cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">POLICE - large Patch/Badge Embroidered Hook + Loop Police Badge 24.5cm x 10cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POLICE - large Patch/Badge Embroidered Hook + Loop Police Badge 24.5cm x 10cm"><img src="https://i.ebayimg.com/images/g/0WsAAeSwKUlpKGuw/s-l225.jpg" alt="Listing image for POLICE - large Patch/Badge Embroidered Hook + Loop Police Badge 24.5cm x 10cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">POLICE - large Patch/Badge Embroidered Hook + Loop Police Badge 24.5cm x 10cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for police patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: police patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="police patch" data-ebay-reference="how-albany-police-and-witnesses-shaped-regional-ufo-coverage-police-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -498,7 +498,7 @@ As such, the Albany role in the 1973 flap is less about proving the existence of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -518,7 +518,7 @@ As such, the Albany role in the 1973 flap is less about proving the existence of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -550,7 +550,7 @@ As such, the Albany role in the 1973 flap is less about proving the existence of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -602,7 +602,7 @@ As such, the Albany role in the 1973 flap is less about proving the existence of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -647,7 +647,7 @@ As such, the Albany role in the 1973 flap is less about proving the existence of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -688,90 +688,90 @@ As such, the Albany role in the 1973 flap is less about proving the existence of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newspapers.com  
    Title: tallahassee democrat south georgia ufo 1  
-   Link: <a href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</p></details>
+   Link:<a href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: macon.com  
-   Link: <a href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229804369.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DO YOU BELIEVE? By Joe Kovac Jr. May 7, 2019 5:00 AM Editor’s note: This story is part of an occasional series about local...</p></details>
+   Link:<a href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229804369.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DO YOU BELIEVE? By Joe Kovac Jr. May 7, 2019 5:00 AM Editor’s note: This story is part of an occasional series about local...</p></details>
    Published: May 7, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: macon.com  
-   Link: <a href="https://www.macon.com/news/local/article229959549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229959549.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Macon cops, firefighters report seeing UFO (Video)3 May 2019 — In the wee hours of Aug. 31, 1973, UFO sightings were reported across the...</p></details>
+   Link:<a href="https://www.macon.com/news/local/article229959549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229959549.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Macon cops, firefighters report seeing UFO (Video)3 May 2019 — In the wee hours of Aug. 31, 1973, UFO sightings were reported across the...</p></details>
    Published: May 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</p></details>
+   Link:<a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAThe first reports were logged by police briefing&quot; had been conducted. in Terrell County...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: granger.com  
    Title: 0100399 ufo 1973 an ufo photographed at night in the state of georg image  
-   Link: <a href="https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html" target="_blank" rel="noopener noreferrer nofollow">https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An UFO photographed at night in the state of...In 1973, a mysterious UFO is captured in a nighttime photograph in the state of Georgia...</p></details>
+   Link:<a href="https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html" target="_blank" rel="noopener noreferrer nofollow">https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An UFO photographed at night in the state of...In 1973, a mysterious UFO is captured in a nighttime photograph in the state of Georgia...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thinkaboutitdocs.com  
    Title: A line of autos slowed down to observed the humanoid, but no  
-   Link: <a href="https://www.thinkaboutitdocs.com/1973-october-ufo-alien-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1973-october-ufo-alien-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1973: October UFO &amp; Alien SightingOctober 29, 2012 — * * * Date: October 18 1973 Location: Near Savannah Georgia Time: night Summary: A t...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1973-october-ufo-alien-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1973-october-ufo-alien-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1973: October UFO &amp; Alien SightingOctober 29, 2012 — * * * Date: October 18 1973 Location: Near Savannah Georgia Time: night Summary: A t...</p></details>
    Published: October 29, 2012  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.co.uk  
    Title: The Pascagoula Abduction: Did aliens kidnap two fishermen?  
-   Link: <a href="https://www.history.co.uk/articles/the-pascagoula-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-pascagoula-abduction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV ChannelImage: A flying saucer hovering over a forest THE PASCAGOULA ABDUCTION: DID ALIENS KIDNAP TWO FISHERMEN? IN 1973...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/the-pascagoula-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-pascagoula-abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV ChannelImage: A flying saucer hovering over a forest THE PASCAGOULA ABDUCTION: DID ALIENS KIDNAP TWO FISHERMEN? IN 1973...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nexusnewsfeed.com  
    Title: georgia ufo landing site considered from 1973 incident  
-   Link: <a href="https://nexusnewsfeed.com/article/unexplained/georgia-ufo-landing-site-considered-from-1973-incident/" target="_blank" rel="noopener noreferrer nofollow">https://nexusnewsfeed.com/article/unexplained/georgia-ufo-landing-site-considered-from-1973-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nexus NewsfeedJanuary 27, 2017 — GEORGIA UFO LANDING SITE CONSIDERED FROM 1973 INCIDENT A Georgia witness at Danielsville recalled an inc...</p></details>
+   Link:<a href="https://nexusnewsfeed.com/article/unexplained/georgia-ufo-landing-site-considered-from-1973-incident/" target="_blank" rel="noopener noreferrer nofollow">https://nexusnewsfeed.com/article/unexplained/georgia-ufo-landing-site-considered-from-1973-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nexus NewsfeedJanuary 27, 2017 — GEORGIA UFO LANDING SITE CONSIDERED FROM 1973 INCIDENT A Georgia witness at Danielsville recalled an inc...</p></details>
    Published: January 27, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/759093588/OceanofPDF-com-1973-A-TIME-OF-UFO-SIGHTINGS-Kevin-Randle" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/759093588/OceanofPDF-com-1973-A-TIME-OF-UFO-SIGHTINGS-Kevin-Randle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OceanofPDF - Com 1973 - A TIME OF UFO SIGHTINGS - Kevin Randle | PDF | Unidentified Flying ObjectTHE GEORGIA UFO FLAP However, before tho...</p></details>
+   Link:<a href="https://www.scribd.com/document/759093588/OceanofPDF-com-1973-A-TIME-OF-UFO-SIGHTINGS-Kevin-Randle" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/759093588/OceanofPDF-com-1973-A-TIME-OF-UFO-SIGHTINGS-Kevin-Randle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OceanofPDF - Com 1973 - A TIME OF UFO SIGHTINGS - Kevin Randle | PDF | Unidentified Flying ObjectTHE GEORGIA UFO FLAP However, before tho...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: when david mamet saw a ufowatch the episode here  
-   Link: <a href="https://www.facebook.com/clubrandompodcast/posts/when-david-mamet-saw-a-ufowatch-the-episode-here/707467262025337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/clubrandompodcast/posts/when-david-mamet-saw-a-ufowatch-the-episode-here/707467262025337/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When David Mamet saw a UFO Watch the episode here: https...ALBANY, GA. In 1948, a pilot&#x27;s sighting over Albany was... In 1973, a wave o...</p></details>
+   Link:<a href="https://www.facebook.com/clubrandompodcast/posts/when-david-mamet-saw-a-ufowatch-the-episode-here/707467262025337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/clubrandompodcast/posts/when-david-mamet-saw-a-ufowatch-the-episode-here/707467262025337/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When David Mamet saw a UFO Watch the episode here: https...ALBANY, GA. In 1948, a pilot&#x27;s sighting over Albany was... In 1973, a wave o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pararational.com  
    Title: The Legendary Falkville Metal Man Encounter  
-   Link: <a href="https://www.pararational.com/falkville-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/falkville-metal-man/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Image: falkville metal man THE LEGENDARY FALKVILLE METAL MAN ENCOUNTER * Aliens POLICE CHIEF JEFF GREENHAW OF FALKVILLE, AL W...</p></details>
+   Link:<a href="https://www.pararational.com/falkville-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/falkville-metal-man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image: falkville metal man THE LEGENDARY FALKVILLE METAL MAN ENCOUNTER * Aliens POLICE CHIEF JEFF GREENHAW OF FALKVILLE, AL W...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: the 1973 humanoid ufo wave a case study  
-   Link: <a href="https://www.ufoinsight.com/the-1973-humanoid-ufo-wave-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-1973-humanoid-ufo-wave-a-case-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Humanoid UFO Wave - UFO InsightDecember 14, 2019 — THE 1973 HUMANOID UFO WAVE By Marcus Lowth Image: Published Date December 14...</p></details>
+   Link:<a href="https://www.ufoinsight.com/the-1973-humanoid-ufo-wave-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-1973-humanoid-ufo-wave-a-case-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Humanoid UFO Wave - UFO InsightDecember 14, 2019 — THE 1973 HUMANOID UFO WAVE By Marcus Lowth Image: Published Date December 14...</p></details>
    Published: December 14, 2019  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gralienreport.com  
    Title: the coyne ufo incident of 1973  
-   Link: <a href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gralien ReportDecember 9, 2020 — THE COYNE UFO INCIDENT OF 1973 December 9, 2020December 28, 2020ImageMicah Hanks Image: Coyne UFO in...</p></details>
+   Link:<a href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gralien ReportDecember 9, 2020 — THE COYNE UFO INCIDENT OF 1973 December 9, 2020December 28, 2020ImageMicah Hanks Image: Coyne UFO in...</p></details>
    Published: December 9, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter UFO incidentJimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object whi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter UFO incidentJimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object whi...</p></details>

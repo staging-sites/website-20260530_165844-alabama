@@ -268,44 +268,44 @@ image: /assets/images/Colorado_d28817_san_luis_valley_snip_86b212-overview-socia
 
 ## Introduction
 
-The San Luis Valley became [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }})’s best-known UFO country because it combines three things that reinforce each other: a huge, dark, open sky; decades of reported odd lights and objects; and the enduring 1967 story of the mutilated horse usually called Snippy. The strongest evidence does not prove alien visitation. It shows something more historically interesting: a rural landscape where ordinary skywatching, ambiguous [sightings]({{ 'sightings/' | relative_url }}), livestock-death folklore, local tourism and national UFO culture have been woven into a durable Colorado legend. The valley’s reputation is therefore best read as a case family rather than a single case: some reports may be misidentified aircraft, planets, satellites, meteors, balloons or atmospheric effects; some remain too thinly documented to judge; and Snippy’s death became famous largely because press coverage and later retellings turned a grim animal case into a UFO landmark. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The San Luis Valley became [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }})’s best-known UFO country because it combines three things that reinforce each other: a huge, dark, open sky; decades of reported odd lights and objects; and the enduring 1967 story of the mutilated horse usually called Snippy. The strongest evidence does not prove alien visitation. It shows something more historically interesting: a rural landscape where ordinary skywatching, ambiguous [sightings]({{ 'sightings/' | relative_url }}), livestock-death folklore, local tourism and national UFO culture have been woven into a durable Colorado legend. The valley’s reputation is therefore best read as a case family rather than a single case: some reports may be misidentified aircraft, planets, satellites, meteors, balloons or atmospheric effects; some remain too thinly documented to judge; and Snippy’s death became famous largely because press coverage and later retellings turned a grim animal case into a UFO landmark.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-overview.webp" | relative_url }}" alt="Overview image for San Luis Valley" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the valley’s lights attract UFO interpretations
 
-The San Luis Valley is almost built for unusual-light stories. It is broad, high, sparsely populated, and ringed by mountains, giving observers long sightlines across a dark basin. Great Sand Dunes National Park and Preserve, on the valley’s eastern side, is certified as an International Dark Sky Park; the National Park Service points to its dry air, low light pollution and high elevation as reasons for the quality of its night sky. That does not make UFO reports false, but it does mean more people are looking up in conditions where faint objects, distant aircraft, satellites and astronomical phenomena are unusually visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span>
+The San Luis Valley is almost built for unusual-light stories. It is broad, high, sparsely populated, and ringed by mountains, giving observers long sightlines across a dark basin. Great Sand Dunes National Park and Preserve, on the valley’s eastern side, is certified as an International Dark Sky Park; the National Park Service points to its dry air, low light pollution and high elevation as reasons for the quality of its night sky. That does not make UFO reports false, but it does mean more people are looking up in conditions where faint objects, distant aircraft, satellites and astronomical phenomena are unusually visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span>
 
-The valley’s sky is also easy to misread. The National Park Service warns visitors that dark-sky viewing can be disorientating for people who rarely see the Milky Way, and notes that the galaxy’s appearance to the naked eye is much subtler than the colourful long-exposure photographs people often expect. That gap between expectation and perception matters for UFO history: an unfamiliar sky can make ordinary lights seem stranger, especially when people are already primed by local stories to watch for anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span>
+The valley’s sky is also easy to misread. The National Park Service warns visitors that dark-sky viewing can be disorientating for people who rarely see the Milky Way, and notes that the galaxy’s appearance to the naked eye is much subtler than the colourful long-exposure photographs people often expect. That gap between expectation and perception matters for UFO history: an unfamiliar sky can make ordinary lights seem stranger, especially when people are already primed by local stories to watch for anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span>
 
-This is why the San Luis Valley differs from a single dramatic sighting such as a pilot report or radar case. Its “UFO hotspot” status comes from accumulation. Reports of lights, orbs, cigar-shaped objects, hovering forms and moving constellations are repeated through visitor accounts, local media and the UFO [Watchtower]({{ 'watchtower/' | relative_url }}) north of Hooper. Colorado Public Radio reported in 2025 that the Watchtower kept a binder of 304 handwritten sighting accounts, including a described orb that moved with others across the sky. The binder is not a scientific database, but it shows how the place has become a living archive of witness interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why the San Luis Valley differs from a single dramatic sighting such as a pilot report or radar case. Its “UFO hotspot” status comes from accumulation. Reports of lights, orbs, cigar-shaped objects, hovering forms and moving constellations are repeated through visitor accounts, local media and the UFO [Watchtower]({{ 'watchtower/' | relative_url }}) north of Hooper. Colorado Public Radio reported in 2025 that the Watchtower kept a binder of 304 handwritten sighting accounts, including a described orb that moved with others across the sky. The binder is not a scientific database, but it shows how the place has become a living archive of witness interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-1-dark.svg" | relative_url }}" alt="San Luis Valley illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UFO Watchtower turned skywatching into a destination
 
-The UFO Watchtower is central to the modern San Luis Valley legend because it turned a scattered reputation into a place people could visit, camp, buy souvenirs and add their own sighting to the story. Judy Messoline opened the attraction north of Hooper in 2000 after hearing local UFO and livestock-mutilation stories; she later told Colorado Public Radio that the idea began as a joke and a way to earn tourist income rather than as a grand paranormal mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The UFO Watchtower is central to the modern San Luis Valley legend because it turned a scattered reputation into a place people could visit, camp, buy souvenirs and add their own sighting to the story. Judy Messoline opened the attraction north of Hooper in 2000 after hearing local UFO and livestock-mutilation stories; she later told Colorado Public Radio that the idea began as a joke and a way to earn tourist income rather than as a grand paranormal mission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That origin is important. The Watchtower shows how belief, humour and tourism can coexist. Visitors do not all have to be committed believers for the site to work. Some come for the kitsch, some for dark skies, some for the possibility of seeing something strange, and some because the valley’s folklore has become part of southern Colorado’s cultural geography. Visit Alamosa markets the site as a distinctive roadside attraction and links its appeal partly to the area’s broad, unfiltered night-sky view and proximity to Great Sand Dunes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/blog/great-sand-dunes-international-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That origin is important. The Watchtower shows how belief, humour and tourism can coexist. Visitors do not all have to be committed believers for the site to work. Some come for the kitsch, some for dark skies, some for the possibility of seeing something strange, and some because the valley’s folklore has become part of southern Colorado’s cultural geography. Visit Alamosa markets the site as a distinctive roadside attraction and links its appeal partly to the area’s broad, unfiltered night-sky view and proximity to Great Sand Dunes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/blog/great-sand-dunes-international-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Watchtower also demonstrates a feedback loop. A region becomes known for UFOs; tourists arrive expecting UFOs; more people watch the sky; more ambiguous observations are recorded; the archive of local strangeness grows. That does not mean every account is imagined. It means the setting affects what is noticed, remembered and reported. The valley’s power as UFO country comes as much from this social pattern as from any single unexplained light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Watchtower also demonstrates a feedback loop. A region becomes known for UFOs; tourists arrive expecting UFOs; more people watch the sky; more ambiguous observations are recorded; the archive of local strangeness grows. That does not mean every account is imagined. It means the setting affects what is noticed, remembered and reported. The valley’s power as UFO country comes as much from this social pattern as from any single unexplained light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eYxhMhhXo7Y" title="Mysterious Mutilations Plague This Colorado Ranch | Beyond Skinwalker Ranch (S1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eYxhMhhXo7Y" target="_blank" rel="noopener noreferrer">Mysterious Mutilations Plague This Colorado Ranch | Beyond Skinwalker Ranch (S1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 234.5K &middot; Uploaded: June 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eYxhMhhXo7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eYxhMhhXo7Y">Open on YouTube</a></p></div></div></div>
 
 ## Snippy and the cattle-mutilation narrative
 
-The valley’s most famous folklore anchor is the 1967 death of a horse near Alamosa. The animal is widely remembered as [Snippy]({{ 'snippy/' | relative_url }}), though later accounts say the mare was actually named Lady and that Snippy was her sire. The case entered national circulation after newspaper coverage described a disturbing carcass: flesh missing from the head and neck, little or no blood at the scene, strange odours, alleged marks nearby and speculation about aircraft or flying saucers. The story was vivid, gruesome and perfectly timed for a late-1960s UFO press environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutilation of &quot;Snippy&quot; the horse</span><span class="citation-popover-snippet">Mutilation of &quot;Snippy&quot; the horse</span></span></span>
+The valley’s most famous folklore anchor is the 1967 death of a horse near Alamosa. The animal is widely remembered as [Snippy]({{ 'snippy/' | relative_url }}), though later accounts say the mare was actually named Lady and that Snippy was her sire. The case entered national circulation after newspaper coverage described a disturbing carcass: flesh missing from the head and neck, little or no blood at the scene, strange odours, alleged marks nearby and speculation about aircraft or flying saucers. The story was vivid, gruesome and perfectly timed for a late-1960s UFO press environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutilation of &quot;Snippy&quot; the horse</span><span class="citation-popover-snippet">Mutilation of &quot;Snippy&quot; the horse</span></span></span>
 
-What makes Snippy important in Colorado UFO history is not that it is a strong alien case. It is that it helped connect livestock mutilation folklore with UFO speculation. Later cattle-mutilation waves in the 1970s and after were often interpreted through the same pattern: a dead animal in an unexpected condition, claims of surgical precision or missing blood, anxiety among ranchers, and a jump from “unexplained” to aliens, secret helicopters, cults or government experiments. Snippy became a template for that kind of story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cattle mutilation</span><span class="citation-popover-snippet">Cattle mutilation</span></span></span>
+What makes Snippy important in Colorado UFO history is not that it is a strong alien case. It is that it helped connect livestock mutilation folklore with UFO speculation. Later cattle-mutilation waves in the 1970s and after were often interpreted through the same pattern: a dead animal in an unexpected condition, claims of surgical precision or missing blood, anxiety among ranchers, and a jump from “unexplained” to aliens, secret helicopters, cults or government experiments. Snippy became a template for that kind of story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cattle mutilation</span><span class="citation-popover-snippet">Cattle mutilation</span></span></span>
 
-The case also shows why folklore can outlive investigation. The University of Colorado’s Condon Committee, the major Air Force-funded UFO study based in Colorado, examined the Snippy story and concluded that there was no evidence linking the horse’s death to abnormal causes. Other later accounts introduced more ordinary possibilities, including reports of small-calibre bullet wounds and claims that students had shot the horse. Denver Public Library’s retrospective treats the alien-mutilation interpretation as a lasting cultural legacy rather than as an established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The case also shows why folklore can outlive investigation. The University of Colorado’s Condon Committee, the major Air Force-funded UFO study based in Colorado, examined the Snippy story and concluded that there was no evidence linking the horse’s death to abnormal causes. Other later accounts introduced more ordinary possibilities, including reports of small-calibre bullet wounds and claims that students had shot the horse. Denver Public Library’s retrospective treats the alien-mutilation interpretation as a lasting cultural legacy rather than as an established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 For readers, the key distinction is this: the animal was real, the death was disturbing, and the press attention was genuine. The extraterrestrial interpretation is the weak part. Like many UFO-adjacent cases, Snippy grew powerful because the unresolved and the sensational were braided together before careful evidence could catch up.
 
 <img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-2-dark.svg" | relative_url }}" alt="San Luis Valley illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Snippy story travelled so far
 
-Snippy endured because it had all the ingredients of a memorable rural mystery. It involved a recognisable victim, an isolated ranch landscape, disturbing physical details, local witnesses, alleged anomalies and a simple headline-ready question: what could have done this? Once flying saucers were introduced as a possible answer, the story escaped ordinary livestock-death reporting and entered national UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Storage_area_network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Storage area network</span><span class="citation-popover-snippet">Storage area network</span></span></span>
+Snippy endured because it had all the ingredients of a memorable rural mystery. It involved a recognisable victim, an isolated ranch landscape, disturbing physical details, local witnesses, alleged anomalies and a simple headline-ready question: what could have done this? Once flying saucers were introduced as a possible answer, the story escaped ordinary livestock-death reporting and entered national UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Storage_area_network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Storage area network</span><span class="citation-popover-snippet">Storage area network</span></span></span>
 
-The valley setting made the story even stickier. A strange death in an ordinary suburb might become a crime story or a veterinary puzzle. A strange death in a high desert basin already associated with lights in the sky could become a sign of something larger. Later tourism then kept the story visible. Snippy’s skeleton eventually became part of the UFO Watchtower’s attraction, giving visitors a physical relic that connected the 1967 case to the modern skywatching site. Colorado Public Radio reported that Messoline added the skeleton to the Watchtower collection in 2021, and later coverage treated it as one of the attraction’s best-known artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The valley setting made the story even stickier. A strange death in an ordinary suburb might become a crime story or a veterinary puzzle. A strange death in a high desert basin already associated with lights in the sky could become a sign of something larger. Later tourism then kept the story visible. Snippy’s skeleton eventually became part of the UFO Watchtower’s attraction, giving visitors a physical relic that connected the 1967 case to the modern skywatching site. Colorado Public Radio reported that Messoline added the skeleton to the Watchtower collection in 2021, and later coverage treated it as one of the attraction’s best-known artefacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The relic matters because folklore often needs objects. Newspaper clippings fade; eyewitnesses die; explanations become contested. A skeleton in a roadside museum gives the story a focal point. It does not prove the alien claim, but it keeps the question emotionally available to visitors: something happened here, and people are still arguing about what it means.
 
@@ -313,16 +313,16 @@ The relic matters because folklore often needs objects. Newspaper clippings fade
 
 ## Likely misperceptions and stronger doubts
 
-The San Luis Valley’s UFO reputation should be treated with respect but not credulity. The most plausible explanations for many light reports are mundane: aircraft seen at distance, satellites crossing unusually dark skies, bright planets near the horizon, meteors, drones, balloons, vehicle lights on far roads, military or civilian aviation, and atmospheric effects magnified by long sightlines. The valley’s very darkness, which makes it beautiful, also makes unfamiliar lights more noticeable and harder to judge for size, distance and speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span>
+The San Luis Valley’s UFO reputation should be treated with respect but not credulity. The most plausible explanations for many light reports are mundane: aircraft seen at distance, satellites crossing unusually dark skies, bright planets near the horizon, meteors, drones, balloons, vehicle lights on far roads, military or civilian aviation, and atmospheric effects magnified by long sightlines. The valley’s very darkness, which makes it beautiful, also makes unfamiliar lights more noticeable and harder to judge for size, distance and speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Experience the Night</span><span class="citation-popover-snippet">National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</span></span></span>
 
-Livestock-mutilation claims face a different evidential problem. Dead animals can be altered quickly by scavengers, insects, dehydration, bloating and decomposition, producing injuries that may look clean or selective to non-specialists. Skeptical Inquirer’s review of cattle-mutilation scares notes that veterinary and law-enforcement explanations in earlier waves often pointed to natural death followed by ordinary predation and decay, while paranormal interpretations flourished when local authorities and residents lacked an immediate answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2023/05/wooooooo-old-bovines-in-new-twaddle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Wooooooo: Old Bovines in New Twaddle &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Wooooooo: Old Bovines in New Twaddle &#124; Skeptical Inquirer</span></span></span>
+Livestock-mutilation claims face a different evidential problem. Dead animals can be altered quickly by scavengers, insects, dehydration, bloating and decomposition, producing injuries that may look clean or selective to non-specialists. Skeptical Inquirer’s review of cattle-mutilation scares notes that veterinary and law-enforcement explanations in earlier waves often pointed to natural death followed by ordinary predation and decay, while paranormal interpretations flourished when local authorities and residents lacked an immediate answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2023/05/wooooooo-old-bovines-in-new-twaddle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Wooooooo: Old Bovines in New Twaddle &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Wooooooo: Old Bovines in New Twaddle &#124; Skeptical Inquirer</span></span></span>
 
 That does not mean every local observer is careless. Ranchers, skywatchers and long-term residents may know their landscape well. But UFO history depends on evidence quality, not just witness sincerity. For the San Luis Valley, many claims are anecdotal, retrospective, tourist-recorded or filtered through paranormal storytelling. They are culturally valuable and sometimes puzzling, but they rarely provide the kind of time-stamped, multi-sensor, independently corroborated data needed to move a case from “interesting report” to “strong unresolved evidence”.
 
 <img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-3-dark.svg" | relative_url }}" alt="San Luis Valley illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the San Luis Valley adds to Colorado UFO history
 
-The San Luis Valley gives Colorado UFO history its strongest folklore landscape. The Condon Committee gives the state national official significance; the San Luis Valley gives it a local mythology that people can still visit, photograph and participate in. Those two strands are connected but different. The Condon story is about institutions asking whether UFO evidence justified continued government study. The valley story is about how UFO meaning is made on the ground: through ranch talk, newspaper headlines, dark skies, tourist stops, witness notebooks and a famous horse skeleton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
+The San Luis Valley gives Colorado UFO history its strongest folklore landscape. The Condon Committee gives the state national official significance; the San Luis Valley gives it a local mythology that people can still visit, photograph and participate in. Those two strands are connected but different. The Condon story is about institutions asking whether UFO evidence justified continued government study. The valley story is about how UFO meaning is made on the ground: through ranch talk, newspaper headlines, dark skies, tourist stops, witness notebooks and a famous horse skeleton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
 Its value is therefore historical and comparative. Snippy shows how a grim animal case could become part of the broader cattle-mutilation narrative. The Watchtower shows how a rural UFO reputation can become sustainable tourism. The night-sky setting shows why a place can produce many sincere reports without producing equally strong proof. Together, they make the San Luis Valley a useful case study in the difference between an unexplained event, a repeated local claim and a durable public legend.
 
@@ -331,194 +331,194 @@ The balanced reading is neither dismissal nor belief. The valley deserves its pl
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XDUmOhPjUpQ" title="Colorado&#x27;s Strangest Mysteries Just Got Weirder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer">Colorado&#x27;s Strangest Mysteries Just Got Weirder</a></p><p class="youtube-embed-meta">Channel: Independence Overland &middot; Views: 82.0K &middot; Uploaded: April 2026 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XDUmOhPjUpQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the San Luis Valley Became UFO Country. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the San Luis Valley Became UFO Country. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places local sighting stories within wider UFO reporting culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local sighting stories within wider UFO reporting culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Combines UFO reports, livestock mysteries, folklore, and regional legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Combines UFO reports, livestock mysteries, folklore, and regional legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps explain perception, folklore, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps explain perception, folklore, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores folklore, belief, and recurring mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores folklore, belief, and recurring mystery narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-san-luis-valley-became-ufo-country-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-san-luis-valley-became-ufo-country-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ The balanced reading is neither dismissal nor belief. The valley deserves its pl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ The balanced reading is neither dismissal nor belief. The valley deserves its pl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ The balanced reading is neither dismissal nor belief. The valley deserves its pl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ The balanced reading is neither dismissal nor belief. The valley deserves its pl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ The balanced reading is neither dismissal nor belief. The valley deserves its pl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,159 +724,159 @@ The balanced reading is neither dismissal nor belief. The valley deserves its pl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: alamosa.org  
-   Link: <a href="https://www.alamosa.org/blog/great-sand-dunes-international-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/blog/great-sand-dunes-international-dark-sky-park/</a>  
+   Link:<a href="https://www.alamosa.org/blog/great-sand-dunes-international-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/blog/great-sand-dunes-international-dark-sky-park/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: alamosa.org  
-   Link: <a href="https://www.alamosa.org/listing/ufo-watchtower/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/listing/ufo-watchtower/</a>  
+   Link:<a href="https://www.alamosa.org/listing/ufo-watchtower/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/listing/ufo-watchtower/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mutilation of "Snippy" the horse  
-   Link: <a href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Cattle mutilation  
-   Link: <a href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cattle_mutilation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cattle_mutilation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/1967" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1967</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1967" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1967</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Storage area network  
-   Link: <a href="https://en.wikipedia.org/wiki/Storage_area_network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Storage_area_network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Storage_area_network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Storage_area_network</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO Watchtower  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Watchtower</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Watchtower</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Dark sky preserve  
-   Link: <a href="https://en.wikipedia.org/wiki/Dark-sky_preserve" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dark-sky_preserve</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dark-sky_preserve" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dark-sky_preserve</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ia801409.us.archive.org  
    Title: Adams,Thomas,Choppers and the Choppers 1 text  
-   Link: <a href="https://ia801409.us.archive.org/33/items/adams-thomas-choppers-and-the-choppers-1/Adams%2CThomas%2CChoppers%20and%20the%20Choppers-1_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801409.us.archive.org/33/items/adams-thomas-choppers-and-the-choppers-1/Adams%2CThomas%2CChoppers%20and%20the%20Choppers-1_text.pdf</a>  
+   Link:<a href="https://ia801409.us.archive.org/33/items/adams-thomas-choppers-and-the-choppers-1/Adams%2CThomas%2CChoppers%20and%20the%20Choppers-1_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801409.us.archive.org/33/items/adams-thomas-choppers-and-the-choppers-1/Adams%2CThomas%2CChoppers%20and%20the%20Choppers-1_text.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.com  
    Title: cattle mutilation 1970s skinwalker ranch ufos  
-   Link: <a href="https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos</a>  
+   Link:<a href="https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.com  
    Title: ufos aliens animal human mutilation lovette cunningham  
-   Link: <a href="https://www.history.com/articles/ufos-aliens-animal-human-mutilation-lovette-cunningham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-aliens-animal-human-mutilation-lovette-cunningham</a>  
+   Link:<a href="https://www.history.com/articles/ufos-aliens-animal-human-mutilation-lovette-cunningham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-aliens-animal-human-mutilation-lovette-cunningham</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: colorado.com  
-   Link: <a href="https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower</a>  
+   Link:<a href="https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Alien Sightings Fuel San Luis Valley Mystery! | Destination Earth  
-   Link: <a href="https://www.youtube.com/watch?v=p3VLxatcyV4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p3VLxatcyV4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower | San Luis Valley, Colorado...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=p3VLxatcyV4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p3VLxatcyV4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower | San Luis Valley, Colorado...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFO Watchtower | San Luis Valley, Colorado  
-   Link: <a href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x05mwnUFrWg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower - Snippy the Alien Abducted Horse - Alligators in Colorado - Great Sand Dunes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x05mwnUFrWg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower - Snippy the Alien Abducted Horse - Alligators in Colorado - Great Sand Dunes...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Watchtower  
-   Link: <a href="https://www.youtube.com/watch?v=U-l3cKx0K1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U-l3cKx0K1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING Animal Mutilation! Was It Aliens?! (Unexplained Mystery!)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U-l3cKx0K1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U-l3cKx0K1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING Animal Mutilation! Was It Aliens?! (Unexplained Mystery!)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nps.gov  
    Title: National Park Service Experience the Night  
-   Link: <a href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/grsa/planyourvisit/experiencethenight.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceExperience the Night - Great Sand Dunes National Park &amp; Preserve (U.S. National Park Service)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cpr.org  
-   Link: <a href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/</a>  
+   Link:<a href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Wooooooo: Old Bovines in New Twaddle | Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/2023/05/wooooooo-old-bovines-in-new-twaddle/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/05/wooooooo-old-bovines-in-new-twaddle/</a>  
+   Link:<a href="https://skepticalinquirer.org/2023/05/wooooooo-old-bovines-in-new-twaddle/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/05/wooooooo-old-bovines-in-new-twaddle/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO</a>  
+   Link:<a href="https://vault.fbi.gov/UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: skepticalinquirer.org  
    Title: csicon 2023 and the ideology problem  
-   Link: <a href="https://skepticalinquirer.org/exclusive/csicon-2023-and-the-ideology-problem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/csicon-2023-and-the-ideology-problem/</a>  
+   Link:<a href="https://skepticalinquirer.org/exclusive/csicon-2023-and-the-ideology-problem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/csicon-2023-and-the-ideology-problem/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/volume/no-2-vol-50/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/volume/no-2-vol-50/</a>  
+   Link:<a href="https://skepticalinquirer.org/volume/no-2-vol-50/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/volume/no-2-vol-50/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: history.denverlibrary.org  
    Title: ufos and horse called snippy  
-   Link: <a href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — The Trinidad Time Independent newspaper covered a rash of local cattle m...</p></details>
+   Link:<a href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — The Trinidad Time Independent newspaper covered a rash of local cattle m...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/media/video/view.htm?id=ECBDCD16-BF92-4DEC-8266-C7EDE677F365" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/media/video/view.htm?id=ECBDCD16-BF92-4DEC-8266-C7EDE677F365</a>  
+   Link:<a href="https://www.nps.gov/media/video/view.htm?id=ECBDCD16-BF92-4DEC-8266-C7EDE677F365" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/media/video/view.htm?id=ECBDCD16-BF92-4DEC-8266-C7EDE677F365</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Colorado's Strangest Mysteries Just Got Weirder  
-   Link: <a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDUmOhPjUpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Sightings Fuel San Luis Valley Mystery! | Destination Earth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDUmOhPjUpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Sightings Fuel San Luis Valley Mystery! | Destination Earth...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: coloradolifemagazine.com  
-   Link: <a href="https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOop68smV0h0FuLuh83kFnlnC4Cjdo0swiEiHFQ0bGN7OvrpPuCtP" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOop68smV0h0FuLuh83kFnlnC4Cjdo0swiEiHFQ0bGN7OvrpPuCtP</a>  
+   Link:<a href="https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOop68smV0h0FuLuh83kFnlnC4Cjdo0swiEiHFQ0bGN7OvrpPuCtP" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOop68smV0h0FuLuh83kFnlnC4Cjdo0swiEiHFQ0bGN7OvrpPuCtP</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations</a>  
+   Link:<a href="https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/greatsanddunesnpp/posts/internationaldarkskyweek-with-a-combination-of-dry-air-high-elevation-and-distan/1085343250302775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greatsanddunesnpp/posts/internationaldarkskyweek-with-a-combination-of-dry-air-high-elevation-and-distan/1085343250302775/</a>  
+   Link:<a href="https://www.facebook.com/greatsanddunesnpp/posts/internationaldarkskyweek-with-a-combination-of-dry-air-high-elevation-and-distan/1085343250302775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greatsanddunesnpp/posts/internationaldarkskyweek-with-a-combination-of-dry-air-high-elevation-and-distan/1085343250302775/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LoveOffTheGrid/comments/1fn7sy8/i_grew_up_in_the_san_luis_valley_ama/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LoveOffTheGrid/comments/1fn7sy8/i_grew_up_in_the_san_luis_valley_ama/</a>  
+   Link:<a href="https://www.reddit.com/r/LoveOffTheGrid/comments/1fn7sy8/i_grew_up_in_the_san_luis_valley_ama/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LoveOffTheGrid/comments/1fn7sy8/i_grew_up_in_the_san_luis_valley_ama/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: audible.com  
-   Link: <a href="https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOop-pVRYX7287eWZqOnLngTq8cXx0_CkRjQYOupDZWL0-HpUR-nX" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOop-pVRYX7287eWZqOnLngTq8cXx0_CkRjQYOupDZWL0-HpUR-nX</a>  
+   Link:<a href="https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOop-pVRYX7287eWZqOnLngTq8cXx0_CkRjQYOupDZWL0-HpUR-nX" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOop-pVRYX7287eWZqOnLngTq8cXx0_CkRjQYOupDZWL0-HpUR-nX</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: audible.com  
-   Link: <a href="https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOoqWR_WtsUtCiLKBwhG2vEFPnZthsQEoIP9S8iVagJuG_ESc4aro" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOoqWR_WtsUtCiLKBwhG2vEFPnZthsQEoIP9S8iVagJuG_ESc4aro</a>
+   Link:<a href="https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOoqWR_WtsUtCiLKBwhG2vEFPnZthsQEoIP9S8iVagJuG_ESc4aro" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOoqWR_WtsUtCiLKBwhG2vEFPnZthsQEoIP9S8iVagJuG_ESc4aro</a>

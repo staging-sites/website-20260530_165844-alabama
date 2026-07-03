@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-index/
 description: Focused pages that expand on What Makes Idaho a Key UFO Hotspot?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Idaho_18334c
 parent_title: What Makes Idaho a Key UFO Hotspot?
@@ -16,7 +16,7 @@ parent_permalink: /what-makes-idaho-a-key-ufo-hotspot/
 
 # Explore Topics in What Makes Idaho a Key UFO Hotspot?
 
-The following pages expand on the main **[What Makes Idaho a Key UFO Hotspot?]({{ '/what-makes-idaho-a-key-ufo-hotspot/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Makes Idaho a Key UFO Hotspot?]({{ '/what-makes-idaho-a-key-ufo-hotspot/' | relative_url }})** page and cover its key branches in.
 
 - [Emmett Sighting]({{ '/emmett-sighting/' | relative_url }})
 - [Kenneth Arnold]({{ '/kenneth-arnold/' | relative_url }})

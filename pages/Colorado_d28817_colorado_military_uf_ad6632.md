@@ -268,31 +268,31 @@ image: /assets/images/Colorado_d28817_colorado_military_uf_ad6632-overview-socia
 
 ## Introduction
 
-[Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }})’s unique defence geography has long shaped both official air‑space monitoring and the public’s imagination about unidentified aerial phenomena. The state is home to several major military installations — most notably in the Colorado Springs area — that have tracked and controlled air traffic, radar signatures and space objects for decades. Those facilities generate intense civil and enthusiast attention when unusual lights or contacts occur in nearby skies. While proximity to a military base doesn’t in itself prove anything extraordinary, it does help explain why some [sightings]({{ 'sightings/' | relative_url }}) become linked to rumours of UFOs — and why scrutiny, explanation, and misinterpretation intertwine in local lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.norad.mil/Newsroom/Fact-Sheets/Article-View/Article/578775/cheyenne-mountain-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[NORAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-snippet">Cheyenne Mountain Complex &gt; North American Aerospace Defense Command &gt; Article ViewApril 26, 2013...</span><span class="citation-popover-meta">Published: April 26, 2013</span></span></span>
+[Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }})’s unique defence geography has long shaped both official air‑space monitoring and the public’s imagination about unidentified aerial phenomena. The state is home to several major military installations — most notably in the Colorado Springs area — that have tracked and controlled air traffic, radar signatures and space objects for decades. Those facilities generate intense civil and enthusiast attention when unusual lights or contacts occur in nearby skies. While proximity to a military base doesn’t in itself prove anything extraordinary, it does help explain why some [sightings]({{ 'sightings/' | relative_url }}) become linked to rumours of UFOs — and why scrutiny, explanation, and misinterpretation intertwine in local lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.norad.mil/Newsroom/Fact-Sheets/Article-View/Article/578775/cheyenne-mountain-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[NORAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-snippet">Cheyenne Mountain Complex &gt; North American Aerospace Defense Command &gt; Article ViewApril 26, 2013...</span><span class="citation-popover-meta">Published: April 26, 2013</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-overview.webp" | relative_url }}" alt="Overview image for Military Sites" loading="eager" decoding="sync" fetchpriority="high">
 ## Military Geography and Why Rumours Cluster
 
-Colorado Springs and its surroundings host several defence facilities whose missions involve identifying aerial and spaceborne objects. The joint US–Canada aerospace early‑warning organisation North American Aerospace Defense Command (NORAD) has its primary headquarters at Peterson Space Force Base, which coordinates aerospace warning and control across North America. Nearby, deep within [Cheyenne Mountain]({{ 'cheyenne-mountain/' | relative_url }}), lies the Cheyenne Mountain Space Force Station — a hardened underground command centre originally built in the 1960s to survive a nuclear attack and host NORAD operations during the Cold War. Although many day‑to‑day functions moved to Peterson and back over the decades, Cheyenne Mountain remains a strategic and symbolic installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Peterson_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Peterson Space Force Base</span><span class="citation-popover-snippet">Peterson Space Force Base</span></span></span>
+Colorado Springs and its surroundings host several defence facilities whose missions involve identifying aerial and spaceborne objects. The joint US–Canada aerospace early‑warning organisation North American Aerospace Defense Command (NORAD) has its primary headquarters at Peterson Space Force Base, which coordinates aerospace warning and control across North America. Nearby, deep within [Cheyenne Mountain]({{ 'cheyenne-mountain/' | relative_url }}), lies the Cheyenne Mountain Space Force Station — a hardened underground command centre originally built in the 1960s to survive a nuclear attack and host NORAD operations during the Cold War. Although many day‑to‑day functions moved to Peterson and back over the decades, Cheyenne Mountain remains a strategic and symbolic installation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Peterson_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Peterson Space Force Base</span><span class="citation-popover-snippet">Peterson Space Force Base</span></span></span>
 
-Other bases, including the US Air Force Academy and Army installations such as Fort Carson, contribute to a dense cluster of military infrastructure in the region. This concentration means that radar, air‑traffic reporting, flares, training flights and deep‑space tracking sometimes create unusual visual effects for ground observers. The military’s very purpose — to scan skies for incoming threats — also leads people to associate any unknown light or radar contact in the vicinity with those secured facilities rather than more mundane explanations like satellites or aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalclarity.org/what-military-bases-are-in-colorado-springs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalclarity.org">[LegalClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalclarity.org</span><span class="citation-popover-title">Legal Clarity Colorado Springs Military Bases: Army, Space Force &amp; Air Force</span><span class="citation-popover-snippet">Colorado Springs Military Bases: Army, Space Force &amp; Air Force - LegalClarityApril 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
+Other bases, including the US Air Force Academy and Army installations such as Fort Carson, contribute to a dense cluster of military infrastructure in the region. This concentration means that radar, air‑traffic reporting, flares, training flights and deep‑space tracking sometimes create unusual visual effects for ground observers. The military’s very purpose — to scan skies for incoming threats — also leads people to associate any unknown light or radar contact in the vicinity with those secured facilities rather than more mundane explanations like satellites or aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalclarity.org/what-military-bases-are-in-colorado-springs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalclarity.org">[LegalClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalclarity.org</span><span class="citation-popover-title">Legal Clarity Colorado Springs Military Bases: Army, Space Force &amp; Air Force</span><span class="citation-popover-snippet">Colorado Springs Military Bases: Army, Space Force &amp; Air Force - LegalClarityApril 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-1-dark.svg" | relative_url }}" alt="Military Sites illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Notable Sightings and Military Context
 
 ### Radar Claims and Historical Rumours
 
-A long‑standing thread in Colorado UFO lore concerns supposed radar contacts and “unknowns” seen from inside NORAD’s radar network during the Cold War. One report filed with the National UFO Reporting Center (NUFORC) recounts an Army radar operator’s claimed sightings in 1970 of multiple contacts moving at high speeds across North American airspace. These purported radar plots were said to outpace interceptor aircraft, an account that has circulated among enthusiasts despite a lack of corroborating official documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25777August 20, 2023 — THREE FLIGHTS OF FOUR CONTACTS ON RADAR IN 1970 AS SEEN AT NORAD, CHEYENNE MOUNTAIN. I W...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+A long‑standing thread in Colorado UFO lore concerns supposed radar contacts and “unknowns” seen from inside NORAD’s radar network during the Cold War. One report filed with the National UFO Reporting Center (NUFORC) recounts an Army radar operator’s claimed sightings in 1970 of multiple contacts moving at high speeds across North American airspace. These purported radar plots were said to outpace interceptor aircraft, an account that has circulated among enthusiasts despite a lack of corroborating official documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25777August 20, 2023 — THREE FLIGHTS OF FOUR CONTACTS ON RADAR IN 1970 AS SEEN AT NORAD, CHEYENNE MOUNTAIN. I W...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
-Another series of NUFORC reports from Colorado Springs include eyewitness claims of spheres or orbs seen moving or changing position in the sky — in some narratives implicitly tied to nearby military airspace. These sightings date across several decades and often stress proximity to bases such as NORAD or the Air Force Academy. While intriguing to some, these reports lack independent verification and often rely on singular witness testimony without clarification from radar data or military sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=31937" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 31937October 7, 2003...</span><span class="citation-popover-meta">Published: October 7, 2003</span></span></span>
+Another series of NUFORC reports from Colorado Springs include eyewitness claims of spheres or orbs seen moving or changing position in the sky — in some narratives implicitly tied to nearby military airspace. These sightings date across several decades and often stress proximity to bases such as NORAD or the Air Force Academy. While intriguing to some, these reports lack independent verification and often rely on singular witness testimony without clarification from radar data or military sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=31937" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 31937October 7, 2003...</span><span class="citation-popover-meta">Published: October 7, 2003</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t_3xafB4RyQ" title="UFO Hunters: UFOs Seen in Colorado (Season 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t_3xafB4RyQ" target="_blank" rel="noopener noreferrer">UFO Hunters: UFOs Seen in Colorado (Season 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 92.8K &middot; Uploaded: October 2019 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t_3xafB4RyQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t_3xafB4RyQ">Open on YouTube</a></p></div></div></div>
 
 ### Recent Sightings and Local Explanations
 
-In more recent years, local news coverage of strange lights above Colorado Springs has tended to emphasise conventional explanations tied to military activities. For example, a 2023 incident of “glowing balls” seen over the Fort Carson area was explained by base officials as pyrotechnic flares used in training exercises — a common source of confusion in reports of UFOs near bases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denvergazette.com">[Denver Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denvergazette.com</span><span class="citation-popover-snippet">Denver GazetteStrange lights spotted above Colorado Springs – here&#x27;s what they were - Denver GazetteApril 7, 2023...</span><span class="citation-popover-meta">Published: April 7, 2023</span></span></span>
+In more recent years, local news coverage of strange lights above Colorado Springs has tended to emphasise conventional explanations tied to military activities. For example, a 2023 incident of “glowing balls” seen over the Fort Carson area was explained by base officials as pyrotechnic flares used in training exercises — a common source of confusion in reports of UFOs near bases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denvergazette.com">[Denver Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denvergazette.com</span><span class="citation-popover-snippet">Denver GazetteStrange lights spotted above Colorado Springs – here&#x27;s what they were - Denver GazetteApril 7, 2023...</span><span class="citation-popover-meta">Published: April 7, 2023</span></span></span>
 
-Similarly, numerous social‑media posts and forum threads from residents close to military installations describe lights, spheres or rapid movements above Cheyenne Mountain or Peterson AFB. These accounts often assume a military link, yet independent assessments frequently point to atmospheric reflections, aircraft lights, unmanned aerial vehicles, or even birds and satellites as more plausible explanations when scrutinised carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13ujhhx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Unidentified objects over NORAD</span><span class="citation-popover-snippet">Unidentified objects over NORAD.May 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Similarly, numerous social‑media posts and forum threads from residents close to military installations describe lights, spheres or rapid movements above Cheyenne Mountain or Peterson AFB. These accounts often assume a military link, yet independent assessments frequently point to atmospheric reflections, aircraft lights, unmanned aerial vehicles, or even birds and satellites as more plausible explanations when scrutinised carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13ujhhx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Unidentified objects over NORAD</span><span class="citation-popover-snippet">Unidentified objects over NORAD.May 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-2-dark.svg" | relative_url }}" alt="Military Sites illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Military Proximity Doesn’t Equal Mystery
@@ -302,9 +302,9 @@ There are a few reasons military sites attract UFO speculation in Colorado:
 * **High Surveillance Activity:** Facilities like NORAD and Peterson are designed to detect and track aircraft and space objects. Their radar systems sometimes generate ambiguous signals that may be misinterpreted by lay observers.
 * **Training and Testing Flights:** Military training involves flares, night sorties, unmanned systems and classified exercises that can produce unfamiliar light patterns observable from nearby towns.
 * **Cultural Framing:** The presence of secretive bases — especially one built inside a mountain — feeds popular narratives about hidden technologies and unidentified craft, irrespective of the evidence.
-* **Misdirection and Misidentification:** As the Pentagon’s own historical record shows, classified activities and even deliberate secrecy around testing can inadvertently generate rumours about UFOs elsewhere in the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">The Wall Street JournalThe Pentagon Disinformation That Fueled America&#x27;s UFO...6 Jun 2025 — U.S. military fabricated evidence of alien t...</span></span></span>
+* **Misdirection and Misidentification:** As the Pentagon’s own historical record shows, classified activities and even deliberate secrecy around testing can inadvertently generate rumours about UFOs elsewhere in the country.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">The Wall Street JournalThe Pentagon Disinformation That Fueled America&#x27;s UFO...6 Jun 2025 — U.S. military fabricated evidence of alien t...</span></span></span>
 
-Importantly, most documented sightings in areas near Colorado’s military infrastructure have been explained upon further investigation as natural or human‑made phenomena rather than unknown technologies. The military itself sometimes issues clarifications — for instance, NORAD denied tracking any persistent anomalies during reports of cluster sightings in the Breckenridge area, emphasising that investigations did not reveal unidentified incursions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inquisitr.com/ufo-military-tracking-unidentified-flying-objects-in-colorado" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inquisitr.com">[inquisitr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inquisitr.com</span><span class="citation-popover-title">UF O: Military Tracking Unidentified Flying Objects In Colorado</span><span class="citation-popover-snippet">UFO: Military Tracking Unidentified Flying Objects In Colorado - Inquisitr NewsOctober 6, 2014...</span><span class="citation-popover-meta">Published: October 6, 2014</span></span></span>
+Importantly, most documented sightings in areas near Colorado’s military infrastructure have been explained upon further investigation as natural or human‑made phenomena rather than unknown technologies. The military itself sometimes issues clarifications — for instance, NORAD denied tracking any persistent anomalies during reports of cluster sightings in the Breckenridge area, emphasising that investigations did not reveal unidentified incursions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inquisitr.com/ufo-military-tracking-unidentified-flying-objects-in-colorado" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inquisitr.com">[inquisitr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inquisitr.com</span><span class="citation-popover-title">UF O: Military Tracking Unidentified Flying Objects In Colorado</span><span class="citation-popover-snippet">UFO: Military Tracking Unidentified Flying Objects In Colorado - Inquisitr NewsOctober 6, 2014...</span><span class="citation-popover-meta">Published: October 6, 2014</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KE8zAJgFKCA" title="Why Cheyenne Mountain is Totally Forbidden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KE8zAJgFKCA" target="_blank" rel="noopener noreferrer">Why Cheyenne Mountain is Totally Forbidden</a></p><p class="youtube-embed-meta">Channel: IT&#x27;S HISTORY &middot; Views: 299.6K &middot; Uploaded: September 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KE8zAJgFKCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KE8zAJgFKCA">Open on YouTube</a></p></div></div></div>
 
@@ -312,199 +312,199 @@ Importantly, most documented sightings in areas near Colorado’s military infra
 
 ## What This Means for UFO Histories in Colorado
 
-Colorado’s military sites are a structural backdrop to many sightings and reports — not definitive proof of extraterrestrial visitation. Their advanced surveillance capabilities and training operations make unusual aerial sightings more likely to be noticed and reported. That doesn’t automatically validate the extraordinary explanations that some narratives attach to them, but it does help explain why such rumours persist and why the state features so frequently in UFO discussions. By understanding the defence context — what bases do, how they track airspace, and how public interpretations arise — readers can better separate credible observation from speculative interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[nationalgeographic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">ufo alien spacecraft investigation timeline</span><span class="citation-popover-snippet">What we know from decades of UFO government...6 Jul 2023 — These include lights, objects, and unexplained radar readings reported by mil...</span></span></span>
+Colorado’s military sites are a structural backdrop to many sightings and reports — not definitive proof of extraterrestrial visitation. Their advanced surveillance capabilities and training operations make unusual aerial sightings more likely to be noticed and reported. That doesn’t automatically validate the extraordinary explanations that some narratives attach to them, but it does help explain why such rumours persist and why the state features so frequently in UFO discussions. By understanding the defence context — what bases do, how they track airspace, and how public interpretations arise — readers can better separate credible observation from speculative interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[nationalgeographic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">ufo alien spacecraft investigation timeline</span><span class="citation-popover-snippet">What we know from decades of UFO government...6 Jul 2023 — These include lights, objects, and unexplained radar readings reported by mil...</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-3-dark.svg" | relative_url }}" alt="Military Sites illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Colorado UFO Reports Meet Military Airspace. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Colorado UFO Reports Meet Military Airspace. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Connects military reporting systems with UAP concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects military reporting systems with UAP concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Demonstrates how secret programs create UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how secret programs create UFO speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military and official-source UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military and official-source UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains military aviation technology and secrecy relevant to sightings near bases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains military aviation technology and secrecy relevant to sightings near bases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF 660th Radar Squadron NORAD Patch S-12"><img src="https://i.ebayimg.com/images/g/TfEAAOSwZKBZE-mY/s-l225.jpg" alt="Listing image for USAF 660th Radar Squadron NORAD Patch S-12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">USAF 660th Radar Squadron NORAD Patch S-12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF 660th Radar Squadron NORAD Patch S-12"><img src="https://i.ebayimg.com/images/g/TfEAAOSwZKBZE-mY/s-l225.jpg" alt="Listing image for USAF 660th Radar Squadron NORAD Patch S-12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">USAF 660th Radar Squadron NORAD Patch S-12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch"><img src="https://i.ebayimg.com/images/g/QdwAAOSwPCdndKHo/s-l225.jpg" alt="Listing image for Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch"><img src="https://i.ebayimg.com/images/g/QdwAAOSwPCdndKHo/s-l225.jpg" alt="Listing image for Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF ENT AIR FORCE BASE ADC HQ1951-76 NORAD 1957-63 PATCH (AFK) COLORADO"><img src="https://i.ebayimg.com/images/g/n~IAAeSwlD9pskCz/s-l225.jpg" alt="Listing image for USAF ENT AIR FORCE BASE ADC HQ1951-76 NORAD 1957-63 PATCH (AFK) COLORADO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">USAF ENT AIR FORCE BASE ADC HQ1951-76 NORAD 1957-63 PATCH (AFK) COLORADO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF ENT AIR FORCE BASE ADC HQ1951-76 NORAD 1957-63 PATCH (AFK) COLORADO"><img src="https://i.ebayimg.com/images/g/n~IAAeSwlD9pskCz/s-l225.jpg" alt="Listing image for USAF ENT AIR FORCE BASE ADC HQ1951-76 NORAD 1957-63 PATCH (AFK) COLORADO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">USAF ENT AIR FORCE BASE ADC HQ1951-76 NORAD 1957-63 PATCH (AFK) COLORADO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NORAD USNORTHCOM USSTRATCOM North American Aerospace Defense Command Patch"><img src="https://i.ebayimg.com/images/g/ZPsAAeSwz3ZpjzOx/s-l225.jpg" alt="Listing image for NORAD USNORTHCOM USSTRATCOM North American Aerospace Defense Command Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">NORAD USNORTHCOM USSTRATCOM North American Aerospace Defense Command Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NORAD USNORTHCOM USSTRATCOM North American Aerospace Defense Command Patch"><img src="https://i.ebayimg.com/images/g/ZPsAAeSwz3ZpjzOx/s-l225.jpg" alt="Listing image for NORAD USNORTHCOM USSTRATCOM North American Aerospace Defense Command Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">NORAD USNORTHCOM USSTRATCOM North American Aerospace Defense Command Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for norad patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: norad patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=norad+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-colorado-ufo-reports-meet-military-airspace-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="norad patch" data-ebay-reference="when-colorado-ufo-reports-meet-military-airspace-norad-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ Colorado’s military sites are a structural backdrop to many sightings and repo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ Colorado’s military sites are a structural backdrop to many sightings and repo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ Colorado’s military sites are a structural backdrop to many sightings and repo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ Colorado’s military sites are a structural backdrop to many sightings and repo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ Colorado’s military sites are a structural backdrop to many sightings and repo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,151 +710,151 @@ Colorado’s military sites are a structural backdrop to many sightings and repo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/Newsroom/Fact-Sheets/Article-View/Article/578775/cheyenne-mountain-complex/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Fact-Sheets/Article-View/Article/578775/cheyenne-mountain-complex/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne Mountain Complex &gt; North American Aerospace Defense Command &gt; Article ViewApril 26, 2013...</p></details>
+   Link:<a href="https://www.norad.mil/Newsroom/Fact-Sheets/Article-View/Article/578775/cheyenne-mountain-complex/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Fact-Sheets/Article-View/Article/578775/cheyenne-mountain-complex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne Mountain Complex &gt; North American Aerospace Defense Command &gt; Article ViewApril 26, 2013...</p></details>
    Published: April 26, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Peterson Space Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Peterson_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peterson_Space_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Peterson_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peterson_Space_Force_Base</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Cheyenne Mountain Space Force Station  
-   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Space_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne_Mountain_Space_Force_Station</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Space_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne_Mountain_Space_Force_Station</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: legalclarity.org  
    Title: Legal Clarity Colorado Springs Military Bases: Army, Space Force & Air Force  
-   Link: <a href="https://legalclarity.org/what-military-bases-are-in-colorado-springs/" target="_blank" rel="noopener noreferrer nofollow">https://legalclarity.org/what-military-bases-are-in-colorado-springs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Springs Military Bases: Army, Space Force &amp; Air Force - LegalClarityApril 5, 2026...</p></details>
+   Link:<a href="https://legalclarity.org/what-military-bases-are-in-colorado-springs/" target="_blank" rel="noopener noreferrer nofollow">https://legalclarity.org/what-military-bases-are-in-colorado-springs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Springs Military Bases: Army, Space Force &amp; Air Force - LegalClarityApril 5, 2026...</p></details>
    Published: April 5, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25777</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25777August 20, 2023 — THREE FLIGHTS OF FOUR CONTACTS ON RADAR IN 1970 AS SEEN AT NORAD, CHEYENNE MOUNTAIN. I W...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25777</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25777August 20, 2023 — THREE FLIGHTS OF FOUR CONTACTS ON RADAR IN 1970 AS SEEN AT NORAD, CHEYENNE MOUNTAIN. I W...</p></details>
    Published: August 20, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=31937" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=31937</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 31937October 7, 2003...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=31937" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=31937</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 31937October 7, 2003...</p></details>
    Published: October 7, 2003  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: Unidentified objects over NORAD  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/13ujhhx" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13ujhhx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified objects over NORAD.May 29, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/13ujhhx" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13ujhhx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified objects over NORAD.May 29, 2023...</p></details>
    Published: May 29, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: inquisitr.com  
    Title: UF O: Military Tracking Unidentified Flying Objects In Colorado  
-   Link: <a href="https://www.inquisitr.com/ufo-military-tracking-unidentified-flying-objects-in-colorado" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/ufo-military-tracking-unidentified-flying-objects-in-colorado</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Military Tracking Unidentified Flying Objects In Colorado - Inquisitr NewsOctober 6, 2014...</p></details>
+   Link:<a href="https://www.inquisitr.com/ufo-military-tracking-unidentified-flying-objects-in-colorado" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/ufo-military-tracking-unidentified-flying-objects-in-colorado</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Military Tracking Unidentified Flying Objects In Colorado - Inquisitr NewsOctober 6, 2014...</p></details>
    Published: October 6, 2014  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalgeographic.com  
    Title: ufo alien spacecraft investigation timeline  
-   Link: <a href="https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What we know from decades of UFO government...6 Jul 2023 — These include lights, objects, and unexplained radar readings reported by mil...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What we know from decades of UFO government...6 Jul 2023 — These include lights, objects, and unexplained radar readings reported by mil...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190295" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190295</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190295June 21, 2025 — NUFORC UFO SIGHTING 190295 Occurred: 2025-06-11 10:19 Local Reported: 2025-06-11 09:48 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=190295" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190295June 21, 2025 — NUFORC UFO SIGHTING 190295 Occurred: 2025-06-11 10:19 Local Reported: 2025-06-11 09:48 Pacific...</p></details>
    Published: June 11, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40798" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40798</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 40798December 3, 2004 — NUFORC UFO SIGHTING 40798 Occurred: 1999-03-23 14:15 Local - Approximate Reported: 2004-11-27...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=40798" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40798</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 40798December 3, 2004 — NUFORC UFO SIGHTING 40798 Occurred: 1999-03-23 14:15 Local - Approximate Reported: 2004-11-27...</p></details>
    Published: November 27, 2004  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Stargate/comments/u5lypk/any_fan_been_inside_cheyenne_mountain_complex/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargate/comments/u5lypk/any_fan_been_inside_cheyenne_mountain_complex/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e stationed at Peterson AFB.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Stargate/comments/u5lypk/any_fan_been_inside_cheyenne_mountain_complex/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargate/comments/u5lypk/any_fan_been_inside_cheyenne_mountain_complex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e stationed at Peterson AFB.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gazette.com  
-   Link: <a href="https://gazette.com/2026/05/15/cia-website-features-report-of-frightening-ufo-sighting-that-occurred-in-colorado/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2026/05/15/cia-website-features-report-of-frightening-ufo-sighting-that-occurred-in-colorado/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA website features report of &quot;frightening&quot; UFO sighting...15 May 2026 — &#x27; The article appears to have been originally published on Oct...</p></details>
+   Link:<a href="https://gazette.com/2026/05/15/cia-website-features-report-of-frightening-ufo-sighting-that-occurred-in-colorado/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2026/05/15/cia-website-features-report-of-frightening-ufo-sighting-that-occurred-in-colorado/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA website features report of &quot;frightening&quot; UFO sighting...15 May 2026 — &#x27; The article appears to have been originally published on Oct...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: denvergazette.com  
-   Link: <a href="https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver GazetteStrange lights spotted above Colorado Springs – here&#x27;s what they were - Denver GazetteApril 7, 2023...</p></details>
+   Link:<a href="https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denver GazetteStrange lights spotted above Colorado Springs – here&#x27;s what they were - Denver GazetteApril 7, 2023...</p></details>
    Published: April 7, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wsj.com  
    Title: ufo us disinformation 45376f7e  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e?eafs_enabled=false</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalThe Pentagon Disinformation That Fueled America&#x27;s UFO...6 Jun 2025 — U.S. military fabricated evidence of alien t...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e?eafs_enabled=false</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalThe Pentagon Disinformation That Fueled America&#x27;s UFO...6 Jun 2025 — U.S. military fabricated evidence of alien t...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: clui.org  
-   Link: <a href="https://clui.org/ludb/site/peterson-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://clui.org/ludb/site/peterson-air-force-base</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peterson Air Force Base | The Center for Land Use InterpretationThe Center for Land Use Interpretation Dedicated to the increase and diff...</p></details>
+   Link:<a href="https://clui.org/ludb/site/peterson-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://clui.org/ludb/site/peterson-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peterson Air Force Base | The Center for Land Use InterpretationThe Center for Land Use Interpretation Dedicated to the increase and diff...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/USAFA.Official/posts/in-light-of-recent-enthusiasm-for-area-51-we-can-neither-confirm-nor-deny-if-spe/10157061096443853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USAFA.Official/posts/in-light-of-recent-enthusiasm-for-area-51-we-can-neither-confirm-nor-deny-if-spe/10157061096443853/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Air Force AcademyIn light of recent enthusiasm for Area 51, we can neither confirm nor deny if spectators of the FREE Drone...</p></details>
+   Link:<a href="https://www.facebook.com/USAFA.Official/posts/in-light-of-recent-enthusiasm-for-area-51-we-can-neither-confirm-nor-deny-if-spe/10157061096443853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USAFA.Official/posts/in-light-of-recent-enthusiasm-for-area-51-we-can-neither-confirm-nor-deny-if-spe/10157061096443853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Air Force AcademyIn light of recent enthusiasm for Area 51, we can neither confirm nor deny if spectators of the FREE Drone...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thewatchtowers.org  
-   Link: <a href="https://thewatchtowers.org/project-subterrene-and-top-secret-underground-tunnels-under-america-norad-and-dumbs-inside-norads-cheyenne-mountain-combat-center/" target="_blank" rel="noopener noreferrer nofollow">https://thewatchtowers.org/project-subterrene-and-top-secret-underground-tunnels-under-america-norad-and-dumbs-inside-norads-cheyenne-mountain-combat-center/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside NORAD’s Cheyenne Mountain Combat Center – TheWatchTowers.orgOctober 29, 2023 — PROJECT SUBTERRENE AND TOP SECRET UNDERGROUND TUNNE...</p></details>
+   Link:<a href="https://thewatchtowers.org/project-subterrene-and-top-secret-underground-tunnels-under-america-norad-and-dumbs-inside-norads-cheyenne-mountain-combat-center/" target="_blank" rel="noopener noreferrer nofollow">https://thewatchtowers.org/project-subterrene-and-top-secret-underground-tunnels-under-america-norad-and-dumbs-inside-norads-cheyenne-mountain-combat-center/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside NORAD’s Cheyenne Mountain Combat Center – TheWatchTowers.orgOctober 29, 2023 — PROJECT SUBTERRENE AND TOP SECRET UNDERGROUND TUNNE...</p></details>
    Published: October 29, 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: tucked away inside of cheyenne mountain in colorado springs legend has it that t  
-   Link: <a href="https://www.facebook.com/98.5KYGO/posts/tucked-away-inside-of-cheyenne-mountain-in-colorado-springs-legend-has-it-that-t/1195890835678916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/98.5KYGO/posts/tucked-away-inside-of-cheyenne-mountain-in-colorado-springs-legend-has-it-that-t/1195890835678916/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tucked away inside of Cheyenne Mountain in Colorado...While NORAD&#x27;s headquarters moved to Peterson Air Force Base in 2006, The Cheyenne...</p></details>
+   Link:<a href="https://www.facebook.com/98.5KYGO/posts/tucked-away-inside-of-cheyenne-mountain-in-colorado-springs-legend-has-it-that-t/1195890835678916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/98.5KYGO/posts/tucked-away-inside-of-cheyenne-mountain-in-colorado-springs-legend-has-it-that-t/1195890835678916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tucked away inside of Cheyenne Mountain in Colorado...While NORAD&#x27;s headquarters moved to Peterson Air Force Base in 2006, The Cheyenne...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: coloradonuclearatlas.org  
-   Link: <a href="https://www.coloradonuclearatlas.org/site/cheyenne-mountain-afb-norad/military-training-facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradonuclearatlas.org/site/cheyenne-mountain-afb-norad/military-training-facilities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People’s Atlas of Nuclear ColoradoFebruary 10, 2023 — WELCOME TO A PEOPLE&#x27;S ATLAS OF NUCLEAR COLORADO To experience the full richness of...</p></details>
+   Link:<a href="https://www.coloradonuclearatlas.org/site/cheyenne-mountain-afb-norad/military-training-facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradonuclearatlas.org/site/cheyenne-mountain-afb-norad/military-training-facilities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People’s Atlas of Nuclear ColoradoFebruary 10, 2023 — WELCOME TO A PEOPLE&#x27;S ATLAS OF NUCLEAR COLORADO To experience the full richness of...</p></details>
    Published: February 10, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: coloradopolitics.com  
    Title: Mystery of drone sightings over Colorado could have a simple explanation  
-   Link: <a href="https://www.coloradopolitics.com/2020/01/03/mystery-of-drone-sightings-over-colorado-could-have-a-simple-explanation-2d04f1fd-96f0-5a22-acd8-37d4cfc152ab/" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradopolitics.com/2020/01/03/mystery-of-drone-sightings-over-colorado-could-have-a-simple-explanation-2d04f1fd-96f0-5a22-acd8-37d4cfc152ab/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado PoliticsJanuary 3, 2020 — MYSTERY OF DRONE SIGHTINGS OVER COLORADO COULD HAVE A SIMPLE EXPLANATION By Tom Roeder 01/03/2020 | up...</p></details>
+   Link:<a href="https://www.coloradopolitics.com/2020/01/03/mystery-of-drone-sightings-over-colorado-could-have-a-simple-explanation-2d04f1fd-96f0-5a22-acd8-37d4cfc152ab/" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradopolitics.com/2020/01/03/mystery-of-drone-sightings-over-colorado-could-have-a-simple-explanation-2d04f1fd-96f0-5a22-acd8-37d4cfc152ab/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado PoliticsJanuary 3, 2020 — MYSTERY OF DRONE SIGHTINGS OVER COLORADO COULD HAVE A SIMPLE EXPLANATION By Tom Roeder 01/03/2020 | up...</p></details>
    Published: January 3, 2020  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=t_3xafB4RyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t_3xafB4RyQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=t_3xafB4RyQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t_3xafB4RyQ</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: visitcos.com  
    Title: Partridge, commander of the Continental Air Defense Command, proposed c  
-   Link: <a href="https://www.visitcos.com/blog/cheyenne-mountain-colorado-springs-learn-about-cheyenne-mountain-norad/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcos.com/blog/cheyenne-mountain-colorado-springs-learn-about-cheyenne-mountain-norad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne Mountain NORAD - Visit Colorado SpringsMarch 8, 2022 — Updated: November 29, 2023 CHEYENNE MOUNTAIN COLORADO SPRINGS – LEARN ABO...</p></details>
+   Link:<a href="https://www.visitcos.com/blog/cheyenne-mountain-colorado-springs-learn-about-cheyenne-mountain-norad/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcos.com/blog/cheyenne-mountain-colorado-springs-learn-about-cheyenne-mountain-norad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne Mountain NORAD - Visit Colorado SpringsMarch 8, 2022 — Updated: November 29, 2023 CHEYENNE MOUNTAIN COLORADO SPRINGS – LEARN ABO...</p></details>
    Published: March 8, 2022  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: san.com  
    Title: witnesses describe unexplained sightings as lawmakers probe ufos  
-   Link: <a href="https://san.com/cc/witnesses-describe-unexplained-sightings-as-lawmakers-probe-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/witnesses-describe-unexplained-sightings-as-lawmakers-probe-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses describe unexplained sightings as lawmakers...9 Sept 2025 — Congress spent hours Tuesday investigating unidentified anomalous...</p></details>
+   Link:<a href="https://san.com/cc/witnesses-describe-unexplained-sightings-as-lawmakers-probe-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/witnesses-describe-unexplained-sightings-as-lawmakers-probe-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses describe unexplained sightings as lawmakers...9 Sept 2025 — Congress spent hours Tuesday investigating unidentified anomalous...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: petersonhousing.com  
-   Link: <a href="https://www.petersonhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.petersonhousing.com/history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peterson AFB, CO | HistoryPETERSON AFB, CO HISTORY Sign In | Post Home | List Business PETERSON AFB, CO HISTORY Colorado Springs Army Air...</p></details>
+   Link:<a href="https://www.petersonhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.petersonhousing.com/history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peterson AFB, CO | HistoryPETERSON AFB, CO HISTORY Sign In | Post Home | List Business PETERSON AFB, CO HISTORY Colorado Springs Army Air...</p></details>

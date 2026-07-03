@@ -250,12 +250,12 @@ image: /assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observati
 
 ## Introduction
 
-The most enduring part of the 1948 Chiles-Whitted encounter is not the object itself but the testimony given by the two Eastern Air Lines pilots who claimed to see it at close range over Alabama. Captain Clarence S. Chiles and First Officer John B. Whitted were experienced commercial aviators accustomed to identifying aircraft, judging distances at night, and responding calmly under pressure. Their detailed descriptions helped turn the case into one of the best-known early UFO incidents in American aviation history. At the same time, the very precision of their testimony created long-running disputes. Supporters argued that trained pilots were unlikely to mistake an ordinary phenomenon for a structured craft, while sceptics countered that even skilled observers can misinterpret bright lights, meteors, or atmospheric effects under stressful night-flying conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span> This debate remains central to the Alabama case today because nearly every later interpretation depends on how reliable the pilots’ observations really were: whether they witnessed a structured vehicle at close range, or briefly perceived a meteor in a way shaped by expectation, speed, darkness, and visual illusion.
+The most enduring part of the 1948 Chiles-Whitted encounter is not the object itself but the testimony given by the two Eastern Air Lines pilots who claimed to see it at close range over Alabama. Captain Clarence S. Chiles and First Officer John B. Whitted were experienced commercial aviators accustomed to identifying aircraft, judging distances at night, and responding calmly under pressure. Their detailed descriptions helped turn the case into one of the best-known early UFO incidents in American aviation history. At the same time, the very precision of their testimony created long-running disputes. Supporters argued that trained pilots were unlikely to mistake an ordinary phenomenon for a structured craft, while sceptics countered that even skilled observers can misinterpret bright lights, meteors, or atmospheric effects under stressful night-flying conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span> This debate remains central to the Alabama case today because nearly every later interpretation depends on how reliable the pilots’ observations really were: whether they witnessed a structured vehicle at close range, or briefly perceived a meteor in a way shaped by expectation, speed, darkness, and visual illusion.
 
 <img src="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Testimony illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Chiles and Whitted Claimed to See
 
-According to the pilots’ statements to investigators, the sighting began shortly before 2:45 a.m. on 24 July 1948 while their Douglas DC-3 was flying near Montgomery at roughly 5,000 feet. Chiles first noticed what he described as a dull red glow ahead and slightly above the aircraft. Believing it might be a military jet, he alerted Whitted. Within seconds, both men said the object appeared to rush toward them at extraordinary speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span>
+According to the pilots’ statements to investigators, the sighting began shortly before 2:45 a.m. on 24 July 1948 while their Douglas DC-3 was flying near Montgomery at roughly 5,000 feet. Chiles first noticed what he described as a dull red glow ahead and slightly above the aircraft. Believing it might be a military jet, he alerted Whitted. Within seconds, both men said the object appeared to rush toward them at extraordinary speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span>
 
 The pilots later described several specific features:
 
@@ -270,17 +270,17 @@ The pilots later described several specific features:
 
 </div>
 
-Chiles estimated the object at roughly 100 feet long and compared its shape to the fuselage of a B-29 bomber. Both men stated that the illumination was unusually intense, often described in later summaries as resembling burning magnesium. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A Concise History of the USAF UFO Programs... Eastern Air Lines pilots, Capt. Clarence S. Chiles and John B. Whitted, had a very...</span></span></span> One important detail often overlooked in simplified retellings is that the two pilots did not report exactly the same thing. Project Sign investigators noted differences between their accounts. Chiles claimed he saw a cockpit-like section and a long projection or boom on the front of the object, while Whitted did not report those features. Whitted instead focused more heavily on rectangular windows along the side. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+Chiles estimated the object at roughly 100 feet long and compared its shape to the fuselage of a B-29 bomber. Both men stated that the illumination was unusually intense, often described in later summaries as resembling burning magnesium.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A Concise History of the USAF UFO Programs... Eastern Air Lines pilots, Capt. Clarence S. Chiles and John B. Whitted, had a very...</span></span></span> One important detail often overlooked in simplified retellings is that the two pilots did not report exactly the same thing. Project Sign investigators noted differences between their accounts. Chiles claimed he saw a cockpit-like section and a long projection or boom on the front of the object, while Whitted did not report those features. Whitted instead focused more heavily on rectangular windows along the side.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 These inconsistencies became significant because they cut both ways. UFO proponents argued that minor differences are normal in genuine eyewitness testimony. Sceptics argued that the inconsistencies suggested the men were rapidly interpreting a fleeting visual stimulus rather than carefully observing a stable object.
 
 ## How Long Did the Observation Really Last?
 
-The estimated duration of the encounter is crucial to understanding the reliability debate. Most summaries place the sighting at roughly ten to fifteen seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span>
+The estimated duration of the encounter is crucial to understanding the reliability debate. Most summaries place the sighting at roughly ten to fifteen seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span>
 
 That sounds long enough for a detailed observation, but several investigators later questioned whether the usable viewing time was actually much shorter. If the object approached rapidly from the front and passed the aircraft at high speed, the clearest visual impression may have lasted only a second or two.
 
-This matters because human perception under sudden nighttime conditions can become highly interpretive. Aviation psychologists and later UFO analysts pointed out that the brain often fills gaps during unexpected high-speed encounters. A brief light source can appear structured, especially when observers instinctively try to classify it as an aircraft. The “windows” reported by the pilots became a major example in this debate. Sceptics such as Donald H. Menzel and later commentators suggested that fragmented light patterns within a meteor trail or glare effects could create the illusion of illuminated compartments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span>
+This matters because human perception under sudden nighttime conditions can become highly interpretive. Aviation psychologists and later UFO analysts pointed out that the brain often fills gaps during unexpected high-speed encounters. A brief light source can appear structured, especially when observers instinctively try to classify it as an aircraft. The “windows” reported by the pilots became a major example in this debate. Sceptics such as Donald H. Menzel and later commentators suggested that fragmented light patterns within a meteor trail or glare effects could create the illusion of illuminated compartments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span>
 
 Supporters of the pilots’ interpretation replied that both men independently described a structured object rather than an indistinct streak. They argued that commercial pilots trained to scan the sky would not casually invent rows of windows or a cylindrical fuselage shape during a momentary glance.
 
@@ -304,16 +304,16 @@ Meteor explanations generally work reasonably well for some elements of the repo
 
 </div>
 
-But meteors do not normally present obvious structural details such as windows, decks, or a cockpit. To explain this, sceptics proposed what later became known as the “airship effect”: the tendency of observers to organise separate bright points into a coherent mechanical object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span>
+But meteors do not normally present obvious structural details such as windows, decks, or a cockpit. To explain this, sceptics proposed what later became known as the “airship effect”: the tendency of observers to organise separate bright points into a coherent mechanical object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span>
 
 Night flying conditions may have amplified that effect. The DC-3 cockpit windows, scattered clouds, moonlight, and the shock of an unexpected near-collision could all have contributed to visual interpretation rather than pure observation.
 
-Still, the pilots consistently defended their account. They did not describe a vague glow after later reflection; they immediately reported a structured object soon after landing. That immediacy strengthened the credibility of their testimony in the eyes of Project Sign investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+Still, the pilots consistently defended their account. They did not describe a vague glow after later reflection; they immediately reported a structured object soon after landing. That immediacy strengthened the credibility of their testimony in the eyes of Project Sign investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 <img src="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Testimony illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Passenger Corroboration and Its Limits
 
-One passenger, Clarence L. McKelvie, reported seeing a bright streak of light passing the aircraft. His testimony is frequently cited as corroboration, but it was actually much narrower than the pilots’ descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+One passenger, Clarence L. McKelvie, reported seeing a bright streak of light passing the aircraft. His testimony is frequently cited as corroboration, but it was actually much narrower than the pilots’ descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 McKelvie did not describe:
 
@@ -338,17 +338,17 @@ Researchers later noted another practical factor: most passengers were asleep at
 
 ## The Pilots’ Aviation Background and Credibility
 
-The credibility of Chiles and Whitted became one of the central reasons the case survived long after many 1940s UFO reports faded away. Both men were experienced commercial aviators with wartime and civilian flying backgrounds. In the late 1940s, airline pilots carried substantial public authority as technical observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+The credibility of Chiles and Whitted became one of the central reasons the case survived long after many 1940s UFO reports faded away. Both men were experienced commercial aviators with wartime and civilian flying backgrounds. In the late 1940s, airline pilots carried substantial public authority as technical observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
-[Project Blue Book]({{ 'project-blue-book/' | relative_url }}) head Edward J. Ruppelt later wrote that investigators considered the encounter especially significant because it involved “reliable sources” who were close enough to the object to observe it in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+[Project Blue Book]({{ 'project-blue-book/' | relative_url }}) head Edward J. Ruppelt later wrote that investigators considered the encounter especially significant because it involved “reliable sources” who were close enough to the object to observe it in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
-Even sceptically minded analysts acknowledged that trained pilots deserve more weight than casual witnesses. J. Allen Hynek later remarked more generally that the calibre of pilot witnesses was one reason he became less dismissive of UFO reports over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+Even sceptically minded analysts acknowledged that trained pilots deserve more weight than casual witnesses. J. Allen Hynek later remarked more generally that the calibre of pilot witnesses was one reason he became less dismissive of UFO reports over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 However, professional experience does not eliminate perceptual error. Aviation history contains many examples of skilled pilots misjudging lights, celestial objects, altitude, or motion at night. The Chiles-Whitted encounter sits directly in that uncomfortable middle ground: the witnesses were credible, but the conditions were also highly vulnerable to misinterpretation.
 
 ## Did the Object Change Direction?
 
-Another disputed point involves the object’s apparent climb into the clouds after passing the DC-3. The pilots described a sudden upward movement accompanied by an intensified burst of flame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+Another disputed point involves the object’s apparent climb into the clouds after passing the DC-3. The pilots described a sudden upward movement accompanied by an intensified burst of flame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 For UFO proponents, this suggested controlled flight inconsistent with a meteor. Meteors travel along ballistic paths and do not normally appear to pull upward.
 
@@ -361,9 +361,9 @@ This disagreement remains unresolved because the sighting lacked radar data, pho
 
 One lesser-known issue concerns whether the DC-3 experienced turbulence as the object passed nearby.
 
-Some later retellings claimed the aircraft shook violently, implying that a large physical object disturbed the surrounding air. But official summaries and later reviews found conflicting testimony on this point. According to Project Sign material discussed in later histories, both pilots and the corroborating passenger reportedly denied any major disturbance to the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+Some later retellings claimed the aircraft shook violently, implying that a large physical object disturbed the surrounding air. But official summaries and later reviews found conflicting testimony on this point. According to Project Sign material discussed in later histories, both pilots and the corroborating passenger reportedly denied any major disturbance to the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
-Yet Edward Ruppelt’s later narrative described the DC-3 encountering turbulent air after the pass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 316 Jan 2023 — On the evening of July 24, 1948, an Eastern Airlines DC-3 took...</span><span class="citation-popover-meta">Published: July 24, 1948</span></span></span>
+Yet Edward Ruppelt’s later narrative described the DC-3 encountering turbulent air after the pass.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 316 Jan 2023 — On the evening of July 24, 1948, an Eastern Airlines DC-3 took...</span><span class="citation-popover-meta">Published: July 24, 1948</span></span></span>
 
 This discrepancy illustrates a wider problem with the case: details evolved through retelling. Over decades, some accounts became more dramatic than the original witness statements. Distinguishing between the earliest testimony and later embellishment is essential when assessing the encounter historically.
 
@@ -386,199 +386,199 @@ The case combined several elements that continue to dominate modern discussions:
 
 For believers, the pilots’ confidence and consistency suggest that something more than a meteor was involved. For sceptics, the encounter demonstrates how even experienced observers can impose structure and intent onto a brief, startling aerial phenomenon.
 
-Within Alabama’s UFO history, the testimony occupies a special place because it linked the state to one of the earliest nationally publicised pilot encounters. The sighting also influenced internal Air Force thinking during the formative years of Project Sign, helping establish the idea that pilot testimony deserved serious official attention even when investigators could not reach firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span>
+Within Alabama’s UFO history, the testimony occupies a special place because it linked the state to one of the earliest nationally publicised pilot encounters. The sighting also influenced internal Air Force thinking during the formative years of Project Sign, helping establish the idea that pilot testimony deserved serious official attention even when investigators could not reach firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Two Pilots Saw a UFO</span><span class="citation-popover-snippet">Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjsKXhQeez4" title="Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 29.2K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjsKXhQeez4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Chiles and Whitted Actually Saw in 1948. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Chiles and Whitted Actually Saw in 1948. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Pilot testimony is the core subject of both the book and the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Pilot testimony is the core subject of both the book and the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses eyewitness reliability and close-encounter reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses eyewitness reliability and close-encounter reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for pilot reports from the late 1940s and early 1950s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for pilot reports from the late 1940s and early 1950s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Revisits major witness cases and official evaluations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Revisits major witness cases and official evaluations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="https://i.ebayimg.com/images/g/YOgAAOSwgDRkz8ix/s-l225.jpg" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="https://i.ebayimg.com/images/g/YOgAAOSwgDRkz8ix/s-l225.jpg" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings pin badge. Silver wing design. Metal. Pilots. Airplane Airforce"><img src="https://i.ebayimg.com/images/g/vGMAAOSwJ1Jeqd1B/s-l225.jpg" alt="Listing image for Pilot Wings pin badge. Silver wing design. Metal. Pilots. Airplane Airforce" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings pin badge. Silver wing design. Metal. Pilots. Airplane Airforce</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings pin badge. Silver wing design. Metal. Pilots. Airplane Airforce"><img src="https://i.ebayimg.com/images/g/vGMAAOSwJ1Jeqd1B/s-l225.jpg" alt="Listing image for Pilot Wings pin badge. Silver wing design. Metal. Pilots. Airplane Airforce" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings pin badge. Silver wing design. Metal. Pilots. Airplane Airforce</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch"><img src="https://i.ebayimg.com/images/g/qCYAAOSwsbBnFRg4/s-l225.jpg" alt="Listing image for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch"><img src="https://i.ebayimg.com/images/g/qCYAAOSwsbBnFRg4/s-l225.jpg" alt="Listing image for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="https://i.ebayimg.com/images/g/zJIAAOSwnOFnte6e/s-l225.jpg" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="https://i.ebayimg.com/images/g/zJIAAOSwnOFnte6e/s-l225.jpg" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="what-chiles-and-whitted-actually-saw-in-1948-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ Within Alabama’s UFO history, the testimony occupies a special place because i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ Within Alabama’s UFO history, the testimony occupies a special place because i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ Within Alabama’s UFO history, the testimony occupies a special place because i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ Within Alabama’s UFO history, the testimony occupies a special place because i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ Within Alabama’s UFO history, the testimony occupies a special place because i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,98 +784,98 @@ Within Alabama’s UFO history, the testimony occupies a special place because i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Chiles-Whitted UFO encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: Two Pilots Saw a UFO  
-   Link: <a href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-chiles-whitted-soviet-spycraft-air-force-coverup</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did the Air Force Destroy...16 Aug 2018 — So, what did Chiles and Whitted actually see? Some suggested a weather balloon, others a m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Chapter 3  
-   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 316 Jan 2023 — On the evening of July 24, 1948, an Eastern Airlines DC-3 took...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 316 Jan 2023 — On the evening of July 24, 1948, an Eastern Airlines DC-3 took...</p></details>
    Published: July 24, 1948  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Concise History of the USAF UFO Programs... Eastern Air Lines pilots, Capt. Clarence S. Chiles and John B. Whitted, had a very...</p></details>
+   Link:<a href="https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Concise History of the USAF UFO Programs... Eastern Air Lines pilots, Capt. Clarence S. Chiles and John B. Whitted, had a very...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: US pilots saw cigar-shaped UFO but government destroyed the files  
-   Link: <a href="https://www.youtube.com/watch?v=eMo5sY5mvco" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMo5sY5mvco</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK | &quot;Operation Paperclips&quot; Sneak Peek...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eMo5sY5mvco" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMo5sY5mvco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK | &quot;Operation Paperclips&quot; Sneak Peek...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: PROJECT BLUE BOOK | "Operation Paperclips" Sneak Peek  
-   Link: <a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RbE3arOv3n8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Navy fighter pilot who saw UFO urges against racing to conclusions after Pentagon release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RbE3arOv3n8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Navy fighter pilot who saw UFO urges against racing to conclusions after Pentagon release...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Air Force explanation that UFOs were reflections off jet aircraft said to be... X Airliner r...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Air Force explanation that UFOs were reflections off jet aircraft said to be... X Airliner r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1507000422954705/posts/3794706757517382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1507000422954705/posts/3794706757517382/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experienced pilots make uncommonly good UFO witnessesAt about 2:45 a.m. on that date, pilot Clarence Chiles and copilot John Whitted were...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1507000422954705/posts/3794706757517382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1507000422954705/posts/3794706757517382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experienced pilots make uncommonly good UFO witnessesAt about 2:45 a.m. on that date, pilot Clarence Chiles and copilot John Whitted were...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wyominghistoryday.org  
    Title: Two pilots Chiles and Whitted observed a glowing object  
-   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/current-encounters-chiles-whitted-time-and-meteor-trajectory-and" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/current-encounters-chiles-whitted-time-and-meteor-trajectory-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Current Encounters] Chiles-Whitted time and Meteor...The Chiles-Whitted UFO encounter occurred around 2:45 AM on July 24, 1948 near Mon...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/theme-topics/collections/items/current-encounters-chiles-whitted-time-and-meteor-trajectory-and" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/current-encounters-chiles-whitted-time-and-meteor-trajectory-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Current Encounters] Chiles-Whitted time and Meteor...The Chiles-Whitted UFO encounter occurred around 2:45 AM on July 24, 1948 near Mon...</p></details>
    Published: July 24, 1948  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40cybertheticproject/the-chiles-whitted-encounter-a-case-that-defies-explanation-8819dcaa0e30" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cybertheticproject/the-chiles-whitted-encounter-a-case-that-defies-explanation-8819dcaa0e30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hought. This object was unlike anything they&#x27;d ever seen. A...Read more...</p></details>
+   Link:<a href="https://medium.com/%40cybertheticproject/the-chiles-whitted-encounter-a-case-that-defies-explanation-8819dcaa0e30" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cybertheticproject/the-chiles-whitted-encounter-a-case-that-defies-explanation-8819dcaa0e30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hought. This object was unlike anything they&#x27;d ever seen. A...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Chiles-Whitted UFO encounter (Esty Inc). A final well...Read more...</p></details>
+   Link:<a href="https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Chiles-Whitted UFO encounter (Esty Inc). A final well...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: storytel.com  
    Title: audiblog ufos and airplane passengers 4792702  
-   Link: <a href="https://www.storytel.com/is/podcasts/podcast-ufo-120423/audiblog-ufos-and-airplane-passengers-4792702" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/is/podcasts/podcast-ufo-120423/audiblog-ufos-and-airplane-passengers-4792702</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>witness that can corroborate the pilot... 1948 in the case of the classic Chiles-Whitted UFO encounter. On July 24, 1948, pilot Clarence...</p></details>
+   Link:<a href="https://www.storytel.com/is/podcasts/podcast-ufo-120423/audiblog-ufos-and-airplane-passengers-4792702" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/is/podcasts/podcast-ufo-120423/audiblog-ufos-and-airplane-passengers-4792702</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>witness that can corroborate the pilot... 1948 in the case of the classic Chiles-Whitted UFO encounter. On July 24, 1948, pilot Clarence...</p></details>
    Published: July 24, 1948  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Chiles  
-   Link: <a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjsKXhQeez4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pilots spotting an elongated unidentified object with glowing windows during a 1948 flight. #HISTORY #ProjectBlueBook HISTORY&#x27;s upcoming new...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjsKXhQeez4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pilots spotting an elongated unidentified object with glowing windows during a 1948 flight. #HISTORY #ProjectBlueBook HISTORY&#x27;s upcoming new...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spacedoutclassroom.com  
-   Link: <a href="https://spacedoutclassroom.com/2022/08/31/famous-ufo-incidents-1948-1954/" target="_blank" rel="noopener noreferrer nofollow">https://spacedoutclassroom.com/2022/08/31/famous-ufo-incidents-1948-1954/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Spaced-Out ClassroomFamous UFO Incidents: 1948-1954 | The Spaced-Out Classroom31 Aug 2022 — Those commercial pilots nearly collided w...</p></details>
+   Link:<a href="https://spacedoutclassroom.com/2022/08/31/famous-ufo-incidents-1948-1954/" target="_blank" rel="noopener noreferrer nofollow">https://spacedoutclassroom.com/2022/08/31/famous-ufo-incidents-1948-1954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Spaced-Out ClassroomFamous UFO Incidents: 1948-1954 | The Spaced-Out Classroom31 Aug 2022 — Those commercial pilots nearly collided w...</p></details>

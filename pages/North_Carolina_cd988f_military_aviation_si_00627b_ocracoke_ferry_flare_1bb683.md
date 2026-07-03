@@ -253,11 +253,11 @@ image: /assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke
 In autumn 2019, a short mobile-phone video filmed from a ferry near Ocracoke Island became one of North Carolina’s most widely shared modern UFO clips. The footage appeared to show a cluster of bright yellow lights hovering over the water at dusk, with passengers reacting in surprise as the lights seemed to hang motionless in the sky. For some viewers, the scene looked like a formation of unknown craft. For others, it looked exactly like a military flare exercise.
 
 <img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-dark.svg" | relative_url }}" alt="Ocracoke lights illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The case matters because it sits at the intersection of two recurring themes in North Carolina UFO history: coastal geography that can distort perception, and heavy military activity across the eastern part of the state. Unlike older sightings that survive mainly through witness recollections, the Ocracoke incident left a clear video record. That made it a useful test case for how quickly an apparently extraordinary sighting can become more understandable once location, direction of travel and nearby military ranges are examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+The case matters because it sits at the intersection of two recurring themes in North Carolina UFO history: coastal geography that can distort perception, and heavy military activity across the eastern part of the state. Unlike older sightings that survive mainly through witness recollections, the Ocracoke incident left a clear video record. That made it a useful test case for how quickly an apparently extraordinary sighting can become more understandable once location, direction of travel and nearby military ranges are examined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
 ## What the ferry video appeared to show
 
-The video was recorded by William Guy while travelling on a ferry route between Ocracoke Island and Swan Quarter across Pamlico Sound. The clip shows a sunset scene before the camera settles on roughly a dozen bright lights grouped together above the horizon. The lights appear steady rather than flashing and seem to remain almost stationary during the brief recording. Passengers can be heard expressing amazement and uncertainty about what they are seeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+The video was recorded by William Guy while travelling on a ferry route between Ocracoke Island and Swan Quarter across Pamlico Sound. The clip shows a sunset scene before the camera settles on roughly a dozen bright lights grouped together above the horizon. The lights appear steady rather than flashing and seem to remain almost stationary during the brief recording. Passengers can be heard expressing amazement and uncertainty about what they are seeing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
 Several features made the footage especially effective as a UFO clip:
 
@@ -265,9 +265,9 @@ Several features made the footage especially effective as a UFO clip:
 * There were multiple lights rather than a single object.
 * The lights seemed to hover rather than travel in a clear direction.
 * The sighting occurred over open water, where viewers had few reference points for judging distance or altitude.
-* The video was filmed at dusk, when depth perception is already weakened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+* The video was filmed at dusk, when depth perception is already weakened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
-The witness's narration reinforced the mystery. He described being “in the middle of the ocean” with “nothing around”, encouraging viewers to imagine the lights far from any human activity. That framing became an important part of the story's spread across social media and tabloid-style UFO coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.charlotteobserver.com/news/local/article235790617.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlotteobserver.com">[Charlotte Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlotteobserver.com</span><span class="citation-popover-snippet">Charlotte ObserverUFO debate in NC after odd lights spotted off Outer Banks4 Oct 2019 — The video was filmed aboard a ferry crossing the...</span></span></span>
+The witness's narration reinforced the mystery. He described being “in the middle of the ocean” with “nothing around”, encouraging viewers to imagine the lights far from any human activity. That framing became an important part of the story's spread across social media and tabloid-style UFO coverage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.charlotteobserver.com/news/local/article235790617.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlotteobserver.com">[Charlotte Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlotteobserver.com</span><span class="citation-popover-snippet">Charlotte ObserverUFO debate in NC after odd lights spotted off Outer Banks4 Oct 2019 — The video was filmed aboard a ferry crossing the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Y3SqSynTcY" title="North Carolina&#x27;s New Passenger Ferry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Y3SqSynTcY" target="_blank" rel="noopener noreferrer">North Carolina&#x27;s New Passenger Ferry</a></p><p class="youtube-embed-meta">Channel: NCDOTcommunications &middot; Views: 5.3K &middot; Uploaded: June 2019 &middot; Length: 1 minute 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Y3SqSynTcY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Y3SqSynTcY">Open on YouTube</a></p></div></div></div>
 
@@ -277,7 +277,7 @@ One reason the Ocracoke footage gained attention is that it demonstrates how dif
 
 Pamlico Sound is vast enough that distant objects can appear isolated against an empty horizon. At sunset, atmospheric haze, reflections and fading contrast can make lights seem detached from their surroundings. A viewer may have little sense of whether a light is a few miles away or dozens of miles away. Objects that are slowly descending can also appear stationary when seen from long range.
 
-The ferry itself further complicates perception. Passengers are standing on a moving platform while watching distant lights with no nearby landmarks for comparison. Human observers often estimate motion by comparing an object with fixed reference points. Over open water, those references largely disappear. A distant light that is actually descending under a parachute can appear to hover. A series of lights released at different moments can look like a structured formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+The ferry itself further complicates perception. Passengers are standing on a moving platform while watching distant lights with no nearby landmarks for comparison. Human observers often estimate motion by comparing an object with fixed reference points. Over open water, those references largely disappear. A distant light that is actually descending under a parachute can appear to hover. A series of lights released at different moments can look like a structured formation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
 This is one reason coastal UFO reports often produce disagreements about speed, size and altitude. Witnesses may accurately describe what they saw while still misjudging where the lights were located.
 
@@ -286,7 +286,7 @@ This is one reason coastal UFO reports often produce disagreements about speed, 
 
 The strongest sceptical explanation focuses on military illumination flares used during training exercises.
 
-Investigations of the video's location found that the ferry was not facing out into the Atlantic Ocean. Analysis of the ferry route and camera direction suggested the witness was looking toward parts of the North Carolina coast where military training areas already existed. One frequently cited location is the BT-9 Brant Island Shoal range area, southwest of the ferry route. Documentation for the range notes authorised use of air-delivered illumination flares during training operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+Investigations of the video's location found that the ferry was not facing out into the Atlantic Ocean. Analysis of the ferry route and camera direction suggested the witness was looking toward parts of the North Carolina coast where military training areas already existed. One frequently cited location is the BT-9 Brant Island Shoal range area, southwest of the ferry route. Documentation for the range notes authorised use of air-delivered illumination flares during training operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
 The appearance of the lights also matches several known characteristics of military flares:
 
@@ -294,9 +294,9 @@ The appearance of the lights also matches several known characteristics of milit
 * Multiple lights released in sequence.
 * Apparently stationary behaviour when viewed from far away.
 * Slow descent beneath parachutes.
-* Visibility during evening and night exercises. Skeptical Inquirer <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+* Visibility during evening and night exercises. Skeptical Inquirer<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
-Former military personnel commenting publicly on the footage argued that the lights resembled flares they had seen during exercises in eastern North Carolina. One former Marine associated with aviation operations at Cherry Point stated that flare drops in the region were common and could produce exactly the kind of visual effect seen in the video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5ny.com">[FOX 5 New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5ny.com</span><span class="citation-popover-snippet">FOX 5 New YorkViral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — The 30-second video shows Guy filming an empty...</span></span></span>
+Former military personnel commenting publicly on the footage argued that the lights resembled flares they had seen during exercises in eastern North Carolina. One former Marine associated with aviation operations at Cherry Point stated that flare drops in the region were common and could produce exactly the kind of visual effect seen in the video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5ny.com">[FOX 5 New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5ny.com</span><span class="citation-popover-snippet">FOX 5 New YorkViral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — The 30-second video shows Guy filming an empty...</span></span></span>
 
 Importantly, the flare explanation does not require any unusual assumptions. It places the lights within an area already known for military aviation activity and uses a type of object documented as operating there.
 
@@ -311,285 +311,285 @@ Several points cannot be established conclusively from the public record:
 * Which aircraft, if any, released the lights.
 * The precise distance of the lights from the ferry.
 * Whether the lights originated from one exercise or multiple sources.
-* Whether all visible lights appeared simultaneously or in sequence before recording began. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+* Whether all visible lights appeared simultaneously or in sequence before recording began.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
-However, uncertainty is not the same thing as evidence for an extraordinary explanation. In UFO investigations, the question is usually whether the available evidence points more strongly toward a known cause or an unknown one. In this case, the military-flare interpretation fits both the geography and the visual characteristics better than claims involving unidentified craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+However, uncertainty is not the same thing as evidence for an extraordinary explanation. In UFO investigations, the question is usually whether the available evidence points more strongly toward a known cause or an unknown one. In this case, the military-flare interpretation fits both the geography and the visual characteristics better than claims involving unidentified craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
 <img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-dark.svg" | relative_url }}" alt="Ocracoke lights illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Ocracoke lights became a useful North Carolina UFO case
 
 The lasting value of the Ocracoke ferry incident is not that it produced one of North Carolina's strongest UFO mysteries. Instead, it became a useful lesson in how apparently dramatic sightings can change when local context is added.
 
-The original video encouraged viewers to focus on the lights themselves. Later analysis focused on where the ferry was, what direction the camera faced and what military facilities operated nearby. Once those details entered the discussion, the event looked less like a fleet of unknown craft and more like a familiar feature of a heavily used training environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+The original video encouraged viewers to focus on the lights themselves. Later analysis focused on where the ferry was, what direction the camera faced and what military facilities operated nearby. Once those details entered the discussion, the event looked less like a fleet of unknown craft and more like a familiar feature of a heavily used training environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
-Within the broader history of North Carolina UFO reports, the Ocracoke lights illustrate a recurring pattern. Coastal waters, military airspace and unusual lighting conditions can generate sincere witness reports that initially seem extraordinary. Some remain unresolved. Others become substantially less mysterious when range activity, aviation operations or flare behaviour are taken into account. The Ocracoke video is one of the clearest modern examples of that process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
+Within the broader history of North Carolina UFO reports, the Ocracoke lights illustrate a recurring pattern. Coastal waters, military airspace and unusual lighting conditions can generate sincere witness reports that initially seem extraordinary. Some remain unresolved. Others become substantially less mysterious when range activity, aviation operations or flare behaviour are taken into account. The Ocracoke video is one of the clearest modern examples of that process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zCRuceP_DIo" title="Mysterious lights off San Diego coast light up social media on Monday night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zCRuceP_DIo" target="_blank" rel="noopener noreferrer">Mysterious lights off San Diego coast light up social media on Monday night</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego &middot; Views: 168.7K &middot; Uploaded: June 2022 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zCRuceP_DIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zCRuceP_DIo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Ocracoke ferry lights military flares?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Ocracoke ferry lights military flares?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for assessing military-linked UFO reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing military-linked UFO reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers evaluate reported aerial phenomena and competing explanations such as military activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate reported aerial phenomena and competing explanations such as military activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Directly addresses methods for analyzing sightings like apparent military flares.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses methods for analyzing sightings like apparent military flares.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Includes UFO-related cases and skeptical versus extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes UFO-related cases and skeptical versus extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocracoke-lights-were-the-ocracoke-ferry-lights-military-flares-north-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ Within the broader history of North Carolina UFO reports, the Ocracoke lights il
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ Within the broader history of North Carolina UFO reports, the Ocracoke lights il
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ Within the broader history of North Carolina UFO reports, the Ocracoke lights il
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ Within the broader history of North Carolina UFO reports, the Ocracoke lights il
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -745,76 +745,76 @@ Within the broader history of North Carolina UFO reports, the Ocracoke lights il
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer'Real' UFOs in North Carolina Shown to be Flares  
-   Link: <a href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</p></details>
    Published: December 11, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: charlotteobserver.com  
-   Link: <a href="https://www.charlotteobserver.com/news/local/article235790617.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article235790617.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlotte ObserverUFO debate in NC after odd lights spotted off Outer Banks4 Oct 2019 — The video was filmed aboard a ferry crossing the...</p></details>
+   Link:<a href="https://www.charlotteobserver.com/news/local/article235790617.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article235790617.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charlotte ObserverUFO debate in NC after odd lights spotted off Outer Banks4 Oct 2019 — The video was filmed aboard a ferry crossing the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fox5ny.com  
-   Link: <a href="https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 New YorkViral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — The 30-second video shows Guy filming an empty...</p></details>
+   Link:<a href="https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 New YorkViral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — The 30-second video shows Guy filming an empty...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DKm7lXrChxs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKm7lXrChxs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCDOT on Instagram: &quot;You have that summer trip to the coast...The Ocracoke Express passenger ferry that runs between Hatteras Island and...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DKm7lXrChxs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKm7lXrChxs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCDOT on Instagram: &quot;You have that summer trip to the coast...The Ocracoke Express passenger ferry that runs between Hatteras Island and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fox13news.com  
-   Link: <a href="https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — Video of a mysterious group of lights in the sky captured off...</p></details>
+   Link:<a href="https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — Video of a mysterious group of lights in the sky captured off...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/119236565416688/posts/1682053095801686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119236565416688/posts/1682053095801686/</a>  
+   Link:<a href="https://www.facebook.com/groups/119236565416688/posts/1682053095801686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119236565416688/posts/1682053095801686/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: what do you think is seen in this video which was filmed aboard a ferry crossing  
-   Link: <a href="https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you think is seen in this video, which was filmed...5 Oct 2019 — What do you think is seen in this video, which was filmed aboar...</p></details>
+   Link:<a href="https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do you think is seen in this video, which was filmed...5 Oct 2019 — What do you think is seen in this video, which was filmed aboar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wbznewsradio.iheart.com  
    Title: 2019 10 04 video shows strange glowing objects in sky over north carolina  
-   Link: <a href="https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shows Strange Glowing Objects In Sky Over North...4 Oct 2019 — A man in North Carolina captured a group of strange lights in the sky on...</p></details>
+   Link:<a href="https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shows Strange Glowing Objects In Sky Over North...4 Oct 2019 — A man in North Carolina captured a group of strange lights in the sky on...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 28, 2019, passengers on a ferry off the Outer Banks noticed a cluster of 14 bright quasi-stationary point...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 28, 2019, passengers on a ferry off the Outer Banks noticed a cluster of 14 bright quasi-stationary point...Read more...</p></details>
    Published: September 28, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: expressnews.com  
    Title: Mysterious glowing orbs off N C coast UFOs 14493713  
-   Link: <a href="https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php" target="_blank" rel="noopener noreferrer nofollow">https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious glowing orbs seen off N.C. coast — UFOs?4 Oct 2019 — This unexplained cluster of lights was filmed by a passenger on a ferry o...</p></details>
+   Link:<a href="https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php" target="_blank" rel="noopener noreferrer nofollow">https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious glowing orbs seen off N.C. coast — UFOs?4 Oct 2019 — This unexplained cluster of lights was filmed by a passenger on a ferry o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lights were filmed off the ferry over Pamlico Sound, and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights were filmed off the ferry over Pamlico Sound, and...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
    Title: 2019 real ufo sighting video flares  
-   Link: <a href="https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Real UFO&#x27; video shows several bright lights hovering off...8 Oct 2019 — A video claiming to depict a “real UFO sighting” off the coast...</p></details>
+   Link:<a href="https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Real UFO&#x27; video shows several bright lights hovering off...8 Oct 2019 — A video claiming to depict a “real UFO sighting” off the coast...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wdsu.com  
    Title: mysterious glowing orbs seen off n c coast  
-   Link: <a href="https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362" target="_blank" rel="noopener noreferrer nofollow">https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parachute flares? Or a bona fide UFO squadron maneuvering off the East Coast? So far there is no explanation for...Read more...</p></details>
+   Link:<a href="https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362" target="_blank" rel="noopener noreferrer nofollow">https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parachute flares? Or a bona fide UFO squadron maneuvering off the East Coast? So far there is no explanation for...Read more...</p></details>

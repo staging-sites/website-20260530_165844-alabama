@@ -275,9 +275,9 @@ This makes Idaho useful in modern UFO history for a different reason from the fa
 
 ## Why Idaho’s skies generate so many reports
 
-Idaho has the physical ingredients for high UFO reporting: long horizons, dark rural areas, mountains, high desert, river plains and a population that is clustered in relatively few urban corridors. In simple terms, more sky is visible to more people than it would be in a heavily urbanised state with brighter night-time light pollution. The state’s own tourism material emphasises the scale and openness of its landscape, noting that Idaho stretches from Canada to Nevada, includes the western side of the Rocky Mountains, and is dominated by rivers, mountains and farmland. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitidaho.org/about-idaho/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitidaho.org">[Visit Idaho]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitidaho.org</span><span class="citation-popover-title">Visit Idaho Learn All About Idaho</span><span class="citation-popover-snippet">Visit Idaho Learn All About Idaho</span></span></span>
+Idaho has the physical ingredients for high UFO reporting: long horizons, dark rural areas, mountains, high desert, river plains and a population that is clustered in relatively few urban corridors. In simple terms, more sky is visible to more people than it would be in a heavily urbanised state with brighter night-time light pollution. The state’s own tourism material emphasises the scale and openness of its landscape, noting that Idaho stretches from Canada to Nevada, includes the western side of the Rocky Mountains, and is dominated by rivers, mountains and farmland.<span class="citation-chip-wrap"><a class="citation-chip" href="https://visitidaho.org/about-idaho/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitidaho.org">[Visit Idaho]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitidaho.org</span><span class="citation-popover-title">Visit Idaho Learn All About Idaho</span><span class="citation-popover-snippet">Visit Idaho Learn All About Idaho</span></span></span>
 
-Darkness matters because many UFO reports are not close encounters with detailed objects; they are lights, flashes, formations, fireballs or shapes seen at distance. Central Idaho is especially important here. DarkSky International designated the Central Idaho Dark Sky Reserve in 2017 as the first International Dark Sky Reserve in the United States, covering more than 3,600 square kilometres from the Ketchum and Sun Valley area towards Stanley, including the Sawtooth National Recreation Area. The organisation also gave the reserve Gold Tier status, reserved for exceptionally dark skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Darkness matters because many UFO reports are not close encounters with detailed objects; they are lights, flashes, formations, fireballs or shapes seen at distance. Central Idaho is especially important here. DarkSky International designated the Central Idaho Dark Sky Reserve in 2017 as the first International Dark Sky Reserve in the United States, covering more than 3,600 square kilometres from the Ketchum and Sun Valley area towards Stanley, including the Sawtooth National Recreation Area. The organisation also gave the reserve Gold Tier status, reserved for exceptionally dark skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That helps explain a basic reporting mechanism. In places where the Milky Way, satellites and meteors are easy to see, the public also sees more ambiguous objects. A bright satellite train, a meteor breaking up, a distant aircraft turning into the sun, or a drone seen without scale cues can look more dramatic against a clean dark background than it would above a city. The same conditions that make Idaho excellent for stargazing also make it fertile ground for misidentification.
 
@@ -286,13 +286,13 @@ This does not make all Idaho reports worthless. It means the first question shou
 <img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NUFORC and the modern Idaho reporting pipeline
 
-The modern Idaho UFO record is heavily shaped by NUFORC, a public, non-governmental reporting database. NUFORC describes its databank as the largest independently collected set of UFO and UAP sighting reports available online, with first-hand witness accounts organised by state, event date, shape and other indexes. It also says staff review reports and grade post-March 2023 submissions into tiers, while older reports have not all been graded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
+The modern Idaho UFO record is heavily shaped by NUFORC, a public, non-governmental reporting database. NUFORC describes its databank as the largest independently collected set of UFO and UAP sighting reports available online, with first-hand witness accounts organised by state, event date, shape and other indexes. It also says staff review reports and grade post-March 2023 submissions into tiers, while older reports have not all been graded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
 That matters because NUFORC is not a laboratory archive, a police evidence room or a military sensor database. It is a structured public submission system. Its strength is breadth: it captures reports from ordinary residents that might otherwise vanish. Its weakness is unevenness: reports vary in witness detail, timing, photographs, video quality, and whether any independent check was possible. A single dramatic entry can be sincere and still be caused by a satellite, aircraft, balloon, meteor, atmospheric effect or drone.
 
-Idaho’s NUFORC page shows the range clearly. The state index includes older reports from Boise, Sandpoint, Idaho Falls, Caldwell, Pocatello, Blackfoot and other towns, with many entries summarised as lights, fireballs, triangles, formations or changing shapes. It also contains recent entries from places such as Nampa, Caldwell, Idaho Falls, Twin Falls and Iona, showing that Idaho reporting remains active rather than merely historical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lID" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Idaho’s NUFORC page shows the range clearly. The state index includes older reports from Boise, Sandpoint, Idaho Falls, Caldwell, Pocatello, Blackfoot and other towns, with many entries summarised as lights, fireballs, triangles, formations or changing shapes. It also contains recent entries from places such as Nampa, Caldwell, Idaho Falls, Twin Falls and Iona, showing that Idaho reporting remains active rather than merely historical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lID" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Recent local reporting has leaned on the same public database. In 2022, the Idaho Statesman reported that Boise led Idaho’s year-to-date UFO reports, followed by Nampa and Idaho Falls, while also noting a study that placed Idaho high in sightings per 100,000 residents over the previous five years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idahostatesman.com/outdoors/article268145977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idahostatesman.com">[Idaho Statesman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idahostatesman.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A 2025 Stacker analysis of NUFORC data from 1995 onward ranked Idaho cities by total reports, with Boise far ahead at 344, followed by Nampa, Meridian, Idaho Falls, Twin Falls and Coeur d’Alene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span></span></span>
+Recent local reporting has leaned on the same public database. In 2022, the Idaho Statesman reported that Boise led Idaho’s year-to-date UFO reports, followed by Nampa and Idaho Falls, while also noting a study that placed Idaho high in sightings per 100,000 residents over the previous five years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idahostatesman.com/outdoors/article268145977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idahostatesman.com">[Idaho Statesman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idahostatesman.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A 2025 Stacker analysis of NUFORC data from 1995 onward ranked Idaho cities by total reports, with Boise far ahead at 344, followed by Nampa, Meridian, Idaho Falls, Twin Falls and Coeur d’Alene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span></span></span>
 
 The most important caveat is that city totals are not the same as true UFO frequency. Boise has more reports partly because it has more people. Nampa and Meridian appear prominently because they sit in the rapidly growing Treasure Valley, where a large suburban population has open western skies, commuting corridors, nearby airport activity and good reasons to be outdoors after dark. Rural places may have better viewing conditions, but they have fewer people available to file reports.
 
@@ -300,9 +300,9 @@ The most important caveat is that city totals are not the same as true UFO frequ
 
 ## What population-adjusted hotspots really show
 
-Per-capita rankings are more revealing than raw totals, but they are also easier to misread. Idaho has appeared in popular analyses as a high-ranking state for UFO reports per 100,000 residents, including a 2020 ranking based on NUFORC reports from January 2019 to June 2020 that placed Idaho first. That ranking also warned that many UFOs are later identified as drones, satellites, including Starlink, or weather balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/states-with-the-most-ufo-sightings-in-2020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">states with the most ufo sightings in 2020</span><span class="citation-popover-snippet">states with the most ufo sightings in 2020</span></span></span>
+Per-capita rankings are more revealing than raw totals, but they are also easier to misread. Idaho has appeared in popular analyses as a high-ranking state for UFO reports per 100,000 residents, including a 2020 ranking based on NUFORC reports from January 2019 to June 2020 that placed Idaho first. That ranking also warned that many UFOs are later identified as drones, satellites, including Starlink, or weather balloons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/states-with-the-most-ufo-sightings-in-2020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">states with the most ufo sightings in 2020</span><span class="citation-popover-snippet">states with the most ufo sightings in 2020</span></span></span>
 
-Later national analyses have continued to show that the American West is unusually strong in UFO reports when adjusted for population. Axios, using NUFORC and Census Bureau data for county-level reports from 2000 to 2023, reported that western counties dominate many per-capita hotspots and noted that the map roughly correlates with dark-sky locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">America&#x27;s UFO hotspot map correlates to dark sky locations</span><span class="citation-popover-snippet">America&#x27;s UFO hotspot map correlates to dark sky locations</span></span></span> This is directly relevant to Idaho, even when the top counties named in a national article are outside the state, because Idaho shares the same western ingredients: sparse settlement, dark skies, open terrain and a culture of sky-watching.
+Later national analyses have continued to show that the American West is unusually strong in UFO reports when adjusted for population. Axios, using NUFORC and Census Bureau data for county-level reports from 2000 to 2023, reported that western counties dominate many per-capita hotspots and noted that the map roughly correlates with dark-sky locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">America&#x27;s UFO hotspot map correlates to dark sky locations</span><span class="citation-popover-snippet">America&#x27;s UFO hotspot map correlates to dark sky locations</span></span></span> This is directly relevant to Idaho, even when the top counties named in a national article are outside the state, because Idaho shares the same western ingredients: sparse settlement, dark skies, open terrain and a culture of sky-watching.
 
 The difference between raw and population-adjusted reporting can be summarised like this:
 
@@ -312,18 +312,18 @@ This is why “Idaho has many UFO reports” should not be treated as “Idaho h
 
 ## Boise, Nampa and the Treasure Valley pattern
 
-The most visible modern Idaho cluster is not in a remote wilderness but around the Boise-Nampa-Meridian urban corridor. Stacker’s NUFORC-based city ranking places Boise first by a wide margin, with Nampa second and Meridian third. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/idaho/see-how-many-ufo-sightings-have-occurred-idaho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">see how many ufo sightings have occurred idaho</span><span class="citation-popover-snippet">see how many ufo sightings have occurred idaho</span></span></span> That makes sense: the Treasure Valley combines the state’s largest population centre with broad evening skies, suburban expansion, commuter roads, airport approaches, drones, and a public already familiar with Idaho’s UFO reputation.
+The most visible modern Idaho cluster is not in a remote wilderness but around the Boise-Nampa-Meridian urban corridor. Stacker’s NUFORC-based city ranking places Boise first by a wide margin, with Nampa second and Meridian third.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/idaho/see-how-many-ufo-sightings-have-occurred-idaho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">see how many ufo sightings have occurred idaho</span><span class="citation-popover-snippet">see how many ufo sightings have occurred idaho</span></span></span> That makes sense: the Treasure Valley combines the state’s largest population centre with broad evening skies, suburban expansion, commuter roads, airport approaches, drones, and a public already familiar with Idaho’s UFO reputation.
 
-The NUFORC examples from Nampa show the typical modern pattern. One August 2022 report described two observers watching separate lights over about 30 minutes, with the entry listing “lights on object”, “emitted beams” and “aircraft nearby”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=171100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Another Nampa report from May 2022 described an orange oval light seen by four observers near the Nampa landfill area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These are not trivial as witness experiences, but they also illustrate the core difficulty: lights near populated areas, with aircraft nearby or limited distance cues, are hard to assess after the fact.
+The NUFORC examples from Nampa show the typical modern pattern. One August 2022 report described two observers watching separate lights over about 30 minutes, with the entry listing “lights on object”, “emitted beams” and “aircraft nearby”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=171100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Another Nampa report from May 2022 described an orange oval light seen by four observers near the Nampa landfill area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=168167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These are not trivial as witness experiences, but they also illustrate the core difficulty: lights near populated areas, with aircraft nearby or limited distance cues, are hard to assess after the fact.
 
-Boise reports since 2023 have also received local attention. The Idaho Statesman noted in 2024 that UAP reports in Idaho often come from west-central mountain areas with darker skies, but that people continue to file reports from Boise as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idahostatesman.com/outdoors/article268145977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idahostatesman.com">[Idaho Statesman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idahostatesman.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is a useful corrective to a common myth: modern UFO reporting is not only a rural phenomenon. Dark skies help, but population and reporting access matter just as much.
+Boise reports since 2023 have also received local attention. The Idaho Statesman noted in 2024 that UAP reports in Idaho often come from west-central mountain areas with darker skies, but that people continue to file reports from Boise as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idahostatesman.com/outdoors/article268145977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idahostatesman.com">[Idaho Statesman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idahostatesman.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is a useful corrective to a common myth: modern UFO reporting is not only a rural phenomenon. Dark skies help, but population and reporting access matter just as much.
 
 <img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-2-dark.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mountains, dark reserves and rural reports
 
 Away from the Treasure Valley, Idaho’s report geography becomes more interesting. West-central mountain areas and central Idaho’s dark-sky corridor offer some of the best viewing conditions in the United States. That increases the chance of spotting satellites, meteors and high-altitude aircraft, but it also means witnesses may have longer, cleaner views of genuinely ambiguous lights.
 
-The Central Idaho Dark Sky Reserve is the clearest example. It was created through cooperation among Ketchum, Sun Valley, Stanley, Blaine County, conservation groups, private landowners and public land managers, with the explicit aim of protecting night-sky quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Visit Idaho describes the reserve as spanning about 906,000 acres and including Sun Valley, Ketchum and Stanley, while also noting that Idaho has a dark sky reserve and several dark sky parks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitidaho.org/about-idaho/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitidaho.org">[Visit Idaho]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitidaho.org</span><span class="citation-popover-title">Visit Idaho Learn All About Idaho</span><span class="citation-popover-snippet">Visit Idaho Learn All About Idaho</span></span></span>
+The Central Idaho Dark Sky Reserve is the clearest example. It was created through cooperation among Ketchum, Sun Valley, Stanley, Blaine County, conservation groups, private landowners and public land managers, with the explicit aim of protecting night-sky quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Visit Idaho describes the reserve as spanning about 906,000 acres and including Sun Valley, Ketchum and Stanley, while also noting that Idaho has a dark sky reserve and several dark sky parks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://visitidaho.org/about-idaho/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitidaho.org">[Visit Idaho]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitidaho.org</span><span class="citation-popover-title">Visit Idaho Learn All About Idaho</span><span class="citation-popover-snippet">Visit Idaho Learn All About Idaho</span></span></span>
 
 For UFO reporting, this creates a paradox. Better skies improve the witness’s opportunity to see real objects clearly, but they also increase exposure to unfamiliar astronomical and aerospace phenomena. A person in central Idaho may see more satellites in one evening than someone in a bright city sees in months. The result is not necessarily more exotic activity, but a larger pool of reportable experiences.
 
@@ -331,13 +331,13 @@ This is why rural Idaho reports should be read with two thoughts at once. First,
 
 ## Military airspace, aircraft and the Mountain Home factor
 
-Modern UFO reporting cannot be separated from aviation. Idaho has civilian airports, backcountry flying, agricultural aviation, drones, and military training activity. The key state-specific anchor is Mountain Home Air Force Base, southeast of Boise. Associated Press reporting in 2025 described the base as sitting on a high desert plateau between mountain ranges, with surrounding open space that is ideal for fighter pilot training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/fc1506584e7833dbde3e16fe8613b6b4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Although the announcement sparked controversy on social media — with critics opposing what they perceived as a foreign base on American s...</span></span></span>
+Modern UFO reporting cannot be separated from aviation. Idaho has civilian airports, backcountry flying, agricultural aviation, drones, and military training activity. The key state-specific anchor is Mountain Home Air Force Base, southeast of Boise. Associated Press reporting in 2025 described the base as sitting on a high desert plateau between mountain ranges, with surrounding open space that is ideal for fighter pilot training.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/fc1506584e7833dbde3e16fe8613b6b4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Although the announcement sparked controversy on social media — with critics opposing what they perceived as a foreign base on American s...</span></span></span>
 
-National research supports the idea that military airspace can affect reporting patterns. A RAND Corporation study analysed 101,151 public UAP reports from NUFORC across 12,783 census-designated places and found that reports were more likely within 30 kilometres of military operations areas, where routine military training occurs. RAND also warned that its use of NUFORC data should not be taken as an endorsement of individual reports or of the database’s accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+National research supports the idea that military airspace can affect reporting patterns. A RAND Corporation study analysed 101,151 public UAP reports from NUFORC across 12,783 census-designated places and found that reports were more likely within 30 kilometres of military operations areas, where routine military training occurs. RAND also warned that its use of NUFORC data should not be taken as an endorsement of individual reports or of the database’s accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Idaho, that suggests a sober interpretation. A light or formation seen near a training area may be unidentified to the witness but still be ordinary military aviation. Night training, flares, aircraft seen head-on, manoeuvres at distance, or fast changes in direction caused by perspective can all create reports that feel anomalous from the ground. This does not dismiss witnesses; it explains why local airspace context is essential.
 
-The Federal Aviation Administration’s current air traffic control guidance also treats UAP reporting as an operational matter rather than a fringe topic. Its manual instructs personnel to inform the operations supervisor or controller-in-charge of reported or observed UAP or unexplained phenomena activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That gives modern reports a more formal context than older “flying saucer” folklore, while still not proving that any specific Idaho report involves exotic technology.
+The Federal Aviation Administration’s current air traffic control guidance also treats UAP reporting as an operational matter rather than a fringe topic. Its manual instructs personnel to inform the operations supervisor or controller-in-charge of reported or observed UAP or unexplained phenomena activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That gives modern reports a more formal context than older “flying saucer” folklore, while still not proving that any specific Idaho report involves exotic technology.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NojhGpC7UwU" title="50 Idaho Geography Facts You Never Knew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NojhGpC7UwU" target="_blank" rel="noopener noreferrer">50 Idaho Geography Facts You Never Knew</a></p><p class="youtube-embed-meta">Channel: The life of the States &middot; Views: 153.2K &middot; Uploaded: November 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NojhGpC7UwU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NojhGpC7UwU">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +345,7 @@ The Federal Aviation Administration’s current air traffic control guidance als
 
 The biggest change in modern UFO reporting is the sky itself. Low-Earth-orbit satellite constellations, consumer drones and bright night-time aviation have multiplied the number of unfamiliar things ordinary people can see. Idaho’s dark skies amplify that effect.
 
-Starlink is especially important. Axios reported that UFO reports spiked when SpaceX Starlink satellite trains were first being launched in 2019 and 2020, because they can appear as a train of lights crossing the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">America&#x27;s UFO hotspot map correlates to dark sky locations</span><span class="citation-popover-snippet">America&#x27;s UFO hotspot map correlates to dark sky locations</span></span></span> A 2024 technical case study on commercial aviation misidentification found that Starlink satellites have generated confusion among both pilots and lay observers, and that changing illumination angles can make them appear unfamiliar even to trained witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Starlink is especially important. Axios reported that UFO reports spiked when SpaceX Starlink satellite trains were first being launched in 2019 and 2020, because they can appear as a train of lights crossing the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">America&#x27;s UFO hotspot map correlates to dark sky locations</span><span class="citation-popover-snippet">America&#x27;s UFO hotspot map correlates to dark sky locations</span></span></span> A 2024 technical case study on commercial aviation misidentification found that Starlink satellites have generated confusion among both pilots and lay observers, and that changing illumination angles can make them appear unfamiliar even to trained witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Drones add another layer. A small drone at night can appear silent, stationary, erratic or much larger than it is if the observer lacks distance and scale cues. Weather balloons, sky lanterns, aircraft on approach, military flares and meteors all remain relevant. In Idaho, where many reports are of lights rather than close, structured craft, these explanations deserve to be checked first.
 
@@ -359,10 +359,10 @@ The modern Idaho pattern supports a modest conclusion. Idaho is a high-quality p
 
 What the evidence supports:
 
-* Idaho has an active public UFO reporting record through NUFORC, including both older and recent entries across Boise, Nampa, Idaho Falls, Twin Falls, Caldwell and other locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFOR C Reports by Location NUFORC Reports by Location; USA</span></span></span>
-* Boise leads Idaho city totals in NUFORC-derived rankings, while Nampa, Meridian, Idaho Falls and Twin Falls also appear prominently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span></span></span>
-* Western and rural areas tend to show stronger UFO reporting per capita, and national analyses link this partly to dark skies and lower light pollution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">America&#x27;s UFO hotspot map correlates to dark sky locations</span><span class="citation-popover-snippet">America&#x27;s UFO hotspot map correlates to dark sky locations</span></span></span>
-* Military operations areas, aviation activity and satellite visibility are plausible contributors to modern UAP reports, not side issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Idaho has an active public UFO reporting record through NUFORC, including both older and recent entries across Boise, Nampa, Idaho Falls, Twin Falls, Caldwell and other locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFOR C Reports by Location NUFORC Reports by Location; USA</span></span></span>
+* Boise leads Idaho city totals in NUFORC-derived rankings, while Nampa, Meridian, Idaho Falls and Twin Falls also appear prominently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Idaho &#124; Stacker</span></span></span>
+* Western and rural areas tend to show stronger UFO reporting per capita, and national analyses link this partly to dark skies and lower light pollution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">America&#x27;s UFO hotspot map correlates to dark sky locations</span><span class="citation-popover-snippet">America&#x27;s UFO hotspot map correlates to dark sky locations</span></span></span>
+* Military operations areas, aviation activity and satellite visibility are plausible contributors to modern UAP reports, not side issues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 What the evidence does not support is the claim that Idaho’s high per-capita reporting proves extraordinary craft. Public databases preserve claims; they do not automatically verify them. A state can be rich in UFO reports because it is rich in visibility, curiosity and reporting access.
 
@@ -371,194 +371,194 @@ That is still historically valuable. Idaho’s modern UFO story shows how a stat
 <img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-3-dark.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Idaho Continues to See UFO Activity Today. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Idaho Continues to See UFO Activity Today. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding long-term UFO reporting trends and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding long-term UFO reporting trends and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how witness reports and evidence are evaluated in contemporary UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how witness reports and evidence are evaluated in contemporary UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how culture and perception shape unusual sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how culture and perception shape unusual sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are reported, classified and interpreted, matching the article&#x27;s focus on reporting patterns rather than a single...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are reported, classified and interpreted, matching the article&#x27;s focus on reporting patterns rather than a single...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-idaho-continues-to-see-ufo-activity-today-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ That is still historically valuable. Idaho’s modern UFO story shows how a stat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ That is still historically valuable. Idaho’s modern UFO story shows how a stat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ That is still historically valuable. Idaho’s modern UFO story shows how a stat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ That is still historically valuable. Idaho’s modern UFO story shows how a stat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ That is still historically valuable. Idaho’s modern UFO story shows how a stat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,241 +764,241 @@ That is still historically valuable. Idaho’s modern UFO story shows how a stat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: darksky.org  
-   Link: <a href="https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/</a>  
+   Link:<a href="https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/news/first-international-dark-sky-reserve-in-the-u-s-designated/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lID" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lID</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lID" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lID</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Idaho | Stacker  
-   Link: <a href="https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho</a>  
+   Link:<a href="https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/idaho/cities-most-ufo-sightings-idaho</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: axios.com  
    Title: America's UFO hotspot map correlates to dark sky locations  
-   Link: <a href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023</a>  
+   Link:<a href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=171100" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=171100</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=171100" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=171100</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=168167" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168167</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=168167" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168167</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+   Link:<a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: census.gov  
    Title: 2020 population and housing state data  
-   Link: <a href="https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html</a>  
+   Link:<a href="https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lOK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOK</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lOK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOK</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=196352" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196352</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=196352" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196352</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184819" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184819</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184819" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184819</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=188626" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188626</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=188626" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188626</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=128915" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128915</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=128915" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128915</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=192755" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192755</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=192755" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192755</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=72561" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=72561</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=72561" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=72561</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=146006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=146006</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=146006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=146006</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=162039" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=162039</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=162039" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=162039</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=106135" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106135</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=106135" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106135</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=195919" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195919</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=195919" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195919</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: darksky.org  
-   Link: <a href="https://darksky.org/what-we-do/international-dark-sky-places/all-places/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/all-places/</a>  
+   Link:<a href="https://darksky.org/what-we-do/international-dark-sky-places/all-places/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/all-places/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: darksky.org  
-   Link: <a href="https://darksky.org/what-we-do/international-dark-sky-places/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/</a>  
+   Link:<a href="https://darksky.org/what-we-do/international-dark-sky-places/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: labor.idaho.gov  
    Title: Rural profile of Idaho 2025  
-   Link: <a href="https://www.labor.idaho.gov/wp-content/uploads/2025/11/Rural-profile-of-Idaho-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.labor.idaho.gov/wp-content/uploads/2025/11/Rural-profile-of-Idaho-2025.pdf</a>  
+   Link:<a href="https://www.labor.idaho.gov/wp-content/uploads/2025/11/Rural-profile-of-Idaho-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.labor.idaho.gov/wp-content/uploads/2025/11/Rural-profile-of-Idaho-2025.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ioem.idaho.gov  
    Title: id shmp chapter 2 state of idaho profile  
-   Link: <a href="https://ioem.idaho.gov/wp-content/uploads/2018/12/id-shmp-chapter-2-state-of-idaho-profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ioem.idaho.gov/wp-content/uploads/2018/12/id-shmp-chapter-2-state-of-idaho-profile.pdf</a>  
+   Link:<a href="https://ioem.idaho.gov/wp-content/uploads/2018/12/id-shmp-chapter-2-state-of-idaho-profile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ioem.idaho.gov/wp-content/uploads/2018/12/id-shmp-chapter-2-state-of-idaho-profile.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: stacker.com  
    Title: see how many ufo sightings have occurred idaho  
-   Link: <a href="https://stacker.com/stories/idaho/see-how-many-ufo-sightings-have-occurred-idaho" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/idaho/see-how-many-ufo-sightings-have-occurred-idaho</a>  
+   Link:<a href="https://stacker.com/stories/idaho/see-how-many-ufo-sightings-have-occurred-idaho" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/idaho/see-how-many-ufo-sightings-have-occurred-idaho</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: visitidaho.org  
    Title: Visit Idaho Learn All About Idaho  
-   Link: <a href="https://visitidaho.org/about-idaho/" target="_blank" rel="noopener noreferrer nofollow">https://visitidaho.org/about-idaho/</a>  
+   Link:<a href="https://visitidaho.org/about-idaho/" target="_blank" rel="noopener noreferrer nofollow">https://visitidaho.org/about-idaho/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: idahostatesman.com  
-   Link: <a href="https://www.idahostatesman.com/outdoors/article268145977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/outdoors/article268145977.html</a>  
+   Link:<a href="https://www.idahostatesman.com/outdoors/article268145977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/outdoors/article268145977.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: leonarddavid.com  
    Title: states with the most ufo sightings in 2020  
-   Link: <a href="https://www.leonarddavid.com/states-with-the-most-ufo-sightings-in-2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/states-with-the-most-ufo-sightings-in-2020/</a>  
+   Link:<a href="https://www.leonarddavid.com/states-with-the-most-ufo-sightings-in-2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/states-with-the-most-ufo-sightings-in-2020/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: idahostatesman.com  
-   Link: <a href="https://www.idahostatesman.com/news/northwest/idaho/article288242655.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/news/northwest/idaho/article288242655.html</a>  
+   Link:<a href="https://www.idahostatesman.com/news/northwest/idaho/article288242655.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/news/northwest/idaho/article288242655.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: visitidaho.org  
    Title: Visit Idaho Stargazing in Idaho  
-   Link: <a href="https://visitidaho.org/things-to-do/dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://visitidaho.org/things-to-do/dark-skies/</a>  
+   Link:<a href="https://visitidaho.org/things-to-do/dark-skies/" target="_blank" rel="noopener noreferrer nofollow">https://visitidaho.org/things-to-do/dark-skies/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/fc1506584e7833dbde3e16fe8613b6b4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fc1506584e7833dbde3e16fe8613b6b4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the announcement sparked controversy on social media — with critics opposing what they perceived as a foreign base on American s...</p></details>
+   Link:<a href="https://apnews.com/article/fc1506584e7833dbde3e16fe8613b6b4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fc1506584e7833dbde3e16fe8613b6b4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the announcement sparked controversy on social media — with critics opposing what they perceived as a foreign base on American s...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/idaho" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/idaho</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/idaho" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/idaho</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Central Idaho Dark Sky Reserve  
-   Link: <a href="https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Idaho" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Idaho</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Idaho" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Idaho</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: darksitefinder.com  
-   Link: <a href="https://darksitefinder.com/map/" target="_blank" rel="noopener noreferrer nofollow">https://darksitefinder.com/map/</a>  
+   Link:<a href="https://darksitefinder.com/map/" target="_blank" rel="noopener noreferrer nofollow">https://darksitefinder.com/map/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: leonarddavid.com  
-   Link: <a href="https://www.leonarddavid.com/33290-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/33290-2/</a>  
+   Link:<a href="https://www.leonarddavid.com/33290-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/33290-2/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: idahostatesman.com  
-   Link: <a href="https://www.idahostatesman.com/news/northwest/idaho/article243793162.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/news/northwest/idaho/article243793162.html</a>  
+   Link:<a href="https://www.idahostatesman.com/news/northwest/idaho/article243793162.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/news/northwest/idaho/article243793162.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: idahostatesman.com  
-   Link: <a href="https://www.idahostatesman.com/news/northwest/idaho/article264767339.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/news/northwest/idaho/article264767339.html</a>  
+   Link:<a href="https://www.idahostatesman.com/news/northwest/idaho/article264767339.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idahostatesman.com/news/northwest/idaho/article264767339.html</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: usafacts.org  
-   Link: <a href="https://usafacts.org/answers/how-many-people-live-in-the-us/state/idaho/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/state/idaho/</a>  
+   Link:<a href="https://usafacts.org/answers/how-many-people-live-in-the-us/state/idaho/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/state/idaho/</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: The fascination, history behind UFO sightings in Idaho  
-   Link: <a href="https://www.youtube.com/watch?v=XDl1NgleQRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDl1NgleQRM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On World UFO Day, man says nuclear fallout is why Idaho has so many sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XDl1NgleQRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDl1NgleQRM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On World UFO Day, man says nuclear fallout is why Idaho has so many sightings...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/</a>  
+   Link:<a href="https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2719908611560735/posts/3830179863866932/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gzwb90/army_dispatched_to_recent_ufo_scene_say_idaho/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gzwb90/army_dispatched_to_recent_ufo_scene_say_idaho/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gzwb90/army_dispatched_to_recent_ufo_scene_say_idaho/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gzwb90/army_dispatched_to_recent_ufo_scene_say_idaho/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: visitsunvalley.com  
-   Link: <a href="https://visitsunvalley.com/searching-for-sun-valley/the-dark-skies-of-sun-valley-id/" target="_blank" rel="noopener noreferrer nofollow">https://visitsunvalley.com/searching-for-sun-valley/the-dark-skies-of-sun-valley-id/</a>  
+   Link:<a href="https://visitsunvalley.com/searching-for-sun-valley/the-dark-skies-of-sun-valley-id/" target="_blank" rel="noopener noreferrer nofollow">https://visitsunvalley.com/searching-for-sun-valley/the-dark-skies-of-sun-valley-id/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: idahodarksky.org  
-   Link: <a href="https://idahodarksky.org/" target="_blank" rel="noopener noreferrer nofollow">https://idahodarksky.org/</a>  
+   Link:<a href="https://idahodarksky.org/" target="_blank" rel="noopener noreferrer nofollow">https://idahodarksky.org/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: go-astronomy.com  
-   Link: <a href="https://www.go-astronomy.com/dark-sky-sites.php" target="_blank" rel="noopener noreferrer nofollow">https://www.go-astronomy.com/dark-sky-sites.php</a>  
+   Link:<a href="https://www.go-astronomy.com/dark-sky-sites.php" target="_blank" rel="noopener noreferrer nofollow">https://www.go-astronomy.com/dark-sky-sites.php</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: darkskymap.com  
-   Link: <a href="https://www.darkskymap.com/nightSkyBrightness" target="_blank" rel="noopener noreferrer nofollow">https://www.darkskymap.com/nightSkyBrightness</a>  
+   Link:<a href="https://www.darkskymap.com/nightSkyBrightness" target="_blank" rel="noopener noreferrer nofollow">https://www.darkskymap.com/nightSkyBrightness</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: stanleyinn.com  
-   Link: <a href="https://stanleyinn.com/dark-sky-reserve-in-central-idaho/" target="_blank" rel="noopener noreferrer nofollow">https://stanleyinn.com/dark-sky-reserve-in-central-idaho/</a>
+   Link:<a href="https://stanleyinn.com/dark-sky-reserve-in-central-idaho/" target="_blank" rel="noopener noreferrer nofollow">https://stanleyinn.com/dark-sky-reserve-in-central-idaho/</a>

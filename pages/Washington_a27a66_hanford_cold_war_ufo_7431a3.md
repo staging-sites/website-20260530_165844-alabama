@@ -268,39 +268,39 @@ image: /assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-overview-soc
 
 ## Introduction
 
-Hanford made UFO reports matter because the sky above south-eastern Washington was not an ordinary sky in the late 1940s and early 1950s. It sat over one of America’s most sensitive atomic sites: a vast plutonium-production complex built for the Manhattan Project and expanded during the Cold War. Reports of unusual lights, discs or radar tracks near Hanford were therefore treated less like local curiosities and more like possible air-defence problems, even when the eventual explanations were mundane or uncertain. The evidence does not prove that anything exotic visited Hanford. It does show something historically important: in Washington, UFO reporting became entangled with nuclear secrecy, restricted airspace, radar surveillance, interceptor aircraft and fear of hostile technology very early in the modern flying-saucer era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/hanford.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Hanford, WA</span><span class="citation-popover-snippet">National Park Service Hanford, WA</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/management/cold-war-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Hanford made UFO reports matter because the sky above south-eastern Washington was not an ordinary sky in the late 1940s and early 1950s. It sat over one of America’s most sensitive atomic sites: a vast plutonium-production complex built for the Manhattan Project and expanded during the Cold War. Reports of unusual lights, discs or radar tracks near Hanford were therefore treated less like local curiosities and more like possible air-defence problems, even when the eventual explanations were mundane or uncertain. The evidence does not prove that anything exotic visited Hanford. It does show something historically important: in Washington, UFO reporting became entangled with nuclear secrecy, restricted airspace, radar surveillance, interceptor aircraft and fear of hostile technology very early in the modern flying-saucer era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/hanford.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Hanford, WA</span><span class="citation-popover-snippet">National Park Service Hanford, WA</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/management/cold-war-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-overview.webp" | relative_url }}" alt="Overview image for Hanford Made UFO Reports Matter Because The Sky Above South Eastern..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Hanford changed the meaning of a sighting
 
-Hanford’s UFO relevance begins with what the site was. The Hanford Engineer Works was built on a roughly 600-square-mile site along the Columbia River to produce plutonium for the Manhattan Project. Its B Reactor was the world’s first full-scale plutonium production reactor, and Hanford plutonium was used in the wartime atomic-weapons programme. After 1945, the site remained central to the nuclear-weapons complex; the US Department of Energy describes Hanford as a main supplier of fissionable plutonium for atomic bombs during the Cold War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/hanford.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Hanford, WA</span><span class="citation-popover-snippet">National Park Service Hanford, WA</span></span></span>
+Hanford’s UFO relevance begins with what the site was. The Hanford Engineer Works was built on a roughly 600-square-mile site along the Columbia River to produce plutonium for the Manhattan Project. Its B Reactor was the world’s first full-scale plutonium production reactor, and Hanford plutonium was used in the wartime atomic-weapons programme. After 1945, the site remained central to the nuclear-weapons complex; the US Department of Energy describes Hanford as a main supplier of fissionable plutonium for atomic bombs during the Cold War.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/hanford.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Hanford, WA</span><span class="citation-popover-snippet">National Park Service Hanford, WA</span></span></span>
 
 That status changed the security meaning of lights in the sky. A report over a farm, lake or mountain might be logged as a strange observation. A report over Hanford could imply penetration of restricted airspace, surveillance of atomic production, a navigational hazard, a radar error, a balloon, a military test, or, in Cold War thinking, a possible Soviet reconnaissance problem. The important point is not that officials accepted extraordinary explanations, but that they had practical reasons to ask: what is it, where is it, and does it threaten the plant?
 
-This is why Hanford sits differently within Washington’s UFO history from better-known public stories such as Kenneth Arnold’s Mount Rainier sighting or the [Maury Island]({{ 'maury-island/' | relative_url }}) tale. Arnold helped launch the “flying saucer” age in 1947; Hanford gave the same era a security frame. The location meant that unusual aerial reports could move quickly from witness testimony into air-defence channels, Air Force files and later debates over Project Sign, Project Grudge and Project Blue Book. The National Archives notes that Project Blue Book and its predecessors became the official Air Force system for collecting and evaluating UFO reports from 1947 to 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+This is why Hanford sits differently within Washington’s UFO history from better-known public stories such as Kenneth Arnold’s Mount Rainier sighting or the [Maury Island]({{ 'maury-island/' | relative_url }}) tale. Arnold helped launch the “flying saucer” age in 1947; Hanford gave the same era a security frame. The location meant that unusual aerial reports could move quickly from witness testimony into air-defence channels, Air Force files and later debates over Project Sign, Project Grudge and Project Blue Book. The National Archives notes that Project Blue Book and its predecessors became the official Air Force system for collecting and evaluating UFO reports from 1947 to 1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-Illustration-1-dark.svg" | relative_url }}" alt="Hanford Made UFO Reports Matter Because The Sky Above South Eastern... illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Nuclear security and unexplained lights
 
-The best-known Hanford case is the 21 May 1949 report, usually described as the Hanford Atomic Energy Commission plant or Hanford AEC Plant/F-82 case. According to the surviving Air Intelligence Information Report and later summaries by UFO researchers, a silvery disc-shaped object was reported in restricted airspace over the Hanford Atomic Plant at an estimated altitude of 17,000 to 20,000 feet. The report involved both visual observation from Hanford personnel using a telescope and radar-related air-defence activity. An F-82 fighter was sent from Moses Lake Air Force Base, but the object was not intercepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span>
+The best-known Hanford case is the 21 May 1949 report, usually described as the Hanford Atomic Energy Commission plant or Hanford AEC Plant/F-82 case. According to the surviving Air Intelligence Information Report and later summaries by UFO researchers, a silvery disc-shaped object was reported in restricted airspace over the Hanford Atomic Plant at an estimated altitude of 17,000 to 20,000 feet. The report involved both visual observation from Hanford personnel using a telescope and radar-related air-defence activity. An F-82 fighter was sent from Moses Lake Air Force Base, but the object was not intercepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span>
 
-The case is valuable because it shows how a Hanford sighting became an operational incident. The record was not simply “someone saw a light”. It involved restricted airspace, a call from Hanford, an interceptor scramble, and an attempt to decide whether the object was connected with an aircraft later found to have dropped rodeo leaflets in the area. The Air Force document’s own summary is awkward for a tidy explanation: it states that there appeared to be two separate alert conditions that afternoon, one involving “Flying Saucers” observed by Hanford and the 637th Aircraft Control and Warning operations crew, and another involving leaflet dropping by an aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span>
+The case is valuable because it shows how a Hanford sighting became an operational incident. The record was not simply “someone saw a light”. It involved restricted airspace, a call from Hanford, an interceptor scramble, and an attempt to decide whether the object was connected with an aircraft later found to have dropped rodeo leaflets in the area. The Air Force document’s own summary is awkward for a tidy explanation: it states that there appeared to be two separate alert conditions that afternoon, one involving “Flying Saucers” observed by Hanford and the 637th Aircraft Control and Warning operations crew, and another involving leaflet dropping by an aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span>
 
-That does not make the 1949 Hanford object an alien craft. It does make the case harder to dismiss as a single casual mistake. The strongest elements are the restricted-site setting, the reported radar context, the use of trained personnel and the fact that an interceptor was launched. The weak points are equally important: the surviving public record is fragmentary, altitude and speed estimates may be unreliable, the object was not photographed or recovered, and the official file’s final classification leaned towards a conventional aircraft explanation despite internal tension in the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span>
+That does not make the 1949 Hanford object an alien craft. It does make the case harder to dismiss as a single casual mistake. The strongest elements are the restricted-site setting, the reported radar context, the use of trained personnel and the fact that an interceptor was launched. The weak points are equally important: the surviving public record is fragmentary, altitude and speed estimates may be unreliable, the object was not photographed or recovered, and the official file’s final classification leaned towards a conventional aircraft explanation despite internal tension in the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span>
 
-Hanford also appears in the wider Cold War pattern of reports around atomic facilities. Former Air Force investigator Edward J. Ruppelt wrote that UFO reports seemed more frequent around defence-sensitive areas, naming places such as Los Alamos, Albuquerque, Oak Ridge and White Sands in the same general security discussion. In his account of the 1952 UFO build-up, he also described a 5 July report by a non-scheduled airliner crew over the Atomic Energy Commission’s “supersecret Hanford” installation, later explained as a Skyhook balloon. That example matters because it cuts both ways: Hanford generated serious attention, but not every Hanford-related report remained unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Hanford also appears in the wider Cold War pattern of reports around atomic facilities. Former Air Force investigator Edward J. Ruppelt wrote that UFO reports seemed more frequent around defence-sensitive areas, naming places such as Los Alamos, Albuquerque, Oak Ridge and White Sands in the same general security discussion. In his account of the 1952 UFO build-up, he also described a 5 July report by a non-scheduled airliner crew over the Atomic Energy Commission’s “supersecret Hanford” installation, later explained as a Skyhook balloon. That example matters because it cuts both ways: Hanford generated serious attention, but not every Hanford-related report remained unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uv-dH7g0x34" title="Nuclear Weapons and UFOs with Robert Hastings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer">Nuclear Weapons and UFOs with Robert Hastings</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 28.1K &middot; Uploaded: June 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uv-dH7g0x34">Open on YouTube</a></p></div></div></div>
 
 ## How official investigations framed the risk
 
-The Air Force’s public position was not that UFOs were proof of visitors from elsewhere. Its official UFO programmes were built around three practical questions: could reports be identified, did they indicate a threat to national security, and did they reveal technology beyond known science? The Air Force later stated that Project Blue Book collected 12,618 reports, of which 701 remained unidentified, but concluded that no investigated UFO indicated a national-security threat, no evidence showed technology beyond present scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
+The Air Force’s public position was not that UFOs were proof of visitors from elsewhere. Its official UFO programmes were built around three practical questions: could reports be identified, did they indicate a threat to national security, and did they reveal technology beyond known science? The Air Force later stated that Project Blue Book collected 12,618 reports, of which 701 remained unidentified, but concluded that no investigated UFO indicated a national-security threat, no evidence showed technology beyond present scientific knowledge, and no evidence indicated extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
 
-Hanford belongs to the earlier, more nervous phase of that system. Project Sign began in 1947, Project Grudge followed in 1949, and Project Blue Book later became the better-known long-running programme. The National Archives and Air Force accounts show that these projects were official record-keeping and evaluation efforts, not simply folklore collections. A sighting above or near Hanford therefore entered a bureaucracy concerned with air defence, intelligence, public anxiety and the credibility of witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">saucers over washington the history of project blue book</span><span class="citation-popover-snippet">saucers over washington the history of project blue book</span></span></span>
+Hanford belongs to the earlier, more nervous phase of that system. Project Sign began in 1947, Project Grudge followed in 1949, and Project Blue Book later became the better-known long-running programme. The National Archives and Air Force accounts show that these projects were official record-keeping and evaluation efforts, not simply folklore collections. A sighting above or near Hanford therefore entered a bureaucracy concerned with air defence, intelligence, public anxiety and the credibility of witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">saucers over washington the history of project blue book</span><span class="citation-popover-snippet">saucers over washington the history of project blue book</span></span></span>
 
-That framework helps explain why the Hanford cases are often debated. Sceptics point to the Air Force’s broader conclusion that UFO investigations found no national-security threat and to specific explanations such as balloons, aircraft or meteors. UFO researchers point to cases where the original documents appear less certain than the later label suggests, especially the May 1949 incident’s apparent separation between the disc report and the leaflet-dropping aircraft. Both readings are partly grounded in real records; the dispute is over how much weight to give incomplete and sometimes contradictory official paperwork. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-hanford49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp hanford49</span><span class="citation-popover-snippet">ncp hanford49</span></span></span>
+That framework helps explain why the Hanford cases are often debated. Sceptics point to the Air Force’s broader conclusion that UFO investigations found no national-security threat and to specific explanations such as balloons, aircraft or meteors. UFO researchers point to cases where the original documents appear less certain than the later label suggests, especially the May 1949 incident’s apparent separation between the disc report and the leaflet-dropping aircraft. Both readings are partly grounded in real records; the dispute is over how much weight to give incomplete and sometimes contradictory official paperwork.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-hanford49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp hanford49</span><span class="citation-popover-snippet">ncp hanford49</span></span></span>
 
-The green-fireball controversy shows the same Cold War logic in another form. Reports of green fireballs were especially associated with New Mexico’s atomic and military sites, but they became part of the wider atomic-site UFO discussion. Los Alamos National Laboratory’s National Security Research Center notes that archived materials about December 1948 green-fireball reports were rediscovered through Freedom of Information Act work, and that participants in the period treated these reports as serious enough to discuss under Project Grudge, even while remaining sceptical of extraterrestrial explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The green-fireball controversy shows the same Cold War logic in another form. Reports of green fireballs were especially associated with New Mexico’s atomic and military sites, but they became part of the wider atomic-site UFO discussion. Los Alamos National Laboratory’s National Security Research Center notes that archived materials about December 1948 green-fireball reports were rediscovered through Freedom of Information Act work, and that participants in the period treated these reports as serious enough to discuss under Project Grudge, even while remaining sceptical of extraterrestrial explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKd9sS2IORM" title="The Green Run (1949)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKd9sS2IORM" target="_blank" rel="noopener noreferrer">The Green Run (1949)</a></p><p class="youtube-embed-meta">Channel: AtomicHeritage &middot; Views: 2.7K &middot; Uploaded: June 2019 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKd9sS2IORM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKd9sS2IORM">Open on YouTube</a></p></div></div></div>
 
@@ -309,205 +309,205 @@ The green-fireball controversy shows the same Cold War logic in another form. Re
 <img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-Illustration-2-dark.svg" | relative_url }}" alt="Hanford Made UFO Reports Matter Because The Sky Above South Eastern... illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Hanford can and cannot prove
 
-Hanford can prove that UFO reports in Washington were not limited to mountain sightings, newspaper excitement or civilian rumour. They also reached the guarded world of atomic production and military response. The May 1949 case in particular shows a report passing through a chain of observation, radar-related alerting, attempted interception and official classification. For a state-level UFO history, that is the distinctive value of Hanford: it links Washington’s flying-saucer record to the practical machinery of Cold War governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/490521hanforddir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Hanford AEC Plant / F-82/RV Case</span><span class="citation-popover-snippet">UF O Report Hanford AEC Plant / F-82/RV Case</span></span></span>
+Hanford can prove that UFO reports in Washington were not limited to mountain sightings, newspaper excitement or civilian rumour. They also reached the guarded world of atomic production and military response. The May 1949 case in particular shows a report passing through a chain of observation, radar-related alerting, attempted interception and official classification. For a state-level UFO history, that is the distinctive value of Hanford: it links Washington’s flying-saucer record to the practical machinery of Cold War governance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project GRUDGE Report 1949</span><span class="citation-popover-snippet">File:Project GRUDGE Report 1949</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/490521hanforddir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Hanford AEC Plant / F-82/RV Case</span><span class="citation-popover-snippet">UF O Report Hanford AEC Plant / F-82/RV Case</span></span></span>
 
-Hanford cannot prove that unexplained objects were monitoring nuclear facilities. The evidence is not strong enough for that. The public record contains reports, summaries, classifications and later interpretations, but not a recovered object, decisive instrument data, a complete chain of physical evidence or a settled scientific analysis. In some cases, later explanations weakened the mystery; Ruppelt’s account of the July 1952 Hanford-related airliner report identifies a Skyhook balloon rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Hanford cannot prove that unexplained objects were monitoring nuclear facilities. The evidence is not strong enough for that. The public record contains reports, summaries, classifications and later interpretations, but not a recovered object, decisive instrument data, a complete chain of physical evidence or a settled scientific analysis. In some cases, later explanations weakened the mystery; Ruppelt’s account of the July 1952 Hanford-related airliner report identifies a Skyhook balloon rather than an unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A fair reading puts Hanford between two extremes. It is not a throwaway myth, because official records show that unusual aerial reports near the plant were taken seriously enough to trigger investigation and, in at least one case, interceptor response. It is also not a solved demonstration of extraordinary craft, because the available evidence is incomplete, contested and often filtered through later UFO literature. The most reliable conclusion is narrower but more useful: Hanford shows how quickly the UFO question became a security question when it appeared above nuclear infrastructure. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A fair reading puts Hanford between two extremes. It is not a throwaway myth, because official records show that unusual aerial reports near the plant were taken seriously enough to trigger investigation and, in at least one case, interceptor response. It is also not a solved demonstration of extraordinary craft, because the available evidence is incomplete, contested and often filtered through later UFO literature. The most reliable conclusion is narrower but more useful: Hanford shows how quickly the UFO question became a security question when it appeared above nuclear infrastructure. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That makes Hanford an important companion to Washington’s more famous UFO landmarks. Mount Rainier gave the country a phrase. Maury Island gave the state a disputed legend. Hanford gave Washington’s UFO history a Cold War anxiety layer: an example of how unidentified lights could become entangled with atomic secrecy, restricted airspace and official concern long before modern UAP debates revived the same questions in updated language.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3k6nmTXxavk" title="America’s Forgotten Nuclear City: The Story of Hanford, Washington" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3k6nmTXxavk" target="_blank" rel="noopener noreferrer">America’s Forgotten Nuclear City: The Story of Hanford, Washington</a></p><p class="youtube-embed-meta">Channel: Rainy Day Rabbit Holes Podcast &middot; Views: 341 &middot; Uploaded: December 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3k6nmTXxavk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3k6nmTXxavk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Hanford Made UFO Reports Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Hanford Made UFO Reports Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for official handling of unexplained Cold War cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official handling of unexplained Cold War cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating radar, witness and security-related evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating radar, witness and security-related evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Excellent match for security-focused UFO reports near strategic sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent match for security-focused UFO reports near strategic sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong fit for nuclear-security and military-report themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for nuclear-security and military-report themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/9NkAAOSwuaJmOQ-v/s-l225.jpg" alt="Listing image for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/9NkAAOSwuaJmOQ-v/s-l225.jpg" alt="Listing image for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-hanford-made-ufo-reports-matter-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -523,7 +523,7 @@ That makes Hanford an important companion to Washington’s more famous UFO land
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -543,7 +543,7 @@ That makes Hanford an important companion to Washington’s more famous UFO land
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -575,7 +575,7 @@ That makes Hanford an important companion to Washington’s more famous UFO land
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -627,7 +627,7 @@ That makes Hanford an important companion to Washington’s more famous UFO land
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -672,7 +672,7 @@ That makes Hanford an important companion to Washington’s more famous UFO land
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,245 +713,245 @@ That makes Hanford an important companion to Washington’s more famous UFO land
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/management/cold-war-history" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/management/cold-war-history</a>  
+   Link:<a href="https://www.energy.gov/management/cold-war-history" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/management/cold-war-history</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1949 05 6312516 MosesLakeAirForceBase Washington  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1949-05-6312516-MosesLakeAirForceBase-Washington.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1949-05-6312516-MosesLakeAirForceBase-Washington.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1949-05-6312516-MosesLakeAirForceBase-Washington.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1949-05-6312516-MosesLakeAirForceBase-Washington.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: ncp hanford49  
-   Link: <a href="https://www.nicap.org/ncp/ncp-hanford49.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-hanford49.htm</a>  
+   Link:<a href="https://www.nicap.org/ncp/ncp-hanford49.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-hanford49.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hanford.gov  
    Title: Understand the PAST  
-   Link: <a href="https://www.hanford.gov/page.cfm/understandPAST" target="_blank" rel="noopener noreferrer nofollow">https://www.hanford.gov/page.cfm/understandPAST</a>  
+   Link:<a href="https://www.hanford.gov/page.cfm/understandPAST" target="_blank" rel="noopener noreferrer nofollow">https://www.hanford.gov/page.cfm/understandPAST</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hanford.gov  
-   Link: <a href="https://www.hanford.gov/page.cfm/HanfordStory" target="_blank" rel="noopener noreferrer nofollow">https://www.hanford.gov/page.cfm/HanfordStory</a>  
+   Link:<a href="https://www.hanford.gov/page.cfm/HanfordStory" target="_blank" rel="noopener noreferrer nofollow">https://www.hanford.gov/page.cfm/HanfordStory</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hanford.gov  
    Title: In No-Man's Land  
-   Link: <a href="https://www.hanford.gov/files.cfm/HNF-60623-FP_R0_cleared.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hanford.gov/files.cfm/HNF-60623-FP_R0_cleared.pdf</a>  
+   Link:<a href="https://www.hanford.gov/files.cfm/HNF-60623-FP_R0_cleared.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hanford.gov/files.cfm/HNF-60623-FP_R0_cleared.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
+   Link:<a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/BattelledocTopSecretWithOrcon.theWorldIsDividedInToThreeClassesOf/36258531-Battelledoc_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BattelledocTopSecretWithOrcon.theWorldIsDividedInToThreeClassesOf/36258531-Battelledoc_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/BattelledocTopSecretWithOrcon.theWorldIsDividedInToThreeClassesOf/36258531-Battelledoc_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BattelledocTopSecretWithOrcon.theWorldIsDividedInToThreeClassesOf/36258531-Battelledoc_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
+   Link:<a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AboveTopSecret/Above%20Top%20Secret_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
    Title: Full text of "Maji  
-   Link: <a href="https://archive.org/stream/majiall337/Maji%20all_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/Maji%20all_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/majiall337/Maji%20all_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/Maji%20all_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1/European_Journal_of_UFO_and_Abduction_Studies_vol_3-1_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: Project GRUDGE  
-   Link: <a href="https://archive.org/details/ProjectGRUDGE" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectGRUDGE</a>  
+   Link:<a href="https://archive.org/details/ProjectGRUDGE" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectGRUDGE</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nicap.org  
    Title: UF O Report Hanford AEC Plant / F-82/RV Case  
-   Link: <a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/490521hanforddir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/490521hanforddir.htm</a>  
+   Link:<a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/490521hanforddir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/490521hanforddir.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nicap.org  
    Title: UFO Evidence 1964  
-   Link: <a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
+   Link:<a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: energy.gov  
    Title: national archives receives hanfords world war ii and cold war records  
-   Link: <a href="https://www.energy.gov/em/articles/national-archives-receives-hanfords-world-war-ii-and-cold-war-records" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/articles/national-archives-receives-hanfords-world-war-ii-and-cold-war-records</a>  
+   Link:<a href="https://www.energy.gov/em/articles/national-archives-receives-hanfords-world-war-ii-and-cold-war-records" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/articles/national-archives-receives-hanfords-world-war-ii-and-cold-war-records</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: energy.gov  
    Title: By the Numbers 2021 Hanford  
-   Link: <a href="https://www.energy.gov/sites/default/files/2021-07/By%20the%20Numbers%202021%20Hanford.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2021-07/By%20the%20Numbers%202021%20Hanford.pdf</a>  
+   Link:<a href="https://www.energy.gov/sites/default/files/2021-07/By%20the%20Numbers%202021%20Hanford.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2021-07/By%20the%20Numbers%202021%20Hanford.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: energy.gov  
    Title: history park dedicated manhattan project story  
-   Link: <a href="https://www.energy.gov/em/articles/history-park-dedicated-manhattan-project-story" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/articles/history-park-dedicated-manhattan-project-story</a>  
+   Link:<a href="https://www.energy.gov/em/articles/history-park-dedicated-manhattan-project-story" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/articles/history-park-dedicated-manhattan-project-story</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: history.com  
    Title: ufos green fireballs nuclear facilities new mexico  
-   Link: <a href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico</a>  
+   Link:<a href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: commons.wikimedia.org  
    Title: File:Project GRUDGE Report 1949  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_GRUDGE_Report_1949.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Grudge Report, 1949  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Grudge_Report%2C_1949.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Grudge_Report%2C_1949.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Grudge_Report%2C_1949.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Grudge_Report%2C_1949.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR6 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: washington.edu  
-   Link: <a href="https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Cold%20War%20%26%20Red%20Scare/Documents/51.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Cold%20War%20%26%20Red%20Scare/Documents/51.html</a>  
+   Link:<a href="https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Cold%20War%20%26%20Red%20Scare/Documents/51.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Cold%20War%20%26%20Red%20Scare/Documents/51.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nps.gov  
    Title: National Park Service Hanford, WA  
-   Link: <a href="https://www.nps.gov/mapr/hanford.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/mapr/hanford.htm</a>  
+   Link:<a href="https://www.nps.gov/mapr/hanford.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/mapr/hanford.htm</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo13.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo13.htm</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center</a>  
+   Link:<a href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: zzzorted.co.uk  
    Title: Project Grudge  
-   Link: <a href="https://www.zzzorted.co.uk/resources/UFO-Docs/Project-Grudge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zzzorted.co.uk/resources/UFO-Docs/Project-Grudge.pdf</a>  
+   Link:<a href="https://www.zzzorted.co.uk/resources/UFO-Docs/Project-Grudge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zzzorted.co.uk/resources/UFO-Docs/Project-Grudge.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/file/21101" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/21101</a>  
+   Link:<a href="https://www.historylink.org/file/21101" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/21101</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: large.stanford.edu  
-   Link: <a href="https://large.stanford.edu/courses/2021/ph241/sperla1/docs/hanford.pdf" target="_blank" rel="noopener noreferrer nofollow">https://large.stanford.edu/courses/2021/ph241/sperla1/docs/hanford.pdf</a>  
+   Link:<a href="https://large.stanford.edu/courses/2021/ph241/sperla1/docs/hanford.pdf" target="_blank" rel="noopener noreferrer nofollow">https://large.stanford.edu/courses/2021/ph241/sperla1/docs/hanford.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Hidden Story of America's Most Contaminated Place: Hanford  
-   Link: <a href="https://www.youtube.com/watch?v=yce5GyP7mik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yce5GyP7mik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Forgotten Nuclear City: The Story of Hanford, Washington...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yce5GyP7mik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yce5GyP7mik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Forgotten Nuclear City: The Story of Hanford, Washington...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: America's Forgotten Nuclear City: The Story of Hanford, Washington  
-   Link: <a href="https://www.youtube.com/watch?v=3k6nmTXxavk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3k6nmTXxavk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons and UFOs with Robert Hastings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3k6nmTXxavk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3k6nmTXxavk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons and UFOs with Robert Hastings...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/</a>  
+   Link:<a href="https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo06.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo06.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo06.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo06.htm</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KGET17News/posts/if-you-were-in-hanford-last-saturday-and-you-saw-something-fall-from-the-sky-we-/10156023091166314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KGET17News/posts/if-you-were-in-hanford-last-saturday-and-you-saw-something-fall-from-the-sky-we-/10156023091166314/</a>  
+   Link:<a href="https://www.facebook.com/KGET17News/posts/if-you-were-in-hanford-last-saturday-and-you-saw-something-fall-from-the-sky-we-/10156023091166314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KGET17News/posts/if-you-were-in-hanford-last-saturday-and-you-saw-something-fall-from-the-sky-we-/10156023091166314/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/world-news/leaked-documents-claim-us-lab-studied-ufos-linked-to-disappearance-of-scientists-11410563" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/leaked-documents-claim-us-lab-studied-ufos-linked-to-disappearance-of-scientists-11410563</a>  
+   Link:<a href="https://www.ndtv.com/world-news/leaked-documents-claim-us-lab-studied-ufos-linked-to-disappearance-of-scientists-11410563" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/leaked-documents-claim-us-lab-studied-ufos-linked-to-disappearance-of-scientists-11410563</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BenCoWASheriff/posts/our-office-responded-to-the-hanford-site-this-afternoon-reference-a-single-prop-/966048823806598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BenCoWASheriff/posts/our-office-responded-to-the-hanford-site-this-afternoon-reference-a-single-prop-/966048823806598/</a>  
+   Link:<a href="https://www.facebook.com/BenCoWASheriff/posts/our-office-responded-to-the-hanford-site-this-afternoon-reference-a-single-prop-/966048823806598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BenCoWASheriff/posts/our-office-responded-to-the-hanford-site-this-afternoon-reference-a-single-prop-/966048823806598/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>

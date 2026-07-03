@@ -262,25 +262,25 @@ image: /assets/images/Texas_98125d_aurora_airship_folkl_021232-overview-social.j
 
 ## Introduction
 
-Aurora’s 1897 “airship crash” is one of the strangest and oldest famous UFO stories in Texas, but it is best understood as folklore rather than strong evidence of an extraordinary event. The core claim is simple: on 17 April 1897, during a wave of “mystery airship” reports across Texas, a cigar-shaped craft allegedly struck Judge J. S. Proctor’s windmill in Aurora, Wise County, exploded, and left behind a dead pilot said to be “not of this world”. The story matters because it shows how a short newspaper item, local hardship, cemetery memory and later UFO enthusiasm can turn a likely tall tale into a durable part of state UFO history. Its value is not that it proves a crash. Its value is that it reveals how Texas UFO lore began before “flying saucers”, Roswell, radar cases or official Air Force investigations. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
+Aurora’s 1897 “airship crash” is one of the strangest and oldest famous UFO stories in Texas, but it is best understood as folklore rather than strong evidence of an extraordinary event. The core claim is simple: on 17 April 1897, during a wave of “mystery airship” reports across Texas, a cigar-shaped craft allegedly struck Judge J. S. Proctor’s windmill in Aurora, Wise County, exploded, and left behind a dead pilot said to be “not of this world”. The story matters because it shows how a short newspaper item, local hardship, cemetery memory and later UFO enthusiasm can turn a likely tall tale into a durable part of state UFO history. Its value is not that it proves a crash. Its value is that it reveals how Texas UFO lore began before “flying saucers”, Roswell, radar cases or official Air Force investigations. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-overview.webp" | relative_url }}" alt="Overview image for Aurora" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1897 airship wave in Texas
 
-Aurora did not appear in a vacuum. In the spring of 1897, Texas newspapers were carrying a run of “airship” stories: strange aerial machines, lights, cigar-shaped bodies, alleged pilots and sometimes claims that sounded more like newspaper entertainment than sober observation. The Texas Almanac summarises the local scale clearly: between 13 and 17 April 1897, there were 38 reported “airship” sightings in 23 Texas counties, mostly in North Central Texas. That puts Aurora inside a regional press wave rather than as a lone, cleanly documented incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+Aurora did not appear in a vacuum. In the spring of 1897, Texas newspapers were carrying a run of “airship” stories: strange aerial machines, lights, cigar-shaped bodies, alleged pilots and sometimes claims that sounded more like newspaper entertainment than sober observation. The Texas Almanac summarises the local scale clearly: between 13 and 17 April 1897, there were 38 reported “airship” sightings in 23 Texas counties, mostly in North Central Texas. That puts Aurora inside a regional press wave rather than as a lone, cleanly documented incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
-This matters because nineteenth-century readers were encountering aerial mystery through the language of their own time. Before powered heavier-than-air flight became ordinary, “airship” was the natural frame. The objects were imagined as mechanical craft with engines, wings, lights, metal bodies or human-like crews, not as the disc-shaped “flying saucers” that would dominate UFO culture after 1947. Aurora is therefore a pre-saucer case: it belongs to the world of newspaper tall tales, speculative invention, Mars fever and frontier-era technological imagination as much as to later UFO tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">ufo fever americas historical newspapers mysterious airships 1896 97</span></span></span>
+This matters because nineteenth-century readers were encountering aerial mystery through the language of their own time. Before powered heavier-than-air flight became ordinary, “airship” was the natural frame. The objects were imagined as mechanical craft with engines, wings, lights, metal bodies or human-like crews, not as the disc-shaped “flying saucers” that would dominate UFO culture after 1947. Aurora is therefore a pre-saucer case: it belongs to the world of newspaper tall tales, speculative invention, Mars fever and frontier-era technological imagination as much as to later UFO tradition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships</span><span class="citation-popover-snippet">ufo fever americas historical newspapers mysterious airships</span></span></span>
 
-The pattern also weakens any attempt to treat Aurora as a uniquely corroborated crash. If many nearby counties were reporting airships in the same short period, the simplest reading is that Aurora was part of a broader media contagion: stories spread, local correspondents supplied dramatic variants, and each town’s version could borrow from the shared airship vocabulary. That does not prove every witness report was false, but it does mean Aurora must be read against a backdrop of excitement, imitation and print culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+The pattern also weakens any attempt to treat Aurora as a uniquely corroborated crash. If many nearby counties were reporting airships in the same short period, the simplest reading is that Aurora was part of a broader media contagion: stories spread, local correspondents supplied dramatic variants, and each town’s version could borrow from the shared airship vocabulary. That does not prove every witness report was false, but it does mean Aurora must be read against a backdrop of excitement, imitation and print culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-1-dark.svg" | relative_url }}" alt="Aurora illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Aurora story actually claims
 
-The most important source is S. E. Haydon’s article, “A Windmill Demolishes It”, published in the Dallas Morning News on 19 April 1897. The article said the airship appeared at about 6 o’clock in the morning, was travelling north, seemed to be malfunctioning, passed over Aurora’s public square, struck Judge Proctor’s windmill, and exploded. It then added the detail that made the tale famous: the badly damaged pilot was supposedly not from this world, and papers found in the wreckage allegedly contained unknown writing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Haydon article, Aurora, Texas, UFO incident, 1897.jpg</span><span class="citation-popover-snippet">E. Haydon, &quot;A Windmill Demolishes It,&quot; The Dallas Morning News, April 19, 1897, p. 5. Concerning the Aurora. Date, 1897. Source.Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
+The most important source is S. E. Haydon’s article, “A Windmill Demolishes It”, published in the Dallas Morning News on 19 April 1897. The article said the airship appeared at about 6 o’clock in the morning, was travelling north, seemed to be malfunctioning, passed over Aurora’s public square, struck Judge Proctor’s windmill, and exploded. It then added the detail that made the tale famous: the badly damaged pilot was supposedly not from this world, and papers found in the wreckage allegedly contained unknown writing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Haydon article, Aurora, Texas, UFO incident, 1897.jpg</span><span class="citation-popover-snippet">E. Haydon, &quot;A Windmill Demolishes It,&quot; The Dallas Morning News, April 19, 1897, p. 5. Concerning the Aurora. Date, 1897. Source.Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
 
-Later retellings usually compress this into a familiar crash-retrieval story: the craft came down, wreckage was found, the non-human pilot was buried in Aurora Cemetery, and the town preserved the secret in local memory. Aurora’s own city history page presents the story as local lore about “Ned”, the name now given to the supposed alien pilot, and says the cemetery tradition and newspaper article remain part of the town’s identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
+Later retellings usually compress this into a familiar crash-retrieval story: the craft came down, wreckage was found, the non-human pilot was buried in Aurora Cemetery, and the town preserved the secret in local memory. Aurora’s own city history page presents the story as local lore about “Ned”, the name now given to the supposed alien pilot, and says the cemetery tradition and newspaper article remain part of the town’s identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
 
-The cemetery is central to the legend because it gives the story a physical location. The Texas Historical Commission’s Atlas records the Aurora Cemetery marker as a 1976 marker in Wise County, and the marker is for the cemetery as a historic local burial ground rather than a certification of an alien crash. Separate cemetery accounts and local histories note that the marker text mentions the legend that a spaceship crashed nearby in 1897 and that the pilot was buried there. That distinction is important: a historical marker can record a legend attached to a place without validating the legend as fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-title">Atlas Details</span><span class="citation-popover-snippet">Atlas Details</span></span></span>
+The cemetery is central to the legend because it gives the story a physical location. The Texas Historical Commission’s Atlas records the Aurora Cemetery marker as a 1976 marker in Wise County, and the marker is for the cemetery as a historic local burial ground rather than a certification of an alien crash. Separate cemetery accounts and local histories note that the marker text mentions the legend that a spaceship crashed nearby in 1897 and that the pilot was buried there. That distinction is important: a historical marker can record a legend attached to a place without validating the legend as fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-title">Atlas Details</span><span class="citation-popover-snippet">Atlas Details</span></span></span>
 
 The modern Aurora story therefore rests on three different kinds of material: the 1897 newspaper article, later local memory, and the cemetery tradition. None of those is the same as physical proof. The article is the origin point; the memory keeps it alive; the cemetery gives visitors somewhere to stand. Together they explain why the case survived, but they do not turn the crash into a verified event.
 
@@ -288,26 +288,26 @@ The modern Aurora story therefore rests on three different kinds of material: th
 
 ## Why the evidence remains weak
 
-The strongest reason for caution is that the case begins with a single dramatic newspaper report and then becomes stronger mainly through repetition. There is no confirmed wreckage, no verified body, no official recovery file, no surviving chain of custody for alleged metal fragments, and no contemporary independent funeral record that clearly confirms the burial of a strange pilot. Later accounts often add colour, but the historical base remains narrow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Haydon article, Aurora, Texas, UFO incident, 1897.jpg</span><span class="citation-popover-snippet">E. Haydon, &quot;A Windmill Demolishes It,&quot; The Dallas Morning News, April 19, 1897, p. 5. Concerning the Aurora. Date, 1897. Source.Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
+The strongest reason for caution is that the case begins with a single dramatic newspaper report and then becomes stronger mainly through repetition. There is no confirmed wreckage, no verified body, no official recovery file, no surviving chain of custody for alleged metal fragments, and no contemporary independent funeral record that clearly confirms the burial of a strange pilot. Later accounts often add colour, but the historical base remains narrow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Haydon article, Aurora, Texas, UFO incident, 1897.jpg</span><span class="citation-popover-snippet">E. Haydon, &quot;A Windmill Demolishes It,&quot; The Dallas Morning News, April 19, 1897, p. 5. Concerning the Aurora. Date, 1897. Source.Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
 
-The sceptical case also has a specific local witness. In a 1979 Time article, Etta Pegues, then an elderly Aurora resident, said Haydon had written the story as a joke to draw attention to a dying town after the railroad bypassed it. Time reported that the tale had been ridiculed locally at the time and that many Aurora residents still scoffed at it decades later. This does not settle the matter by itself, because Pegues was speaking long after the event, but it directly supports the interpretation that Aurora began as publicity, satire or a tall tale rather than as a documented crash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
+The sceptical case also has a specific local witness. In a 1979 Time article, Etta Pegues, then an elderly Aurora resident, said Haydon had written the story as a joke to draw attention to a dying town after the railroad bypassed it. Time reported that the tale had been ridiculed locally at the time and that many Aurora residents still scoffed at it decades later. This does not settle the matter by itself, because Pegues was speaking long after the event, but it directly supports the interpretation that Aurora began as publicity, satire or a tall tale rather than as a documented crash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
 
-The Texas State Historical Association takes an even firmer line, describing Haydon’s item as a fictional “news” story by a cotton buyer in a struggling Wise County community. It places the story against Aurora’s late nineteenth-century decline: the town had grown in the 1880s, but disease, population loss and missed railway hopes damaged its prospects. In that setting, a spectacular airship story could work as local promotion, comic invention or both. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Texas State Historical Association takes an even firmer line, describing Haydon’s item as a fictional “news” story by a cotton buyer in a struggling Wise County community. It places the story against Aurora’s late nineteenth-century decline: the town had grown in the 1880s, but disease, population loss and missed railway hopes damaged its prospects. In that setting, a spectacular airship story could work as local promotion, comic invention or both.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Another weakness is the way later investigations depend on belated testimony and ambiguous traces. UFO investigators in the 1970s revived interest in the case, pursued the alleged grave, and reported metal-detector readings and local recollections. But the cemetery association refused exhumation, the supposed grave marker later disappeared, and the available summaries still describe the outcome as inconclusive rather than demonstrative. These details are intriguing as folklore and investigation history, but they are not a clean evidential trail back to 1897. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+Another weakness is the way later investigations depend on belated testimony and ambiguous traces. UFO investigators in the 1970s revived interest in the case, pursued the alleged grave, and reported metal-detector readings and local recollections. But the cemetery association refused exhumation, the supposed grave marker later disappeared, and the available summaries still describe the outcome as inconclusive rather than demonstrative. These details are intriguing as folklore and investigation history, but they are not a clean evidential trail back to 1897.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-The common “metal fragment” argument is especially fragile. Claims about unusual aluminium or alloy pieces have circulated for decades, but without secure provenance they cannot bear much weight. A piece of metal said to come from a site is not enough unless investigators can show where it came from, when it was collected, how it was stored, who tested it, and why ordinary sources can be ruled out. In Aurora, those steps remain uncertain in public accounts, so alleged material evidence does not substantially improve the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+The common “metal fragment” argument is especially fragile. Claims about unusual aluminium or alloy pieces have circulated for decades, but without secure provenance they cannot bear much weight. A piece of metal said to come from a site is not enough unless investigators can show where it came from, when it was collected, how it was stored, who tested it, and why ordinary sources can be ruled out. In Aurora, those steps remain uncertain in public accounts, so alleged material evidence does not substantially improve the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-2-dark.svg" | relative_url }}" alt="Aurora illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Aurora became a UFO legend anyway
 
-Aurora survived because it has the ingredients of a memorable story. It is early, specific, local and visual: a small Texas town, a windmill, an explosion, a mysterious pilot, a cemetery and a missing grave marker. It also has the appeal of seeming to anticipate later UFO mythology. To modern readers, it looks like a “Roswell before Roswell”, even though that comparison can be misleading. Roswell became tied to military secrecy, Cold War anxiety and official statements; Aurora comes from nineteenth-century newspaper culture and small-town storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
+Aurora survived because it has the ingredients of a memorable story. It is early, specific, local and visual: a small Texas town, a windmill, an explosion, a mysterious pilot, a cemetery and a missing grave marker. It also has the appeal of seeming to anticipate later UFO mythology. To modern readers, it looks like a “Roswell before Roswell”, even though that comparison can be misleading. Roswell became tied to military secrecy, Cold War anxiety and official statements; Aurora comes from nineteenth-century newspaper culture and small-town storytelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
 
-The case also shows how local pride and scepticism can coexist. Aurora’s city website embraces “Ned” as part of town lore, while using language such as “local lore” and “tall tale” around the crash story. That is a useful model for reading the case: the town can preserve the legend without proving the event. The story draws curiosity because it belongs to Aurora, not because the evidence meets the standard expected for a genuine crash investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
+The case also shows how local pride and scepticism can coexist. Aurora’s city website embraces “Ned” as part of town lore, while using language such as “local lore” and “tall tale” around the crash story. That is a useful model for reading the case: the town can preserve the legend without proving the event. The story draws curiosity because it belongs to Aurora, not because the evidence meets the standard expected for a genuine crash investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span>
 
-The cemetery marker adds another layer. Visitors often treat the mention of the legend as official recognition of the alien burial, but the Texas Historical Commission record is for Aurora Cemetery, not for an extraterrestrial event. This is where folklore can harden into apparent evidence. A marker acknowledges that a story is attached to a place; later readers may misread that acknowledgement as state endorsement of the story’s factual claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-title">Atlas Details</span><span class="citation-popover-snippet">Atlas Details</span></span></span>
+The cemetery marker adds another layer. Visitors often treat the mention of the legend as official recognition of the alien burial, but the Texas Historical Commission record is for Aurora Cemetery, not for an extraterrestrial event. This is where folklore can harden into apparent evidence. A marker acknowledges that a story is attached to a place; later readers may misread that acknowledgement as state endorsement of the story’s factual claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-title">Atlas Details</span><span class="citation-popover-snippet">Atlas Details</span></span></span>
 
-Modern media have kept the legend alive by revisiting the same dramatic elements: the crash, the grave, the missing marker and the denied exhumation. Local and regional journalism still presents Aurora as a distinctive Texas oddity, often with a wink rather than a claim of proof. That continued attention helps explain why Aurora remains a standard entry in Texas UFO roundups even though its evidential base is weaker than later cases such as Lubbock, Levelland, Cash-Landrum or [Stephenville]({{ 'stephenville/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://fwtx.com/culture/the-aurora-spaceman-legend/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fwtx.com">[Fort Worth Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fwtx.com</span><span class="citation-popover-title">Fort Worth Magazine Revisiting the Aurora Spaceman Legend</span><span class="citation-popover-snippet">Fort Worth Magazine Revisiting the Aurora Spaceman Legend</span></span></span>
+Modern media have kept the legend alive by revisiting the same dramatic elements: the crash, the grave, the missing marker and the denied exhumation. Local and regional journalism still presents Aurora as a distinctive Texas oddity, often with a wink rather than a claim of proof. That continued attention helps explain why Aurora remains a standard entry in Texas UFO roundups even though its evidential base is weaker than later cases such as Lubbock, Levelland, Cash-Landrum or [Stephenville]({{ 'stephenville/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://fwtx.com/culture/the-aurora-spaceman-legend/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fwtx.com">[Fort Worth Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fwtx.com</span><span class="citation-popover-title">Fort Worth Magazine Revisiting the Aurora Spaceman Legend</span><span class="citation-popover-snippet">Fort Worth Magazine Revisiting the Aurora Spaceman Legend</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tX8E77e8RWA" title="The 1897 Texas UFO crash | The Backstory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tX8E77e8RWA" target="_blank" rel="noopener noreferrer">The 1897 Texas UFO crash | The Backstory</a></p><p class="youtube-embed-meta">Channel: KVUE &middot; Views: 2.9K &middot; Uploaded: May 2025 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tX8E77e8RWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tX8E77e8RWA">Open on YouTube</a></p></div></div></div>
 
@@ -324,276 +324,276 @@ For Texas, the case is still worth keeping near the front of the story. It marks
 <img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-3-dark.svg" | relative_url }}" alt="Aurora illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Aurora today
 
-A balanced reading starts with the simplest conclusion: Aurora is not a proven crash. The surviving evidence supports a newspaper-origin legend embedded in the 1897 Texas airship wave, later strengthened by local memory and UFO-era investigation. The strongest sources either describe the story as local lore or explicitly frame it as fictional, promotional or doubtful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-title">Atlas Details</span><span class="citation-popover-snippet">Atlas Details</span></span></span> That does not make Aurora worthless. It is valuable precisely because it is messy. It helps readers see how UFO history includes more than sightings and official files. It includes the life cycle of a story: publication, ridicule, forgetting, rediscovery, local adoption and tourist afterlife. In that sense, Aurora is one of the most useful Texas cases for understanding the border between event, legend and evidence.
+A balanced reading starts with the simplest conclusion: Aurora is not a proven crash. The surviving evidence supports a newspaper-origin legend embedded in the 1897 Texas airship wave, later strengthened by local memory and UFO-era investigation. The strongest sources either describe the story as local lore or explicitly frame it as fictional, promotional or doubtful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-title">Atlas Details</span><span class="citation-popover-snippet">Atlas Details</span></span></span> That does not make Aurora worthless. It is valuable precisely because it is messy. It helps readers see how UFO history includes more than sightings and official files. It includes the life cycle of a story: publication, ridicule, forgetting, rediscovery, local adoption and tourist afterlife. In that sense, Aurora is one of the most useful Texas cases for understanding the border between event, legend and evidence.
 
 The key is to avoid two opposite mistakes. The first is to present the tale as if an alien pilot was actually buried in Wise County. The second is to dismiss it so completely that its cultural importance disappears. Aurora’s staying power tells us something real about Texas UFO history, even if the crash itself probably did not happen as reported. It is a landmark not of proof, but of folklore: a reminder that some UFO cases matter because they show how people make meaning from strange stories in the sky.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3OZLxJnAgs" title="The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3OZLxJnAgs" target="_blank" rel="noopener noreferrer">The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)</a></p><p class="youtube-embed-meta">Channel: AMERICAN GRIM &middot; Views: 6.2K &middot; Uploaded: February 2026 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3OZLxJnAgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3OZLxJnAgs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Aurora a Crash or a Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Aurora a Crash or a Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Connects Aurora to earlier traditions of strange sky reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects Aurora to earlier traditions of strange sky reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Aurora is commonly discussed as a classic unexplained mystery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Aurora is commonly discussed as a classic unexplained mystery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places Aurora within the longer history of UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Aurora within the longer history of UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines folklore patterns similar to the Aurora legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines folklore patterns similar to the Aurora legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-was-aurora-a-crash-or-a-legend-texas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ The key is to avoid two opposite mistakes. The first is to present the tale as i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ The key is to avoid two opposite mistakes. The first is to present the tale as i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ The key is to avoid two opposite mistakes. The first is to present the tale as i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ The key is to avoid two opposite mistakes. The first is to present the tale as i
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -749,149 +749,149 @@ The key is to avoid two opposite mistakes. The first is to present the tale as i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: File:Haydon article, Aurora, Texas, UFO incident, 1897.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E. Haydon, &quot;A Windmill Demolishes It,&quot; The Dallas Morning News, April 19, 1897, p. 5. Concerning the Aurora. Date, 1897. Source.Read more...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHaydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E. Haydon, &quot;A Windmill Demolishes It,&quot; The Dallas Morning News, April 19, 1897, p. 5. Concerning the Aurora. Date, 1897. Source.Read more...</p></details>
    Published: April 19, 1897  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: americana close encounters of a kind  
-   Link: <a href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6881563/americana-close-encounters-of-a-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</p></details>
+   Link:<a href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6881563/americana-close-encounters-of-a-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
+   Link:<a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: atlas.thc.texas.gov  
    Title: Atlas Details  
-   Link: <a href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow">https://atlas.thc.texas.gov/Details/5497000240</a>  
+   Link:<a href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow">https://atlas.thc.texas.gov/Details/5497000240</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Aurora, Texas, UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Aurora Aksnes  
-   Link: <a href="https://es.wikipedia.org/wiki/Aurora_Aksnes" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Aurora_Aksnes</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Aurora_Aksnes" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Aurora_Aksnes</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pod.wave.co  
    Title: co Roswell of Texas: The Aurora UFO  
-   Link: <a href="https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805</a>  
+   Link:<a href="https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blog.newspapers.com  
    Title: before roswell there was the aurora spaceship  
-   Link: <a href="https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/</a>  
+   Link:<a href="https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: auroratexas.gov  
-   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora TexasHistory | Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</p></details>
+   Link:<a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora TexasHistory | Aurora, TX.The alien, we now call “Ned,” was given “a proper christian burial” in the local Aurora Cemetery. A news...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: texasalmanac.com  
    Title: when airships invaded texas  
-   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</p></details>
+   Link:<a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tshaonline.org  
-   Link: <a href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/texas-day-by-day/entry/118</a>  
+   Link:<a href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/texas-day-by-day/entry/118</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fwtx.com  
    Title: Fort Worth Magazine Revisiting the Aurora Spaceman Legend  
-   Link: <a href="https://fwtx.com/culture/the-aurora-spaceman-legend/" target="_blank" rel="noopener noreferrer nofollow">https://fwtx.com/culture/the-aurora-spaceman-legend/</a>  
+   Link:<a href="https://fwtx.com/culture/the-aurora-spaceman-legend/" target="_blank" rel="noopener noreferrer nofollow">https://fwtx.com/culture/the-aurora-spaceman-legend/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thetravellingfool.com  
    Title: aurora texas mystery the curious story behind the legend of ned  
-   Link: <a href="https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/" target="_blank" rel="noopener noreferrer nofollow">https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/</a>  
+   Link:<a href="https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/" target="_blank" rel="noopener noreferrer nofollow">https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: atlasobscura.com  
    Title: 1800 s alien gravesite  
-   Link: <a href="https://www.atlasobscura.com/places/1800-s-alien-gravesite" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/1800-s-alien-gravesite</a>  
+   Link:<a href="https://www.atlasobscura.com/places/1800-s-alien-gravesite" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/1800-s-alien-gravesite</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scttx.com  
    Title: “ texas ufo” neal murphy 0  
-   Link: <a href="https://scttx.com/articles/%E2%80%9C-texas-ufo%E2%80%9D-neal-murphy-0" target="_blank" rel="noopener noreferrer nofollow">https://scttx.com/articles/%E2%80%9C-texas-ufo%E2%80%9D-neal-murphy-0</a>  
+   Link:<a href="https://scttx.com/articles/%E2%80%9C-texas-ufo%E2%80%9D-neal-murphy-0" target="_blank" rel="noopener noreferrer nofollow">https://scttx.com/articles/%E2%80%9C-texas-ufo%E2%80%9D-neal-murphy-0</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: popculture.com  
    Title: aurora texas ufo incident what to know  
-   Link: <a href="https://popculture.com/trending/news/aurora-texas-ufo-incident-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://popculture.com/trending/news/aurora-texas-ufo-incident-what-to-know/</a>  
+   Link:<a href="https://popculture.com/trending/news/aurora-texas-ufo-incident-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://popculture.com/trending/news/aurora-texas-ufo-incident-what-to-know/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: locktopiahouston.com  
    Title: aurora texas ufo crash  
-   Link: <a href="https://locktopiahouston.com/aurora-texas-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://locktopiahouston.com/aurora-texas-ufo-crash/</a>  
+   Link:<a href="https://locktopiahouston.com/aurora-texas-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://locktopiahouston.com/aurora-texas-ufo-crash/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: texasstandard.org  
    Title: nearly 120 years after alleged ufo crash small texas town is all about aliens  
-   Link: <a href="https://www.texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/</a>  
+   Link:<a href="https://www.texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hmNWl96jjCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hmNWl96jjCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Lost Alien of Aurora, Texas (S2, E11) | UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QJuMSxt4cUQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QJuMSxt4cUQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ancestralfindings.com  
-   Link: <a href="https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/" target="_blank" rel="noopener noreferrer nofollow">https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/</a>  
+   Link:<a href="https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/" target="_blank" rel="noopener noreferrer nofollow">https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newspaperscom/posts/in-a-small-cemetery-in-aurora-texas-a-sign-informs-visitors-about-a-legend-that-/1276435881164386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/in-a-small-cemetery-in-aurora-texas-a-sign-informs-visitors-about-a-legend-that-/1276435881164386/</a>  
+   Link:<a href="https://www.facebook.com/newspaperscom/posts/in-a-small-cemetery-in-aurora-texas-a-sign-informs-visitors-about-a-legend-that-/1276435881164386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/in-a-small-cemetery-in-aurora-texas-a-sign-informs-visitors-about-a-legend-that-/1276435881164386/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1p4uyqu/nasa_engineer_john_f_schuessler_claimed_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1p4uyqu/nasa_engineer_john_f_schuessler_claimed_he/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1p4uyqu/nasa_engineer_john_f_schuessler_claimed_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1p4uyqu/nasa_engineer_john_f_schuessler_claimed_he/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9</a>  
+   Link:<a href="https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: an 1897 ufo this clipping is just one of many mystery airship reports that fille  
-   Link: <a href="https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/</a>  
+   Link:<a href="https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: in the spring of 1897 a reported ufo crash occurred on a farm near aurora in wis  
-   Link: <a href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/</a>  
+   Link:<a href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: on this day in 1897 an intriguing tale emerged in the pages of the dallas mornin  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/</a>  
+   Link:<a href="https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: ufo enthusiasts have petitioned the cemetery to exhume the spot so far the reque  
-   Link: <a href="https://www.facebook.com/atlasobscura/posts/ufo-enthusiasts-have-petitioned-the-cemetery-to-exhume-the-spot-so-far-the-reque/659354556229898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atlasobscura/posts/ufo-enthusiasts-have-petitioned-the-cemetery-to-exhume-the-spot-so-far-the-reque/659354556229898/</a>
+   Link:<a href="https://www.facebook.com/atlasobscura/posts/ufo-enthusiasts-have-petitioned-the-cemetery-to-exhume-the-spot-so-far-the-reque/659354556229898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atlasobscura/posts/ufo-enthusiasts-have-petitioned-the-cemetery-to-exhume-the-spot-so-far-the-reque/659354556229898/</a>

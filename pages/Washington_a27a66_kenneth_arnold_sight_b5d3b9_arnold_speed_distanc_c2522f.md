@@ -253,15 +253,15 @@ image: /assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed
 One reason Kenneth Arnold’s 24 June 1947 sighting became so famous was not simply that he reported nine strange objects near Mount Rainier. It was that he believed they were travelling at astonishing speed. Using a timing measurement between Mount Rainier and Mount Adams, Arnold concluded that the objects were moving far faster than any known aircraft of the period. In many retellings, that calculation became one of the strongest arguments that he had witnessed something extraordinary.
 
 <img src="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-1-dark.svg" | relative_url }}" alt="Speed claim illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Yet the speed estimate is also one of the most disputed parts of the case. Arnold’s figure depended on assumptions about distance, position and perspective in difficult mountain terrain. If those assumptions were wrong, even by a modest amount, the calculated speed could change dramatically. The debate over what he saw therefore became inseparable from a more basic question: how accurately could a pilot in a moving aircraft judge where distant objects were relative to two large mountains in the Washington Cascades? <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
+Yet the speed estimate is also one of the most disputed parts of the case. Arnold’s figure depended on assumptions about distance, position and perspective in difficult mountain terrain. If those assumptions were wrong, even by a modest amount, the calculated speed could change dramatically. The debate over what he saw therefore became inseparable from a more basic question: how accurately could a pilot in a moving aircraft judge where distant objects were relative to two large mountains in the Washington Cascades?<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
 
 ## What Arnold timed between Mount Rainier and Mount Adams
 
-Arnold reported that the objects travelled from the vicinity of Mount Rainier towards Mount Adams, two major volcanic peaks in southern Washington. He later said he timed their movement at roughly 1 minute and 42 seconds across what he considered to be about 50 miles of distance. Using that figure, he calculated a speed well above 1,200 mph, with some later reconstructions placing it closer to 1,700 mph. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-snippet">Interesting EngineeringThe Difference Between Science and Pseudoscience...19 May 2019 — Arnold estimated that the objects were larger th...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Arnold reported that the objects travelled from the vicinity of Mount Rainier towards Mount Adams, two major volcanic peaks in southern Washington. He later said he timed their movement at roughly 1 minute and 42 seconds across what he considered to be about 50 miles of distance. Using that figure, he calculated a speed well above 1,200 mph, with some later reconstructions placing it closer to 1,700 mph. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-snippet">Interesting EngineeringThe Difference Between Science and Pseudoscience...19 May 2019 — Arnold estimated that the objects were larger th...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
-In 1947 those numbers were startling. Jet aviation was still developing, and the public understanding of supersonic flight was limited. A claim that unknown objects had crossed the Cascade Range at such speed immediately made the sighting seem more than a simple misidentification of ordinary aircraft. Newspapers highlighted the figure because it transformed a curious observation into a potential aviation mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geekfrontiers.com/kenneth-arnold-and-the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geekfrontiers.com">[Geek Frontiers - Geek Culture as Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geekfrontiers.com</span><span class="citation-popover-title">Geek Frontiers</span><span class="citation-popover-snippet">Geek Culture as CultureKenneth Arnold and the First Flying Saucer - Geek Frontiers5 Jan 2020 — “Speed estimated at 1,200 miles an hour wh...</span></span></span>
+In 1947 those numbers were startling. Jet aviation was still developing, and the public understanding of supersonic flight was limited. A claim that unknown objects had crossed the Cascade Range at such speed immediately made the sighting seem more than a simple misidentification of ordinary aircraft. Newspapers highlighted the figure because it transformed a curious observation into a potential aviation mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://geekfrontiers.com/kenneth-arnold-and-the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geekfrontiers.com">[Geek Frontiers - Geek Culture as Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geekfrontiers.com</span><span class="citation-popover-title">Geek Frontiers</span><span class="citation-popover-snippet">Geek Culture as CultureKenneth Arnold and the First Flying Saucer - Geek Frontiers5 Jan 2020 — “Speed estimated at 1,200 miles an hour wh...</span></span></span>
 
-The timing itself was relatively straightforward. Arnold watched the objects move across a visible section of sky and estimated how long they took to cover the apparent route. The more difficult part was determining exactly where the objects were located in three-dimensional space. His speed calculation only worked if they were genuinely travelling between landmarks separated by many miles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
+The timing itself was relatively straightforward. Arnold watched the objects move across a visible section of sky and estimated how long they took to cover the apparent route. The more difficult part was determining exactly where the objects were located in three-dimensional space. His speed calculation only worked if they were genuinely travelling between landmarks separated by many miles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E0D8eAm8h2Y" title="Kenneth Arnold Interviewed by Bill Berquette on June 25, 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E0D8eAm8h2Y" target="_blank" rel="noopener noreferrer">Kenneth Arnold Interviewed by Bill Berquette on June 25, 1947</a></p><p class="youtube-embed-meta">Channel: nutsandbolts ufo &middot; Views: 5.8K &middot; Uploaded: December 2010 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E0D8eAm8h2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E0D8eAm8h2Y">Open on YouTube</a></p></div></div></div>
 
@@ -269,7 +269,7 @@ The timing itself was relatively straightforward. Arnold watched the objects mov
 
 The central weakness in Arnold’s calculation is that he did not know how far away the objects actually were.
 
-Human observers often estimate the size and distance of unfamiliar objects by comparing them with known landmarks. Arnold attempted exactly that. He judged the objects against Mount Rainier and Mount Adams and inferred both their distance and approximate size. But if the objects were significantly nearer than he believed, their apparent passage across the landscape would create an illusion of enormous speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
+Human observers often estimate the size and distance of unfamiliar objects by comparing them with known landmarks. Arnold attempted exactly that. He judged the objects against Mount Rainier and Mount Adams and inferred both their distance and approximate size. But if the objects were significantly nearer than he believed, their apparent passage across the landscape would create an illusion of enormous speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
 
 Several factors complicated the observation:
 
@@ -282,20 +282,20 @@ Several factors complicated the observation:
 
 </div>
 
-These problems are familiar in aviation and eyewitness research. A witness may be sincere and attentive yet still make large errors when estimating range and speed from visual observation alone. That does not mean Arnold invented the sighting; it means that the most dramatic numerical part of his account rested on assumptions that could not be independently verified. National Air and Space Museum <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-snippet">Discovery UKRe-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — On June 24 1947, pilot Kenneth Arnold reported seeing nine mysteriou...</span></span></span>
+These problems are familiar in aviation and eyewitness research. A witness may be sincere and attentive yet still make large errors when estimating range and speed from visual observation alone. That does not mean Arnold invented the sighting; it means that the most dramatic numerical part of his account rested on assumptions that could not be independently verified. National Air and Space Museum<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-snippet">Discovery UKRe-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — On June 24 1947, pilot Kenneth Arnold reported seeing nine mysteriou...</span></span></span>
 
 <img src="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-2-dark.svg" | relative_url }}" alt="Speed claim illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Mount Rainier–Mount Adams problem
 
 The geography of the case is both its strength and its weakness.
 
-Supporters of Arnold’s account often point out that he anchored his observation to real, identifiable features. He was not describing vague lights in a dark sky. He specifically connected the objects to well-known Washington landmarks, which gave his report an appearance of precision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
+Supporters of Arnold’s account often point out that he anchored his observation to real, identifiable features. He was not describing vague lights in a dark sky. He specifically connected the objects to well-known Washington landmarks, which gave his report an appearance of precision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
 
 Sceptics respond that the same landmarks created the key uncertainty. The calculation assumes the objects actually occupied the space between Mount Rainier and Mount Adams. But Arnold could not directly measure that. He was inferring it from visual impressions during a brief encounter.
 
-If the objects were beyond Mount Rainier, the distance might have been greater than he estimated. If they were in front of Rainier, the distance could have been much smaller. Either possibility would significantly alter the resulting speed calculation. Because no radar data, photographs or independent measurements exist, there is no reliable way to reconstruct the exact geometry of the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
+If the objects were beyond Mount Rainier, the distance might have been greater than he estimated. If they were in front of Rainier, the distance could have been much smaller. Either possibility would significantly alter the resulting speed calculation. Because no radar data, photographs or independent measurements exist, there is no reliable way to reconstruct the exact geometry of the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
 
-This uncertainty also affects discussions of size. Arnold estimated that the objects were large, but that estimate depended on the same distance assumptions. A nearer object would appear smaller and slower; a farther object would appear larger and potentially faster. The speed problem and the size problem are therefore inseparable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-snippet">Interesting EngineeringThe Difference Between Science and Pseudoscience...19 May 2019 — Arnold estimated that the objects were larger th...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+This uncertainty also affects discussions of size. Arnold estimated that the objects were large, but that estimate depended on the same distance assumptions. A nearer object would appear smaller and slower; a farther object would appear larger and potentially faster. The speed problem and the size problem are therefore inseparable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-snippet">Interesting EngineeringThe Difference Between Science and Pseudoscience...19 May 2019 — Arnold estimated that the objects were larger th...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xj7e8Hu90bo" title="Kenneth Arnold Interview - His Sighting of June 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xj7e8Hu90bo" target="_blank" rel="noopener noreferrer">Kenneth Arnold Interview - His Sighting of June 1947</a></p><p class="youtube-embed-meta">Channel: Rob McConnell &middot; Views: 1.8K &middot; Uploaded: July 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xj7e8Hu90bo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xj7e8Hu90bo">Open on YouTube</a></p></div></div></div>
 
@@ -303,212 +303,212 @@ This uncertainty also affects discussions of size. Arnold estimated that the obj
 
 Later analysts reached very different conclusions.
 
-Some UFO researchers argued that Arnold was an experienced pilot accustomed to judging position and movement in the air. They viewed his calculation as imperfect but still broadly meaningful. In this interpretation, even a substantial error would leave the objects moving unusually fast for 1947 aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/11/06/a-historical-examination-of-ten-influential-uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">He was a respected figure, a member of an Idaho</span><span class="citation-popover-snippet">New Space EconomyA Historical Examination of Ten Influential UAP Reports - New...That witness was Kenneth Arnold, a 32-year-old business...</span></span></span>
+Some UFO researchers argued that Arnold was an experienced pilot accustomed to judging position and movement in the air. They viewed his calculation as imperfect but still broadly meaningful. In this interpretation, even a substantial error would leave the objects moving unusually fast for 1947 aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/11/06/a-historical-examination-of-ten-influential-uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">He was a respected figure, a member of an Idaho</span><span class="citation-popover-snippet">New Space EconomyA Historical Examination of Ten Influential UAP Reports - New...That witness was Kenneth Arnold, a 32-year-old business...</span></span></span>
 
-More sceptical investigators have argued that the calculation is too dependent on uncertain assumptions to support extraordinary conclusions. If the distance estimate was wrong, the famous speed figure could collapse. Under that view, the sighting remains unexplained but no longer demonstrates technology beyond known aviation capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
+More sceptical investigators have argued that the calculation is too dependent on uncertain assumptions to support extraordinary conclusions. If the distance estimate was wrong, the famous speed figure could collapse. Under that view, the sighting remains unexplained but no longer demonstrates technology beyond known aviation capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
 
-Importantly, the debate is not simply about arithmetic. Most people agree that Arnold could measure elapsed time reasonably well. The dispute concerns the distance component. Speed equals distance divided by time, and in the Arnold case the distance was never independently established. That makes the resulting speed figure much less solid than later popular retellings often suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
+Importantly, the debate is not simply about arithmetic. Most people agree that Arnold could measure elapsed time reasonably well. The dispute concerns the distance component. Speed equals distance divided by time, and in the Arnold case the distance was never independently established. That makes the resulting speed figure much less solid than later popular retellings often suggest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
 
 <img src="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-3-dark.svg" | relative_url }}" alt="Speed claim illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_kenneth_arnold_sight_b5d3b9_arnold_speed_distanc_c2522f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the speed claim shaped the mystery
 
 The Mount Rainier distance problem helps explain why the [Arnold sighting]({{ 'arnold-sighting-f2f1b1/' | relative_url }}) remains historically important yet evidentially uncertain.
 
-Had Arnold merely reported unusual objects moving across the Washington sky, the case might have become a regional curiosity. The extraordinary speed estimate gave the story national significance. Newspapers emphasised the idea that the objects had outperformed every known aircraft. That transformed the sighting into a Cold War-era mystery about technology, national security and the limits of human knowledge. Geek Frontiers - Geek Culture as Culture <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>, the speed calculation became the case’s most vulnerable point. Critics did not need to prove what Arnold saw. They only needed to show that his distance assumptions were uncertain. Once that uncertainty entered the calculation, the famous figures of 1,200 to 1,700 mph stopped looking like hard measurements and began looking like estimates built on an unstable foundation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
+Had Arnold merely reported unusual objects moving across the Washington sky, the case might have become a regional curiosity. The extraordinary speed estimate gave the story national significance. Newspapers emphasised the idea that the objects had outperformed every known aircraft. That transformed the sighting into a Cold War-era mystery about technology, national security and the limits of human knowledge. Geek Frontiers - Geek Culture as Culture<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>, the speed calculation became the case’s most vulnerable point. Critics did not need to prove what Arnold saw. They only needed to show that his distance assumptions were uncertain. Once that uncertainty entered the calculation, the famous figures of 1,200 to 1,700 mph stopped looking like hard measurements and began looking like estimates built on an unstable foundation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>
 
-For Washington’s UFO history, this tension remains central. Arnold’s sighting launched the flying saucer era and introduced one of the most influential UFO narratives in the United States. Yet the case also became an early lesson in how dramatic conclusions can emerge from a chain of assumptions about distance, perspective and motion. The mystery survives not because the speed was proven, but because the available evidence never fully resolved whether Arnold’s landmark-based estimate captured a genuine extraordinary event or a powerful visual misjudgement over the Cascades. National Air and Space Museum <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[2historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</span></span></span>
+For Washington’s UFO history, this tension remains central. Arnold’s sighting launched the flying saucer era and introduced one of the most influential UFO narratives in the United States. Yet the case also became an early lesson in how dramatic conclusions can emerge from a chain of assumptions about distance, perspective and motion. The mystery survives not because the speed was proven, but because the available evidence never fully resolved whether Arnold’s landmark-based estimate captured a genuine extraordinary event or a powerful visual misjudgement over the Cascades. National Air and Space Museum<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[2historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MLNZCN9QN6g" title="The &quot;First&quot; UFO Sighting - Kenneth Arnold&#x27;s 1947 Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MLNZCN9QN6g" target="_blank" rel="noopener noreferrer">The &quot;First&quot; UFO Sighting - Kenneth Arnold&#x27;s 1947 Encounter</a></p><p class="youtube-embed-meta">Channel: Project Conspiracy &middot; Views: 394 &middot; Uploaded: March 2024 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MLNZCN9QN6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MLNZCN9QN6g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How fast were Arnold&#x27;s nine objects?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How fast were Arnold&#x27;s nine objects?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses how investigators evaluated early reports and witness estimates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how investigators evaluated early reports and witness estimates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Strange Skies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jT5juKHRdwIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Strange Skies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strange Skies">Strange Skies</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Strange Skies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jT5juKHRdwIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Strange Skies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strange Skies">Strange Skies</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Focuses on pilot observations, including classic aviation-related cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on pilot observations, including classic aviation-related cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Strange+Skies+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding observational uncertainty and witness perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding observational uncertainty and witness perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming of the Saucers">The Coming of the Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth Arnold, Ray Palmer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming of the Saucers">The Coming of the Saucers</a>
+</h4>
+<p class="fr-book-author">By Kenneth Arnold, Ray Palmer</p>
         
-        <p class="fr-book-desc">Contains Arnold&#x27;s descriptions and calculations that drove the speed debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains Arnold&#x27;s descriptions and calculations that drove the speed debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Strange+Skies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Strange Skies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Strange+Skies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Strange Skies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fast-were-arnold-s-nine-objects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-fast-were-arnold-s-nine-objects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ For Washington’s UFO history, this tension remains central. Arnold’s sightin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ For Washington’s UFO history, this tension remains central. Arnold’s sightin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ For Washington’s UFO history, this tension remains central. Arnold’s sightin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ For Washington’s UFO history, this tension remains central. Arnold’s sightin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ For Washington’s UFO history, this tension remains central. Arnold’s sightin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,146 +714,146 @@ For Washington’s UFO history, this tension remains central. Arnold’s sightin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adams, that&#x27;s a distance of 50 miles. &quot;...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adams, that&#x27;s a distance of 50 miles. &quot;...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: geekfrontiers.com  
    Title: Geek Frontiers  
-   Link: <a href="https://geekfrontiers.com/kenneth-arnold-and-the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://geekfrontiers.com/kenneth-arnold-and-the-first-flying-saucer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geek Culture as CultureKenneth Arnold and the First Flying Saucer - Geek Frontiers5 Jan 2020 — “Speed estimated at 1,200 miles an hour wh...</p></details>
+   Link:<a href="https://geekfrontiers.com/kenneth-arnold-and-the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://geekfrontiers.com/kenneth-arnold-and-the-first-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geek Culture as CultureKenneth Arnold and the First Flying Saucer - Geek Frontiers5 Jan 2020 — “Speed estimated at 1,200 miles an hour wh...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</p></details>
+   Link:<a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: github.com  
    Title: kenneth arnold sighting narrative cascade june 1947.md  
-   Link: <a href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</p></details>
+   Link:<a href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Baseline Measurement — Arnold states he &quot;measured&quot; the Mt. Rainier-to-Mt. Adams distance after landing at Pendleton. By what method...</p></details>
    Published: june 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discoveryuk.com  
-   Link: <a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKRe-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — On June 24 1947, pilot Kenneth Arnold reported seeing nine mysteriou...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKRe-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — On June 24 1947, pilot Kenneth Arnold reported seeing nine mysteriou...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: how ufo sightings became an american obsession  
-   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
+   Link:<a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: Why does it seem Aliens are flying around  
-   Link: <a href="https://www.facebook.com/groups/bookjunkiepromotions/posts/26376839405259772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/bookjunkiepromotions/posts/26376839405259772/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What did Kenneth Arnold encounter &quot;skipping like saucers...What did Kenneth Arnold encounter &quot;skipping like saucers across water&quot; near M...</p></details>
+   Link:<a href="https://www.facebook.com/groups/bookjunkiepromotions/posts/26376839405259772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/bookjunkiepromotions/posts/26376839405259772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What did Kenneth Arnold encounter &quot;skipping like saucers...What did Kenneth Arnold encounter &quot;skipping like saucers across water&quot; near M...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: on this day in 1947 what many consider to be the first modern ufo sighting took  
-   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressJune 24th 1947 Businessman Kenneth Arnold was flying near Mount Rainier when he observed a number of unknown aircr...</p></details>
+   Link:<a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressJune 24th 1947 Businessman Kenneth Arnold was flying near Mount Rainier when he observed a number of unknown aircr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: some may describe these objects as boomerang looking but to idaho pilot ken arno  
-   Link: <a href="https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Idaho Public TelevisionFlying in a diagonal line, Arnold estimated that the disk shaped ships were traveling roughly 1200 miles an hour...</p></details>
+   Link:<a href="https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Idaho Public TelevisionFlying in a diagonal line, Arnold estimated that the disk shaped ships were traveling roughly 1200 miles an hour...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: interestingengineering.com  
-   Link: <a href="https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringThe Difference Between Science and Pseudoscience...19 May 2019 — Arnold estimated that the objects were larger th...</p></details>
+   Link:<a href="https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/science/the-difference-between-science-and-pseudoscience-when-it-comes-to-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringThe Difference Between Science and Pseudoscience...19 May 2019 — Arnold estimated that the objects were larger th...</p></details>
    Published: May 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newspaceeconomy.ca  
    Title: He was a respected figure, a member of an Idaho  
-   Link: <a href="https://newspaceeconomy.ca/2025/11/06/a-historical-examination-of-ten-influential-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/06/a-historical-examination-of-ten-influential-uap-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyA Historical Examination of Ten Influential UAP Reports - New...That witness was Kenneth Arnold, a 32-year-old business...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/11/06/a-historical-examination-of-ten-influential-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/06/a-historical-examination-of-ten-influential-uap-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyA Historical Examination of Ten Influential UAP Reports - New...That witness was Kenneth Arnold, a 32-year-old business...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: june 24 1947 pilot kenneth arnold sights a series  
-   Link: <a href="https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of...June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying ob...</p></details>
+   Link:<a href="https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of...June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying ob...</p></details>
    Published: June 24, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thebump.com  
-   Link: <a href="https://www.thebump.com/b/kenneth-baby-name" target="_blank" rel="noopener noreferrer nofollow">https://www.thebump.com/b/kenneth-baby-name</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baby Name Meaning, Origin and PopularityMeaning:fire born; good-looking. The Scottish people knew the name Kenneth because it was the nam...</p></details>
+   Link:<a href="https://www.thebump.com/b/kenneth-baby-name" target="_blank" rel="noopener noreferrer nofollow">https://www.thebump.com/b/kenneth-baby-name</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baby Name Meaning, Origin and PopularityMeaning:fire born; good-looking. The Scottish people knew the name Kenneth because it was the nam...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingKenneth Arnold Sighting: The Birth of &#x27;Flying Saucers&#x27;Arnold estimated the time it took the objects to...</p></details>
+   Link:<a href="https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingKenneth Arnold Sighting: The Birth of &#x27;Flying Saucers&#x27;Arnold estimated the time it took the objects to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/kenneth" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/kenneth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KENNETH Definition &amp; MeaningKENNETH definition: a male given name: from an Irish word meaning “handsome.” See examples of Kenneth used in...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/kenneth" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/kenneth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KENNETH Definition &amp; MeaningKENNETH definition: a male given name: from an Irish word meaning “handsome.” See examples of Kenneth used in...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/name/nm0000110/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0000110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth BranaghKenneth Branagh. Actor: Much Ado About Nothing. Kenneth Charles Branagh was born on December 10, 1960, in Belfast, Norther...</p></details>
+   Link:<a href="https://www.imdb.com/name/nm0000110/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0000110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth BranaghKenneth Branagh. Actor: Much Ado About Nothing. Kenneth Charles Branagh was born on December 10, 1960, in Belfast, Norther...</p></details>
    Published: December 10, 1960  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kennethcole.com  
-   Link: <a href="https://www.kennethcole.com/?srsltid=AfmBOoqcamK272l3aE4dTQG1kPbnV9umN-p3UYDwqiLlxqQBFVRBRQkl" target="_blank" rel="noopener noreferrer nofollow">https://www.kennethcole.com/?srsltid=AfmBOoqcamK272l3aE4dTQG1kPbnV9umN-p3UYDwqiLlxqQBFVRBRQkl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Cole New York | Shoes, Watches, Bags &amp; ClothingShop Kenneth Cole New York shoes, watches, bags, clothing and accessories. Discove...</p></details>
+   Link:<a href="https://www.kennethcole.com/?srsltid=AfmBOoqcamK272l3aE4dTQG1kPbnV9umN-p3UYDwqiLlxqQBFVRBRQkl" target="_blank" rel="noopener noreferrer nofollow">https://www.kennethcole.com/?srsltid=AfmBOoqcamK272l3aE4dTQG1kPbnV9umN-p3UYDwqiLlxqQBFVRBRQkl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Cole New York | Shoes, Watches, Bags &amp; ClothingShop Kenneth Cole New York shoes, watches, bags, clothing and accessories. Discove...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scottbakal.com  
-   Link: <a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. · Shortly before 3:00 p.m., as Arnold circ...</p></details>
+   Link:<a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. · Shortly before 3:00 p.m., as Arnold circ...</p></details>
    Published: June 25, 1947  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCGhQuw-InXWOBti1-Oir69g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCGhQuw-InXWOBti1-Oir69g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KennethOfficialThe official youtube page of Kenneth Suie aka &quot;Kenneth&quot; a Rapper/Songwriter from Estonia....more. The official youtube pa...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCGhQuw-InXWOBti1-Oir69g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCGhQuw-InXWOBti1-Oir69g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KennethOfficialThe official youtube page of Kenneth Suie aka &quot;Kenneth&quot; a Rapper/Songwriter from Estonia....more. The official youtube pa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: hours after his sighting of 9 ufos pilot kenneth  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hours after his sighting of 9 UFOs, pilot Kenneth Arnold...Rainier at a speed of 1200 miles per hour.... June 24, 1947 - Pilot Kenneth...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hours after his sighting of 9 UFOs, pilot Kenneth Arnold...Rainier at a speed of 1200 miles per hour.... June 24, 1947 - Pilot Kenneth...</p></details>
    Published: June 24, 1947  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: americanghostwalks.com  
    Title: kenneth arnold and the origin of flying saucers  
-   Link: <a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jun 2025 — Using the distance between Mount Rainier and Mount Adams, Arnold calculated their speed to be more than 1,500 miles per hou...</p></details>
+   Link:<a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jun 2025 — Using the distance between Mount Rainier and Mount Adams, Arnold calculated their speed to be more than 1,500 miles per hou...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 passing past Mt.Rainier at a speed of 1200 miles per hour.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 passing past Mt.Rainier at a speed of 1200 miles per hour.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: attitudeofaggression.com  
-   Link: <a href="https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0 miles in 1 minute 42 seconds, which led him to estimate a speed of at...</p></details>
+   Link:<a href="https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0 miles in 1 minute 42 seconds, which led him to estimate a speed of at...</p></details>

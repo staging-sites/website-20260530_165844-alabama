@@ -250,20 +250,20 @@ image: /assets/images/Mississippi_cba267_modern_sightings_5cfd1d_harrison_county
 
 ## Introduction
 
-The 2026 Harrison County balloon sighting became one of the clearest examples in modern Mississippi UFO history of how a strange object can move from “unidentified” to “identified” through public records, aviation tracking and official verification. What made the case notable was not the object itself, but the investigation trail. Witnesses across Mississippi’s Gulf Coast reported an unusual airborne object and local media initially treated it as an unknown. Within hours, however, reporters and officials were able to compare observations against live flight-tracking data, check aviation contacts and connect the object to a registered high-altitude platform operated by a New Mexico company. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2026 Harrison County balloon sighting became one of the clearest examples in modern Mississippi UFO history of how a strange object can move from “unidentified” to “identified” through public records, aviation tracking and official verification. What made the case notable was not the object itself, but the investigation trail. Witnesses across Mississippi’s Gulf Coast reported an unusual airborne object and local media initially treated it as an unknown. Within hours, however, reporters and officials were able to compare observations against live flight-tracking data, check aviation contacts and connect the object to a registered high-altitude platform operated by a New Mexico company.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_harrison_county_ball_648d88-Illustration-1-dark.svg" | relative_url }}" alt="Balloon trail illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_harrison_county_ball_648d88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_harrison_county_ball_648d88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers interested in Mississippi UFO reports, the Harrison County incident matters because it demonstrates how [modern sightings]({{ 'modern-sightings/' | relative_url }}) can now be tested. Rather than relying only on witness testimony, investigators could follow a chain of evidence from eyewitness reports to aircraft databases and FAA registration information. The result did not prove that witnesses were mistaken about seeing something unusual. Instead, it showed how an unusual-looking object acquired an ordinary explanation once enough information became available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For readers interested in Mississippi UFO reports, the Harrison County incident matters because it demonstrates how [modern sightings]({{ 'modern-sightings/' | relative_url }}) can now be tested. Rather than relying only on witness testimony, investigators could follow a chain of evidence from eyewitness reports to aircraft databases and FAA registration information. The result did not prove that witnesses were mistaken about seeing something unusual. Instead, it showed how an unusual-looking object acquired an ordinary explanation once enough information became available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nSLgsvg_jIw" title="SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting</a></p><p class="youtube-embed-meta">Channel: TRT World &middot; Views: 13.3K &middot; Uploaded: December 2017 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nSLgsvg_jIw">Open on YouTube</a></p></div></div></div>
 
 ## What witnesses reported over Harrison County
 
-On 27 March 2026, residents along the Mississippi Gulf Coast began reporting a strange object visible over Harrison County. Calls and reports reached local news outlets, including WLOX, from people uncertain about what they were observing. The object appeared unusual enough that some viewers described it as a UFO, while others simply wanted to know whether it was an aircraft, balloon or something else. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+On 27 March 2026, residents along the Mississippi Gulf Coast began reporting a strange object visible over Harrison County. Calls and reports reached local news outlets, including WLOX, from people uncertain about what they were observing. The object appeared unusual enough that some viewers described it as a UFO, while others simply wanted to know whether it was an aircraft, balloon or something else.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Part of the confusion came from the object's appearance. High-altitude balloons and platform systems often look very different from ordinary aircraft when viewed from the ground. At extreme altitude they may appear nearly stationary, reflect sunlight in unusual ways or seem oddly shaped because of distance and atmospheric conditions. Social media comments from Gulf Coast observers reflected that uncertainty, with some people reporting apparent changes in shape or brightness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/spannwx/posts/getting-a-number-of-reports-of-people-seeing-this-high-altitude-balloon-over-the/1511477773683574/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+Part of the confusion came from the object's appearance. High-altitude balloons and platform systems often look very different from ordinary aircraft when viewed from the ground. At extreme altitude they may appear nearly stationary, reflect sunlight in unusual ways or seem oddly shaped because of distance and atmospheric conditions. Social media comments from Gulf Coast observers reflected that uncertainty, with some people reporting apparent changes in shape or brightness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/spannwx/posts/getting-a-number-of-reports-of-people-seeing-this-high-altitude-balloon-over-the/1511477773683574/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
-The sighting also occurred in a region where unusual aerial activity attracts attention. Harrison County sits near important military and aviation facilities, including Keesler Air Force Base and Gulfport-Biloxi International Airport. When an unfamiliar object appears in such airspace, observers often assume that local authorities may already know what it is. In this case, that assumption helped drive the next stage of the investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The sighting also occurred in a region where unusual aerial activity attracts attention. Harrison County sits near important military and aviation facilities, including Keesler Air Force Base and Gulfport-Biloxi International Airport. When an unfamiliar object appears in such airspace, observers often assume that local authorities may already know what it is. In this case, that assumption helped drive the next stage of the investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_harrison_county_ball_648d88-Illustration-3-dark.svg" | relative_url }}" alt="Balloon trail illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_harrison_county_ball_648d88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_harrison_county_ball_648d88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -271,11 +271,11 @@ The sighting also occurred in a region where unusual aerial activity attracts at
 
 ## How officials and tracking data narrowed the answer
 
-The most important part of the Harrison County case was not the initial sighting but the verification process that followed. WLOX reported that it contacted Harrison County Emergency Management Agency officials, Keesler Air Force Base and Gulfport-Biloxi International Airport while attempting to identify the object. Rather than relying on speculation, reporters sought confirmation from organisations likely to be aware of unusual air traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important part of the Harrison County case was not the initial sighting but the verification process that followed. WLOX reported that it contacted Harrison County Emergency Management Agency officials, Keesler Air Force Base and Gulfport-Biloxi International Airport while attempting to identify the object. Rather than relying on speculation, reporters sought confirmation from organisations likely to be aware of unusual air traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-At the same time, the object was checked against FlightAware, a publicly accessible flight-tracking service. According to the reporting, FlightAware data showed a high-altitude balloon registered in New Mexico and travelling from Roswell. An airport spokesperson then confirmed the identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At the same time, the object was checked against FlightAware, a publicly accessible flight-tracking service. According to the reporting, FlightAware data showed a high-altitude balloon registered in New Mexico and travelling from Roswell. An airport spokesperson then confirmed the identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The investigation did not stop there. By comparing the tracking information with FAA registration records, the object was linked to Sceye Inc., a company based in Moriarty, New Mexico. The company develops high-altitude aircraft and platform systems intended for telecommunications, environmental monitoring and climate-related research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The investigation did not stop there. By comparing the tracking information with FAA registration records, the object was linked to Sceye Inc., a company based in Moriarty, New Mexico. The company develops high-altitude aircraft and platform systems intended for telecommunications, environmental monitoring and climate-related research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10tv.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10tv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This sequence created a rare public verification chain:
 
@@ -318,194 +318,194 @@ Many identified UFO reports disappear from public discussion because they are re
 Within the broader history of modern Mississippi sightings, that makes the case unusually valuable. It offers a concrete example of how contemporary UFO investigations increasingly work: collect reports, compare them against aviation and aerospace data, seek official confirmation where possible and then judge whether the original mystery survives those checks. In Harrison County, it did not. The object remained unusual to observers on the ground, but the available evidence ultimately pointed toward a registered high-altitude balloon rather than an unresolved aerial mystery. [[https://www.wlox.com](https://www.wlox.com)]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Harrison County&#x27;s UFO became a balloon. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Harrison County&#x27;s UFO became a balloon. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how investigations classify and explain sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigations classify and explain sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evaluating reports using evidence rather than assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating reports using evidence rather than assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Places balloon and misidentification cases within wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places balloon and misidentification cases within wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes critical investigation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Promotes critical investigation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="https://i.ebayimg.com/images/g/PwcAAOSwjzdoHiu2/s-l225.jpg" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="https://i.ebayimg.com/images/g/PwcAAOSwjzdoHiu2/s-l225.jpg" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-harrison-county-s-ufo-became-a-balloon-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ Within the broader history of modern Mississippi sightings, that makes the case 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ Within the broader history of modern Mississippi sightings, that makes the case 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ Within the broader history of modern Mississippi sightings, that makes the case 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ Within the broader history of modern Mississippi sightings, that makes the case 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ Within the broader history of modern Mississippi sightings, that makes the case 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,125 +711,125 @@ Within the broader history of modern Mississippi sightings, that makes the case 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wlox.comSouth](https://www.wlox.comSouth) Mississippi UFO identified as high-altitude balloon...3 days ago — FlightAware showed the object was a high-al...</p></details>
+   Link:<a href="https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wlox.comSouth](https://www.wlox.comSouth) Mississippi UFO identified as high-altitude balloon...3 days ago — FlightAware showed the object was a high-al...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fox10tv.com  
-   Link: <a href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.fox10tv.comSouth](https://www.fox10tv.comSouth) Mississippi UFO identified as high-altitude balloon from...27 Mar 2026 — WLOX received several calls and re...</p></details>
+   Link:<a href="https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10tv.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.fox10tv.comSouth](https://www.fox10tv.comSouth) Mississippi UFO identified as high-altitude balloon from...27 Mar 2026 — WLOX received several calls and re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WLOXTV/posts/south-mississippi-ufo-identified-as-high-altitude-balloon-from-new-mexico/1373710728119928/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLOXTV/posts/south-mississippi-ufo-identified-as-high-altitude-balloon-from-new-mexico/1373710728119928/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Mississippi UFO identified as high-altitude balloon...It changed shapes then a light was shining back towards 3 of us even...</p></details>
+   Link:<a href="https://www.facebook.com/WLOXTV/posts/south-mississippi-ufo-identified-as-high-altitude-balloon-from-new-mexico/1373710728119928/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLOXTV/posts/south-mississippi-ufo-identified-as-high-altitude-balloon-from-new-mexico/1373710728119928/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Mississippi UFO identified as high-altitude balloon...It changed shapes then a light was shining back towards 3 of us even...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: It appears to be a SCEYE airship  
-   Link: <a href="https://www.facebook.com/MeteorologistEricJeansonne/posts/update-435-pm-32726-it-appears-to-be-a-sceye-airship-the-company-is-based-out-of/1480567160090438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistEricJeansonne/posts/update-435-pm-32726-it-appears-to-be-a-sceye-airship-the-company-is-based-out-of/1480567160090438/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The company is based outAccording to the flightradar24 app, it appears to be a high altitude balloon traveling from Roswell. Posted 3.27...</p></details>
+   Link:<a href="https://www.facebook.com/MeteorologistEricJeansonne/posts/update-435-pm-32726-it-appears-to-be-a-sceye-airship-the-company-is-based-out-of/1480567160090438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistEricJeansonne/posts/update-435-pm-32726-it-appears-to-be-a-sceye-airship-the-company-is-based-out-of/1480567160090438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company is based outAccording to the flightradar24 app, it appears to be a high altitude balloon traveling from Roswell. Posted 3.27...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/spannwx/posts/getting-a-number-of-reports-of-people-seeing-this-high-altitude-balloon-over-the/1511477773683574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spannwx/posts/getting-a-number-of-reports-of-people-seeing-this-high-altitude-balloon-over-the/1511477773683574/</a>  
+   Link:<a href="https://www.facebook.com/spannwx/posts/getting-a-number-of-reports-of-people-seeing-this-high-altitude-balloon-over-the/1511477773683574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spannwx/posts/getting-a-number-of-reports-of-people-seeing-this-high-altitude-balloon-over-the/1511477773683574/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fox10tv.com  
-   Link: <a href="https://www.fox10tv.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10tv.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in South Mississippi identified as high-altitude balloon...An unidentified flying object that passed over the Mississippi Gulf Coast...</p></details>
+   Link:<a href="https://www.fox10tv.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10tv.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in South Mississippi identified as high-altitude balloon...An unidentified flying object that passed over the Mississippi Gulf Coast...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WKRGEd/posts/lots-of-reports-of-a-strange-object-spotted-over-the-gulf-coast-skies-it-is-a-hi/1308323274442153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRGEd/posts/lots-of-reports-of-a-strange-object-spotted-over-the-gulf-coast-skies-it-is-a-hi/1308323274442153/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a high-altitude science balloon from a company called Sceye...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WKRGEd/posts/lots-of-reports-of-a-strange-object-spotted-over-the-gulf-coast-skies-it-is-a-hi/1308323274442153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRGEd/posts/lots-of-reports-of-a-strange-object-spotted-over-the-gulf-coast-skies-it-is-a-hi/1308323274442153/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is a high-altitude science balloon from a company called Sceye...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WLOXTV/posts/1373655761458758/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLOXTV/posts/1373655761458758/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WLOX-TV&#x27;s postAccording to the flightradar24 app, it appears to be a high altitude balloon traveling from Roswell. Posted 3.27.26 3:45 pm...</p></details>
+   Link:<a href="https://www.facebook.com/WLOXTV/posts/1373655761458758/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLOXTV/posts/1373655761458758/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WLOX-TV&#x27;s postAccording to the flightradar24 app, it appears to be a high altitude balloon traveling from Roswell. Posted 3.27.26 3:45 pm...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: More mysterious objects shot down by U.S  
-   Link: <a href="https://www.youtube.com/watch?v=Ob7rvESLo-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ob7rvESLo-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military | FOX 5 DCThree more mysterious objects were shot down by U.S fighter jets over the past three days that follows the very public...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ob7rvESLo-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ob7rvESLo-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military | FOX 5 DCThree more mysterious objects were shot down by U.S fighter jets over the past three days that follows the very public...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wlox.com  
    Title: ufo south mississippi identified high altitude balloon new mexico  
-   Link: <a href="https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in South Mississippi identified as high-altitude balloon...UFO in South Mississippi identified as high-altitude balloon from New Mex...</p></details>
+   Link:<a href="https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in South Mississippi identified as high-altitude balloon...UFO in South Mississippi identified as high-altitude balloon from New Mex...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Star-shaped&#x27; UFO spotted in newly-released videoA recently released video from a U.S. military platform appears to show a strangely shap...</p></details>
+   Link:<a href="https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/05/20/star-shaped-ufo-spotted-newly-released-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Star-shaped&#x27; UFO spotted in newly-released videoA recently released video from a U.S. military platform appears to show a strangely shap...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wlox.com  
-   Link: <a href="https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/?outputType=amp" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/?outputType=amp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in South Mississippi identified as high-altitude balloon...An unidentified flying object that passed over the Mississippi Gulf Coast...</p></details>
+   Link:<a href="https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/?outputType=amp" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/03/27/ufo-south-mississippi-identified-high-altitude-balloon-new-mexico/?outputType=amp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in South Mississippi identified as high-altitude balloon...An unidentified flying object that passed over the Mississippi Gulf Coast...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: x.com  
-   Link: <a href="https://x.com/WLOX/status/2037696691948720210" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WLOX/status/2037696691948720210</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Mississippi UFO identified as high-altitude balloon...WLOX (@WLOX). 426 views. South Mississippi UFO identified as high-altitude b...</p></details>
+   Link:<a href="https://x.com/WLOX/status/2037696691948720210" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WLOX/status/2037696691948720210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Mississippi UFO identified as high-altitude balloon...WLOX (@WLOX). 426 views. South Mississippi UFO identified as high-altitude b...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vhYXDAuPWD4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vhYXDAuPWD4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “UFO” Over Mississippi Literally Came From RoswellResidents of Mississippi&#x27;s Gulf Coast spotted an unidentified flying object driftin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vhYXDAuPWD4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vhYXDAuPWD4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “UFO” Over Mississippi Literally Came From RoswellResidents of Mississippi&#x27;s Gulf Coast spotted an unidentified flying object driftin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XFIC_Wiako0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFIC_Wiako0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US officials admit objects shot down from sky may not have...The White House is not ruling out the possibility military jets may have sh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XFIC_Wiako0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFIC_Wiako0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US officials admit objects shot down from sky may not have...The White House is not ruling out the possibility military jets may have sh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1s5mq4u/mississippi_gulf_coast_object_identified_as_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1s5mq4u/mississippi_gulf_coast_object_identified_as_new/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mississippi Gulf Coast Object Identified as New Mexico High-Altitude Balloon Registered to Sceye Inc., Confirmed by FlightAware and FAA.R...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1s5mq4u/mississippi_gulf_coast_object_identified_as_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1s5mq4u/mississippi_gulf_coast_object_identified_as_new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mississippi Gulf Coast Object Identified as New Mexico High-Altitude Balloon Registered to Sceye Inc., Confirmed by FlightAware and FAA.R...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
    Title: Posted 3.27.26 3:45 pm. more. jimhesse.Read more  
-   Link: <a href="https://www.instagram.com/p/DWZt7kZDhB6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWZt7kZDhB6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve had several reports from across South MS of a silver...According to the flightradar24 app, it appears to be a high altitude balloo...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWZt7kZDhB6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWZt7kZDhB6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve had several reports from across South MS of a silver...According to the flightradar24 app, it appears to be a high altitude balloo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cppj4zj2myQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cppj4zj2myQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>th Louisiana trapping two people hundreds of feet in the air...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cppj4zj2myQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cppj4zj2myQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>th Louisiana trapping two people hundreds of feet in the air...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO in South Mississippi identified as high-altitude balloon from New Mexico  
-   Link: <a href="https://www.youtube.com/watch?v=fr7a2k4dQl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fr7a2k4dQl8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fr7a2k4dQl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fr7a2k4dQl8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Space X's Falcon 9 launch creates confusion over mistaken UFO sighting  
-   Link: <a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nSLgsvg_jIw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO? No... StarLink creates train of satellites across night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nSLgsvg_jIw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO? No... StarLink creates train of satellites across night sky...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJSYBIkDuh8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Pascagoula](&amp;#123;&amp;#123; &#x27;pascagoula/&#x27; | relative_url &amp;#125;&amp;#125;) man recalls the time he was abducted by aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJSYBIkDuh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Pascagoula](&amp;#123;&amp;#123; &#x27;pascagoula/&#x27; | relative_url &amp;#125;&amp;#125;) man recalls the time he was abducted by aliens...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Pascagoula man recalls the time he was abducted by aliens  
-   Link: <a href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nDFMB4r6W9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting or Starlink Satellites?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nDFMB4r6W9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nDFMB4r6W9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting or Starlink Satellites?...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: UFO sighting or Starlink Satellites?  
-   Link: <a href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJ5k5uhe68I</a>
+   Link:<a href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJ5k5uhe68I</a>

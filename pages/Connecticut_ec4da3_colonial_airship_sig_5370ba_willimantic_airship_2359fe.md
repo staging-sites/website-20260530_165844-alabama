@@ -250,35 +250,35 @@ image: /assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic
 
 ## Introduction
 
-In the winter of **1909–1910**, long before the term *UFO* was coined, newspapers and everyday observers across **New England** — including **Willimantic, Connecticut** — buzzed with reports of mysterious “airships” in the night sky. These accounts don’t involve flying saucers or extraterrestrial visitation in the modern sense. Instead, they reflect a moment when public imagination, nascent aviation technology, and vivid press coverage intersected to produce a *sky folklore wave* that anticipated later UFO culture. In Connecticut, the Willimantic reports form a small but telling local chapter in this broader regional phenomenon, showing how rumours about secret aircraft and ambiguous lights spread and why the episode still matters for understanding early aerial folklore in the state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
+In the winter of **1909–1910**, long before the term *UFO* was coined, newspapers and everyday observers across **New England** — including **Willimantic, Connecticut** — buzzed with reports of mysterious “airships” in the night sky. These accounts don’t involve flying saucers or extraterrestrial visitation in the modern sense. Instead, they reflect a moment when public imagination, nascent aviation technology, and vivid press coverage intersected to produce a *sky folklore wave* that anticipated later UFO culture. In Connecticut, the Willimantic reports form a small but telling local chapter in this broader regional phenomenon, showing how rumours about secret aircraft and ambiguous lights spread and why the episode still matters for understanding early aerial folklore in the state.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-1-dark.svg" | relative_url }}" alt="Airship Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Willimantic Lights Reports
 
-Local newspapers in January **1910** carried reports that clearly tie Willimantic into the wider New England “airship wave.” The *Willimantic Chronicle* reprinted stories from the *New Haven Journal-Courier* describing a *“mysterious airship”* seen over the region. According to these accounts, readers across Connecticut and neighbouring states had been talking about a strange mechanism in the skies, casting *“big searchlights… like the eyes of some monster living creature.”* The Chronicle’s coverage reflects a mix of curiosity and puzzlement — locals didn’t know what it was, where it came from, or who might own it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
+Local newspapers in January **1910** carried reports that clearly tie Willimantic into the wider New England “airship wave.” The *Willimantic Chronicle* reprinted stories from the *New Haven Journal-Courier* describing a *“mysterious airship”* seen over the region. According to these accounts, readers across Connecticut and neighbouring states had been talking about a strange mechanism in the skies, casting *“big searchlights… like the eyes of some monster living creature.”* The Chronicle’s coverage reflects a mix of curiosity and puzzlement — locals didn’t know what it was, where it came from, or who might own it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
 
-In a follow‑up clipping from early January, Norwich witnesses suggested that an object seen overhead might simply have been *“a large paper balloon… with smoke in its wake”*, typical of a flaming celebratory balloon — an early suggestion that some sightings were terrestrial and mundane rather than mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
+In a follow‑up clipping from early January, Norwich witnesses suggested that an object seen overhead might simply have been *“a large paper balloon… with smoke in its wake”*, typical of a flaming celebratory balloon — an early suggestion that some sightings were terrestrial and mundane rather than mysterious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
 
-Willimantic’s reports fit this pattern of people interpreting unexplained glows or shapes in the sky as secret craft — partly because the cultural context primed them to do so. The reports from Willimantic aren’t extensive, but they show how even smaller Connecticut communities became nodes in a larger wave of observation, speculation, and rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
+Willimantic’s reports fit this pattern of people interpreting unexplained glows or shapes in the sky as secret craft — partly because the cultural context primed them to do so. The reports from Willimantic aren’t extensive, but they show how even smaller Connecticut communities became nodes in a larger wave of observation, speculation, and rumour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings, 1896 - 1897" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings, 1896 - 1897</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 182.4K &middot; Uploaded: July 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings,</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 182.4K &middot; Uploaded: July 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
 
 ## Wallace Tillinghast and the Secret‑Aircraft Rumour
 
-The broader New England airship wave owes much to **Wallace Tillinghast**, a businessman from Worcester, Massachusetts, whose claims in late **1909** sparked widespread interest and debate. Tillinghast told a *Boston Herald* reporter that he had developed a reliable *heavier‑than‑air flying machine* capable of remarkable feats — including night flights far beyond what noted aviators like the Wright brothers had achieved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en-academic.com/dic.nsf/enwiki/4811697/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-academic.com">[Academic Dictionaries and Encyclopedias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-academic.com</span><span class="citation-popover-title">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span><span class="citation-popover-snippet">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span></span></span>
+The broader New England airship wave owes much to **Wallace Tillinghast**, a businessman from Worcester, Massachusetts, whose claims in late **1909** sparked widespread interest and debate. Tillinghast told a *Boston Herald* reporter that he had developed a reliable *heavier‑than‑air flying machine* capable of remarkable feats — including night flights far beyond what noted aviators like the Wright brothers had achieved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en-academic.com/dic.nsf/enwiki/4811697/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-academic.com">[Academic Dictionaries and Encyclopedias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-academic.com</span><span class="citation-popover-title">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span><span class="citation-popover-snippet">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span></span></span>
 
-Between **December 1909 and early 1910**, this claim ignited a flurry of reported sightings across Massachusetts, Connecticut, and Rhode Island. Thousands of observers claimed to see bright lights, searchlights, or craft silhouettes moving overhead. Newspapers carried these eyewitness reports with scant scepticism at first, linking them back to Tillinghast’s assertions. This dynamic created a self‑reinforcing cycle: a purported inventor’s boast fed local sightings, which in turn reinforced belief in his machine’s existence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en-academic.com/dic.nsf/enwiki/4811697/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-academic.com">[Academic Dictionaries and Encyclopedias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-academic.com</span><span class="citation-popover-title">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span><span class="citation-popover-snippet">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span></span></span>
+Between **December 1909 and early 1910**, this claim ignited a flurry of reported sightings across Massachusetts, Connecticut, and Rhode Island. Thousands of observers claimed to see bright lights, searchlights, or craft silhouettes moving overhead. Newspapers carried these eyewitness reports with scant scepticism at first, linking them back to Tillinghast’s assertions. This dynamic created a self‑reinforcing cycle: a purported inventor’s boast fed local sightings, which in turn reinforced belief in his machine’s existence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en-academic.com/dic.nsf/enwiki/4811697/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-academic.com">[Academic Dictionaries and Encyclopedias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-academic.com</span><span class="citation-popover-title">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span><span class="citation-popover-snippet">Academic Dictionaries and Encyclopedias Wallace Tillinghast</span></span></span>
 
-However, as reporters and sceptics pressed Tillinghast for proof — especially after journalists staked out his home — it became clear that no credible demonstration ever occurred. Many newspapers began to offer alternate explanations, ranging from reflections of the planet Venus (unusually bright at that time) to hoaxed fire balloons deliberately released by pranksters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+However, as reporters and sceptics pressed Tillinghast for proof — especially after journalists staked out his home — it became clear that no credible demonstration ever occurred. Many newspapers began to offer alternate explanations, ranging from reflections of the planet Venus (unusually bright at that time) to hoaxed fire balloons deliberately released by pranksters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 The Tillinghast story is significant because it shows how rumour and media can create an *aircraft myth* absent an actual prototype — a precursor to the mass sightings of unidentified aerial phenomena that would appear decades later.
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-2-dark.svg" | relative_url }}" alt="Airship Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Venus, Balloons, Hoaxes and Newspaper Amplification
 
-Historical research suggests that many airship sightings during the 1909–1910 period had very ordinary origins once context is considered. A central culprit was **Venus**, which was positioned unusually high and bright in the winter sky. At night, in low‑light conditions, observers unfamiliar with its brightness could easily mistake it for a distant light source associated with something moving overhead — especially when primed by sensational press coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+Historical research suggests that many airship sightings during the 1909–1910 period had very ordinary origins once context is considered. A central culprit was **Venus**, which was positioned unusually high and bright in the winter sky. At night, in low‑light conditions, observers unfamiliar with its brightness could easily mistake it for a distant light source associated with something moving overhead — especially when primed by sensational press coverage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-Hoaxes also played a role. In Connecticut and nearby New England towns, pranksters took up the idea of a secret airship by releasing paper balloons or handbills signed with Tillinghast’s name, further misleading citizens and adding to the chatter. One group in Winsted, for instance, released a balloon on New Year’s Day and distributed flyers claiming travel to New York — fooling many who saw the lighted object in the sky at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
+Hoaxes also played a role. In Connecticut and nearby New England towns, pranksters took up the idea of a secret airship by releasing paper balloons or handbills signed with Tillinghast’s name, further misleading citizens and adding to the chatter. One group in Winsted, for instance, released a balloon on New Year’s Day and distributed flyers claiming travel to New York — fooling many who saw the lighted object in the sky at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 Newspaper amplification cannot be overstated. At a time when aviation was rapidly emerging and few people had ever seen a powered aircraft, print media was the primary source of sky‑related news. Editors tended to publish colourful eyewitnesses and speculation alongside cautious or sceptical commentary, making it hard for readers to separate sensational rumour from plausible interpretation.
 
@@ -290,201 +290,201 @@ Newspaper amplification cannot be overstated. At a time when aviation was rapidl
 
 The airship reports around Willimantic do not constitute evidence of unknown aeronautical craft in a scientific sense. Rather, they are an example of how early 20th‑century society responded to the dawning reality of human flight. Connecticut’s contributions to this folklore — however limited in scale — show that even relatively small towns were swept up in the curiosity and speculative interpretation of atmospheric lights.
 
-From a historical perspective, the wave is valuable for understanding how people made sense of unexplained or ambiguous lights in the sky before the vocabulary of *UFOs* existed. In this period, technological optimism, media echo chambers, and a fascination with emerging aviation mixed together to create a pattern of sightings and rumours that foreshadowed later aerial mystery phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
+From a historical perspective, the wave is valuable for understanding how people made sense of unexplained or ambiguous lights in the sky before the vocabulary of *UFOs* existed. In this period, technological optimism, media echo chambers, and a fascination with emerging aviation mixed together to create a pattern of sightings and rumours that foreshadowed later aerial mystery phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
 
-In the context of Connecticut’s early sky folklore, the Willimantic airship episode links back to broader patterns — from colonial ghostly ships to New England’s airship wave — that show how cultural expectations shape interpretations of the heavens above. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
+In the context of Connecticut’s early sky folklore, the Willimantic airship episode links back to broader patterns — from colonial ghostly ships to New England’s airship wave — that show how cultural expectations shape interpretations of the heavens above.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS; 1910...</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-3-dark.svg" | relative_url }}" alt="Airship Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba_willimantic_airship_2359fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Connecticut See Airships in 1910?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Connecticut See Airships in 1910?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Places early twentieth-century airship sightings into a larger historical pattern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places early twentieth-century airship sightings into a larger historical pattern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating unexplained aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating unexplained aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Shows how aerial mystery waves developed before modern UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how aerial mystery waves developed before modern UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how cultural expectations influence unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how cultural expectations influence unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Studio Ghibli Tiger Moth airship poster"><img src="https://i.ebayimg.com/images/g/Y8cAAeSw-9FqHU8-/s-l225.jpg" alt="Listing image for Original Studio Ghibli Tiger Moth airship poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Original Studio Ghibli Tiger Moth airship poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Studio Ghibli Tiger Moth airship poster"><img src="https://i.ebayimg.com/images/g/Y8cAAeSw-9FqHU8-/s-l225.jpg" alt="Listing image for Original Studio Ghibli Tiger Moth airship poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Original Studio Ghibli Tiger Moth airship poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a"><img src="https://i.ebayimg.com/images/g/1GgAAeSwfwZqGEve/s-l225.jpg" alt="Listing image for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a"><img src="https://i.ebayimg.com/images/g/1GgAAeSwfwZqGEve/s-l225.jpg" alt="Listing image for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Zeppelin Airship Aviation Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/QFkAAOSwDmxhQhjm/s-l225.jpg" alt="Listing image for Vintage Zeppelin Airship Aviation Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Zeppelin Airship Aviation Poster Print A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Zeppelin Airship Aviation Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/QFkAAOSwDmxhQhjm/s-l225.jpg" alt="Listing image for Vintage Zeppelin Airship Aviation Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Zeppelin Airship Aviation Poster Print A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/-bQAAOSwihBkUl8G/s-l225.jpg" alt="Listing image for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/-bQAAOSwihBkUl8G/s-l225.jpg" alt="Listing image for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-connecticut-see-airships-in-1910-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="why-did-connecticut-see-airships-in-1910-airship-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -500,7 +500,7 @@ In the context of Connecticut’s early sky folklore, the Willimantic airship ep
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -520,7 +520,7 @@ In the context of Connecticut’s early sky folklore, the Willimantic airship ep
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -552,7 +552,7 @@ In the context of Connecticut’s early sky folklore, the Willimantic airship ep
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -604,7 +604,7 @@ In the context of Connecticut’s early sky folklore, the Willimantic airship ep
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -649,7 +649,7 @@ In the context of Connecticut’s early sky folklore, the Willimantic airship ep
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -690,85 +690,85 @@ In the context of Connecticut’s early sky folklore, the Willimantic airship ep
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1910a.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS; 1910...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1910a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1910a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS; 1910...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ctinsider.com  
    Title: CT Insider Examining some of Connecticut's most spectacular UFO sightings  
-   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
+   Link:<a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en-academic.com  
    Title: Academic Dictionaries and Encyclopedias Wallace Tillinghast  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/4811697/" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/4811697/</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/4811697/" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/4811697/</a>  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: strangertimesnews.com  
-   Link: <a href="https://www.strangertimesnews.com/the-first-drone-wave-how-the-phantom-airships-of-1896-97-connect-new-jersey-drones-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.strangertimesnews.com/the-first-drone-wave-how-the-phantom-airships-of-1896-97-connect-new-jersey-drones-2024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Drone Wave: How the Phantom Airships of 1896–97 Connect to the Skies Above New Jersey in 2024May 18, 2026 — Tuesday, May 19, 20...</p></details>
+   Link:<a href="https://www.strangertimesnews.com/the-first-drone-wave-how-the-phantom-airships-of-1896-97-connect-new-jersey-drones-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.strangertimesnews.com/the-first-drone-wave-how-the-phantom-airships-of-1896-97-connect-new-jersey-drones-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First Drone Wave: How the Phantom Airships of 1896–97 Connect to the Skies Above New Jersey in 2024May 18, 2026 — Tuesday, May 19, 20...</p></details>
    Published: May 18, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afflictor.com  
-   Link: <a href="https://afflictor.com/2014/07/07/old-print-article-aviators-take-cats-as-mascots-on-trips-brooklyn-daily-eagle-1910/" target="_blank" rel="noopener noreferrer nofollow">https://afflictor.com/2014/07/07/old-print-article-aviators-take-cats-as-mascots-on-trips-brooklyn-daily-eagle-1910/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Old Print Article: “Aviators Take Cats As Mascots On Trips,” Brooklyn Daily Eagle (1910)July 7, 2014 — OLD PRINT ARTICLE: “AVIATORS TAK...</p></details>
+   Link:<a href="https://afflictor.com/2014/07/07/old-print-article-aviators-take-cats-as-mascots-on-trips-brooklyn-daily-eagle-1910/" target="_blank" rel="noopener noreferrer nofollow">https://afflictor.com/2014/07/07/old-print-article-aviators-take-cats-as-mascots-on-trips-brooklyn-daily-eagle-1910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Old Print Article: “Aviators Take Cats As Mascots On Trips,” Brooklyn Daily Eagle (1910)July 7, 2014 — OLD PRINT ARTICLE: “AVIATORS TAK...</p></details>
    Published: July 7, 2014  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newenglandaviationhistory.com  
-   Link: <a href="https://newenglandaviationhistory.com/tag/connecticut-airship/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/connecticut-airship/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Connecticut Airship | New England Aviation HistorySAVIN ROCK BALLOON AD – 1908 November 28, 2022 1908 Advertisement Filed Under: Uncatego...</p></details>
+   Link:<a href="https://newenglandaviationhistory.com/tag/connecticut-airship/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/connecticut-airship/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connecticut Airship | New England Aviation HistorySAVIN ROCK BALLOON AD – 1908 November 28, 2022 1908 Advertisement Filed Under: Uncatego...</p></details>
    Published: November 28, 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newenglandaviationhistory.com  
    Title: Connecticut Aviation History | New England Aviation History WILLIMANTIC, CT –  
-   Link: <a href="https://newenglandaviationhistory.com/tag/connecticut-aviation-history/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/connecticut-aviation-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Connecticut Aviation History | New England Aviation HistoryWILLIMANTIC, CT – SEPTEMBER 15, 1910 August 9, 2016 Willimantic, Connecticut –...</p></details>
+   Link:<a href="https://newenglandaviationhistory.com/tag/connecticut-aviation-history/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/connecticut-aviation-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connecticut Aviation History | New England Aviation HistoryWILLIMANTIC, CT – SEPTEMBER 15, 1910 August 9, 2016 Willimantic, Connecticut –...</p></details>
    Published: September 15, 1910  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mysteriousbritain.co.uk  
    Title: scareships or motherships the british phantom airship scare 1909 1918  
-   Link: <a href="https://www.mysteriousbritain.co.uk/ufos/scareships-or-motherships-the-british-phantom-airship-scare-1909-1918/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysteriousbritain.co.uk/ufos/scareships-or-motherships-the-british-phantom-airship-scare-1909-1918/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scareships or Motherships: The British phantom airship scare 1909 – 1918 – Mysterious Britain &amp; IrelandAugust 18, 2013 — SCARESHIPS OR M...</p></details>
+   Link:<a href="https://www.mysteriousbritain.co.uk/ufos/scareships-or-motherships-the-british-phantom-airship-scare-1909-1918/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysteriousbritain.co.uk/ufos/scareships-or-motherships-the-british-phantom-airship-scare-1909-1918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scareships or Motherships: The British phantom airship scare 1909 – 1918 – Mysterious Britain &amp; IrelandAugust 18, 2013 — SCARESHIPS OR M...</p></details>
    Published: August 18, 2013  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAUSE: COUNT VON ZEPPELIN. Dan Vergano July 2009 Image: Arch_Blimp_Flash_JJ09.jpg Two decades after the scare, a zeppelin over the Thames...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAUSE: COUNT VON ZEPPELIN. Dan Vergano July 2009 Image: Arch_Blimp_Flash_JJ09.jpg Two decades after the scare, a zeppelin over the Thames...</p></details>
    Published: July 2009  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usni.org  
    Title: The DN-1, which flew only three times, was considered a comple  
-   Link: <a href="https://www.usni.org/magazines/naval-history-magazine/2020/april/first-blimp" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/2020/april/first-blimp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First ‘Blimp’ | Naval History Magazine - April 2020, Volume 34, Number 2Image: The Navy’s first airship—the DN-1 The Navy’s first air...</p></details>
+   Link:<a href="https://www.usni.org/magazines/naval-history-magazine/2020/april/first-blimp" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/2020/april/first-blimp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First ‘Blimp’ | Naval History Magazine - April 2020, Volume 34, Number 2Image: The Navy’s first airship—the DN-1 The Navy’s first air...</p></details>
    Published: April 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newenglandaviationhistory.com  
    Title: Kopacka, and August Warzycki, both of Hartford  
-   Link: <a href="https://newenglandaviationhistory.com/the-kopacka-warzycki-airship-1910/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/the-kopacka-warzycki-airship-1910/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kopacka - Warzycki Airship - 1910 | New England Aviation HistoryFebruary 1, 2018 — THE KOPACKA – WARZYCKI AIRSHIP – 1910 February 1...</p></details>
+   Link:<a href="https://newenglandaviationhistory.com/the-kopacka-warzycki-airship-1910/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/the-kopacka-warzycki-airship-1910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kopacka - Warzycki Airship - 1910 | New England Aviation HistoryFebruary 1, 2018 — THE KOPACKA – WARZYCKI AIRSHIP – 1910 February 1...</p></details>
    Published: February 1, 2018  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newenglandaviationhistory.com  
    Title: the zodiac dirigible airship company 1910  
-   Link: <a href="https://newenglandaviationhistory.com/the-zodiac-dirigible-airship-company-1910/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/the-zodiac-dirigible-airship-company-1910/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Zodiac Dirigible Airship Company - 1910 | New England Aviation HistoryJanuary 30, 2017 — THE ZODIAC DIRIGIBLE AIRSHIP COMPANY – 1910...</p></details>
+   Link:<a href="https://newenglandaviationhistory.com/the-zodiac-dirigible-airship-company-1910/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/the-zodiac-dirigible-airship-company-1910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Zodiac Dirigible Airship Company - 1910 | New England Aviation HistoryJanuary 30, 2017 — THE ZODIAC DIRIGIBLE AIRSHIP COMPANY – 1910...</p></details>
    Published: January 30, 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bangordailynews.com  
    Title: Aeroplane fever gripped Bangor a century ago  
-   Link: <a href="https://www.bangordailynews.com/2011/08/21/living/aeroplane-fever-gripped-bangor-a-century-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2011/08/21/living/aeroplane-fever-gripped-bangor-a-century-ago/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reilly August 21, 2011August 22, 2011 Bangoreans had “aeroplane” fever a century ago. They had seen parachutists jump from balloons an...</p></details>
+   Link:<a href="https://www.bangordailynews.com/2011/08/21/living/aeroplane-fever-gripped-bangor-a-century-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2011/08/21/living/aeroplane-fever-gripped-bangor-a-century-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reilly August 21, 2011August 22, 2011 Bangoreans had “aeroplane” fever a century ago. They had seen parachutists jump from balloons an...</p></details>
    Published: August 21, 2011

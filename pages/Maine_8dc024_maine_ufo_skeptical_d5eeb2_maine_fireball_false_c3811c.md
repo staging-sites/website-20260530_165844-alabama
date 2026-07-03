@@ -257,7 +257,7 @@ This pattern appears repeatedly in Maine sighting history. Some reports that beg
 
 ## When a meteor becomes a Maine UFO
 
-Astronomers define a fireball as an exceptionally bright meteor, generally brighter than the planet Venus. Some produce terminal flashes, fragmentation or brief explosions known as bolides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
+Astronomers define a fireball as an exceptionally bright meteor, generally brighter than the planet Venus. Some produce terminal flashes, fragmentation or brief explosions known as bolides.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
 Those characteristics overlap with many classic UFO descriptions:
 
@@ -293,9 +293,9 @@ Witnesses often report:
 
 </div>
 
-These descriptions can sound unusual when read in isolation. Yet they are common enough in meteor databases that organisations such as the American Meteor Society maintain dedicated fireball reporting systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
+These descriptions can sound unusual when read in isolation. Yet they are common enough in meteor databases that organisations such as the American Meteor Society maintain dedicated fireball reporting systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
-Green fireballs are especially significant in UFO history because they have generated speculation for decades. In reality, colour alone is not evidence of anything exotic. Meteor colours depend on factors such as atmospheric interaction and the composition of the incoming material. Nevertheless, a brilliant green object crossing a dark Maine sky remains exactly the sort of sight that can persuade a witness they have seen something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span>
+Green fireballs are especially significant in UFO history because they have generated speculation for decades. In reality, colour alone is not evidence of anything exotic. Meteor colours depend on factors such as atmospheric interaction and the composition of the incoming material. Nevertheless, a brilliant green object crossing a dark Maine sky remains exactly the sort of sight that can persuade a witness they have seen something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +303,7 @@ Green fireballs are especially significant in UFO history because they have gene
 
 One of the strongest examples of a fireball creating widespread mystery occurred in December 2017, when a bright meteor crossed skies above the northeastern United States.
 
-The American Meteor Society received more than 180 reports from observers across Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York and Pennsylvania. Witnesses described a bright fireball visible around 6 p.m., and the event attracted substantial media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</span></span></span>
+The American Meteor Society received more than 180 reports from observers across Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York and Pennsylvania. Witnesses described a bright fireball visible around 6 p.m., and the event attracted substantial media attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</span></span></span>
 
 For an individual observer in Maine, the experience could easily have seemed unique. A person stepping outside for only a few moments might have seen a brilliant object flash across the horizon and disappear. Without knowing that observers hundreds of miles away witnessed the same event, a UFO interpretation would have been understandable.
 
@@ -315,18 +315,18 @@ The broader evidence changed the picture:
 * Witness descriptions showed strong similarities.
 * The event lasted only a few seconds.
 * Its path was consistent with a meteor entering the atmosphere.
-* Astronomical investigators treated it as a fireball rather than an aircraft or structured object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Watch a Meteor Light Up the Sky in Maine</span><span class="citation-popover-snippet">“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</span></span></span>
+* Astronomical investigators treated it as a fireball rather than an aircraft or structured object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Watch a Meteor Light Up the Sky in Maine</span><span class="citation-popover-snippet">“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</span></span></span>
 
 </div>
 
-American Meteor Society officials noted that such events occur regularly on a national scale but are rarely seen by any one individual because of their short duration. That combination of rarity to the witness and familiarity to specialists helps explain why fireballs repeatedly enter UFO discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</span></span></span>
+American Meteor Society officials noted that such events occur regularly on a national scale but are rarely seen by any one individual because of their short duration. That combination of rarity to the witness and familiarity to specialists helps explain why fireballs repeatedly enter UFO discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</span></span></span>
 
 <img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-dark.svg" | relative_url }}" alt="Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2016 Maine dashcam fireball
 
 Another instructive case came in May 2016, when a meteor was captured on a police vehicle camera in Portland, Maine.
 
-The footage showed a bright object streaking through the night sky, creating exactly the kind of visual spectacle that often drives UFO speculation. Media coverage openly joked about an "alien spaceship" while identifying the object as a meteor. The American Meteor Society received reports from numerous northeastern states, indicating a regional atmospheric event rather than a localised mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Watch a Meteor Light Up the Sky in Maine</span><span class="citation-popover-snippet">“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</span></span></span>
+The footage showed a bright object streaking through the night sky, creating exactly the kind of visual spectacle that often drives UFO speculation. Media coverage openly joked about an "alien spaceship" while identifying the object as a meteor. The American Meteor Society received reports from numerous northeastern states, indicating a regional atmospheric event rather than a localised mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Watch a Meteor Light Up the Sky in Maine</span><span class="citation-popover-snippet">“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</span></span></span>
 
 What makes this case useful is the existence of video evidence. The recording preserves the suddenness and brightness that impressed witnesses while also allowing investigators to compare observations across a wider area. Instead of relying solely on memory, researchers could place the sighting into a larger pattern of reports.
 
@@ -340,7 +340,7 @@ This impression is frequently misleading.
 
 A meteor visible above Maine may actually be burning tens of miles high in the atmosphere and hundreds of miles away from the observer. Human depth perception works poorly when viewing bright objects against a dark sky with few reference points. As a result, witnesses often underestimate both altitude and distance.
 
-This explains why local searches after dramatic fireballs frequently fail to find wreckage. In many historical meteor and UFO incidents across North America, observers became convinced an object landed nearby when later analysis showed the event occurred far beyond the perceived location. Similar patterns appear in famous fireball-related UFO stories outside Maine, where early reports of crashes or recoveries gradually gave way to meteor explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This explains why local searches after dramatic fireballs frequently fail to find wreckage. In many historical meteor and UFO incidents across North America, observers became convinced an object landed nearby when later analysis showed the event occurred far beyond the perceived location. Similar patterns appear in famous fireball-related UFO stories outside Maine, where early reports of crashes or recoveries gradually gave way to meteor explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 The same misunderstanding can occur when witnesses report an object "dropping behind the trees". In reality, the meteor may simply have passed below the observer's horizon line while still far away.
 
@@ -354,7 +354,7 @@ Three questions are especially useful.
 
 ### Exactly when did it happen?
 
-Meteor events generate clusters of reports within the same few seconds or minutes. If dozens or hundreds of witnesses across a large region describe the same time window, a meteor explanation becomes easier to test against established records from organisations such as the American Meteor Society. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
+Meteor events generate clusters of reports within the same few seconds or minutes. If dozens or hundreds of witnesses across a large region describe the same time window, a meteor explanation becomes easier to test against established records from organisations such as the American Meteor Society.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
 Vague timings create problems. A report that occurred "around evening" is far harder to compare with known astronomical events than one logged at 6:02 p.m.
 
@@ -369,7 +369,7 @@ If observers in Maine, New Hampshire and Massachusetts all describe compatible d
 
 Duration is often one of the strongest clues.
 
-Most fireballs remain visible for only a few seconds. The December 2017 event, for example, was brief despite attracting widespread attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Watch a Meteor Light Up the Sky in Maine</span><span class="citation-popover-snippet">“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</span></span></span>
+Most fireballs remain visible for only a few seconds. The December 2017 event, for example, was brief despite attracting widespread attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Watch a Meteor Light Up the Sky in Maine</span><span class="citation-popover-snippet">“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</span></span></span>
 
 Many UFO reports, however, involve objects observed for several minutes or longer. A witness who watched a light hovering over a bay for twenty minutes is probably describing something different from a meteor, even if the object was eventually misidentified. Duration alone does not solve a case, but it quickly narrows the list of plausible explanations.
 
@@ -377,9 +377,9 @@ Many UFO reports, however, involve objects observed for several minutes or longe
 
 One reason fireball-related UFO mysteries are often resolved more quickly today is the growth of coordinated reporting systems.
 
-The American Meteor Society collects witness reports, maps observation locations and compares accounts from different regions. International databases perform similar functions. These networks make it easier to determine whether an apparently local mystery was actually part of a larger astronomical event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
+The American Meteor Society collects witness reports, maps observation locations and compares accounts from different regions. International databases perform similar functions. These networks make it easier to determine whether an apparently local mystery was actually part of a larger astronomical event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
-In some cases, investigators can go beyond simple identification. Multiple observations may allow estimates of a meteor's trajectory and, if fragments survive atmospheric entry, possible meteorite fall zones. Researchers studying meteor recovery note that reconstructing these paths is complex and often uncertain, but the effort demonstrates how far analysis can progress beyond an initial eyewitness impression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Darkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</span><span class="citation-popover-meta">Published: August 10, 2021</span></span></span>
+In some cases, investigators can go beyond simple identification. Multiple observations may allow estimates of a meteor's trajectory and, if fragments survive atmospheric entry, possible meteorite fall zones. Researchers studying meteor recovery note that reconstructing these paths is complex and often uncertain, but the effort demonstrates how far analysis can progress beyond an initial eyewitness impression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Darkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</span><span class="citation-popover-meta">Published: August 10, 2021</span></span></span>
 
 For Maine UFO history, this matters because older reports often lack the timing and geographical coverage needed for such reconstruction. Modern fireball events leave a much larger evidential trail, making conventional explanations easier to verify.
 
@@ -394,194 +394,194 @@ Within Maine's UFO history, fireballs are among the strongest examples of a recu
 For that reason, fireball reports occupy an important middle ground in Maine's UFO record. They are genuinely dramatic events, often remembered for years by witnesses, but they also show how scientific investigation can transform a startling personal experience into a well-understood astronomical one.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a meteor becomes a Maine UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a meteor becomes a Maine UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages evidence-based interpretation of unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Encourages evidence-based interpretation of unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains how astronomical events are commonly misunderstood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how astronomical events are commonly misunderstood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly explains meteors, fireballs, and observed sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains meteors, fireballs, and observed sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify meteors and other natural sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify meteors and other natural sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993"><img src="https://i.ebayimg.com/images/g/IwYAAOSwsBVgZa35/s-l225.jpg" alt="Listing image for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993"><img src="https://i.ebayimg.com/images/g/IwYAAOSwsBVgZa35/s-l225.jpg" alt="Listing image for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery"><img src="https://i.ebayimg.com/images/g/r6kAAeSwVSRohipt/s-l225.jpg" alt="Listing image for Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery"><img src="https://i.ebayimg.com/images/g/r6kAAeSwVSRohipt/s-l225.jpg" alt="Listing image for Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979"><img src="https://i.ebayimg.com/images/g/CWQAAeSw6sFqJwz7/s-l225.jpg" alt="Listing image for Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979"><img src="https://i.ebayimg.com/images/g/CWQAAeSw6sFqJwz7/s-l225.jpg" alt="Listing image for Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979"><img src="https://i.ebayimg.com/images/g/vmEAAOSwfCVjDzxo/s-l225.jpg" alt="Listing image for METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979"><img src="https://i.ebayimg.com/images/g/vmEAAOSwfCVjDzxo/s-l225.jpg" alt="Listing image for METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,110 +787,110 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5080205/meteor-new-england-northeast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</p></details>
+   Link:<a href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5080205/meteor-new-england-northeast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: Watch a Meteor Light Up the Sky in Maine  
-   Link: <a href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4338433/meteor-sky-maine-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</p></details>
+   Link:<a href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4338433/meteor-sky-maine-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.sky.com  
    Title: huge fireball filmed shooting through sky 10286289  
-   Link: <a href="https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsHuge Fireball Filmed Shooting Through Sky | US News17 May 2016 — Hundreds of people have reported seeing a huge fireball, thought...</p></details>
+   Link:<a href="https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsHuge Fireball Filmed Shooting Through Sky | US News17 May 2016 — Hundreds of people have reported seeing a huge fireball, thought...</p></details>
    Published: May 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1972 Great Daylight Fireball  
-   Link: <a href="https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.04397</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Darkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.04397</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</p></details>
    Published: August 10, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor show...</p></details>
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor show...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0 across North Georgia upstate North uh South Carolina of a fireball or meteor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0 across North Georgia upstate North uh South Carolina of a fireball or meteor...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor sightings confirmed in skies above the tri-stateMETEOR SIGHTING The American Meteor Society confirmed several reports of a firebal...</p></details>
+   Link:<a href="https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor sightings confirmed in skies above the tri-stateMETEOR SIGHTING The American Meteor Society confirmed several reports of a firebal...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Space AlertsReport Washington State fireball sightings to the American Meteor Society (AMS) website. Verified fireball sightings wil...</p></details>
+   Link:<a href="https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Space AlertsReport Washington State fireball sightings to the American Meteor Society (AMS) website. Verified fireball sightings wil...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/videos?video_id=20424" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=20424</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideosOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and related meteoric phe...</p></details>
+   Link:<a href="https://amsmeteors.org/videos?video_id=20424" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=20424</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideosOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and related meteoric phe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29w. Sharylyn Anthony. That little UFO was faster than lightning getting out of the line...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29w. Sharylyn Anthony. That little UFO was faster than lightning getting out of the line...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l log—one person in Vermont reported hearing a rumbling sound coming...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l log—one person in Vermont reported hearing a rumbling sound coming...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eeing a bright fireball in the sky. Video spots fireball...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eeing a bright fireball in the sky. Video spots fireball...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSz-1PwjN7s/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSz-1PwjN7s/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t a fireball seen across Washington, British Columbia, and Oregon...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSz-1PwjN7s/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSz-1PwjN7s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t a fireball seen across Washington, British Columbia, and Oregon...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fireballs.ndc.nasa.gov  
-   Link: <a href="https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20240720-01360020 Jul 2024 — Event: 20240720-013600... Numerous eyewitnesses in the states of Maine, New Hampshire, Vermont, Massachuset...</p></details>
+   Link:<a href="https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20240720-01360020 Jul 2024 — Event: 20240720-013600... Numerous eyewitnesses in the states of Maine, New Hampshire, Vermont, Massachuset...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eor (or alien spaceship) was caught on camera at...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eor (or alien spaceship) was caught on camera at...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nbc26.com  
    Title: video fireball streaks across night sky  
-   Link: <a href="https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: Fireball streaks across night sky17 May 2016 — This video is from police in Portland, Maine who joked, “The meteor (or alien space...</p></details>
+   Link:<a href="https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: Fireball streaks across night sky17 May 2016 — This video is from police in Portland, Maine who joked, “The meteor (or alien space...</p></details>
    Published: May 2016

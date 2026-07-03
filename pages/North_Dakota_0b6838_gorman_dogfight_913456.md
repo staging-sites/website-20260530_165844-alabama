@@ -268,29 +268,29 @@ image: /assets/images/North_Dakota_0b6838_gorman_dogfight_913456-overview-social
 
 ## Introduction
 
-Fargo’s 1948 “Gorman dogfight” is one of North Dakota’s most famous UFO cases because it was not just a vague report from the ground. A Second World War veteran and North Dakota Air National Guard pilot, George F. Gorman, chased a blinking light over Fargo for about 27 minutes; tower staff and the occupants of a Piper Cub also saw a light; and Air Force investigators arrived quickly enough to interview witnesses and inspect Gorman’s aircraft. That makes it a serious historical case within North Dakota’s UFO record. It does not, however, make it a strong case for an extraordinary craft. The best-supported explanation remains the one the Air Force eventually adopted: Gorman probably chased a lighted weather balloon, with his own night-time manoeuvres making the light appear faster, more evasive and more intelligent than it really was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
+Fargo’s 1948 “Gorman dogfight” is one of North Dakota’s most famous UFO cases because it was not just a vague report from the ground. A Second World War veteran and North Dakota Air National Guard pilot, George F. Gorman, chased a blinking light over Fargo for about 27 minutes; tower staff and the occupants of a Piper Cub also saw a light; and Air Force investigators arrived quickly enough to interview witnesses and inspect Gorman’s aircraft. That makes it a serious historical case within North Dakota’s UFO record. It does not, however, make it a strong case for an extraordinary craft. The best-supported explanation remains the one the Air Force eventually adopted: Gorman probably chased a lighted weather balloon, with his own night-time manoeuvres making the light appear faster, more evasive and more intelligent than it really was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-overview.webp" | relative_url }}" alt="Overview image for Gorman Case" loading="eager" decoding="sync" fetchpriority="high">
 ## What Gorman and other witnesses reported
 
-The incident took place on the evening of 1 October 1948, after Gorman returned to Hector Airport in Fargo from a cross-country flight with other North Dakota Air National Guard pilots. Instead of landing with the rest of the group, he stayed airborne to log night-flying time. Around 9 p.m., while preparing to land, he saw the known Piper Cub below him and then noticed what looked like another light in the area. The tower told him no other aircraft were known to be there, so Gorman decided to investigate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/gorman2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Gorman &quot;Dogfight</span><span class="citation-popover-snippet">Gorman &quot;Dogfight</span></span></span>
+The incident took place on the evening of 1 October 1948, after Gorman returned to Hector Airport in Fargo from a cross-country flight with other North Dakota Air National Guard pilots. Instead of landing with the rest of the group, he stayed airborne to log night-flying time. Around 9 p.m., while preparing to land, he saw the known Piper Cub below him and then noticed what looked like another light in the area. The tower told him no other aircraft were known to be there, so Gorman decided to investigate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/gorman2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Gorman &quot;Dogfight</span><span class="citation-popover-snippet">Gorman &quot;Dogfight</span></span></span>
 
-Gorman’s own description is the reason the case became dramatic. He said the light was small, white, round and blinking; when he approached it, the light seemed to become steady, bank sharply and climb. He reported pushing his F-51 Mustang hard, making turns to cut the object off, and at one point diving away when the light appeared to be on a collision course. Later accounts describe him as shaken after landing, even though he was an experienced wartime pilot and flying instructor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
+Gorman’s own description is the reason the case became dramatic. He said the light was small, white, round and blinking; when he approached it, the light seemed to become steady, bank sharply and climb. He reported pushing his F-51 Mustang hard, making turns to cut the object off, and at one point diving away when the light appeared to be on a collision course. Later accounts describe him as shaken after landing, even though he was an experienced wartime pilot and flying instructor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
 
-The case did not rest only on Gorman’s impressions. The Piper Cub pilot, Dr A. D. Cannon, and his passenger, Einar Nielson, reported seeing a fast-moving light. Two Civil Aeronautics Administration employees in the tower also saw a light, though Edward Ruppelt, later head of Project [Blue Book]({{ 'blue-book-d5f241/' | relative_url }}), stressed an important limitation: the other witnesses only partly corroborated Gorman’s story. They saw a light moving over or near the field; they did not all see the full set of intricate “dogfight” manoeuvres that Gorman described from the cockpit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
+The case did not rest only on Gorman’s impressions. The Piper Cub pilot, Dr A. D. Cannon, and his passenger, Einar Nielson, reported seeing a fast-moving light. Two Civil Aeronautics Administration employees in the tower also saw a light, though Edward Ruppelt, later head of Project [Blue Book]({{ 'blue-book-d5f241/' | relative_url }}), stressed an important limitation: the other witnesses only partly corroborated Gorman’s story. They saw a light moving over or near the field; they did not all see the full set of intricate “dogfight” manoeuvres that Gorman described from the cockpit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
 
-That distinction matters. Multiple witnesses make the sighting harder to dismiss as a lone hallucination or made-up story. But the strongest and strangest parts of the case — apparent head-on passes, impossible turns, and a climb beyond the fighter’s ability to follow — came mainly from the pilot who was actively chasing the light at night. In a fast aircraft, without a clear background, judging another object’s distance, size and speed is difficult even when the object is ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
+That distinction matters. Multiple witnesses make the sighting harder to dismiss as a lone hallucination or made-up story. But the strongest and strangest parts of the case — apparent head-on passes, impossible turns, and a climb beyond the fighter’s ability to follow — came mainly from the pilot who was actively chasing the light at night. In a fast aircraft, without a clear background, judging another object’s distance, size and speed is difficult even when the object is ordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-1-dark.svg" | relative_url }}" alt="Gorman Case illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Air Force took the case seriously
 
-The Air Force took the Fargo incident seriously because it arrived at exactly the wrong moment for a simple public-relations dismissal. The modern flying-saucer wave had begun only the previous year, and by 1948 Air Force investigators at Air Technical Intelligence Center were receiving a stream of reports from pilots, military personnel and civilians. Ruppelt later described the Fargo case as the third of the major 1948 “classic” incidents, after the Mantell case and the Chiles-Whitted airline encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
+The Air Force took the Fargo incident seriously because it arrived at exactly the wrong moment for a simple public-relations dismissal. The modern flying-saucer wave had begun only the previous year, and by 1948 Air Force investigators at Air Technical Intelligence Center were receiving a stream of reports from pilots, military personnel and civilians. Ruppelt later described the Fargo case as the third of the major 1948 “classic” incidents, after the Mantell case and the Chiles-Whitted airline encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
 
-The immediate response was more than paperwork. [Project Sign]({{ 'project-sign/' | relative_url }}) investigators rushed to Fargo, took witness statements and grounded Gorman’s aircraft so they could examine it. They used a Geiger counter on the F-51 and compared readings with another similar aircraft that had not recently flown. Gorman’s plane showed higher radioactivity, and this initially gave the case an exotic flavour at a time when some investigators were willing to consider advanced or even interplanetary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
+The immediate response was more than paperwork. [Project Sign]({{ 'project-sign/' | relative_url }}) investigators rushed to Fargo, took witness statements and grounded Gorman’s aircraft so they could examine it. They used a Geiger counter on the F-51 and compared readings with another similar aircraft that had not recently flown. Gorman’s plane showed higher radioactivity, and this initially gave the case an exotic flavour at a time when some investigators were willing to consider advanced or even interplanetary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
 
-The radiation point later weakened rather than strengthened the case. Ruppelt wrote that the higher reading was explained by a Wright Field laboratory memorandum: a recently flown aircraft can show more radioactivity than one that has been on the ground for several days, because aircraft at altitude are exposed to more cosmic radiation than aircraft shielded closer to the ground. In other words, the Geiger-counter evidence did not show that Gorman had encountered an “atomic-powered” object; it showed why a quick field measurement can be misleading without a proper control and physical explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
+The radiation point later weakened rather than strengthened the case. Ruppelt wrote that the higher reading was explained by a Wright Field laboratory memorandum: a recently flown aircraft can show more radioactivity than one that has been on the ground for several days, because aircraft at altitude are exposed to more cosmic radiation than aircraft shielded closer to the ground. In other words, the Geiger-counter evidence did not show that Gorman had encountered an “atomic-powered” object; it showed why a quick field measurement can be misleading without a proper control and physical explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
 
-The official setting also helps explain why the case stayed famous. Project Blue Book itself later became the best-known name for the Air Force UFO programme, though the early Fargo work belonged to the Project Sign era. The National Archives notes that Project Blue Book records were transferred to federal custody, include chronological case files and are available on microfilm; the Air Force states that its UFO investigations from 1947 to 1969 received 12,618 reports, of which 701 remained “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The official setting also helps explain why the case stayed famous. Project Blue Book itself later became the best-known name for the Air Force UFO programme, though the early Fargo work belonged to the Project Sign era. The National Archives notes that Project Blue Book records were transferred to federal custody, include chronological case files and are available on microfilm; the Air Force states that its UFO investigations from 1947 to 1969 received 12,618 reports, of which 701 remained “unidentified”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SoiXiux51uo" title="12 UFO Stories That Will Keep You Up Tonight | Forgotten History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer">12 UFO Stories That Will Keep You Up Tonight | Forgotten History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 126.4K &middot; Uploaded: April 2025 &middot; Length: 1 hour 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SoiXiux51uo">Open on YouTube</a></p></div></div></div>
 
@@ -298,22 +298,22 @@ The official setting also helps explain why the case stayed famous. Project Blue
 
 The balloon explanation has three main strengths: there was a real balloon, the timing fits the beginning of the sighting, and the reported motion can be explained by relative motion and night-time perception.
 
-The key fact is that the Fargo weather station had released a lighted weather balloon shortly before the chase. Ruppelt wrote that an Air Weather Service analysis sent to Air Technical Intelligence Center in January 1949 “proved” that Gorman had fought a lighted balloon. A later New Yorker account of Project Saucer made the same core point: the Fargo station had released a lighted balloon only about ten minutes before Gorman’s routine patrol turned into a chase, and the object’s steady climb fitted balloon behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
+The key fact is that the Fargo weather station had released a lighted weather balloon shortly before the chase. Ruppelt wrote that an Air Weather Service analysis sent to Air Technical Intelligence Center in January 1949 “proved” that Gorman had fought a lighted balloon. A later New Yorker account of Project Saucer made the same core point: the Fargo station had released a lighted balloon only about ten minutes before Gorman’s routine patrol turned into a chase, and the object’s steady climb fitted balloon behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
 
-The most persuasive part of the explanation is not simply “there was a balloon”. It is the way a slowly rising light can appear to dodge a pursuing aircraft. A former Project Saucer technician quoted by The New Yorker compared the problem to trying to chase a buoyant ball underwater: the ball may be rising steadily, but the swimmer’s own zigzags make the target seem elusive. Applied to Fargo, the idea is that Gorman’s turns, dives and climbs created the impression that the light was responding to him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
+The most persuasive part of the explanation is not simply “there was a balloon”. It is the way a slowly rising light can appear to dodge a pursuing aircraft. A former Project Saucer technician quoted by The New Yorker compared the problem to trying to chase a buoyant ball underwater: the ball may be rising steadily, but the swimmer’s own zigzags make the target seem elusive. Applied to Fargo, the idea is that Gorman’s turns, dives and climbs created the impression that the light was responding to him.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
 
-That analysis was reportedly tested. The New Yorker account says a controlled experiment at Wright Field used a weather balloon and a pilot who knew what he was chasing; the pilot was able to duplicate the sort of manoeuvres Gorman had made, showing that a pilot could mistakenly experience a balloon as evasive. Ruppelt also cited similar lighted-balloon incidents in which pilots reported dramatic manoeuvres before the objects were identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
+That analysis was reportedly tested. The New Yorker account says a controlled experiment at Wright Field used a weather balloon and a pilot who knew what he was chasing; the pilot was able to duplicate the sort of manoeuvres Gorman had made, showing that a pilot could mistakenly experience a balloon as evasive. Ruppelt also cited similar lighted-balloon incidents in which pilots reported dramatic manoeuvres before the objects were identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
 
-The balloon explanation also accounts for why witnesses saw a light but not a detailed craft. Gorman described a small round light, with no sound, odour or exhaust trail. Tower witnesses and the Cub occupants saw a light moving fast, but they did not provide a consistent, close-range description of a structured object. For a sceptical reading, this is important: the physical evidence is thin, while the perceptual situation — night flying, a bright point source, changing angles, and a motivated pursuit — is exactly the sort of setting in which apparent speed and direction can be badly misjudged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
+The balloon explanation also accounts for why witnesses saw a light but not a detailed craft. Gorman described a small round light, with no sound, odour or exhaust trail. Tower witnesses and the Cub occupants saw a light moving fast, but they did not provide a consistent, close-range description of a structured object. For a sceptical reading, this is important: the physical evidence is thin, while the perceptual situation — night flying, a bright point source, changing angles, and a motivated pursuit — is exactly the sort of setting in which apparent speed and direction can be badly misjudged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Something in the Sky &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Something in the Sky &#124; The New Yorker</span></span></span>
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-2-dark.svg" | relative_url }}" alt="Gorman Case illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What still gives the case its pull
 
-The Gorman case still attracts attention because the human story is unusually vivid. Gorman was not an anonymous witness glancing at a light from a porch; he was an experienced pilot in a powerful aircraft, speaking to a control tower, chasing the object over a recognisable city. Local retellings have kept that drama alive, including Prairie Public’s Dakota Datebook account, which emphasises the 27-minute chase, the tower observations and the way the story survived the official balloon explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
+The Gorman case still attracts attention because the human story is unusually vivid. Gorman was not an anonymous witness glancing at a light from a porch; he was an experienced pilot in a powerful aircraft, speaking to a control tower, chasing the object over a recognisable city. Local retellings have kept that drama alive, including Prairie Public’s Dakota Datebook account, which emphasises the 27-minute chase, the tower observations and the way the story survived the official balloon explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
 
-There are also fair reasons why some readers hesitate before accepting the balloon explanation as complete. Gorman believed the light acted with intention. He reported near-collision impressions and performance beyond his fighter’s ability. Other witnesses did see a light, and the official investigation initially treated the case as puzzling. Those points explain why the case became a “classic” and why it remained attractive to UFO writers who distrusted Air Force conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
+There are also fair reasons why some readers hesitate before accepting the balloon explanation as complete. Gorman believed the light acted with intention. He reported near-collision impressions and performance beyond his fighter’s ability. Other witnesses did see a light, and the official investigation initially treated the case as puzzling. Those points explain why the case became a “classic” and why it remained attractive to UFO writers who distrusted Air Force conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
 
-But the doubts do not carry equal weight. The most dramatic claims depend heavily on cockpit perception during a night pursuit. The radiation evidence faded under ordinary physical explanation. The Air Weather Service supplied a specific, local, time-matched object. And the balloon hypothesis did not require a vague hand-wave: it included a mechanism, a comparison with other balloon chases, and an experiment showing how a pilot could be fooled by relative motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
+But the doubts do not carry equal weight. The most dramatic claims depend heavily on cockpit perception during a night pursuit. The radiation evidence faded under ordinary physical explanation. The Air Weather Service supplied a specific, local, time-matched object. And the balloon hypothesis did not require a vague hand-wave: it included a mechanism, a comparison with other balloon chases, and an experiment showing how a pilot could be fooled by relative motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</span></span></span>
 
 That is why the Fargo case is best read as historically important but evidentially weakened. It remains central to North Dakota’s UFO history because it brought the state into the early national UFO debate and involved military aviation, official investigation and multiple witnesses. It is not one of the strongest unresolved cases once the balloon evidence is taken seriously.
 
@@ -323,7 +323,7 @@ That is why the Fargo case is best read as historically important but evidential
 
 ## What the case means for North Dakota’s UFO history
 
-Within North Dakota, the Gorman dogfight sits at the start of a pattern that would later make the state unusually interesting to UFO researchers: sightings tied to aircraft, official records and military settings rather than only casual ground reports. Fargo in 1948 and Minot in 1968 are different cases with different evidence, but both show why North Dakota’s UFO history cannot be reduced to folklore. These were reports that entered formal investigative systems and left a paper trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Within North Dakota, the Gorman dogfight sits at the start of a pattern that would later make the state unusually interesting to UFO researchers: sightings tied to aircraft, official records and military settings rather than only casual ground reports. Fargo in 1948 and Minot in 1968 are different cases with different evidence, but both show why North Dakota’s UFO history cannot be reduced to folklore. These were reports that entered formal investigative systems and left a paper trail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The lesson of the Gorman case is also cautionary. A trained witness can be sincere, competent and still mistaken about an unfamiliar light under difficult viewing conditions. Multiple witnesses can confirm that something was seen without confirming the extraordinary interpretation placed on it. An official investigation can begin with excitement and end with a mundane explanation as better context arrives.
 
@@ -332,194 +332,194 @@ For readers trying to judge the case today, the most balanced conclusion is clea
 <img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-3-dark.svg" | relative_url }}" alt="Gorman Case illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Fargo&#x27;s Famous UFO Dogfight a Balloon?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Fargo&#x27;s Famous UFO Dogfight a Balloon?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical approaches relevant to the dogfight report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical approaches relevant to the dogfight report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Strong match for readers interested in the Gorman case and official explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for readers interested in the Gorman case and official explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context for how the Gorman incident was investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how the Gorman incident was investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fighter+Pilot+by+Robin+Olds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fighter Pilot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uM7dwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fighter Pilot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fighter+Pilot+by+Robin+Olds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fighter Pilot">Fighter Pilot</a>
-        </h4>
-        <p class="fr-book-author">By Robin Olds, Christina Olds et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fighter+Pilot+by+Robin+Olds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fighter Pilot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uM7dwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fighter Pilot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fighter+Pilot+by+Robin+Olds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fighter Pilot">Fighter Pilot</a>
+</h4>
+<p class="fr-book-author">By Robin Olds, Christina Olds et al.</p>
         
-        <p class="fr-book-desc">Gives readers insight into pilot perception and aerial maneuvering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fighter+Pilot+by+Robin+Olds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers insight into pilot perception and aerial maneuvering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fighter+Pilot+by+Robin+Olds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-fargo-s-famous-ufo-dogfight-a-balloon-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ For readers trying to judge the case today, the most balanced conclusion is clea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ For readers trying to judge the case today, the most balanced conclusion is clea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ For readers trying to judge the case today, the most balanced conclusion is clea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ For readers trying to judge the case today, the most balanced conclusion is clea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ For readers trying to judge the case today, the most balanced conclusion is clea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,112 +725,112 @@ For readers trying to judge the case today, the most balanced conclusion is clea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: The Report on Unidentified Flying Objects/Chapter 3  
-   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 3 - Wikisource, the free online library...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
    Title: Gorman "Dogfight"  
-   Link: <a href="https://www.nicap.org/reports/gorman2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/gorman2.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/gorman2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/gorman2.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: ufo dogfight gorman us plane fargo  
-   Link: <a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
+   Link:<a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: Project Blue Book: Declassified  
-   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight</a>  
+   Link:<a href="https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/rufo/rufo-03.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/rufo/rufo-03.htm</a>  
+   Link:<a href="https://www.nicap.org/rufo/rufo-03.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/rufo/rufo-03.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
    Title: The New Yorker Something in the Sky | The New Yorker  
-   Link: <a href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky</a>  
+   Link:<a href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.prairiepublic.org  
    Title: Prairie Public Gorman Dogfight | Prairie Public  
-   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight</a>  
+   Link:<a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Gorman dogfight  
-   Link: <a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.prairiepublic.org  
    Title: gorman dogfight  
-   Link: <a href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight</a>  
+   Link:<a href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kids.kiddle.co  
    Title: Gorman dogfight  
-   Link: <a href="https://kids.kiddle.co/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Gorman_dogfight</a>  
+   Link:<a href="https://kids.kiddle.co/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Gorman_dogfight</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hpr1.com  
    Title: the gorman dogfight  
-   Link: <a href="https://hpr1.com/index.php/feature/culture/the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-gorman-dogfight</a>  
+   Link:<a href="https://hpr1.com/index.php/feature/culture/the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-gorman-dogfight</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: 12 UFO Stories That Will Keep You Up Tonight | Forgotten History  
-   Link: <a href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SoiXiux51uo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO देखे जाने की ऐसी घटनाएं, जिसे देख सेना के जवान भी हुए हैरान...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SoiXiux51uo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO देखे जाने की ऐसी घटनाएं, जिसे देख सेना के जवान भी हुए हैरान...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: <a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ZPbk394_iU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 UFO Stories That Will Keep You Up Tonight | Forgotten History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ZPbk394_iU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 UFO Stories That Will Keep You Up Tonight | Forgotten History...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/</a>  
+   Link:<a href="https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo05.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo05.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
+   Link:<a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sofrep.com  
-   Link: <a href="https://sofrep.com/news/the-time-a-wwii-fighter-pilot-intercepted-a-ufo-over-north-dakota-in-his-p-51-mustang/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-time-a-wwii-fighter-pilot-intercepted-a-ufo-over-north-dakota-in-his-p-51-mustang/</a>  
+   Link:<a href="https://sofrep.com/news/the-time-a-wwii-fighter-pilot-intercepted-a-ufo-over-north-dakota-in-his-p-51-mustang/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-time-a-wwii-fighter-pilot-intercepted-a-ufo-over-north-dakota-in-his-p-51-mustang/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fold3.com  
-   Link: <a href="https://www.fold3.com/document/7455915/south-hill-virginia-blank-page-62-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7455915/south-hill-virginia-blank-page-62-us-project-blue-book-ufo-investigations-1947-1969</a>
+   Link:<a href="https://www.fold3.com/document/7455915/south-hill-virginia-blank-page-62-us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7455915/south-hill-virginia-blank-page-62-us-project-blue-book-ufo-investigations</a>

@@ -250,261 +250,261 @@ image: /assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical
 
 ## Introduction
 
-The Cash-Landrum case became one of the most discussed Texas UFO incidents largely because of Betty Cash’s reported illness after the encounter. Supporters of the case argue that her symptoms looked strikingly similar to radiation exposure. Critics counter that the surviving medical evidence is incomplete, inconsistently reported and difficult to reconcile with known radiation injuries. More than forty years later, the debate is less about whether Cash became seriously ill and more about what, if anything, caused that illness. The medical trail remains central because it is one of the few UFO cases in which witnesses sought hospital treatment, generated medical records and attempted to use those records in a federal lawsuit. Yet the same records that made the case famous have also become a source of dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The Cash-Landrum case became one of the most discussed Texas UFO incidents largely because of Betty Cash’s reported illness after the encounter. Supporters of the case argue that her symptoms looked strikingly similar to radiation exposure. Critics counter that the surviving medical evidence is incomplete, inconsistently reported and difficult to reconcile with known radiation injuries. More than forty years later, the debate is less about whether Cash became seriously ill and more about what, if anything, caused that illness. The medical trail remains central because it is one of the few UFO cases in which witnesses sought hospital treatment, generated medical records and attempted to use those records in a federal lawsuit. Yet the same records that made the case famous have also become a source of dispute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-1-dark.svg" | relative_url }}" alt="Medical trail illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What symptoms were reported after the encounter?
 
-According to the witnesses, symptoms began within hours of the alleged encounter near Huffman, Texas, on 29 December 1980. Betty Cash reported intense headaches, nausea, diarrhoea, weakness and a painful burning sensation. In later accounts, her face and scalp became swollen and discoloured, blisters appeared on her skin and substantial hair loss followed over the next several days. Vickie Landrum and her grandson Colby Landrum reported similar but generally less severe symptoms. Wikipedia HowStuffWorks Cash's condition drew the most attention because she was eventually hospitalised. Accounts from UFO investigators and later summaries describ <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span> e repeated treatment for skin lesions, eye irritation, weakness and hair loss. Her reported symptoms became so closely associated with the case that later retellings often referred to Cash-Landrum as a “radiation sickness” incident rather than simply a UFO sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">New Space EconomyThe 1980 Cash-Landrum UFO Case and Its Lasting Impact10 Feb 2025 — Over time, she lost patches of hair and exhibited sig...</span></span></span>
+According to the witnesses, symptoms began within hours of the alleged encounter near Huffman, Texas, on 29 December 1980. Betty Cash reported intense headaches, nausea, diarrhoea, weakness and a painful burning sensation. In later accounts, her face and scalp became swollen and discoloured, blisters appeared on her skin and substantial hair loss followed over the next several days. Vickie Landrum and her grandson Colby Landrum reported similar but generally less severe symptoms. Wikipedia HowStuffWorks Cash's condition drew the most attention because she was eventually hospitalised. Accounts from UFO investigators and later summaries describ<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span> e repeated treatment for skin lesions, eye irritation, weakness and hair loss. Her reported symptoms became so closely associated with the case that later retellings often referred to Cash-Landrum as a “radiation sickness” incident rather than simply a UFO sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">New Space EconomyThe 1980 Cash-Landrum UFO Case and Its Lasting Impact10 Feb 2025 — Over time, she lost patches of hair and exhibited sig...</span></span></span>
 
-One reason the case attracted attention beyond UFO circles was that the witnesses were not merely describing fear or shock. They were describing physical illness. Even sceptical investigators generally accepted that Betty Cash experienced genuine health problems. The disagreement concerned the cause, not necessarily the existence, of the symptoms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation...</span></span></span>
+One reason the case attracted attention beyond UFO circles was that the witnesses were not merely describing fear or shock. They were describing physical illness. Even sceptical investigators generally accepted that Betty Cash experienced genuine health problems. The disagreement concerned the cause, not necessarily the existence, of the symptoms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">highway encounter the cash landrum incident</span><span class="citation-popover-snippet">Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation...</span></span></span>
 
 ## Why radiation sickness became the popular explanation
 
-The radiation theory emerged because several reported symptoms appeared superficially consistent with acute radiation exposure. Hair loss, skin reddening, blistering, nausea and vomiting are all symptoms that can occur after exposure to high levels of ionising radiation. UFO researchers investigating the case therefore framed it as one of the strongest examples of alleged physical injury linked to a UFO encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span>
+The radiation theory emerged because several reported symptoms appeared superficially consistent with acute radiation exposure. Hair loss, skin reddening, blistering, nausea and vomiting are all symptoms that can occur after exposure to high levels of ionising radiation. UFO researchers investigating the case therefore framed it as one of the strongest examples of alleged physical injury linked to a UFO encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span>
 
-The theory gained further momentum when some physicians and consultants associated with the case reportedly suggested that the symptoms resembled radiation injury. Over time, the idea became embedded in popular retellings. Television documentaries, UFO books and magazine articles frequently described Cash as suffering from “radiation poisoning”, sometimes treating that diagnosis as established fact rather than an interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span>
+The theory gained further momentum when some physicians and consultants associated with the case reportedly suggested that the symptoms resembled radiation injury. Over time, the idea became embedded in popular retellings. Television documentaries, UFO books and magazine articles frequently described Cash as suffering from “radiation poisoning”, sometimes treating that diagnosis as established fact rather than an interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span>
 
-The circumstances of the encounter also encouraged a radiation-based explanation. The witnesses described intense heat from a bright airborne object. Later reports claimed that Cash's vehicle showed heat-related effects, including damage to plastic components. To believers, a powerful heat source combined with subsequent illness seemed to fit a radiation narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span>
+The circumstances of the encounter also encouraged a radiation-based explanation. The witnesses described intense heat from a bright airborne object. Later reports claimed that Cash's vehicle showed heat-related effects, including damage to plastic components. To believers, a powerful heat source combined with subsequent illness seemed to fit a radiation narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span>
 
-Yet there was always an important distinction between symptoms that resembled radiation exposure and proof that radiation exposure had occurred. That distinction became increasingly significant as investigators looked more closely at the medical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+Yet there was always an important distinction between symptoms that resembled radiation exposure and proof that radiation exposure had occurred. That distinction became increasingly significant as investigators looked more closely at the medical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7V757DZ5Xwk" title="Cash-Landrum UFO Incident - The Unexplained [Episode 4]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer">Cash-Landrum UFO Incident - The Unexplained [Episode 4]</a></p><p class="youtube-embed-meta">Channel: Josh Snares &middot; Views: 9.1K &middot; Uploaded: July 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7V757DZ5Xwk">Open on YouTube</a></p></div></div></div>
 
 ## What the medical records actually show
 
-A recurring problem in discussions of Cash-Landrum is that relatively few primary medical documents have circulated publicly compared with the enormous amount of commentary written about them. Much of what later authors describe comes through secondary reports, investigator summaries and recollections rather than a complete, independently reviewed medical file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+A recurring problem in discussions of Cash-Landrum is that relatively few primary medical documents have circulated publicly compared with the enormous amount of commentary written about them. Much of what later authors describe comes through secondary reports, investigator summaries and recollections rather than a complete, independently reviewed medical file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 The available record does support several broad conclusions:
 
 * Betty Cash sought medical treatment shortly after the event.
 * She suffered documented health problems that included skin complaints and hair loss.
 * The illness was serious enough to require hospital care.
-* The surviving public record does not contain a definitive diagnosis establishing radiation exposure as the cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span> This distinction is often lost in simplified retellings. Some popular accounts present the hospitalisation itself as proof of radiation poisoning. In reality, hospitalisation demonstrates illness, not necessarily its origin. The question investigators hoped to answer was whether the pattern of illness could reliably be traced to radiation exposure from the alleged encounter. The available records never conclusively settled that question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+* The surviving public record does not contain a definitive diagnosis establishing radiation exposure as the cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span> This distinction is often lost in simplified retellings. Some popular accounts present the hospitalisation itself as proof of radiation poisoning. In reality, hospitalisation demonstrates illness, not necessarily its origin. The question investigators hoped to answer was whether the pattern of illness could reliably be traced to radiation exposure from the alleged encounter. The available records never conclusively settled that question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-Another complication is that later discussions sometimes blended immediate symptoms with medical problems that developed years afterwards. Long-term health difficulties became part of the public story, but linking later illnesses directly to the reported encounter is medically far more difficult than documenting the symptoms that appeared in the days immediately following it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">New Space EconomyThe 1980 Cash-Landrum UFO Case and Its Lasting Impact10 Feb 2025 — Over time, she lost patches of hair and exhibited sig...</span></span></span>
+Another complication is that later discussions sometimes blended immediate symptoms with medical problems that developed years afterwards. Long-term health difficulties became part of the public story, but linking later illnesses directly to the reported encounter is medically far more difficult than documenting the symptoms that appeared in the days immediately following it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">New Space EconomyThe 1980 Cash-Landrum UFO Case and Its Lasting Impact10 Feb 2025 — Over time, she lost patches of hair and exhibited sig...</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-2-dark.svg" | relative_url }}" alt="Medical trail illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why critics doubt a radiation diagnosis
 
-The strongest sceptical arguments do not depend on proving the witnesses fabricated their symptoms. Instead, critics argue that the reported medical pattern does not fit known radiation injury particularly well. Several investigators and analysts have pointed out that severe radiation exposure capable of producing rapid hair loss and extensive skin damage would normally be expected to produce additional effects and potentially life-threatening consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+The strongest sceptical arguments do not depend on proving the witnesses fabricated their symptoms. Instead, critics argue that the reported medical pattern does not fit known radiation injury particularly well. Several investigators and analysts have pointed out that severe radiation exposure capable of producing rapid hair loss and extensive skin damage would normally be expected to produce additional effects and potentially life-threatening consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-Some critics have noted timing issues. Certain symptoms reportedly appeared very quickly after the encounter, while other expected indicators of acute radiation syndrome were either not reported or not clearly documented in the surviving public record. According to sceptical analyses, the combination of symptoms and survival outcomes makes a straightforward ionising-radiation explanation difficult to sustain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+Some critics have noted timing issues. Certain symptoms reportedly appeared very quickly after the encounter, while other expected indicators of acute radiation syndrome were either not reported or not clearly documented in the surviving public record. According to sceptical analyses, the combination of symptoms and survival outcomes makes a straightforward ionising-radiation explanation difficult to sustain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-Alternative possibilities have occasionally been suggested. These include exposure to heat, chemicals, environmental contaminants or a combination of physical illness and stress. None of these explanations has been proven, but sceptics argue that the uncertainties surrounding the medical documentation leave room for possibilities other than radiation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+Alternative possibilities have occasionally been suggested. These include exposure to heat, chemicals, environmental contaminants or a combination of physical illness and stress. None of these explanations has been proven, but sceptics argue that the uncertainties surrounding the medical documentation leave room for possibilities other than radiation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-This is one reason the case remains disputed. Supporters often focus on the dramatic nature of the symptoms. Critics focus on whether those symptoms match what radiation medicine would predict. Those are related questions, but they are not the same question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+This is one reason the case remains disputed. Supporters often focus on the dramatic nature of the symptoms. Critics focus on whether those symptoms match what radiation medicine would predict. Those are related questions, but they are not the same question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.1K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## The Texas health investigation and missing certainty
 
-One lesser-known aspect of the case involves the Texas Department of Health. During the wider investigation, state officials examined the possibility of radiation contamination connected to the reported location. According to later discussions of departmental records, investigators found no residual radiation at the site. Officials also expressed interest in reviewing medical records as part of a continuing inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</span></span></span>
+One lesser-known aspect of the case involves the Texas Department of Health. During the wider investigation, state officials examined the possibility of radiation contamination connected to the reported location. According to later discussions of departmental records, investigators found no residual radiation at the site. Officials also expressed interest in reviewing medical records as part of a continuing inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</span></span></span>
 
-The absence of detectable radiation at the location did not automatically disprove the witnesses' claims. If an exposure event had occurred months earlier, investigators would not necessarily expect obvious contamination to remain. However, the findings removed one potential source of corroboration. No environmental evidence emerged that could independently confirm a radiation event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</span></span></span>
+The absence of detectable radiation at the location did not automatically disprove the witnesses' claims. If an exposure event had occurred months earlier, investigators would not necessarily expect obvious contamination to remain. However, the findings removed one potential source of corroboration. No environmental evidence emerged that could independently confirm a radiation event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</span></span></span>
 
-The result was a familiar pattern in UFO history: a dramatic personal account supported by genuine witness testimony and documented illness, but lacking a clear physical mechanism that could be independently verified. The medical evidence suggested something unusual had happened to Betty Cash, yet it did not provide a universally accepted explanation for what that something was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+The result was a familiar pattern in UFO history: a dramatic personal account supported by genuine witness testimony and documented illness, but lacking a clear physical mechanism that could be independently verified. The medical evidence suggested something unusual had happened to Betty Cash, yet it did not provide a universally accepted explanation for what that something was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-3-dark.svg" | relative_url }}" alt="Medical trail illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5_betty_cash_medical_r_286be0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the dispute still matters in Texas UFO history
 
-Cash-Landrum occupies a special place in Texas UFO history because it shifted attention from sightings alone to alleged physical consequences. Most UFO reports depend primarily on what witnesses say they saw. This case became famous because of what witnesses claimed happened to their bodies afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+Cash-Landrum occupies a special place in Texas UFO history because it shifted attention from sightings alone to alleged physical consequences. Most UFO reports depend primarily on what witnesses say they saw. This case became famous because of what witnesses claimed happened to their bodies afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-For believers, Betty Cash's medical problems remain one of the strongest arguments that the encounter involved a real external event rather than a simple misidentification. For sceptics, the same medical trail illustrates how genuine illness can become attached to a speculative explanation without definitive proof of causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
+For believers, Betty Cash's medical problems remain one of the strongest arguments that the encounter involved a real external event rather than a simple misidentification. For sceptics, the same medical trail illustrates how genuine illness can become attached to a speculative explanation without definitive proof of causation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span>
 
-The lasting significance of the case lies in that tension. Betty Cash almost certainly experienced serious health problems. The surviving evidence does not clearly establish that radiation from an unidentified craft caused them. Between those two facts sits the central mystery that has kept the Cash-Landrum case alive in Texas UFO discussions for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The lasting significance of the case lies in that tension. Betty Cash almost certainly experienced serious health problems. The surviving evidence does not clearly establish that radiation from an unidentified craft caused them. Between those two facts sits the central mystery that has kept the Cash-Landrum case alive in Texas UFO discussions for decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_3CfT4I9nk" title="Cash-Landrum UFO Encounter or Something Scarier?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer">Cash-Landrum UFO Encounter or Something Scarier?</a></p><p class="youtube-embed-meta">Channel: The Mysteria Archive &middot; Views: 4.6K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_3CfT4I9nk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Betty Cash&#x27;s injuries prove radiation exposure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Betty Cash&#x27;s injuries prove radiation exposure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Addresses evidence evaluation in cases involving claimed physical effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses evidence evaluation in cases involving claimed physical effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides comparative cases involving alleged physical consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparative cases involving alleged physical consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Confrontations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L0N7AAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Confrontations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Confrontations">Confrontations</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Confrontations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L0N7AAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Confrontations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Confrontations">Confrontations</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Focuses on physical traces and witness encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on physical traces and witness encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how investigators approach unusual witness claims and reported effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how investigators approach unusual witness claims and reported effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Confrontations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Confrontations</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Confrontations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Confrontations</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-betty-cash-s-injuries-prove-radiation-exposure-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ The lasting significance of the case lies in that tension. Betty Cash almost cer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ The lasting significance of the case lies in that tension. Betty Cash almost cer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ The lasting significance of the case lies in that tension. Betty Cash almost cer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ The lasting significance of the case lies in that tension. Betty Cash almost cer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ The lasting significance of the case lies in that tension. Betty Cash almost cer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,111 +710,111 @@ The lasting significance of the case lies in that tension. Betty Cash almost cer
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 3, 2026 — The Cash–Landrum Incident was an unidentified flying object sighting in the United States in 1980, which witnesses claime...</p></details>
    Published: April 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO IncidentBetty Cash developed painful blisters on her skin, lost clumps of hair and was unable to walk...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discoveryuk.com  
    Title: highway encounter the [cash landrum](&#123;&#123; 'cash-landrum/' | relative_url &#125;&#125;) incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKHighway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Incidente ovni Cash-Landrum  
-   Link: <a href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Revisited: Cash and Landrum | Episode 12 | The 1980 Texas UFO Encounter That Burned Witnesses...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Revisited: Cash and Landrum | Episode 12 | The 1980 Texas UFO Encounter That Burned Witnesses...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newspaceeconomy.ca  
-   Link: <a href="https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyThe 1980 Cash-Landrum UFO Case and Its Lasting Impact10 Feb 2025 — Over time, she lost patches of hair and exhibited sig...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/10/the-1980-cash-landrum-ufo-case-and-its-lasting-impact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyThe 1980 Cash-Landrum UFO Case and Its Lasting Impact10 Feb 2025 — Over time, she lost patches of hair and exhibited sig...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/08KdxgbxgSXw2Th3bDlt63" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/08KdxgbxgSXw2Th3bDlt63</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum Incident - Conspiracy Theories25 Mar 2026 — They later suffered symptoms consistent with radiation exposure and filed a laws...</p></details>
+   Link:<a href="https://open.spotify.com/episode/08KdxgbxgSXw2Th3bDlt63" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/08KdxgbxgSXw2Th3bDlt63</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum Incident - Conspiracy Theories25 Mar 2026 — They later suffered symptoms consistent with radiation exposure and filed a laws...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: stateoftheunknown.com  
-   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned...24 Mar 2026 — Betty Cash was eventually hospitalized with documented burns and bl...</p></details>
+   Link:<a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned...24 Mar 2026 — Betty Cash was eventually hospitalized with documented burns and bl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>helicopter escort, the radiation sickness claims, the failed federal lawsuit, and the evidence that still divides believers and skeptics...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>helicopter escort, the radiation sickness claims, the failed federal lawsuit, and the evidence that still divides believers and skeptics...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shortform.com  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — Betty Cash&#x27;s Severe Effects: Untreatable Cancer From Skin Damage...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-03-25-episode-summary-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Podcast Summary with Carter...25 Mar 2026 — Betty Cash&#x27;s Severe Effects: Untreatable Cancer From Skin Damage...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>*Burns and Blisters* - *Radiation Poisoning* - *Nausea...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>*Burns and Blisters* - *Radiation Poisoning* - *Nausea...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>*Burns and Blisters* - *Radiation Poisoning* - *Nausea...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>*Burns and Blisters* - *Radiation Poisoning* - *Nausea...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: podcasts.happyscribe.com  
-   Link: <a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentShe seems to be suffering from radiation poisoning, the open sores, the skin burns, the ha...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/so-supernatural/alien-the-cash-landrum-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supernatural - ALIEN: The Cash-Landrum IncidentShe seems to be suffering from radiation poisoning, the open sores, the skin burns, the ha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They saw a UFO… and hours later, their bodies showed...Betty Cash&#x27;s condition deteriorated most severely, leading to her hospitalization...</p></details>
+   Link:<a href="https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tassilosieben/posts/they-saw-a-ufo-and-hours-later-their-bodies-showed-signs-of-radiation-burnswhat-/1508378607955621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They saw a UFO… and hours later, their bodies showed...Betty Cash&#x27;s condition deteriorated most severely, leading to her hospitalization...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By A UFO - The Cash-Landrum UFO Incident12 Jan 2026 — The heat was so intense it caused severe burns, radiation-style illness, hair loss...</p></details>
+   Link:<a href="https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0VhcgusqFyvcYjor2jiiRO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By A UFO - The Cash-Landrum UFO Incident12 Jan 2026 — The heat was so intense it caused severe burns, radiation-style illness, hair loss...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7V757DZ5Xwk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained [Episode 4]Betty cash died in 1998 aged 71, Vickie Landrum passed away in 2007 just before her 84th birthday...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7V757DZ5Xwk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained [Episode 4]Betty cash died in 1998 aged 71, Vickie Landrum passed away in 2007 just before her 84th birthday...</p></details>

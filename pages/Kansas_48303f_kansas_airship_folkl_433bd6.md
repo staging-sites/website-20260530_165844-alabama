@@ -262,23 +262,23 @@ image: /assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-overview-social.
 
 ## Introduction
 
-Kansas airship folklore matters because it shows how some “UFO history” is really the history of storytelling. The best-known example is the 1897 Le Roy or Vernon airship tale, in which Alexander Hamilton, a former Kansas legislator and rancher, claimed that a huge cigar-shaped craft came over his cattle lot and carried off a heifer. It has been retold as an early UFO encounter, an early alien-abduction story and even a forerunner of cattle-mutilation lore. The problem is that the story’s factual support is weak, and later reporting strongly points towards a local tall tale rather than a real aerial event. That does not make it worthless. It makes it useful: the case is a warning that Kansas UFO history needs to separate cultural value from evidential value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
+Kansas airship folklore matters because it shows how some “UFO history” is really the history of storytelling. The best-known example is the 1897 Le Roy or Vernon airship tale, in which Alexander Hamilton, a former Kansas legislator and rancher, claimed that a huge cigar-shaped craft came over his cattle lot and carried off a heifer. It has been retold as an early UFO encounter, an early alien-abduction story and even a forerunner of cattle-mutilation lore. The problem is that the story’s factual support is weak, and later reporting strongly points towards a local tall tale rather than a real aerial event. That does not make it worthless. It makes it useful: the case is a warning that Kansas UFO history needs to separate cultural value from evidential value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-overview.webp" | relative_url }}" alt="Overview image for Folklore" loading="eager" decoding="sync" fetchpriority="high">
 ## The Le Roy airship tradition
 
-The core story appeared in April 1897 during the wider American “mystery airship” wave. Retellings place the event near Le Roy or Vernon in eastern Kansas, with Hamilton saying that he, his son and a hired man saw a large, illuminated, cigar-shaped craft over the cattle pen. In the most familiar version, the craft carried strange occupants, trailed a cable, accidentally snared a heifer, and lifted away with the animal after the men cut a fence wire loose. A later discovery of the animal’s remains, supposedly without tracks nearby, gave the tale its lasting “physical mystery” element. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
+The core story appeared in April 1897 during the wider American “mystery airship” wave. Retellings place the event near Le Roy or Vernon in eastern Kansas, with Hamilton saying that he, his son and a hired man saw a large, illuminated, cigar-shaped craft over the cattle pen. In the most familiar version, the craft carried strange occupants, trailed a cable, accidentally snared a heifer, and lifted away with the animal after the men cut a fence wire loose. A later discovery of the animal’s remains, supposedly without tracks nearby, gave the tale its lasting “physical mystery” element.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
 
-The story was powerful because Hamilton was not presented as an anonymous eccentric. Later summaries emphasise that he had been a public figure and that local men signed an affidavit vouching for his truthfulness. That is one reason the account survived in UFO books and articles: it appeared to combine named witnesses, social standing, a dramatic close-range sighting and an alleged animal trace. Yet those strengths are also where the risk lies. A character affidavit can show that a person was respected locally; it cannot prove that a bizarre event happened as described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
+The story was powerful because Hamilton was not presented as an anonymous eccentric. Later summaries emphasise that he had been a public figure and that local men signed an affidavit vouching for his truthfulness. That is one reason the account survived in UFO books and articles: it appeared to combine named witnesses, social standing, a dramatic close-range sighting and an alleged animal trace. Yet those strengths are also where the risk lies. A character affidavit can show that a person was respected locally; it cannot prove that a bizarre event happened as described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
 
-The Kansas setting also made the tale memorable. This was not a distant light seen briefly over a city; it was a farmyard story involving cattle, fences, neighbours and a practical response from men carrying axes. That rural texture helped later readers imagine it as a frontier-era UFO case. It also fits the older tradition of newspaper tall tales, where familiar local details made impossible stories sound just plausible enough to travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
+The Kansas setting also made the tale memorable. This was not a distant light seen briefly over a city; it was a farmyard story involving cattle, fences, neighbours and a practical response from men carrying axes. That rural texture helped later readers imagine it as a frontier-era UFO case. It also fits the older tradition of newspaper tall tales, where familiar local details made impossible stories sound just plausible enough to travel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-1-dark.svg" | relative_url }}" alt="Folklore illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story is treated as folklore, not strong evidence
 
 The Le Roy account is usually treated cautiously because its best-known “evidence” is storytelling evidence: a newspaper report, a dramatic first-person narrative, reputation claims and later retellings. There is no surviving chain of physical evidence for the heifer, no technical documentation of the alleged craft, and no independent official investigation comparable to later aviation or military UFO files. By modern standards, that leaves the case far closer to folklore than to a robust unidentified-aerial-phenomena investigation.
 
-The strongest sceptical point is the later hoax tradition. HowStuffWorks summarises the debunking version this way: a Kansas woman reportedly said in 1976 that she had heard Hamilton boast about inventing the story before it was published, and that Hamilton belonged to a local liars’ club devoted to outrageous tales. A regional history account similarly notes that Hamilton was remembered locally as a prankster and spinner of tall tales, and says many people in the area understood the story as a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
+The strongest sceptical point is the later hoax tradition. HowStuffWorks summarises the debunking version this way: a Kansas woman reportedly said in 1976 that she had heard Hamilton boast about inventing the story before it was published, and that Hamilton belonged to a local liars’ club devoted to outrageous tales. A regional history account similarly notes that Hamilton was remembered locally as a prankster and spinner of tall tales, and says many people in the area understood the story as a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
 
 That does not mean every detail of the debunking is beyond question. Late recollections have their own weaknesses, especially when they are recorded many decades after the event. But the balance of evidence is still poor for the literal claim. The original story asks readers to accept a huge unknown craft, visible occupants, a cable lifting a cow, and a mutilated carcass with no adequate documentation beyond press and memory. The hoax explanation is less spectacular and fits the period’s known appetite for newspaper sensation, practical jokes and competitive tall-tale culture.
 
@@ -288,16 +288,16 @@ A useful way to read the case is not “proved hoax versus proved alien event”
 
 ## How old airship stories became UFO lore
 
-The Kansas tale did not arise in isolation. The broader 1896–97 [airship wave]({{ 'airship-wave-aea0ef/' | relative_url }}) began before the modern flying-saucer era and before powered aeroplanes were part of everyday life. Newspapers across the United States printed accounts of strange lights, “airships”, inventors, crews and mechanical craft. KQED’s review of the California origins notes that the reports spread from the Bay Area to Nebraska and then into other Midwestern states, including Kansas, while also pointing out that the period mixed apparently sincere reports with admitted hoaxes and staged deceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-title">1896 mystery airship bay area ufo history victorian aliens</span><span class="citation-popover-snippet">1896 mystery airship bay area ufo history victorian aliens</span></span></span>
+The Kansas tale did not arise in isolation. The broader 1896–97 [airship wave]({{ 'airship-wave-aea0ef/' | relative_url }}) began before the modern flying-saucer era and before powered aeroplanes were part of everyday life. Newspapers across the United States printed accounts of strange lights, “airships”, inventors, crews and mechanical craft. KQED’s review of the California origins notes that the reports spread from the Bay Area to Nebraska and then into other Midwestern states, including Kansas, while also pointing out that the period mixed apparently sincere reports with admitted hoaxes and staged deceptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-title">1896 mystery airship bay area ufo history victorian aliens</span><span class="citation-popover-snippet">1896 mystery airship bay area ufo history victorian aliens</span></span></span>
 
-That period matters because people in 1897 did not yet have the post-1947 UFO vocabulary of “flying saucers”, “UAP”, radar cases or official military investigations. They interpreted strange lights through the technology they expected next: airships. Some reports imagined secret inventors testing machines at night. Others added crews, searchlights, transparent cabins, anchors, cables and mechanical noises. The Le Roy story belongs to that imaginative world. Its “craft” behaves less like a modern spacecraft and more like a fantastical nineteenth-century machine fitted with rope, glass panels and farmyard logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
+That period matters because people in 1897 did not yet have the post-1947 UFO vocabulary of “flying saucers”, “UAP”, radar cases or official military investigations. They interpreted strange lights through the technology they expected next: airships. Some reports imagined secret inventors testing machines at night. Others added crews, searchlights, transparent cabins, anchors, cables and mechanical noises. The Le Roy story belongs to that imaginative world. Its “craft” behaves less like a modern spacecraft and more like a fantastical nineteenth-century machine fitted with rope, glass panels and farmyard logic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
 
-Modern UFO culture gave the old story a second life. Once researchers in the twentieth century began looking for pre-Roswell precedents, nineteenth-century airship reports became attractive because they seemed to show “UFOs before UFOs”. The Le Roy story was especially tempting because it included occupants and an animal injury. But that reinterpretation can distort the evidence. A story printed as part of a sensational airship wave should not automatically be upgraded into a reliable alien-encounter case simply because later readers recognise familiar UFO motifs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
+Modern UFO culture gave the old story a second life. Once researchers in the twentieth century began looking for pre-Roswell precedents, nineteenth-century airship reports became attractive because they seemed to show “UFOs before UFOs”. The Le Roy story was especially tempting because it included occupants and an animal injury. But that reinterpretation can distort the evidence. A story printed as part of a sensational airship wave should not automatically be upgraded into a reliable alien-encounter case simply because later readers recognise familiar UFO motifs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-2-dark.svg" | relative_url }}" alt="Folklore illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The debunked claim still has cultural value
 
-Calling the Le Roy story folklore is not the same as dismissing it as irrelevant. For Kansas UFO history, it helps explain how the state’s sky stories range from investigated twentieth-century reports to nineteenth-century legends that mainly reveal how people told, sold and remembered extraordinary claims. The Kansas Reflector, writing about the state’s UFO culture, still mentions the 1897 Hamilton story as part of the state’s wider weird heritage, while also noting that most researchers attribute the Le Roy account and many similar reports to imagination, newspapermen and the airship scare rather than literal craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kansasreflector.com">[Kansas Reflector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kansasreflector.com</span><span class="citation-popover-title">at the ufo capital of kansas a celebration of the weird and wonderful</span><span class="citation-popover-snippet">at the ufo capital of kansas a celebration of the weird and wonderful</span></span></span>
+Calling the Le Roy story folklore is not the same as dismissing it as irrelevant. For Kansas UFO history, it helps explain how the state’s sky stories range from investigated twentieth-century reports to nineteenth-century legends that mainly reveal how people told, sold and remembered extraordinary claims. The Kansas Reflector, writing about the state’s UFO culture, still mentions the 1897 Hamilton story as part of the state’s wider weird heritage, while also noting that most researchers attribute the Le Roy account and many similar reports to imagination, newspapermen and the airship scare rather than literal craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kansasreflector.com">[Kansas Reflector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kansasreflector.com</span><span class="citation-popover-title">at the ufo capital of kansas a celebration of the weird and wonderful</span><span class="citation-popover-snippet">at the ufo capital of kansas a celebration of the weird and wonderful</span></span></span>
 
 The case also helps readers avoid a common mistake: treating age as credibility. An old story can feel more impressive because it predates modern science fiction, modern UFO culture or modern internet hoaxes. But older newspapers had their own incentives for sensation, rivalry and humour. The Le Roy tale shows that a report can be historically important without being factually strong. Its value lies in what it reveals about belief, media transmission and local reputation, not in proving that a craft visited Woodson County.
 
@@ -319,7 +319,7 @@ Three cautions follow from the case:
 
 </div>
 
-This is where the Kansas airship material connects to the wider state project. Project [Blue Book]({{ 'blue-book-8ea670/' | relative_url }}) and the National Archives show how later UFO records were organised, filed and sometimes left unresolved; the Air Force’s own summary says 701 of 12,618 Blue Book reports remained “unidentified”, while also concluding that its investigated cases showed no evidence of extraterrestrial vehicles. The Le Roy tale sits outside that official era, but it teaches the same basic discipline: “unidentified”, “old”, “famous” and “often repeated” are not the same as proven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+This is where the Kansas airship material connects to the wider state project. Project [Blue Book]({{ 'blue-book-8ea670/' | relative_url }}) and the National Archives show how later UFO records were organised, filed and sometimes left unresolved; the Air Force’s own summary says 701 of 12,618 Blue Book reports remained “unidentified”, while also concluding that its investigated cases showed no evidence of extraterrestrial vehicles. The Le Roy tale sits outside that official era, but it teaches the same basic discipline: “unidentified”, “old”, “famous” and “often repeated” are not the same as proven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-3-dark.svg" | relative_url }}" alt="Folklore illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Le Roy story changes about reading Kansas UFO history
@@ -331,194 +331,194 @@ The Le Roy case is therefore best used as a boundary marker. It reminds readers 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7d5fpbVzgVs" title="Nebraska&#x27;s 1897 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer">Nebraska&#x27;s 1897 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Nebraska State Historical Society &middot; Views: 170 &middot; Uploaded: August 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7d5fpbVzgVs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Kansas UFO Stories Become Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Kansas UFO Stories Become Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly explores how folklore and UFO stories overlap.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how folklore and UFO stories overlap.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Covers premodern and historical aerial mystery accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers premodern and historical aerial mystery accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Includes famous folklore and unexplained-event traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes famous folklore and unexplained-event traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Trickster+and+the+Paranormal+by+George+P.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Trickster and the Paranormal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H9jLZ1_MMc4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Trickster and the Paranormal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Trickster+and+the+Paranormal+by+George+P.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Trickster and the Paranormal">The Trickster and the Paranormal</a>
-        </h4>
-        <p class="fr-book-author">By George P. Hansen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Trickster+and+the+Paranormal+by+George+P.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Trickster and the Paranormal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H9jLZ1_MMc4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Trickster and the Paranormal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Trickster+and+the+Paranormal+by+George+P.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Trickster and the Paranormal">The Trickster and the Paranormal</a>
+</h4>
+<p class="fr-book-author">By George P. Hansen</p>
         
-        <p class="fr-book-desc">Examines folklore, belief, and anomalous narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Trickster+and+the+Paranormal+by+George+P.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines folklore, belief, and anomalous narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Trickster+and+the+Paranormal+by+George+P.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qlMAAeSwrDZpwYj3/s-l225.jpg" alt="Listing image for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qlMAAeSwrDZpwYj3/s-l225.jpg" alt="Listing image for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/z2MAAOSw~YloQELw/s-l225.jpg" alt="Listing image for Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/z2MAAOSw~YloQELw/s-l225.jpg" alt="Listing image for Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Peril Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sR4AAeSwYhhpwYR4/s-l225.jpg" alt="Listing image for Airship in Peril Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Peril Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Peril Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sR4AAeSwYhhpwYR4/s-l225.jpg" alt="Listing image for Airship in Peril Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Peril Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~wUAAeSwFm9pZjDI/s-l225.jpg" alt="Listing image for Airship Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Airship Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~wUAAeSwFm9pZjDI/s-l225.jpg" alt="Listing image for Airship Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Airship Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-kansas-ufo-stories-become-folklore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="when-kansas-ufo-stories-become-folklore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ The Le Roy case is therefore best used as a boundary marker. It reminds readers 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ The Le Roy case is therefore best used as a boundary marker. It reminds readers 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ The Le Roy case is therefore best used as a boundary marker. It reminds readers 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ The Le Roy case is therefore best used as a boundary marker. It reminds readers 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ The Le Roy case is therefore best used as a boundary marker. It reminds readers 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,116 +724,116 @@ The Le Roy case is therefore best used as a boundary marker. It reminds readers 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: cow abduction  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kqed.org  
    Title: 1896 mystery airship bay area ufo history victorian aliens  
-   Link: <a href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens</a>  
+   Link:<a href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.nebraska.gov  
    Title: doc publications NH1979UFOs  
-   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
+   Link:<a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: travelks.com  
    Title: Travel Kansas Airship Alert! | KANSAS! Magazine  
-   Link: <a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
+   Link:<a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kansasreflector.com  
    Title: at the ufo capital of kansas a celebration of the weird and wonderful  
-   Link: <a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
+   Link:<a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: findagrave.com  
    Title: alexander hamilton  
-   Link: <a href="https://www.findagrave.com/memorial/24128929/alexander-hamilton" target="_blank" rel="noopener noreferrer nofollow">https://www.findagrave.com/memorial/24128929/alexander-hamilton</a>  
+   Link:<a href="https://www.findagrave.com/memorial/24128929/alexander-hamilton" target="_blank" rel="noopener noreferrer nofollow">https://www.findagrave.com/memorial/24128929/alexander-hamilton</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rebartholomew.com  
-   Link: <a href="https://rebartholomew.com/articles" target="_blank" rel="noopener noreferrer nofollow">https://rebartholomew.com/articles</a>  
+   Link:<a href="https://rebartholomew.com/articles" target="_blank" rel="noopener noreferrer nofollow">https://rebartholomew.com/articles</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DoJUsaTknNw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DoJUsaTknNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Mq0pmfgeAt4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Mq0pmfgeAt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jimmy Akin&#x27;s Mysterious World&quot; Airship Mystery 1897 Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jimmy Akin&#x27;s Mysterious World&quot; Airship Mystery 1897 Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hmNWl96jjCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings, 1896 - 1897...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hmNWl96jjCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings, 1896 - 1897...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/</a>  
+   Link:<a href="https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
+   Link:<a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rense.com  
-   Link: <a href="https://rense.com/ufo/cattlehoax2.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo/cattlehoax2.htm</a>  
+   Link:<a href="https://rense.com/ufo/cattlehoax2.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo/cattlehoax2.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: spaceshipsofezekiel.com  
-   Link: <a href="https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html</a>
+   Link:<a href="https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html</a>

@@ -250,12 +250,12 @@ image: /assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaro
 
 ## Introduction
 
-The claimed Polaroid photographs taken during the 1973 Falkville “Metal Man” encounter are the central physical evidence in one of Alabama’s best-known UFO-related stories. Unlike many regional sightings that rely entirely on witness memory, Falkville produced a small set of actual images: four flash photographs reportedly taken by police chief Jeff Greenhaw on the night of 17 October 1973. Yet the photographs have remained controversial from the beginning. Supporters treated them as rare visual documentation of an unexplained humanoid encounter, while sceptics argued that the pictures looked staged, blurry, or consistent with a person in reflective clothing. The later disappearance of the original Polaroids in a reported 1983 burglary added another layer of uncertainty, because later investigators had to rely largely on copies, reproductions, and descriptions rather than the original prints themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span> Within Alabama UFO history, the Falkville images matter less because they conclusively prove anything and more because they illustrate a recurring problem in UFO evidence cases: fragile physical material, disputed interpretation, and the gradual loss of verifiable originals over time.
+The claimed Polaroid photographs taken during the 1973 Falkville “Metal Man” encounter are the central physical evidence in one of Alabama’s best-known UFO-related stories. Unlike many regional sightings that rely entirely on witness memory, Falkville produced a small set of actual images: four flash photographs reportedly taken by police chief Jeff Greenhaw on the night of 17 October 1973. Yet the photographs have remained controversial from the beginning. Supporters treated them as rare visual documentation of an unexplained humanoid encounter, while sceptics argued that the pictures looked staged, blurry, or consistent with a person in reflective clothing. The later disappearance of the original Polaroids in a reported 1983 burglary added another layer of uncertainty, because later investigators had to rely largely on copies, reproductions, and descriptions rather than the original prints themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span> Within Alabama UFO history, the Falkville images matter less because they conclusively prove anything and more because they illustrate a recurring problem in UFO evidence cases: fragile physical material, disputed interpretation, and the gradual loss of verifiable originals over time.
 
 <img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386-Illustration-1-dark.svg" | relative_url }}" alt="Photographic Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Four Polaroids Were Claimed to Show
 
-According to Greenhaw’s account, he carried a Polaroid camera in his patrol vehicle and used it after encountering a reflective humanoid figure on a rural road outside Falkville. He reportedly took four photographs in quick succession as the figure moved away from him. Contemporary retellings consistently describe the images as dark, grainy night shots illuminated mainly by flash photography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — Greenhaw grabbed his Polaroid 2 camera and snapped four photos of whatev...</span></span></span>
+According to Greenhaw’s account, he carried a Polaroid camera in his patrol vehicle and used it after encountering a reflective humanoid figure on a rural road outside Falkville. He reportedly took four photographs in quick succession as the figure moved away from him. Contemporary retellings consistently describe the images as dark, grainy night shots illuminated mainly by flash photography.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — Greenhaw grabbed his Polaroid 2 camera and snapped four photos of whatev...</span></span></span>
 
 Descriptions of the photographs generally follow the same pattern:
 
@@ -268,7 +268,7 @@ Descriptions of the photographs generally follow the same pattern:
 
 </div>
 
-Because the photographs were taken at night using flash exposure, they lacked environmental detail. This became a major issue for later analysis. The images did not clearly establish scale, distance, or surface texture, making it difficult to determine whether the subject was an unknown entity, a person in reflective clothing, or simply an artefact of lighting and motion blur. Critics repeatedly pointed out that reflective materials photographed with flash can appear unnaturally bright and featureless, especially in low-light Polaroid photography from the early 1970s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span>
+Because the photographs were taken at night using flash exposure, they lacked environmental detail. This became a major issue for later analysis. The images did not clearly establish scale, distance, or surface texture, making it difficult to determine whether the subject was an unknown entity, a person in reflective clothing, or simply an artefact of lighting and motion blur. Critics repeatedly pointed out that reflective materials photographed with flash can appear unnaturally bright and featureless, especially in low-light Polaroid photography from the early 1970s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span>
 
 The photographs nevertheless gave the Falkville story unusual staying power. Many UFO cases from Alabama’s 1973 flap period relied solely on verbal testimony. Falkville, by contrast, had images that could be reproduced in magazines, newsletters, and later internet discussions. Even poor-quality imagery tends to increase public attention because viewers can interpret the same image in radically different ways.
 
@@ -278,7 +278,7 @@ The photographs nevertheless gave the Falkville story unusual staying power. Man
 
 The photographs never achieved anything close to scientific consensus. Instead, they quickly became a test case in how different communities approached UFO evidence.
 
-Among UFO enthusiasts, the images were treated as unusually important because they were linked to a serving police officer rather than an anonymous civilian witness. Greenhaw’s status as Falkville police chief gave the case a degree of credibility in some circles, particularly during the wider wave of UFO reports that followed the Pascagoula encounter earlier in 1973. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span>
+Among UFO enthusiasts, the images were treated as unusually important because they were linked to a serving police officer rather than an anonymous civilian witness. Greenhaw’s status as Falkville police chief gave the case a degree of credibility in some circles, particularly during the wider wave of UFO reports that followed the Pascagoula encounter earlier in 1973.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span>
 
 Sceptical investigators, however, focused on several weaknesses:
 
@@ -291,16 +291,16 @@ Sceptical investigators, however, focused on several weaknesses:
 
 </div>
 
-Some analysts connected with UFO research organisations reportedly examined copies of the images and concluded that the most plausible explanation involved a fabricated costume. Several later summaries state that investigators associated with MUFON considered aluminium foil or a reflective fire-resistant suit a likely explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span> The photographs also suffered from a broader credibility problem common to many 1970s UFO images: they emerged during a period of intense public fascination with extraterrestrials, science-fiction imagery, and sensational media coverage. Critics argued that the Falkville photographs resembled the visual language of contemporary popular culture more than they resembled convincing forensic evidence.
+Some analysts connected with UFO research organisations reportedly examined copies of the images and concluded that the most plausible explanation involved a fabricated costume. Several later summaries state that investigators associated with MUFON considered aluminium foil or a reflective fire-resistant suit a likely explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span> The photographs also suffered from a broader credibility problem common to many 1970s UFO images: they emerged during a period of intense public fascination with extraterrestrials, science-fiction imagery, and sensational media coverage. Critics argued that the Falkville photographs resembled the visual language of contemporary popular culture more than they resembled convincing forensic evidence.
 
 <img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386-Illustration-2-dark.svg" | relative_url }}" alt="Photographic Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Circulation Through UFO Networks and Enthusiast Media
 
-Even though mainstream scientific institutions showed little interest in the photographs, the images circulated widely through UFO enthusiast channels during the 1970s and 1980s. Copies reportedly reached Walt Andrus of the Mutual UFO Network (MUFON), one of the most influential civilian UFO organisations in the United States at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span>
+Even though mainstream scientific institutions showed little interest in the photographs, the images circulated widely through UFO enthusiast channels during the 1970s and 1980s. Copies reportedly reached Walt Andrus of the Mutual UFO Network (MUFON), one of the most influential civilian UFO organisations in the United States at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span>
 
 This circulation mattered because pre-internet UFO culture relied heavily on copied photographs, newsletters, convention presentations, and small press publications. Once the Falkville images entered that ecosystem, they became detached from direct physical examination. Many later viewers encountered only duplicated prints, magazine reproductions, or low-resolution scans. Each generation of copying degraded the visual information further.
 
-Over time, the photographs developed an almost folkloric status within UFO culture. Supporters sometimes described hidden details supposedly visible in the originals, while sceptics noted that the images became less reliable as evidence the farther they moved from the original Polaroids themselves. Claims occasionally appeared that enhanced examination revealed additional shapes or unusual contours, but no peer-reviewed forensic analysis established such findings convincingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span>
+Over time, the photographs developed an almost folkloric status within UFO culture. Supporters sometimes described hidden details supposedly visible in the originals, while sceptics noted that the images became less reliable as evidence the farther they moved from the original Polaroids themselves. Claims occasionally appeared that enhanced examination revealed additional shapes or unusual contours, but no peer-reviewed forensic analysis established such findings convincingly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span>
 
 This pattern reflects a wider issue in American UFO history. Many famous photographs survive only through secondary reproduction, making modern reassessment extremely difficult. The Falkville case is especially vulnerable to this problem because the original instant photographs were reportedly lost altogether.
 
@@ -308,7 +308,7 @@ This pattern reflects a wider issue in American UFO history. Many famous photogr
 
 ## The Reported 1983 Burglary
 
-A major turning point in the story came a decade later, when Greenhaw stated that the original photographs were stolen during a burglary at his home in 1983. According to later retellings, the burglary also involved the theft of firearms, including a service revolver and a shotgun. Greenhaw reportedly considered the theft suspicious because the missing items included objects closely connected to the original incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — Greenhaw grabbed his Polaroid 2 camera and snapped four photos of whatev...</span></span></span>
+A major turning point in the story came a decade later, when Greenhaw stated that the original photographs were stolen during a burglary at his home in 1983. According to later retellings, the burglary also involved the theft of firearms, including a service revolver and a shotgun. Greenhaw reportedly considered the theft suspicious because the missing items included objects closely connected to the original incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — Greenhaw grabbed his Polaroid 2 camera and snapped four photos of whatev...</span></span></span>
 
 No widely available public police file or insurance documentation regarding the burglary has become central to the case, which has left later writers relying mostly on Greenhaw’s own account. That absence of detailed documentation contributed to further disagreement about the significance of the theft.
 
@@ -338,199 +338,199 @@ The photographs therefore occupy an unusual place in Alabama’s UFO history:
 
 </div>
 
-The case remains notable not because the photographs clearly demonstrate an extraterrestrial encounter, but because they show how UFO evidence can evolve over decades through copying, retelling, loss, and reinterpretation. The Falkville Polaroids survive today less as definitive documentation than as artefacts of a long-running argument about credibility, memory, and the limits of photographic proof in UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span>
+The case remains notable not because the photographs clearly demonstrate an extraterrestrial encounter, but because they show how UFO evidence can evolve over decades through copying, retelling, loss, and reinterpretation. The Falkville Polaroids survive today less as definitive documentation than as artefacts of a long-running argument about credibility, memory, and the limits of photographic proof in UFO investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[New Cryptozoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">New Cryptozoology Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">New CryptozoologyMetal Man of Falkville &#124; New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AteKcHgA4w4" title="The Falkville Metal Man – Alabama’s Strangest Alien Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AteKcHgA4w4" target="_blank" rel="noopener noreferrer">The Falkville Metal Man – Alabama’s Strangest Alien Encounter</a></p><p class="youtube-embed-meta">Channel: Mostly True Alien Stories &middot; Views: 244 &middot; Uploaded: April 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AteKcHgA4w4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AteKcHgA4w4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Lost Polaroids Visual Records of the Metal Man. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Lost Polaroids Visual Records of the Metal Man. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Deals with assessing evidence quality and disputed documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deals with assessing evidence quality and disputed documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explores strange humanoid sightings and regional mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explores strange humanoid sightings and regional mystery narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to debates about photographic and witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to debates about photographic and witness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Complete+Book+of+UFOs+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+UFOs+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of UFOs">The Complete Book of UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Complete+Book+of+UFOs+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+UFOs+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of UFOs">The Complete Book of UFOs</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles, Peter Hough</p>
         
-        <p class="fr-book-desc">Suitable for readers interested in photographic and encounter evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+UFOs+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Suitable for readers interested in photographic and encounter evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+UFOs+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="https://i.ebayimg.com/images/g/MGUAAOSwLANlldxL/s-l225.jpg" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="https://i.ebayimg.com/images/g/MGUAAOSwLANlldxL/s-l225.jpg" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Calvine UFO Photo Model - Retro / Sci Fi / Geek Gift / UFO Model -3D Printed"><img src="https://i.ebayimg.com/images/g/684AAOSwEpJjGeIF/s-l225.jpg" alt="Listing image for Calvine UFO Photo Model - Retro / Sci Fi / Geek Gift / UFO Model -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">Calvine UFO Photo Model - Retro / Sci Fi / Geek Gift / UFO Model -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/4GsAAeSwjKBqQ4YG/s-l225.jpg" alt="Listing image for UFO UAP Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Phenomenon Album Cover Art PICTURE / PRINT 11.5&quot; x 11.5&quot;"><img src="https://i.ebayimg.com/images/g/9UMAAOSwRM9m6sZI/s-l225.jpg" alt="Listing image for UFO Phenomenon Album Cover Art PICTURE / PRINT 11.5&quot; x 11.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO Phenomenon Album Cover Art PICTURE / PRINT 11.5&quot; x 11.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ENTIRE BAND AUTOGRAPHED SIGNED &amp; FRAMED PHOTO PRINT"><img src="https://i.ebayimg.com/images/g/8jAAAOSwMfplC0Hi/s-l225.jpg" alt="Listing image for UFO ENTIRE BAND AUTOGRAPHED SIGNED &amp; FRAMED PHOTO PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO ENTIRE BAND AUTOGRAPHED SIGNED &amp; FRAMED PHOTO PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="the-lost-polaroids-visual-records-of-the-metal-man-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ The case remains notable not because the photographs clearly demonstrate an extr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ The case remains notable not because the photographs clearly demonstrate an extr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ The case remains notable not because the photographs clearly demonstrate an extr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ The case remains notable not because the photographs clearly demonstrate an extr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ The case remains notable not because the photographs clearly demonstrate an extr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,89 +736,89 @@ The case remains notable not because the photographs clearly demonstrate an extr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: new-cryptozoology.fandom.com  
    Title: New Cryptozoology Metal Man of Falkville | New Cryptozoology Wiki  
-   Link: <a href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New CryptozoologyMetal Man of Falkville | New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</p></details>
+   Link:<a href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New CryptozoologyMetal Man of Falkville | New Cryptozoology Wiki - FandomThe images that Greenhaw snapped were collected and sent for ana...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cryptopia.us  
    Title: metal man of falkville alabama usa  
-   Link: <a href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</p></details>
+   Link:<a href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — The images that Greenhaw snapped were collected and sent for analysis by Walt And...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cullmantribune.com  
    Title: do you believe in the metal man  
-   Link: <a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — Greenhaw grabbed his Polaroid 2 camera and snapped four photos of whatev...</p></details>
+   Link:<a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — Greenhaw grabbed his Polaroid 2 camera and snapped four photos of whatev...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cryptidz.fandom.com  
    Title: Metal Man  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Metal_Man</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Man | Cryptid Wiki - FandomWhen the authorities got involved, the chief Jeff Greenhaw didn&#x27;t see a space ship, but instead something he w...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Metal_Man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man | Cryptid Wiki - FandomWhen the authorities got involved, the chief Jeff Greenhaw didn&#x27;t see a space ship, but instead something he w...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: the [falkville metal man](&#123;&#123; 'falkville-metal-man/' | relative_url &#125;&#125;) 1973 alabamaon the night of october 17 1973 police chief  
-   Link: <a href="https://www.facebook.com/100054115523531/posts/the-falkville-metal-man-1973-alabamaon-the-night-of-october-17-1973-police-chief/1420355606444943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100054115523531/posts/the-falkville-metal-man-1973-alabamaon-the-night-of-october-17-1973-police-chief/1420355606444943/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man (1973) – Alabama On the night...The images that Greenhaw snapped were collected and sent for analysis by Walt An...</p></details>
+   Link:<a href="https://www.facebook.com/100054115523531/posts/the-falkville-metal-man-1973-alabamaon-the-night-of-october-17-1973-police-chief/1420355606444943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100054115523531/posts/the-falkville-metal-man-1973-alabamaon-the-night-of-october-17-1973-police-chief/1420355606444943/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man (1973) – Alabama On the night...The images that Greenhaw snapped were collected and sent for analysis by Walt An...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: these images were taken by police chief jeff greenhaw the entity has been called  
-   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1530666289069541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1530666289069541/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These images were taken by police chief Jeff Greenhaw....3 May 2026 — Author Charelton Hall has apparently confessed that this whole inc...</p></details>
+   Link:<a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1530666289069541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1530666289069541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These images were taken by police chief Jeff Greenhaw....3 May 2026 — Author Charelton Hall has apparently confessed that this whole inc...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: These images were taken by police chief Jeff Greenhaw  
-   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the police chief of Falkville swore he saw a humanoid figure in a shiny metal suit walking in a field at night — and even snappe...</p></details>
+   Link:<a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the police chief of Falkville swore he saw a humanoid figure in a shiny metal suit walking in a field at night — and even snappe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQbPh8SEQZr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQbPh8SEQZr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in a reflective suit, possibly collecting data before vanishing into...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQbPh8SEQZr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQbPh8SEQZr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in a reflective suit, possibly collecting data before vanishing into...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: 51st anniversary of the Falkville Metal Man photos  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is...The Falkville Metal Man story originates from an incident on October 17, 1973, when Police Chief Jeff Greenhaw of Falkville, A...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is...The Falkville Metal Man story originates from an incident on October 17, 1973, when Police Chief Jeff Greenhaw of Falkville, A...</p></details>
    Published: October 17, 1973  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: the metal man of falkville in 1973 jeff greenhaw  
-   Link: <a href="https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Metal Man of Falkville. In 1973 Jeff Greenhaw, then 26...The images that Greenhaw snapped were collected and sent for analysis by Wa...</p></details>
+   Link:<a href="https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Metal Man of Falkville. In 1973 Jeff Greenhaw, then 26...The images that Greenhaw snapped were collected and sent for analysis by Wa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
    Title: Now known as the Alabama Metal Man or the Falkville Metal Man.Read more  
-   Link: <a href="https://www.instagram.com/p/C_irL-GOlYy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C_irL-GOlYy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Located in Falkville, Alabama in the autumn of 1973 there...Located in Falkville, Alabama in the autumn of 1973 there was once rumored t...</p></details>
+   Link:<a href="https://www.instagram.com/p/C_irL-GOlYy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C_irL-GOlYy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Located in Falkville, Alabama in the autumn of 1973 there...Located in Falkville, Alabama in the autumn of 1973 there was once rumored t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: podscripts.co  
    Title: Starting point is 00:46:25 down and the photos were stolen.Read more  
-   Link: <a href="https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Paranormal Life - #407 The Mystery of The Metal Man...25 Feb 2025 — In 1973, a young Falkville Chief of Police, Jeff Greenhaw was c...</p></details>
+   Link:<a href="https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Paranormal Life - #407 The Mystery of The Metal Man...25 Feb 2025 — In 1973, a young Falkville Chief of Police, Jeff Greenhaw was c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: staticradio.com  
    Title: falkville metal man with jokester joe  
-   Link: <a href="https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Static Radio27 Nov 2025 — Years later, Greenhaw reported the original Polaroid pictures had been stolen from his home, adding another lay...</p></details>
+   Link:<a href="https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Static Radio27 Nov 2025 — Years later, Greenhaw reported the original Polaroid pictures had been stolen from his home, adding another lay...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: He went to the scene and saw a figure standing there.Read more  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man — In 1973, Jeff Greenhaw...In 1973, Jeff Greenhaw, Falkville Chief of Police, received a call about a UFO in a f...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man — In 1973, Jeff Greenhaw...In 1973, Jeff Greenhaw, Falkville Chief of Police, received a call about a UFO in a f...</p></details>

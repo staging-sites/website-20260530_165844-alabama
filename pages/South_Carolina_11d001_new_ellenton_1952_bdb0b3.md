@@ -262,31 +262,31 @@ image: /assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-overview-so
 
 ## Introduction
 
-The New Ellenton sighting of 10 May 1952 is South Carolina’s strongest archival UFO case because it combines a specific place, a short but detailed time window, multiple industrial [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) and a Cold War nuclear setting. Four DuPont employees at the Savannah River Plant reportedly saw yellow or gold disc-shaped objects pass near the plant’s 400 Area several times between about 10:45 p.m. and 11:15 p.m. One object was said to be low enough that it rose to clear tall tanks, and the report was later carried in Project Blue Book “unknown” lists rather than being assigned a conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
+The New Ellenton sighting of 10 May 1952 is South Carolina’s strongest archival UFO case because it combines a specific place, a short but detailed time window, multiple industrial [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) and a Cold War nuclear setting. Four DuPont employees at the Savannah River Plant reportedly saw yellow or gold disc-shaped objects pass near the plant’s 400 Area several times between about 10:45 p.m. and 11:15 p.m. One object was said to be low enough that it rose to clear tall tanks, and the report was later carried in Project Blue Book “unknown” lists rather than being assigned a conventional explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-overview.webp" | relative_url }}" alt="Overview image for New Ellenton" loading="eager" decoding="sync" fetchpriority="high">
-That does not make the incident proof of alien technology, a deliberate nuclear-site surveillance mission or a confirmed intrusion. The surviving public evidence is too thin for that: no photograph, radar track, recovered material or full witness dossier has become the case’s evidential anchor. What makes New Ellenton still matter is more precise. It shows how a puzzling night-time sighting became historically weightier because it occurred beside one of the most sensitive industrial projects in South Carolina, at the moment the Savannah River Plant was being built to produce nuclear weapons materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">savannah river site history 1950 1989</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</span></span></span>
+That does not make the incident proof of alien technology, a deliberate nuclear-site surveillance mission or a confirmed intrusion. The surviving public evidence is too thin for that: no photograph, radar track, recovered material or full witness dossier has become the case’s evidential anchor. What makes New Ellenton still matter is more precise. It shows how a puzzling night-time sighting became historically weightier because it occurred beside one of the most sensitive industrial projects in South Carolina, at the moment the Savannah River Plant was being built to produce nuclear weapons materials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/srs/savannah-river-site-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">savannah river site history</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</span></span></span>
 
 ## What the DuPont witnesses reportedly saw
 
-The central account describes a series of sightings at the Savannah River Plant near Ellenton, South Carolina, on the night of 10 May 1952. At approximately 10:45 p.m., four DuPont employees reportedly saw four disc-shaped objects approaching the 400 Area from the south and disappearing northwards. Around 11:05 p.m., the same employees saw two similar objects follow a similar south-to-north route. Around 11:10 p.m., another similar object approached from the north-east and disappeared to the south-west. One further object was reported at about 11:15 p.m., again travelling from south to north. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp fawcett1</span><span class="citation-popover-snippet">ncp fawcett1</span></span></span>
+The central account describes a series of sightings at the Savannah River Plant near Ellenton, South Carolina, on the night of 10 May 1952. At approximately 10:45 p.m., four DuPont employees reportedly saw four disc-shaped objects approaching the 400 Area from the south and disappearing northwards. Around 11:05 p.m., the same employees saw two similar objects follow a similar south-to-north route. Around 11:10 p.m., another similar object approached from the north-east and disappeared to the south-west. One further object was reported at about 11:15 p.m., again travelling from south to north.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp fawcett1</span><span class="citation-popover-snippet">ncp fawcett1</span></span></span>
 
-The description is unusually concrete for a short night-time UFO report. The objects were said to be yellow to gold, disc-shaped, apparently about 15 inches in diameter, fast-moving and noiseless. That “15 inches” figure should be treated carefully. Without a known distance, it cannot establish the objects’ physical size; it only tells us how large they appeared to the witnesses. The report also says they were visible for only a few seconds at a time, which sharply limits what any observer could reliably judge about shape, speed, height or distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
+The description is unusually concrete for a short night-time UFO report. The objects were said to be yellow to gold, disc-shaped, apparently about 15 inches in diameter, fast-moving and noiseless. That “15 inches” figure should be treated carefully. Without a known distance, it cannot establish the objects’ physical size; it only tells us how large they appeared to the witnesses. The report also says they were visible for only a few seconds at a time, which sharply limits what any observer could reliably judge about shape, speed, height or distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
 
-The most memorable detail concerns the object seen at about 11:10 p.m. It was reportedly low enough that it had to rise to pass over tall tanks in the 400 Area, while also weaving from left to right but keeping a general course. That detail is the reason the case feels more substantial than a report of vague lights: it seems to place at least one object in relation to plant structures. But it is also the detail most in need of caution, because night-time observers can misjudge altitude and distance when an object has no familiar outline, no audible engine noise and no measured reference point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
+The most memorable detail concerns the object seen at about 11:10 p.m. It was reportedly low enough that it had to rise to pass over tall tanks in the 400 Area, while also weaving from left to right but keeping a general course. That detail is the reason the case feels more substantial than a report of vague lights: it seems to place at least one object in relation to plant structures. But it is also the detail most in need of caution, because night-time observers can misjudge altitude and distance when an object has no familiar outline, no audible engine noise and no measured reference point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
 
 A useful reading of the witness evidence is therefore balanced. The report is not a casual, anonymous modern internet entry; it names the employer, gives a date, a sequence of times, a location inside the plant, a number of observers and a repeated pattern of movement. Yet the record available to the public does not show the exact vantage point of each witness, their names, their formal interviews, weather checks, air-traffic checks, astronomical analysis or a diagram of the sight lines. That makes the case important, but not self-solving.
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-dark.svg" | relative_url }}" alt="New Ellenton illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Savannah River site changed the stakes
 
-The Savannah River Plant setting is what turns this from a local sky report into a landmark South Carolina UFO case. The Department of Energy states that the Savannah River Site was constructed in the early 1950s to produce materials for nuclear weapons, primarily tritium and plutonium-239. Its facilities included five reactors, chemical separations plants, a heavy-water extraction plant, nuclear fuel and target fabrication, tritium extraction and waste-management facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">savannah river site history 1950 1989</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</span></span></span>
+The Savannah River Plant setting is what turns this from a local sky report into a landmark South Carolina UFO case. The Department of Energy states that the Savannah River Site was constructed in the early 1950s to produce materials for nuclear weapons, primarily tritium and plutonium-239. Its facilities included five reactors, chemical separations plants, a heavy-water extraction plant, nuclear fuel and target fabrication, tritium extraction and waste-management facilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/srs/savannah-river-site-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">savannah river site history</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</span></span></span>
 
-The timing is crucial. The site was being created in the early hydrogen-bomb era, and the South Carolina Encyclopedia describes the Savannah River Site as a major 1950s nuclear production complex where tritium and plutonium were produced and separated from waste by-products in chemical separations plants. It also notes the displacement of local communities and the creation of New Ellenton just north of the plant site, a reminder that the UFO report sits inside a wider moment of rapid Cold War transformation in western South Carolina. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scencyclopedia.org">[South Carolina Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scencyclopedia.org</span><span class="citation-popover-title">savannah river site</span><span class="citation-popover-snippet">South Carolina EncyclopediaSavannah River SiteDuring the 1950s five reactors were built, and SRS began to produce nuclear materials, prim...</span></span></span>
+The timing is crucial. The site was being created in the early hydrogen-bomb era, and the South Carolina Encyclopedia describes the Savannah River Site as a major 1950s nuclear production complex where tritium and plutonium were produced and separated from waste by-products in chemical separations plants. It also notes the displacement of local communities and the creation of New Ellenton just north of the plant site, a reminder that the UFO report sits inside a wider moment of rapid Cold War transformation in western South Carolina.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scencyclopedia.org">[South Carolina Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scencyclopedia.org</span><span class="citation-popover-title">savannah river site</span><span class="citation-popover-snippet">South Carolina EncyclopediaSavannah River SiteDuring the 1950s five reactors were built, and SRS began to produce nuclear materials, prim...</span></span></span>
 
-The 400 Area reference matters because it points to a specific industrial zone rather than a vague region near the plant. Later Savannah River material identifies the 400/D Area with heavy-water production, and a recent Savannah River National Laboratory article describes that area as one of the first production areas completed at the site, built to supply heavy water for the reactors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nationalregister.sc.gov/SurveyReports/HC02002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalregister.sc.gov">[National Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalregister.sc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 400 Area reference matters because it points to a specific industrial zone rather than a vague region near the plant. Later Savannah River material identifies the 400/D Area with heavy-water production, and a recent Savannah River National Laboratory article describes that area as one of the first production areas completed at the site, built to supply heavy water for the reactors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nationalregister.sc.gov/SurveyReports/HC02002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalregister.sc.gov">[National Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalregister.sc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That does not prove the reported objects were interested in the plant, but it explains why investigators and later researchers paid attention. A sighting over a nuclear weapons production site carried an obvious national-security charge in 1952. The plant was not a normal factory, and the report did not merely say that something was seen somewhere in the night sky; it placed repeated fast, silent objects near a vital Atomic Energy Commission installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp fawcett1</span><span class="citation-popover-snippet">ncp fawcett1</span></span></span>
+That does not prove the reported objects were interested in the plant, but it explains why investigators and later researchers paid attention. A sighting over a nuclear weapons production site carried an obvious national-security charge in 1952. The plant was not a normal factory, and the report did not merely say that something was seen somewhere in the night sky; it placed repeated fast, silent objects near a vital Atomic Energy Commission installation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp fawcett1</span><span class="citation-popover-snippet">ncp fawcett1</span></span></span>
 
 This is the heart of the nuclear-site question. Did the setting simply make an ambiguous sighting feel more important, or did the location itself form part of the event’s significance? The evidence cannot settle that. What it can show is that New Ellenton belongs among the state’s most serious UFO records because its location was not incidental to the story people preserved.
 
@@ -294,22 +294,22 @@ This is the heart of the nuclear-site question. Did the setting simply make an a
 
 ## What Blue Book unknown status does and does not prove
 
-Project Blue Book was the US Air Force’s main public UFO investigation programme during the Cold War. The National Archives says the Air Force transferred its Project Blue Book records to the archives, that the records were declassified and made available for examination, and that the project closed in 1969. The archive is therefore central for South Carolina cases from this period, but it is not a living investigation and has no relevance to later civilian sightings except as historical background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Project Blue Book was the US Air Force’s main public UFO investigation programme during the Cold War. The National Archives says the Air Force transferred its Project Blue Book records to the archives, that the records were declassified and made available for examination, and that the project closed in 1969. The archive is therefore central for South Carolina cases from this period, but it is not a living investigation and has no relevance to later civilian sightings except as historical background.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The New Ellenton case appears in later compilations of Project Blue Book “unknowns”. Brad Sparks’s catalogue lists it as a 10 May 1952 New Ellenton case involving four DuPont employees at the Savannah River Atomic Energy Commission nuclear plant, with yellow disc-shaped objects seen on five occasions between about 10:45 p.m. and shortly after 11:15 p.m. It also notes uncertainty in some details, including the exact date or time bracket in square-bracketed alternatives, which is a useful reminder that catalogue summaries are not the same as a complete case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Sparks CATALOG BB Unknowns 1.27 Dec 20 2016</span><span class="citation-popover-snippet">Albuquerque, New Mexico (at 35°03.6&#x27; N. 106°36.3&#x27;W). 3:00 p.m.... Savannah River AEC site, South. Carolina. 10:15-10:36 p.m. (EST). USA...</span></span></span>
+The New Ellenton case appears in later compilations of Project Blue Book “unknowns”. Brad Sparks’s catalogue lists it as a 10 May 1952 New Ellenton case involving four DuPont employees at the Savannah River Atomic Energy Commission nuclear plant, with yellow disc-shaped objects seen on five occasions between about 10:45 p.m. and shortly after 11:15 p.m. It also notes uncertainty in some details, including the exact date or time bracket in square-bracketed alternatives, which is a useful reminder that catalogue summaries are not the same as a complete case file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Sparks CATALOG BB Unknowns 1.27 Dec</span><span class="citation-popover-snippet">Albuquerque, New Mexico (at 35°03.6&#x27; N. 106°36.3&#x27;W). 3:00 p.m.... Savannah River AEC site, South. Carolina. 10:15-10:36 p.m. (EST). USA...</span></span></span>
 
-“Unknown” is meaningful, but it is often misunderstood. It means the case was not given a satisfactory conventional identification in the relevant Blue Book-derived record. It does not mean the Air Force confirmed that the objects were extraordinary craft. The Air Force fact sheet on Project Blue Book states that 12,618 sightings were reported to the programme and 701 remained unidentified, while also stating that there was no evidence indicating that sightings categorised as unidentified were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+“Unknown” is meaningful, but it is often misunderstood. It means the case was not given a satisfactory conventional identification in the relevant Blue Book-derived record. It does not mean the Air Force confirmed that the objects were extraordinary craft. The Air Force fact sheet on Project Blue Book states that 12,618 sightings were reported to the programme and 701 remained unidentified, while also stating that there was no evidence indicating that sightings categorised as unidentified were extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That distinction matters for New Ellenton. The unknown status strengthens the case against a quick, confident dismissal; it suggests the report survived at least some official or archival filtering as unresolved. But it does not give the report details that are missing. It cannot supply photographs, radar data, calibrated speed estimates or named witness testimony. It is a classification of the record, not a positive identification of the objects.
 
-Modern official language points in the same direction. The All-domain Anomaly Resolution Office’s historical review reported no evidence that past UFO or UAP investigations had established extraterrestrial origin, while also reflecting renewed government interest in improving how anomalous reports are handled. That does not retroactively explain the 1952 sighting, but it reinforces the sensible standard: unresolved should not be inflated into confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+Modern official language points in the same direction. The All-domain Anomaly Resolution Office’s historical review reported no evidence that past UFO or UAP investigations had established extraterrestrial origin, while also reflecting renewed government interest in improving how anomalous reports are handled. That does not retroactively explain the 1952 sighting, but it reinforces the sensible standard: unresolved should not be inflated into confirmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-dark.svg" | relative_url }}" alt="New Ellenton illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest reading of the evidence
 
-The best case for taking New Ellenton seriously is not that any one detail is impossible to explain. It is the combination of details: several witnesses, a restricted industrial setting, repeated observations over roughly 30 minutes, a specific plant area, apparently silent high-speed movement and preservation in Blue Book unknown catalogues. For South Carolina UFO history, that combination makes it more substantial than a vague local legend or a later report without archival footing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
+The best case for taking New Ellenton seriously is not that any one detail is impossible to explain. It is the combination of details: several witnesses, a restricted industrial setting, repeated observations over roughly 30 minutes, a specific plant area, apparently silent high-speed movement and preservation in Blue Book unknown catalogues. For South Carolina UFO history, that combination makes it more substantial than a vague local legend or a later report without archival footing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
 
-The main weakness is that the public evidential trail is narrow. Much of what is repeated today comes through UFO catalogues, NICAP’s case page, Blue Book unknown summaries and references to an FBI communication, rather than through a complete publicly reproduced investigation file with all underlying checks. The NICAP entry includes a quoted FBI-style message saying the Savannah office was not actively conducting an investigation and was furnishing the information for whatever action the bureau deemed advisable. That phrasing is important because it suggests notification and preservation, not necessarily a deep field investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
+The main weakness is that the public evidential trail is narrow. Much of what is repeated today comes through UFO catalogues, NICAP’s case page, Blue Book unknown summaries and references to an FBI communication, rather than through a complete publicly reproduced investigation file with all underlying checks. The NICAP entry includes a quoted FBI-style message saying the Savannah office was not actively conducting an investigation and was furnishing the information for whatever action the bureau deemed advisable. That phrasing is important because it suggests notification and preservation, not necessarily a deep field investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
 
 Several conventional possibilities remain open, though none can be confidently imposed from the surviving summary alone. Meteors can be silent, bright and fast, but repeated passes over about half an hour and the claimed low movement near tanks are awkward for a simple meteor explanation. Aircraft can repeat over a site, but the short visibility, apparent disc shape and silence would need further information about altitude, wind, traffic and observer position. Reflections, illuminated birds, insects, balloons or plant-related optical effects may explain some night-time reports, but the specific repeated directional pattern would still need reconstruction.
 
@@ -319,9 +319,9 @@ The strongest sceptical point is not that the witnesses must have been wrong. It
 
 ## How later reporting changed the case
 
-Later reporting has mostly preserved and amplified the New Ellenton sighting rather than materially solving it. NICAP’s nuclear-connection treatment frames it as a notable incident near a vital installation and says the FBI headquarters reported it to the head of the Air Force Office of Special Investigations. Other UFO chronologies repeat the core claim that four DuPont employees saw eight disc-shaped objects and that the Atomic Energy Commission in Washington was advised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
+Later reporting has mostly preserved and amplified the New Ellenton sighting rather than materially solving it. NICAP’s nuclear-connection treatment frames it as a notable incident near a vital installation and says the FBI headquarters reported it to the head of the Air Force Office of Special Investigations. Other UFO chronologies repeat the core claim that four DuPont employees saw eight disc-shaped objects and that the Atomic Energy Commission in Washington was advised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
 
-The case also became part of a wider claim that UFO reports appeared to cluster around atomic-energy installations. NICAP’s republication of George Fawcett’s nuclear-site discussion says Captain Edward Ruppelt, associated with Project Blue Book, noticed such a possible relationship in 1952 and that the issue was discussed in relation to a Look magazine article. This provides historical context for why New Ellenton attracted later attention, but it should be treated as a research claim rather than as proof that every nuclear-site sighting had a common cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
+The case also became part of a wider claim that UFO reports appeared to cluster around atomic-energy installations. NICAP’s republication of George Fawcett’s nuclear-site discussion says Captain Edward Ruppelt, associated with Project Blue Book, noticed such a possible relationship in 1952 and that the issue was discussed in relation to a Look magazine article. This provides historical context for why New Ellenton attracted later attention, but it should be treated as a research claim rather than as proof that every nuclear-site sighting had a common cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
 
 The strongest later material strengthens the archival importance of the incident. It confirms that the case was not invented in recent UFO culture and that it sat within a real 1952 concern about unidentified reports near strategic installations. The weaker later material tends to compress the story into a slogan: discs over nuclear plant. That shorthand loses the most important nuance, which is that the case is both unusually interesting and evidentially incomplete.
 
@@ -330,7 +330,7 @@ No later public source found in the accessible record appears to have added deci
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-dark.svg" | relative_url }}" alt="New Ellenton illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why New Ellenton still matters
 
-New Ellenton still matters because it is one of the rare South Carolina UFO cases where the location is as important as the sighting itself. The report came from workers at a major Cold War nuclear production site, in the same year that UFO reporting surged nationally and Project Blue Book became the main Air Force programme for handling such cases. National Archives material notes heavy public interest in 1952 UFO reports, especially during the summer, and Blue Book records show that the period produced many cases later debated by researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+New Ellenton still matters because it is one of the rare South Carolina UFO cases where the location is as important as the sighting itself. The report came from workers at a major Cold War nuclear production site, in the same year that UFO reporting surged nationally and Project Blue Book became the main Air Force programme for handling such cases. National Archives material notes heavy public interest in 1952 UFO reports, especially during the summer, and Blue Book records show that the period produced many cases later debated by researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 For readers trying to understand South Carolina’s UFO history, New Ellenton is best used as a benchmark. It is stronger than many local anecdotes because it has a date, location, witness group, official-channel preservation and Blue Book unknown status. It is weaker than a fully documented aviation or radar-visual case because the public record does not let us reconstruct the event with precision.
 
@@ -341,269 +341,269 @@ The most defensible conclusion is modest but significant: on 10 May 1952, multip
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3CIXsWbM1Ng" title="Federal review outlines plutonium pit production plan for Savannah River Site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3CIXsWbM1Ng" target="_blank" rel="noopener noreferrer">Federal review outlines plutonium pit production plan for Savannah River Site</a></p><p class="youtube-embed-meta">Channel: WRDW News 12 &middot; Views: 99 &middot; Uploaded: April 2026 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3CIXsWbM1Ng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3CIXsWbM1Ng">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why New Ellenton Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why New Ellenton Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Essential background for 1950s official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential background for 1950s official UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers significant historical cases and unknown classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers significant historical cases and unknown classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical tools for assessing witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools for assessing witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly connects UFO reports with nuclear facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO reports with nuclear facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-ellenton-why-new-ellenton-still-matters-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ The most defensible conclusion is modest but significant: on 10 May 1952, multip
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ The most defensible conclusion is modest but significant: on 10 May 1952, multip
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ The most defensible conclusion is modest but significant: on 10 May 1952, multip
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ The most defensible conclusion is modest but significant: on 10 May 1952, multip
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -759,152 +759,152 @@ The most defensible conclusion is modest but significant: on 10 May 1952, multip
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</p></details>
+   Link:<a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</p></details>
    Published: May 10, 1952  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cisu.org  
    Title: Sparks CATALOG BB Unknowns 1.27 Dec 20 2016  
-   Link: <a href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Albuquerque, New Mexico (at 35°03.6&#x27; N. 106°36.3&#x27;W). 3:00 p.m.... Savannah River AEC site, South. Carolina. 10:15-10:36 p.m. (EST). USA...</p></details>
+   Link:<a href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Albuquerque, New Mexico (at 35°03.6&#x27; N. 106°36.3&#x27;W). 3:00 p.m.... Savannah River AEC site, South. Carolina. 10:15-10:36 p.m. (EST). USA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: energy.gov  
    Title: savannah river site history 1950 1989  
-   Link: <a href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history-1950-1989</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</p></details>
+   Link:<a href="https://www.energy.gov/srs/savannah-river-site-history" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: ncp fawcett1  
-   Link: <a href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-fawcett1.htm</a>  
+   Link:<a href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-fawcett1.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: ncp nuc1952  
-   Link: <a href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-nuc1952.htm</a>  
+   Link:<a href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-nuc1952.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scencyclopedia.org  
    Title: savannah river site  
-   Link: <a href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/savannah-river-site/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Carolina EncyclopediaSavannah River SiteDuring the 1950s five reactors were built, and SRS began to produce nuclear materials, prim...</p></details>
+   Link:<a href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/savannah-river-site/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Carolina EncyclopediaSavannah River SiteDuring the 1950s five reactors were built, and SRS began to produce nuclear materials, prim...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scencyclopedia.org  
-   Link: <a href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/</a>  
+   Link:<a href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalregister.sc.gov  
-   Link: <a href="https://nationalregister.sc.gov/SurveyReports/HC02002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalregister.sc.gov/SurveyReports/HC02002.pdf</a>  
+   Link:<a href="https://nationalregister.sc.gov/SurveyReports/HC02002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalregister.sc.gov/SurveyReports/HC02002.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/May" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/May" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Savannah River Plant  
-   Link: <a href="https://en.wikipedia.org/wiki/Savannah_River_Plant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Plant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Savannah_River_Plant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Plant</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Savannah River Site  
-   Link: <a href="https://en.wikipedia.org/wiki/Savannah_River_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Site</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Savannah_River_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Site</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: public.srs.gov  
-   Link: <a href="https://public.srs.gov/about/" target="_blank" rel="noopener noreferrer nofollow">https://public.srs.gov/about/</a>  
+   Link:<a href="https://public.srs.gov/about/" target="_blank" rel="noopener noreferrer nofollow">https://public.srs.gov/about/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Federal review outlines plutonium pit production plan for Savannah River Site...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Federal review outlines plutonium pit production plan for Savannah River Site...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Federal review outlines plutonium pit production plan for Savannah River Site  
-   Link: <a href="https://www.youtube.com/watch?v=3CIXsWbM1Ng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3CIXsWbM1Ng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 UAPs, Nuclear Tests, and the 1952 Anomalies | Observers from Another World | EP. 034...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3CIXsWbM1Ng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3CIXsWbM1Ng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 UAPs, Nuclear Tests, and the 1952 Anomalies | Observers from Another World | EP. 034...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFOs at [Nuclear Sites](&#123;&#123; 'nuclear-site/' | relative_url &#125;&#125;)? | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbsxZBmGMBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbsxZBmGMBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: srs.gov  
-   Link: <a href="https://www.srs.gov/general/about/50anniv/SRSat50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/50anniv/SRSat50.pdf</a>  
+   Link:<a href="https://www.srs.gov/general/about/50anniv/SRSat50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/50anniv/SRSat50.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
+   Link:<a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/</a>  
+   Link:<a href="https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/may" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/may</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/may" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/may</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/may" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/may</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/may" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/may</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/calendar/months/may.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/calendar/months/may.html</a>
+   Link:<a href="https://www.timeanddate.com/calendar/months/may.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/calendar/months/may.html</a>

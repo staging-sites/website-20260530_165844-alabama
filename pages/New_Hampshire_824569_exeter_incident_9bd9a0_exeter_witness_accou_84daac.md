@@ -250,262 +250,262 @@ image: /assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness
 
 ## Introduction
 
-The Exeter incident remains one of [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }})’s most discussed UFO cases largely because the central witnesses were identifiable people whose reactions appeared genuine rather than theatrical. Eighteen-year-old Norman Muscarello arrived at Exeter police station frightened and visibly shaken, and two police officers, Eugene Bertrand and David Hunt, later said they independently observed the same strange lights. That combination gave the case unusual weight in 1965 and still shapes debates about it today. The key question is not whether the witnesses were honest, but whether honest witnesses under stress can accurately judge what they are seeing on a dark rural road at two o’clock in the morning. The [Exeter case]({{ 'exeter-case/' | relative_url }}) sits directly on that fault line between credibility and perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+The Exeter incident remains one of [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }})’s most discussed UFO cases largely because the central witnesses were identifiable people whose reactions appeared genuine rather than theatrical. Eighteen-year-old Norman Muscarello arrived at Exeter police station frightened and visibly shaken, and two police officers, Eugene Bertrand and David Hunt, later said they independently observed the same strange lights. That combination gave the case unusual weight in 1965 and still shapes debates about it today. The key question is not whether the witnesses were honest, but whether honest witnesses under stress can accurately judge what they are seeing on a dark rural road at two o’clock in the morning. The [Exeter case]({{ 'exeter-case/' | relative_url }}) sits directly on that fault line between credibility and perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
 <img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Norman Muscarello's Route 150 account
 
-Muscarello's testimony has endured partly because it does not read like a carefully engineered story. By his own account, he was walking along Route 150 near Kensington after visiting his girlfriend in Massachusetts when he noticed bright red flashing lights ahead. At first he assumed they belonged to a police vehicle or emergency crew. Only as he approached did he conclude that the lights appeared elevated above the ground and were illuminating nearby fields and houses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+Muscarello's testimony has endured partly because it does not read like a carefully engineered story. By his own account, he was walking along Route 150 near Kensington after visiting his girlfriend in Massachusetts when he noticed bright red flashing lights ahead. At first he assumed they belonged to a police vehicle or emergency crew. Only as he approached did he conclude that the lights appeared elevated above the ground and were illuminating nearby fields and houses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
-What stands out in later interviews is the emphasis on confusion rather than certainty. Muscarello repeatedly said he could not clearly identify the object's shape because the lights were so bright. He described intense fear, nearby animals becoming agitated, and a feeling that the object was moving towards him. In some retellings he recalled diving into a ditch or throwing himself to the ground as the lights approached. He was not presenting a detailed technical description of an aircraft; he was describing a frightening sensory experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seacoastnh.com/the-incident-at-exeter-high/?showall=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seacoastnh.com">[seacoastnh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seacoastnh.com</span><span class="citation-popover-snippet">The Incident at Exeter HighThree days after the incident, a statewide newspaper photo showed a sullen teenaged Muscarello with three smil...</span></span></span>
+What stands out in later interviews is the emphasis on confusion rather than certainty. Muscarello repeatedly said he could not clearly identify the object's shape because the lights were so bright. He described intense fear, nearby animals becoming agitated, and a feeling that the object was moving towards him. In some retellings he recalled diving into a ditch or throwing himself to the ground as the lights approached. He was not presenting a detailed technical description of an aircraft; he was describing a frightening sensory experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://seacoastnh.com/the-incident-at-exeter-high/?showall=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seacoastnh.com">[seacoastnh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seacoastnh.com</span><span class="citation-popover-snippet">The Incident at Exeter HighThree days after the incident, a statewide newspaper photo showed a sullen teenaged Muscarello with three smil...</span></span></span>
 
-That distinction matters. Witnesses who admit uncertainty are often regarded as more credible because they are not claiming knowledge they do not possess. At the same time, uncertainty limits the evidential value of the observation. Muscarello could describe brightness, movement and fear with confidence, but he could not provide a clear outline, distance estimate or physical identification. Those missing details became crucial when sceptics later proposed aircraft-based explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+That distinction matters. Witnesses who admit uncertainty are often regarded as more credible because they are not claiming knowledge they do not possess. At the same time, uncertainty limits the evidential value of the observation. Muscarello could describe brightness, movement and fear with confidence, but he could not provide a clear outline, distance estimate or physical identification. Those missing details became crucial when sceptics later proposed aircraft-based explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
-Another reason researchers have taken his account seriously is that it was reported immediately. Muscarello did not wait days or weeks before telling anyone. He sought help from local residents, flagged down a passing motorist and went directly to police. Contemporary accounts describe him as pale, frightened and visibly distressed when he arrived at the station. That does not prove the object was extraordinary, but it does suggest his fear was real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+Another reason researchers have taken his account seriously is that it was reported immediately. Muscarello did not wait days or weeks before telling anyone. He sought help from local residents, flagged down a passing motorist and went directly to police. Contemporary accounts describe him as pale, frightened and visibly distressed when he arrived at the station. That does not prove the object was extraordinary, but it does suggest his fear was real.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y271TuMV-9o" title="The Crash Site Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer">The Crash Site Files</a></p><p class="youtube-embed-meta">Channel: Exeter TV &middot; Views: 1.0K &middot; Uploaded: November 2016 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y271TuMV-9o">Open on YouTube</a></p></div></div></div>
 
 ## What Bertrand and Hunt said they saw
 
-The case became far more significant when Officer Eugene Bertrand accompanied Muscarello back to the area. If the incident had ended with a single witness, it might have remained a local curiosity. Instead, Bertrand later reported seeing a large dark object carrying flashing red lights beyond a nearby field. According to his account, the object appeared silent and moved in a manner he found difficult to reconcile with ordinary aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+The case became far more significant when Officer Eugene Bertrand accompanied Muscarello back to the area. If the incident had ended with a single witness, it might have remained a local curiosity. Instead, Bertrand later reported seeing a large dark object carrying flashing red lights beyond a nearby field. According to his account, the object appeared silent and moved in a manner he found difficult to reconcile with ordinary aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
-Bertrand's reaction is often cited because it was dramatic and immediate. He reportedly drew his service revolver before deciding against firing. Whether that decision reflected actual danger or simple fear, it indicates the level of stress he was experiencing. Police officers are not immune to surprise or misjudgement, but their professional training means observers often attach extra significance to their testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+Bertrand's reaction is often cited because it was dramatic and immediate. He reportedly drew his service revolver before deciding against firing. Whether that decision reflected actual danger or simple fear, it indicates the level of stress he was experiencing. Police officers are not immune to surprise or misjudgement, but their professional training means observers often attach extra significance to their testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
-Officer David Hunt entered the story slightly later. Called to the scene by Bertrand, he arrived while the lights were still reportedly visible. Hunt later maintained that what he observed was distinct from the conventional aircraft operating in the area. After the lights disappeared, he heard a military jet overhead and argued that the sound and appearance were obviously different from the object he had just watched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+Officer David Hunt entered the story slightly later. Called to the scene by Bertrand, he arrived while the lights were still reportedly visible. Hunt later maintained that what he observed was distinct from the conventional aircraft operating in the area. After the lights disappeared, he heard a military jet overhead and argued that the sound and appearance were obviously different from the object he had just watched.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
-One important feature of the Exeter accounts is that the witnesses filed reports separately. Supporters of the case argue this reduced the chance of a jointly invented story. The Air Force officer who initially investigated the incident also reported that the witnesses appeared stable and sincere, particularly the two patrolmen. Even so, sincerity and accuracy are not identical. A witness can genuinely report an experience and still misinterpret what caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
+One important feature of the Exeter accounts is that the witnesses filed reports separately. Supporters of the case argue this reduced the chance of a jointly invented story. The Air Force officer who initially investigated the incident also reported that the witnesses appeared stable and sincere, particularly the two patrolmen. Even so, sincerity and accuracy are not identical. A witness can genuinely report an experience and still misinterpret what caused it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
 
 ## Why police testimony carried unusual weight
 
-Police witnesses have long occupied a special place in UFO literature because they are assumed to be trained observers. In Exeter, that assumption helped transform a local report into a national story. Newspapers and later authors repeatedly highlighted the involvement of Bertrand and Hunt because their presence appeared to move the case beyond a frightened teenager's account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+Police witnesses have long occupied a special place in UFO literature because they are assumed to be trained observers. In Exeter, that assumption helped transform a local report into a national story. Newspapers and later authors repeatedly highlighted the involvement of Bertrand and Hunt because their presence appeared to move the case beyond a frightened teenager's account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
-However, the real strength of the police testimony was not specialised observational expertise. Neither officer was an aviation engineer, astronomer or radar specialist. The stronger point was that they had responsibilities requiring calm decision-making and written reporting. Their willingness to stand by their accounts after public attention and ridicule impressed many investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
+However, the real strength of the police testimony was not specialised observational expertise. Neither officer was an aviation engineer, astronomer or radar specialist. The stronger point was that they had responsibilities requiring calm decision-making and written reporting. Their willingness to stand by their accounts after public attention and ridicule impressed many investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
 
-The officers were also unusually vocal in rejecting official explanations. When the Air Force linked the sighting to aircraft activity, Bertrand and Hunt publicly objected and insisted they had checked weather conditions and considered conventional aircraft before making their reports. Their resistance to the official conclusion became part of the mythology of Exeter and reinforced the impression that they genuinely believed they had seen something unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
+The officers were also unusually vocal in rejecting official explanations. When the Air Force linked the sighting to aircraft activity, Bertrand and Hunt publicly objected and insisted they had checked weather conditions and considered conventional aircraft before making their reports. Their resistance to the official conclusion became part of the mythology of Exeter and reinforced the impression that they genuinely believed they had seen something unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
 
 <img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility, stress and night-time misperception
 
-The central challenge in evaluating Exeter is that credibility and reliability are not the same thing. Most serious discussions of the case accept that Muscarello, Bertrand and Hunt probably believed what they reported. The harder question is whether their perceptions accurately reflected an external object's size, distance and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+The central challenge in evaluating Exeter is that credibility and reliability are not the same thing. Most serious discussions of the case accept that Muscarello, Bertrand and Hunt probably believed what they reported. The harder question is whether their perceptions accurately reflected an external object's size, distance and behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
-Night-time observation is notoriously difficult. Bright lights against a dark background provide very few visual references. Without clear landmarks, witnesses can struggle to judge distance, speed and altitude. An object that is actually far away may appear close. A slow-moving aircraft can appear stationary. A light partially obscured by terrain or trees can seem to rise suddenly from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+Night-time observation is notoriously difficult. Bright lights against a dark background provide very few visual references. Without clear landmarks, witnesses can struggle to judge distance, speed and altitude. An object that is actually far away may appear close. A slow-moving aircraft can appear stationary. A light partially obscured by terrain or trees can seem to rise suddenly from the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
-Stress compounds those problems. Psychologists have long recognised that fear can narrow attention and distort judgement. In the Exeter case, several details point towards heightened emotional arousal: Muscarello's panic, the officers' alarm, reports of disturbed animals and the belief that the lights were approaching. Under those conditions, witnesses often focus intensely on the most striking feature—in this case the flashing red lights—while losing contextual information that would help identify a conventional source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+Stress compounds those problems. Psychologists have long recognised that fear can narrow attention and distort judgement. In the Exeter case, several details point towards heightened emotional arousal: Muscarello's panic, the officers' alarm, reports of disturbed animals and the belief that the lights were approaching. Under those conditions, witnesses often focus intensely on the most striking feature—in this case the flashing red lights—while losing contextual information that would help identify a conventional source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
-This does not automatically mean the witnesses were wrong. Stress can sharpen certain observations as well as distort others. The Exeter accounts are memorable because they contain specific recurring details, especially the red flashing pattern and apparent silence. The debate has therefore centred less on whether the witnesses saw lights and more on what those lights belonged to. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+This does not automatically mean the witnesses were wrong. Stress can sharpen certain observations as well as distort others. The Exeter accounts are memorable because they contain specific recurring details, especially the red flashing pattern and apparent silence. The debate has therefore centred less on whether the witnesses saw lights and more on what those lights belonged to.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PPdM1tPFMVA" title="The Muscarello Miles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PPdM1tPFMVA" target="_blank" rel="noopener noreferrer">The Muscarello Miles</a></p><p class="youtube-embed-meta">Channel: Exeter TV &middot; Views: 235 &middot; Uploaded: September 2021 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PPdM1tPFMVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PPdM1tPFMVA">Open on YouTube</a></p></div></div></div>
 
 ## Does the KC-97 explanation weaken the witnesses?
 
-A major later sceptical interpretation came from Joe Nickell and retired Air Force pilot James McGaha, who argued that a KC-97 aerial refuelling tanker could account for much of the testimony. McGaha focused on the sequence of bright red refuelling lights reported by the witnesses and argued that the pattern closely matched the lighting system used on the aircraft. He also suggested that the tanker’s refuelling boom could create some of the unusual movement descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+A major later sceptical interpretation came from Joe Nickell and retired Air Force pilot James McGaha, who argued that a KC-97 aerial refuelling tanker could account for much of the testimony. McGaha focused on the sequence of bright red refuelling lights reported by the witnesses and argued that the pattern closely matched the lighting system used on the aircraft. He also suggested that the tanker’s refuelling boom could create some of the unusual movement descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
-Importantly, this explanation does not require Muscarello or the officers to have fabricated anything. It assumes they were observing a real aircraft under conditions that made its distance and structure difficult to judge. In that sense, the sceptical explanation actually preserves much of their credibility while challenging their interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+Importantly, this explanation does not require Muscarello or the officers to have fabricated anything. It assumes they were observing a real aircraft under conditions that made its distance and structure difficult to judge. In that sense, the sceptical explanation actually preserves much of their credibility while challenging their interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
-Critics of the [tanker theory]({{ 'tanker-theory/' | relative_url }}) argue that it does not perfectly fit every aspect of the reports, particularly the witnesses' insistence that the object appeared unusually close and unlike ordinary aircraft. Supporters respond that perceived closeness is exactly the sort of judgement that becomes unreliable at night when extremely bright lights dominate the visual scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+Critics of the [tanker theory]({{ 'tanker-theory/' | relative_url }}) argue that it does not perfectly fit every aspect of the reports, particularly the witnesses' insistence that the object appeared unusually close and unlike ordinary aircraft. Supporters respond that perceived closeness is exactly the sort of judgement that becomes unreliable at night when extremely bright lights dominate the visual scene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
 That leaves Exeter in an unusual position. The strongest evidence is still the witness testimony, yet the strongest conventional explanation also relies on taking parts of that testimony seriously. Rather than exposing the witnesses as dishonest, later sceptical analysis reframed them as sincere observers experiencing a stressful and confusing encounter whose true cause may have been less exotic than it appeared.
 
 <img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_witness_accou_84daac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the eyewitness accounts still matter
 
-The Exeter witnesses remain important in New Hampshire UFO history because they illustrate how a case can stay unresolved without requiring fraud, fantasy or certainty. Muscarello's fear appears authentic. Bertrand and Hunt publicly defended their observations for years. Air Force investigators initially regarded them as credible people. Those facts explain why the case became famous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
+The Exeter witnesses remain important in New Hampshire UFO history because they illustrate how a case can stay unresolved without requiring fraud, fantasy or certainty. Muscarello's fear appears authentic. Bertrand and Hunt publicly defended their observations for years. Air Force investigators initially regarded them as credible people. Those facts explain why the case became famous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
 
-Yet the same accounts also demonstrate the limits of eyewitness evidence. None of the witnesses could provide a clear, stable view of a structured craft. The event occurred at night, under emotional pressure, with bright lights dominating the scene. Later explanations showed how easily those conditions can complicate perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
+Yet the same accounts also demonstrate the limits of eyewitness evidence. None of the witnesses could provide a clear, stable view of a structured craft. The event occurred at night, under emotional pressure, with bright lights dominating the scene. Later explanations showed how easily those conditions can complicate perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">False Messages in Stone Exeter UFO Incident Solve</span><span class="citation-popover-snippet">UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</span></span></span>
 
-For many readers, that tension is what makes Exeter enduringly interesting. The case does not depend on anonymous rumours or decades-later memories. It depends on named people whose reactions seem genuine, but whose experience remains open to more than one interpretation. In the wider history of New Hampshire UFO reports, that balance between witness credibility and perceptual uncertainty is exactly what keeps the Exeter incident under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[2incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
+For many readers, that tension is what makes Exeter enduringly interesting. The case does not depend on anonymous rumours or decades-later memories. It depends on named people whose reactions seem genuine, but whose experience remains open to more than one interpretation. In the wider history of New Hampshire UFO reports, that balance between witness credibility and perceptual uncertainty is exactly what keeps the Exeter incident under discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: incidentatexeter.com">[2incidentatexeter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">incidentatexeter.com</span><span class="citation-popover-snippet">Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</span><span class="citation-popover-meta">Published: September 3, 1965</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yF7nmFfvZ8k" title="Tom Muscarello and George Dufour on The Incident at Exeter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yF7nmFfvZ8k" target="_blank" rel="noopener noreferrer">Tom Muscarello and George Dufour on The Incident at Exeter</a></p><p class="youtube-embed-meta">Channel: The Bard&#x27;s Archive &middot; Views: 395 &middot; Uploaded: September 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yF7nmFfvZ8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yF7nmFfvZ8k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How strong were Exeter&#x27;s eyewitness accounts?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How strong were Exeter&#x27;s eyewitness accounts?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses credibility, perception and classification of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses credibility, perception and classification of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes discussion of credible witness testimony in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of credible witness testimony in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reliability and Air Force investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reliability and Air Force investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Captured%21+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Captured! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JdtEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Captured!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Captured%21+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Captured!">Captured!</a>
-        </h4>
-        <p class="fr-book-author">By Kathleen Marden, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Captured%21+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Captured! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JdtEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Captured!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Captured%21+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Captured!">Captured!</a>
+</h4>
+<p class="fr-book-author">By Kathleen Marden, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Useful comparative reading on eyewitness evidence and memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Captured%21+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparative reading on eyewitness evidence and memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Captured%21+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-were-exeter-s-eyewitness-accounts-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-were-exeter-s-eyewitness-accounts-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ For many readers, that tension is what makes Exeter enduringly interesting. The 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ For many readers, that tension is what makes Exeter enduringly interesting. The 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ For many readers, that tension is what makes Exeter enduringly interesting. The 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ For many readers, that tension is what makes Exeter enduringly interesting. The 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ For many readers, that tension is what makes Exeter enduringly interesting. The 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,85 +711,85 @@ For many readers, that tension is what makes Exeter enduringly interesting. The 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: seacoastnh.com  
-   Link: <a href="https://seacoastnh.com/the-incident-at-exeter-high/?showall=1" target="_blank" rel="noopener noreferrer nofollow">https://seacoastnh.com/the-incident-at-exeter-high/?showall=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Incident at Exeter HighThree days after the incident, a statewide newspaper photo showed a sullen teenaged Muscarello with three smil...</p></details>
+   Link:<a href="https://seacoastnh.com/the-incident-at-exeter-high/?showall=1" target="_blank" rel="noopener noreferrer nofollow">https://seacoastnh.com/the-incident-at-exeter-high/?showall=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Incident at Exeter HighThree days after the incident, a statewide newspaper photo showed a sullen teenaged Muscarello with three smil...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: incidentatexeter.com  
-   Link: <a href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.incidentatexeter.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</p></details>
+   Link:<a href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.incidentatexeter.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At ExeterExeter, New Hampshire holds a unique and verified place in UFO history. The September 3, 1965 incident involving Norman...</p></details>
    Published: September 3, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: seacoastnh.com  
-   Link: <a href="https://seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/?start=3" target="_blank" rel="noopener noreferrer nofollow">https://seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/?start=3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Norman Muscarello Recalls His UFO Incident at ExeterEXETER STUDENT: How did your mother take it when you told her that you had seen a UFO...</p></details>
+   Link:<a href="https://seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/?start=3" target="_blank" rel="noopener noreferrer nofollow">https://seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/?start=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Norman Muscarello Recalls His UFO Incident at ExeterEXETER STUDENT: How did your mother take it when you told her that you had seen a UFO...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
    Title: False Messages in Stone Exeter UFO Incident Solve  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO buff Martin Kottmeyer (1996) weighed in with the... ther corroborative evidence of the UFO&#x27;s identification as a KC-97 refueling plane...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter Part 1 MUFON Case File | PDF | Aerial RefuelingThom LOCK&#x27;s book, &quot;incident at Exeter,&quot; was no sooner completed than UFO reports be...</p></details>
+   Link:<a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter Part 1 MUFON Case File | PDF | Aerial RefuelingThom LOCK&#x27;s book, &quot;incident at Exeter,&quot; was no sooner completed than UFO reports be...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/641270671133568/posts/1416099226984038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/641270671133568/posts/1416099226984038/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter UFO incident in New HampshireLeft to right: 18 year old Norman Muscarello who first spotted the UFO, patrolman David Hunt and Euge...</p></details>
+   Link:<a href="https://www.facebook.com/groups/641270671133568/posts/1416099226984038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/641270671133568/posts/1416099226984038/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter UFO incident in New HampshireLeft to right: 18 year old Norman Muscarello who first spotted the UFO, patrolman David Hunt and Euge...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/</a>  
+   Link:<a href="https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: local citizens had a close encounter with several of our officers this morning d  
-   Link: <a href="https://www.facebook.com/100064860391226/posts/local-citizens-had-a-close-encounter-with-several-of-our-officers-this-morning-d/357688159736528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/local-citizens-had-a-close-encounter-with-several-of-our-officers-this-morning-d/357688159736528/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local citizens had a close encounter with several of our officers...3, 1965 when a frightened Norman Muscarello, who was 18 at the time...</p></details>
+   Link:<a href="https://www.facebook.com/100064860391226/posts/local-citizens-had-a-close-encounter-with-several-of-our-officers-this-morning-d/357688159736528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/local-citizens-had-a-close-encounter-with-several-of-our-officers-this-morning-d/357688159736528/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local citizens had a close encounter with several of our officers...3, 1965 when a frightened Norman Muscarello, who was 18 at the time...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cases as the Valentich disappearance, movie footage of a supposed UFO from the...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cases as the Valentich disappearance, movie footage of a supposed UFO from the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: truthnetwork.com  
    Title: our american stories lee habeeb  
-   Link: <a href="https://www.truthnetwork.com/show/our-american-stories-lee-habeeb/117304/" target="_blank" rel="noopener noreferrer nofollow">https://www.truthnetwork.com/show/our-american-stories-lee-habeeb/117304/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Incident at Exeter: America&#x27;s Most Credible UFO Sighting6 Apr 2026 — The Exeter incident is one of the most well-documented UFO sight...</p></details>
+   Link:<a href="https://www.truthnetwork.com/show/our-american-stories-lee-habeeb/117304/" target="_blank" rel="noopener noreferrer nofollow">https://www.truthnetwork.com/show/our-american-stories-lee-habeeb/117304/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Incident at Exeter: America&#x27;s Most Credible UFO Sighting6 Apr 2026 — The Exeter incident is one of the most well-documented UFO sight...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: site of incident at exeter on sept 5 1965 18 year old norman muscarello was hitc  
-   Link: <a href="https://www.facebook.com/mark.lotterhand/posts/site-of-incident-at-exeter-on-sept-5-1965-18-year-old-norman-muscarello-was-hitc/10229973672953914/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mark.lotterhand/posts/site-of-incident-at-exeter-on-sept-5-1965-18-year-old-norman-muscarello-was-hitc/10229973672953914/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Site of &quot;Incident at Exeter. &quot;On Sept. 5, 1965, 18-year-old...</p></details>
+   Link:<a href="https://www.facebook.com/mark.lotterhand/posts/site-of-incident-at-exeter-on-sept-5-1965-18-year-old-norman-muscarello-was-hitc/10229973672953914/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mark.lotterhand/posts/site-of-incident-at-exeter-on-sept-5-1965-18-year-old-norman-muscarello-was-hitc/10229973672953914/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Site of &quot;Incident at Exeter. &quot;On Sept. 5, 1965, 18-year-old...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case426.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case426.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n suddenly, a huge object loomed above him...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case426.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case426.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n suddenly, a huge object loomed above him...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ivanbertotto.it  
    Title: Exeter_incident — Wiki Lux  
-   Link: <a href="https://ivanbertotto.it/o/wikilux/?lang=en&amp;q=Exeter+incident" target="_blank" rel="noopener noreferrer nofollow">https://ivanbertotto.it/o/wikilux/?lang=en&amp;q=Exeter+incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter_incident — WikiLux - ivanbertotto.itThe Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred o...</p></details>
+   Link:<a href="https://ivanbertotto.it/o/wikilux/?lang=en&amp;q=Exeter+incident" target="_blank" rel="noopener noreferrer nofollow">https://ivanbertotto.it/o/wikilux/?lang=en&amp;q=Exeter+incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter_incident — WikiLux - ivanbertotto.itThe Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thebiggeststudy.blogspot.com  
    Title: recent fuss about exeter case  
-   Link: <a href="https://thebiggeststudy.blogspot.com/2012/04/recent-fuss-about-exeter-case.html" target="_blank" rel="noopener noreferrer nofollow">https://thebiggeststudy.blogspot.com/2012/04/recent-fuss-about-exeter-case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>case and included it as a foundational example in his The UFO Experience. The case was judged as having credible multiple witnesses [by...</p></details>
+   Link:<a href="https://thebiggeststudy.blogspot.com/2012/04/recent-fuss-about-exeter-case.html" target="_blank" rel="noopener noreferrer nofollow">https://thebiggeststudy.blogspot.com/2012/04/recent-fuss-about-exeter-case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>case and included it as a foundational example in his The UFO Experience. The case was judged as having credible multiple witnesses [by...</p></details>

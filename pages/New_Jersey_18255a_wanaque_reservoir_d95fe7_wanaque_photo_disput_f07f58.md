@@ -250,18 +250,18 @@ image: /assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_d
 
 ## Introduction
 
-The most disputed part of the [Wanaque]({{ 'wanaque/' | relative_url }}) Reservoir UFO story is not the witness testimony but the photographs. Later retellings often treated a small group of dramatic images as visual proof that something extraordinary appeared over the reservoir in 1966. The best known pictures show a bright object apparently projecting a beam of light towards the ground or water. Yet the closer researchers examined the photographs, the less certain their history became. Dates shifted, locations changed, photographers remained anonymous, and some of the people who promoted the images were themselves accused of spreading unreliable UFO material. As a result, the Wanaque beam photographs became a lesson in how striking images can complicate a case rather than strengthen it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+The most disputed part of the [Wanaque]({{ 'wanaque/' | relative_url }}) Reservoir UFO story is not the witness testimony but the photographs. Later retellings often treated a small group of dramatic images as visual proof that something extraordinary appeared over the reservoir in 1966. The best known pictures show a bright object apparently projecting a beam of light towards the ground or water. Yet the closer researchers examined the photographs, the less certain their history became. Dates shifted, locations changed, photographers remained anonymous, and some of the people who promoted the images were themselves accused of spreading unreliable UFO material. As a result, the Wanaque beam photographs became a lesson in how striking images can complicate a case rather than strengthen it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-1-dark.svg" | relative_url }}" alt="Photo dispute illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within New Jersey UFO history, the photographs matter because they helped transform a local reservoir flap into a lasting legend. At the same time, the controversy surrounding them has become one of the strongest arguments for treating the Wanaque case cautiously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+Within New Jersey UFO history, the photographs matter because they helped transform a local reservoir flap into a lasting legend. At the same time, the controversy surrounding them has become one of the strongest arguments for treating the Wanaque case cautiously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 ## How the beam photographs entered the story
 
-The images most often associated with Wanaque show a luminous disc-like form against a dark background with what appears to be a downward beam or spotlight. By the late 1960s these photographs were circulating in UFO publications and were increasingly linked to the reservoir sightings. Some publications implied that police officers or reservoir personnel had photographed the object during the height of the flap. Others suggested the pictures had been suppressed, confiscated or hidden from the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+The images most often associated with Wanaque show a luminous disc-like form against a dark background with what appears to be a downward beam or spotlight. By the late 1960s these photographs were circulating in UFO publications and were increasingly linked to the reservoir sightings. Some publications implied that police officers or reservoir personnel had photographed the object during the height of the flap. Others suggested the pictures had been suppressed, confiscated or hidden from the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-The problem is that these claims rarely came with solid documentation. Research by UFO photograph historian Vicente-Juan Ballester Olmos found that accounts of who took the photographs, when they were taken and where they originated often contradicted one another. Some publications connected them directly to January 1966 sightings at Wanaque. Other versions placed them elsewhere and at different times. The photographs appeared repeatedly in UFO literature, but the supporting information remained unstable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+The problem is that these claims rarely came with solid documentation. Research by UFO photograph historian Vicente-Juan Ballester Olmos found that accounts of who took the photographs, when they were taken and where they originated often contradicted one another. Some publications connected them directly to January 1966 sightings at Wanaque. Other versions placed them elsewhere and at different times. The photographs appeared repeatedly in UFO literature, but the supporting information remained unstable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-One reason the images gained influence was that they seemed to match some later descriptions of unusual lights or beam-like effects reported around the reservoir. Reservoir police chief John Casazza later described seeing a bright, funnel-shaped light spreading outward near the dam area, testimony that some UFO writers used to argue that the photographs reflected a real event. Even here, however, the connection was retrospective rather than firmly documented at the time the photographs first circulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+One reason the images gained influence was that they seemed to match some later descriptions of unusual lights or beam-like effects reported around the reservoir. Reservoir police chief John Casazza later described seeing a bright, funnel-shaped light spreading outward near the dam area, testimony that some UFO writers used to argue that the photographs reflected a real event. Even here, however, the connection was retrospective rather than firmly documented at the time the photographs first circulated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tn9u4Pq0l20" title="UFOs in New Jersey?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tn9u4Pq0l20" target="_blank" rel="noopener noreferrer">UFOs in New Jersey?</a></p><p class="youtube-embed-meta">Channel: MyRadar Weather News &middot; Views: 16.4K &middot; Uploaded: December 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tn9u4Pq0l20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tn9u4Pq0l20">Open on YouTube</a></p></div></div></div>
 
@@ -269,7 +269,7 @@ One reason the images gained influence was that they seemed to match some later 
 
 The central weakness of the beam photographs is provenance: researchers cannot establish a clear, documented chain from the original photographer to the published images.
 
-A major figure in the story is August C. Roberts, a New Jersey UFO enthusiast who helped distribute and publicise the photographs. Roberts repeatedly appeared in accounts surrounding the images, but later investigators criticised his reliability. Ballester Olmos noted that Roberts had a reputation for promoting dubious material and that even sympathetic UFO researchers questioned his handling of evidence. Michael Swords reportedly described him as a "UFO mischief-maker" with little regard for factual accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+A major figure in the story is August C. Roberts, a New Jersey UFO enthusiast who helped distribute and publicise the photographs. Roberts repeatedly appeared in accounts surrounding the images, but later investigators criticised his reliability. Ballester Olmos noted that Roberts had a reputation for promoting dubious material and that even sympathetic UFO researchers questioned his handling of evidence. Michael Swords reportedly described him as a "UFO mischief-maker" with little regard for factual accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 The confusion becomes more serious when the photographs' origins are examined.
 
@@ -278,22 +278,22 @@ The confusion becomes more serious when the photographs' origins are examined.
 * Some published versions claimed the images were taken at Wanaque in 1966.
 * Other accounts stated that at least some of the same images came from Pennsylvania and dated to 1958 or 1961.
 * Different publications printed conflicting captions for apparently identical photographs.
-* No universally accepted original negatives have ever emerged for independent examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+* No universally accepted original negatives have ever emerged for independent examination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 </div>
 
-Ballester Olmos traced links between the photographs and stories involving anonymous witnesses, unnamed intermediaries and contactee-era UFO circles associated with Howard Menger, one of the most famous and controversial UFO contactees of the 1950s. He argued that elements of the photographs resembled imagery found in known UFO hoaxes and staged productions from that period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+Ballester Olmos traced links between the photographs and stories involving anonymous witnesses, unnamed intermediaries and contactee-era UFO circles associated with Howard Menger, one of the most famous and controversial UFO contactees of the 1950s. He argued that elements of the photographs resembled imagery found in known UFO hoaxes and staged productions from that period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-These provenance problems mean that even researchers interested in UFO reports often separate the witness accounts from the photographic claims. The reservoir sightings may be debated on their own merits, but the photographs carry an additional burden because their documentary history is so uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+These provenance problems mean that even researchers interested in UFO reports often separate the witness accounts from the photographic claims. The reservoir sightings may be debated on their own merits, but the photographs carry an additional burden because their documentary history is so uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-2-dark.svg" | relative_url }}" alt="Photo dispute illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Claude Coutant identification debate
 
-A new chapter emerged in 2017 when UFO writer Anthony Bragalia announced that he believed he had finally identified the long-anonymous photographer. According to his investigation, the pictures were taken by Claude Coutant, a factory worker from the Wanaque area. Bragalia published scans of prints said to originate from Coutant and argued that they represented genuine photographs connected to the reservoir events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoexplorations.com/copy-of-home-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-snippet">UFO Explorations &#124; The Wonder at WanaqueClaude Coutant was the name of the individual who took at least five photos of the...</span></span></span>
+A new chapter emerged in 2017 when UFO writer Anthony Bragalia announced that he believed he had finally identified the long-anonymous photographer. According to his investigation, the pictures were taken by Claude Coutant, a factory worker from the Wanaque area. Bragalia published scans of prints said to originate from Coutant and argued that they represented genuine photographs connected to the reservoir events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoexplorations.com/copy-of-home-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-snippet">UFO Explorations &#124; The Wonder at WanaqueClaude Coutant was the name of the individual who took at least five photos of the...</span></span></span>
 
-This appeared at first to solve a decades-old mystery. Yet the identification itself depended largely on second-hand testimony passed through intermediaries. According to Ballester Olmos's review, the attribution rested on information provided by an unnamed local source who had heard the story from Coutant's former fiancée. By that point both Coutant and the fiancée were deceased, preventing direct verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+This appeared at first to solve a decades-old mystery. Yet the identification itself depended largely on second-hand testimony passed through intermediaries. According to Ballester Olmos's review, the attribution rested on information provided by an unnamed local source who had heard the story from Coutant's former fiancée. By that point both Coutant and the fiancée were deceased, preventing direct verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-The result is an unusual situation. The photographs may now have a plausible named photographer, but the evidence for that attribution remains indirect. Rather than ending the controversy, the identification created a new debate about whether the chain of testimony is strong enough to establish authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+The result is an unusual situation. The photographs may now have a plausible named photographer, but the evidence for that attribution remains indirect. Rather than ending the controversy, the identification created a new debate about whether the chain of testimony is strong enough to establish authenticity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4uPagcaUXjs" title="UFO or drone? Fear grows over mysterious aircraft in New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4uPagcaUXjs" target="_blank" rel="noopener noreferrer">UFO or drone? Fear grows over mysterious aircraft in New Jersey</a></p><p class="youtube-embed-meta">Channel: FOX 5 New York &middot; Views: 548.5K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4uPagcaUXjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4uPagcaUXjs">Open on YouTube</a></p></div></div></div>
 
@@ -301,212 +301,212 @@ The result is an unusual situation. The photographs may now have a plausible nam
 
 Part of the photographs' appeal comes from the apparent beam of light extending from the object. Popular retellings often suggest that witnesses saw a craft directing energy into the reservoir, cutting through ice or illuminating the water.
 
-The historical record is less dramatic. One recurring story claimed that a beam created a hole in the ice. Later examinations found little support for that version. Ballester Olmos noted that reservoir police chief Casazza rejected the famous hole-in-the-ice story, while UFO organisation NICAP reported that engineer Fred Stein had merely described a reflection of light on the ice. According to later commentary, misunderstanding and repetition transformed that description into a far more spectacular claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+The historical record is less dramatic. One recurring story claimed that a beam created a hole in the ice. Later examinations found little support for that version. Ballester Olmos noted that reservoir police chief Casazza rejected the famous hole-in-the-ice story, while UFO organisation NICAP reported that engineer Fred Stein had merely described a reflection of light on the ice. According to later commentary, misunderstanding and repetition transformed that description into a far more spectacular claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-Casazza's own reported account described a stationary bright light and a broad funnel-shaped illumination near the reservoir. That testimony remains part of the witness record, but it does not automatically validate the photographs. A witness report and a photograph can appear to support each other while actually originating from different events, different dates or different sources. That possibility is one reason historians of the case continue to treat the beam imagery cautiously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+Casazza's own reported account described a stationary bright light and a broad funnel-shaped illumination near the reservoir. That testimony remains part of the witness record, but it does not automatically validate the photographs. A witness report and a photograph can appear to support each other while actually originating from different events, different dates or different sources. That possibility is one reason historians of the case continue to treat the beam imagery cautiously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-3-dark.svg" | relative_url }}" alt="Photo dispute illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_wanaque_photo_disput_f07f58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why doubtful images shaped the folklore
 
-The beam photographs survived because they supplied something witness testimony alone could not: a memorable visual symbol. Most people who know the Wanaque story have never read the original reports or police accounts, but many have seen reproductions of the beam image in books, magazines or online articles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+The beam photographs survived because they supplied something witness testimony alone could not: a memorable visual symbol. Most people who know the Wanaque story have never read the original reports or police accounts, but many have seen reproductions of the beam image in books, magazines or online articles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-Ironically, the photographs may have weakened the case's credibility among researchers. The reservoir sightings themselves involve multiple witnesses, local police involvement and a genuine historical flap. The photographs, by contrast, are surrounded by conflicting dates, disputed locations, anonymous sources and possible links to known hoaxing traditions within 1950s contactee culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+Ironically, the photographs may have weakened the case's credibility among researchers. The reservoir sightings themselves involve multiple witnesses, local police involvement and a genuine historical flap. The photographs, by contrast, are surrounded by conflicting dates, disputed locations, anonymous sources and possible links to known hoaxing traditions within 1950s contactee culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-This tension explains why the images remain important. They demonstrate how UFO folklore develops. A dramatic picture acquires a famous location, becomes attached to witness stories, gains new details through repetition and eventually appears inseparable from the event itself. Once that process begins, later researchers face the difficult task of separating what was actually reported from what was added afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+This tension explains why the images remain important. They demonstrate how UFO folklore develops. A dramatic picture acquires a famous location, becomes attached to witness stories, gains new details through repetition and eventually appears inseparable from the event itself. Once that process begins, later researchers face the difficult task of separating what was actually reported from what was added afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-In the broader history of New Jersey UFO reports, the Wanaque beam photographs are therefore significant less as evidence of a craft and more as evidence of how UFO narratives evolve. The images remain famous, but their uncertain origins have become one of the strongest reasons not to treat them as proof of anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
+In the broader history of New Jersey UFO reports, the Wanaque beam photographs are therefore significant less as evidence of a craft and more as evidence of how UFO narratives evolve. The images remain famous, but their uncertain origins have become one of the strongest reasons not to treat them as proof of anything extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HwjVXsVxsWQ" title="60 Eerie Declassified UFO Photos From The &#x27;60s, this is so rare.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HwjVXsVxsWQ" target="_blank" rel="noopener noreferrer">60 Eerie Declassified UFO Photos From The &#x27;60s, this is so rare..</a></p><p class="youtube-embed-meta">Channel: Vintage TV Shows &middot; Views: 1.2K &middot; Uploaded: August 2023 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HwjVXsVxsWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HwjVXsVxsWQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Wanaque photos prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Wanaque photos prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Relevant to disputed photographic evidence and belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Relevant to disputed photographic evidence and belief formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains how controversial images shape UFO folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how controversial images shape UFO folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for evidence controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for evidence controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Photographs+of+the+Unknown+by+Robert+J.+M.+Rickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photographs of the Unknown on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Photographs+of+the+Unknown+by+Robert+J.+M.+Rickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photographs of the Unknown">Photographs of the Unknown</a>
-        </h4>
-        <p class="fr-book-author">By Robert J. M. Rickard, Richard Kelly</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Photographs+of+the+Unknown+by+Robert+J.+M.+Rickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photographs of the Unknown on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Photographs+of+the+Unknown+by+Robert+J.+M.+Rickard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photographs of the Unknown">Photographs of the Unknown</a>
+</h4>
+<p class="fr-book-author">By Robert J. M. Rickard, Richard Kelly</p>
         
-        <p class="fr-book-desc">Directly relates to disputed UFO imagery and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Photographs+of+the+Unknown+by+Robert+J.+M.+Rickard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to disputed UFO imagery and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Photographs+of+the+Unknown+by+Robert+J.+M.+Rickard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-wanaque-photos-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-the-wanaque-photos-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ In the broader history of New Jersey UFO reports, the Wanaque beam photographs a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ In the broader history of New Jersey UFO reports, the Wanaque beam photographs a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ In the broader history of New Jersey UFO reports, the Wanaque beam photographs a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ In the broader history of New Jersey UFO reports, the Wanaque beam photographs a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ In the broader history of New Jersey UFO reports, the Wanaque beam photographs a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,77 +712,77 @@ In the broader history of New Jersey UFO reports, the Wanaque beam photographs a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
    Title: THE WANAQUE RESERVOIR 1966 UFO PICTURES  
-   Link: <a href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</p></details>
+   Link:<a href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufoexplorations.com  
-   Link: <a href="https://www.ufoexplorations.com/copy-of-home-1" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/copy-of-home-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Explorations | The Wonder at WanaqueClaude Coutant was the name of the individual who took at least five photos of the...</p></details>
+   Link:<a href="https://www.ufoexplorations.com/copy-of-home-1" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/copy-of-home-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Explorations | The Wonder at WanaqueClaude Coutant was the name of the individual who took at least five photos of the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufoexplorations.com  
    Title: witness to wanaque great mass ufo  
-   Link: <a href="https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On a clear and cold mid-winter night, the community was infiltrated and &quot;beamed upon&quot; by rays that...Read more...</p></details>
+   Link:<a href="https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On a clear and cold mid-winter night, the community was infiltrated and &quot;beamed upon&quot; by rays that...Read more...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/GoodOlHaskell/posts/10158460141006234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GoodOlHaskell/posts/10158460141006234/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanaque UFO sightings 55 years ago presentationUFO sightings over Wanaque Reservoir in the 60&#x27;s-70&#x27;s? · Wanaque, NJ reservoir ufo inciden...</p></details>
+   Link:<a href="https://www.facebook.com/groups/GoodOlHaskell/posts/10158460141006234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GoodOlHaskell/posts/10158460141006234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanaque UFO sightings 55 years ago presentationUFO sightings over Wanaque Reservoir in the 60&#x27;s-70&#x27;s? · Wanaque, NJ reservoir ufo inciden...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dailyvoice.com  
    Title: 50 years later wanaque reservoir ufo photographer identified  
-   Link: <a href="https://dailyvoice.com/nj/west-milford/news/50-years-later-wanaque-reservoir-ufo-photographer-identified/724531/" target="_blank" rel="noopener noreferrer nofollow">https://dailyvoice.com/nj/west-milford/news/50-years-later-wanaque-reservoir-ufo-photographer-identified/724531/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Later, Wanaque Reservoir UFO Photographer...18 Oct 2017 — A once-anonymous photographer who 50 years ago snapped a shot of what...</p></details>
+   Link:<a href="https://dailyvoice.com/nj/west-milford/news/50-years-later-wanaque-reservoir-ufo-photographer-identified/724531/" target="_blank" rel="noopener noreferrer nofollow">https://dailyvoice.com/nj/west-milford/news/50-years-later-wanaque-reservoir-ufo-photographer-identified/724531/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Later, Wanaque Reservoir UFO Photographer...18 Oct 2017 — A once-anonymous photographer who 50 years ago snapped a shot of what...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: docs.preterhuman.net  
    Title: What Happened At Wanaque, N.J. (An Objective Look At UFOs)  
-   Link: <a href="https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29" target="_blank" rel="noopener noreferrer nofollow">https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Happened At Wanaque, N.J. (An Objective Look...17 Jan 2025 — Over the lonely mountains surrounding the Wanaque Reservoir rose a strange...</p></details>
+   Link:<a href="https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29" target="_blank" rel="noopener noreferrer nofollow">https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Happened At Wanaque, N.J. (An Objective Look...17 Jan 2025 — Over the lonely mountains surrounding the Wanaque Reservoir rose a strange...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894the Wanaque Reservoir will pro- Paterson, Totowa, Wayne and vide an ~mple... a controversial 1965 UFO photo previously disc...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894the Wanaque Reservoir will pro- Paterson, Totowa, Wayne and vide an ~mple... a controversial 1965 UFO photo previously disc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oir.” Cisco sped to the scene where he reported seeing a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oir.” Cisco sped to the scene where he reported seeing a...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newspapers.com  
    Title: the daily courier another wanaque ufo cl  
-   Link: <a href="https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Another Wanaque UFO CLip from 1966! What a year!Clipping found in The Daily Courier published in Connellsville, Pennsylvania on 5/6/1968...</p></details>
+   Link:<a href="https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Another Wanaque UFO CLip from 1966! What a year!Clipping found in The Daily Courier published in Connellsville, Pennsylvania on 5/6/1968...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/eiqy1y/sighting_over_wanaque_reservoir_near_oakland_nj/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/eiqy1y/sighting_over_wanaque_reservoir_near_oakland_nj/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>round 1230 pm. I&#x27;ve always had an interest in UFOs but...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/eiqy1y/sighting_over_wanaque_reservoir_near_oakland_nj/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/eiqy1y/sighting_over_wanaque_reservoir_near_oakland_nj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>round 1230 pm. I&#x27;ve always had an interest in UFOs but...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fotocat.blogspot.com  
-   Link: <a href="https://fotocat.blogspot.com/2017_12_26_archive.html" target="_blank" rel="noopener noreferrer nofollow">https://fotocat.blogspot.com/2017_12_26_archive.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FOTOCAT BLOG: 2017/12/2626 Dec 2017 — THE WANAQUE RESERVOIR 1966 UFO PICTURES. By Vicente-Juan Ballester... UFO shots associated wit...</p></details>
+   Link:<a href="https://fotocat.blogspot.com/2017_12_26_archive.html" target="_blank" rel="noopener noreferrer nofollow">https://fotocat.blogspot.com/2017_12_26_archive.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FOTOCAT BLOG: 2017/12/2626 Dec 2017 — THE WANAQUE RESERVOIR 1966 UFO PICTURES. By Vicente-Juan Ballester... UFO shots associated wit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theufochronicles.com  
    Title: witness to wanaque greastest mass ufo  
-   Link: <a href="https://www.theufochronicles.com/2011/06/witness-to-wanaque-greastest-mass-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2011/06/witness-to-wanaque-greastest-mass-ufo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On a clear and cold mid-winter night, the community was infiltrated and “beamed...Read more...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2011/06/witness-to-wanaque-greastest-mass-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2011/06/witness-to-wanaque-greastest-mass-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On a clear and cold mid-winter night, the community was infiltrated and “beamed...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: DWsyuh El K p  
-   Link: <a href="https://www.instagram.com/p/DWsyuhElK-p/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWsyuhElK-p/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the winter of 1966, over Wanaque Reservoir in New...In the winter of 1966, strange lights over New Jersey&#x27;s Wanaque Reservoir sparked...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWsyuhElK-p/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWsyuhElK-p/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the winter of 1966, over Wanaque Reservoir in New...In the winter of 1966, strange lights over New Jersey&#x27;s Wanaque Reservoir sparked...</p></details>

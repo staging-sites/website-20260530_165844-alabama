@@ -250,14 +250,14 @@ image: /assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods
 
 ## Introduction
 
-The [Flatwoods]({{ 'flatwoods/' | relative_url }}) Monster story remains famous largely because the witnesses were real, named people rather than anonymous figures in folklore. On the evening of 12 September 1952, a small group from the Flatwoods area of Braxton County reported seeing a frightening figure after investigating what appeared to be a bright object crossing the sky. Their fear was immediate, their story reached local authorities and newspapers quickly, and most of the key witnesses stood by the core claim for years. That gives the case more weight than many UFO legends built on rumours or second-hand accounts. At the same time, the actual sighting lasted only moments, happened at night, and occurred after the group had already become alarmed by what they thought was a crash. Those conditions make eyewitness error a serious possibility even if every witness was acting honestly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
+The [Flatwoods]({{ 'flatwoods/' | relative_url }}) Monster story remains famous largely because the witnesses were real, named people rather than anonymous figures in folklore. On the evening of 12 September 1952, a small group from the Flatwoods area of Braxton County reported seeing a frightening figure after investigating what appeared to be a bright object crossing the sky. Their fear was immediate, their story reached local authorities and newspapers quickly, and most of the key witnesses stood by the core claim for years. That gives the case more weight than many UFO legends built on rumours or second-hand accounts. At the same time, the actual sighting lasted only moments, happened at night, and occurred after the group had already become alarmed by what they thought was a crash. Those conditions make eyewitness error a serious possibility even if every witness was acting honestly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
 
 <img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_witness_re_1c25ca-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_witness_re_1c25ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_witness_re_1c25ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within West Virginia UFO history, the witness question is therefore more important than the monster itself. The central issue is not whether the group invented a story, but whether frightened observers in poor viewing conditions accurately interpreted what they saw.
 
 ## Who was on the hill that night?
 
-The main witness group consisted of local children and teenagers, joined by Kathleen May, who is often described as the principal adult witness, and Eugene Lemon, a young National Guard member. After reports of a bright object descending beyond a nearby hill, the group walked towards the area to investigate. Their names appeared in contemporary reporting and later retellings, which helped distinguish the case from anonymous campfire stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
+The main witness group consisted of local children and teenagers, joined by Kathleen May, who is often described as the principal adult witness, and Eugene Lemon, a young National Guard member. After reports of a bright object descending beyond a nearby hill, the group walked towards the area to investigate. Their names appeared in contemporary reporting and later retellings, which helped distinguish the case from anonymous campfire stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
 
 Several features of the witness group tend to strengthen perceptions of sincerity:
 
@@ -265,9 +265,9 @@ Several features of the witness group tend to strengthen perceptions of sincerit
 * Their accounts emerged within a known time and place.
 * Local newspapers and investigators were able to identify them.
 * Some witnesses appeared genuinely distressed after the encounter.
-* The broad outline of the story remained recognisable across later decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
+* The broad outline of the story remained recognisable across later decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
 
-Supporters of the case often point to Eugene Lemon's reaction. Accounts describe him becoming physically shaken after the sighting, and later retellings frequently mention symptoms associated with shock. Believers argue that such reactions are difficult to fake convincingly. Sceptics counter that intense fear proves only that the witnesses were frightened, not that their interpretation of what they saw was correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Just a guess: r/CryptozoologyAn owl has actually been the top theory for the Flatwoods monster and Mothman for quite a long time...</span></span></span>
+Supporters of the case often point to Eugene Lemon's reaction. Accounts describe him becoming physically shaken after the sighting, and later retellings frequently mention symptoms associated with shock. Believers argue that such reactions are difficult to fake convincingly. Sceptics counter that intense fear proves only that the witnesses were frightened, not that their interpretation of what they saw was correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Just a guess: r/CryptozoologyAn owl has actually been the top theory for the Flatwoods monster and Mothman for quite a long time...</span></span></span>
 
 The witnesses also varied in age. Several were children, which can cut in two directions when assessing reliability. Children may be more susceptible to suggestion, fear and misinterpretation. On the other hand, multiple young witnesses independently describing a frightening experience can make deliberate fabrication less likely. The challenge is separating honesty from accuracy.
 
@@ -277,7 +277,7 @@ The witnesses also varied in age. Several were children, which can cut in two di
 
 The strongest limitation on witness reliability is the short duration of the encounter itself.
 
-According to the most widely cited accounts, the group reached the hill, noticed a pulsating light and then became aware of a large figure illuminated by their flashlight. They fled almost immediately after seeing it. The observation was therefore brief, occurring under darkness and stress rather than during a prolonged inspection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
+According to the most widely cited accounts, the group reached the hill, noticed a pulsating light and then became aware of a large figure illuminated by their flashlight. They fled almost immediately after seeing it. The observation was therefore brief, occurring under darkness and stress rather than during a prolonged inspection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
 
 This matters because eyewitness reliability depends heavily on conditions. Researchers who study perception consistently find that darkness, surprise and fear reduce accuracy. People can become very confident about details that were never clearly visible.
 
@@ -289,11 +289,11 @@ Several aspects of the Flatwoods description appear vulnerable to this problem:
 * Witnesses described a floating or gliding motion.
 * The shape of the head became increasingly distinctive in later illustrations.
 * Reported colours and textures varied between retellings.
-* The entire figure was seen against a dark background with limited illumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
+* The entire figure was seen against a dark background with limited illumination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
 
 </div>
 
-The famous image of the Flatwoods Monster—a towering figure with a spade-shaped head and glowing eyes—was created after the event from witness descriptions. It was not directly photographed. As often happens in UFO and cryptid cases, the drawing became more familiar than the original eyewitness observations and may have helped standardise memories over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ballyraven.com">[Ballyraven]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ballyraven.com</span><span class="citation-popover-snippet">Flatwoods Monster &#124; Ballyraven, the Cryptozoologist&#x27;s Field...Tape-recorded interviews of the witnesses were created by Gray B...</span></span></span>
+The famous image of the Flatwoods Monster—a towering figure with a spade-shaped head and glowing eyes—was created after the event from witness descriptions. It was not directly photographed. As often happens in UFO and cryptid cases, the drawing became more familiar than the original eyewitness observations and may have helped standardise memories over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ballyraven.com">[Ballyraven]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ballyraven.com</span><span class="citation-popover-snippet">Flatwoods Monster &#124; Ballyraven, the Cryptozoologist&#x27;s Field...Tape-recorded interviews of the witnesses were created by Gray B...</span></span></span>
 
 Another important detail is that the witnesses approached the hill already expecting to find something unusual. They believed a fiery object had come down nearby. Once people anticipate discovering a crash, aircraft or unknown object, ambiguous sights can take on greater significance. That does not mean the witnesses imagined everything; it means their expectations may have shaped interpretation.
 
@@ -302,7 +302,7 @@ Another important detail is that the witnesses approached the hill already expec
 
 One of the most common misunderstandings about the Flatwoods case is the idea that sceptical explanations require the witnesses to have lied.
 
-Most sceptical investigators argue the opposite. They generally accept that the group saw something real and experienced genuine fear. The dispute concerns what that real object was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
+Most sceptical investigators argue the opposite. They generally accept that the group saw something real and experienced genuine fear. The dispute concerns what that real object was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
 
 The best-known explanation combines several ordinary events:
 
@@ -310,13 +310,13 @@ The best-known explanation combines several ordinary events:
 2. The witnesses interpreted the fireball as a nearby landing.
 3. On the hill, they encountered an owl perched in a tree.
 4. Shadows, foliage and flashlight beams distorted the apparent size and shape.
-5. Fear amplified the impression of a giant creature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Flatwoods monsterThe Flatwoods monster in West Virginia folklore, is a creature reported to have been sighted in the town of Flatwoods in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
+5. Fear amplified the impression of a giant creature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Flatwoods monsterThe Flatwoods monster in West Virginia folklore, is a creature reported to have been sighted in the town of Flatwoods in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
 
-Joe Nickell's investigation for *Skeptical Inquirer* became one of the most influential versions of this argument. He suggested that a large owl on a branch, combined with surrounding vegetation and poor visibility, could account for the glowing eyes, claw-like hands, apparent hood shape and sudden frightening appearance. Barn owls are also capable of producing hissing sounds that fit parts of the witness description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — &quot;monster&quot; was probably &quot;a large owl perched on a limb&quot; with underbrush beneath it having &quot;given the...</span></span></span>
+Joe Nickell's investigation for *Skeptical Inquirer* became one of the most influential versions of this argument. He suggested that a large owl on a branch, combined with surrounding vegetation and poor visibility, could account for the glowing eyes, claw-like hands, apparent hood shape and sudden frightening appearance. Barn owls are also capable of producing hissing sounds that fit parts of the witness description.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — &quot;monster&quot; was probably &quot;a large owl perched on a limb&quot; with underbrush beneath it having &quot;given the...</span></span></span>
 
 What makes this explanation notable is that it does not dismiss the witnesses as unreliable people. Instead, it argues that reliable people can make unreliable identifications under difficult conditions.
 
-That distinction is crucial. Courts, accident investigators and psychologists all recognise that sincere eyewitnesses can misjudge distance, size, speed and even the identity of objects when observations are brief and unexpected. The Flatwoods encounter contains many of the conditions known to increase those risks: darkness, emotional arousal, group dynamics and limited viewing time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
+That distinction is crucial. Courts, accident investigators and psychologists all recognise that sincere eyewitnesses can misjudge distance, size, speed and even the identity of objects when observations are brief and unexpected. The Flatwoods encounter contains many of the conditions known to increase those risks: darkness, emotional arousal, group dynamics and limited viewing time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6tRUvtyAMOg" title="Flatwoods Monster Solved!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer">Flatwoods Monster Solved!</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer &middot; Views: 287.8K &middot; Uploaded: March 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6tRUvtyAMOg">Open on YouTube</a></p></div></div></div>
 
@@ -324,9 +324,9 @@ That distinction is crucial. Courts, accident investigators and psychologists al
 
 Later interviews added colour to the story but did not necessarily strengthen its evidential value.
 
-As decades passed, witnesses and researchers revisited the incident through books, documentaries and interviews. Some descriptions became more detailed than the earliest newspaper accounts. This is common in famous UFO cases but creates a problem for historians. Human memory is not a recording device. Memories often change as people retell experiences, hear other versions of the story or see artistic reconstructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ballyraven.com">[Ballyraven]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ballyraven.com</span><span class="citation-popover-snippet">Flatwoods Monster &#124; Ballyraven, the Cryptozoologist&#x27;s Field...Tape-recorded interviews of the witnesses were created by Gray B...</span></span></span>
+As decades passed, witnesses and researchers revisited the incident through books, documentaries and interviews. Some descriptions became more detailed than the earliest newspaper accounts. This is common in famous UFO cases but creates a problem for historians. Human memory is not a recording device. Memories often change as people retell experiences, hear other versions of the story or see artistic reconstructions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ballyraven.com">[Ballyraven]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ballyraven.com</span><span class="citation-popover-snippet">Flatwoods Monster &#124; Ballyraven, the Cryptozoologist&#x27;s Field...Tape-recorded interviews of the witnesses were created by Gray B...</span></span></span>
 
-Some later discussions also introduced disagreements over exactly what had been seen. Accounts circulated that Kathleen May eventually favoured a more conventional explanation involving an aircraft or military activity rather than a literal monster, although the details of these claims vary across sources. The existence of such disputes illustrates how difficult it is to treat decades-later recollections as stronger evidence than statements made immediately after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">flat woods monster of west virginia</span><span class="citation-popover-snippet">Flat woods Monster of West Virginia: r/CryptozoologyNovember 11, 2020 — Can we discuss the eye witness accounts that changed their...</span><span class="citation-popover-meta">Published: November 11, 2020</span></span></span>
+Some later discussions also introduced disagreements over exactly what had been seen. Accounts circulated that Kathleen May eventually favoured a more conventional explanation involving an aircraft or military activity rather than a literal monster, although the details of these claims vary across sources. The existence of such disputes illustrates how difficult it is to treat decades-later recollections as stronger evidence than statements made immediately after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">flat woods monster of west virginia</span><span class="citation-popover-snippet">Flat woods Monster of West Virginia: r/CryptozoologyNovember 11, 2020 — Can we discuss the eye witness accounts that changed their...</span><span class="citation-popover-meta">Published: November 11, 2020</span></span></span>
 
 For historians of West Virginia UFO reports, the earliest accounts generally carry the greatest weight because they were recorded closest to the sighting itself.
 
@@ -336,203 +336,203 @@ For historians of West Virginia UFO reports, the earliest accounts generally car
 
 The Flatwoods witnesses score relatively well on some measures of credibility and poorly on others.
 
-Reasons to take them seriously include their immediate reporting, identifiable names, apparent sincerity and the consistency of the basic narrative. Unlike many later UFO legends, there was a real group of local people describing a specific event on a specific night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
+Reasons to take them seriously include their immediate reporting, identifiable names, apparent sincerity and the consistency of the basic narrative. Unlike many later UFO legends, there was a real group of local people describing a specific event on a specific night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
 
-Reasons for caution are equally significant. The encounter was short, happened after dark, followed an already alarming celestial event and involved observers who were frightened before they reached the hilltop. No photograph, physical specimen or independently verified material evidence emerged that could confirm the extraordinary interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
+Reasons for caution are equally significant. The encounter was short, happened after dark, followed an already alarming celestial event and involved observers who were frightened before they reached the hilltop. No photograph, physical specimen or independently verified material evidence emerged that could confirm the extraordinary interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span>
 
-The most balanced conclusion is that the witnesses were probably honest but not necessarily accurate. Their testimony strongly supports the claim that something frightened a group of people in Flatwoods on 12 September 1952. It is much weaker as evidence that they encountered an extraterrestrial being or unknown creature. That tension between sincere witnesses and uncertain identification is precisely why the Flatwoods Monster remains one of the most discussed cases in West Virginia's UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
+The most balanced conclusion is that the witnesses were probably honest but not necessarily accurate. Their testimony strongly supports the claim that something frightened a group of people in Flatwoods on 12 September 1952. It is much weaker as evidence that they encountered an extraterrestrial being or unknown creature. That tension between sincere witnesses and uncertain identification is precisely why the Flatwoods Monster remains one of the most discussed cases in West Virginia's UFO history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster</span><span class="citation-popover-snippet">Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</span></span></span>
 
 <img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_witness_re_1c25ca-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_witness_re_1c25ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_witness_re_1c25ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How reliable were the Flatwoods witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How reliable were the Flatwoods witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Explores reliability, memory and testimony in a famous UFO case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reliability, memory and testimony in a famous UFO case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Examines recurring patterns in witness accounts and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines recurring patterns in witness accounts and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly relevant to assessing sincere but potentially mistaken eyewitness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to assessing sincere but potentially mistaken eyewitness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
         
-        <p class="fr-book-desc">Contains extensive discussion of witnesses, reports and evolving folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains extensive discussion of witnesses, reports and evolving folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-flatwoods-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-reliable-were-the-flatwoods-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ The most balanced conclusion is that the witnesses were probably honest but not 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ The most balanced conclusion is that the witnesses were probably honest but not 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ The most balanced conclusion is that the witnesses were probably honest but not 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ The most balanced conclusion is that the witnesses were probably honest but not 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ The most balanced conclusion is that the witnesses were probably honest but not 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,164 +738,164 @@ The most balanced conclusion is that the witnesses were probably honest but not 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wvencyclopedia.org  
-   Link: <a href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/articles/2192</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</p></details>
+   Link:<a href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/articles/2192</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster8 Feb 2024 — Turning their own flashlight in that direction, they saw a large man-like creature nearly 12 feet tall and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods monsterThe Flatwoods monster in West Virginia folklore, is a creature reported to have been sighted in the town of Flatwoods in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods monsterThe Flatwoods monster in West Virginia folklore, is a creature reported to have been sighted in the town of Flatwoods in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just a guess: r/CryptozoologyAn owl has actually been the top theory for the Flatwoods monster and [Mothman](&amp;#123;&amp;#123; &#x27;mothman/&#x27; | relative_url &amp;#125;&amp;#125;) for quite a long time...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just a guess: r/CryptozoologyAn owl has actually been the top theory for the Flatwoods monster and [Mothman](&amp;#123;&amp;#123; &#x27;mothman/&#x27; | relative_url &amp;#125;&amp;#125;) for quite a long time...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ballyraven.com  
-   Link: <a href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.ballyraven.com/encyclopedia/flatwoods-monster</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster | Ballyraven, the Cryptozoologist&#x27;s Field...Tape-recorded interviews of the witnesses were created by Gray B...</p></details>
+   Link:<a href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.ballyraven.com/encyclopedia/flatwoods-monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster | Ballyraven, the Cryptozoologist&#x27;s Field...Tape-recorded interviews of the witnesses were created by Gray B...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods UFO Monster1 Jun 2000 — &quot;monster&quot; was probably &quot;a large owl perched on a limb&quot; with underbrush beneath it having &quot;given the...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods UFO Monster1 Jun 2000 — &quot;monster&quot; was probably &quot;a large owl perched on a limb&quot; with underbrush beneath it having &quot;given the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: flat woods monster of west virginia  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flat woods Monster of West Virginia: r/CryptozoologyNovember 11, 2020 — Can we discuss the eye witness accounts that changed their...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flat woods Monster of West Virginia: r/CryptozoologyNovember 11, 2020 — Can we discuss the eye witness accounts that changed their...</p></details>
    Published: November 11, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: flatwoods monster 1952  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/ye2ygu/flatwoods_monster_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/ye2ygu/flatwoods_monster_1952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods &quot;Monster,&quot; 1952: r/CryptozoologyThe group found a large glowing object and a monstrous mechanical entity that sent them runnin...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/ye2ygu/flatwoods_monster_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/ye2ygu/flatwoods_monster_1952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods &quot;Monster,&quot; 1952: r/CryptozoologyThe group found a large glowing object and a monstrous mechanical entity that sent them runnin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WTF/comments/vbym2/the_flatwoods_monster_a_supposed_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WTF/comments/vbym2/the_flatwoods_monster_a_supposed_extraterrestrial/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster, a supposed extraterrestrial seen in...Drawings of the Flatwoods monster (also known as the Braxton County monster...</p></details>
+   Link:<a href="https://www.reddit.com/r/WTF/comments/vbym2/the_flatwoods_monster_a_supposed_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WTF/comments/vbym2/the_flatwoods_monster_a_supposed_extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster, a supposed extraterrestrial seen in...Drawings of the Flatwoods monster (also known as the Braxton County monster...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w5lOoyR9Whc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w5lOoyR9Whc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w5lOoyR9Whc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w5lOoyR9Whc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Flatwoods Monster  
-   Link: <a href="https://www.youtube.com/watch?v=Gbz8bLidrAY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbz8bLidrAY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Gbz8bLidrAY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbz8bLidrAY</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Flatwoods UFO Monster  
-   Link: <a href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Nickell. From: Volume 24, No. 6 · November... Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tsemrinpoche.com  
    Title: the flatwoods monster  
-   Link: <a href="https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2024 — The Flatwoods Monster is a cryptid sighted in the town of Flatwoods in Braxton County, West Virginia. The unidentified crea...</p></details>
+   Link:<a href="https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2024 — The Flatwoods Monster is a cryptid sighted in the town of Flatwoods in Braxton County, West Virginia. The unidentified crea...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.howstuffworks.com  
    Title: flatwoods monster  
-   Link: <a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The creature had glowing eyes, claw-like hands and a distinct green monster appearance.Read more...</p></details>
+   Link:<a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The creature had glowing eyes, claw-like hands and a distinct green monster appearance.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cryptidz.fandom.com  
    Title: Flatwoods Monster  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Flatwoods_Monster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monster - Cryptid Wiki - FandomA cryptid sighted in the forests of Flatwoods, West Virginia and Frametown, West Virginia, respectively. I...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Flatwoods_Monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monster - Cryptid Wiki - FandomA cryptid sighted in the forests of Flatwoods, West Virginia and Frametown, West Virginia, respectively. I...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: van-helsing-own-story.fandom.com  
    Title: Flatwoods Monster" is based on the Flatwoods incident.Read more  
-   Link: <a href="https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monster - Van Helsing Own Story Wiki - FandomSep 12, 2025 — Investigators now suggest the light was a meteor and the creature was a barn owl...</p></details>
+   Link:<a href="https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monster - Van Helsing Own Story Wiki - FandomSep 12, 2025 — Investigators now suggest the light was a meteor and the creature was a barn owl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
    Title: mothman revisitedinvestigating on site  
-   Link: <a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the these is the 1952 case of the Flatwoods Monster that supposedly arrived...Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the these is the 1952 case of the Flatwoods Monster that supposedly arrived...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/05/p62.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/05/p62.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LETTERS TO THE EDITORAs for the Flatwoods Monster. Joe Nickell&#x27;s five-page SKEPTICAL INQUIRER column “The Flatwoods UFO Monster”. (Novem...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/05/p62.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/05/p62.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LETTERS TO THE EDITORAs for the Flatwoods Monster. Joe Nickell&#x27;s five-page SKEPTICAL INQUIRER column “The Flatwoods UFO Monster”. (Novem...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: beyondhaunted.com  
    Title: flatwoods monster  
-   Link: <a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nickell&#x27;s bottom line is blunt: the creature&#x27;s reported features and behavior line up...Read more...</p></details>
+   Link:<a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nickell&#x27;s bottom line is blunt: the creature&#x27;s reported features and behavior line up...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: darkwhimsicalart.com  
    Title: flatwoods monster  
-   Link: <a href="https://www.darkwhimsicalart.com/blogs/usa-paranormal-investigations/flatwoods-monster?srsltid=AfmBOorD3oVlOxSEdpeCxxeOxnsr2VOoR-8rKBq_SUmfAXiAPteEUyv0" target="_blank" rel="noopener noreferrer nofollow">https://www.darkwhimsicalart.com/blogs/usa-paranormal-investigations/flatwoods-monster?srsltid=AfmBOorD3oVlOxSEdpeCxxeOxnsr2VOoR-8rKBq_SUmfAXiAPteEUyv0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It stood about 10 feet tall, with a blood-red face shaped like an ace of spades and eyes that glowed...Read more...</p></details>
+   Link:<a href="https://www.darkwhimsicalart.com/blogs/usa-paranormal-investigations/flatwoods-monster?srsltid=AfmBOorD3oVlOxSEdpeCxxeOxnsr2VOoR-8rKBq_SUmfAXiAPteEUyv0" target="_blank" rel="noopener noreferrer nofollow">https://www.darkwhimsicalart.com/blogs/usa-paranormal-investigations/flatwoods-monster?srsltid=AfmBOorD3oVlOxSEdpeCxxeOxnsr2VOoR-8rKBq_SUmfAXiAPteEUyv0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It stood about 10 feet tall, with a blood-red face shaped like an ace of spades and eyes that glowed...Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: braxtonwv.org  
-   Link: <a href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Braxton, WVThe Flatwoods MonsterThe creature&#x27;s hands were twisted and clawed, and what seemed to be its eyes glowed an eerie orange...</p></details>
+   Link:<a href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Braxton, WVThe Flatwoods MonsterThe creature&#x27;s hands were twisted and clawed, and what seemed to be its eyes glowed an eerie orange...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RKINBOtRTDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKINBOtRTDI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RKINBOtRTDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKINBOtRTDI</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop3i19J0BbzcRKEUhcFeulfD_fWMfIQlcBcj1t2UcCdwlO2Kdgg" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop3i19J0BbzcRKEUhcFeulfD_fWMfIQlcBcj1t2UcCdwlO2Kdgg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster CaseWelcome signs proudly proclaim it as &quot;Home of the Green Monster,&quot; and the annual &quot;Flatwoods Days&quot; festival cele...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop3i19J0BbzcRKEUhcFeulfD_fWMfIQlcBcj1t2UcCdwlO2Kdgg" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop3i19J0BbzcRKEUhcFeulfD_fWMfIQlcBcj1t2UcCdwlO2Kdgg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster CaseWelcome signs proudly proclaim it as &quot;Home of the Green Monster,&quot; and the annual &quot;Flatwoods Days&quot; festival cele...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOoquFaAgy7O3C-uANl8pfGzcDE5Lz69BowVY3auHUf9Lf_0_CTfy" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOoquFaAgy7O3C-uANl8pfGzcDE5Lz69BowVY3auHUf9Lf_0_CTfy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster CaseWelcome signs proudly proclaim it as &quot;Home of the Green Monster,&quot; and the annual &quot;Flatwoods Days&quot; festival cele...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOoquFaAgy7O3C-uANl8pfGzcDE5Lz69BowVY3auHUf9Lf_0_CTfy" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOoquFaAgy7O3C-uANl8pfGzcDE5Lz69BowVY3auHUf9Lf_0_CTfy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster CaseWelcome signs proudly proclaim it as &quot;Home of the Green Monster,&quot; and the annual &quot;Flatwoods Days&quot; festival cele...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQNvQxUk1W_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQNvQxUk1W_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 1952, witnesses near Flatwoods, West Virginia reported seeing a towering figure after a bright object crossed the sky. The...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQNvQxUk1W_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQNvQxUk1W_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 1952, witnesses near Flatwoods, West Virginia reported seeing a towering figure after a bright object crossed the sky. The...</p></details>
    Published: September 12, 1952  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thecryptidatlas.com  
-   Link: <a href="https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster: The Mysterious Green Cloaked Figure...Nov 16, 2024 — The creature in question would later be coined the Frametown Mon...</p></details>
+   Link:<a href="https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster: The Mysterious Green Cloaked Figure...Nov 16, 2024 — The creature in question would later be coined the Frametown Mon...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tsemrinpoche.com  
    Title: flatwoods monster close encounter of the third kind  
-   Link: <a href="https://www.tsemrinpoche.com/tsem-tulku-rinpoche/science-mysteries/flatwoods-monster-close-encounter-of-the-third-kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsemrinpoche.com/tsem-tulku-rinpoche/science-mysteries/flatwoods-monster-close-encounter-of-the-third-kind.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster: Close Encounter of the Third Kind?8 Mar 2025 — The Flatwoods monster in West Virginia folklore, is a creature reported...</p></details>
+   Link:<a href="https://www.tsemrinpoche.com/tsem-tulku-rinpoche/science-mysteries/flatwoods-monster-close-encounter-of-the-third-kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsemrinpoche.com/tsem-tulku-rinpoche/science-mysteries/flatwoods-monster-close-encounter-of-the-third-kind.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster: Close Encounter of the Third Kind?8 Mar 2025 — The Flatwoods monster in West Virginia folklore, is a creature reported...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jamestynioniv.substack.com  
    Title: TH E DEPARTMENT OF TRUTH: WILD FICTIONS 004  
-   Link: <a href="https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c" target="_blank" rel="noopener noreferrer nofollow">https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEPARTMENT OF TRUTH: WILD FICTIONS 004... Flatwoods Monster would seem to match a barn owl&#x27;s talons outstretched in flight. They produce...</p></details>
+   Link:<a href="https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c" target="_blank" rel="noopener noreferrer nofollow">https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEPARTMENT OF TRUTH: WILD FICTIONS 004... Flatwoods Monster would seem to match a barn owl&#x27;s talons outstretched in flight. They produce...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>humanoid creature with a head shaped a little like a spade...</p></details>
+   Link:<a href="https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>humanoid creature with a head shaped a little like a spade...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: On today's date 73 years ago, Friday,  
-   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-history-on-todays-date-73-years-ago-friday-september-12-1952-in-a-legen/1335846071235532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-history-on-todays-date-73-years-ago-friday-september-12-1952-in-a-legen/1335846071235532/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 1952...The Flatwoods Monster is an unidentified extraterrestrial or cryptid with a number of reported sightings in Flatwo...</p></details>
+   Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-history-on-todays-date-73-years-ago-friday-september-12-1952-in-a-legen/1335846071235532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-history-on-todays-date-73-years-ago-friday-september-12-1952-in-a-legen/1335846071235532/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 1952...The Flatwoods Monster is an unidentified extraterrestrial or cryptid with a number of reported sightings in Flatwo...</p></details>
    Published: September 12, 1952

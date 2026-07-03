@@ -250,18 +250,18 @@ image: /assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witn
 
 ## Introduction
 
-The most striking feature of the [New Ellenton]({{ 'new-ellenton/' | relative_url }}) sighting is not the description of a single mysterious object. It is the sequence itself. According to the surviving reports, four DuPont employees at the Savannah River Plant saw multiple yellow or gold disc-shaped objects during a roughly 30-minute period on the night of 10 May 1952, with sightings occurring at several distinct times between about 10:45 p.m. and 11:15 p.m. Rather than one brief glimpse, the [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) described repeated appearances from different directions and at different apparent heights. That pattern is one reason the case remained notable in later UFO catalogues and Project Blue Book records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520510savannah dir</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most striking feature of the [New Ellenton]({{ 'new-ellenton/' | relative_url }}) sighting is not the description of a single mysterious object. It is the sequence itself. According to the surviving reports, four DuPont employees at the Savannah River Plant saw multiple yellow or gold disc-shaped objects during a roughly 30-minute period on the night of 10 May 1952, with sightings occurring at several distinct times between about 10:45 p.m. and 11:15 p.m. Rather than one brief glimpse, the [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) described repeated appearances from different directions and at different apparent heights. That pattern is one reason the case remained notable in later UFO catalogues and Project Blue Book records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520510savannah dir</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-1-dark.svg" | relative_url }}" alt="Witness sequence illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The sequence matters because it offers something many UFO reports lack: a timeline. The reports do not prove what the objects were, but they do provide a structured series of observations that can be examined for consistency, witness judgement and possible weaknesses. The credibility of the New Ellenton case largely rests on how convincing that half-hour sequence appears when read as a whole rather than as a collection of isolated claims.
 
 ## The reported timeline from 10:45 to 11:15 p.m.
 
-The available summaries describe four DuPont employees working at the Savannah River Plant near Ellenton, South Carolina. The reports state that the first sighting occurred at approximately 10:45 p.m., when four disc-shaped objects approached the plant's 400 Area from the south and disappeared towards the north. Roughly twenty minutes later, at about 11:05 p.m., two more similar objects reportedly followed a comparable south-to-north path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520510savannah dir</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The available summaries describe four DuPont employees working at the Savannah River Plant near Ellenton, South Carolina. The reports state that the first sighting occurred at approximately 10:45 p.m., when four disc-shaped objects approached the plant's 400 Area from the south and disappeared towards the north. Roughly twenty minutes later, at about 11:05 p.m., two more similar objects reportedly followed a comparable south-to-north path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520510savannah dir</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most unusual observation came only a few minutes later. At around 11:10 p.m., a single object was said to approach from the north-east and continue towards the south-west. Unlike the earlier reports of distant, fast-moving objects, this one was described as flying low enough to interact visually with structures in the plant area. Witnesses reported that it appeared to rise in order to clear tall tanks and that it moved with a slight weaving motion while maintaining its general course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most unusual observation came only a few minutes later. At around 11:10 p.m., a single object was said to approach from the north-east and continue towards the south-west. Unlike the earlier reports of distant, fast-moving objects, this one was described as flying low enough to interact visually with structures in the plant area. Witnesses reported that it appeared to rise in order to clear tall tanks and that it moved with a slight weaving motion while maintaining its general course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A final object was reportedly seen at about 11:15 p.m., again moving from south to north. Taken together, the reports describe at least eight objects seen across four separate observation periods within roughly half an hour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A final object was reportedly seen at about 11:15 p.m., again moving from south to north. Taken together, the reports describe at least eight objects seen across four separate observation periods within roughly half an hour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 What makes this sequence noteworthy is its rhythm. The reports do not describe a continuous display lasting thirty minutes. Instead, they describe short sightings separated by intervals of several minutes. That distinction matters because it suggests the witnesses believed they were seeing separate appearances rather than repeatedly observing the same distant light.
 
@@ -269,24 +269,24 @@ What makes this sequence noteworthy is its rhythm. The reports do not describe a
 
 ## What the witnesses could and could not judge
 
-The surviving summaries provide several descriptive details: the objects were said to be yellow or gold, disc-shaped, fast-moving and silent. Yet each of those observations comes with limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The surviving summaries provide several descriptive details: the objects were said to be yellow or gold, disc-shaped, fast-moving and silent. Yet each of those observations comes with limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-One frequently repeated detail is that the objects appeared to be about fifteen inches in diameter. Read literally, that would imply something impossibly small for an object moving across a large industrial site. The more likely interpretation is that the figure referred to apparent size as seen by the observers, roughly equivalent to holding an object of that diameter at arm's length. Without a known distance, apparent size cannot be converted into a true physical dimension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One frequently repeated detail is that the objects appeared to be about fifteen inches in diameter. Read literally, that would imply something impossibly small for an object moving across a large industrial site. The more likely interpretation is that the figure referred to apparent size as seen by the observers, roughly equivalent to holding an object of that diameter at arm's length. Without a known distance, apparent size cannot be converted into a true physical dimension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The reported speed is similarly difficult to evaluate. Human observers can often recognise that something appears fast relative to familiar landmarks, but estimating actual velocity at night is much harder when the object's distance is unknown. An object close to the witness can seem to move rapidly, while a distant object can create the same impression through perspective effects.
 
-The silence reported by the witnesses is also less definitive than it first appears. If the objects were distant, ordinary aircraft noise might not have been noticeable. The absence of sound therefore tells readers something about the witnesses' experience but does not by itself establish that the objects were extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The silence reported by the witnesses is also less definitive than it first appears. If the objects were distant, ordinary aircraft noise might not have been noticeable. The absence of sound therefore tells readers something about the witnesses' experience but does not by itself establish that the objects were extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The strongest aspect of the testimony is not any single descriptive detail. It is that four workers reportedly observed the events and that the reports preserved a sequence of directions and times rather than merely stating that "something strange" appeared overhead. Even so, the publicly available record does not include full witness interviews, detailed diagrams, independent measurements or extensive investigative notes. That leaves modern readers dependent on summary accounts rather than complete case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest aspect of the testimony is not any single descriptive detail. It is that four workers reportedly observed the events and that the reports preserved a sequence of directions and times rather than merely stating that "something strange" appeared overhead. Even so, the publicly available record does not include full witness interviews, detailed diagrams, independent measurements or extensive investigative notes. That leaves modern readers dependent on summary accounts rather than complete case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-2-dark.svg" | relative_url }}" alt="Witness sequence illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the low pass over the tanks matters
 
 Among all the reported observations, the low pass near the tanks is the detail that gives the case most of its lasting interest.
 
-Most night-time UFO reports involve lights against the sky with few reliable reference points. The New Ellenton account is different because the object seen around 11:10 p.m. was reportedly observed in relation to identifiable industrial structures. Witnesses claimed it rose in order to pass over tall tanks in the 400 Area. One later summary described the object as pulling up to avoid nearby obstacles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Most night-time UFO reports involve lights against the sky with few reliable reference points. The New Ellenton account is different because the object seen around 11:10 p.m. was reportedly observed in relation to identifiable industrial structures. Witnesses claimed it rose in order to pass over tall tanks in the 400 Area. One later summary described the object as pulling up to avoid nearby obstacles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-If that perception was accurate, the witnesses were not merely describing a distant light. They were describing something moving within the visual environment of the plant itself. That is why later UFO writers repeatedly highlighted this portion of the report. It appears to provide a sense of altitude and spatial relationship that many UFO cases lack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+If that perception was accurate, the witnesses were not merely describing a distant light. They were describing something moving within the visual environment of the plant itself. That is why later UFO writers repeatedly highlighted this portion of the report. It appears to provide a sense of altitude and spatial relationship that many UFO cases lack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 At the same time, this is also the point where caution is most necessary. Human beings are not especially good at judging distance and altitude at night. A light moving behind or above a structure can appear to interact with it even when it is actually much farther away. Without photographs, instrument records or surveyed sight lines, there is no way to verify exactly how close the object was to the tanks.
 
@@ -295,203 +295,203 @@ The low-pass account therefore occupies an unusual position in the evidence. It 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-3-dark.svg" | relative_url }}" alt="Witness sequence illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_dupont_witness_seque_d361a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the sequence remains the case's best evidence
 
-Many UFO reports survive only as isolated anecdotes. The New Ellenton case stands out because the witnesses reportedly observed several appearances over a defined period and because the observations followed a pattern that investigators later considered difficult to dismiss outright. The incident subsequently appeared in UFO catalogues and lists of Project Blue Book unknowns rather than disappearing as a forgotten local story. NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Many UFO reports survive only as isolated anecdotes. The New Ellenton case stands out because the witnesses reportedly observed several appearances over a defined period and because the observations followed a pattern that investigators later considered difficult to dismiss outright. The incident subsequently appeared in UFO catalogues and lists of Project Blue Book unknowns rather than disappearing as a forgotten local story. NICAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Yet the sequence does not solve the mystery. No radar data, photographs or publicly available technical investigation have emerged to confirm what the witnesses saw. The surviving record is detailed enough to keep the case alive but incomplete enough to prevent a firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Yet the sequence does not solve the mystery. No radar data, photographs or publicly available technical investigation have emerged to confirm what the witnesses saw. The surviving record is detailed enough to keep the case alive but incomplete enough to prevent a firm conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That balance explains why the witness sequence remains the most important part of the New Ellenton story. The significance lies less in the claim that unidentified objects appeared over a nuclear-related facility and more in the fact that four workers reportedly described a timed series of sightings that can still be examined, questioned and debated more than seventy years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That balance explains why the witness sequence remains the most important part of the New Ellenton story. The significance lies less in the claim that unidentified objects appeared over a nuclear-related facility and more in the fact that four workers reportedly described a timed series of sightings that can still be examined, questioned and debated more than seventy years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U_mZIV9X72A" title="The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer">The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe</a></p><p class="youtube-embed-meta">Channel: Gemini International Movies &amp; TV &middot; Views: 1.5K &middot; Uploaded: June 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U_mZIV9X72A">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the Du Pont witnesses actually see?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the Du Pont witnesses actually see?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Essential background for 1950s official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential background for 1950s official UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers significant historical cases and unknown classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers significant historical cases and unknown classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides broader context for secret defence installations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for secret defence installations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly connects UFO reports with nuclear facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO reports with nuclear facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="https://i.ebayimg.com/images/g/pacAAOSw14hcmrAU/s-l225.jpg" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="https://i.ebayimg.com/images/g/pacAAOSw14hcmrAU/s-l225.jpg" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor"><img src="https://i.ebayimg.com/images/g/cKkAAeSwto1qCd7G/s-l225.jpg" alt="Listing image for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor"><img src="https://i.ebayimg.com/images/g/cKkAAeSwto1qCd7G/s-l225.jpg" alt="Listing image for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A3 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/knIAAOSwAFpiVe~2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A3 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A3 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/knIAAOSwAFpiVe~2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A3 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="what-did-the-dupont-witnesses-actually-see-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -507,7 +507,7 @@ That balance explains why the witness sequence remains the most important part o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -527,7 +527,7 @@ That balance explains why the witness sequence remains the most important part o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -559,7 +559,7 @@ That balance explains why the witness sequence remains the most important part o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -611,7 +611,7 @@ That balance explains why the witness sequence remains the most important part o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -656,7 +656,7 @@ That balance explains why the witness sequence remains the most important part o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -697,64 +697,64 @@ That balance explains why the witness sequence remains the most important part o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: 520510savannah dir  
-   Link: <a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;NICAP[https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm...&quot;](https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm...&quot;)...</p></details>
+   Link:<a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;NICAP[https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm...&quot;](https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm...&quot;)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;NICAP[https://www.nicap.org/chronos/1952NEW.htm...&quot;](https://www.nicap.org/chronos/1952NEW.htm...&quot;)...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;NICAP[https://www.nicap.org/chronos/1952NEW.htm...&quot;](https://www.nicap.org/chronos/1952NEW.htm...&quot;)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Internet Archive[https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catal...&quot;](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Spark...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Internet Archive[https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catal...&quot;](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Spark...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Office of Special Investigations[https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/...&quot;](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Office of Special Investigations[https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/...&quot;](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9iFpZToN6yU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9iFpZToN6yU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_mZIV9X72A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_mZIV9X72A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Battle Over UFO Secrecy: The Major Donald Keyhoe Story with Linda Powell  
-   Link: <a href="https://www.youtube.com/watch?v=kWEBLsvKM50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWEBLsvKM50</a>  
+   Link:<a href="https://www.youtube.com/watch?v=kWEBLsvKM50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWEBLsvKM50</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report Project Blue Book 1952...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report Project Blue Book 1952...</p></details>

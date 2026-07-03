@@ -76,9 +76,9 @@ heading_title: What Really Happened in Alaska's UFO Skies?
 page_heading_title: What Really Happened in Alaska's UFO Skies?
 source_count: 32
 infographic_count: 3
-page_website_name: Alaska UFOs
+page_website_name: Alaska
 page_banner_line: Balanced case histories, sightings, evidence, and explanations from Alaska's skies.
-site_website_name: Alaska UFOs
+site_website_name: Alaska
 site_banner_line: Balanced case histories, sightings, evidence, and explanations from Alaska's skies.
 site_image_description: A remote Alaska airfield at night with snowy mountains, runway lights, and a bright unidentified light high above the horizon.
 output_language: English
@@ -532,194 +532,194 @@ Across Alaska’s history of UFO reporting, several common patterns emerge. Many
 Alaska’s UFO history mirrors broader U.S. patterns: a blend of early Cold War era visual sightings, isolated but well‑reported aviation cases, and a steady flow of civilian reports of unexplained lights and objects. While certain incidents — especially those involving multiple trained witnesses and radar data — are compelling within the UFO research community, none have been confirmed as non‑human craft by official authorities. Instead, Alaska’s unique geography, strategic military presence, and pristine skies explain much of its high sighting rate, leaving the phenomena largely unresolved but still intriguing to observers and researchers alike.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Alaska&#x27;s UFO Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Alaska&#x27;s UFO Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding recurring sighting categories and evidence issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding recurring sighting categories and evidence issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places regional UFO stories within broader historical patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places regional UFO stories within broader historical patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers pilot, radar, and military encounters similar to Alaska reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers pilot, radar, and military encounters similar to Alaska reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores why UFO narratives remain culturally influential.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why UFO narratives remain culturally influential.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-alaska-s-ufo-skies-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ Alaska’s UFO history mirrors broader U.S. patterns: a blend of early Cold War 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ Alaska’s UFO history mirrors broader U.S. patterns: a blend of early Cold War 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ Alaska’s UFO history mirrors broader U.S. patterns: a blend of early Cold War 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ Alaska’s UFO history mirrors broader U.S. patterns: a blend of early Cold War 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ Alaska’s UFO history mirrors broader U.S. patterns: a blend of early Cold War 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,130 +925,130 @@ Alaska’s UFO history mirrors broader U.S. patterns: a blend of early Cold War 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: discoveryuk.com  
    Title: Discovery UKMystery at the Edge of the Map: Alaska UFOs  
-   Link: <a href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKMay 13, 2026...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upi.com  
    Title: National Guardsmen report UFO sightings in Alaska  
-   Link: <a href="https://www.upi.com/Archives/1987/03/21/National-Guardsmen-report-UFO-sightings-in-Alaska/5838543301200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/03/21/National-Guardsmen-report-UFO-sightings-in-Alaska/5838543301200/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Guardsmen report UFO sightings in Alaska - UPI ArchivesMarch 21, 1987...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1987/03/21/National-Guardsmen-report-UFO-sightings-in-Alaska/5838543301200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/03/21/National-Guardsmen-report-UFO-sightings-in-Alaska/5838543301200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Guardsmen report UFO sightings in Alaska - UPI ArchivesMarch 21, 1987...</p></details>
    Published: March 21, 1987  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: the-sun.com  
-   Link: <a href="https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Desde la década de 1970, se han asociado más de 20,000 desapariciones con esta área, compuesta de bosques boreales, tundra y picos helado...</p></details>
+   Link:<a href="https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Desde la década de 1970, se han asociado más de 20,000 desapariciones con esta área, compuesta de bosques boreales, tundra y picos helado...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gi.alaska.edu  
    Title: ufos are back  
-   Link: <a href="https://www.gi.alaska.edu/alaska-science-forum/ufos-are-back" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/alaska-science-forum/ufos-are-back</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical InstituteJanuary 12, 1987 — THE UFOS ARE BACK January 12, 1987 / Larry Gedney There was a recent spate of news reports abou...</p></details>
+   Link:<a href="https://www.gi.alaska.edu/alaska-science-forum/ufos-are-back" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/alaska-science-forum/ufos-are-back</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical InstituteJanuary 12, 1987 — THE UFOS ARE BACK January 12, 1987 / Larry Gedney There was a recent spate of news reports abou...</p></details>
    Published: January 12, 1987  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: adn.com  
-   Link: <a href="https://www.adn.com/alaska-life/2022/08/28/a-strange-light-bouncing-up-and-down-in-the-sky-the-history-of-ufo-sightings-in-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://www.adn.com/alaska-life/2022/08/28/a-strange-light-bouncing-up-and-down-in-the-sky-the-history-of-ufo-sightings-in-alaska/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anchorage Daily NewsA ‘strange light bouncing up and down in the sky’: The history of UFO sightings in Alaska - Anchorage Daily News...</p></details>
+   Link:<a href="https://www.adn.com/alaska-life/2022/08/28/a-strange-light-bouncing-up-and-down-in-the-sky-the-history-of-ufo-sightings-in-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://www.adn.com/alaska-life/2022/08/28/a-strange-light-bouncing-up-and-down-in-the-sky-the-history-of-ufo-sightings-in-alaska/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anchorage Daily NewsA ‘strange light bouncing up and down in the sky’: The history of UFO sightings in Alaska - Anchorage Daily News...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case287.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case287.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceJapan Air Lines Flight 1628 Over Alaska - Alaska, United States - November 17, 1986 - UFO EvidenceNovember 17, 1986...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case287.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case287.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceJapan Air Lines Flight 1628 Over Alaska - Alaska, United States - November 17, 1986 - UFO EvidenceNovember 17, 1986...</p></details>
    Published: November 17, 1986  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufoindex.com  
    Title: UFO Index Alaska UFO Reports  
-   Link: <a href="https://www.ufoindex.com/alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/alaska</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IndexAlaska UFO Reports - Latest UFO Sightings in Alaska...</p></details>
+   Link:<a href="https://www.ufoindex.com/alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/alaska</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IndexAlaska UFO Reports - Latest UFO Sightings in Alaska...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: countryherald.com  
    Title: Country Herald Alaska Ranks High for UFO Sightings at 1 in 1,294  
-   Link: <a href="https://countryherald.com/news/alaska-ranks-high-for-ufo-sightings-at-1-in-1294/" target="_blank" rel="noopener noreferrer nofollow">https://countryherald.com/news/alaska-ranks-high-for-ufo-sightings-at-1-in-1294/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Country HeraldAlaska Ranks High for UFO Sightings at 1 in 1,294 - Country HeraldMarch 24, 2026...</p></details>
+   Link:<a href="https://countryherald.com/news/alaska-ranks-high-for-ufo-sightings-at-1-in-1294/" target="_blank" rel="noopener noreferrer nofollow">https://countryherald.com/news/alaska-ranks-high-for-ufo-sightings-at-1-in-1294/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Country HeraldAlaska Ranks High for UFO Sightings at 1 in 1,294 - Country HeraldMarch 24, 2026...</p></details>
    Published: March 24, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: latest-ufo-sightings.net  
    Title: Mysterious Skies: A Close Encounter in Yakutat, Alaska • Latest UFO Sightings  
-   Link: <a href="https://www.latest-ufo-sightings.net/2024/04/mysterious-skies-a-close-encounter-in-yakutat-alaska.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2024/04/mysterious-skies-a-close-encounter-in-yakutat-alaska.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>America, UFO videos Image: Aliens In Alaska In the remote coastal village of Yakutat, Alaska, nestled w...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2024/04/mysterious-skies-a-close-encounter-in-yakutat-alaska.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2024/04/mysterious-skies-a-close-encounter-in-yakutat-alaska.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America, UFO videos Image: Aliens In Alaska In the remote coastal village of Yakutat, Alaska, nestled w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: latest-ufo-sightings.net  
    Title: America Image The icy waters of Alaska, known for their breathtaking be  
-   Link: <a href="https://www.latest-ufo-sightings.net/2023/12/submerged-mysteries-uncovered-ufo-phenomena-along-alaskas-coastline.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/12/submerged-mysteries-uncovered-ufo-phenomena-along-alaskas-coastline.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submerged Mysteries Uncovered: UFO Phenomena Along Alaska&#x27;s Coastline • Latest UFO SightingsDecember 3, 2023 — SUBMERGED MYSTERIES UNCOVE...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2023/12/submerged-mysteries-uncovered-ufo-phenomena-along-alaskas-coastline.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/12/submerged-mysteries-uncovered-ufo-phenomena-along-alaskas-coastline.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submerged Mysteries Uncovered: UFO Phenomena Along Alaska&#x27;s Coastline • Latest UFO SightingsDecember 3, 2023 — SUBMERGED MYSTERIES UNCOVE...</p></details>
    Published: December 3, 2023  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: realityisweird.com  
-   Link: <a href="https://realityisweird.com/ufos-and-alien-life/aliens-and-extraterrestrials/aliens-in-alaska-examining-reports-of-unusual-sightings-and-encounters-with-unidentified-flying-objects/" target="_blank" rel="noopener noreferrer nofollow">https://realityisweird.com/ufos-and-alien-life/aliens-and-extraterrestrials/aliens-in-alaska-examining-reports-of-unusual-sightings-and-encounters-with-unidentified-flying-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 25, 2023 — ALIENS IN ALASKA – EXAMINING REPORTS OF UNUSUAL SIGHTINGS AND ENCOUNTERS WITH UNIDENTIFIED FLYING OBJECTS Rob June 25, 20...</p></details>
+   Link:<a href="https://realityisweird.com/ufos-and-alien-life/aliens-and-extraterrestrials/aliens-in-alaska-examining-reports-of-unusual-sightings-and-encounters-with-unidentified-flying-objects/" target="_blank" rel="noopener noreferrer nofollow">https://realityisweird.com/ufos-and-alien-life/aliens-and-extraterrestrials/aliens-in-alaska-examining-reports-of-unusual-sightings-and-encounters-with-unidentified-flying-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 25, 2023 — ALIENS IN ALASKA – EXAMINING REPORTS OF UNUSUAL SIGHTINGS AND ENCOUNTERS WITH UNIDENTIFIED FLYING OBJECTS Rob June 25, 20...</p></details>
    Published: June 25, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: americanurbanlegends.com  
-   Link: <a href="https://americanurbanlegends.com/mount-hayes-ufo-haven/" target="_blank" rel="noopener noreferrer nofollow">https://americanurbanlegends.com/mount-hayes-ufo-haven/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evelyn Harper in Urban Legends by State Nestled in the rugged wilderness of Alaska’s eastern range, Mount Hayes towers over the landscape...</p></details>
+   Link:<a href="https://americanurbanlegends.com/mount-hayes-ufo-haven/" target="_blank" rel="noopener noreferrer nofollow">https://americanurbanlegends.com/mount-hayes-ufo-haven/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evelyn Harper in Urban Legends by State Nestled in the rugged wilderness of Alaska’s eastern range, Mount Hayes towers over the landscape...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tv.apple.com  
    Title: Why are these otherworldly visitors drawn to America's last frontier? S  
-   Link: <a href="https://tv.apple.com/us/show/aliens-in-alaska/umc.cmc.6ua4aqpxyos0444f960b28d3r" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/show/aliens-in-alaska/umc.cmc.6ua4aqpxyos0444f960b28d3r</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Aliens In Alaska - Apple TVImage: Aliens In Alaska TV Show · Reality * Alaska is a hotbed for UFO sightings, abductions and ext...</p></details>
+   Link:<a href="https://tv.apple.com/us/show/aliens-in-alaska/umc.cmc.6ua4aqpxyos0444f960b28d3r" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/show/aliens-in-alaska/umc.cmc.6ua4aqpxyos0444f960b28d3r</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Aliens In Alaska - Apple TVImage: Aliens In Alaska TV Show · Reality * Alaska is a hotbed for UFO sightings, abductions and ext...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pararational.com  
    Title: u s national archives adds 12 new uap sighting reports from 1949 1953  
-   Link: <a href="https://www.pararational.com/u-s-national-archives-adds-12-new-uap-sighting-reports-from-1949-1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/u-s-national-archives-adds-12-new-uap-sighting-reports-from-1949-1953/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives adds 12 new UAP sighting reports from 1949-1953 - ParaRationalLOCATION: ATKA, ALASKA Date: May 18, 1949 On May 16, 1949...</p></details>
+   Link:<a href="https://www.pararational.com/u-s-national-archives-adds-12-new-uap-sighting-reports-from-1949-1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/u-s-national-archives-adds-12-new-uap-sighting-reports-from-1949-1953/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives adds 12 new UAP sighting reports from 1949-1953 - ParaRationalLOCATION: ATKA, ALASKA Date: May 18, 1949 On May 16, 1949...</p></details>
    Published: May 18, 1949  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Air Force Radar Operator's Terrifying UFO Encounter in Alaska | Aliens In Alaska  
-   Link: <a href="https://www.youtube.com/watch?v=oCof55P5ali" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oCof55P5ali</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Let me re-read the exact text from search results 1.1: [https://www.youtube.com/watch?v=KARd-HTssbg](https://www.youtube.com/watch?v=KARd-HTssbg) 1.2: [https://www.youtube.com/watch?v=O...&quot;](https://www.youtube.com/watch?v=O...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oCof55P5ali" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oCof55P5ali</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Let me re-read the exact text from search results 1.1: [https://www.youtube.com/watch?v=KARd-HTssbg](https://www.youtube.com/watch?v=KARd-HTssbg) 1.2: [https://www.youtube.com/watch?v=O...&quot;](https://www.youtube.com/watch?v=O...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: isgp-studies.com  
    Title: 1986 11 ap faa investigates jal flight 1628 ufo sighting  
-   Link: <a href="https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA investigates JAL Flight 1628 UFO SightingFAA INVESTIGATES JAL FLIGHT 1628 UFO SIGHTING ISGP section: UFO press reports index November...</p></details>
+   Link:<a href="https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA investigates JAL Flight 1628 UFO SightingFAA INVESTIGATES JAL FLIGHT 1628 UFO SIGHTING ISGP section: UFO press reports index November...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Alaska | Stacker  
-   Link: <a href="https://stacker.com/stories/alaska/cities-most-ufo-sightings-alaska" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/alaska/cities-most-ufo-sightings-alaska</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN ALASKA Written by: Stacker May 12, 2025 Sergey Tinyakov // Shutterstock When pilot K...</p></details>
+   Link:<a href="https://stacker.com/stories/alaska/cities-most-ufo-sightings-alaska" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/alaska/cities-most-ufo-sightings-alaska</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN ALASKA Written by: Stacker May 12, 2025 Sergey Tinyakov // Shutterstock When pilot K...</p></details>
    Published: May 12, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: deshinewspost.com  
    Title: Perhaps some people recall the UFO encounter  
-   Link: <a href="https://deshinewspost.com/mysterious-ufo-sightings-over-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://deshinewspost.com/mysterious-ufo-sightings-over-alaska/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Sightings Over Alaska: ET Base At Mount Hayes &amp; Alien Photograph From 1930 - Ancient History and Mystery - HTGlobal MediaF...</p></details>
+   Link:<a href="https://deshinewspost.com/mysterious-ufo-sightings-over-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://deshinewspost.com/mysterious-ufo-sightings-over-alaska/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Sightings Over Alaska: ET Base At Mount Hayes &amp; Alien Photograph From 1930 - Ancient History and Mystery - HTGlobal MediaF...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thinkaboutitdocs.com  
    Title: 1950 major air force encounter ufo alaska  
-   Link: <a href="https://www.thinkaboutitdocs.com/1950-major-air-force-encounter-ufo-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1950-major-air-force-encounter-ufo-alaska/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1950: A major Air Force encounter with a UFO in AlaskaAugust 28, 2013 — 1950: A MAJOR AIR FORCE ENCOUNTER WITH A UFO IN ALASKA Orbman Aug...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1950-major-air-force-encounter-ufo-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1950-major-air-force-encounter-ufo-alaska/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1950: A major Air Force encounter with a UFO in AlaskaAugust 28, 2013 — 1950: A MAJOR AIR FORCE ENCOUNTER WITH A UFO IN ALASKA Orbman Aug...</p></details>
    Published: August 28, 2013  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thinkaboutitdocs.com  
    Title: United States UFO & Alien Sightings  
-   Link: <a href="https://www.thinkaboutitdocs.com/library/ufo-alien-sightings-location/north-america-ufo-alien-sightings/united-states-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/library/ufo-alien-sightings-location/north-america-ufo-alien-sightings/united-states-ufo-alien-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think AboutItsJuly 29, 2025 — July 29, 2025 Think AboutIts &quot;REAL&quot; UFO &amp; Alien Sightings by Date &amp; Location UNITED STATES UFO &amp; ALIEN SIGH...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/library/ufo-alien-sightings-location/north-america-ufo-alien-sightings/united-states-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/library/ufo-alien-sightings-location/north-america-ufo-alien-sightings/united-states-ufo-alien-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think AboutItsJuly 29, 2025 — July 29, 2025 Think AboutIts &quot;REAL&quot; UFO &amp; Alien Sightings by Date &amp; Location UNITED STATES UFO &amp; ALIEN SIGH...</p></details>
    Published: July 29, 2025

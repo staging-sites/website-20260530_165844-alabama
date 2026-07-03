@@ -257,19 +257,19 @@ Unlike broader arguments about witness credibility or alleged government secrecy
 
 ## Why the wires matter in both photographs
 
-One detail has attracted attention since the earliest technical studies: the object appears beneath overhead utility wires that cross the upper part of the scene. In itself, that does not prove anything. The photographs were taken on a farm, and overhead wires were a normal feature of the landscape. What made investigators pay attention was the object's position relative to those wires in both frames. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
+One detail has attracted attention since the earliest technical studies: the object appears beneath overhead utility wires that cross the upper part of the scene. In itself, that does not prove anything. The photographs were taken on a farm, and overhead wires were a normal feature of the landscape. What made investigators pay attention was the object's position relative to those wires in both frames.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
 
-Astronomer William K. Hartmann, who analysed the photographs for the University of Colorado's UFO study in the late 1960s, regarded this as a legitimate concern even though he found several aspects of the images intriguing. Hartmann noted that the object appeared beneath the wires in both photographs and remained in roughly the same relationship to them despite the camera position changing between exposures. He wrote that this raised the possibility of a model suspended from one of the wires by a thread too small to resolve in the image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+Astronomer William K. Hartmann, who analysed the photographs for the University of Colorado's UFO study in the late 1960s, regarded this as a legitimate concern even though he found several aspects of the images intriguing. Hartmann noted that the object appeared beneath the wires in both photographs and remained in roughly the same relationship to them despite the camera position changing between exposures. He wrote that this raised the possibility of a model suspended from one of the wires by a thread too small to resolve in the image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
-That observation became one of the foundations of later sceptical analysis. The issue is not merely that wires are present. It is that a hanging object would naturally remain aligned with the wires as the photographer moved slightly between shots. A distant airborne object, by contrast, would be expected to show a different relationship to nearby foreground features depending on the camera position and the object's movement. Critics argue that the photographs show less positional change than might be expected from a genuinely distant craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
+That observation became one of the foundations of later sceptical analysis. The issue is not merely that wires are present. It is that a hanging object would naturally remain aligned with the wires as the photographer moved slightly between shots. A distant airborne object, by contrast, would be expected to show a different relationship to nearby foreground features depending on the camera position and the object's movement. Critics argue that the photographs show less positional change than might be expected from a genuinely distant craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
 
-Supporters of the photographs reply that the object does move between the two frames and that interpreting perspective from only two images is inherently uncertain. They also note that Hartmann did not conclude that a hanging model had been proven. His point was narrower: the photographs did not eliminate that possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+Supporters of the photographs reply that the object does move between the two frames and that interpreting perspective from only two images is inherently uncertain. They also note that Hartmann did not conclude that a hanging model had been proven. His point was narrower: the photographs did not eliminate that possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uDzopZnXK_0" title="Pilots report mysterious &#x27;UFO&#x27; sightings in Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uDzopZnXK_0" target="_blank" rel="noopener noreferrer">Pilots report mysterious &#x27;UFO&#x27; sightings in Oregon</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 494.8K &middot; Uploaded: December 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uDzopZnXK_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uDzopZnXK_0">Open on YouTube</a></p></div></div></div>
 
 ## How a nearby suspended model could fit the scene
 
-The suspended-model explanation became more detailed over time. Early sceptics such as Philip J. Klass and later Robert Sheaffer argued that the photographs could be reproduced with a small object hanging from a nearly invisible line beneath the farm wires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Philip J. Klass CollectionKlass, an electrical engineer and UFO investigator, consist of 36 linear feet of materials documenting his writ...</span></span></span>
+The suspended-model explanation became more detailed over time. Early sceptics such as Philip J. Klass and later Robert Sheaffer argued that the photographs could be reproduced with a small object hanging from a nearly invisible line beneath the farm wires.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[as.amphilsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">Philip J. Klass CollectionKlass, an electrical engineer and UFO investigator, consist of 36 linear feet of materials documenting his writ...</span></span></span>
 
 Under this interpretation, several puzzling features become less mysterious:
 
@@ -278,237 +278,237 @@ Under this interpretation, several puzzling features become less mysterious:
 * **Apparent size:** A small object near the lens can look large if viewers assume it is far away.
 * **Lack of motion blur:** A hanging object would remain relatively stable during exposure.
 * **Consistent orientation:** A suspended model may retain a similar tilt between photographs.
-* **Limited positional change:** A nearby object attached to a fixed support would not behave like a rapidly moving distant craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+* **Limited positional change:** A nearby object attached to a fixed support would not behave like a rapidly moving distant craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 </div>
 
-The theory does not require elaborate special effects. Sceptics have suggested possibilities ranging from a handmade model to a detached vehicle mirror or similar metallic object. The exact identity of the object remains disputed, but the key claim is that almost any suitably shaped object could have produced the visual effect if hung correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+The theory does not require elaborate special effects. Sceptics have suggested possibilities ranging from a handmade model to a detached vehicle mirror or similar metallic object. The exact identity of the object remains disputed, but the key claim is that almost any suitably shaped object could have produced the visual effect if hung correctly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
-An important feature of the hoax hypothesis is that it relies on ordinary photographic limitations. The Trent photographs were taken on film, reproduced in newspapers and magazines, copied repeatedly and analysed decades later. Any thin supporting thread would have been difficult to detect in original publication-quality prints, especially against a bright sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+An important feature of the hoax hypothesis is that it relies on ordinary photographic limitations. The Trent photographs were taken on film, reproduced in newspapers and magazines, copied repeatedly and analysed decades later. Any thin supporting thread would have been difficult to detect in original publication-quality prints, especially against a bright sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 <img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615_mcminnville_wire_mod_229f32-Illustration-2-dark.svg" | relative_url }}" alt="Wire theory illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615_mcminnville_wire_mod_229f32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615_mcminnville_wire_mod_229f32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the thread claims add to the debate
 
-For many years, supporters of the photographs could reasonably argue that no suspension line had ever been demonstrated. The wire theory remained plausible but unproven. That changed when later digital-image studies claimed to identify evidence consistent with a thread above the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
+For many years, supporters of the photographs could reasonably argue that no suspension line had ever been demonstrated. The wire theory remained plausible but unproven. That changed when later digital-image studies claimed to identify evidence consistent with a thread above the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
 
-The most widely discussed work came from researchers using IPACO, a specialist image-analysis system employed in aerospace and intelligence-related photographic investigations. In studies published in 2013, the team argued that the geometry of the scene was most consistent with a small model suspended below the power lines. They further claimed that image processing revealed a narrow feature above the object that behaved like a supporting thread rather than random image noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
+The most widely discussed work came from researchers using IPACO, a specialist image-analysis system employed in aerospace and intelligence-related photographic investigations. In studies published in 2013, the team argued that the geometry of the scene was most consistent with a small model suspended below the power lines. They further claimed that image processing revealed a narrow feature above the object that behaved like a supporting thread rather than random image noise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
 
-The researchers estimated that the object could have been only a few metres from the camera and roughly the size expected for a small model rather than a large airborne craft. They also argued that pixel-level measurements showed slight darkening where a thread would be expected to pass through the sky background. According to their interpretation, this was evidence of a real physical obstruction rather than a digital artefact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
+The researchers estimated that the object could have been only a few metres from the camera and roughly the size expected for a small model rather than a large airborne craft. They also argued that pixel-level measurements showed slight darkening where a thread would be expected to pass through the sky background. According to their interpretation, this was evidence of a real physical obstruction rather than a digital artefact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
 
-These findings strengthened the suspended-model explanation because they moved beyond a purely theoretical argument. Instead of saying a thread could have existed, the researchers claimed to have found signs that one actually did exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
+These findings strengthened the suspended-model explanation because they moved beyond a purely theoretical argument. Instead of saying a thread could have existed, the researchers claimed to have found signs that one actually did exist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FsBjsUIqCVQ" title="Oldest Most Authentic UFO Photos? - McMinnville UFO And The Trent&#x27;s Photos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FsBjsUIqCVQ" target="_blank" rel="noopener noreferrer">Oldest Most Authentic UFO Photos? - McMinnville UFO And The Trent&#x27;s Photos</a></p><p class="youtube-embed-meta">Channel: EDGE Of Reality &middot; Views: 2.9K &middot; Uploaded: December 2024 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FsBjsUIqCVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FsBjsUIqCVQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the issue remains disputed
 
-Despite the influence of the thread claims, the debate did not end. Bruce Maccabee, one of the most prominent defenders of the photographs' authenticity, rejected the IPACO conclusions and argued that the alleged thread detections were not convincing. He maintained that photometric measurements still supported a more distant object and that no unequivocal suspension line had been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+Despite the influence of the thread claims, the debate did not end. Bruce Maccabee, one of the most prominent defenders of the photographs' authenticity, rejected the IPACO conclusions and argued that the alleged thread detections were not convincing. He maintained that photometric measurements still supported a more distant object and that no unequivocal suspension line had been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
-The disagreement highlights a recurring problem in historic UFO photography. Researchers are not examining a fresh scene under controlled conditions. They are working from ageing negatives, reproductions and scans that have passed through multiple generations of copying. Small image features can be interpreted differently depending on scanning methods, contrast enhancement and analytical assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
+The disagreement highlights a recurring problem in historic UFO photography. Researchers are not examining a fresh scene under controlled conditions. They are working from ageing negatives, reproductions and scans that have passed through multiple generations of copying. Small image features can be interpreted differently depending on scanning methods, contrast enhancement and analytical assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
 
-For sceptics, the wire-and-thread explanation now represents the most practical and evidence-based account of the photographs. It explains why the object sits beneath the wires, why it maintains a similar orientation and why modern analysis can place it at a plausible distance for a hanging model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
+For sceptics, the wire-and-thread explanation now represents the most practical and evidence-based account of the photographs. It explains why the object sits beneath the wires, why it maintains a similar orientation and why modern analysis can place it at a plausible distance for a hanging model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</span></span></span>
 
-For defenders of the case, the theory remains suggestive rather than conclusive. They argue that the claimed thread is not universally accepted, that earlier analyses favoured a more distant object and that no reconstruction has completely settled every aspect of the photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+For defenders of the case, the theory remains suggestive rather than conclusive. They argue that the claimed thread is not universally accepted, that earlier analyses favoured a more distant object and that no reconstruction has completely settled every aspect of the photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 <img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615_mcminnville_wire_mod_229f32-Illustration-3-dark.svg" | relative_url }}" alt="Wire theory illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615_mcminnville_wire_mod_229f32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615_mcminnville_wire_mod_229f32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the wire theory changed the McMinnville case
 
-The significance of the suspended-model explanation extends beyond one technical detail. Earlier discussions of the McMinnville photographs often treated them as among the strongest visual UFO cases in American history. Hartmann's cautious comments about the overhead wires were sometimes overshadowed by attention given to his photometric arguments suggesting a distant object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+The significance of the suspended-model explanation extends beyond one technical detail. Earlier discussions of the McMinnville photographs often treated them as among the strongest visual UFO cases in American history. Hartmann's cautious comments about the overhead wires were sometimes overshadowed by attention given to his photometric arguments suggesting a distant object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
-Later sceptical work shifted the balance of the discussion. The question became less about whether the photographs showed a mysterious craft and more about whether the visible farm infrastructure already contained the means to stage the scene. Once investigators focused on the wires as a possible support system, the photographs no longer had to be explained as a large object in open air. They could instead be interpreted as a carefully composed illusion created within the immediate foreground of the Trent property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+Later sceptical work shifted the balance of the discussion. The question became less about whether the photographs showed a mysterious craft and more about whether the visible farm infrastructure already contained the means to stage the scene. Once investigators focused on the wires as a possible support system, the photographs no longer had to be explained as a large object in open air. They could instead be interpreted as a carefully composed illusion created within the immediate foreground of the Trent property.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
-Within Oregon UFO history, that shift is important. The McMinnville photographs remain famous not because either side has won decisively, but because the same two images continue to support radically different readings. To believers, the wires are an incidental feature in photographs of an unusual aerial object. To sceptics, the wires are the clue that turns a celebrated UFO image into a plausible farmyard hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
+Within Oregon UFO history, that shift is important. The McMinnville photographs remain famous not because either side has won decisively, but because the same two images continue to support radically different readings. To believers, the wires are an incidental feature in photographs of an unusual aerial object. To sceptics, the wires are the clue that turns a celebrated UFO image into a plausible farmyard hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I70VGsQ6ZVw" title="How the McMinnville UFO sighting inspired Oregon’s famous UFO festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I70VGsQ6ZVw" target="_blank" rel="noopener noreferrer">How the McMinnville UFO sighting inspired Oregon’s famous UFO festival</a></p><p class="youtube-embed-meta">Channel: Central Oregon Daily News &middot; Views: 471 &middot; Uploaded: May 2026 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I70VGsQ6ZVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I70VGsQ6ZVw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the photos staged under farm wires?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the photos staged under farm wires?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains critical thinking approaches relevant to staged-photo claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains critical thinking approaches relevant to staged-photo claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XD-3oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter Andrew Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XD-3oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter Andrew Sturrock</p>
         
-        <p class="fr-book-desc">Directly aligns with debates over photographic authenticity and hoaxing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with debates over photographic authenticity and hoaxing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+Andrew+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evidence assessment in famous UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence assessment in famous UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances skepticism and evidence in major UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances skepticism and evidence in major UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="https://i.ebayimg.com/images/g/MGUAAOSwLANlldxL/s-l225.jpg" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="https://i.ebayimg.com/images/g/32IAAOSw9xxlxgox/s-l225.jpg" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Georgina Moon 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/UEIAAeSwwiBpfisy/s-l225.jpg" alt="Listing image for UFO (TV) Georgina Moon 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Georgina Moon 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="https://i.ebayimg.com/images/g/OVcAAeSwNeVouauL/s-l225.jpg" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-photos-staged-under-farm-wires-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-photos-staged-under-farm-wires-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ Within Oregon UFO history, that shift is important. The McMinnville photographs 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ Within Oregon UFO history, that shift is important. The McMinnville photographs 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ Within Oregon UFO history, that shift is important. The McMinnville photographs 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ Within Oregon UFO history, that shift is important. The McMinnville photographs 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ Within Oregon UFO history, that shift is important. The McMinnville photographs 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,88 +714,88 @@ Within Oregon UFO history, that shift is important. The McMinnville photographs 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: [Mc Minnville](&#123;&#123; 'mc-minnville/' | relative_url &#125;&#125;) UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ipaco.fr  
    Title: The Mc Minnville pictures  
-   Link: <a href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/ReportMcMinnville.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</p></details>
+   Link:<a href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/ReportMcMinnville.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville pictures - IPACO.frThe UFO is a model hanging ca. 2.3 ft under the lower power wire, at a distance of ca. 15.1 ft fr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: as.amphilsoc.org  
-   Link: <a href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/2894</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Philip J. Klass CollectionKlass, an electrical engineer and UFO investigator, consist of 36 linear feet of materials documenting his writ...</p></details>
+   Link:<a href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/2894</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philip J. Klass CollectionKlass, an electrical engineer and UFO investigator, consist of 36 linear feet of materials documenting his writ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iconicphotos.wordpress.com  
    Title: mcminnville ufo  
-   Link: <a href="https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some thought they hanged an object from the power lines. Some measured the shadows and...Read more...</p></details>
+   Link:<a href="https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some thought they hanged an object from the power lines. Some measured the shadows and...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/6c87ba74-5cba-4bde-bfaf-d86177324ff0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6c87ba74-5cba-4bde-bfaf-d86177324ff0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville PhotographsThe McMinnville UFO photographs, which are also known as the Trent UFO photos, refer to two photographs of Unident...</p></details>
+   Link:<a href="https://enigmalabs.io/library/6c87ba74-5cba-4bde-bfaf-d86177324ff0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6c87ba74-5cba-4bde-bfaf-d86177324ff0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville PhotographsThe McMinnville UFO photographs, which are also known as the Trent UFO photos, refer to two photographs of Unident...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoswellUFOmuseum/posts/on-this-day-in-history-the-mcminnville-ufo-sighting-brings-americans-the-first-u/1450286033805059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/on-this-day-in-history-the-mcminnville-ufo-sighting-brings-americans-the-first-u/1450286033805059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in history: The McMinnville UFO Sighting brings...While some analyses found no clear signs of manipulation, skeptics argue a...</p></details>
+   Link:<a href="https://www.facebook.com/RoswellUFOmuseum/posts/on-this-day-in-history-the-mcminnville-ufo-sighting-brings-americans-the-first-u/1450286033805059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/on-this-day-in-history-the-mcminnville-ufo-sighting-brings-americans-the-first-u/1450286033805059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in history: The McMinnville UFO Sighting brings...While some analyses found no clear signs of manipulation, skeptics argue a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There: The McMinnville UFO Sighting of...Trent used one of the side mirrors from his truck hanging on a wire to mimic a...</p></details>
+   Link:<a href="https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There: The McMinnville UFO Sighting of...Trent used one of the side mirrors from his truck hanging on a wire to mimic a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: the mcminnville ufo sighting from 1950 remains one of the most famous and docume  
-   Link: <a href="https://www.facebook.com/cosm0cinema/posts/the-mcminnville-ufo-sighting-from-1950-remains-one-of-the-most-famous-and-docume/1271155198437759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cosm0cinema/posts/the-mcminnville-ufo-sighting-from-1950-remains-one-of-the-most-famous-and-docume/1271155198437759/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>model suspended from the nearby wire by an unresolved thread.&quot; In the 1980s Philip J. Klass and Robert Sheaffer, journalists and noted UF...</p></details>
+   Link:<a href="https://www.facebook.com/cosm0cinema/posts/the-mcminnville-ufo-sighting-from-1950-remains-one-of-the-most-famous-and-docume/1271155198437759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cosm0cinema/posts/the-mcminnville-ufo-sighting-from-1950-remains-one-of-the-most-famous-and-docume/1271155198437759/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>model suspended from the nearby wire by an unresolved thread.&quot; In the 1980s Philip J. Klass and Robert Sheaffer, journalists and noted UF...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Photos Still Mystify | Point of ContactOn May 11, 1950, Paul and Evelyn Trent saw history gliding over their farm in the...</p></details>
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Photos Still Mystify | Point of ContactOn May 11, 1950, Paul and Evelyn Trent saw history gliding over their farm in the...</p></details>
    Published: May 11, 1950  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
    Title: The Trent UFO Photos—'Best' of All Time—Finally Busted?On  
-   Link: <a href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapped two photos of an object that he claimed was a flying saucer (the term UFO...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapped two photos of an object that he claimed was a flying saucer (the term UFO...</p></details>
    Published: May 11, 1950  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unexplained-mysteries.com  
    Title: mysteries revisited the mcminnville ufo photographs  
-   Link: <a href="https://www.unexplained-mysteries.com/news/354261/mysteries-revisited-the-mcminnville-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/news/354261/mysteries-revisited-the-mcminnville-ufo-photographs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries revisited: the McMinnville UFO photographs8 Jan 2022 — Images of an alleged flying saucer taken at a farm in Oregon in 1950 gen...</p></details>
+   Link:<a href="https://www.unexplained-mysteries.com/news/354261/mysteries-revisited-the-mcminnville-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/news/354261/mysteries-revisited-the-mcminnville-ufo-photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries revisited: the McMinnville UFO photographs8 Jan 2022 — Images of an alleged flying saucer taken at a farm in Oregon in 1950 gen...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O  
-   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e in distance relative to the camera, as measured...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e in distance relative to the camera, as measured...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: One of the best UFO photos ever  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11i7ylb/one_of_the_best_ufo_photos_ever_taken_on_a_farm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11i7ylb/one_of_the_best_ufo_photos_ever_taken_on_a_farm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>taken on a farm near...The so called &#x27;[McMinnville photos](&amp;#123;&amp;#123; &#x27;mc-minnville/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; are among the most popular photos of UFO ever made. They were studied by multi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11i7ylb/one_of_the_best_ufo_photos_ever_taken_on_a_farm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11i7ylb/one_of_the_best_ufo_photos_ever_taken_on_a_farm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>taken on a farm near...The so called &#x27;[McMinnville photos](&amp;#123;&amp;#123; &#x27;mc-minnville/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; are among the most popular photos of UFO ever made. They were studied by multi...</p></details>

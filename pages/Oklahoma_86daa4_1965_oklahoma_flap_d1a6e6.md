@@ -273,24 +273,24 @@ The 1965 Oklahoma UFO flap was not a single sighting but a short, intense wave o
 <img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-overview.webp" | relative_url }}" alt="Overview image for 1965 Flap" loading="eager" decoding="sync" fetchpriority="high">
 ## How the sightings spread across Oklahoma
 
-The best-known sequence begins just before the wider public wave. On Saturday 31 July 1965, [Wynnewood]({{ 'wynnewood/' | relative_url }}) police officer Lewis Sikes reported a bright object a few miles north-east of town at about 1:05 a.m. A later Edmond account, drawing on local reporting and Hayden C. Hewes’s investigation, says Sikes described a blue-green centre with a rotating light around the middle, rising, hovering, losing altitude and moving north. The same account says the Murray County sheriff’s office confirmed the sighting, while Tinker Air Force Base and Carswell Air Force Base were later said to have had radar indications around the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
+The best-known sequence begins just before the wider public wave. On Saturday 31 July 1965, [Wynnewood]({{ 'wynnewood/' | relative_url }}) police officer Lewis Sikes reported a bright object a few miles north-east of town at about 1:05 a.m. A later Edmond account, drawing on local reporting and Hayden C. Hewes’s investigation, says Sikes described a blue-green centre with a rotating light around the middle, rising, hovering, losing altitude and moving north. The same account says the Murray County sheriff’s office confirmed the sighting, while Tinker Air Force Base and Carswell Air Force Base were later said to have had radar indications around the same period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
 
-That first night mattered because it gave the next night a ready-made audience. By Sunday 1 August, word had spread and people were watching the skies. The Ardmore newspaper account preserved by OklahomaHistory.net described multi-coloured objects over Ardmore and other southern Oklahoma towns, with reports beginning around 10:30 p.m. south and west of Ardmore. Witnesses described greenish, cone-like or saucer-like lights, red-white-blue flashes, and objects that seemed to hover, dip and move laterally. The report named Ardmore-area locations including Lake Murray Lodge, Dickson, Springer, Durant, Marietta, Madill and Kingston, and said confirmed reports also came from Chandler, Shawnee, Norman and Purcell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
+That first night mattered because it gave the next night a ready-made audience. By Sunday 1 August, word had spread and people were watching the skies. The Ardmore newspaper account preserved by OklahomaHistory.net described multi-coloured objects over Ardmore and other southern Oklahoma towns, with reports beginning around 10:30 p.m. south and west of Ardmore. Witnesses described greenish, cone-like or saucer-like lights, red-white-blue flashes, and objects that seemed to hover, dip and move laterally. The report named Ardmore-area locations including Lake Murray Lodge, Dickson, Springer, Durant, Marietta, Madill and Kingston, and said confirmed reports also came from Chandler, Shawnee, Norman and Purcell.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
 
-The wave then widened beyond local curiosity. The Associated Press item reproduced in the same page reported residents in three south-western states, including police officers, seeing flashing, multi-coloured objects. In Oklahoma, the Highway Patrol said it received 25 to 30 reports, many from police officers and patrol troopers, with objects reported over Purcell, Norman, Chandler, Shawnee and Meeker. Similar calls were reported from New Mexico and Texas, including Hobbs, Carlsbad, Artesia, Amarillo, Borger and Dalhart. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
+The wave then widened beyond local curiosity. The Associated Press item reproduced in the same page reported residents in three south-western states, including police officers, seeing flashing, multi-coloured objects. In Oklahoma, the Highway Patrol said it received 25 to 30 reports, many from police officers and patrol troopers, with objects reported over Purcell, Norman, Chandler, Shawnee and Meeker. Similar calls were reported from New Mexico and Texas, including Hobbs, Carlsbad, Artesia, Amarillo, Borger and Dalhart.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
 
 The movement of the story is important. It did not behave like a tidy single-object case with one fixed description. It behaved like a flap: clustered reports, often at night, with different witnesses using different language for what they saw. Some descriptions sound like bright astronomical objects seen through unstable air; others sound like aircraft, meteors or fireballs; a smaller number were treated by witnesses as stranger because they seemed to hover, change direction or match police-radio reports coming in from elsewhere.
 
 <img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-dark.svg" | relative_url }}" alt="1965 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Police, public and planetarium witnesses
 
-The Oklahoma flap gained weight because many reports did not come only from anonymous callers. Police dispatchers, patrol officers, Highway Patrol channels, amateur radio operators and local investigators all became part of the reporting chain. In Ardmore, Desk Sgt. Lem England of the Ardmore Police Department was credited with first reporting the strange objects to The Daily Ardmoreite, and the article said citizen-band and ham radio operators had watched the lights for two hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
+The Oklahoma flap gained weight because many reports did not come only from anonymous callers. Police dispatchers, patrol officers, Highway Patrol channels, amateur radio operators and local investigators all became part of the reporting chain. In Ardmore, Desk Sgt. Lem England of the Ardmore Police Department was credited with first reporting the strange objects to The Daily Ardmoreite, and the article said citizen-band and ham radio operators had watched the lights for two hours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
 
-Edmond added another layer. Hayden C. Hewes, then a young Oklahoma UFO investigator, was reportedly contacted by television newsman Mike Buchanan after the Highway Patrol had received more than 20 reports of UFOs heading towards Oklahoma City. Hewes went to the Highway Patrol communications tower near what was then Broadway Extension south of Edmond, where reports came in over police radio. That setting is one reason the flap became memorable: witnesses were not just looking up in isolation; some were listening to official communications while reports appeared to move across the state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
+Edmond added another layer. Hayden C. Hewes, then a young Oklahoma UFO investigator, was reportedly contacted by television newsman Mike Buchanan after the Highway Patrol had received more than 20 reports of UFOs heading towards Oklahoma City. Hewes went to the Highway Patrol communications tower near what was then Broadway Extension south of Edmond, where reports came in over police radio. That setting is one reason the flap became memorable: witnesses were not just looking up in isolation; some were listening to official communications while reports appeared to move across the state.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
 
-Several Edmond-area witnesses gave more local shape to the case. Wes Pitchford and his wife reportedly saw a circular, domed object pass near their home east of Edmond at about 10 p.m. on 1 August. Edmond police officer Joel Cobb said he saw a brightly lit colour-changing object over the north-central part of town, apparently hovering near Gracelawn Cemetery before moving away. Officer Chuck Jones also reported seeing unusual lights and said they were not a plane or a star. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
+Several Edmond-area witnesses gave more local shape to the case. Wes Pitchford and his wife reportedly saw a circular, domed object pass near their home east of Edmond at about 10 p.m. on 1 August. Edmond police officer Joel Cobb said he saw a brightly lit colour-changing object over the north-central part of town, apparently hovering near Gracelawn Cemetery before moving away. Officer Chuck Jones also reported seeing unusual lights and said they were not a plane or a star.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
 
-The public did not simply accept the official explanation. Robert Risser, director of the Oklahoma Science and Arts Foundation planetarium, objected strongly to the Air Force’s suggestion that the sightings were probably astronomical. According to the Edmond account, Risser told the Oklahoma Journal that the named planets and stars were on the wrong side of the Earth from Oklahoma City at that season, while allowing that meteors and some “mass hysteria” could explain part of the wave. His position was not that every report was extraordinary; it was that the Air Force’s broad explanation did not fit the reported Oklahoma sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
+The public did not simply accept the official explanation. Robert Risser, director of the Oklahoma Science and Arts Foundation planetarium, objected strongly to the Air Force’s suggestion that the sightings were probably astronomical. According to the Edmond account, Risser told the Oklahoma Journal that the named planets and stars were on the wrong side of the Earth from Oklahoma City at that season, while allowing that meteors and some “mass hysteria” could explain part of the wave. His position was not that every report was extraordinary; it was that the Air Force’s broad explanation did not fit the reported Oklahoma sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
 
 That distinction is central. A sceptical reading does not require treating every witness as foolish. A credible witness can see a real light and still misjudge distance, height, speed or size. But when a blanket explanation is visibly weak, it can make later readers suspect that officials were more concerned with closing the case than with sorting the stronger reports from the weaker ones.
 
@@ -298,22 +298,22 @@ That distinction is central. A sceptical reading does not require treating every
 
 ## The radar claims that made the case harder to dismiss
 
-The most contested part of the evidence trail is radar. The Ardmore report said the Sedgwick County sheriff’s office in Wichita reported Weather Bureau tracking of “several” objects at 6,000 to 9,000 feet. It also said the Oklahoma Highway Patrol reported that Tinker Air Force Base had as many as four strange objects on radar at one time, estimated at about 22,000 feet, while Air Force officials declined to comment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
+The most contested part of the evidence trail is radar. The Ardmore report said the Sedgwick County sheriff’s office in Wichita reported Weather Bureau tracking of “several” objects at 6,000 to 9,000 feet. It also said the Oklahoma Highway Patrol reported that Tinker Air Force Base had as many as four strange objects on radar at one time, estimated at about 22,000 feet, while Air Force officials declined to comment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
 
-The Associated Press item carried a similar claim: the Oklahoma Highway Patrol said Tinker had up to four unidentified objects on radar, but a Tinker spokesman refused to confirm or deny the blips. Lt. John Walmsley of Tinker’s information office was quoted as saying the reports would be investigated by Air Force personnel and that further information would come from U.S. Air Force headquarters once the investigation was complete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
+The Associated Press item carried a similar claim: the Oklahoma Highway Patrol said Tinker had up to four unidentified objects on radar, but a Tinker spokesman refused to confirm or deny the blips. Lt. John Walmsley of Tinker’s information office was quoted as saying the reports would be investigated by Air Force personnel and that further information would come from U.S. Air Force headquarters once the investigation was complete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
 
 Radar is powerful in UFO lore because it appears to remove the problem of human perception. In practice, it does not. Radar returns can be caused by aircraft, weather effects, anomalous propagation, equipment issues or clutter. A radar claim is much stronger if the underlying logs, timings, operators’ statements and correlation with visual reports survive. In the Oklahoma flap, the public evidence is frustrating: newspapers reported radar involvement, but the available trail is mostly second-hand, and official confirmation was limited or withheld.
 
-That is why the later congressional record is so useful. A 1966 House Armed Services Committee hearing included a Saturday Review article by John G. Fuller which referred back to the previous summer’s Oklahoma reports. Fuller wrote that state police in Oklahoma, Texas, Kansas and New Mexico had reported observations “corroborated by radar trackings” from Tinker and Carswell Air Force Bases, but that the Air Force later said the radar tracks did not correspond to the Oklahoma Department of Public Safety’s visual reports. The same excerpt says the Oklahoma State Police had released a nine-page Department of Public Safety report contradicting the Air Force statement and arguing that the Carswell radar tracks and state police visual reports were identical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia600300.us.archive.org">[ia600300.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia600300.us.archive.org</span><span class="citation-popover-title">ufo 1966 1</span><span class="citation-popover-snippet">ufo 1966 1</span></span></span>
+That is why the later congressional record is so useful. A 1966 House Armed Services Committee hearing included a Saturday Review article by John G. Fuller which referred back to the previous summer’s Oklahoma reports. Fuller wrote that state police in Oklahoma, Texas, Kansas and New Mexico had reported observations “corroborated by radar trackings” from Tinker and Carswell Air Force Bases, but that the Air Force later said the radar tracks did not correspond to the Oklahoma Department of Public Safety’s visual reports. The same excerpt says the Oklahoma State Police had released a nine-page Department of Public Safety report contradicting the Air Force statement and arguing that the Carswell radar tracks and state police visual reports were identical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia600300.us.archive.org">[ia600300.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia600300.us.archive.org</span><span class="citation-popover-title">ufo</span><span class="citation-popover-snippet">ufo</span></span></span>
 
 This does not settle the case. Fuller was writing from a pro-investigation posture and relied in part on NICAP, the National Investigations Committee on Aerial Phenomena, which was critical of Air Force handling of UFO reports. But the hearing record preserves the dispute itself: the Oklahoma flap was not merely “people saw lights”; it became an argument over whether official radar evidence had matched law-enforcement observations or had been overstated in the press.
 
 <img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-dark.svg" | relative_url }}" alt="1965 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Tulsa photograph and what it does — and does not — prove
 
-The Oklahoma flap also produced one of the better-known photographic claims from the summer of 1965. The Tulsa case is usually dated to about 1:45 a.m. on 2 August 1965, when 14-year-old Alan R. Smith reportedly photographed a multi-coloured object from his back garden while several witnesses watched it. Later summaries say the object changed from white to red to blue-green and that the image was treated as a Project Blue Book photographic case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1965 tulsa oklahoma ufo photograph</span><span class="citation-popover-snippet">1965 tulsa oklahoma ufo photograph</span></span></span>
+The Oklahoma flap also produced one of the better-known photographic claims from the summer of 1965. The Tulsa case is usually dated to about 1:45 a.m. on 2 August 1965, when 14-year-old Alan R. Smith reportedly photographed a multi-coloured object from his back garden while several witnesses watched it. Later summaries say the object changed from white to red to blue-green and that the image was treated as a Project Blue Book photographic case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1965 tulsa oklahoma ufo photograph</span><span class="citation-popover-snippet">1965 tulsa oklahoma ufo photograph</span></span></span>
 
-The photograph is tempting because it appears to offer exactly what most flap reports lack: a physical record. But it is also a warning about how fragile UFO evidence can be. Secondary summaries of the Project Blue Book photo analysis say the Air Force Photo Analysis Division considered the image to show a material object less than a mile from the camera and about 30 feet across, but also noted that it resembled the effect produced by photographing a multi-coloured revolving filter floodlight. Later UFO-oriented sources cite a 1977 Ground Saucer Watch computer analysis that treated it as an extraordinary craft, but that is a later civilian interpretation, not a settled official finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1965 tulsa oklahoma ufo photograph</span><span class="citation-popover-snippet">1965 tulsa oklahoma ufo photograph</span></span></span>
+The photograph is tempting because it appears to offer exactly what most flap reports lack: a physical record. But it is also a warning about how fragile UFO evidence can be. Secondary summaries of the Project Blue Book photo analysis say the Air Force Photo Analysis Division considered the image to show a material object less than a mile from the camera and about 30 feet across, but also noted that it resembled the effect produced by photographing a multi-coloured revolving filter floodlight. Later UFO-oriented sources cite a 1977 Ground Saucer Watch computer analysis that treated it as an extraordinary craft, but that is a later civilian interpretation, not a settled official finding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1965 tulsa oklahoma ufo photograph</span><span class="citation-popover-snippet">1965 tulsa oklahoma ufo photograph</span></span></span>
 
 For a balanced Oklahoma case page, the Tulsa photograph should be treated as intriguing but not decisive. It strengthens the evidence trail by showing that the flap produced more than verbal testimony. At the same time, it does not independently prove that the photographed object was one of the same objects reported by police or tracked by radar. Without the original negative, full chain of custody, camera details, exposure conditions, local lighting checks and a modern independent reanalysis, it remains a contested artefact rather than a clean answer.
 
@@ -321,11 +321,11 @@ For a balanced Oklahoma case page, the Tulsa photograph should be treated as int
 
 ## Why the official explanation stayed controversial
 
-The Air Force explanation arrived quickly. According to the Edmond account, by the afternoon of Monday 2 August the Secretary of the Air Force Office of Information had said the initial study indicated most reports were astronomical, probably Jupiter or stars such as Capella, Betelgeuse or Aldebaran, with blinking and colour changes attributed to scintillation — the twinkling effect caused by atmospheric disturbance. The statement also said no aircraft had been scrambled to intercept the reported objects, and that the investigation was continuing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
+The Air Force explanation arrived quickly. According to the Edmond account, by the afternoon of Monday 2 August the Secretary of the Air Force Office of Information had said the initial study indicated most reports were astronomical, probably Jupiter or stars such as Capella, Betelgeuse or Aldebaran, with blinking and colour changes attributed to scintillation — the twinkling effect caused by atmospheric disturbance. The statement also said no aircraft had been scrambled to intercept the reported objects, and that the investigation was continuing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
 
-This kind of explanation was common in Project Blue Book work. The Air Force’s own later fact sheet says Blue Book investigated 12,618 reports from 1947 to 1969, of which 701 remained unidentified, and concluded that no investigated UFO report showed a national-security threat, unknown technological principles or evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> The National Archives confirms that Project Blue Book records were declassified, transferred to archival custody, and include case files, administrative files and finding aids arranged by date and location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+This kind of explanation was common in Project Blue Book work. The Air Force’s own later fact sheet says Blue Book investigated 12,618 reports from 1947 to 1969, of which 701 remained unidentified, and concluded that no investigated UFO report showed a national-security threat, unknown technological principles or evidence of extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> The National Archives confirms that Project Blue Book records were declassified, transferred to archival custody, and include case files, administrative files and finding aids arranged by date and location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The Oklahoma dispute was not simply “believers versus sceptics”. The controversy came from a mismatch between the official explanation and parts of the witness record. If some objects were reported in the wrong part of the sky, apparently moving across town, hovering near the horizon, being followed on police-radio reports, or appearing on radar, then “bright stars and planets” could not plausibly explain every report. Risser’s objection mattered because it came from an astronomy professional, not from a fringe promoter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
+The Oklahoma dispute was not simply “believers versus sceptics”. The controversy came from a mismatch between the official explanation and parts of the witness record. If some objects were reported in the wrong part of the sky, apparently moving across town, hovering near the horizon, being followed on police-radio reports, or appearing on radar, then “bright stars and planets” could not plausibly explain every report. Risser’s objection mattered because it came from an astronomy professional, not from a fringe promoter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
 
 There is still a strong sceptical case for caution. A flap creates feedback. Once people know others are watching the sky, they are more likely to report ordinary lights. Multiple causes can be mixed together: meteors, aircraft, stars near the horizon, military activity, atmospheric distortion, re-entering debris, searchlights, hoaxes or exaggerated retellings. A cluster can therefore be socially real — lots of people really did see and report things — without being physically one coherent phenomenon.
 
@@ -341,269 +341,269 @@ Within Oklahoma UFO history, the 1965 flap matters because it became the state�
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wg4Dz87aYug" title="Chief Tells Ancient Aliens Crew Not to Say &quot;Aliens&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer">Chief Tells Ancient Aliens Crew Not to Say &quot;Aliens&quot;</a></p><p class="youtube-embed-meta">Channel: StarKnowledgeTV &middot; Views: 18.8K &middot; Uploaded: May 2013 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wg4Dz87aYug">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in the 1965 Flap?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in the 1965 Flap?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to police reports, radar claims, and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to police reports, radar claims, and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witnesses and official evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witnesses and official evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides background on official investigative procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on official investigative procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers a broader perspective on recurring sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a broader perspective on recurring sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-flap-what-really-happened-in-the-1965-flap-oklahoma-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ Within Oklahoma UFO history, the 1965 flap matters because it became the state�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ Within Oklahoma UFO history, the 1965 flap matters because it became the state�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ Within Oklahoma UFO history, the 1965 flap matters because it became the state�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ Within Oklahoma UFO history, the 1965 flap matters because it became the state�
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -759,115 +759,115 @@ Within Oklahoma UFO history, the 1965 flap matters because it became the state�
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: edmondlifeandleisure.com  
    Title: Edmond Underground: in '65 Edmond abuzz with UCO sightings  
-   Link: <a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
+   Link:<a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oklahomahistory.net  
    Title: ufo scare 1965  
-   Link: <a href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow">https://oklahomahistory.net/ufo-scare-1965/</a>  
+   Link:<a href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow">https://oklahomahistory.net/ufo-scare-1965/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ia600300.us.archive.org  
    Title: ufo 1966 1  
-   Link: <a href="https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf</a>  
+   Link:<a href="https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf</a>  
+   Link:<a href="https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1965fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1965fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1965fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1965fullrep.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thinkaboutitdocs.com  
    Title: 1965 tulsa oklahoma ufo photograph  
-   Link: <a href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/</a>  
+   Link:<a href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thinkaboutitdocs.com  
    Title: 1965 august ufo alien sightings  
-   Link: <a href="https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/</a>  
+   Link:<a href="https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=1964" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=1964</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=1964" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=1964</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: internationalufobureau.com  
-   Link: <a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
+   Link:<a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Oklahoma Highway Patrol Communications Regarding Cold War Era UFO Flaps  
-   Link: <a href="https://www.youtube.com/watch?v=O1kforufo71" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O1kforufo71</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Evidence Trail of the Great Plains UFO Wave...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O1kforufo71" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O1kforufo71</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Evidence Trail of the Great Plains UFO Wave...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Tinker Air Force Base Historical Radar Records and Sky Anomalies  
-   Link: <a href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZIPsPRaZP6M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oklahoma Highway Patrol Communications Regarding Cold War Era UFO Flaps...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZIPsPRaZP6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oklahoma Highway Patrol Communications Regarding Cold War Era UFO Flaps...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7bns_WhNAQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tinker Air Force Base Historical Radar Records and Sky Anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7bns_WhNAQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tinker Air Force Base Historical Radar Records and Sky Anomalies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wg4Dz87aYug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archives: Unexplained Midwest Sightings of 1965...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wg4Dz87aYug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archives: Unexplained Midwest Sightings of 1965...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/</a>  
+   Link:<a href="https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/desks-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/desks-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iapsop.com  
-   Link: <a href="https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf</a>  
+   Link:<a href="https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sohp.us  
-   Link: <a href="https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php</a>
+   Link:<a href="https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php</a>

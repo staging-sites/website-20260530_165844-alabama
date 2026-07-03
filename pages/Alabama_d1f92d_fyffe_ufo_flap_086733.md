@@ -268,23 +268,23 @@ image: /assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-overview-social.jpg
 
 ## Introduction
 
-Fyffe became Alabama’s best-known UFO hotspot because a short burst of reported sightings in February 1989 did something most local UFO stories never do: it drew dozens of witnesses, involved police officers, attracted national attention, and then settled into civic identity rather than disappearing as a curiosity. The core claim is simple but still unresolved: residents in and around the small DeKalb County town reported strange, silent lights or objects in the sky, with some accounts describing a curved or triangular form. The strongest evidence is not a photograph or official technical finding, but the number of local reports and the involvement of named law-enforcement witnesses. The main weakness is equally clear: no public physical evidence has emerged that proves what was seen. Fyffe matters in Alabama UFO history because it shows how a sighting cluster can become folklore, tourism, humour, scepticism, and local pride all at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Fyffe became Alabama’s best-known UFO hotspot because a short burst of reported sightings in February 1989 did something most local UFO stories never do: it drew dozens of witnesses, involved police officers, attracted national attention, and then settled into civic identity rather than disappearing as a curiosity. The core claim is simple but still unresolved: residents in and around the small DeKalb County town reported strange, silent lights or objects in the sky, with some accounts describing a curved or triangular form. The strongest evidence is not a photograph or official technical finding, but the number of local reports and the involvement of named law-enforcement witnesses. The main weakness is equally clear: no public physical evidence has emerged that proves what was seen. Fyffe matters in Alabama UFO history because it shows how a sighting cluster can become folklore, tourism, humour, scepticism, and local pride all at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-overview.webp" | relative_url }}" alt="Overview image for Fyffe Flap" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened over Fyffe in February 1989?
 
-The usual account places the main Fyffe sightings on 11–12 February 1989, when roughly 50 residents in a town of fewer than 2,000 people reported unidentified objects in the sky. The Encyclopedia of Alabama, a state-focused reference source, summarises the event as “mass sightings” by about 50 town residents and notes that the episode later became part of Fyffe’s public identity as the “UFO Capital of Alabama”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span>
+The usual account places the main Fyffe sightings on 11–12 February 1989, when roughly 50 residents in a town of fewer than 2,000 people reported unidentified objects in the sky. The Encyclopedia of Alabama, a state-focused reference source, summarises the event as “mass sightings” by about 50 town residents and notes that the episode later became part of Fyffe’s public identity as the “UFO Capital of Alabama”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span>
 
-Local histories and later reporting give the episode more colour. Calls reportedly came into the Fyffe Police Department during the evening, and the descriptions were not all identical: some accounts emphasised lights, some a curved or “banana-shaped” object, and others a large, wide or triangular form. Landmarks of DeKalb County records a description of an object angled “from 1 o’clock to 7 o’clock”, with bright lights and a green-outlined curvature; Alabama Public Radio later described residents as reporting a banana-shaped UFO; and WAFF’s retrospective interview with former officer Fred Works emphasised red and white lights, size, and silence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
+Local histories and later reporting give the episode more colour. Calls reportedly came into the Fyffe Police Department during the evening, and the descriptions were not all identical: some accounts emphasised lights, some a curved or “banana-shaped” object, and others a large, wide or triangular form. Landmarks of DeKalb County records a description of an object angled “from 1 o’clock to 7 o’clock”, with bright lights and a green-outlined curvature; Alabama Public Radio later described residents as reporting a banana-shaped UFO; and WAFF’s retrospective interview with former officer Fred Works emphasised red and white lights, size, and silence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
 
 The details are important because they cut both ways. Multiple witnesses reporting something unusual gives the case weight as a community event. But varied descriptions also make the object harder to reconstruct. A distant aircraft, helicopter, atmospheric effect, astronomical object, or several unrelated observations can become a single local story once people start comparing notes. Fyffe’s case is therefore best treated as a sighting flap: a concentrated period of reports, not a single fully documented encounter.
 
 <img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-1-dark.svg" | relative_url }}" alt="Fyffe Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why police involvement made the story stick
 
-The most memorable part of the Fyffe flap is that it was not confined to anonymous callers. Police Chief Junior Garmany and Assistant Chief Fred Works became central witnesses. Landmarks of DeKalb County says Garmany and Works responded to the calls, saw something while on County Road 43, got out of their vehicle, and watched an object come overhead without making the sound they expected from a conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most memorable part of the Fyffe flap is that it was not confined to anonymous callers. Police Chief Junior Garmany and Assistant Chief Fred Works became central witnesses. Landmarks of DeKalb County says Garmany and Works responded to the calls, saw something while on County Road 43, got out of their vehicle, and watched an object come overhead without making the sound they expected from a conventional aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Works’ later interviews helped keep the incident alive. In WAFF’s 2018 festival coverage, he recalled seeing a large object with lights and stressed that the lack of sound was the part that remained mysterious to him. The Crimson White’s 2019 feature described Works physically demonstrating the shape he remembered more than 30 years later, and it placed his account within a town that still defended the credibility of its original witnesses. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-title">fyffe prepares ufo days festival</span><span class="citation-popover-snippet">fyffe prepares ufo days festival</span></span></span>
+Works’ later interviews helped keep the incident alive. In WAFF’s 2018 festival coverage, he recalled seeing a large object with lights and stressed that the lack of sound was the part that remained mysterious to him. The Crimson White’s 2019 feature described Works physically demonstrating the shape he remembered more than 30 years later, and it placed his account within a town that still defended the credibility of its original witnesses. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-title">fyffe prepares ufo days festival</span><span class="citation-popover-snippet">fyffe prepares ufo days festival</span></span></span>
 
 This does not prove an extraordinary cause. Police officers can misperceive lights, distance, altitude, and speed just like anyone else, especially at night. But their involvement changed how the story was received locally. A report from a police chief and assistant chief was harder for neighbours to dismiss as a prank or imagination. In UFO history, that kind of witness status often matters less as scientific proof than as social proof: it gives a community permission to take the event seriously.
 
@@ -292,18 +292,18 @@ This does not prove an extraordinary cause. Police officers can misperceive ligh
 
 ## Media attention turned a local mystery into a public spectacle
 
-The Fyffe story spread quickly because it was vivid, local, and easy for media outlets to package: a small mountain town, [police witnesses]({{ 'police-witnesses/' | relative_url }}), dozens of residents, and a strange object that no one could name. Landmarks of DeKalb County says more than 100 news organisations converged on Fyffe, while later local tourism writing describes the result as a media circus in which some outlets treated the sightings as news and others made light of the town. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Fyffe story spread quickly because it was vivid, local, and easy for media outlets to package: a small mountain town, [police witnesses]({{ 'police-witnesses/' | relative_url }}), dozens of residents, and a strange object that no one could name. Landmarks of DeKalb County says more than 100 news organisations converged on Fyffe, while later local tourism writing describes the result as a media circus in which some outlets treated the sightings as news and others made light of the town.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That public attention was double-edged. It brought recognition to Fyffe, but it also exposed residents to ridicule. The Crimson White records that a Jacksonville State University student newspaper column angered residents by caricaturing the town, and that the editor later apologised for the tone. Works remembered appreciating people who said, in effect, that if he and Garmany said they saw something, they saw something. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecrimsonwhite.com">[The Crimson White]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecrimsonwhite.com</span><span class="citation-popover-title">alabamas ufo capital still has a story to tell</span><span class="citation-popover-snippet">alabamas ufo capital still has a story to tell</span></span></span>
+That public attention was double-edged. It brought recognition to Fyffe, but it also exposed residents to ridicule. The Crimson White records that a Jacksonville State University student newspaper column angered residents by caricaturing the town, and that the editor later apologised for the tone. Works remembered appreciating people who said, in effect, that if he and Garmany said they saw something, they saw something.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecrimsonwhite.com">[The Crimson White]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecrimsonwhite.com</span><span class="citation-popover-title">alabamas ufo capital still has a story to tell</span><span class="citation-popover-snippet">alabamas ufo capital still has a story to tell</span></span></span>
 
 This is one reason the Fyffe flap is better understood as folklore as well as a UFO case. Folklore does not mean “false”; it means a story becomes part of how a community talks about itself. In Fyffe, the sighting reports were followed by outsiders, jokes, scepticism, civic defensiveness, and eventually celebration. The mystery in the sky mattered, but so did the way the town was seen by everyone else.
 
 <img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-2-dark.svg" | relative_url }}" alt="Fyffe Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What is the best evidence, and what are the main doubts?
 
-Fyffe’s strongest evidence is testimonial rather than technical. The case rests on the number of people who reportedly called police, the repeated local accounts from named officials, and the consistency of one striking feature across several tellings: witnesses expected noise from a large object but reported silence. The state reference entry, DeKalb County local history, Alabama Public Radio, WAFF, and The Crimson White all preserve the basic structure of the story: a February 1989 cluster, about 50 reports, police involvement, and lasting local recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecrimsonwhite.com">[The Crimson White]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecrimsonwhite.com</span><span class="citation-popover-title">alabamas ufo capital still has a story to tell</span><span class="citation-popover-snippet">alabamas ufo capital still has a story to tell</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span> of Alabama <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Fyffe’s strongest evidence is testimonial rather than technical. The case rests on the number of people who reportedly called police, the repeated local accounts from named officials, and the consistency of one striking feature across several tellings: witnesses expected noise from a large object but reported silence. The state reference entry, DeKalb County local history, Alabama Public Radio, WAFF, and The Crimson White all preserve the basic structure of the story: a February 1989 cluster, about 50 reports, police involvement, and lasting local recognition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecrimsonwhite.com">[The Crimson White]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecrimsonwhite.com</span><span class="citation-popover-title">alabamas ufo capital still has a story to tell</span><span class="citation-popover-snippet">alabamas ufo capital still has a story to tell</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span> of Alabama<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The weaknesses are just as central. Public accounts do not point to a clear radar record, photograph, recovered material, official aviation identification, or formal government case file that resolves the object. [Project Blue Book]({{ 'project-blue-book/' | relative_url }}) cannot help with this particular incident because the US Air Force programme ended in 1969, two decades before Fyffe’s sightings; the Air Force says Blue Book received 12,618 reports during its lifetime, with 701 left unidentified, but also concluded that evaluated UFOs showed no evidence of being extraterrestrial vehicles or national-security threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The weaknesses are just as central. Public accounts do not point to a clear radar record, photograph, recovered material, official aviation identification, or formal government case file that resolves the object. [Project Blue Book]({{ 'project-blue-book/' | relative_url }}) cannot help with this particular incident because the US Air Force programme ended in 1969, two decades before Fyffe’s sightings; the Air Force says Blue Book received 12,618 reports during its lifetime, with 701 left unidentified, but also concluded that evaluated UFOs showed no evidence of being extraterrestrial vehicles or national-security threats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That leaves Fyffe in a common but frustrating category: genuinely meaningful as a witness cluster, weak as a scientific record. A cautious reading is that something, or several things, prompted numerous reports around Fyffe in February 1989. A more cautious reading stops there. The available public evidence does not justify saying that an alien craft visited Fyffe, nor does it justify mocking witnesses as though nothing unusual could have been observed.
 
@@ -311,11 +311,11 @@ That leaves Fyffe in a common but frustrating category: genuinely meaningful as 
 
 ## How Fyffe turned “UFO” into local identity
 
-The striking part of Fyffe’s afterlife is that the town did not simply bury the story. It absorbed it. The Encyclopedia of Alabama says the annual UFO Day Festival grew out of the alleged mass sighting and that the festival uses “UFO” as “Unforgettable Family Outing”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span>
+The striking part of Fyffe’s afterlife is that the town did not simply bury the story. It absorbed it. The Encyclopedia of Alabama says the annual UFO Day Festival grew out of the alleged mass sighting and that the festival uses “UFO” as “Unforgettable Family Outing”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Fyffe</span><span class="citation-popover-snippet">Encyclopedia of Alabama Fyffe</span></span></span>
 
-Alabama Public Radio reports that former mayor Larry Lingerfelt launched the festival in 2004, reframing the town’s unusual reputation into a community event. APR also says officials have described annual attendance in the range of roughly 2,000 to 5,000 people, with visitors wearing alien-themed outfits and buying into the fun without necessarily treating the original event as settled fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
+Alabama Public Radio reports that former mayor Larry Lingerfelt launched the festival in 2004, reframing the town’s unusual reputation into a community event. APR also says officials have described annual attendance in the range of roughly 2,000 to 5,000 people, with visitors wearing alien-themed outfits and buying into the fun without necessarily treating the original event as settled fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Alabama Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Fyffe celebrates annual UFO Festival</span><span class="citation-popover-snippet">Alabama Public Radio...</span></span></span>
 
-The tourism version of Fyffe’s UFO identity is playful rather than investigative. Visit Lookout Mountain describes UFO Day as a fourth-Saturday-in-August gathering at Fyffe Town Park with arts and crafts, food, live music, and hot-air balloons. That last detail is especially telling: the festival fills the sky with known flying objects, turning a frightening or puzzling memory into a family spectacle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitlookoutmountain.com">[Visit Lookout Mountain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitlookoutmountain.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The tourism version of Fyffe’s UFO identity is playful rather than investigative. Visit Lookout Mountain describes UFO Day as a fourth-Saturday-in-August gathering at Fyffe Town Park with arts and crafts, food, live music, and hot-air balloons. That last detail is especially telling: the festival fills the sky with known flying objects, turning a frightening or puzzling memory into a family spectacle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitlookoutmountain.com">[Visit Lookout Mountain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitlookoutmountain.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-3-dark.svg" | relative_url }}" alt="Fyffe Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the festival matters to Alabama UFO history
@@ -330,201 +330,201 @@ The “UFO Capital of Alabama” label also shows how public meaning can outlast
 
 ## How later reporting changed the case
 
-Later reporting has mostly strengthened Fyffe as folklore rather than as proof. Interviews with Fred Works and coverage of the festival have preserved named testimony and kept the event from becoming a vague rumour. They also show that the story has been stable in its broad outline: multiple calls, police involvement, silent lights or objects, media attention, and a long cultural afterlife. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-title">fyffe prepares ufo days festival</span><span class="citation-popover-snippet">fyffe prepares ufo days festival</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecrimsonwhite.com">[The Crimson White]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecrimsonwhite.com</span><span class="citation-popover-title">alabamas ufo capital still has a story to tell</span><span class="citation-popover-snippet">alabamas ufo capital still has a story to tell</span></span></span>
+Later reporting has mostly strengthened Fyffe as folklore rather than as proof. Interviews with Fred Works and coverage of the festival have preserved named testimony and kept the event from becoming a vague rumour. They also show that the story has been stable in its broad outline: multiple calls, police involvement, silent lights or objects, media attention, and a long cultural afterlife. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waff.com">[www.waff.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waff.com</span><span class="citation-popover-title">fyffe prepares ufo days festival</span><span class="citation-popover-snippet">fyffe prepares ufo days festival</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecrimsonwhite.com">[The Crimson White]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecrimsonwhite.com</span><span class="citation-popover-title">alabamas ufo capital still has a story to tell</span><span class="citation-popover-snippet">alabamas ufo capital still has a story to tell</span></span></span>
 
 At the same time, later coverage has not added the kind of evidence that would sharply upgrade the case. No widely accepted image, official technical report, or conclusive aviation explanation has emerged in the sources most commonly cited by local and state outlets. Instead, the newer material tends to document memory, community reaction, and festival culture. That is valuable, but it changes the question from “What exactly flew over Fyffe?” to “Why did Fyffe remember it this way?”
 
 The answer is that Fyffe’s 1989 sightings sit at the intersection of mystery and belonging. Residents reported something they could not explain. Police officers gave the story unusual credibility. Media attention made the town briefly famous and sometimes mocked. The festival then turned an awkward spotlight into an annual gathering. In Alabama’s UFO history, Fyffe remains unresolved as an aerial event, but highly resolved as a piece of living local folklore.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Fyffe Become Alabama’s UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Fyffe Become Alabama’s UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s focus on witness testimony, official observers, and unresolved sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s focus on witness testimony, official observers, and unresolved sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how local UFO waves become folklore and community legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how local UFO waves become folklore and community legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating mass sighting reports like Fyffe.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating mass sighting reports like Fyffe.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how unexplained phenomena become cultural and social narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unexplained phenomena become cultural and social narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens UFO T-Shirt Aliens Dont Believe In You Either Tee Tee Funny Space Gift"><img src="https://i.ebayimg.com/images/g/krcAAOSw6S9hlQg5/s-l225.jpg" alt="Listing image for Mens UFO T-Shirt Aliens Dont Believe In You Either Tee Tee Funny Space Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens UFO T-Shirt Aliens Dont Believe In You Either Tee Tee Funny Space Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens UFO T-Shirt Aliens Dont Believe In You Either Tee Tee Funny Space Gift"><img src="https://i.ebayimg.com/images/g/krcAAOSw6S9hlQg5/s-l225.jpg" alt="Listing image for Mens UFO T-Shirt Aliens Dont Believe In You Either Tee Tee Funny Space Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens UFO T-Shirt Aliens Dont Believe In You Either Tee Tee Funny Space Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Y2k Ufo Roswell T Shirt Size Medium retro alien biker"><img src="https://i.ebayimg.com/images/g/lpUAAOSwcvdj5O7h/s-l225.jpg" alt="Listing image for Vintage Y2k Ufo Roswell T Shirt Size Medium retro alien biker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage Y2k Ufo Roswell T Shirt Size Medium retro alien biker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Y2k Ufo Roswell T Shirt Size Medium retro alien biker"><img src="https://i.ebayimg.com/images/g/lpUAAOSwcvdj5O7h/s-l225.jpg" alt="Listing image for Vintage Y2k Ufo Roswell T Shirt Size Medium retro alien biker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage Y2k Ufo Roswell T Shirt Size Medium retro alien biker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tie Dye T-shirt Trippy Rave Festival Designs. Alien Frog Mushrooms"><img src="https://i.ebayimg.com/images/g/0sMAAeSw5A9psGl4/s-l225.jpg" alt="Listing image for Tie Dye T-shirt Trippy Rave Festival Designs. Alien Frog Mushrooms" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Tie Dye T-shirt Trippy Rave Festival Designs. Alien Frog Mushrooms</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tie Dye T-shirt Trippy Rave Festival Designs. Alien Frog Mushrooms"><img src="https://i.ebayimg.com/images/g/0sMAAeSw5A9psGl4/s-l225.jpg" alt="Listing image for Tie Dye T-shirt Trippy Rave Festival Designs. Alien Frog Mushrooms" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Tie Dye T-shirt Trippy Rave Festival Designs. Alien Frog Mushrooms</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe SPACE INVADERS t-shirt ARCADE GAME ALIENS UFO FUNNY GEEK"><img src="https://i.ebayimg.com/images/g/bZEAAOSwKrhVXIOF/s-l225.jpg" alt="Listing image for I Want To Believe SPACE INVADERS t-shirt ARCADE GAME ALIENS UFO FUNNY GEEK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe SPACE INVADERS t-shirt ARCADE GAME ALIENS UFO FUNNY GEEK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe SPACE INVADERS t-shirt ARCADE GAME ALIENS UFO FUNNY GEEK"><img src="https://i.ebayimg.com/images/g/bZEAAOSwKrhVXIOF/s-l225.jpg" alt="Listing image for I Want To Believe SPACE INVADERS t-shirt ARCADE GAME ALIENS UFO FUNNY GEEK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe SPACE INVADERS t-shirt ARCADE GAME ALIENS UFO FUNNY GEEK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo festival t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival t shirt" data-ebay-reference="how-did-fyffe-become-alabama-s-ufo-hotspot-ufo-festival-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ The answer is that Fyffe’s 1989 sightings sit at the intersection of mystery a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ The answer is that Fyffe’s 1989 sightings sit at the intersection of mystery a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ The answer is that Fyffe’s 1989 sightings sit at the intersection of mystery a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ The answer is that Fyffe’s 1989 sightings sit at the intersection of mystery a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ The answer is that Fyffe’s 1989 sightings sit at the intersection of mystery a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,120 +730,120 @@ The answer is that Fyffe’s 1989 sightings sit at the intersection of mystery a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: apr.org  
-   Link: <a href="https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival</a>  
+   Link:<a href="https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/news/2023-09-12/small-town-flair-fyffe-celebrates-otherworldly-history-with-premier-summer-festival</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: waff.com  
    Title: fyffe prepares ufo days festival  
-   Link: <a href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/</a>  
+   Link:<a href="https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/" target="_blank" rel="noopener noreferrer nofollow">https://www.waff.com/2018/08/23/fyffe-prepares-ufo-days-festival/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Feb 23 1984, The Times, #61765, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/NewsUK1984UKEnglish/Feb%2023%201984%2C%20The%20Times%2C%20%2361765%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1984UKEnglish/Feb%2023%201984%2C%20The%20Times%2C%20%2361765%2C%20UK%20%28en%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewsUK1984UKEnglish/Feb%2023%201984%2C%20The%20Times%2C%20%2361765%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1984UKEnglish/Feb%2023%201984%2C%20The%20Times%2C%20%2361765%2C%20UK%20%28en%29_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: apr.org  
    Title: dekalb county  
-   Link: <a href="https://www.apr.org/tags/dekalb-county" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/tags/dekalb-county</a>  
+   Link:<a href="https://www.apr.org/tags/dekalb-county" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/tags/dekalb-county</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Fyffe celebrates annual [UFO Festival](&#123;&#123; 'ufo-festival/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BLiLJCXuJ4I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Public Radio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BLiLJCXuJ4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BLiLJCXuJ4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Public Radio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: encyclopediaofalabama.org  
    Title: Encyclopedia of Alabama Fyffe  
-   Link: <a href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/fyffe/</a>  
+   Link:<a href="https://encyclopediaofalabama.org/article/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/fyffe/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: landmarksdekalbal.org  
-   Link: <a href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/</a>  
+   Link:<a href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thecrimsonwhite.com  
    Title: alabamas ufo capital still has a story to tell  
-   Link: <a href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow">https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/</a>  
+   Link:<a href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow">https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: visitlookoutmountain.com  
-   Link: <a href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow">https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/</a>  
+   Link:<a href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow">https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopediaofalabama.org  
-   Link: <a href="https://encyclopediaofalabama.org/media/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/media/fyffe/</a>  
+   Link:<a href="https://encyclopediaofalabama.org/media/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/media/fyffe/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: visitlookoutmountain.com  
-   Link: <a href="https://visitlookoutmountain.com/summerfunatufodaysinfyffe/" target="_blank" rel="noopener noreferrer nofollow">https://visitlookoutmountain.com/summerfunatufodaysinfyffe/</a>  
+   Link:<a href="https://visitlookoutmountain.com/summerfunatufodaysinfyffe/" target="_blank" rel="noopener noreferrer nofollow">https://visitlookoutmountain.com/summerfunatufodaysinfyffe/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Metal Man of Alabama  
-   Link: <a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EDCm-mRAVA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hampton Incident: An Unexplained U.F.O. Sighting in 1965 | NASA&#x27;s Unexplained Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EDCm-mRAVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hampton Incident: An Unexplained U.F.O. Sighting in 1965 | NASA&#x27;s Unexplained Files...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HeraldNet/posts/double-leg-takedowns-pins-filled-bleachers-and-the-smell-of-pizza-and-popcorn-fr/774416168036763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HeraldNet/posts/double-leg-takedowns-pins-filled-bleachers-and-the-smell-of-pizza-and-popcorn-fr/774416168036763/</a>  
+   Link:<a href="https://www.facebook.com/HeraldNet/posts/double-leg-takedowns-pins-filled-bleachers-and-the-smell-of-pizza-and-popcorn-fr/774416168036763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HeraldNet/posts/double-leg-takedowns-pins-filled-bleachers-and-the-smell-of-pizza-and-popcorn-fr/774416168036763/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: paradigmresearchgroup.org  
-   Link: <a href="https://www.paradigmresearchgroup.org/News_Items-3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.paradigmresearchgroup.org/News_Items-3.htm</a>  
+   Link:<a href="https://www.paradigmresearchgroup.org/News_Items-3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.paradigmresearchgroup.org/News_Items-3.htm</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IFLScience/posts/over-the-past-four-decades-ranchers-have-been-finding-a-slow-but-steady-stream-o/4239374656083513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IFLScience/posts/over-the-past-four-decades-ranchers-have-been-finding-a-slow-but-steady-stream-o/4239374656083513/</a>  
+   Link:<a href="https://www.facebook.com/IFLScience/posts/over-the-past-four-decades-ranchers-have-been-finding-a-slow-but-steady-stream-o/4239374656083513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IFLScience/posts/over-the-past-four-decades-ranchers-have-been-finding-a-slow-but-steady-stream-o/4239374656083513/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Alabama/comments/j81zj0/remember_in_93_when_dekalb_county_was_seeing_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Alabama/comments/j81zj0/remember_in_93_when_dekalb_county_was_seeing_so/</a>  
+   Link:<a href="https://www.reddit.com/r/Alabama/comments/j81zj0/remember_in_93_when_dekalb_county_was_seeing_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Alabama/comments/j81zj0/remember_in_93_when_dekalb_county_was_seeing_so/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dailykos.com  
-   Link: <a href="https://www.dailykos.com/stories/2006/11/15/271465/community/Renegade-Dems-deliver-Alabama-Senate-to-GOP/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailykos.com/stories/2006/11/15/271465/community/Renegade-Dems-deliver-Alabama-Senate-to-GOP/</a>  
+   Link:<a href="https://www.dailykos.com/stories/2006/11/15/271465/community/Renegade-Dems-deliver-Alabama-Senate-to-GOP/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailykos.com/stories/2006/11/15/271465/community/Renegade-Dems-deliver-Alabama-Senate-to-GOP/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>
+   Link:<a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>

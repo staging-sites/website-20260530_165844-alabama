@@ -268,12 +268,12 @@ image: /assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-overview-social.jp
 
 ## Introduction
 
-Utah produces many UFO reports for a simple reason: people really do see unusual things in its skies, but the setting often makes ordinary objects harder to judge. The state combines dark rural skies, wide desert horizons, mountain backdrops, busy aviation corridors, military activity, satellites, drones and dramatic meteors. That mix is ideal for skywatching, but also ideal for honest misidentification. A light that would be ignored over a city can look startling over canyon country; a satellite train can seem coordinated; a distant aircraft can appear to hover; a meteor can briefly look like a falling craft. This does not mean every Utah report is worthless. It means Utah’s UFO history has to be read with sky conditions in mind, especially when reports rely on lights, movement and witness estimates rather than measured distance, altitude or speed. A University of Utah-led study of nearly 99,000 public UAP reports found that reports are more common where people have better sky-viewing opportunities, including darker skies, lower tree cover and proximity to airports or military installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[The U]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The UThe West is best to spot UFOs</span><span class="citation-popover-snippet">The UThe West is best to spot UFOs</span></span></span>
+Utah produces many UFO reports for a simple reason: people really do see unusual things in its skies, but the setting often makes ordinary objects harder to judge. The state combines dark rural skies, wide desert horizons, mountain backdrops, busy aviation corridors, military activity, satellites, drones and dramatic meteors. That mix is ideal for skywatching, but also ideal for honest misidentification. A light that would be ignored over a city can look startling over canyon country; a satellite train can seem coordinated; a distant aircraft can appear to hover; a meteor can briefly look like a falling craft. This does not mean every Utah report is worthless. It means Utah’s UFO history has to be read with sky conditions in mind, especially when reports rely on lights, movement and witness estimates rather than measured distance, altitude or speed. A University of Utah-led study of nearly 99,000 public UAP reports found that reports are more common where people have better sky-viewing opportunities, including darker skies, lower tree cover and proximity to airports or military installations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[The U]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The UThe West is best to spot UFOs</span><span class="citation-popover-snippet">The UThe West is best to spot UFOs</span></span></span>
 
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-overview.webp" | relative_url }}" alt="Overview image for Sky Clues" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Utah’s dark skies create more reports
 
-Utah is one of the best American states for seeing the night sky. Utah State Parks says the state has some of the darkest night skies in North America, while the state’s tourism material promotes Utah as a major dark-sky destination with numerous certified dark-sky parks and communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stateparks.utah.gov/activities/dark-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stateparks.utah.gov">[Utah State Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stateparks.utah.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That matters for UFO reporting because visibility cuts both ways. It helps people see real astronomical and aerial events, but it also makes unfamiliar lights stand out more sharply.
+Utah is one of the best American states for seeing the night sky. Utah State Parks says the state has some of the darkest night skies in North America, while the state’s tourism material promotes Utah as a major dark-sky destination with numerous certified dark-sky parks and communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stateparks.utah.gov/activities/dark-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stateparks.utah.gov">[Utah State Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stateparks.utah.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That matters for UFO reporting because visibility cuts both ways. It helps people see real astronomical and aerial events, but it also makes unfamiliar lights stand out more sharply.
 
 In heavily lit cities, faint satellites, high aircraft, dim meteors and distant drones may disappear into glare. In rural Utah, especially across the Colorado Plateau, the West Desert, canyon country and the [Uintah Basin]({{ 'uintah-basin/' | relative_url }}), the same objects can be visible for longer and against a darker background. The result is not necessarily more extraordinary activity; it is more opportunity to notice the sky.
 
@@ -294,7 +294,7 @@ The key point is not that Utah witnesses are careless. It is that Utah gives wit
 
 Many UFO reports turn on a witness’s estimate of size, speed and altitude. In Utah, those estimates can be especially difficult. The state’s open basins, salt flats, desert highways and mountain valleys often give a vast view with few nearby objects in the same line of sight. Without a building, tree, hilltop or known aircraft beside the object, a small nearby light and a large distant object can look deceptively similar.
 
-This problem is not theoretical. Utah’s most famous filmed UFO case, the 1952 [Tremonton film]({{ 'tremonton-film/' | relative_url }}), shows why sky geometry matters. Navy warrant officer Delbert Newhouse filmed bright objects near Tremonton, and the footage became a major early UFO case. But the Condon Report’s discussion of the case recorded the central weakness: there was no reference point in the sky, making speed, size, altitude and distance impossible to estimate from the film alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">PDF Directory Condon Report, Case 49: Tremonton, Utah</span></span></span>
+This problem is not theoretical. Utah’s most famous filmed UFO case, the 1952 [Tremonton film]({{ 'tremonton-film/' | relative_url }}), shows why sky geometry matters. Navy warrant officer Delbert Newhouse filmed bright objects near Tremonton, and the footage became a major early UFO case. But the Condon Report’s discussion of the case recorded the central weakness: there was no reference point in the sky, making speed, size, altitude and distance impossible to estimate from the film alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">PDF Directory Condon Report, Case 49: Tremonton, Utah</span></span></span>
 
 That same uncertainty still affects modern phone videos. A bright dot crossing the frame may look fast because the camera is zoomed in or shaking. A slow aircraft may look motionless because it is approaching head-on. A drone may look large if the witness assumes it is far away. A satellite may seem to accelerate when it brightens or fades as its angle to the Sun changes.
 
@@ -302,7 +302,7 @@ Utah’s landscape can intensify these errors. Mountain ridges can make an objec
 
 ## Satellites and Starlink are now a major Utah confusion source
 
-One of the clearest modern examples of Utah misidentification is [Starlink]({{ 'starlink-d20670/' | relative_url }}). In May 2021, Utah news reports described a string of lights seen across the state; the explanation was a group of SpaceX Starlink satellites, with a local NASA solar system ambassador noting that 60 satellites had recently been launched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksl.com">[KSL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksl.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In July 2022, FOX 13 again reported Utahns seeing a line of bright, star-like lights moving across the sky, identifying the likely cause as Starlink rather than a UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">utahns report unusual sight in night sky but its probably not a ufo</span><span class="citation-popover-snippet">utahns report unusual sight in night sky but its probably not a ufo</span></span></span>
+One of the clearest modern examples of Utah misidentification is [Starlink]({{ 'starlink-d20670/' | relative_url }}). In May 2021, Utah news reports described a string of lights seen across the state; the explanation was a group of SpaceX Starlink satellites, with a local NASA solar system ambassador noting that 60 satellites had recently been launched.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksl.com">[KSL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksl.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In July 2022, FOX 13 again reported Utahns seeing a line of bright, star-like lights moving across the sky, identifying the likely cause as Starlink rather than a UFO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">utahns report unusual sight in night sky but its probably not a ufo</span><span class="citation-popover-snippet">utahns report unusual sight in night sky but its probably not a ufo</span></span></span>
 
 Starlink trains are almost perfectly designed to trigger UFO reports. They can appear as a neat procession of lights, all moving in the same direction, often silently and at a steady pace. To someone who has not seen them before, they may look like a formation of craft or one long segmented object. They are especially noticeable from dark places, which gives Utah more opportunities for reports.
 
@@ -314,17 +314,17 @@ For Utah UFO history, this creates a modern filter. A recent report of multiple 
 
 ## Meteors and re-entering debris can look dramatic over Utah
 
-Utah’s dark skies also make meteors more memorable. A small meteor may be dismissed as a shooting star, but a fireball can be bright, coloured, fragmenting and startlingly low-looking. NASA and astronomy sources describe fireballs as unusually bright meteors produced when material enters the atmosphere and burns up; from the ground, such events can be brief but spectacular. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
+Utah’s dark skies also make meteors more memorable. A small meteor may be dismissed as a shooting star, but a fireball can be bright, coloured, fragmenting and startlingly low-looking. NASA and astronomy sources describe fireballs as unusually bright meteors produced when material enters the atmosphere and burns up; from the ground, such events can be brief but spectacular.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
-Utah has recent examples. In May 2025, FOX 13 reported that Utahns saw a flash of light above the state, later described by a NASA solar system ambassador as a fireball — a meteor large and bright enough to attract public attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">utahns report unusual sight in night sky but its probably not a ufo</span><span class="citation-popover-snippet">utahns report unusual sight in night sky but its probably not a ufo</span></span></span> These events are often reported as “comets”, “UFOs” or “something falling”, because the visual impression is sudden and unfamiliar.
+Utah has recent examples. In May 2025, FOX 13 reported that Utahns saw a flash of light above the state, later described by a NASA solar system ambassador as a fireball — a meteor large and bright enough to attract public attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">utahns report unusual sight in night sky but its probably not a ufo</span><span class="citation-popover-snippet">utahns report unusual sight in night sky but its probably not a ufo</span></span></span> These events are often reported as “comets”, “UFOs” or “something falling”, because the visual impression is sudden and unfamiliar.
 
-Re-entering space debris can create a similar problem. In 2016, reports of meteor-like flashes across the Utah sky were later linked by astronomers to a Chinese rocket body re-entering the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Mysterious, meteor-like flashes appear across the Utah sky</span><span class="citation-popover-snippet">The Independent Mysterious, meteor-like flashes appear across the Utah sky</span></span></span> Unlike a quick meteor, debris re-entry can produce multiple glowing fragments moving together, sometimes slowly enough for many people to film. That can look far stranger than a normal shooting star, especially over a dark state with wide viewing angles.
+Re-entering space debris can create a similar problem. In 2016, reports of meteor-like flashes across the Utah sky were later linked by astronomers to a Chinese rocket body re-entering the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Mysterious, meteor-like flashes appear across the Utah sky</span><span class="citation-popover-snippet">The Independent Mysterious, meteor-like flashes appear across the Utah sky</span></span></span> Unlike a quick meteor, debris re-entry can produce multiple glowing fragments moving together, sometimes slowly enough for many people to film. That can look far stranger than a normal shooting star, especially over a dark state with wide viewing angles.
 
 The useful clue is duration. A typical meteor is very brief. A re-entry can last longer and may break into several pieces travelling along the same path. A satellite train is more orderly and usually less fiery. A true unknown would need to survive those checks before the case becomes interesting.
 
 ## Aircraft, airports and military activity add another layer
 
-Utah is not just dark wilderness. It also has major aviation activity. Salt Lake City International Airport brings commercial traffic into a broad urban valley, while Hill Air Force Base and the Utah Test and Training Range connect the state to military aviation and restricted airspace. A national UAP reporting study found that proximity to airports and military installations is associated with more reports, suggesting that people often see real aircraft or military activity without recognising it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[The U]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The UThe West is best to spot UFOs</span><span class="citation-popover-snippet">The UThe West is best to spot UFOs</span></span></span>
+Utah is not just dark wilderness. It also has major aviation activity. Salt Lake City International Airport brings commercial traffic into a broad urban valley, while Hill Air Force Base and the Utah Test and Training Range connect the state to military aviation and restricted airspace. A national UAP reporting study found that proximity to airports and military installations is associated with more reports, suggesting that people often see real aircraft or military activity without recognising it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[The U]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The UThe West is best to spot UFOs</span><span class="citation-popover-snippet">The UThe West is best to spot UFOs</span></span></span>
 
 Aircraft lights are a classic source of UFO reports because they do not always behave as casual observers expect. A plane flying towards a witness can appear to hover. Landing lights can look like one brilliant object. Navigation lights can seem to blink in odd patterns. A turning aircraft can appear to change direction suddenly. Multiple planes on approach can look like a formation.
 
@@ -335,11 +335,11 @@ This is one reason Utah’s sky conditions matter within the state’s UFO recor
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-dark.svg" | relative_url }}" alt="Sky Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Drones have made low-level lights harder to interpret
 
-Drones are a newer source of confusion, and Utah has had locally relevant examples. In December 2024, Hill Air Force Base confirmed that unmanned aerial vehicles had been spotted near the base in Davis County, with officials saying they were monitoring the situation and working with local authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuer.org">[KUER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuer.org</span><span class="citation-popover-title">Utah&#x27;s Hill Air Force Base confirms drone sightings</span><span class="citation-popover-snippet">Utah&#x27;s Hill Air Force Base confirms drone sightings</span></span></span> FOX 13 also reported the confirmation during a wider national period of concern about mysterious drone sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">utahns report unusual sight in night sky but its probably not a ufo</span><span class="citation-popover-snippet">utahns report unusual sight in night sky but its probably not a ufo</span></span></span>
+Drones are a newer source of confusion, and Utah has had locally relevant examples. In December 2024, Hill Air Force Base confirmed that unmanned aerial vehicles had been spotted near the base in Davis County, with officials saying they were monitoring the situation and working with local authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuer.org">[KUER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuer.org</span><span class="citation-popover-title">Utah&#x27;s Hill Air Force Base confirms drone sightings</span><span class="citation-popover-snippet">Utah&#x27;s Hill Air Force Base confirms drone sightings</span></span></span> FOX 13 also reported the confirmation during a wider national period of concern about mysterious drone sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">utahns report unusual sight in night sky but its probably not a ufo</span><span class="citation-popover-snippet">utahns report unusual sight in night sky but its probably not a ufo</span></span></span>
 
-Drones are difficult for witnesses because they blur categories. They are aircraft, but they may not sound like normal aircraft. They can hover, stop, reverse, climb, descend and display bright lights. The Associated Press has noted that distinguishing drones from planes and helicopters at night can be difficult from distance; drones may have bright anti-collision lights, while crewed aircraft have several kinds of navigation and landing lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane? Experts help explain the differences</span><span class="citation-popover-snippet">AP News Is that a drone or a plane? Experts help explain the differences</span></span></span>
+Drones are difficult for witnesses because they blur categories. They are aircraft, but they may not sound like normal aircraft. They can hover, stop, reverse, climb, descend and display bright lights. The Associated Press has noted that distinguishing drones from planes and helicopters at night can be difficult from distance; drones may have bright anti-collision lights, while crewed aircraft have several kinds of navigation and landing lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane? Experts help explain the differences</span><span class="citation-popover-snippet">AP News Is that a drone or a plane? Experts help explain the differences</span></span></span>
 
-Regulation itself can make drones look strange. FAA-linked rules for night operations require anti-collision lighting visible from a long distance, which means a compliant drone may display a conspicuous strobe that looks more dramatic than the object carrying it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jrupprechtlaw.com/section-107-29-operations-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jrupprechtlaw.com">[Rupprecht Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jrupprechtlaw.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In rural or suburban Utah, a flashing drone over a field, reservoir, road, construction site or base perimeter can easily become a UFO report if the operator is unknown to the observer.
+Regulation itself can make drones look strange. FAA-linked rules for night operations require anti-collision lighting visible from a long distance, which means a compliant drone may display a conspicuous strobe that looks more dramatic than the object carrying it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jrupprechtlaw.com/section-107-29-operations-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jrupprechtlaw.com">[Rupprecht Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jrupprechtlaw.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In rural or suburban Utah, a flashing drone over a field, reservoir, road, construction site or base perimeter can easily become a UFO report if the operator is unknown to the observer.
 
 For investigators, the useful questions are practical: Was the object below normal aircraft altitude? Did it hover or pivot? Was there a buzzing sound? Was it near a base, event, inspection site or emergency response? Did flight-tracking tools show aircraft in the area? Was there local drone activity reported by officials? A drone explanation should not be guessed casually, but it now belongs near the top of the checklist.
 
@@ -347,7 +347,7 @@ For investigators, the useful questions are practical: Was the object below norm
 
 ## Daylight sightings have their own traps
 
-Night lights dominate modern UFO reports, but Utah’s history also includes daylight cases where reflective objects become the issue. The Tremonton film remains the best example. Analysts debated whether the bright objects were extraordinary craft or birds, often described as gulls reflecting sunlight. The Condon Report’s Case 49 discussion treated the absence of reliable distance and scale as central, and later summaries of the case note that some investigators favoured birds while others found the explanation unsatisfying. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">PDF Directory Condon Report, Case 49: Tremonton, Utah</span></span></span>
+Night lights dominate modern UFO reports, but Utah’s history also includes daylight cases where reflective objects become the issue. The Tremonton film remains the best example. Analysts debated whether the bright objects were extraordinary craft or birds, often described as gulls reflecting sunlight. The Condon Report’s Case 49 discussion treated the absence of reliable distance and scale as central, and later summaries of the case note that some investigators favoured birds while others found the explanation unsatisfying.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">PDF Directory Condon Report, Case 49: Tremonton, Utah</span></span></span>
 
 Daylight misidentifications can involve birds, balloons, insects, kites, plastic sheets, aircraft, reflections, camera artefacts and distant objects catching sunlight. In Utah, gulls are not an absurd suggestion despite the state being landlocked; the Great Salt Lake and surrounding wetlands support large bird populations. The lesson is broader than one case: when a video shows bright objects against empty sky, the footage may not contain enough information to decide what they are.
 
@@ -359,7 +359,7 @@ The strongest daylight reports are those with multiple independent witnesses fro
 
 ## How to read a Utah sighting without dismissing it
 
-The balanced approach is not to laugh off reports, but to separate “unidentified to the witness” from “unexplained after investigation”. NASA’s UAP work makes the same basic point: there is no conclusive peer-reviewed evidence for an extraterrestrial origin for UAP, and many reports lack the quality of data needed for firm scientific conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The balanced approach is not to laugh off reports, but to separate “unidentified to the witness” from “unexplained after investigation”. NASA’s UAP work makes the same basic point: there is no conclusive peer-reviewed evidence for an extraterrestrial origin for UAP, and many reports lack the quality of data needed for firm scientific conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 For Utah sightings, the first-pass questions should be local and concrete:
 
@@ -386,269 +386,269 @@ This is why Utah’s best-known cases and modern reports should be read through 
 The result is a more useful middle ground. Utah is not simply a place where people “imagine things”, nor is every persistent report a sign of exotic technology. It is a state where the sky is unusually visible, the landscape is unusually open, and the margin for visual error is unusually large. Understanding that does not end the UFO question in Utah, but it does make the strongest cases stand out more clearly from the many honest mistakes around them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Utah&#x27;s Skies Produce So Many Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Utah&#x27;s Skies Produce So Many Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses misidentifications and classification of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses misidentifications and classification of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of reports that investigators considered more substantial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of reports that investigators considered more substantial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains cognitive and perceptual factors behind unusual interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains cognitive and perceptual factors behind unusual interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on critical thinking and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on critical thinking and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-c0959c-why-utah-s-skies-produce-so-many-sightings-utah-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -664,7 +664,7 @@ The result is a more useful middle ground. Utah is not simply a place where peop
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -684,7 +684,7 @@ The result is a more useful middle ground. Utah is not simply a place where peop
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -716,7 +716,7 @@ The result is a more useful middle ground. Utah is not simply a place where peop
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ The result is a more useful middle ground. Utah is not simply a place where peop
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -804,143 +804,143 @@ The result is a more useful middle ground. Utah is not simply a place where peop
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: attheu.utah.edu  
    Title: The UThe West is best to spot UFOs  
-   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
+   Link:<a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stateparks.utah.gov  
-   Link: <a href="https://stateparks.utah.gov/activities/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://stateparks.utah.gov/activities/dark-sky/</a>  
+   Link:<a href="https://stateparks.utah.gov/activities/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://stateparks.utah.gov/activities/dark-sky/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.ncas.org  
    Title: PDF Directory Condon Report, Case 49: Tremonton, Utah  
-   Link: <a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ksl.com  
-   Link: <a href="https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830</a>  
+   Link:<a href="https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kuer.org  
    Title: Utah's Hill Air Force Base confirms drone sightings  
-   Link: <a href="https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings</a>  
+   Link:<a href="https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: earth.com  
    Title: ufo sightings are influenced by the environment  
-   Link: <a href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/</a>  
+   Link:<a href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fox13now.com  
    Title: utahns report unusual sight in night sky but its probably not a ufo  
-   Link: <a href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo</a>  
+   Link:<a href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fox13now.com  
    Title: FOX 13 News Utah (KSTU)Comet? Fireball? UFO? What was that flash of light above  
-   Link: <a href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night</a>  
+   Link:<a href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: independent.co.uk  
    Title: The Independent Mysterious, meteor-like flashes appear across the Utah sky  
-   Link: <a href="https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fox13now.com  
-   Link: <a href="https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base</a>  
+   Link:<a href="https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apnews.com  
    Title: AP News Is that a drone or a plane? Experts help explain the differences  
-   Link: <a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
+   Link:<a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jrupprechtlaw.com  
-   Link: <a href="https://jrupprechtlaw.com/section-107-29-operations-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/section-107-29-operations-at-night/</a>  
+   Link:<a href="https://jrupprechtlaw.com/section-107-29-operations-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/section-107-29-operations-at-night/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Mayon, located in Albay, Luzon, has been erupting since early January. Had the meteor impacted the volcano, scientists estimated it...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Mayon, located in Albay, Luzon, has been erupting since early January. Had the meteor impacted the volcano, scientists estimated it...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-KKlsOpZhM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-KKlsOpZhM4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 SKY FULL OF LIGHTS! Analyzing a #Satellite Train &amp; The Truth About &quot;No-Fly Zone&quot; #UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-KKlsOpZhM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-KKlsOpZhM4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 SKY FULL OF LIGHTS! Analyzing a #Satellite Train &amp; The Truth About &quot;No-Fly Zone&quot; #UFOs...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: UFO & UAP. Your Astronomy Sucks #3  
-   Link: <a href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keDI4dNX9tg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utah sky UFO common misidentifications satellites drones UFO making cloud to hide in Bountiful, Utah Sept 19, 2025 UAP sighting news 👽 al...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keDI4dNX9tg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utah sky UFO common misidentifications satellites drones UFO making cloud to hide in Bountiful, Utah Sept 19, 2025 UAP sighting news 👽 al...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Strange lights seen in Illinois sky explained  
-   Link: <a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lv1bf0fmAvU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Watch the complete &#x27;Hunting UFOs: The Desert Sky Mystery,&#x27; a NewsNation special report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lv1bf0fmAvU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Watch the complete &#x27;Hunting UFOs: The Desert Sky Mystery,&#x27; a NewsNation special report...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=R3Z_tmsY3fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3Z_tmsY3fk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO &amp; UAP. Your Astronomy Sucks #3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R3Z_tmsY3fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3Z_tmsY3fk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO &amp; UAP. Your Astronomy Sucks #3...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/</a>  
+   Link:<a href="https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/</a>  
+   Link:<a href="https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWKYQrIlIDM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWKYQrIlIDM/</a>  
+   Link:<a href="https://www.instagram.com/p/DWKYQrIlIDM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWKYQrIlIDM/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
+   Link:<a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/</a>
+   Link:<a href="https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/</a>

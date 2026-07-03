@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-exeter-incident/
 description: Focused pages that expand on Exeter Case.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: New_Hampshire_824569_exeter_incident_9bd9a0
 parent_title: Exeter Case
@@ -16,7 +16,7 @@ parent_permalink: /exeter-case/
 
 # Explore Topics in Exeter Case
 
-The following pages expand on the main **[Exeter Case]({{ '/exeter-case/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Exeter Case]({{ '/exeter-case/' | relative_url }})** page and cover its key branches in.
 
 - [Tanker theory]({{ '/tanker-theory/' | relative_url }})
 - [Witnesses]({{ '/witnesses/' | relative_url }})

@@ -253,7 +253,7 @@ image: /assets/images/New_Hampshire_824569_modern_report_patter_1bec66_mancheste
 Around Manchester and the southern [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }}) corridor, some of the most commonly reported “UFO” sightings are also among the easiest to misread. Bright approach lights, aircraft lining up for Manchester-Boston Regional Airport, helicopters, advertising aircraft, satellites and, increasingly, consumer drones can all produce unusual night-time displays. That does not mean every report is worthless. It means that Manchester is one of the places where aviation context matters most before a sighting can be treated as a stronger unidentified case.
 
 <img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-dark.svg" | relative_url }}" alt="Airport lights illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The area combines a busy airport, dense suburban observation, major roads, and a population accustomed to looking at the sky from back gardens, car parks and motorways. In modern reporting databases, Manchester and nearby towns appear repeatedly in UFO logs, but many reports involve lights, hovering objects or distant glowing shapes that are difficult to separate from normal air traffic without detailed timing and location checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State NHAugust 20, 2023 — NUFORC Reports for State NH.; Open, 03/25/2025 09:00, Bristol, NH, USA; Open. 03/24/2025...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The area combines a busy airport, dense suburban observation, major roads, and a population accustomed to looking at the sky from back gardens, car parks and motorways. In modern reporting databases, Manchester and nearby towns appear repeatedly in UFO logs, but many reports involve lights, hovering objects or distant glowing shapes that are difficult to separate from normal air traffic without detailed timing and location checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State NHAugust 20, 2023 — NUFORC Reports for State NH.; Open, 03/25/2025 09:00, Bristol, NH, USA; Open. 03/24/2025...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ## Why Manchester sightings need aviation context
 
@@ -261,7 +261,7 @@ Manchester-Boston Regional Airport sits in one of the most heavily observed part
 
 This effect becomes stronger at night because the brightest visible feature is often the aircraft's landing lights rather than the aircraft itself. A distant jet approaching directly towards an observer may appear as a single brilliant white light with little sense of speed or scale. As the angle changes, navigation lights become visible and the object can appear to “transform” or accelerate.
 
-Many New Hampshire sighting reports fit this pattern. The state database maintained by the National UFO Reporting Center contains numerous Manchester-area and southern New Hampshire accounts describing bright stationary lights, hovering objects, colour-changing points of light and unusual movements. On their own, such descriptions are not enough to distinguish an unknown object from normal aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=124802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 124802We saw a stationary triangular shape in the sky with red, green, and white lights. We assumed it was a plane at...</span></span></span>
+Many New Hampshire sighting reports fit this pattern. The state database maintained by the National UFO Reporting Center contains numerous Manchester-area and southern New Hampshire accounts describing bright stationary lights, hovering objects, colour-changing points of light and unusual movements. On their own, such descriptions are not enough to distinguish an unknown object from normal aviation activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=124802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 124802We saw a stationary triangular shape in the sky with red, green, and white lights. We assumed it was a plane at...</span></span></span>
 
 The geography of the region contributes to the confusion. Sightings from Manchester, Londonderry, Hooksett, Bedford and Nashua often occur beneath or near flight corridors serving Manchester-Boston Regional Airport. A witness may see several aircraft approaching on the same route and interpret them as a formation of hovering objects because each aircraft appears to occupy the same section of sky in sequence.
 
@@ -289,9 +289,9 @@ This does not automatically debunk a report. It simply means that a sighting nea
 
 The arrival of affordable drones altered the character of many modern sighting reports. A hovering light in 1995 suggested one set of possibilities. A hovering light after widespread drone adoption suggests a much larger range of ordinary explanations.
 
-By the mid-2010s, Manchester airport authorities were openly addressing the growing problem of drone activity near airport airspace and introducing guidance aimed at recreational operators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmur.com">[WMUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmur.com</span><span class="citation-popover-title">Manchester airport introduces new drone guidelines</span><span class="citation-popover-snippet">Manchester-Boston Regional Airport is announcing a new policy regarding its air space. Manchester airport introduces new drone guidelines...</span></span></span>
+By the mid-2010s, Manchester airport authorities were openly addressing the growing problem of drone activity near airport airspace and introducing guidance aimed at recreational operators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmur.com">[WMUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmur.com</span><span class="citation-popover-title">Manchester airport introduces new drone guidelines</span><span class="citation-popover-snippet">Manchester-Boston Regional Airport is announcing a new policy regarding its air space. Manchester airport introduces new drone guidelines...</span></span></span>
 
-The Federal Aviation Administration has since reported continuing high numbers of drone sightings near airports across the United States, noting that it receives well over a hundred such reports each month. The agency warns that unauthorised operations around airports can create genuine aviation hazards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">uas sightings report</span><span class="citation-popover-snippet">Federal Aviation AdministrationDrone Sightings Near Airports7 Jan 2026 — The agency wants to send out a clear message that operating dron...</span></span></span>
+The Federal Aviation Administration has since reported continuing high numbers of drone sightings near airports across the United States, noting that it receives well over a hundred such reports each month. The agency warns that unauthorised operations around airports can create genuine aviation hazards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">uas sightings report</span><span class="citation-popover-snippet">Federal Aviation AdministrationDrone Sightings Near Airports7 Jan 2026 — The agency wants to send out a clear message that operating dron...</span></span></span>
 
 For UFO reporting, drones create a double problem.
 
@@ -304,11 +304,11 @@ Second, public awareness of drones changes witness interpretation. Once people b
 
 The drone panic that spread across parts of the eastern United States in late 2024 offers a useful example of how modern reporting environments work.
 
-As reports of mysterious drones circulated in New Jersey and neighbouring states, similar claims began appearing in New Hampshire. Local media reported emerging sightings while state officials said there were no credible indications of the same kind of activity being reported elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmur.com">[WMUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmur.com</span><span class="citation-popover-title">new hampshire drone activity 121524</span><span class="citation-popover-snippet">No credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</span></span></span>
+As reports of mysterious drones circulated in New Jersey and neighbouring states, similar claims began appearing in New Hampshire. Local media reported emerging sightings while state officials said there were no credible indications of the same kind of activity being reported elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmur.com">[WMUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmur.com</span><span class="citation-popover-title">new hampshire drone activity 121524</span><span class="citation-popover-snippet">No credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</span></span></span>
 
-Online discussions quickly focused on southern New Hampshire locations, including areas near Manchester. Some local observers pointed out that many reported objects appeared to be located along normal airport approach routes. A widely shared discussion among New Hampshire residents specifically noted that reported sightings in south Manchester coincided with the Manchester airport flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Found on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</span></span></span>
+Online discussions quickly focused on southern New Hampshire locations, including areas near Manchester. Some local observers pointed out that many reported objects appeared to be located along normal airport approach routes. A widely shared discussion among New Hampshire residents specifically noted that reported sightings in south Manchester coincided with the Manchester airport flight path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Found on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</span></span></span>
 
-Nationally, federal officials received thousands of tips during the 2024 drone scare, yet only a small fraction were considered worthy of further investigation. Officials and aviation specialists repeatedly stated that many reports involved ordinary aircraft, helicopters, stars or legally operated drones rather than unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mystery US drone sightings: what we know</span><span class="citation-popover-snippet">Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</span></span></span>
+Nationally, federal officials received thousands of tips during the 2024 drone scare, yet only a small fraction were considered worthy of further investigation. Officials and aviation specialists repeatedly stated that many reports involved ordinary aircraft, helicopters, stars or legally operated drones rather than unknown technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mystery US drone sightings: what we know</span><span class="citation-popover-snippet">Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</span></span></span>
 
 The episode demonstrated how quickly aviation lights, social media attention and existing UFO expectations can combine into a large reporting wave.
 
@@ -328,7 +328,7 @@ Flight-tracking records, airport operations and air-traffic patterns frequently 
 
 Drones can hover, reverse direction and remain visible at low altitude. They can also carry unusually bright lighting systems.
 
-However, drones have practical limitations. Reports describing very long distances, extreme speeds or extended endurance often become less convincing once those limitations are considered. Estimating size and distance at night is notoriously difficult, which is one reason many apparent “large drones” later turn out to be conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mystery US drone sightings: what we know</span><span class="citation-popover-snippet">Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</span></span></span>
+However, drones have practical limitations. Reports describing very long distances, extreme speeds or extended endurance often become less convincing once those limitations are considered. Estimating size and distance at night is notoriously difficult, which is one reason many apparent “large drones” later turn out to be conventional aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mystery US drone sightings: what we know</span><span class="citation-popover-snippet">Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</span></span></span>
 
 ### Is there more than one witness source?
 
@@ -356,269 +356,269 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HAJyZ2Zs7Wo" title="Manchester Airport UAP UFO sighting from inside the cockpit A spherical UAP of some kind maybe drone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo" target="_blank" rel="noopener noreferrer">Manchester Airport UAP UFO sighting from inside the cockpit A spherical UAP of some kind maybe drone</a></p><p class="youtube-embed-meta">Channel: Will Brown &middot; Views: 12.3K &middot; Uploaded: November 2024 &middot; Length: 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When airport lights look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When airport lights look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Adds wider context for how unusual aerial observations become UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds wider context for how unusual aerial observations become UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for comparing ordinary explanations against unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing ordinary explanations against unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides aviation-linked cases and discussion of credible reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides aviation-linked cases and discussion of credible reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
-        </h4>
-        <p class="fr-book-author">By Joachim-Ernst Berendt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
+</h4>
+<p class="fr-book-author">By Joachim-Ernst Berendt</p>
         
-        <p class="fr-book-desc">Strong on misidentifications, observational errors, and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong on misidentifications, observational errors, and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-lights-when-airport-lights-look-like-ufos-new-hampshire-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -774,111 +774,111 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NHAugust 20, 2023 — NUFORC Reports for State NH.; Open, 03/25/2025 09:00, Bristol, NH, USA; Open. 03/24/2025...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NHAugust 20, 2023 — NUFORC Reports for State NH.; Open, 03/25/2025 09:00, Bristol, NH, USA; Open. 03/24/2025...</p></details>
    Published: August 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wmur.com  
    Title: Manchester airport introduces new drone guidelines  
-   Link: <a href="https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508" target="_blank" rel="noopener noreferrer nofollow">https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manchester-Boston Regional Airport is announcing a new policy regarding its air space. Manchester airport introduces new drone guidelines...</p></details>
+   Link:<a href="https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508" target="_blank" rel="noopener noreferrer nofollow">https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manchester-Boston Regional Airport is announcing a new policy regarding its air space. Manchester airport introduces new drone guidelines...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wmur.com  
    Title: new hampshire drone activity 121524  
-   Link: <a href="https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715" target="_blank" rel="noopener noreferrer nofollow">https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</p></details>
+   Link:<a href="https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715" target="_blank" rel="noopener noreferrer nofollow">https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Found on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</p></details>
+   Link:<a href="https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Found on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=124802" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=124802</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 124802We saw a stationary triangular shape in the sky with red, green, and white lights. We assumed it was a plane at...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=124802" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=124802</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 124802We saw a stationary triangular shape in the sky with red, green, and white lights. We assumed it was a plane at...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>y ago. &quot;Drone&quot; at Manchester airport captured up close at ground...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y ago. &quot;Drone&quot; at Manchester airport captured up close at ground...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: uas sightings report  
-   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDrone Sightings Near Airports7 Jan 2026 — The agency wants to send out a clear message that operating dron...</p></details>
+   Link:<a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDrone Sightings Near Airports7 Jan 2026 — The agency wants to send out a clear message that operating dron...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian Mystery US drone sightings: what we know  
-   Link: <a href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning in New Jersey, reports have accumulated from multiple states, causing lawmakers and the public to suspect a swarm of drones, po...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning in New Jersey, reports have accumulated from multiple states, causing lawmakers and the public to suspect a swarm of drones, po...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: adip.faa.gov  
-   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>faa.govEffective: May 14, 2026Login to ADIP application to make changes to airport data. Instructions can be found here. (MHT) MANCHESTER...</p></details>
+   Link:<a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>faa.govEffective: May 14, 2026Login to ADIP application to make changes to airport data. Instructions can be found here. (MHT) MANCHESTER...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: federalregister.gov  
    Title: amendment of class c airspace description manchester boston regional airport nh  
-   Link: <a href="https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amendment of Class C Airspace Description; Manchester...6 Jun 2024 — This action amends the Manchester Boston Regional Airport (MHT), NH...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amendment of Class C Airspace Description; Manchester...6 Jun 2024 — This action amends the Manchester Boston Regional Airport (MHT), NH...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/465189970756446/posts/1585338408741591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465189970756446/posts/1585338408741591/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Drone Sighting in Nashua, NH with Bright LightsThe flash of light you saw in the sky was not a UFO. Swamp gas from a weather b...</p></details>
+   Link:<a href="https://www.facebook.com/groups/465189970756446/posts/1585338408741591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465189970756446/posts/1585338408741591/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Drone Sighting in Nashua, NH with Bright LightsThe flash of light you saw in the sky was not a UFO. Swamp gas from a weather b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nhpr.org  
-   Link: <a href="https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As drone sightings spread across East Coast, federal...15 Dec 2024 — Reports of drone sightings have spread from New Jersey to other sta...</p></details>
+   Link:<a href="https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As drone sightings spread across East Coast, federal...15 Dec 2024 — Reports of drone sightings have spread from New Jersey to other sta...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: manchester.inklink.news  
-   Link: <a href="https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/" target="_blank" rel="noopener noreferrer nofollow">https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manchester Ink LinkWhat&#x27;s up with drones? FAA weighs in - Manchester Ink Link14 Dec 2024 — &quot;Mystery&quot; drone sightings up and down the East...</p></details>
+   Link:<a href="https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/" target="_blank" rel="noopener noreferrer nofollow">https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manchester Ink LinkWhat&#x27;s up with drones? FAA weighs in - Manchester Ink Link14 Dec 2024 — &quot;Mystery&quot; drone sightings up and down the East...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: patch.com  
    Title: ufos arrive news see latest londonderry sighting  
-   Link: <a href="https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As UFOs &#x27;Arrive&#x27; In News, See Latest Londonderry Sighting8 Jul 2019 — After reports that Navy pilots were encountering UFOs at hypersonic...</p></details>
+   Link:<a href="https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As UFOs &#x27;Arrive&#x27; In News, See Latest Londonderry Sighting8 Jul 2019 — After reports that Navy pilots were encountering UFOs at hypersonic...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>regarding drone sightings in the Granite State that have been...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>regarding drone sightings in the Granite State that have been...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zj657dofKOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zj657dofKOQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hampton Law &amp;middot; 260K views; How the FAA is Catching Drone Pilots. Geeksvana &amp;middot; 394K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zj657dofKOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zj657dofKOQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hampton Law &amp;middot; 260K views; How the FAA is Catching Drone Pilots. Geeksvana &amp;middot; 394K views...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Manchester, New Hampshire.; Dave Atkinson. That&#x27;s on airport runway...</p></details>
+   Link:<a href="https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Manchester, New Hampshire.; Dave Atkinson. That&#x27;s on airport runway...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HAJyZ2Zs7Wo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(4K) 20 MINUTES of MANCHESTER PLANESPOTTING! - Manchester-Boston Regional [KMHT/MHT]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HAJyZ2Zs7Wo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(4K) 20 MINUTES of MANCHESTER PLANESPOTTING! - Manchester-Boston Regional [KMHT/MHT]...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/465189970756446/posts/1584846758790756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465189970756446/posts/1584846758790756/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Wednesday night and there were two drones over the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/465189970756446/posts/1584846758790756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465189970756446/posts/1584846758790756/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Wednesday night and there were two drones over the...</p></details>

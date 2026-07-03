@@ -267,20 +267,20 @@ Historical UFO reports and archival records in [Illinois]({{ 'illinois/' | relat
 <img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84-overview.webp" | relative_url }}" alt="Overview image for Historic Sightings" loading="eager" decoding="sync" fetchpriority="high">
 ## Early Flying Disc Reports in Illinois
 
-In the summer of 1947, a wave of sightings known as the *1947 flying disc craze* swept the United States following the famous Kenneth Arnold sighting in June of that year. Newspapers across the country reported disc‑shaped objects and mysterious lights in the sky; Illinois was no exception to this trend. State and local newspapers carried reports of strange aerial objects, with one incident capturing public attention when a purported “flying saucer” was found on a farm near Watseka, Illinois, in July 1947. At the time, the *Champaign‑Urbana Courier* presented this discovery against the backdrop of widespread curiosity about extraterrestrial objects, even as later follow‑up suggested the object was likely a balloon or other mundane item. <span class="citation-chip-wrap"><a class="citation-chip" href="https://urbanafreelibrary.org/local-history/blog/bizarre-stories-ufo-sightings-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urbanafreelibrary.org">[Urbana Free Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urbanafreelibrary.org</span><span class="citation-popover-snippet">Urbana Free LibraryBizarre Stories: UFO Sightings from the Past12 Sept 2025 — A week and a half later on July 15, 1947, a “flying saucer”...</span><span class="citation-popover-meta">Published: July 15, 1947</span></span></span>
+In the summer of 1947, a wave of sightings known as the *1947 flying disc craze* swept the United States following the famous Kenneth Arnold sighting in June of that year. Newspapers across the country reported disc‑shaped objects and mysterious lights in the sky; Illinois was no exception to this trend. State and local newspapers carried reports of strange aerial objects, with one incident capturing public attention when a purported “flying saucer” was found on a farm near Watseka, Illinois, in July 1947. At the time, the *Champaign‑Urbana Courier* presented this discovery against the backdrop of widespread curiosity about extraterrestrial objects, even as later follow‑up suggested the object was likely a balloon or other mundane item.<span class="citation-chip-wrap"><a class="citation-chip" href="https://urbanafreelibrary.org/local-history/blog/bizarre-stories-ufo-sightings-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urbanafreelibrary.org">[Urbana Free Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urbanafreelibrary.org</span><span class="citation-popover-snippet">Urbana Free LibraryBizarre Stories: UFO Sightings from the Past12 Sept 2025 — A week and a half later on July 15, 1947, a “flying saucer”...</span><span class="citation-popover-meta">Published: July 15, 1947</span></span></span>
 
 These early reports reflected a broader cultural moment when sightings were widely discussed in print and radio. Although not all these sightings were catalogued in formal investigation programmes, they shaped public expectations and laid the groundwork for later, more systematic documentation in various records, including those of the military and civilian UFO research groups.
 
-Local archived newspapers — such as editions of the *Daily Illini* from March 1967 — show that reports of witnesses in Illinois cities continued into the 1960s, with accounts from law‑enforcement officers and townspeople alike describing objects that hovered or moved unpredictably for extended periods. One featured report described dozens of people observing an aerial object over Galesburg for several hours, signalling that interest in unexplained aerial phenomena extended beyond 1947’s initial surge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://idnc.library.illinois.edu/?a=d&amp;d=DIL19670310.2.26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idnc.library.illinois.edu">[Illinois Digital Newspaper Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idnc.library.illinois.edu</span><span class="citation-popover-snippet">Illinois Digital Newspaper CollectionsPolicemen See UFOs Near Moline — Daily Illini 10 March 1967Wednesday night a Knox County deputy she...</span></span></span>
+Local archived newspapers — such as editions of the *Daily Illini* from March 1967 — show that reports of witnesses in Illinois cities continued into the 1960s, with accounts from law‑enforcement officers and townspeople alike describing objects that hovered or moved unpredictably for extended periods. One featured report described dozens of people observing an aerial object over Galesburg for several hours, signalling that interest in unexplained aerial phenomena extended beyond 1947’s initial surge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://idnc.library.illinois.edu/?a=d&amp;d=DIL19670310.2.26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idnc.library.illinois.edu">[Illinois Digital Newspaper Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idnc.library.illinois.edu</span><span class="citation-popover-snippet">Illinois Digital Newspaper CollectionsPolicemen See UFOs Near Moline — Daily Illini 10 March 1967Wednesday night a Knox County deputy she...</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84-Illustration-1-dark.svg" | relative_url }}" alt="Historic Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Quad Cities Incidents and Project Blue Book Documentation
 
-The *Quad Cities* area — straddling the Illinois‑Iowa border — became a focal point for some of the more widely discussed sightings in the 1960s. Local reports from early March 1967 recount sightings of cigar‑shaped objects and other unusual aerial phenomena observed by multiple witnesses, including police officers, students and residents in communities such as Moline and Galesburg. These events were significant enough to draw notice in local newspapers and remain part of regional folklore more than half a century later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gannonhanevold.com/2024/10/30/not-a-bird-not-a-plane-so-what-was-the-1967-quad-cities-ufo-carl-petrick-still-wonders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gannonhanevold.com">[Gannon Hanevold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gannonhanevold.com</span><span class="citation-popover-snippet">Gannon HanevoldNot a bird, not a plane, so what was the 1967 Quad-Cities...October 30, 2024 — 30 Oct 2024 — Petrick is one of several Qu...</span><span class="citation-popover-meta">Published: October 30, 2024</span></span></span>
+The *Quad Cities* area — straddling the Illinois‑Iowa border — became a focal point for some of the more widely discussed sightings in the 1960s. Local reports from early March 1967 recount sightings of cigar‑shaped objects and other unusual aerial phenomena observed by multiple witnesses, including police officers, students and residents in communities such as Moline and Galesburg. These events were significant enough to draw notice in local newspapers and remain part of regional folklore more than half a century later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gannonhanevold.com/2024/10/30/not-a-bird-not-a-plane-so-what-was-the-1967-quad-cities-ufo-carl-petrick-still-wonders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gannonhanevold.com">[Gannon Hanevold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gannonhanevold.com</span><span class="citation-popover-snippet">Gannon HanevoldNot a bird, not a plane, so what was the 1967 Quad-Cities...October 30, 2024 — 30 Oct 2024 — Petrick is one of several Qu...</span><span class="citation-popover-meta">Published: October 30, 2024</span></span></span>
 
-Although many original military case files from this era do not include detailed narrative descriptions accessible online, archival indices from the U.S. Air Force’s *Project Blue Book* — the official study of UFOs conducted from the early 1950s through 1969 — list numerous entries from Illinois locations. Surviving microfilm records at the U.S. National Archives (publication T1206) show files indexed to places such as *Chicago*, *Champaign*, *Arlington Heights*, *Belleville*, *Scott Air Force Base* and *Galesburg/Moline* across various years. These cataloguing entries confirm that sightings reported from Illinois were included in the project’s case files, though individual witness statements and investigative details are often absent or heavily redacted in publicly available scans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/8407430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 1 in US, Project Blue Book</span><span class="citation-popover-snippet">Page 1 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3February 26, 2007...</span><span class="citation-popover-meta">Published: February 26, 2007</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/6976110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 9 in US, Project Blue Book</span><span class="citation-popover-snippet">UFO Investigations, 1947-1969 - Fold3June 1, 1960 — PAGE 9: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project B...</span><span class="citation-popover-meta">Published: June 1, 1960</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/9735315/galesburg-moline-illinois-blank-page-25-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 25 in US, Project Blue Book</span><span class="citation-popover-snippet">UFO Investigations, 1947-1969 - Fold3March 1, 1967 — PAGE 25: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project...</span><span class="citation-popover-meta">Published: March 1, 1967</span></span></span>
+Although many original military case files from this era do not include detailed narrative descriptions accessible online, archival indices from the U.S. Air Force’s *Project Blue Book* — the official study of UFOs conducted from the early 1950s through 1969 — list numerous entries from Illinois locations. Surviving microfilm records at the U.S. National Archives (publication T1206) show files indexed to places such as *Chicago*, *Champaign*, *Arlington Heights*, *Belleville*, *Scott Air Force Base* and *Galesburg/Moline* across various years. These cataloguing entries confirm that sightings reported from Illinois were included in the project’s case files, though individual witness statements and investigative details are often absent or heavily redacted in publicly available scans.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/8407430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 1 in US, Project Blue Book</span><span class="citation-popover-snippet">Page 1 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3February 26, 2007...</span><span class="citation-popover-meta">Published: February 26, 2007</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/6976110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 9 in US, Project Blue Book</span><span class="citation-popover-snippet">UFO Investigations, 1947-1969 - Fold3June 1, 1960 — PAGE 9: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project B...</span><span class="citation-popover-meta">Published: June 1, 1960</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/9735315/galesburg-moline-illinois-blank-page-25-us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 25 in US, Project Blue Book</span><span class="citation-popover-snippet">UFO Investigations, 1947-1969 - Fold3March 1, 1967 — PAGE 25: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project...</span><span class="citation-popover-meta">Published: March 1, 1967</span></span></span>
 
-*Project Blue Book* itself was the culmination of earlier U.S. Air Force investigations into unidentified aerial phenomena, succeeding *Project Sign* and *Project Grudge*. From 1952 to 1969 the programme accumulated thousands of reports from across the United States and aimed to determine whether sightings posed any national security risk or scientific interest; by its conclusion, 701 of over 12,000 cases remained officially “unidentified,” though no evidence of extraterrestrial craft was substantiated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+*Project Blue Book* itself was the culmination of earlier U.S. Air Force investigations into unidentified aerial phenomena, succeeding *Project Sign* and *Project Grudge*. From 1952 to 1969 the programme accumulated thousands of reports from across the United States and aimed to determine whether sightings posed any national security risk or scientific interest; by its conclusion, 701 of over 12,000 cases remained officially “unidentified,” though no evidence of extraterrestrial craft was substantiated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 For researchers today, these archived indices are important because they link geographical locations — including many within Illinois — to broader documentation efforts. While individual case details from Project Blue Book often lack rich narratives, their existence in the archival record demonstrates that Illinois sightings were part of a national pattern of reported unexplained aerial events during the Cold War era.
 
@@ -290,9 +290,9 @@ For researchers today, these archived indices are important because they link ge
 
 ## Archival Records and Research Challenges
 
-Many of the Project [Blue Book files]({{ 'blue-book-files-845096/' | relative_url }}) relating to Illinois sightings survive in digitised or scanned form, though accessing the full text of these case files can be difficult without subscription services or specialised archival tools. The online *Project Blue Book Archive* and independent digitised indexes provide searchable access to thousands of documents, yet specific case narratives often require deeper archival research to retrieve complete witness accounts, Air Force correspondence, or investigative conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</span></span></span>
+Many of the Project [Blue Book files]({{ 'blue-book-files-845096/' | relative_url }}) relating to Illinois sightings survive in digitised or scanned form, though accessing the full text of these case files can be difficult without subscription services or specialised archival tools. The online *Project Blue Book Archive* and independent digitised indexes provide searchable access to thousands of documents, yet specific case narratives often require deeper archival research to retrieve complete witness accounts, Air Force correspondence, or investigative conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</span></span></span>
 
-Beyond military records, civilian UFO research groups have also preserved historical documentation. The *Center for UFO Studies*, founded in Illinois by astronomer J. Allen Hynek in the early 1970s, maintains extensive archives that include case files from defunct civilian groups such as the National Investigations Committee On Aerial Phenomena (NICAP). While these collections are more focused on broader UFO research than on state‑specific archives, they contain reports and correspondence from eyewitnesses across the U.S. — including those in Illinois — that are valuable for researchers seeking longitudinal perspectives on individual sightings and reporting patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Center for UFO Studies</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+Beyond military records, civilian UFO research groups have also preserved historical documentation. The *Center for UFO Studies*, founded in Illinois by astronomer J. Allen Hynek in the early 1970s, maintains extensive archives that include case files from defunct civilian groups such as the National Investigations Committee On Aerial Phenomena (NICAP). While these collections are more focused on broader UFO research than on state‑specific archives, they contain reports and correspondence from eyewitnesses across the U.S. — including those in Illinois — that are valuable for researchers seeking longitudinal perspectives on individual sightings and reporting patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Center for UFO Studies</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 Historians and local archivists continue to build and curate collections of newspaper clippings, oral histories and original reports to preserve the context around sightings that might otherwise be lost. However, the fragmentary nature of records from the mid‑20th century — especially before digital preservation — means that many accounts rely on secondary references, retrospective interviews and regional reportage rather than complete official files.
 
@@ -303,199 +303,199 @@ Historians and local archivists continue to build and curate collections of news
 
 Historic UFO reports in Illinois reveal several consistent themes: widespread public interest following national flaps, periodic clusters of reported sightings in specific regions, and a patchwork of formal and informal documentation. While many reports from the 1947 wave and later decades can be reinterpreted as misidentified conventional objects, atmospheric phenomena or reporting errors, the archival record — from press coverage to military indices — serves as a cultural and historical record of how these phenomena were perceived and investigated.
 
-Archival collections such as Project Blue Book indices demonstrate that Illinois was not peripheral to UFO reportage in the middle decades of the 20th century; sightings from Chicago to smaller communities were documented alongside cases from across the country. The preservation of these records in public archives offers future researchers the opportunity to revisit original documentation with new analytical tools, contextualising historical reports within broader patterns of aerial observation, Cold War anxieties and evolving public attitudes toward unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc crazeArnold&#x27;s description of the objects also led to the press quickly coining the terms flying saucer and flying dis...</span></span></span>
+Archival collections such as Project Blue Book indices demonstrate that Illinois was not peripheral to UFO reportage in the middle decades of the 20th century; sightings from Chicago to smaller communities were documented alongside cases from across the country. The preservation of these records in public archives offers future researchers the opportunity to revisit original documentation with new analytical tools, contextualising historical reports within broader patterns of aerial observation, Cold War anxieties and evolving public attitudes toward unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc crazeArnold&#x27;s description of the objects also led to the press quickly coining the terms flying saucer and flying dis...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0EEbxfIgwQ" title="The UFO Encounter That Left Witnesses Paralyzed with Fear | Close Encounters 106" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer">The UFO Encounter That Left Witnesses Paralyzed with Fear | Close Encounters 106</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 43.5K &middot; Uploaded: November 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0EEbxfIgwQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Illinois UFO History 1947–1960s Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Illinois UFO History 1947–1960s Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines classic UFO cases from the mid-20th century.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines classic UFO cases from the mid-20th century.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the era and investigative framework central to 1947–1960s reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the era and investigative framework central to 1947–1960s reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Connects historical reports with official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects historical reports with official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to interpreting historical sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to interpreting historical sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green"><img src="https://i.ebayimg.com/images/g/-uQAAOSwketlbg0e/s-l225.jpg" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green"><img src="https://i.ebayimg.com/images/g/-uQAAOSwketlbg0e/s-l225.jpg" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Invasion Montage Spac Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2JgAAeSwgDdp1Tid/s-l225.jpg" alt="Listing image for Flying Saucer Invasion Montage Spac Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Invasion Montage Spac Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Invasion Montage Spac Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2JgAAeSwgDdp1Tid/s-l225.jpg" alt="Listing image for Flying Saucer Invasion Montage Spac Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Invasion Montage Spac Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT"><img src="https://i.ebayimg.com/images/g/woAAAeSwhmVo4uix/s-l225.jpg" alt="Listing image for VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT"><img src="https://i.ebayimg.com/images/g/woAAAeSwhmVo4uix/s-l225.jpg" alt="Listing image for VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-ufo-history-1947-1960s-reports-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="illinois-ufo-history-1947-1960s-reports-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ Archival collections such as Project Blue Book indices demonstrate that Illinois
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ Archival collections such as Project Blue Book indices demonstrate that Illinois
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ Archival collections such as Project Blue Book indices demonstrate that Illinois
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ Archival collections such as Project Blue Book indices demonstrate that Illinois
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ Archival collections such as Project Blue Book indices demonstrate that Illinois
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,199 +701,199 @@ Archival collections such as Project Blue Book indices demonstrate that Illinois
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: idnc.library.illinois.edu  
-   Link: <a href="https://idnc.library.illinois.edu/?a=d&amp;d=DIL19670310.2.26" target="_blank" rel="noopener noreferrer nofollow">https://idnc.library.illinois.edu/?a=d&amp;d=DIL19670310.2.26</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois Digital Newspaper CollectionsPolicemen See UFOs Near Moline — Daily Illini 10 March 1967Wednesday night a Knox County deputy she...</p></details>
+   Link:<a href="https://idnc.library.illinois.edu/?a=d&amp;d=DIL19670310.2.26" target="_blank" rel="noopener noreferrer nofollow">https://idnc.library.illinois.edu/?a=d&amp;d=DIL19670310.2.26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois Digital Newspaper CollectionsPolicemen See UFOs Near Moline — Daily Illini 10 March 1967Wednesday night a Knox County deputy she...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fold3.com  
    Title: Page 1 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/8407430" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8407430</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 1 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3February 26, 2007...</p></details>
+   Link:<a href="https://www.fold3.com/document/8407430" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8407430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 1 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3February 26, 2007...</p></details>
    Published: February 26, 2007  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fold3.com  
    Title: Page 9 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/6976110" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/6976110</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3June 1, 1960 — PAGE 9: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project B...</p></details>
+   Link:<a href="https://www.fold3.com/document/6976110" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/6976110</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3June 1, 1960 — PAGE 9: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project B...</p></details>
    Published: June 1, 1960  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fold3.com  
    Title: Page 25 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/9735315/galesburg-moline-illinois-blank-page-25-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/9735315/galesburg-moline-illinois-blank-page-25-us-project-blue-book-ufo-investigations-1947-1969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3March 1, 1967 — PAGE 25: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project...</p></details>
+   Link:<a href="https://www.fold3.com/document/9735315/galesburg-moline-illinois-blank-page-25-us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/9735315/galesburg-moline-illinois-blank-page-25-us-project-blue-book-ufo-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3March 1, 1967 — PAGE 25: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project...</p></details>
    Published: March 1, 1967  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fold3.com  
    Title: Page 5 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/8696184/scott-afb-illinois-blank-page-5-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8696184/scott-afb-illinois-blank-page-5-us-project-blue-book-ufo-investigations-1947-1969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3Skip to content PAGE 5: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project...</p></details>
+   Link:<a href="https://www.fold3.com/document/8696184/scott-afb-illinois-blank-page-5-us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8696184/scott-afb-illinois-blank-page-5-us-project-blue-book-ufo-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3Skip to content PAGE 5: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fold3.com  
    Title: Page 30 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/8291563" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8291563</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3PAGE 30: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project Blue Book, 1947...</p></details>
+   Link:<a href="https://www.fold3.com/document/8291563" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8291563</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3PAGE 30: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project Blue Book, 1947...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Center for UFO Studies  
-   Link: <a href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_for_UFO_Studies</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_for_UFO_Studies</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fold3.com  
    Title: Page 1 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/7069420" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7069420</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You will need to enable Javascript by changing your browser settings.Learn how to enable it. Skip to conte...</p></details>
+   Link:<a href="https://www.fold3.com/document/7069420" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7069420</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You will need to enable Javascript by changing your browser settings.Learn how to enable it. Skip to conte...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1963fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1963fullrep.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois. L-R: Sgt. Sharp; BB Chief, Lt. Col. Friend; Capt. Quintanilla Map of sightings for 1963, courtesy of Larry Hatch&#x27;s &quot;U&quot;...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1963fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1963fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois. L-R: Sgt. Sharp; BB Chief, Lt. Col. Friend; Capt. Quintanilla Map of sightings for 1963, courtesy of Larry Hatch&#x27;s &quot;U&quot;...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: library.illinois.edu  
    Title: idnc flying saucer craze  
-   Link: <a href="https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newspaper Dive: The Flying Saucer Phenomena...8 Oct 2025 — Though the initial flying saucer craze (which began June 1947) had primarily...</p></details>
+   Link:<a href="https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newspaper Dive: The Flying Saucer Phenomena...8 Oct 2025 — Though the initial flying saucer craze (which began June 1947) had primarily...</p></details>
    Published: June 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeArnold&#x27;s description of the objects also led to the press quickly coining the terms flying saucer and flying dis...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeArnold&#x27;s description of the objects also led to the press quickly coining the terms flying saucer and flying dis...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Table of reports during the 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jump up to: 1 2 3 4 5 6 7 &quot;6 Jul 1947, 8 - Chicago Tribune at Newspapers.com&quot;.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jump up to: 1 2 3 4 5 6 7 &quot;6 Jul 1947, 8 - Chicago Tribune at Newspapers.com&quot;.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fold3.com  
    Title: Page 7 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/8280506" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8280506</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You will need to enable Javascript by changing your browser settings.Learn how to enable it. Skip to conte...</p></details>
+   Link:<a href="https://www.fold3.com/document/8280506" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8280506</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You will need to enable Javascript by changing your browser settings.Learn how to enable it. Skip to conte...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 3  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>65_HS1-834228961_62-HQ-83894_Section_3PALMER, Editor, Venture Press, Evanston, Illinois, dated June 26, 1947, in which... the flying sa...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65_HS1-834228961_62-HQ-83894_Section_3PALMER, Editor, Venture Press, Evanston, Illinois, dated June 26, 1947, in which... the flying sa...</p></details>
    Published: June 26, 1947  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fold3.com  
    Title: Page 7 in US, Project Blue Book  
-   Link: <a href="https://www.fold3.com/document/8725254/arlington-heights-illinois-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8725254/arlington-heights-illinois-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3September 1, 1962 — PAGE 7: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Proj...</p></details>
+   Link:<a href="https://www.fold3.com/document/8725254/arlington-heights-illinois-blank-page-7-us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8725254/arlington-heights-illinois-blank-page-7-us-project-blue-book-ufo-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3September 1, 1962 — PAGE 7: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Proj...</p></details>
    Published: September 1, 1962  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: urbanafreelibrary.org  
-   Link: <a href="https://urbanafreelibrary.org/local-history/blog/bizarre-stories-ufo-sightings-past" target="_blank" rel="noopener noreferrer nofollow">https://urbanafreelibrary.org/local-history/blog/bizarre-stories-ufo-sightings-past</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Urbana Free LibraryBizarre Stories: UFO Sightings from the Past12 Sept 2025 — A week and a half later on July 15, 1947, a “flying saucer”...</p></details>
+   Link:<a href="https://urbanafreelibrary.org/local-history/blog/bizarre-stories-ufo-sightings-past" target="_blank" rel="noopener noreferrer nofollow">https://urbanafreelibrary.org/local-history/blog/bizarre-stories-ufo-sightings-past</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Urbana Free LibraryBizarre Stories: UFO Sightings from the Past12 Sept 2025 — A week and a half later on July 15, 1947, a “flying saucer”...</p></details>
    Published: July 15, 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gannonhanevold.com  
-   Link: <a href="https://gannonhanevold.com/2024/10/30/not-a-bird-not-a-plane-so-what-was-the-1967-quad-cities-ufo-carl-petrick-still-wonders/" target="_blank" rel="noopener noreferrer nofollow">https://gannonhanevold.com/2024/10/30/not-a-bird-not-a-plane-so-what-was-the-1967-quad-cities-ufo-carl-petrick-still-wonders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gannon HanevoldNot a bird, not a plane, so what was the 1967 Quad-Cities...October 30, 2024 — 30 Oct 2024 — Petrick is one of several Qu...</p></details>
+   Link:<a href="https://gannonhanevold.com/2024/10/30/not-a-bird-not-a-plane-so-what-was-the-1967-quad-cities-ufo-carl-petrick-still-wonders/" target="_blank" rel="noopener noreferrer nofollow">https://gannonhanevold.com/2024/10/30/not-a-bird-not-a-plane-so-what-was-the-1967-quad-cities-ufo-carl-petrick-still-wonders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gannon HanevoldNot a bird, not a plane, so what was the 1967 Quad-Cities...October 30, 2024 — 30 Oct 2024 — Petrick is one of several Qu...</p></details>
    Published: October 30, 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/17637</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</p></details>
+   Link:<a href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/17637</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theblackvault.com  
    Title: project blue book  
-   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Sign, Project Grudge, and Project Blue Book – Air Force UFO Research Programs (1947-1969) - The Black VaultMarch 3, 2021 — PROJEC...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Sign, Project Grudge, and Project Blue Book – Air Force UFO Research Programs (1947-1969) - The Black VaultMarch 3, 2021 — PROJEC...</p></details>
    Published: March 3, 2021  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bluebookfiles.org  
    Title: Text ha  
-   Link: <a href="https://bluebookfiles.org/doc/11473" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11473</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive — Declassified UFO Documents 1947-1969PROJECT BLUE BOOK ARCHIVE — Declassified UFO Documents &amp; Records Search M...</p></details>
+   Link:<a href="https://bluebookfiles.org/doc/11473" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive — Declassified UFO Documents 1947-1969PROJECT BLUE BOOK ARCHIVE — Declassified UFO Documents &amp; Records Search M...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
+   Link:<a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
    Title: unidentified flying object  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO) | History, Sightings, &amp; FactsA newspaper misreported that the objects were saucer-shaped, coining the term flying saucer...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO) | History, Sightings, &amp; FactsA newspaper misreported that the objects were saucer-shaped, coining the term flying saucer...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0eZg9ILsLl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0eZg9ILsLl4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>River Forest, Illinois, 01/01/1958 - 01/10/1958 is highly relevant as it is an official, declassified Project Blue Book archival record p...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0eZg9ILsLl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0eZg9ILsLl4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>River Forest, Illinois, 01/01/1958 - 01/10/1958 is highly relevant as it is an official, declassified Project Blue Book archival record p...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blog.myheritage.com  
    Title: chronicles of the unexplained ufo sighting reports in 1960s news  
-   Link: <a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Unexplained: UFO Sighting Reports in...9 Aug 2023 — Discover the UFO sighting reports that captivated the world in the 1960s in t...</p></details>
+   Link:<a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Unexplained: UFO Sighting Reports in...9 Aug 2023 — Discover the UFO sighting reports that captivated the world in the 1960s in t...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theprojectbluebookarchive.org  
-   Link: <a href="https://theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force ABOUT THE ARCHIVE The Project Blue Book Archive is the most comprehensive public col...</p></details>
+   Link:<a href="https://theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force ABOUT THE ARCHIVE The Project Blue Book Archive is the most comprehensive public col...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/QuadCities/comments/1scgvvd/happy_early_easter_how_about_some_ufos_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/QuadCities/comments/1scgvvd/happy_early_easter_how_about_some_ufos_in_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens activity in our community, as eyewitness testimony is...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/QuadCities/comments/1scgvvd/happy_early_easter_how_about_some_ufos_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/QuadCities/comments/1scgvvd/happy_early_easter_how_about_some_ufos_in_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens activity in our community, as eyewitness testimony is...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thenational.shorthandstories.com  
    Title: ufo aliens sightings history  
-   Link: <a href="https://thenational.shorthandstories.com/ufo-aliens-sightings-history/" target="_blank" rel="noopener noreferrer nofollow">https://thenational.shorthandstories.com/ufo-aliens-sightings-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>short history of UFOsA flying saucer lands in Washington DC with the alien pilot Klaatu accompanied by a gigantic and all powerful robot...</p></details>
+   Link:<a href="https://thenational.shorthandstories.com/ufo-aliens-sightings-history/" target="_blank" rel="noopener noreferrer nofollow">https://thenational.shorthandstories.com/ufo-aliens-sightings-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>short history of UFOsA flying saucer lands in Washington DC with the alien pilot Klaatu accompanied by a gigantic and all powerful robot...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100067905998848/posts/the-night-the-quad-cities-stared-into-the-sky-the-1967-ufo-that-everyone-saw-mos/1141031234837066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067905998848/posts/the-night-the-quad-cities-stared-into-the-sky-the-1967-ufo-that-everyone-saw-mos/1141031234837066/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Night the Quad Cities Stared Into the Sky: The 1967...Sightings of UFOs in the area continued, but these apparent copycat incidents...</p></details>
+   Link:<a href="https://www.facebook.com/100067905998848/posts/the-night-the-quad-cities-stared-into-the-sky-the-1967-ufo-that-everyone-saw-mos/1141031234837066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067905998848/posts/the-night-the-quad-cities-stared-into-the-sky-the-1967-ufo-that-everyone-saw-mos/1141031234837066/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The Night the Quad Cities Stared Into the Sky: The 1967...Sightings of UFOs in the area continued, but these apparent copycat incidents...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The UFO Encounter That Left Witnesses Paralyzed with Fear  
-   Link: <a href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0EEbxfIgwQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Prairie: Tales from Illinois&#x27; Scariest Locations | UFO Documentary | Full Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0EEbxfIgwQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Prairie: Tales from Illinois&#x27; Scariest Locations | UFO Documentary | Full Movie...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
    Title: DLSz Y5pz Gmi  
-   Link: <a href="https://www.instagram.com/p/DLSzY5pzGmi/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLSzY5pzGmi/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, what many consider...The first modern UFO sighting took place in the Pacific Northwest, triggering a shift in the z...</p></details>
+   Link:<a href="https://www.instagram.com/p/DLSzY5pzGmi/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLSzY5pzGmi/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, what many consider...The first modern UFO sighting took place in the Pacific Northwest, triggering a shift in the z...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: qctimes.com  
-   Link: <a href="https://qctimes.com/news/local/article_97748090-9183-11ef-80e4-2f747652cb3f.html" target="_blank" rel="noopener noreferrer nofollow">https://qctimes.com/news/local/article_97748090-9183-11ef-80e4-2f747652cb3f.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Petrick still wondersIn 1967, several people saw a UFO in the Illinois sky. A patrolman... UFO/alien conspiracy theory countercultu...</p></details>
+   Link:<a href="https://qctimes.com/news/local/article_97748090-9183-11ef-80e4-2f747652cb3f.html" target="_blank" rel="noopener noreferrer nofollow">https://qctimes.com/news/local/article_97748090-9183-11ef-80e4-2f747652cb3f.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Petrick still wondersIn 1967, several people saw a UFO in the Illinois sky. A patrolman... UFO/alien conspiracy theory countercultu...</p></details>

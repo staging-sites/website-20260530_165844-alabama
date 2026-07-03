@@ -257,7 +257,7 @@ This matters because Pease sits close to several areas that have produced notabl
 
 ## How runway 16/34 shapes sightlines
 
-Portsmouth International Airport at Pease uses a single long runway, designated 16/34, measuring roughly 11,322 feet. The runway supports instrument approaches and extensive lighting systems designed to guide aircraft in poor visibility and at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airnav.com/airport/PSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav Portsmouth International Airport at Pease</span><span class="citation-popover-snippet">Portsmouth International Airport at Pease - KPSMRunway 16/34; Visual slope indicator: 4-light PAPI on left (3.00 degrees glide pat...</span></span></span>
+Portsmouth International Airport at Pease uses a single long runway, designated 16/34, measuring roughly 11,322 feet. The runway supports instrument approaches and extensive lighting systems designed to guide aircraft in poor visibility and at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airnav.com/airport/PSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav Portsmouth International Airport at Pease</span><span class="citation-popover-snippet">Portsmouth International Airport at Pease - KPSMRunway 16/34; Visual slope indicator: 4-light PAPI on left (3.00 degrees glide pat...</span></span></span>
 
 For people on the ground, the important detail is not the runway length itself but the direction of arriving aircraft. When a plane is flying directly toward an observer on final approach, its forward motion becomes difficult to judge. Most of the aircraft's movement is occurring along the viewer's line of sight rather than across it.
 
@@ -273,13 +273,13 @@ The result can be striking:
 
 </div>
 
-This effect is well known in aviation and is not unique to New Hampshire. A distant aircraft approaching head-on can appear almost stationary until it nears the observer, at which point the apparent motion suddenly increases. Aviation safety literature discusses similar night-time visual illusions involving aircraft lights and limited visual references. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinook-helicopter.com">[chinook-helicopter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinook-helicopter.com</span><span class="citation-popover-title">Visual Illusions</span><span class="citation-popover-snippet">At night, an aircraft may appear to be going away when, in fact, it is approaching. This illusion often occurs...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For Seacoast UFO reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>, the practical question is whether the witness was located somewhere that lined up with a Pease arrival corridor. If so, a hovering appearance becomes much less mysterious.
+This effect is well known in aviation and is not unique to New Hampshire. A distant aircraft approaching head-on can appear almost stationary until it nears the observer, at which point the apparent motion suddenly increases. Aviation safety literature discusses similar night-time visual illusions involving aircraft lights and limited visual references.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinook-helicopter.com">[chinook-helicopter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinook-helicopter.com</span><span class="citation-popover-title">Visual Illusions</span><span class="citation-popover-snippet">At night, an aircraft may appear to be going away when, in fact, it is approaching. This illusion often occurs...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For Seacoast UFO reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>, the practical question is whether the witness was located somewhere that lined up with a Pease arrival corridor. If so, a hovering appearance becomes much less mysterious.
 
 ## Why approach lights can seem airborne
 
 The runway environment itself can create confusion even when no aircraft is immediately obvious.
 
-Pease's runway is equipped with a MALSR system, a medium-intensity approach lighting system with runway alignment indicator lights. Airport and FAA-derived records describe a 1,400-foot approach-light array serving the runway approaches. The airport also uses PAPI visual glide-slope lights to help pilots maintain the correct descent path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.avnwx.com/airport/KPSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.avnwx.com">[maps.avnwx.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.avnwx.com</span><span class="citation-popover-snippet">KPSM - Portsmouth Intl At PeaseRunway 16/34. Length: 11322 feet by 3rd Party Survey... MALSR - 1,400 Foot Medium Intensity Approach Ligh...</span></span></span> [3AirNav 3AirNav]
+Pease's runway is equipped with a MALSR system, a medium-intensity approach lighting system with runway alignment indicator lights. Airport and FAA-derived records describe a 1,400-foot approach-light array serving the runway approaches. The airport also uses PAPI visual glide-slope lights to help pilots maintain the correct descent path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.avnwx.com/airport/KPSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.avnwx.com">[maps.avnwx.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.avnwx.com</span><span class="citation-popover-snippet">KPSM - Portsmouth Intl At PeaseRunway 16/34. Length: 11322 feet by 3rd Party Survey... MALSR - 1,400 Foot Medium Intensity Approach Ligh...</span></span></span> [3AirNav 3AirNav]
 
 To a pilot, these lights form an organised landing aid. To a person viewing them from an unexpected angle, especially at night, they can appear very different.
 
@@ -293,15 +293,15 @@ A distant observer may see only a cluster of intense lights rather than the supp
 
 ### Darkness removes depth cues
 
-Many Seacoast locations include stretches of dark countryside, woodland, marshland or water. Aviation researchers describe how limited visual references at night can create powerful distance and altitude illusions. Without visible terrain between observer and target, lights can appear suspended in empty space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rosap.ntl.bts.gov/view/dot/21207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rosap.ntl.bts.gov">[2rosap.ntl.bts.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rosap.ntl.bts.gov</span><span class="citation-popover-snippet">Effects of approach lighting and variation in visible runway...by HW Mertens · 1982 · Cited by 18 — Previous experiments have demonstrat...</span></span></span>
+Many Seacoast locations include stretches of dark countryside, woodland, marshland or water. Aviation researchers describe how limited visual references at night can create powerful distance and altitude illusions. Without visible terrain between observer and target, lights can appear suspended in empty space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rosap.ntl.bts.gov/view/dot/21207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rosap.ntl.bts.gov">[2rosap.ntl.bts.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rosap.ntl.bts.gov</span><span class="citation-popover-snippet">Effects of approach lighting and variation in visible runway...by HW Mertens · 1982 · Cited by 18 — Previous experiments have demonstrat...</span></span></span>
 
 ### Flashing sequences can look unnatural
 
-Some approach-light systems include sequenced flashing lights intended to guide pilots toward the runway. To people unfamiliar with airport lighting, these patterns can appear unusual or even suggest motion within a stationary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifrfocus.com/2026/02/approach-lighting-systems-scenarios-for-instrument-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifrfocus.com">[IFR Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifrfocus.com</span><span class="citation-popover-title">IFR Focus Approach Lighting Systems: Scenarios for Instrument Pilots</span><span class="citation-popover-snippet">IFR FocusApproach Lighting Systems: Scenarios for Instrument PilotsFebruary 27, 2026 — 27 Feb 2026 — Approach light systems are a configu...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span>
+Some approach-light systems include sequenced flashing lights intended to guide pilots toward the runway. To people unfamiliar with airport lighting, these patterns can appear unusual or even suggest motion within a stationary object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ifrfocus.com/2026/02/approach-lighting-systems-scenarios-for-instrument-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifrfocus.com">[IFR Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifrfocus.com</span><span class="citation-popover-title">IFR Focus Approach Lighting Systems: Scenarios for Instrument Pilots</span><span class="citation-popover-snippet">IFR FocusApproach Lighting Systems: Scenarios for Instrument PilotsFebruary 27, 2026 — 27 Feb 2026 — Approach light systems are a configu...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span>
 
 ### Staring creates apparent movement
 
-A recognised visual effect called autokinesis occurs when someone stares at a bright point of light against a dark background. The light can seem to drift, wobble or move despite remaining stationary. Aviation guidance has long noted that isolated lights at night are frequently misjudged because of this phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
+A recognised visual effect called autokinesis occurs when someone stares at a bright point of light against a dark background. The light can seem to drift, wobble or move despite remaining stationary. Aviation guidance has long noted that isolated lights at night are frequently misjudged because of this phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 That combination of darkness, distance and bright lighting is one reason seemingly strange lights near airports often generate reports of hovering objects.
 
@@ -357,199 +357,199 @@ Pease does not provide a universal explanation for every Seacoast UFO report. So
 
 What Pease does provide is a realistic mistaken-identity mechanism that must be considered before stronger conclusions are reached.
 
-The airport's long runway, instrument approaches, military operations, bright lighting systems and frequent night activity place a constant source of unusual-looking lights into a region already known for UFO stories. Airport data show a heavily used airfield with precision approaches, high-intensity runway lighting and military as well as civilian traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airnav.com/airport/PSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav Portsmouth International Airport at Pease</span><span class="citation-popover-snippet">Portsmouth International Airport at Pease - KPSMRunway 16/34; Visual slope indicator: 4-light PAPI on left (3.00 degrees glide pat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>, reports of silent, low, hovering lights near Portsmouth, Newington, Greenland, Rye, Exeter or other nearby communities are often best approached as an aviation-identification problem first. The question is not whether witnesses saw something unusual. Many undoubtedly did. The key question is whether the unusual appearance came from an unknown object or from the way runway lights, landing lights and night-time perception can transform ordinary aircraft into something that looks far stranger from the ground.
+The airport's long runway, instrument approaches, military operations, bright lighting systems and frequent night activity place a constant source of unusual-looking lights into a region already known for UFO stories. Airport data show a heavily used airfield with precision approaches, high-intensity runway lighting and military as well as civilian traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airnav.com/airport/PSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav Portsmouth International Airport at Pease</span><span class="citation-popover-snippet">Portsmouth International Airport at Pease - KPSMRunway 16/34; Visual slope indicator: 4-light PAPI on left (3.00 degrees glide pat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>, reports of silent, low, hovering lights near Portsmouth, Newington, Greenland, Rye, Exeter or other nearby communities are often best approached as an aviation-identification problem first. The question is not whether witnesses saw something unusual. Many undoubtedly did. The key question is whether the unusual appearance came from an unknown object or from the way runway lights, landing lights and night-time perception can transform ordinary aircraft into something that looks far stranger from the ground.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nnB-0xG6Jho" title="Flight to Portsmouth Int&#x27;l Airport @ Pease, NH (KPSM) - 09.26.15" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nnB-0xG6Jho" target="_blank" rel="noopener noreferrer">Flight to Portsmouth Int&#x27;l Airport @ Pease, NH (KPSM) - 09.26.15</a></p><p class="youtube-embed-meta">Channel: AviatorMike &middot; Views: 1.1K &middot; Uploaded: October 2015 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nnB-0xG6Jho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nnB-0xG6Jho">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Pease lights look like hovering objects. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Pease lights look like hovering objects. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
-        </h4>
-        <p class="fr-book-author">By Joachim-Ernst Berendt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
+</h4>
+<p class="fr-book-author">By Joachim-Ernst Berendt</p>
         
-        <p class="fr-book-desc">Addresses observational mistakes and light-based sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses observational mistakes and light-based sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison cases involving aviation and visual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison cases involving aviation and visual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for evaluating ordinary explanations of unusual lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating ordinary explanations of unusual lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Helps explain aircraft movement and visual perception from the ground.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain aircraft movement and visual perception from the ground.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Is Sound: Nada Brahma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Is Sound: Nada Brahma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift"><img src="https://i.ebayimg.com/images/g/JzEAAeSwjwBo~G8M/s-l225.jpg" alt="Listing image for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift"><img src="https://i.ebayimg.com/images/g/JzEAAeSwjwBo~G8M/s-l225.jpg" alt="Listing image for 20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm A330 Airbus Beluga With Wheels Metal Aircraft Plane Model Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40"><img src="https://i.ebayimg.com/images/g/u5YAAeSwo1dpEc~v/s-l225.jpg" alt="Listing image for 16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40"><img src="https://i.ebayimg.com/images/g/u5YAAeSwo1dpEc~v/s-l225.jpg" alt="Listing image for 16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="https://i.ebayimg.com/images/g/6CEAAeSwN2RpHunt/s-l225.jpg" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="https://i.ebayimg.com/images/g/6CEAAeSwN2RpHunt/s-l225.jpg" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pease-lights-look-like-hovering-objects-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-pease-lights-look-like-hovering-objects-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ The airport's long runway, instrument approaches, military operations, bright li
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ The airport's long runway, instrument approaches, military operations, bright li
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ The airport's long runway, instrument approaches, military operations, bright li
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ The airport's long runway, instrument approaches, military operations, bright li
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ The airport's long runway, instrument approaches, military operations, bright li
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,124 +755,124 @@ The airport's long runway, instrument approaches, military operations, bright li
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: airnav.com  
    Title: Air Nav Portsmouth International Airport at Pease  
-   Link: <a href="https://www.airnav.com/airport/PSM" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/PSM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth International Airport at Pease - KPSMRunway 16/34; Visual slope indicator: 4-light PAPI on left (3.00 degrees glide pat...</p></details>
+   Link:<a href="https://www.airnav.com/airport/PSM" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/PSM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth International Airport at Pease - KPSMRunway 16/34; Visual slope indicator: 4-light PAPI on left (3.00 degrees glide pat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: airnav.com  
    Title: Air Nav KPSM  
-   Link: <a href="https://www.airnav.com/airport/kpsm" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/kpsm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KPSM - Portsmouth International Airport at PeaseRunway 16/34; RVR equipment: touchdown; Approach lights: MALSR: 1,400 foot medium...</p></details>
+   Link:<a href="https://www.airnav.com/airport/kpsm" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/kpsm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KPSM - Portsmouth International Airport at PeaseRunway 16/34; RVR equipment: touchdown; Approach lights: MALSR: 1,400 foot medium...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: chinook-helicopter.com  
    Title: Visual Illusions  
-   Link: <a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At night, an aircraft may appear to be going away when, in fact, it is approaching. This illusion often occurs...Read more...</p></details>
+   Link:<a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At night, an aircraft may appear to be going away when, in fact, it is approaching. This illusion often occurs...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
+   Link:<a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: maps.avnwx.com  
-   Link: <a href="https://maps.avnwx.com/airport/KPSM" target="_blank" rel="noopener noreferrer nofollow">https://maps.avnwx.com/airport/KPSM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KPSM - Portsmouth Intl At PeaseRunway 16/34. Length: 11322 feet by 3rd Party Survey... MALSR - 1,400 Foot Medium Intensity Approach Ligh...</p></details>
+   Link:<a href="https://maps.avnwx.com/airport/KPSM" target="_blank" rel="noopener noreferrer nofollow">https://maps.avnwx.com/airport/KPSM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KPSM - Portsmouth Intl At PeaseRunway 16/34. Length: 11322 feet by 3rd Party Survey... MALSR - 1,400 Foot Medium Intensity Approach Ligh...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rosap.ntl.bts.gov  
-   Link: <a href="https://rosap.ntl.bts.gov/view/dot/21207" target="_blank" rel="noopener noreferrer nofollow">https://rosap.ntl.bts.gov/view/dot/21207</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of approach lighting and variation in visible runway...by HW Mertens · 1982 · Cited by 18 — Previous experiments have demonstrat...</p></details>
+   Link:<a href="https://rosap.ntl.bts.gov/view/dot/21207" target="_blank" rel="noopener noreferrer nofollow">https://rosap.ntl.bts.gov/view/dot/21207</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of approach lighting and variation in visible runway...by HW Mertens · 1982 · Cited by 18 — Previous experiments have demonstrat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Portsmouth International Airport at Pease  
-   Link: <a href="https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth International Airport at PeaseIt has one concrete and asphalt paved runway designated 16/34 which... AirNav airport inform...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth International Airport at PeaseIt has one concrete and asphalt paved runway designated 16/34 which... AirNav airport inform...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: adip.faa.gov  
-   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data and Information PortalRunway - 16/34. Dimensions: 11322 ft. x 150 ft. Surface Type/Condition: ASPH-CONC-G. Treatment: GRVD. Edge Lig...</p></details>
+   Link:<a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data and Information PortalRunway - 16/34. Dimensions: 11322 ft. x 150 ft. Surface Type/Condition: ASPH-CONC-G. Treatment: GRVD. Edge Lig...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ifrfocus.com  
    Title: IFR Focus Approach Lighting Systems: Scenarios for Instrument Pilots  
-   Link: <a href="https://ifrfocus.com/2026/02/approach-lighting-systems-scenarios-for-instrument-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://ifrfocus.com/2026/02/approach-lighting-systems-scenarios-for-instrument-pilots/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFR FocusApproach Lighting Systems: Scenarios for Instrument PilotsFebruary 27, 2026 — 27 Feb 2026 — Approach light systems are a configu...</p></details>
+   Link:<a href="https://ifrfocus.com/2026/02/approach-lighting-systems-scenarios-for-instrument-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://ifrfocus.com/2026/02/approach-lighting-systems-scenarios-for-instrument-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFR FocusApproach Lighting Systems: Scenarios for Instrument PilotsFebruary 27, 2026 — 27 Feb 2026 — Approach light systems are a configu...</p></details>
    Published: February 27, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aopa.org  
    Title: Portsmouth International At Pease Airport  
-   Link: <a href="https://www.aopa.org/destinations/airports/PSM/details?public=0&amp;q=kpae" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/destinations/airports/PSM/details?public=0&amp;q=kpae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KPSMApproach Lighting: Approach: 1400ft/Medium-Intensity/Runway Alignment Indicators; Runway visual range: Touchdown; Runway visual value...</p></details>
+   Link:<a href="https://www.aopa.org/destinations/airports/PSM/details?public=0&amp;q=kpae" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/destinations/airports/PSM/details?public=0&amp;q=kpae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KPSMApproach Lighting: Approach: 1400ft/Medium-Intensity/Runway Alignment Indicators; Runway visual range: Touchdown; Runway visual value...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spotterguide.net  
    Title: Portsmouth Intl  
-   Link: <a href="https://www.spotterguide.net/planespotting/north-america/united-states-of-america/portsmouth-psm-kpsm/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotterguide.net/planespotting/north-america/united-states-of-america/portsmouth-psm-kpsm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport - Spotting Guide8 Aug 2024 — Portsmouth Intl. Airport (PSM/KPSM) formerly also known as Pease Intl. Airport is located 2km west o...</p></details>
+   Link:<a href="https://www.spotterguide.net/planespotting/north-america/united-states-of-america/portsmouth-psm-kpsm/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotterguide.net/planespotting/north-america/united-states-of-america/portsmouth-psm-kpsm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airport - Spotting Guide8 Aug 2024 — Portsmouth Intl. Airport (PSM/KPSM) formerly also known as Pease Intl. Airport is located 2km west o...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mm.nh.gov  
-   Link: <a href="https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NH DHHSPortsmouth International Airport at PeaseLocated one mile west from Portsmouth, the airport occupies approximately 900 acres. Ther...</p></details>
+   Link:<a href="https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NH DHHSPortsmouth International Airport at PeaseLocated one mile west from Portsmouth, the airport occupies approximately 900 acres. Ther...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: flightsafety.org  
-   Link: <a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FSF ALAR Briefing Note 5.3 -- Visual Illusions– In crosswind conditions, the runway lights and environment will appear at an angle to the...</p></details>
+   Link:<a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FSF ALAR Briefing Note 5.3 -- Visual Illusions– In crosswind conditions, the runway lights and environment will appear at an angle to the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night FlyingFor VFR pilots, the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</p></details>
+   Link:<a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night FlyingFor VFR pilots, the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: globalair.com  
-   Link: <a href="https://www.globalair.com/airport/apt.runway.aspx?aptcode=psm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalair.com/airport/apt.runway.aspx?aptcode=psm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PORTSMOUTH INTERNATIONAL AT PEASE (KPSM)...16/34 Details; 4-Light PAPI on Left Side of Runway · 3° · touchdown · MALSR (medium-intensit...</p></details>
+   Link:<a href="https://www.globalair.com/airport/apt.runway.aspx?aptcode=psm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalair.com/airport/apt.runway.aspx?aptcode=psm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PORTSMOUTH INTERNATIONAL AT PEASE (KPSM)...16/34 Details; 4-Light PAPI on Left Side of Runway · 3° · touchdown · MALSR (medium-intensit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth Peace Airport approach pattern explainedIn all airports around the world, there are patterns to approach the airport, and in e...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth Peace Airport approach pattern explainedIn all airports around the world, there are patterns to approach the airport, and in e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/whatisit/comments/1s2myan/saw_it_just_hovering/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/whatisit/comments/1s2myan/saw_it_just_hovering/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw it just hovering: r/whatisitWas driving up Harry Hines Blvd and Walnut Hill Ln in Dallas, TX. Was at the light when I saw it just ho...</p></details>
+   Link:<a href="https://www.reddit.com/r/whatisit/comments/1s2myan/saw_it_just_hovering/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/whatisit/comments/1s2myan/saw_it_just_hovering/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saw it just hovering: r/whatisitWas driving up Harry Hines Blvd and Walnut Hill Ln in Dallas, TX. Was at the light when I saw it just ho...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessWhen landing on a wet runway, peripheral vision of runway edge lights should be used to increase the depth perc...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessWhen landing on a wet runway, peripheral vision of runway edge lights should be used to increase the depth perc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fltplan.com  
-   Link: <a href="https://www.fltplan.com/Airport.cgi?PSM=" target="_blank" rel="noopener noreferrer nofollow">https://www.fltplan.com/Airport.cgi?PSM=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1,400 foot medium intensity approach lighting system with runway alignment indicator lights, Approach Lights: MALSR - 1,400 foot...Read...</p></details>
+   Link:<a href="https://www.fltplan.com/Airport.cgi?PSM=" target="_blank" rel="noopener noreferrer nofollow">https://www.fltplan.com/Airport.cgi?PSM=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1,400 foot medium intensity approach lighting system with runway alignment indicator lights, Approach Lights: MALSR - 1,400 foot...Read...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: files.cityofportsmouth.com  
    Title: Municipal Service Agreemen Appendicies Maps Roadways Utilities Airport  
-   Link: <a href="https://files.cityofportsmouth.com/files/ww/PDFs/pafs/MunicipalServiceAgreemenAppendiciesMaps-Roadways-Utilities-Airport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.cityofportsmouth.com/files/ww/PDFs/pafs/MunicipalServiceAgreemenAppendiciesMaps-Roadways-Utilities-Airport.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cityofportsmouth.comus. routeRUNWAY 16-34. APP. PARCS. 1013. EL. 77.5. EXISTING RUNWAY. PROTECTION CONE. 1,000X1,5101,700. HALSR. APPROAC...</p></details>
+   Link:<a href="https://files.cityofportsmouth.com/files/ww/PDFs/pafs/MunicipalServiceAgreemenAppendiciesMaps-Roadways-Utilities-Airport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.cityofportsmouth.com/files/ww/PDFs/pafs/MunicipalServiceAgreemenAppendiciesMaps-Roadways-Utilities-Airport.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cityofportsmouth.comus. routeRUNWAY 16-34. APP. PARCS. 1013. EL. 77.5. EXISTING RUNWAY. PROTECTION CONE. 1,000X1,5101,700. HALSR. APPROAC...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: migflug.com  
    Title: your first night flight why everything changes after sunset  
-   Link: <a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>
+   Link:<a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>

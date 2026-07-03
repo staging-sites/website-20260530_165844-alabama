@@ -250,14 +250,14 @@ image: /assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a_georgia_aviatio
 
 ## Introduction
 
-Georgia produces a large number of UFO reports for a simple reason that often gets overlooked: the state sits beneath some of the busiest air corridors in North America. Around Atlanta in particular, commercial airliners, cargo traffic, military aircraft, helicopters, satellites, drones and atmospheric effects combine to create a sky that can easily confuse even careful observers. Hartsfield-Jackson Atlanta International Airport is routinely described as one of the world’s busiest airports, handling enormous daily traffic volumes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">air traffic by the numbers FY2024</span><span class="citation-popover-snippet">FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch...</span></span></span>
+Georgia produces a large number of UFO reports for a simple reason that often gets overlooked: the state sits beneath some of the busiest air corridors in North America. Around Atlanta in particular, commercial airliners, cargo traffic, military aircraft, helicopters, satellites, drones and atmospheric effects combine to create a sky that can easily confuse even careful observers. Hartsfield-Jackson Atlanta International Airport is routinely described as one of the world’s busiest airports, handling enormous daily traffic volumes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">air traffic by the numbers FY2024</span><span class="citation-popover-snippet">FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch...</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a_georgia_aviation_ufo_eecc8f-Illustration-1-dark.svg" | relative_url }}" alt="Aviation illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a_georgia_aviation_ufo_eecc8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a_georgia_aviation_ufo_eecc8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every Georgia UFO report is automatically explained away. Some sightings remain poorly documented or unresolved. But aviation density matters because many reports that initially appear mysterious later turn out to involve ordinary aircraft lighting, unusual flight paths, landing approaches, military operations, Starlink satellite trains, bright planets such as Venus, or simple depth-perception errors. Understanding how Georgia’s skies actually work is one of the most important tools for judging witness reliability and separating stronger cases from weak ones.
 
 ## How Atlanta’s air traffic changes what people think they are seeing
 
-Atlanta’s airport environment is unusually intense even by American standards. Hartsfield-Jackson functions as a major passenger and cargo hub, with aircraft approaching and departing in continuous streams day and night. FAA traffic statistics regularly place Atlanta among the busiest US airports by aircraft operations, while aviation industry rankings repeatedly identify it as the world’s busiest passenger airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.delta.com/delta-continues-power-worlds-busiest-airport-time-and-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.delta.com">[Delta News Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.delta.com</span><span class="citation-popover-snippet">Delta News HubDelta continues to power the world&#x27;s busiest airport—time...6 May 2026 — ATL has held the world&#x27;s busiest airport title fo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[3Wikipedia 3Federal Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">air traffic by the numbers FY2024</span><span class="citation-popover-snippet">FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch...</span></span></span> Administration](#endnote-2 "Snippet: air-traffic-by-the-numbers-FY2024....In FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch")
+Atlanta’s airport environment is unusually intense even by American standards. Hartsfield-Jackson functions as a major passenger and cargo hub, with aircraft approaching and departing in continuous streams day and night. FAA traffic statistics regularly place Atlanta among the busiest US airports by aircraft operations, while aviation industry rankings repeatedly identify it as the world’s busiest passenger airport.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.delta.com/delta-continues-power-worlds-busiest-airport-time-and-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.delta.com">[Delta News Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.delta.com</span><span class="citation-popover-snippet">Delta News HubDelta continues to power the world&#x27;s busiest airport—time...6 May 2026 — ATL has held the world&#x27;s busiest airport title fo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[3Wikipedia 3Federal Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">air traffic by the numbers FY2024</span><span class="citation-popover-snippet">FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch...</span></span></span> Administration](#endnote-2 "Snippet: air-traffic-by-the-numbers-FY2024....In FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch")
 
 For UFO reporting, that density creates several recurring problems.
 
@@ -265,7 +265,7 @@ First, witnesses often see aircraft from unfamiliar angles. A plane approaching 
 
 Second, Atlanta’s layered airspace produces stacked traffic at different altitudes. One aircraft may appear to “chase” another simply because they occupy separate flight levels on intersecting routes. In suburban and rural areas north and south of the city, observers frequently lack visual reference points, making ordinary altitude separation difficult to judge.
 
-Third, weather and haze amplify misinterpretation. Georgia’s humid atmosphere scatters light strongly at night. Thin cloud layers, summer moisture and low visibility can distort aircraft lighting into glowing discs, elongated shapes or pulsating colours. Dense fog events around Atlanta periodically reduce visibility even for professional pilots and controllers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/travel/15733688/ground-stop-hit-hartsfield-jackson-atlanta-international-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">The thick fog, particularly affecting North Georgia, reduced visibility to a quarter mile or less and created a low ceiling, hampering sa...</span></span></span>
+Third, weather and haze amplify misinterpretation. Georgia’s humid atmosphere scatters light strongly at night. Thin cloud layers, summer moisture and low visibility can distort aircraft lighting into glowing discs, elongated shapes or pulsating colours. Dense fog events around Atlanta periodically reduce visibility even for professional pilots and controllers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/travel/15733688/ground-stop-hit-hartsfield-jackson-atlanta-international-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">The thick fog, particularly affecting North Georgia, reduced visibility to a quarter mile or less and created a low ceiling, hampering sa...</span></span></span>
 
 This helps explain why many Georgia UFO accounts focus less on structured craft and more on “silent lights”, “hovering orbs”, “triangles” or “objects changing colour”. In many cases, the witness is describing lighting effects rather than a clearly resolved object.
 
@@ -288,7 +288,7 @@ Then the illusion changes abruptly:
 
 This effect is especially common along northern and eastern Atlanta suburbs where flight paths pass over residential areas. It also appears repeatedly in national UFO databases from locations close to major airports.
 
-Witness sincerity is not usually the issue. Human depth perception simply performs poorly against a dark sky with few fixed reference points. Encyclopaedia and aviation-oriented discussions of UFO sightings have long noted that bright astronomical and aviation lights can appear to move unnaturally when viewed against empty sky backgrounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</span></span></span>
+Witness sincerity is not usually the issue. Human depth perception simply performs poorly against a dark sky with few fixed reference points. Encyclopaedia and aviation-oriented discussions of UFO sightings have long noted that bright astronomical and aviation lights can appear to move unnaturally when viewed against empty sky backgrounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HEp7RbVsR0g" title="Are these drone sightings over Georgia? | What we&#x27;ve learned" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HEp7RbVsR0g" target="_blank" rel="noopener noreferrer">Are these drone sightings over Georgia? | What we&#x27;ve learned</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 29.5K &middot; Uploaded: December 2024 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HEp7RbVsR0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HEp7RbVsR0g">Open on YouTube</a></p></div></div></div>
 
@@ -326,7 +326,7 @@ Atlanta’s relatively dark suburban outskirts make these sightings especially s
 <img src="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a_georgia_aviation_ufo_eecc8f-Illustration-2-dark.svg" | relative_url }}" alt="Aviation illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a_georgia_aviation_ufo_eecc8f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_ufo_archives_d7613a_georgia_aviation_ufo_eecc8f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Venus and bright astronomical objects
 
-Project [Blue Book]({{ 'blue-book-3e2869/' | relative_url }}) and later UFO studies repeatedly identified bright planets, especially Venus, as a major source of UFO reports. Official Blue Book material specifically noted that astronomical objects accounted for many sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Air Force investigated UFO sightings through Project Blue Book.... A bright light, such as the planet Venus, often appears to move.Read...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[3Wikipedia 3Defense Logistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, whi...</span></span></span> Agency](#endnote-17 "Snippet: Defense Logistics AgencyProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, whi...")
+Project [Blue Book]({{ 'blue-book-3e2869/' | relative_url }}) and later UFO studies repeatedly identified bright planets, especially Venus, as a major source of UFO reports. Official Blue Book material specifically noted that astronomical objects accounted for many sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Air Force investigated UFO sightings through Project Blue Book.... A bright light, such as the planet Venus, often appears to move.Read...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[3Wikipedia 3Defense Logistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, whi...</span></span></span> Agency](#endnote-17 "Snippet: Defense Logistics AgencyProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, whi...")
 
 Venus is particularly deceptive because:
 
@@ -339,7 +339,7 @@ Venus is particularly deceptive because:
 
 </div>
 
-These effects are not signs of dishonesty. They are well-known features of human visual perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</span></span></span>
+These effects are not signs of dishonesty. They are well-known features of human visual perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</span></span></span>
 
 ## Why witnesses often overestimate speed, size and distance
 
@@ -361,7 +361,7 @@ This is especially important in Georgia because many reports occur:
 
 A bright aircraft light several miles away may appear close enough to estimate shape and motion, even though the witness is really observing only an unresolved point of light.
 
-Britannica’s overview of UFO investigations notes that people routinely misjudge movement and speed against blank skies because the eye lacks reliable depth cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</span></span></span> That observation fits many Georgia reports remarkably well.
+Britannica’s overview of UFO investigations notes that people routinely misjudge movement and speed against blank skies because the eye lacks reliable depth cues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</span></span></span> That observation fits many Georgia reports remarkably well.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MkRqrsAWmRk" title="Inside 11Alive News Investigates | Data shows Atlanta air traffic control understaffed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MkRqrsAWmRk" target="_blank" rel="noopener noreferrer">Inside 11Alive News Investigates | Data shows Atlanta air traffic control understaffed</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 304 &middot; Uploaded: July 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MkRqrsAWmRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MkRqrsAWmRk">Open on YouTube</a></p></div></div></div>
 
@@ -371,7 +371,7 @@ Georgia’s aviation-heavy environment also produces pilot UFO reports, includin
 
 However, pilot testimony still has limits.
 
-Even trained crews can struggle to identify distant lights at night, especially when atmospheric conditions are poor or when observing unfamiliar military or satellite activity. Recent FAA-linked reporting shows that pilots continue to submit modern UAP reports, sometimes involving bright reflections or unidentified lights seen during flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox5atlanta.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5atlanta.com">[FOX 5 Atlanta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5atlanta.com</span><span class="citation-popover-snippet">FOX 5 AtlantaPilot reports UFO beside jet, ATC jokes: &#x27;Good luck with the...23 Dec 2025 — Pilot reports UFO beside jet, ATC jokes: &#x27;Good...</span></span></span>
+Even trained crews can struggle to identify distant lights at night, especially when atmospheric conditions are poor or when observing unfamiliar military or satellite activity. Recent FAA-linked reporting shows that pilots continue to submit modern UAP reports, sometimes involving bright reflections or unidentified lights seen during flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox5atlanta.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5atlanta.com">[FOX 5 Atlanta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5atlanta.com</span><span class="citation-popover-snippet">FOX 5 AtlantaPilot reports UFO beside jet, ATC jokes: &#x27;Good luck with the...23 Dec 2025 — Pilot reports UFO beside jet, ATC jokes: &#x27;Good...</span></span></span>
 
 Aviation experience therefore increases credibility, but it does not remove the possibility of misidentification. Investigators usually place greater weight on cases where pilot reports are supported by:
 
@@ -379,7 +379,7 @@ Aviation experience therefore increases credibility, but it does not remove the 
 
 * Independent radar returns.
 * Multiple aircraft crews.
-* Air traffic control confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/us/us-faa-resuming-flights-atlanta-airport-after-air-traffic-control-evacuated-2025-10-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">As a result, flights were halted and several were diverted. Flight tracking sources reported about 500 flight delays and nine cancellatio...</span></span></span>
+* Air traffic control confirmation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/us/us-faa-resuming-flights-atlanta-airport-after-air-traffic-control-evacuated-2025-10-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">As a result, flights were halted and several were diverted. Flight tracking sources reported about 500 flight delays and nine cancellatio...</span></span></span>
 * Contemporaneous recordings.
 * Correlated ground witnesses.
 
@@ -403,199 +403,199 @@ For researchers examining Georgia UFO history, aviation context becomes a reliab
 
 This is one reason careful investigators often distinguish between “unidentified” and “unexplainable”. A sighting may remain unresolved simply because too little information survives to test ordinary explanations properly.
 
-Project Blue Book itself reached broadly similar conclusions decades ago. The Air Force stated that most investigated UFO reports involved conventional aircraft, astronomical objects or other explainable phenomena, even while a smaller percentage remained unresolved because evidence was incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Air Force investigated UFO sightings through Project Blue Book.... A bright light, such as the planet Venus, often appears to move.Read...</span></span></span>
+Project Blue Book itself reached broadly similar conclusions decades ago. The Air Force stated that most investigated UFO reports involved conventional aircraft, astronomical objects or other explainable phenomena, even while a smaller percentage remained unresolved because evidence was incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Air Force investigated UFO sightings through Project Blue Book.... A bright light, such as the planet Venus, often appears to move.Read...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pOm4YZi5VLo" title="Was that a UFO? No, it was Elon Musk&#x27;s SpaceX satellites!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pOm4YZi5VLo" target="_blank" rel="noopener noreferrer">Was that a UFO? No, it was Elon Musk&#x27;s SpaceX satellites!</a></p><p class="youtube-embed-meta">Channel: 13WMAZ &middot; Views: 7.8K &middot; Uploaded: July 2023 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pOm4YZi5VLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pOm4YZi5VLo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Georgia&#x27;s Busy Skies Create So Many UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Georgia&#x27;s Busy Skies Create So Many UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong on distinguishing aircraft, astronomy, and unknowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong on distinguishing aircraft, astronomy, and unknowns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Addresses aviation-related sighting investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses aviation-related sighting investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes pilot and aviation witness cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes pilot and aviation witness cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for advanced aviation technologies often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for advanced aviation technologies often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/HAcAAeSw3Hlo1A1X/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/HAcAAeSw3Hlo1A1X/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/2Q0AAeSwRXpo1A63/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/2Q0AAeSwRXpo1A63/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/KZwAAeSw8P5p39er/s-l225.jpg" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/KZwAAeSw8P5p39er/s-l225.jpg" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-georgia-s-busy-skies-create-so-many-ufo-reports-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -611,7 +611,7 @@ Project Blue Book itself reached broadly similar conclusions decades ago. The Ai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -631,7 +631,7 @@ Project Blue Book itself reached broadly similar conclusions decades ago. The Ai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -663,7 +663,7 @@ Project Blue Book itself reached broadly similar conclusions decades ago. The Ai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ Project Blue Book itself reached broadly similar conclusions decades ago. The Ai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -760,7 +760,7 @@ Project Blue Book itself reached broadly similar conclusions decades ago. The Ai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,178 +801,178 @@ Project Blue Book itself reached broadly similar conclusions decades ago. The Ai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: List of busiest airports by passenger traffic  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
    Title: air traffic by the numbers FY2024  
-   Link: <a href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FY2024, data for the Core 30 airports show that the highest ADCs were found at Atlanta (ATL), Ch...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.delta.com  
-   Link: <a href="https://news.delta.com/delta-continues-power-worlds-busiest-airport-time-and-again" target="_blank" rel="noopener noreferrer nofollow">https://news.delta.com/delta-continues-power-worlds-busiest-airport-time-and-again</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Delta News HubDelta continues to power the world&#x27;s busiest airport—time...6 May 2026 — ATL has held the world&#x27;s busiest airport title fo...</p></details>
+   Link:<a href="https://news.delta.com/delta-continues-power-worlds-busiest-airport-time-and-again" target="_blank" rel="noopener noreferrer nofollow">https://news.delta.com/delta-continues-power-worlds-busiest-airport-time-and-again</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delta News HubDelta continues to power the world&#x27;s busiest airport—time...6 May 2026 — ATL has held the world&#x27;s busiest airport title fo...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: the-sun.com  
-   Link: <a href="https://www.the-sun.com/travel/15733688/ground-stop-hit-hartsfield-jackson-atlanta-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/travel/15733688/ground-stop-hit-hartsfield-jackson-atlanta-international-airport/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The thick fog, particularly affecting North Georgia, reduced visibility to a quarter mile or less and created a low ceiling, hampering sa...</p></details>
+   Link:<a href="https://www.the-sun.com/travel/15733688/ground-stop-hit-hartsfield-jackson-atlanta-international-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/travel/15733688/ground-stop-hit-hartsfield-jackson-atlanta-international-airport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The thick fog, particularly affecting North Georgia, reduced visibility to a quarter mile or less and created a low ceiling, hampering sa...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Unidentified flying object  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: unidentified flying object  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFO sightings through Project Blue Book.... A bright light, such as the planet Venus, often appears to move.Read...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFO sightings through Project Blue Book.... A bright light, such as the planet Venus, often appears to move.Read...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fox5atlanta.com  
-   Link: <a href="https://www.fox5atlanta.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 AtlantaPilot reports UFO beside jet, ATC jokes: &#x27;Good luck with the...23 Dec 2025 — Pilot reports UFO beside jet, ATC jokes: &#x27;Good...</p></details>
+   Link:<a href="https://www.fox5atlanta.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 AtlantaPilot reports UFO beside jet, ATC jokes: &#x27;Good luck with the...23 Dec 2025 — Pilot reports UFO beside jet, ATC jokes: &#x27;Good...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
    Title: general statements  
-   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reporting impacting national security or safety. For additional information, contact the National UFO Reporting Center. June 10, 202...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reporting impacting national security or safety. For additional information, contact the National UFO Reporting Center. June 10, 202...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy20-may20-sep20.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy20-may20-sep20.xlsx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA FOIA Report... Airport on May 31, 2020 at approximately 7:30 AM CT. Pilot and co-pilot reported a UFO or winged being from the cockpi...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy20-may20-sep20.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy20-may20-sep20.xlsx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA FOIA Report... Airport on May 31, 2020 at approximately 7:30 AM CT. Pilot and co-pilot reported a UFO or winged being from the cockpi...</p></details>
    Published: May 31, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: What We KnowSome interpret the sighting of UFOs as evidence that extraterrestrial life exists and has visite...</p></details>
+   Link:<a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: What We KnowSome interpret the sighting of UFOs as evidence that extraterrestrial life exists and has visite...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fox5atlanta.com  
-   Link: <a href="https://www.fox5atlanta.com/video/1558564" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/video/1558564</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: Mysterious sightings in the skyThere&#x27;s been several mysterious sightings in the sky recently, including unidentif...</p></details>
+   Link:<a href="https://www.fox5atlanta.com/video/1558564" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/video/1558564</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: Mysterious sightings in the skyThere&#x27;s been several mysterious sightings in the sky recently, including unidentif...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fox5atlanta.com  
    Title: jimmy carter ufo sighting  
-   Link: <a href="https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what...23 Mar 2023 — President Jimmy Carter was convinced he saw an unidentified flying object (UFO) in 1969. He didn&#x27;t file a re...</p></details>
+   Link:<a href="https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what...23 Mar 2023 — President Jimmy Carter was convinced he saw an unidentified flying object (UFO) in 1969. He didn&#x27;t file a re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsIn early U.S. Air Force attempts to explain UFO sightings, unexplained sightings routinely numbered over...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsIn early U.S. Air Force attempts to explain UFO sightings, unexplained sightings routinely numbered over...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/us-faa-resuming-flights-atlanta-airport-after-air-traffic-control-evacuated-2025-10-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-faa-resuming-flights-atlanta-airport-after-air-traffic-control-evacuated-2025-10-10/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As a result, flights were halted and several were diverted. Flight tracking sources reported about 500 flight delays and nine cancellatio...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/us-faa-resuming-flights-atlanta-airport-after-air-traffic-control-evacuated-2025-10-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-faa-resuming-flights-atlanta-airport-after-air-traffic-control-evacuated-2025-10-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As a result, flights were halted and several were diverted. Flight tracking sources reported about 500 flight delays and nine cancellatio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — Most common are reports of astronomical sightings, which include bright stars, planets, comets, fireballs, meteors, aurora...</p></details>
+   Link:<a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — Most common are reports of astronomical sightings, which include bright stars, planets, comets, fireballs, meteors, aurora...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalgeographic.com  
    Title: ufo alien spacecraft investigation timeline  
-   Link: <a href="https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force cataloged 12,618 sightings of UFOs as part of what is now known as Project Blue Book. These...Read more...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/ufo-alien-spacecraft-investigation-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force cataloged 12,618 sightings of UFOs as part of what is now known as Project Blue Book. These...Read more...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, whi...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, whi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsBy Project Blue Book standards, these were not &quot;good&quot; UFO reports either. But here is a &quot;good&quot; U...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsBy Project Blue Book standards, these were not &quot;good&quot; UFO reports either. But here is a &quot;good&quot; U...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Could these mysterious flashes of light in 1950s photos be...29 Oct 2025 — Two new studies claim that these flashes were caused by refle...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Could these mysterious flashes of light in 1950s photos be...29 Oct 2025 — Two new studies claim that these flashes were caused by refle...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: georgia has a documented history of unidentified aerial phenomena uap sightings  
-   Link: <a href="https://www.facebook.com/Dageorgiapage/posts/georgia-has-a-documented-history-of-unidentified-aerial-phenomena-uap-sightings-/1189131836743624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Dageorgiapage/posts/georgia-has-a-documented-history-of-unidentified-aerial-phenomena-uap-sightings-/1189131836743624/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Georgia PageMorphing UFO Seen In Georgia In Dec 28, 2023 in Mineral Bluff, Georgia Near Blue Ridge I was calling UAP-UFOs and I saw o...</p></details>
+   Link:<a href="https://www.facebook.com/Dageorgiapage/posts/georgia-has-a-documented-history-of-unidentified-aerial-phenomena-uap-sightings-/1189131836743624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Dageorgiapage/posts/georgia-has-a-documented-history-of-unidentified-aerial-phenomena-uap-sightings-/1189131836743624/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Georgia PageMorphing UFO Seen In Georgia In Dec 28, 2023 in Mineral Bluff, Georgia Near Blue Ridge I was calling UAP-UFOs and I saw o...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nowgeorgia.com  
-   Link: <a href="https://nowgeorgia.com/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://nowgeorgia.com/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fied as a drone pilot who, in September 2023, reported seeing a “linear object” with a...Read more...</p></details>
+   Link:<a href="https://nowgeorgia.com/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://nowgeorgia.com/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fied as a drone pilot who, in September 2023, reported seeing a “linear object” with a...Read more...</p></details>
    Published: September 2023  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: militarnyi.com  
    Title: u s ufo reports revealed to be russian aircraft bombing georgia  
-   Link: <a href="https://militarnyi.com/en/news/u-s-ufo-reports-revealed-to-be-russian-aircraft-bombing-georgia/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/u-s-ufo-reports-revealed-to-be-russian-aircraft-bombing-georgia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“UFO” Reports Revealed to Be Russian Aircraft...The United States has declassified UFO-related documents showing that some “unidentified...</p></details>
+   Link:<a href="https://militarnyi.com/en/news/u-s-ufo-reports-revealed-to-be-russian-aircraft-bombing-georgia/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/u-s-ufo-reports-revealed-to-be-russian-aircraft-bombing-georgia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“UFO” Reports Revealed to Be Russian Aircraft...The United States has declassified UFO-related documents showing that some “unidentified...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: united24media.com  
-   Link: <a href="https://united24media.com/world/declassified-us-ufo-reports-turned-out-to-be-connected-to-russia-heres-what-we-know-18638" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/world/declassified-us-ufo-reports-turned-out-to-be-connected-to-russia-heres-what-we-know-18638</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What We Know; Vladimir Putin stands in front of ceremonial soldiers.Read more...</p></details>
+   Link:<a href="https://united24media.com/world/declassified-us-ufo-reports-turned-out-to-be-connected-to-russia-heres-what-we-know-18638" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/world/declassified-us-ufo-reports-turned-out-to-be-connected-to-russia-heres-what-we-know-18638</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What We Know; Vladimir Putin stands in front of ceremonial soldiers.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: patch.com  
    Title: world ufo day arrives see what s been spotted ga skies  
-   Link: <a href="https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As World UFO Day Arrives, See What&#x27;s Been Spotted In GA...1 Jul 2025 — One Georgia resident reported seeing a &quot;boomerang-shaped UFO,&quot; wh...</p></details>
+   Link:<a href="https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/georgia/atlanta/world-ufo-day-arrives-see-what-s-been-spotted-ga-skies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As World UFO Day Arrives, See What&#x27;s Been Spotted In GA...1 Jul 2025 — One Georgia resident reported seeing a &quot;boomerang-shaped UFO,&quot; wh...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: oag.com  
    Title: atlanta retains crown as worlds busiest airport 2025  
-   Link: <a href="https://www.oag.com/pressroom/atlanta-retains-crown-as-worlds-busiest-airport-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.oag.com/pressroom/atlanta-retains-crown-as-worlds-busiest-airport-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlanta Retains Crown as World&#x27;s Busiest Airport 202515 Jan 2026 — Atlanta Hartsfield-Jackson (ATL) remains the world&#x27;s busiest airport i...</p></details>
+   Link:<a href="https://www.oag.com/pressroom/atlanta-retains-crown-as-worlds-busiest-airport-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.oag.com/pressroom/atlanta-retains-crown-as-worlds-busiest-airport-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlanta Retains Crown as World&#x27;s Busiest Airport 202515 Jan 2026 — Atlanta Hartsfield-Jackson (ATL) remains the world&#x27;s busiest airport i...</p></details>

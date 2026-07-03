@@ -268,56 +268,56 @@ image: /assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-overview-s
 
 ## Introduction
 
-Carbondale’s 1974 “UFO crash” is one of Pennsylvania’s clearest examples of a case where the legend outlived the explanation. The basic story is memorable: on 9 November 1974, teenagers reported a red, whirring light falling into a silt pond near Russell Park in Carbondale, Lackawanna County; police, spectators, investigators and media attention followed; after a search, a diver recovered an old battery-powered railroad or mining lantern from the water. Local authorities treated the episode as a hoax, yet the case still circulates as a regional UFO legend because the crowd, the official response, the glowing pond and later doubts gave the story more life than the object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salemnews.net">[salemnews.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salemnews.net</span><span class="citation-popover-title">ufo tale rises again from a pond in carbondale pa</span><span class="citation-popover-snippet">and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</span></span></span>
+Carbondale’s 1974 “UFO crash” is one of Pennsylvania’s clearest examples of a case where the legend outlived the explanation. The basic story is memorable: on 9 November 1974, teenagers reported a red, whirring light falling into a silt pond near Russell Park in Carbondale, Lackawanna County; police, spectators, investigators and media attention followed; after a search, a diver recovered an old battery-powered railroad or mining lantern from the water. Local authorities treated the episode as a hoax, yet the case still circulates as a regional UFO legend because the crowd, the official response, the glowing pond and later doubts gave the story more life than the object itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salemnews.net">[salemnews.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salemnews.net</span><span class="citation-popover-title">ufo tale rises again from a pond in carbondale pa</span><span class="citation-popover-snippet">and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-overview.webp" | relative_url }}" alt="Overview image for Carbondale" loading="eager" decoding="sync" fetchpriority="high">
-Within Pennsylvania UFO history, Carbondale matters less as evidence of an unexplained craft than as a lesson in how a weak or debunked case can become durable folklore. It sits apart from more contested Pennsylvania stories such as [Kecksburg]({{ 'kecksburg/' | relative_url }}) because its central physical “find” was prosaic, but it remains important because thousands of people reportedly came to see the scene, and the town has since turned the episode into local identity, anniversary events and the “Carbondalien” brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalienfestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalienfestival.com">[Carbondalien Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalienfestival.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Within Pennsylvania UFO history, Carbondale matters less as evidence of an unexplained craft than as a lesson in how a weak or debunked case can become durable folklore. It sits apart from more contested Pennsylvania stories such as [Kecksburg]({{ 'kecksburg/' | relative_url }}) because its central physical “find” was prosaic, but it remains important because thousands of people reportedly came to see the scene, and the town has since turned the episode into local identity, anniversary events and the “Carbondalien” brand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalienfestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalienfestival.com">[Carbondalien Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalienfestival.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pP-5sazRkso" title="The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival #UFO #UFOCrash" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pP-5sazRkso" target="_blank" rel="noopener noreferrer">The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival #UFO #UFOCrash</a></p><p class="youtube-embed-meta">Channel: Creepy Side of NEPA &middot; Views: 431 &middot; Uploaded: October 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pP-5sazRkso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pP-5sazRkso">Open on YouTube</a></p></div></div></div>
 
 ## The glowing pond story
 
-The incident began with a simple but powerful claim: a bright object had crossed the sky and gone into water. Later retellings usually place the scene at or near the silt pond behind Russell Park, a landscape shaped by Carbondale’s mining past rather than by the clean, cinematic setting many UFO crash stories imagine. WVIA’s later local coverage describes the pond as the place where thousands gathered over the weekend of 9 November 1974 while officials investigated a report that a bright light had fallen from the sky into the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">celebrating close encounters of the carbondale kind</span><span class="citation-popover-snippet">UPDATE: Close encounters of the Carbondale kind...2 Nov 2024 — “I&#x27;ve gathered by now that we found nothing to substantiate the alleged U...</span></span></span>
+The incident began with a simple but powerful claim: a bright object had crossed the sky and gone into water. Later retellings usually place the scene at or near the silt pond behind Russell Park, a landscape shaped by Carbondale’s mining past rather than by the clean, cinematic setting many UFO crash stories imagine. WVIA’s later local coverage describes the pond as the place where thousands gathered over the weekend of 9 November 1974 while officials investigated a report that a bright light had fallen from the sky into the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">celebrating close encounters of the carbondale kind</span><span class="citation-popover-snippet">UPDATE: Close encounters of the Carbondale kind...2 Nov 2024 — “I&#x27;ve gathered by now that we found nothing to substantiate the alleged U...</span></span></span>
 
-The teenage witnesses were central to the first version. A 2016 Associated Press report carried in local media identified then-14-year-old Robert Gillette Jr. and two friends as the boys who reported seeing a red, whirring ball fly over Salem Mountain and followed it to the pond. The same account notes why the story took hold: there was allegedly a glow in the water for hours, not merely a one-second light in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salemnews.net">[salemnews.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salemnews.net</span><span class="citation-popover-title">ufo tale rises again from a pond in carbondale pa</span><span class="citation-popover-snippet">and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</span></span></span>
+The teenage witnesses were central to the first version. A 2016 Associated Press report carried in local media identified then-14-year-old Robert Gillette Jr. and two friends as the boys who reported seeing a red, whirring ball fly over Salem Mountain and followed it to the pond. The same account notes why the story took hold: there was allegedly a glow in the water for hours, not merely a one-second light in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salemnews.net">[salemnews.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salemnews.net</span><span class="citation-popover-title">ufo tale rises again from a pond in carbondale pa</span><span class="citation-popover-snippet">and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</span></span></span>
 
-For police, the problem was practical as much as mysterious. A report of a glowing object in polluted water near an abandoned industrial area created a public safety issue once word spread. [Local legend]({{ 'local-legend/' | relative_url }}) sources and later reporting describe large crowds, traffic problems, press calls and UFO enthusiasts converging on the area, while police tried to control access and work out what, if anything, was in the pond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
+For police, the problem was practical as much as mysterious. A report of a glowing object in polluted water near an abandoned industrial area created a public safety issue once word spread. [Local legend]({{ 'local-legend/' | relative_url }}) sources and later reporting describe large crowds, traffic problems, press calls and UFO enthusiasts converging on the area, while police tried to control access and work out what, if anything, was in the pond.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
 
-That response helped the story grow. Civil Air Patrol involvement, calls involving national agencies, and the presence of outside investigators were easily reinterpreted by onlookers as signs that “the military” or federal authorities knew more than they were saying. This is one of the recurring mechanisms in UFO folklore: an ordinary emergency response can look like confirmation when the public does not know what officials are doing or why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
+That response helped the story grow. Civil Air Patrol involvement, calls involving national agencies, and the presence of outside investigators were easily reinterpreted by onlookers as signs that “the military” or federal authorities knew more than they were saying. This is one of the recurring mechanisms in UFO folklore: an ordinary emergency response can look like confirmation when the public does not know what officials are doing or why.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-dark.svg" | relative_url }}" alt="Carbondale illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the lantern explanation emerged
 
-The central debunking element was the recovery of a lantern. Later accounts differ in small details — railroad lantern, mining lantern, train lantern, sealed-beam lantern, flashlight — but they converge on the same basic point: the object pulled from the pond was not a spacecraft, meteorite or advanced device. WVIA summarised the official conclusion as a prank involving a lantern, while other local and regional accounts describe a diver surfacing with an old battery-powered railroad lantern after the search. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Short Takes &#124; The Day Carbondale Stood Still &#124; Season 9</span><span class="citation-popover-snippet">Short Takes &#124; The Day Carbondale Stood Still &#124; Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</span><span class="citation-popover-meta">Published: November 9, 1974</span></span></span>
+The central debunking element was the recovery of a lantern. Later accounts differ in small details — railroad lantern, mining lantern, train lantern, sealed-beam lantern, flashlight — but they converge on the same basic point: the object pulled from the pond was not a spacecraft, meteorite or advanced device. WVIA summarised the official conclusion as a prank involving a lantern, while other local and regional accounts describe a diver surfacing with an old battery-powered railroad lantern after the search.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Short Takes &#124; The Day Carbondale Stood Still &#124; Season 9</span><span class="citation-popover-snippet">Short Takes &#124; The Day Carbondale Stood Still &#124; Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</span><span class="citation-popover-meta">Published: November 9, 1974</span></span></span>
 
-The recovery did not happen in a calm laboratory setting. According to later local histories, the first plan to pump down the pond ran into difficulty because silt and debris clogged the equipment, so a scuba diver was brought in instead. That detail matters because it explains why the search itself felt dramatic: there was machinery, delay, water, uncertainty and a crowd waiting for an answer. Even a mundane object can feel like a revelation when retrieved from a murky pond in front of a town already primed for mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
+The recovery did not happen in a calm laboratory setting. According to later local histories, the first plan to pump down the pond ran into difficulty because silt and debris clogged the equipment, so a scuba diver was brought in instead. That detail matters because it explains why the search itself felt dramatic: there was machinery, delay, water, uncertainty and a crowd waiting for an answer. Even a mundane object can feel like a revelation when retrieved from a murky pond in front of a town already primed for mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
 
-Police then closed the case as a hoax. WVIA’s 2024 anniversary reporting quoted the official position at the time: nothing had been found to substantiate the alleged UFO sighting as anything other than what appeared to be a hoax. The same report says the case cost the city nearly $1,000 at the time, roughly $6,400 in contemporary value, showing that the prank explanation did not mean the incident had been harmless for local authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-snippet">Open source on wvia.org.</span></span></span>
+Police then closed the case as a hoax. WVIA’s 2024 anniversary reporting quoted the official position at the time: nothing had been found to substantiate the alleged UFO sighting as anything other than what appeared to be a hoax. The same report says the case cost the city nearly $1,000 at the time, roughly $6,400 in contemporary value, showing that the prank explanation did not mean the incident had been harmless for local authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-snippet">Open source on wvia.org.</span></span></span>
 
-The strongest later support for the hoax explanation is not only the lantern itself, but the reported admission. WVIA’s anniversary coverage says that on the incident’s 25th anniversary, Gillette told The Scranton Times that he had tossed a flashlight into the water to frighten his sister, Maria, and her friends. That does not answer every memory attached to the case, but it strongly weakens the claim that the pond object was unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">news voices recapping the mystery of the carbondalien</span><span class="citation-popover-snippet">news voices recapping the mystery of the carbondalien</span></span></span>
+The strongest later support for the hoax explanation is not only the lantern itself, but the reported admission. WVIA’s anniversary coverage says that on the incident’s 25th anniversary, Gillette told The Scranton Times that he had tossed a flashlight into the water to frighten his sister, Maria, and her friends. That does not answer every memory attached to the case, but it strongly weakens the claim that the pond object was unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">news voices recapping the mystery of the carbondalien</span><span class="citation-popover-snippet">news voices recapping the mystery of the carbondalien</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E3UTm4xQc6A" title="Did Aliens Really Visit This Small Town in 1974?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E3UTm4xQc6A" target="_blank" rel="noopener noreferrer">Did Aliens Really Visit This Small Town in 1974?</a></p><p class="youtube-embed-meta">Channel: WVIA &middot; Views: 390.0K &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E3UTm4xQc6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E3UTm4xQc6A">Open on YouTube</a></p></div></div></div>
 
 ## Why some people still doubted the official answer
 
-Carbondale’s legend survived because the lantern explanation closed the official case but did not close the social story. Some residents remembered seeing a dramatic light before the pond episode. Others recalled official vehicles, restricted access or activity around the site that seemed larger than a teenage prank. Later retellings often turn those memories into a suspicion that the lantern was a decoy or that something else had already been removed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesleader.com">[timesleader.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesleader.com</span><span class="citation-popover-title">carbondale ufo tale rises again</span><span class="citation-popover-snippet">carbondale ufo tale rises again</span></span></span>
+Carbondale’s legend survived because the lantern explanation closed the official case but did not close the social story. Some residents remembered seeing a dramatic light before the pond episode. Others recalled official vehicles, restricted access or activity around the site that seemed larger than a teenage prank. Later retellings often turn those memories into a suspicion that the lantern was a decoy or that something else had already been removed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesleader.com">[timesleader.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesleader.com</span><span class="citation-popover-title">carbondale ufo tale rises again</span><span class="citation-popover-snippet">carbondale ufo tale rises again</span></span></span>
 
-Those doubts should be treated carefully. They are part of the case’s history, but they are not the same as physical evidence. A crowd scene can produce conflicting memories, especially when people arrive at different times, hear rumours second-hand, or view ordinary equipment through an extraordinary frame. In Carbondale, the very factors that made the case exciting — police lines, media attention, outside investigators and a difficult water search — also created ideal conditions for later claims that “something more” must have happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
+Those doubts should be treated carefully. They are part of the case’s history, but they are not the same as physical evidence. A crowd scene can produce conflicting memories, especially when people arrive at different times, hear rumours second-hand, or view ordinary equipment through an extraordinary frame. In Carbondale, the very factors that made the case exciting — police lines, media attention, outside investigators and a difficult water search — also created ideal conditions for later claims that “something more” must have happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
 
-The “cover-up” version also has a built-in problem: it needs to explain why a planted lantern would be recovered publicly after the area had already become a spectacle. That is possible as a story device, but it requires more assumptions than the simpler account that teenagers created a scare, police investigated a real public report, and the object in the water turned out to be a lantern. Specialist UFO commentary has often treated Carbondale as interesting folklore but weak evidence, with even sympathetic discussions conceding that the case is best read as a misidentification, hoax or both unless new evidence appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Discreetly Intriguing Carbondale Case – A Downed</span><span class="citation-popover-snippet">UFO Insight The Discreetly Intriguing Carbondale Case – A Downed</span></span></span>
+The “cover-up” version also has a built-in problem: it needs to explain why a planted lantern would be recovered publicly after the area had already become a spectacle. That is possible as a story device, but it requires more assumptions than the simpler account that teenagers created a scare, police investigated a real public report, and the object in the water turned out to be a lantern. Specialist UFO commentary has often treated Carbondale as interesting folklore but weak evidence, with even sympathetic discussions conceding that the case is best read as a misidentification, hoax or both unless new evidence appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Discreetly Intriguing Carbondale Case – A Downed</span><span class="citation-popover-snippet">UFO Insight The Discreetly Intriguing Carbondale Case – A Downed</span></span></span>
 
 The fair assessment is therefore not that every witness lied, nor that every doubt is foolish. It is that the strongest known evidence points toward a prank and a local panic, while the unresolved residue rests mainly on memory, rumour and dissatisfaction with the official explanation. That makes Carbondale a useful case for separating an unexplained report from an enduring legend.
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-dark.svg" | relative_url }}" alt="Carbondale illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why debunked cases still endure
 
-Carbondale endured because the story had vivid ingredients: teenagers, a glowing pond, a police response, a diver, a retrieved lantern, crowd excitement and a town suddenly pushed into wider attention. Many UFO reports fade because they are only lights in the sky; Carbondale had a location people could visit and a physical object that could be argued over. Even after the lantern explanation, the pond itself remained a stage for the memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">the day carbondale stood still rli5qs</span><span class="citation-popover-snippet">the day carbondale stood still rli5qs</span></span></span>
+Carbondale endured because the story had vivid ingredients: teenagers, a glowing pond, a police response, a diver, a retrieved lantern, crowd excitement and a town suddenly pushed into wider attention. Many UFO reports fade because they are only lights in the sky; Carbondale had a location people could visit and a physical object that could be argued over. Even after the lantern explanation, the pond itself remained a stage for the memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">the day carbondale stood still rli5qs</span><span class="citation-popover-snippet">the day carbondale stood still rli5qs</span></span></span>
 
-The case also fits northeastern Pennsylvania’s local texture. Carbondale’s coal-mining heritage made a mining or railroad lantern plausible, while the abandoned industrial setting made the scene feel eerie and distinctive. Later cultural reuse has leaned into that atmosphere rather than treating the hoax as an embarrassment. The official Carbondalien Festival page describes the 1974 report as a key part of Carbondale’s culture, and the 2024 anniversary event was framed as a celebration of the city’s “unique UFO past”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span>
+The case also fits northeastern Pennsylvania’s local texture. Carbondale’s coal-mining heritage made a mining or railroad lantern plausible, while the abandoned industrial setting made the scene feel eerie and distinctive. Later cultural reuse has leaned into that atmosphere rather than treating the hoax as an embarrassment. The official Carbondalien Festival page describes the 1974 report as a key part of Carbondale’s culture, and the 2024 anniversary event was framed as a celebration of the city’s “unique UFO past”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span>
 
-That civic embrace is important. A debunked case can still become valuable to a community as folklore, tourism, art and shared memory. In 2024, the inaugural Carbondalien Festival marked the 50th anniversary with vendors, music, art, speakers and an immersive “Russell Park” experience at the alleged crash site. WVIA later reported that the festival continued into 2025 with expanded programming, including a light parade and theatrical return to the silt pond setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span>
+That civic embrace is important. A debunked case can still become valuable to a community as folklore, tourism, art and shared memory. In 2024, the inaugural Carbondalien Festival marked the 50th anniversary with vendors, music, art, speakers and an immersive “Russell Park” experience at the alleged crash site. WVIA later reported that the festival continued into 2025 with expanded programming, including a light parade and theatrical return to the silt pond setting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span>
 
-The legend has also moved into regional popular culture. In 2025, the Wilkes-Barre/Scranton Penguins adopted a one-night “Carbondale UFOs” identity, explicitly tying the hockey promotion to the 1974 legend. That kind of reuse shows how the story has shifted from urgent mystery to playful heritage: people do not need to believe a spacecraft crashed in Carbondale to recognise the case as a memorable part of Pennsylvania UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbspenguins.com">[WBS Penguins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbspenguins.com</span><span class="citation-popover-title">the carbondale ufos take flight</span><span class="citation-popover-snippet">the carbondale ufos take flight</span></span></span>
+The legend has also moved into regional popular culture. In 2025, the Wilkes-Barre/Scranton Penguins adopted a one-night “Carbondale UFOs” identity, explicitly tying the hockey promotion to the 1974 legend. That kind of reuse shows how the story has shifted from urgent mystery to playful heritage: people do not need to believe a spacecraft crashed in Carbondale to recognise the case as a memorable part of Pennsylvania UFO lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbspenguins.com">[WBS Penguins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbspenguins.com</span><span class="citation-popover-title">the carbondale ufos take flight</span><span class="citation-popover-snippet">the carbondale ufos take flight</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UnUYOPetUzI" title="Eric Mintel Investigates: The 1974 Carbondale UFO Encounter | Pennsylvania UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UnUYOPetUzI" target="_blank" rel="noopener noreferrer">Eric Mintel Investigates: The 1974 Carbondale UFO Encounter | Pennsylvania UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Pocono Mountains | Come explore the Poconos! &middot; Views: 885 &middot; Uploaded: December 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UnUYOPetUzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UnUYOPetUzI">Open on YouTube</a></p></div></div></div>
 
@@ -325,7 +325,7 @@ The legend has also moved into regional popular culture. In 2025, the Wilkes-Bar
 
 Carbondale is valuable because it prevents Pennsylvania UFO history from becoming only a catalogue of famous mysteries. It shows the other side of the subject: the cases where investigation produces a likely ordinary explanation, yet the story still remains culturally powerful. That makes it a useful companion to more disputed Pennsylvania cases, because it demonstrates how quickly uncertainty, crowds, official caution and media attention can harden into legend.
 
-The case also shows why “official involvement” is not automatically evidence of an extraordinary object. Police had to respond because a report had been made, crowds had gathered, and a potentially dangerous site needed control. Outside attention followed because the story was dramatic, not necessarily because the event was physically extraordinary. In that sense, Carbondale is less a hidden crash case than a public-information case: officials faced an unknown report, investigated, recovered a mundane object and then struggled to make the explanation stick. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
+The case also shows why “official involvement” is not automatically evidence of an extraordinary object. Police had to respond because a report had been made, crowds had gathered, and a potentially dangerous site needed control. Outside attention followed because the story was dramatic, not necessarily because the event was physically extraordinary. In that sense, Carbondale is less a hidden crash case than a public-information case: officials faced an unknown report, investigated, recovered a mundane object and then struggled to make the explanation stick.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
 
 For readers assessing the case today, the most useful distinction is between three layers:
 
@@ -342,269 +342,269 @@ That layered reading avoids two mistakes. It does not dismiss Carbondale as “n
 <img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-dark.svg" | relative_url }}" alt="Carbondale illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Carbondale Turned a Lantern Into Legend. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Carbondale Turned a Lantern Into Legend. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how reported sightings become enduring UFO stories despite weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how reported sightings become enduring UFO stories despite weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a useful contrast between stronger cases and stories later treated as hoaxes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a useful contrast between stronger cases and stories later treated as hoaxes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for official responses to unusual reports and public excitement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official responses to unusual reports and public excitement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how reported sightings become enduring UFO stories despite weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how reported sightings become enduring UFO stories despite weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carbondale-how-carbondale-turned-a-lantern-into-legend-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ That layered reading avoids two mistakes. It does not dismiss Carbondale as “n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ That layered reading avoids two mistakes. It does not dismiss Carbondale as “n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ That layered reading avoids two mistakes. It does not dismiss Carbondale as “n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ That layered reading avoids two mistakes. It does not dismiss Carbondale as “n
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -760,132 +760,132 @@ That layered reading avoids two mistakes. It does not dismiss Carbondale as “n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: salemnews.net  
    Title: ufo tale rises again from a pond in carbondale pa  
-   Link: <a href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow">https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</p></details>
+   Link:<a href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow">https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wvia.org  
    Title: celebrating close encounters of the carbondale kind  
-   Link: <a href="https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Close encounters of the Carbondale kind...2 Nov 2024 — “I&#x27;ve gathered by now that we found nothing to substantiate the alleged U...</p></details>
+   Link:<a href="https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Close encounters of the Carbondale kind...2 Nov 2024 — “I&#x27;ve gathered by now that we found nothing to substantiate the alleged U...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pbs.org  
    Title: Short Takes | The Day Carbondale Stood Still | Season 9  
-   Link: <a href="https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Short Takes | The Day Carbondale Stood Still | Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</p></details>
+   Link:<a href="https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Short Takes | The Day Carbondale Stood Still | Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</p></details>
    Published: November 9, 1974  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: visitcarbondalepa.com  
    Title: 50th anniversary carbondalien festival  
-   Link: <a href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival</a>  
+   Link:<a href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wvia.org  
-   Link: <a href="https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county</a>  
+   Link:<a href="https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wvia.org  
    Title: news voices recapping the mystery of the carbondalien  
-   Link: <a href="https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien</a>  
+   Link:<a href="https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: timesleader.com  
    Title: carbondale ufo tale rises again  
-   Link: <a href="https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again" target="_blank" rel="noopener noreferrer nofollow">https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again</a>  
+   Link:<a href="https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again" target="_blank" rel="noopener noreferrer nofollow">https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: carbondalien.com  
    Title: The Legend  
-   Link: <a href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow">https://carbondalien.com/?s=thelegend</a>  
+   Link:<a href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow">https://carbondalien.com/?s=thelegend</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wvia.org  
    Title: the day carbondale stood still rli5qs  
-   Link: <a href="https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs</a>  
+   Link:<a href="https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: carbondalienfestival.com  
-   Link: <a href="https://carbondalienfestival.com/" target="_blank" rel="noopener noreferrer nofollow">https://carbondalienfestival.com/</a>  
+   Link:<a href="https://carbondalienfestival.com/" target="_blank" rel="noopener noreferrer nofollow">https://carbondalienfestival.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wbspenguins.com  
    Title: the carbondale ufos take flight  
-   Link: <a href="https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/</a>  
+   Link:<a href="https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Discreetly Intriguing Carbondale Case – A Downed  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania</a>  
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wbspenguins.com  
    Title: an out of this world carbondale tale  
-   Link: <a href="https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/</a>  
+   Link:<a href="https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: The Day Carbondale Stood Still | WVIA  
-   Link: <a href="https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/</a>  
+   Link:<a href="https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/carbondalien/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/carbondalien/</a>  
+   Link:<a href="https://www.facebook.com/carbondalien/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/carbondalien/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/</a>  
+   Link:<a href="https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: visitnepa.org  
-   Link: <a href="https://www.visitnepa.org/event/carbondalien-festival/19120/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnepa.org/event/carbondalien-festival/19120/</a>  
+   Link:<a href="https://www.visitnepa.org/event/carbondalien-festival/19120/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnepa.org/event/carbondalien-festival/19120/</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UnUYOPetUzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UnUYOPetUzI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UnUYOPetUzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UnUYOPetUzI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival  
-   Link: <a href="https://www.youtube.com/watch?v=pP-5sazRkso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pP-5sazRkso</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmakers showcase local history in new documentary on Carbondale UFO sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pP-5sazRkso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pP-5sazRkso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmakers showcase local history in new documentary on Carbondale UFO sighting...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E3UTm4xQc6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E3UTm4xQc6A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Mintel Investigates: The 1974 Carbondale UFO Encounter | Pennsylvania UFO Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E3UTm4xQc6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E3UTm4xQc6A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Mintel Investigates: The 1974 Carbondale UFO Encounter | Pennsylvania UFO Mystery...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/</a>  
+   Link:<a href="https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/</a>  
+   Link:<a href="https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wnep.com  
-   Link: <a href="https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3" target="_blank" rel="noopener noreferrer nofollow">https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3</a>  
+   Link:<a href="https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3" target="_blank" rel="noopener noreferrer nofollow">https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DLme6DeRfEB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLme6DeRfEB/</a>  
+   Link:<a href="https://www.instagram.com/p/DLme6DeRfEB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLme6DeRfEB/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/</a>  
+   Link:<a href="https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/</a>  
+   Link:<a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nepascene.com  
-   Link: <a href="https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/" target="_blank" rel="noopener noreferrer nofollow">https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/</a>
+   Link:<a href="https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/" target="_blank" rel="noopener noreferrer nofollow">https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/</a>

@@ -76,9 +76,9 @@ heading_title: What Really Happened in New Jersey's UFO Stories?
 page_heading_title: What Really Happened in New Jersey's UFO Stories?
 source_count: 129
 infographic_count: 3
-page_website_name: New Jersey UFOs
+page_website_name: New Jersey
 page_banner_line: Balanced, evidence-led pages on the state's strangest sky reports.
-site_website_name: New Jersey UFOs
+site_website_name: New Jersey
 site_banner_line: Balanced, evidence-led pages on the state's strangest sky reports.
 site_image_description: A night sky over a New Jersey reservoir with distant red and white lights above dark water and wooded ridges.
 output_language: English
@@ -482,28 +482,28 @@ image: /assets/images/New_Jersey_18255a-overview-social.jpg
 New Jersey is unusually well placed for UFO reports. It has dense suburbs, busy highways, Atlantic coastlines, flight paths into major airports, military and research facilities, dark reservoirs and wooded ridges in the north, and a public culture already primed by famous “invasion” storytelling. That does not make the state uniquely mysterious, but it does mean that odd lights have many witnesses and many possible explanations.
 
 <img src="{{ "/assets/images/New_Jersey_18255a-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in New Jersey&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-The National UFO Reporting Center, a civilian reporting archive, lists New Jersey among the busier US states, with more than 3,000 reports in its location index at the time checked. That number should be treated carefully: it is not a verified count of unexplained craft, but a count of self-reported sightings submitted to a public database. The same index shows far larger totals for states such as California, Texas, Washington, New York and Pennsylvania, which reminds readers that raw report totals often reflect population, visibility, internet reporting habits and local media attention as much as any underlying phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
+The National UFO Reporting Center, a civilian reporting archive, lists New Jersey among the busier US states, with more than 3,000 reports in its location index at the time checked. That number should be treated carefully: it is not a verified count of unexplained craft, but a count of self-reported sightings submitted to a public database. The same index shows far larger totals for states such as California, Texas, Washington, New York and Pennsylvania, which reminds readers that raw report totals often reflect population, visibility, internet reporting habits and local media attention as much as any underlying phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
 
-New Jersey also has a pre-UFO cultural landmark that still shapes how people read strange-sky stories: the 1938 *War of the Worlds* broadcast. Orson Welles’s radio drama moved H. G. Wells’s Martian invasion to Grovers Mill, New Jersey, and used a simulated news-bulletin format. Later research has challenged the scale of the supposed nationwide panic, but the broadcast remains important because it shows how media form, local place names and public anxiety can make fictional sky events feel immediate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westwindsorhistory.com/waroftheworlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westwindsorhistory.com">[THE HISTORICAL SOCIETY OF WEST WINDSOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westwindsorhistory.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+New Jersey also has a pre-UFO cultural landmark that still shapes how people read strange-sky stories: the 1938 *War of the Worlds* broadcast. Orson Welles’s radio drama moved H. G. Wells’s Martian invasion to Grovers Mill, New Jersey, and used a simulated news-bulletin format. Later research has challenged the scale of the supposed nationwide panic, but the broadcast remains important because it shows how media form, local place names and public anxiety can make fictional sky events feel immediate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westwindsorhistory.com/waroftheworlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westwindsorhistory.com">[THE HISTORICAL SOCIETY OF WEST WINDSOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westwindsorhistory.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Fort Monmouth: the Cold War radar case that helped revive official interest
 
-One of New Jersey’s most important UFO episodes occurred at Fort Monmouth in September 1951. The US Army’s own historical article describes the Fort Monmouth sighting as playing a major role in re-invigorating official Air Force UFO investigation. That is a significant claim because the early 1950s were the period in which US UFO inquiry moved from the short-lived Project Sign and Project Grudge era into Project Blue Book, the best-known Air Force programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/227612/history_mystery_from_the_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">History Mystery from the Archives &#124; Article</span><span class="citation-popover-snippet">History Mystery from the Archives &#124; Article</span></span></span>
+One of New Jersey’s most important UFO episodes occurred at Fort Monmouth in September 1951. The US Army’s own historical article describes the Fort Monmouth sighting as playing a major role in re-invigorating official Air Force UFO investigation. That is a significant claim because the early 1950s were the period in which US UFO inquiry moved from the short-lived Project Sign and Project Grudge era into Project Blue Book, the best-known Air Force programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/227612/history_mystery_from_the_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">History Mystery from the Archives &#124; Article</span><span class="citation-popover-snippet">History Mystery from the Archives &#124; Article</span></span></span>
 
-The Fort Monmouth reports involved both visual and radar claims from 10 and 11 September 1951. A Project Blue Book status-report page summarises them as “a series of both visual and radar sightings” from the Fort Monmouth area. In UFO history, radar cases carry special weight because they seem to add instrument evidence to witness testimony. For readers, the key question is not whether radar was involved, but whether the radar returns were understood correctly, whether the operators were experienced, and whether weather, balloons or known aircraft could account for what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Page:Project Blue Book, complete status reports</span></span></span>
+The Fort Monmouth reports involved both visual and radar claims from 10 and 11 September 1951. A Project Blue Book status-report page summarises them as “a series of both visual and radar sightings” from the Fort Monmouth area. In UFO history, radar cases carry special weight because they seem to add instrument evidence to witness testimony. For readers, the key question is not whether radar was involved, but whether the radar returns were understood correctly, whether the operators were experienced, and whether weather, balloons or known aircraft could account for what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Page:Project Blue Book, complete status reports</span></span></span>
 
-The sceptical counterpoint is substantial. Edward J. Ruppelt, who later led Project Blue Book, wrote that follow-up analysis broke down the Fort Monmouth claims into more ordinary causes: a conventional aircraft wrongly interpreted by a student radar operator, balloons, weather effects and a local expectation that something unusual was happening. Ruppelt’s account does not remove the case’s historical importance; rather, it explains why it became important. Fort Monmouth exposed how urgent, confusing and technically messy UFO reports could be inside military channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The sceptical counterpoint is substantial. Edward J. Ruppelt, who later led Project Blue Book, wrote that follow-up analysis broke down the Fort Monmouth claims into more ordinary causes: a conventional aircraft wrongly interpreted by a student radar operator, balloons, weather effects and a local expectation that something unusual was happening. Ruppelt’s account does not remove the case’s historical importance; rather, it explains why it became important. Fort Monmouth exposed how urgent, confusing and technically messy UFO reports could be inside military channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The wider official context matters. The US Air Force says it investigated UFOs from 1947 to 1969 under Project Blue Book and related efforts, collecting 12,618 reports, of which 701 remained “unidentified”. The National Archives notes that Project Blue Book records are declassified and available for examination, but that the project closed in 1969 and does not cover later sightings. That means Fort Monmouth belongs to a particular historical archive, not to an open-ended official finding that New Jersey was visited by unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The wider official context matters. The US Air Force says it investigated UFOs from 1947 to 1969 under Project Blue Book and related efforts, collecting 12,618 reports, of which 701 remained “unidentified”. The National Archives notes that Project Blue Book records are declassified and available for examination, but that the project closed in 1969 and does not cover later sightings. That means Fort Monmouth belongs to a particular historical archive, not to an open-ended official finding that New Jersey was visited by unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in New Jersey&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Wanaque Reservoir: New Jersey’s classic UFO flap
 
-The [Wanaque]({{ 'wanaque/' | relative_url }}) Reservoir sightings of 1966 are probably New Jersey’s most famous traditional UFO flap. The core story centres on strange lights or objects reportedly seen around the reservoir in January 1966, with further excitement later that year. Accounts name local officials, police and many residents among the witnesses, which is one reason the case has endured in state UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span></span></span>
+The [Wanaque]({{ 'wanaque/' | relative_url }}) Reservoir sightings of 1966 are probably New Jersey’s most famous traditional UFO flap. The core story centres on strange lights or objects reportedly seen around the reservoir in January 1966, with further excitement later that year. Accounts name local officials, police and many residents among the witnesses, which is one reason the case has endured in state UFO lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span></span></span>
 
 What makes Wanaque memorable is the setting. A dark reservoir, winter weather, ridgelines and a community of onlookers created the conditions for repeated observation and rumour. The most dramatic versions describe a bright object over the water and claims of beams or effects on ice. Such details made the case vivid, but they also made it vulnerable to embellishment. Once a local sighting becomes a “flap”, each later report is interpreted through the first reports, and people begin watching the same patch of sky with heightened expectations.
 
-The evidence is mixed. Contemporary and later UFO sources treat Wanaque as an important New Jersey case, and NICAP’s 1966 chronology includes an October 1966 Wanaque entry describing police officers observing a bright spherical object. However, the photographic record is much weaker than the legend suggests. Vicente-Juan Ballester Olmos’s FOTOCAT review argues that the supposed Wanaque photograph material is contradictory, poorly documented and entangled with dubious or misattributed images. His review also notes claims involving handmade balloons in nearby New Jersey incidents, suggesting that at least some 1966 “UFO” excitement may have had ordinary or prankish causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The evidence is mixed. Contemporary and later UFO sources treat Wanaque as an important New Jersey case, and NICAP’s 1966 chronology includes an October 1966 Wanaque entry describing police officers observing a bright spherical object. However, the photographic record is much weaker than the legend suggests. Vicente-Juan Ballester Olmos’s FOTOCAT review argues that the supposed Wanaque photograph material is contradictory, poorly documented and entangled with dubious or misattributed images. His review also notes claims involving handmade balloons in nearby New Jersey incidents, suggesting that at least some 1966 “UFO” excitement may have had ordinary or prankish causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 That does not mean every Wanaque witness lied or imagined the same thing. A better reading is that Wanaque is unresolved in the social sense but weak in the evidential sense. Many people apparently reported unusual lights; some witnesses held responsible local roles; but the surviving evidence does not allow a confident extraordinary conclusion. For New Jersey UFO history, Wanaque matters because it shows how a strong local memory can outlive the quality of the underlying documentation.
 
@@ -511,9 +511,9 @@ That does not mean every Wanaque witness lied or imagined the same thing. A bett
 
 ## Morristown 2009: the hoax that became a lesson in eyewitness certainty
 
-The Morristown UFO case is New Jersey’s cleanest modern example of a dramatic sighting later explained. In January and February 2009, red lights were reported over parts of Morris County, including Morristown, Morris Plains, Hanover Township, Madison and Florham Park. Witnesses filmed the lights, local media covered the story, and some UFO investigators treated the case seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds (1938 radio drama</span><span class="citation-popover-snippet">The War of the Worlds (1938 radio drama</span></span></span>
+The Morristown UFO case is New Jersey’s cleanest modern example of a dramatic sighting later explained. In January and February 2009, red lights were reported over parts of Morris County, including Morristown, Morris Plains, Hanover Township, Madison and Florham Park. Witnesses filmed the lights, local media covered the story, and some UFO investigators treated the case seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds (1938 radio drama</span><span class="citation-popover-snippet">The War of the Worlds (1938 radio drama</span></span></span>
 
-The explanation was not exotic. Joe Rudy and Chris Russo later said they had released flare lights attached to helium balloons, presenting the stunt as a social experiment meant to expose weak UFO investigation and the unreliability of eyewitness claims. The case ended not only with a confession, but with legal consequences: reporting on the case records that the men were fined and ordered to perform community service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
+The explanation was not exotic. Joe Rudy and Chris Russo later said they had released flare lights attached to helium balloons, presenting the stunt as a social experiment meant to expose weak UFO investigation and the unreliability of eyewitness claims. The case ended not only with a confession, but with legal consequences: reporting on the case records that the men were fined and ordered to perform community service.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
 
 Morristown is valuable because it was not merely a blurry light seen by one person. It involved multiple witnesses, video, local attention and investigators. That combination often feels strong to the public, yet the case was manufactured. It is therefore one of the most useful New Jersey examples for separating sincerity from accuracy. A witness can be honest and still mistaken. A video can be real and still show a staged event. A cluster of reports can reflect shared viewing conditions rather than an unknown craft.
 
@@ -524,21 +524,21 @@ The ethical question is separate. Hoaxers can expose weak reasoning, but they al
 
 In late 2024, New Jersey became the centre of a major wave of reported drone sightings. Residents, local officials and national media discussed lights in the sky, especially at night, and the story spread beyond New Jersey into the north-eastern United States. This was not a classic “flying saucer” flap, but it belongs in New Jersey’s UFO history because “unidentified” public sky reports now often involve drones, aircraft lights, satellites, helicopters and online rumours rather than saucer-shaped craft.
 
-The most important official statement came from DHS, the FBI, the FAA and the Department of Defense on 16 December 2024. They said the FBI had received more than 5,000 tips in recent weeks, generating about 100 leads. After examining technical data and citizen tips, the agencies assessed that the sightings included lawful commercial, hobbyist and law-enforcement drones, manned aircraft, helicopters and stars mistakenly reported as drones. They added that they had not identified anything anomalous and did not assess the activity as a national-security or public-safety risk over civilian airspace in New Jersey or nearby states. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important official statement came from DHS, the FBI, the FAA and the Department of Defense on 16 December 2024. They said the FBI had received more than 5,000 tips in recent weeks, generating about 100 leads. After examining technical data and citizen tips, the agencies assessed that the sightings included lawful commercial, hobbyist and law-enforcement drones, manned aircraft, helicopters and stars mistakenly reported as drones. They added that they had not identified anything anomalous and did not assess the activity as a national-security or public-safety risk over civilian airspace in New Jersey or nearby states.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That statement did not end public concern. The Guardian reported that Governor Phil Murphy urged people to remain calm while federal and state agencies investigated, and that officials warned against pointing lasers or weapons at objects believed to be drones because some were likely misidentified manned aircraft. The episode shows a modern twist on older UFO waves: more people now have phone cameras, apps and social media, but the sky is also more crowded with lawful drones, aircraft, satellites and bright celestial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That statement did not end public concern. The Guardian reported that Governor Phil Murphy urged people to remain calm while federal and state agencies investigated, and that officials warned against pointing lasers or weapons at objects believed to be drones because some were likely misidentified manned aircraft. The episode shows a modern twist on older UFO waves: more people now have phone cameras, apps and social media, but the sky is also more crowded with lawful drones, aircraft, satellites and bright celestial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A later White House briefing in January 2025 said that many of the drones flying over New Jersey in large numbers had been authorised by the FAA for research and other reasons. That claim should be read alongside, not instead of, the December multi-agency statement: the public wave appears to have contained a mixture of authorised drones, ordinary aircraft, stars, helicopters, hobbyist activity and unresolved public reports, rather than one single hidden cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitehouse.gov">[The White House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitehouse.gov</span><span class="citation-popover-title">The White House Press Briefing by Press Secretary Karoline Leavitt</span><span class="citation-popover-snippet">The White House Press Briefing by Press Secretary Karoline Leavitt</span></span></span>
+A later White House briefing in January 2025 said that many of the drones flying over New Jersey in large numbers had been authorised by the FAA for research and other reasons. That claim should be read alongside, not instead of, the December multi-agency statement: the public wave appears to have contained a mixture of authorised drones, ordinary aircraft, stars, helicopters, hobbyist activity and unresolved public reports, rather than one single hidden cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitehouse.gov">[The White House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitehouse.gov</span><span class="citation-popover-title">The White House Press Briefing by Press Secretary Karoline Leavitt</span><span class="citation-popover-snippet">The White House Press Briefing by Press Secretary Karoline Leavitt</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J-lwW4W5MiY" title="Stranger Jersey: UFOs over Wanaque Reservoir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J-lwW4W5MiY" target="_blank" rel="noopener noreferrer">Stranger Jersey: UFOs over Wanaque Reservoir</a></p><p class="youtube-embed-meta">Channel: NorthJersey &middot; Views: 6.8K &middot; Uploaded: October 2018 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J-lwW4W5MiY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J-lwW4W5MiY">Open on YouTube</a></p></div></div></div>
 
 ## What the databases can and cannot tell us
 
-Public UFO databases are useful starting points, but they are not verdicts. NUFORC’s New Jersey index contains reports ranging from 1950s retrospective claims to recent lights, triangles, fireballs and unknown shapes. The entries show breadth: Newark, Trenton, Cherry Hill, Wanaque, Jersey City, Beach Haven, Morris Plains and many other places appear in the archive. But most entries are short witness submissions, not fully investigated case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State NJ</span><span class="citation-popover-snippet">NUFOR C Reports for State NJ</span></span></span>
+Public UFO databases are useful starting points, but they are not verdicts. NUFORC’s New Jersey index contains reports ranging from 1950s retrospective claims to recent lights, triangles, fireballs and unknown shapes. The entries show breadth: Newark, Trenton, Cherry Hill, Wanaque, Jersey City, Beach Haven, Morris Plains and many other places appear in the archive. But most entries are short witness submissions, not fully investigated case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State NJ</span><span class="citation-popover-snippet">NUFOR C Reports for State NJ</span></span></span>
 
 That distinction matters. A database can show where people report things, what words they use, and when reporting clusters happen. It cannot, by itself, prove that a reported object was extraordinary. For New Jersey, raw reports are especially vulnerable to ordinary causes because the state sits beneath busy air corridors and near New York and Philadelphia airspace. Bright planets, aircraft on approach, helicopters, advertising aircraft, sky lanterns, drones, rocket launches visible from the coast, satellites and meteor fireballs can all produce sincere reports.
 
-Modern official UAP work has reached a similar caution. AARO, the Pentagon’s All-domain Anomaly Resolution Office, says it approaches UAP with a scientific and data-driven framework, and its public materials list common causes and reporting pathways. The 2024 ODNI and Defense Department annual UAP report continued the recent federal practice of treating unresolved cases as a data and flight-safety problem, not as proof of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Modern official UAP work has reached a similar caution. AARO, the Pentagon’s All-domain Anomaly Resolution Office, says it approaches UAP with a scientific and data-driven framework, and its public materials list common causes and reporting pathways. The 2024 ODNI and Defense Department annual UAP report continued the recent federal practice of treating unresolved cases as a data and flight-safety problem, not as proof of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 The lesson for New Jersey readers is practical: a report becomes stronger when it has independent witnesses in separate locations, precise time and direction, original unedited media, radar or flight-data checks, weather and astronomy review, and a clear chain of documentation. A report becomes weaker when it depends on memory years later, anonymous claims, recycled photographs, social-media copies, or a conclusion that jumps from “unidentified” to “alien”.
 
@@ -549,11 +549,11 @@ Across New Jersey’s UFO history, several explanations recur. None explains eve
 
 **Aircraft and airport traffic.** New Jersey’s position near Newark Liberty International Airport, New York airspace, Philadelphia routes and coastal aviation makes aircraft misidentification common. Distant aircraft can seem to hover when flying towards the observer, and landing lights can look unusually bright.
 
-**Balloons, lanterns and flares.** Morristown proved that floating lights can fool many observers at once. Wanaque’s disputed photographic and anecdotal record also contains suggestions of balloons or handmade light sources in related New Jersey 1966 stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
+**Balloons, lanterns and flares.** Morristown proved that floating lights can fool many observers at once. Wanaque’s disputed photographic and anecdotal record also contains suggestions of balloons or handmade light sources in related New Jersey 1966 stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
 **Weather, reflections and astronomical objects.** Reservoirs, coastlines and humid night air can produce confusing reflections or distorted lights. Bright planets and stars are especially common in public reports because they appear fixed, brilliant and unfamiliar to people who do not regularly watch the sky.
 
-**Drones and satellites.** The 2024 New Jersey drone wave shows how quickly lawful drones, manned aircraft, stars and social amplification can merge into one public mystery. Satellite trains, including Starlink, have also become a wider source of UAP confusion; recent aviation-focused research has shown how Starlink misidentifications can produce pilot reports and apparent anomalies when orbital and viewing geometry are not understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Drones and satellites.** The 2024 New Jersey drone wave shows how quickly lawful drones, manned aircraft, stars and social amplification can merge into one public mystery. Satellite trains, including Starlink, have also become a wider source of UAP confusion; recent aviation-focused research has shown how Starlink misidentifications can produce pilot reports and apparent anomalies when orbital and viewing geometry are not understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Hoaxes and media feedback.** New Jersey has both deliberate hoaxing and media-amplified legend in its record. A hoax does not explain every sighting, but Morristown is a warning against treating witness confidence, video clips or news coverage as final proof.
 
@@ -563,7 +563,7 @@ Across New Jersey’s UFO history, several explanations recur. None explains eve
 
 The best way to read a New Jersey UFO story is to ask what would have to be true for the extraordinary version to survive ordinary checks. Start with time, place and direction. Then ask whether aircraft tracking, weather data, astronomical conditions, local drone activity, military notices or rocket-launch visibility were checked. A strong case should become clearer under scrutiny, not vaguer.
 
-Fort Monmouth remains historically important because it touched official military investigation and radar interpretation, even though Ruppelt’s later account offered conventional explanations. Wanaque remains culturally important because it became New Jersey’s classic reservoir flap, even though the photograph claims and later retellings are problematic. Morristown is evidentially closed as a hoax. The 2024 drone wave is best understood as a mass-identification problem with some official follow-up, not as a confirmed anomalous event. Federal Bureau of Investigation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/227612/history_mystery_from_the_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">History Mystery from the Archives &#124; Article</span><span class="citation-popover-snippet">History Mystery from the Archives &#124; Article</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Fort Monmouth remains historically important because it touched official military investigation and radar interpretation, even though Ruppelt’s later account offered conventional explanations. Wanaque remains culturally important because it became New Jersey’s classic reservoir flap, even though the photograph claims and later retellings are problematic. Morristown is evidentially closed as a hoax. The 2024 drone wave is best understood as a mass-identification problem with some official follow-up, not as a confirmed anomalous event. Federal Bureau of Investigation<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/227612/history_mystery_from_the_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">History Mystery from the Archives &#124; Article</span><span class="citation-popover-snippet">History Mystery from the Archives &#124; Article</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That balanced approach is not the same as dismissing witnesses. Many people who report UFOs are describing something they genuinely found strange. The question is whether the available evidence supports a durable mystery after known explanations are tested. In New Jersey, the record is most useful when it is read case by case: some reports are weak, some are solved, some are socially revealing, and a smaller number remain historically unresolved because the surviving documentation is incomplete.
 
@@ -574,194 +574,194 @@ New Jersey’s UFO history is strongest as a study of how unidentified things be
 The state has no single definitive UFO case that proves an extraordinary origin. What it does have is a unusually instructive sequence of cases showing the full life cycle of UFO claims: sighting, alarm, investigation, media treatment, sceptical review and long afterlife. For readers trying to understand New Jersey’s place in UFO history, that may be more valuable than a simple mystery. It shows why the word “unidentified” should open an investigation, not close one.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in New Jersey&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in New Jersey&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly relevant to Cold War-era investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to Cold War-era investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches broad New Jersey UFO history and investigative themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches broad New Jersey UFO history and investigative themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Matches the page&#x27;s focus on mistaken certainty and unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Matches the page&#x27;s focus on mistaken certainty and unusual claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
-        </h4>
-        <p class="fr-book-author">By Joachim-Ernst Berendt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
+</h4>
+<p class="fr-book-author">By Joachim-Ernst Berendt</p>
         
-        <p class="fr-book-desc">Useful across multiple New Jersey cases and reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful across multiple New Jersey cases and reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="https://i.ebayimg.com/images/g/PwcAAOSwjzdoHiu2/s-l225.jpg" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="https://i.ebayimg.com/images/g/PwcAAOSwjzdoHiu2/s-l225.jpg" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="https://i.ebayimg.com/images/g/DnIAAOSwvt1WSCi5/s-l225.jpg" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="https://i.ebayimg.com/images/g/DnIAAOSwvt1WSCi5/s-l225.jpg" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="https://i.ebayimg.com/images/g/m-UAAOSwNd1iVoqP/s-l225.jpg" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="https://i.ebayimg.com/images/g/m-UAAOSwNd1iVoqP/s-l225.jpg" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-in-new-jersey-s-ufo-stories-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -777,7 +777,7 @@ The state has no single definitive UFO case that proves an extraordinary origin.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -797,7 +797,7 @@ The state has no single definitive UFO case that proves an extraordinary origin.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -829,7 +829,7 @@ The state has no single definitive UFO case that proves an extraordinary origin.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -881,7 +881,7 @@ The state has no single definitive UFO case that proves an extraordinary origin.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -926,7 +926,7 @@ The state has no single definitive UFO case that proves an extraordinary origin.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -967,306 +967,306 @@ The state has no single definitive UFO case that proves an extraordinary origin.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: army.mil  
    Title: History Mystery from the Archives | Article  
-   Link: <a href="https://www.army.mil/article/227612/history_mystery_from_the_archives" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/227612/history_mystery_from_the_archives</a>  
+   Link:<a href="https://www.army.mil/article/227612/history_mystery_from_the_archives" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/227612/history_mystery_from_the_archives</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings</a>  
+   Link:<a href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: westwindsorhistory.com  
-   Link: <a href="https://www.westwindsorhistory.com/waroftheworlds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.westwindsorhistory.com/waroftheworlds.html</a>  
+   Link:<a href="https://www.westwindsorhistory.com/waroftheworlds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.westwindsorhistory.com/waroftheworlds.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The War of the Worlds (1938 radio drama)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: Page:Project Blue Book, complete status reports  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/25" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/25</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/25" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/25</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: academia.edu  
    Title: THE WANAQUE RESERVOIR 1966 UFO PICTURES  
-   Link: <a href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES</a>  
+   Link:<a href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Morristown UFO hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State NJ  
-   Link: <a href="https://nuforc.org/subndx/?id=lNJ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNJ</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lNJ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNJ</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dhs.gov  
    Title: 24 01223 crcl newsletter december 2024  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-06/24_01223_crcl-newsletter-december-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-06/24_01223_crcl-newsletter-december-2024.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-06/24_01223_crcl-newsletter-december-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-06/24_01223_crcl-newsletter-december-2024.pdf</a>  
    Published: december 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dhs.gov  
    Title: 25 0808 priv i and a foia log fy2025 q1  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_i-and-a-foia--log-fy2025-q1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_i-and-a-foia--log-fy2025-q1.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_i-and-a-foia--log-fy2025-q1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_i-and-a-foia--log-fy2025-q1.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dhs.gov  
    Title: 0325 25 PRIV Chief FOIA Officer Report September 30 2024 December 30 2024  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-03/0325_25-PRIV-Chief-FOIA-Officer-Report-September-30-2024-December-30-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-03/0325_25-PRIV-Chief-FOIA-Officer-Report-September-30-2024-December-30-2024.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-03/0325_25-PRIV-Chief-FOIA-Officer-Report-September-30-2024-December-30-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-03/0325_25-PRIV-Chief-FOIA-Officer-Report-September-30-2024-December-30-2024.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dhs.gov  
    Title: 25 0805 foia DHS PRIV FOIA Log FY 2025 Q2  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-08/25_0805_foia_DHS-PRIV-FOIA-Log-FY-2025-Q2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-08/25_0805_foia_DHS-PRIV-FOIA-Log-FY-2025-Q2.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-08/25_0805_foia_DHS-PRIV-FOIA-Log-FY-2025-Q2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-08/25_0805_foia_DHS-PRIV-FOIA-Log-FY-2025-Q2.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dhs.gov  
    Title: 24 0702 PRIV PRIV Marcch FOIA logs.pdf 0  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2024-07/24_0702_PRIV-PRIV-Marcch-FOIA-logs.pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/24_0702_PRIV-PRIV-Marcch-FOIA-logs.pdf_0.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2024-07/24_0702_PRIV-PRIV-Marcch-FOIA-logs.pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/24_0702_PRIV-PRIV-Marcch-FOIA-logs.pdf_0.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dhs.gov  
    Title: 25 0430 priv dhs privacy foia log fy2024 redacted  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dhs.gov  
    Title: 23 0326 fema fy22 FEMA FOIA logs  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2024-03/23_0326_fema_fy22-FEMA-FOIA-logs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-03/23_0326_fema_fy22-FEMA-FOIA-logs.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2024-03/23_0326_fema_fy22-FEMA-FOIA-logs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-03/23_0326_fema_fy22-FEMA-FOIA-logs.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dhs.gov  
    Title: chief foia officer weekly report 2022  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2022.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2022.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dhs.gov  
    Title: chief foia officer weekly report 2021  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dhs.gov  
    Title: fy 2017 privacy office foia log  
-   Link: <a href="https://www.dhs.gov/sites/default/files/publications/fy_2017_privacy_office_foia_log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/publications/fy_2017_privacy_office_foia_log.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/publications/fy_2017_privacy_office_foia_log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/publications/fy_2017_privacy_office_foia_log.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=161282" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161282</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=161282" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161282</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=147286" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=147286</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=147286" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=147286</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nuforc.org  
    Title: drone flap  
-   Link: <a href="https://nuforc.org/drone_flap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/drone_flap/</a>  
+   Link:<a href="https://nuforc.org/drone_flap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/drone_flap/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=68949" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68949</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=68949" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68949</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Tag/260628/anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/260628/anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/Tag/260628/anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/260628/anomalous-phenomena/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/feeds/national-press-releases/RSS" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/feeds/national-press-releases/RSS</a>  
+   Link:<a href="https://www.fbi.gov/feeds/national-press-releases/RSS" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/feeds/national-press-releases/RSS</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/monis.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/monis.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/monis.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/monis.htm</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: patch.com  
    Title: jersey city ufo sightings among 183 reported nj 2019  
-   Link: <a href="https://patch.com/new-jersey/jersey-city/jersey-city-ufo-sightings-among-183-reported-nj-2019" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/jersey-city/jersey-city-ufo-sightings-among-183-reported-nj-2019</a>  
+   Link:<a href="https://patch.com/new-jersey/jersey-city/jersey-city-ufo-sightings-among-183-reported-nj-2019" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/jersey-city/jersey-city-ufo-sightings-among-183-reported-nj-2019</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo11.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo11.htm</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: whitehouse.gov  
    Title: The White House Press Briefing by Press Secretary Karoline Leavitt  
-   Link: <a href="https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/</a>  
+   Link:<a href="https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wgbh/americanexperience/films/worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/americanexperience/films/worlds/</a>  
+   Link:<a href="https://www.pbs.org/wgbh/americanexperience/films/worlds/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/americanexperience/films/worlds/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=J-lwW4W5MiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J-lwW4W5MiY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=J-lwW4W5MiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J-lwW4W5MiY</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9NewsSydney/posts/the-pentagon-has-released-a-second-batch-of-files-containing-alleged-sightings-a/1394695506040502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsSydney/posts/the-pentagon-has-released-a-second-batch-of-files-containing-alleged-sightings-a/1394695506040502/</a>  
+   Link:<a href="https://www.facebook.com/9NewsSydney/posts/the-pentagon-has-released-a-second-batch-of-files-containing-alleged-sightings-a/1394695506040502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsSydney/posts/the-pentagon-has-released-a-second-batch-of-files-containing-alleged-sightings-a/1394695506040502/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: realclearhistory.com  
-   Link: <a href="https://www.realclearhistory.com/2016/12/17/behind_air_force039s_project_bluebook_1034.html" target="_blank" rel="noopener noreferrer nofollow">https://www.realclearhistory.com/2016/12/17/behind_air_force039s_project_bluebook_1034.html</a>  
+   Link:<a href="https://www.realclearhistory.com/2016/12/17/behind_air_force039s_project_bluebook_1034.html" target="_blank" rel="noopener noreferrer nofollow">https://www.realclearhistory.com/2016/12/17/behind_air_force039s_project_bluebook_1034.html</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: x.com  
-   Link: <a href="https://x.com/DaniLavelle/status/2057985318008099194" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DaniLavelle/status/2057985318008099194</a>  
+   Link:<a href="https://x.com/DaniLavelle/status/2057985318008099194" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DaniLavelle/status/2057985318008099194</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/age-of-empathy/new-jersey-drone-sightings-continue-a32afab43c6b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/age-of-empathy/new-jersey-drone-sightings-continue-a32afab43c6b</a>  
+   Link:<a href="https://medium.com/age-of-empathy/new-jersey-drone-sightings-continue-a32afab43c6b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/age-of-empathy/new-jersey-drone-sightings-continue-a32afab43c6b</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>  
+   Link:<a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>

@@ -253,13 +253,13 @@ image: /assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453_vegas_night_ligh
 [Las Vegas]({{ 'las-vegas/' | relative_url }}) produces a large number of UFO reports, but it also produces an unusually large number of sincere mistakes. The city sits beneath some of the busiest and most complex airspace in the American West, combining commercial airliners, military traffic, helicopters, private aircraft, drones, event lighting and one of the brightest urban skylines in the world. That combination creates what investigators sometimes call a “sighting trap”: a situation where normal objects appear strange because of viewing angle, lighting conditions, distance or unfamiliar flight behaviour.
 
 <img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453_vegas_night_light_tr_fe1243-Illustration-1-dark.svg" | relative_url }}" alt="Night lights illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453_vegas_night_light_tr_fe1243-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453_vegas_night_light_tr_fe1243-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For [Nevada]({{ 'why-nevada-became-ufo-country/' | relative_url }}) UFO history, this matters because many reports from the Las Vegas Valley begin with a genuinely unusual visual experience. Witnesses are often describing something real that they saw. The central question is whether the object itself was unusual, or whether ordinary aircraft, drones, flares or lighting effects created an extraordinary impression. Understanding those mechanisms helps separate stronger cases from reports that look mysterious mainly because of the environment in which they were observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">modification of class b airspace las vegas nv</span><span class="citation-popover-snippet">Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</span></span></span>
+For [Nevada]({{ 'why-nevada-became-ufo-country/' | relative_url }}) UFO history, this matters because many reports from the Las Vegas Valley begin with a genuinely unusual visual experience. Witnesses are often describing something real that they saw. The central question is whether the object itself was unusual, or whether ordinary aircraft, drones, flares or lighting effects created an extraordinary impression. Understanding those mechanisms helps separate stronger cases from reports that look mysterious mainly because of the environment in which they were observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">modification of class b airspace las vegas nv</span><span class="citation-popover-snippet">Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</span></span></span>
 
 ## Airport approaches and layered airspace
 
-One of the biggest sources of confusion in Las Vegas sightings is aircraft geometry. Harry Reid International Airport handles enormous volumes of traffic, with hundreds of thousands of aircraft movements annually, while nearby North Las Vegas Airport, Henderson Executive Airport and Nellis Air Force Base add further layers of activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harry_Reid_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harry Reid International Airport</span><span class="citation-popover-snippet">Harry Reid International Airport</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harry_Reid_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Harry Reid International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Harry Reid International Airport</span></span></span>
+One of the biggest sources of confusion in Las Vegas sightings is aircraft geometry. Harry Reid International Airport handles enormous volumes of traffic, with hundreds of thousands of aircraft movements annually, while nearby North Las Vegas Airport, Henderson Executive Airport and Nellis Air Force Base add further layers of activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harry_Reid_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harry Reid International Airport</span><span class="citation-popover-snippet">Harry Reid International Airport</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harry_Reid_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Harry Reid International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Harry Reid International Airport</span></span></span>
 
-The airspace above the valley is not a simple corridor. FAA material describes North Las Vegas Airport as operating beneath the larger Las Vegas Class B system, while Nellis Air Force Base sits nearby within the same broader aviation environment. Aircraft can therefore appear at very different altitudes, speeds and directions within a relatively small area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HCzEuarMA9A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">From the Flight Deck – North Las Vegas Airport (VGT)North Las Vegas has its own Class Delta airspace that underlies the larger Las...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">modification of class b airspace las vegas nv</span><span class="citation-popover-snippet">Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</span></span></span>
+The airspace above the valley is not a simple corridor. FAA material describes North Las Vegas Airport as operating beneath the larger Las Vegas Class B system, while Nellis Air Force Base sits nearby within the same broader aviation environment. Aircraft can therefore appear at very different altitudes, speeds and directions within a relatively small area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HCzEuarMA9A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">From the Flight Deck – North Las Vegas Airport (VGT)North Las Vegas has its own Class Delta airspace that underlies the larger Las...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">modification of class b airspace las vegas nv</span><span class="citation-popover-snippet">Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</span></span></span>
 
 This produces several common UFO-style observations:
 
@@ -274,7 +274,7 @@ This produces several common UFO-style observations:
 
 Las Vegas amplifies these effects because many witnesses observe the sky from hotel rooftops, casinos, parking structures and motorways rather than from open countryside. Buildings obscure reference points and make judging distance difficult. A bright landing light seen against a dark desert horizon can seem much closer than it really is.
 
-Night-time visual perception is already prone to error. Aviation safety guidance notes that darkness reduces depth cues and increases susceptibility to visual illusions. Those same limitations affect ordinary witnesses trying to judge the speed, altitude or size of an unfamiliar light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">Visual Illusions AwarenessSeptember 22, 2005 — 30 % of approach-and-landing accidents occur during the conduct of visual approach...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span>
+Night-time visual perception is already prone to error. Aviation safety guidance notes that darkness reduces depth cues and increases susceptibility to visual illusions. Those same limitations affect ordinary witnesses trying to judge the speed, altitude or size of an unfamiliar light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">Visual Illusions AwarenessSeptember 22, 2005 — 30 % of approach-and-landing accidents occur during the conduct of visual approach...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JXB39hZ60RE" title="Drone swarm mystery and new UAP revelations | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer">Drone swarm mystery and new UAP revelations | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 101.1K &middot; Uploaded: February 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JXB39hZ60RE">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +298,7 @@ These effects help explain why social-media clips from the city often appear mor
 
 Modern Las Vegas sightings increasingly involve technologies that were rare in earlier UFO eras.
 
-Drones are a major example. FAA UAS Facility Maps exist because much of the Las Vegas area lies within controlled airspace where drone operations require authorisation. Local drone guidance repeatedly warns operators about restrictions around the Strip and airport approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aloft.ai/feature/laanc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloft.ai">[Aloft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloft.ai</span><span class="citation-popover-snippet">LAANC &#124; AloftIt provides access to controlled airspace near airports through near real-time processing of airspace authorizations in appr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasvegasnevada.gov">[3lasvegasnevada.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasvegasnevada.gov</span><span class="citation-popover-snippet">FLYSAFEThe interactive map below provides LAANC authorization, the most up-to-date local advisories, hazards and FAA charts. For a full s...</span></span></span>
+Drones are a major example. FAA UAS Facility Maps exist because much of the Las Vegas area lies within controlled airspace where drone operations require authorisation. Local drone guidance repeatedly warns operators about restrictions around the Strip and airport approaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aloft.ai/feature/laanc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloft.ai">[Aloft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloft.ai</span><span class="citation-popover-snippet">LAANC &#124; AloftIt provides access to controlled airspace near airports through near real-time processing of airspace authorizations in appr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasvegasnevada.gov">[3lasvegasnevada.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasvegasnevada.gov</span><span class="citation-popover-snippet">FLYSAFEThe interactive map below provides LAANC authorization, the most up-to-date local advisories, hazards and FAA charts. For a full s...</span></span></span>
 
 From a witness perspective, however, a legally authorised drone and an unauthorised drone may look identical.
 
@@ -327,7 +327,7 @@ None of these explanations automatically dismiss a specific sighting. The point 
 
 Las Vegas sits close to military aviation activity that attracts public attention even when no [secret aircraft]({{ 'secret-aircraft/' | relative_url }}) are involved.
 
-Nellis Air Force Base is embedded within the broader Las Vegas airspace system, and military aircraft regularly operate in the region. Visitors unfamiliar with military flight profiles may interpret unusual manoeuvres, formation flying or high-performance aircraft lighting as evidence of something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Class_B_airports_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Class B airports in the United States</span><span class="citation-popover-snippet">LSV / KLSV, Nellis Air Force Base (lies within the class B surface area of LAS), Nevada. EWR...Read more...</span></span></span>
+Nellis Air Force Base is embedded within the broader Las Vegas airspace system, and military aircraft regularly operate in the region. Visitors unfamiliar with military flight profiles may interpret unusual manoeuvres, formation flying or high-performance aircraft lighting as evidence of something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Class_B_airports_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Class B airports in the United States</span><span class="citation-popover-snippet">LSV / KLSV, Nellis Air Force Base (lies within the class B surface area of LAS), Nevada. EWR...Read more...</span></span></span>
 
 This creates a difficult middle ground.
 
@@ -367,7 +367,7 @@ Conversely, several factors tend to weaken a report:
 
 </div>
 
-In a city with layered Class B airspace, dense traffic patterns and extensive drone restrictions, the absence of contextual information becomes a serious problem. An unexplained light is not automatically an unexplained object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span>
+In a city with layered Class B airspace, dense traffic patterns and extensive drone restrictions, the absence of contextual information becomes a serious problem. An unexplained light is not automatically an unexplained object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span>
 
 <img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453_vegas_night_light_tr_fe1243-Illustration-3-dark.svg" | relative_url }}" alt="Night lights illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453_vegas_night_light_tr_fe1243-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453_vegas_night_light_tr_fe1243-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Las Vegas remains a UFO hotspot despite ordinary explanations
@@ -376,197 +376,197 @@ Las Vegas continues to generate UFO stories because ordinary explanations do not
 
 That tension is part of what makes Las Vegas important within Nevada's wider UFO history. The city demonstrates how difficult it can be to separate genuine anomalies from environmental noise. Its aviation density, military connections and intense night-time lighting create conditions where both mistaken identifications and potentially interesting reports emerge from the same sky.
 
-For investigators, that means the burden of evidence is unusually high. The most valuable Las Vegas cases are not the ones that merely look strange. They are the ones that remain difficult to explain after flight paths, airspace activity, lighting conditions, drone operations and other ordinary sighting traps have been examined first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">modification of class b airspace las vegas nv</span><span class="citation-popover-snippet">Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span>
+For investigators, that means the burden of evidence is unusually high. The most valuable Las Vegas cases are not the ones that merely look strange. They are the ones that remain difficult to explain after flight paths, airspace activity, lighting conditions, drone operations and other ordinary sighting traps have been examined first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">modification of class b airspace las vegas nv</span><span class="citation-popover-snippet">Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Las Vegas Lights So Often Look Strange. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Las Vegas Lights So Often Look Strange. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on stronger evidence and witness evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on stronger evidence and witness evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses misidentification, observation limits and sighting analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses misidentification, observation limits and sighting analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Adds context about military traffic and secret programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds context about military traffic and secret programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Covers investigative methods and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers investigative methods and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT"><img src="https://i.ebayimg.com/images/g/VLMAAOSwY05kOYHh/s-l225.jpg" alt="Listing image for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT"><img src="https://i.ebayimg.com/images/g/VLMAAOSwY05kOYHh/s-l225.jpg" alt="Listing image for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Screen UFO&#x27;s Hand Printed T-Shirt Flying Saucers Scanner Gift"><img src="https://i.ebayimg.com/images/g/GjMAAOSwPQJoWnlp/s-l225.jpg" alt="Listing image for Radar Screen UFO&#x27;s Hand Printed T-Shirt Flying Saucers Scanner Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Radar Screen UFO&#x27;s Hand Printed T-Shirt Flying Saucers Scanner Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Screen UFO&#x27;s Hand Printed T-Shirt Flying Saucers Scanner Gift"><img src="https://i.ebayimg.com/images/g/GjMAAOSwPQJoWnlp/s-l225.jpg" alt="Listing image for Radar Screen UFO&#x27;s Hand Printed T-Shirt Flying Saucers Scanner Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Radar Screen UFO&#x27;s Hand Printed T-Shirt Flying Saucers Scanner Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="https://i.ebayimg.com/images/g/D7UAAOSweAFnrbbm/s-l225.jpg" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="https://i.ebayimg.com/images/g/D7UAAOSweAFnrbbm/s-l225.jpg" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT"><img src="https://i.ebayimg.com/images/g/UkkAAOSwiHxkNSPp/s-l225.jpg" alt="Listing image for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT"><img src="https://i.ebayimg.com/images/g/UkkAAOSwiHxkNSPp/s-l225.jpg" alt="Listing image for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-lights-so-often-look-strange-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-las-vegas-lights-so-often-look-strange-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ For investigators, that means the burden of evidence is unusually high. The most
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ For investigators, that means the burden of evidence is unusually high. The most
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ For investigators, that means the burden of evidence is unusually high. The most
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ For investigators, that means the burden of evidence is unusually high. The most
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ For investigators, that means the burden of evidence is unusually high. The most
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,247 +772,247 @@ For investigators, that means the burden of evidence is unusually high. The most
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Harry Reid International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Harry_Reid_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harry_Reid_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Harry_Reid_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harry_Reid_International_Airport</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part3_ad_2.0_nevada.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part3_ad_2.0_nevada.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationNevadaFAA Form 7233-4... Las Vegas, Nevada Harry Reid International ICAO Identifier KLAS. The airport dia...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part3_ad_2.0_nevada.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part3_ad_2.0_nevada.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationNevadaFAA Form 7233-4... Las Vegas, Nevada Harry Reid International ICAO Identifier KLAS. The airport dia...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HCzEuarMA9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HCzEuarMA9A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Flight Deck – North Las Vegas Airport (VGT)North Las Vegas has its own Class Delta airspace that underlies the larger Las...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HCzEuarMA9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HCzEuarMA9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the Flight Deck – North Las Vegas Airport (VGT)North Las Vegas has its own Class Delta airspace that underlies the larger Las...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 9  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_9.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Class B Service Area- TerminalVFR AIRCRAFT IN CLASS B AIRSPACE. VFR aircraft must obtain an ATC clearance to operate in Class B airspace...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_9.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Class B Service Area- TerminalVFR AIRCRAFT IN CLASS B AIRSPACE. VFR aircraft must obtain an ATC clearance to operate in Class B airspace...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skybrary.aero  
    Title: Visual Illusions Awareness  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessSeptember 22, 2005 — 30 % of approach-and-landing accidents occur during the conduct of visual approach...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessSeptember 22, 2005 — 30 % of approach-and-landing accidents occur during the conduct of visual approach...</p></details>
    Published: September 22, 2005  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: uas facility maps  
-   Link: <a href="https://www.faa.gov/uas/commercial_operators/uas_facility_maps" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/uas_facility_maps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationUAS Facility MapsApr 12, 2023 — UAS Facility Maps show the maximum altitudes around airports where the FAA...</p></details>
+   Link:<a href="https://www.faa.gov/uas/commercial_operators/uas_facility_maps" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/uas_facility_maps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationUAS Facility MapsApr 12, 2023 — UAS Facility Maps show the maximum altitudes around airports where the FAA...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lasvegasnevada.gov  
-   Link: <a href="https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE" target="_blank" rel="noopener noreferrer nofollow">https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYSAFEThe interactive map below provides LAANC authorization, the most up-to-date local advisories, hazards and FAA charts. For a full s...</p></details>
+   Link:<a href="https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE" target="_blank" rel="noopener noreferrer nofollow">https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYSAFEThe interactive map below provides LAANC authorization, the most up-to-date local advisories, hazards and FAA charts. For a full s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aloft.ai  
-   Link: <a href="https://www.aloft.ai/feature/laanc/" target="_blank" rel="noopener noreferrer nofollow">https://www.aloft.ai/feature/laanc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LAANC | AloftIt provides access to controlled airspace near airports through near real-time processing of airspace authorizations in appr...</p></details>
+   Link:<a href="https://www.aloft.ai/feature/laanc/" target="_blank" rel="noopener noreferrer nofollow">https://www.aloft.ai/feature/laanc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LAANC | AloftIt provides access to controlled airspace near airports through near real-time processing of airspace authorizations in appr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of Class B airports in the United States  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Class_B_airports_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Class_B_airports_in_the_United_States</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LSV / KLSV, Nellis Air Force Base (lies within the class B surface area of LAS), Nevada. EWR...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Class_B_airports_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Class_B_airports_in_the_United_States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LSV / KLSV, Nellis Air Force Base (lies within the class B surface area of LAS), Nevada. EWR...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aeronav.faa.gov  
    Title: govvfr terminal area chart  
-   Link: <a href="https://aeronav.faa.gov/visual/10-02-2025/PDFs/Las_Vegas_TAC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aeronav.faa.gov/visual/10-02-2025/PDFs/Las_Vegas_TAC.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terminal area chart - las vegasOct 2, 2025 — *Alert Area and Military. Operations Area (MOA). *Alert Areas do not extend into Class A. B...</p></details>
+   Link:<a href="https://aeronav.faa.gov/visual/10-02-2025/PDFs/Las_Vegas_TAC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aeronav.faa.gov/visual/10-02-2025/PDFs/Las_Vegas_TAC.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terminal area chart - las vegasOct 2, 2025 — *Alert Area and Military. Operations Area (MOA). *Alert Areas do not extend into Class A. B...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/domesticnotices/dom23035_sp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/domesticnotices/dom23035_sp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Business Aviation AssociationSep 26, 2023 — The following flights are exempt from the PPR: regularly scheduled air carriers and...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/domesticnotices/dom23035_sp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/domesticnotices/dom23035_sp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Business Aviation AssociationSep 26, 2023 — The following flights are exempt from the PPR: regularly scheduled air carriers and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: notams.aim.faa.gov  
-   Link: <a href="https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3283941874229843689" target="_blank" rel="noopener noreferrer nofollow">https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3283941874229843689</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vegas, nevada february 6-13, 2024 - Federal NOTAM SystemThe following flights are exempt from the parking PPR and airspace slot reservati...</p></details>
+   Link:<a href="https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3283941874229843689" target="_blank" rel="noopener noreferrer nofollow">https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3283941874229843689</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vegas, nevada february 6-13, 2024 - Federal NOTAM SystemThe following flights are exempt from the parking PPR and airspace slot reservati...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/getting_started/b4ufly" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/b4ufly</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 31, 2025 — UAS Facility Maps · Part 107 Airspace Authorizations · Public Safety... Information about controlled airspace, special us...</p></details>
+   Link:<a href="https://www.faa.gov/uas/getting_started/b4ufly" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/b4ufly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 31, 2025 — UAS Facility Maps · Part 107 Airspace Authorizations · Public Safety... Information about controlled airspace, special us...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZZ5YlUtadrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZZ5YlUtadrY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation expert weighs in on FAA&#x27;s safety analysis at Harry ReidThe Federal Aviation Administration (FAA) has imposed new flight restrict...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZZ5YlUtadrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZZ5YlUtadrY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation expert weighs in on FAA&#x27;s safety analysis at Harry ReidThe Federal Aviation Administration (FAA) has imposed new flight restrict...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_yMt94UN0C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_yMt94UN0C8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Navigate UAS Facility MapsLearn what a UAS facility map is when and how to use them and how to find them on the FAA open data plat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_yMt94UN0C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_yMt94UN0C8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Navigate UAS Facility MapsLearn what a UAS facility map is when and how to use them and how to find them on the FAA open data plat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Dangerous Optical Illusions On Approach  
-   Link: <a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d5BUXAozb08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Too High or Too...These optical illusions are real world threat and something that real world Pilots have to be across so that they know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d5BUXAozb08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Too High or Too...These optical illusions are real world threat and something that real world Pilots have to be across so that they know...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/FAAnews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FAAnews</a>  
+   Link:<a href="https://www.youtube.com/user/FAAnews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FAAnews</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: MYSTERY SOLVED: Unusual lights seen in sky above Las Vegas valley  
-   Link: <a href="https://www.youtube.com/watch?v=NCn1ywzIyK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NCn1ywzIyK8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights over Las Vegas were parachutists, not aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NCn1ywzIyK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NCn1ywzIyK8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights over Las Vegas were parachutists, not aliens...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Lights over Las Vegas were parachutists, not aliens  
-   Link: <a href="https://www.youtube.com/watch?v=dgmRaan-jok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dgmRaan-jok</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Vegas UFO is a HOAX! | The Proof Is Out There (Season 4) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dgmRaan-jok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dgmRaan-jok</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Vegas UFO is a HOAX! | The Proof Is Out There (Season 4) | History...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RZYCHqItT6o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZYCHqItT6o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada mysteries: Monolith appears, unknown lights &amp; other stories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RZYCHqItT6o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZYCHqItT6o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada mysteries: Monolith appears, unknown lights &amp; other stories...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Nevada mysteries: Monolith appears, unknown lights & other stories  
-   Link: <a href="https://www.youtube.com/watch?v=aMj2nLXPbHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aMj2nLXPbHo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone swarm mystery and new UAP revelations | UFO Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aMj2nLXPbHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aMj2nLXPbHo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone swarm mystery and new UAP revelations | UFO Mysteries...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Drone swarm mystery and new UAP revelations | UFO Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JXB39hZ60RE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=JXB39hZ60RE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JXB39hZ60RE</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: federalregister.gov  
    Title: modification of class b airspace las vegas nv  
-   Link: <a href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2013/07/22/2013-17477/modification-of-class-b-airspace-las-vegas-nv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterModification of Class B Airspace; Las Vegas, NVJul 22, 2013 — This action modifies the Las Vegas, NV, Class B airspace ar...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: harryreidairport.com  
    Title: 2026 aviation statistics  
-   Link: <a href="https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/airport-activity/2026-aviation-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/airport-activity/2026-aviation-statistics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Statistics; Flights. Departures · Arrivals · Airlines; To &amp; From LAS. All Options To &amp; From · Parking · Rental Cars; Dine, Sho...</p></details>
+   Link:<a href="https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/airport-activity/2026-aviation-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/airport-activity/2026-aviation-statistics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Statistics; Flights. Departures · Arrivals · Airlines; To &amp; From LAS. All Options To &amp; From · Parking · Rental Cars; Dine, Sho...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aopa.org  
    Title: Harry Reid International Airport  
-   Link: <a href="https://www.aopa.org/destinations/airports/KLAS/details" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/destinations/airports/KLAS/details</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KLASLas Vegas. CLASS B, 119.775, 030-110 LAS, Las Vegas. CLASS B, 125.475, 110-200 LAS, Las Vegas. CLASS B, 125.025, 200-300 LAS, Las Veg...</p></details>
+   Link:<a href="https://www.aopa.org/destinations/airports/KLAS/details" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/destinations/airports/KLAS/details</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KLASLas Vegas. CLASS B, 119.775, 030-110 LAS, Las Vegas. CLASS B, 125.475, 110-200 LAS, Las Vegas. CLASS B, 125.025, 200-300 LAS, Las Veg...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: harryreidairport.com  
-   Link: <a href="https://www.harryreidairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.harryreidairport.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid International AirportReserve your parking space in advance for worry-free travel. The cost is $28 per day at Terminal 1 and $2...</p></details>
+   Link:<a href="https://www.harryreidairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.harryreidairport.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid International AirportReserve your parking space in advance for worry-free travel. The cost is $28 per day at Terminal 1 and $2...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: airnav.com  
    Title: Harry Reid International Airport  
-   Link: <a href="https://www.airnav.com/airport/KLAS" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/KLAS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Las VegasAirport Communications; CLASS B: 119.775;030-110 LAS 125.025;200-300 LAS 125.475;110-200 LAS; COKTL STAR: 125.025; CRESO S...</p></details>
+   Link:<a href="https://www.airnav.com/airport/KLAS" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/KLAS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Las VegasAirport Communications; CLASS B: 119.775;030-110 LAS 125.025;200-300 LAS 125.475;110-200 LAS; COKTL STAR: 125.025; CRESO S...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: airnav.com  
    Title: Harry Reid International Airport  
-   Link: <a href="https://www.airnav.com/airport/LAS" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/LAS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We provide standard ground services you&#x27;d expect, with a detailed focus on ensuring an...Read more...</p></details>
+   Link:<a href="https://www.airnav.com/airport/LAS" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/LAS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We provide standard ground services you&#x27;d expect, with a detailed focus on ensuring an...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: airnav.com  
    Title: going to las vegas?  
-   Link: <a href="https://www.airnav.com/airport/KLAS?mobile-app=true&amp;theme=falseCampfire" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/KLAS?mobile-app=true&amp;theme=falseCampfire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid International AirportLAS VEGAS DEPARTURE: 125.9 133.95. CLEARANCE DELIVERY: 118.0. ARR: 120.45;VFR ARR. BLAID STAR: 119.775...</p></details>
+   Link:<a href="https://www.airnav.com/airport/KLAS?mobile-app=true&amp;theme=falseCampfire" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/KLAS?mobile-app=true&amp;theme=falseCampfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid International AirportLAS VEGAS DEPARTURE: 125.9 133.95. CLEARANCE DELIVERY: 118.0. ARR: 120.45;VFR ARR. BLAID STAR: 119.775...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DNjdb_vBvx_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNjdb_vBvx_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ar, and the Clark County Department of Aviation is...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DNjdb_vBvx_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNjdb_vBvx_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ar, and the Clark County Department of Aviation is...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: faasafety.gov  
    Title: Safer Skies Through Education  
-   Link: <a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
+   Link:<a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: laartcc.org  
-   Link: <a href="https://laartcc.org/airport/KLAS" target="_blank" rel="noopener noreferrer nofollow">https://laartcc.org/airport/KLAS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid International AirportHarry Reid International Airport Las Vegas, NV. Normal Operations use runways 26L for large and heavy com...</p></details>
+   Link:<a href="https://laartcc.org/airport/KLAS" target="_blank" rel="noopener noreferrer nofollow">https://laartcc.org/airport/KLAS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid International AirportHarry Reid International Airport Las Vegas, NV. Normal Operations use runways 26L for large and heavy com...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: clarkcountynv.gov  
-   Link: <a href="https://www.clarkcountynv.gov/business/doing_business_with_clark_county/divisions/sports_and_special_events/federal-aviation-administration-faa" target="_blank" rel="noopener noreferrer nofollow">https://www.clarkcountynv.gov/business/doing_business_with_clark_county/divisions/sports_and_special_events/federal-aviation-administration-faa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s/commercial_operators/uas_facility_maps. Waiver...Read more...</p></details>
+   Link:<a href="https://www.clarkcountynv.gov/business/doing_business_with_clark_county/divisions/sports_and_special_events/federal-aviation-administration-faa" target="_blank" rel="noopener noreferrer nofollow">https://www.clarkcountynv.gov/business/doing_business_with_clark_county/divisions/sports_and_special_events/federal-aviation-administration-faa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s/commercial_operators/uas_facility_maps. Waiver...Read more...</p></details>
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: fpvfc.org  
-   Link: <a href="https://fpvfc.org/laanc" target="_blank" rel="noopener noreferrer nofollow">https://fpvfc.org/laanc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LAANC AuthorizationAs you can see in this image taken from the FAA&#x27;s UAS Facility Map, the airports with LAANC are highlighted in green w...</p></details>
+   Link:<a href="https://fpvfc.org/laanc" target="_blank" rel="noopener noreferrer nofollow">https://fpvfc.org/laanc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LAANC AuthorizationAs you can see in this image taken from the FAA&#x27;s UAS Facility Map, the airports with LAANC are highlighted in green w...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: arcgis.com  
-   Link: <a href="https://www.arcgis.com/apps/webappviewer/index.html?id=9c2e4406710048e19806ebf6a06754ad" target="_blank" rel="noopener noreferrer nofollow">https://www.arcgis.com/apps/webappviewer/index.html?id=9c2e4406710048e19806ebf6a06754ad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visualize it: See FAA UAS Data on a MapFederal Aviation Administration, Aeronautical Information Services | Federal Aviation Administarti...</p></details>
+   Link:<a href="https://www.arcgis.com/apps/webappviewer/index.html?id=9c2e4406710048e19806ebf6a06754ad" target="_blank" rel="noopener noreferrer nofollow">https://www.arcgis.com/apps/webappviewer/index.html?id=9c2e4406710048e19806ebf6a06754ad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visualize it: See FAA UAS Data on a MapFederal Aviation Administration, Aeronautical Information Services | Federal Aviation Administarti...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: wiki.ivao.aero  
-   Link: <a href="https://wiki.ivao.aero/en/home/divisions/xa/sop/kzla/klas" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/divisions/xa/sop/kzla/klas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reid International (KLAS)Las Vegas International airport is surrounded by class B airspace. Aircraft... Aircraft entering class B airspa...</p></details>
+   Link:<a href="https://wiki.ivao.aero/en/home/divisions/xa/sop/kzla/klas" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/divisions/xa/sop/kzla/klas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reid International (KLAS)Las Vegas International airport is surrounded by class B airspace. Aircraft... Aircraft entering class B airspa...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dronepilothq.com  
-   Link: <a href="https://dronepilothq.com/kvgt-airport-regulations.html" target="_blank" rel="noopener noreferrer nofollow">https://dronepilothq.com/kvgt-airport-regulations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interactive FAA ArcGIS map centered on KVGT with LAANC grid overlay and controlled airspace details. Selected point guidance...Read more...</p></details>
+   Link:<a href="https://dronepilothq.com/kvgt-airport-regulations.html" target="_blank" rel="noopener noreferrer nofollow">https://dronepilothq.com/kvgt-airport-regulations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interactive FAA ArcGIS map centered on KVGT with LAANC grid overlay and controlled airspace details. Selected point guidance...Read more...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: desertflying.club  
-   Link: <a href="https://desertflying.club/local-airspace/las-vegas-bravo-airspace-transition-ga-pilots-guide/" target="_blank" rel="noopener noreferrer nofollow">https://desertflying.club/local-airspace/las-vegas-bravo-airspace-transition-ga-pilots-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas Bravo Airspace Transition: GA Pilot&#x27;s GuideFor the pilots who don&#x27;t often operate in Class B airspace, remember that...</p></details>
+   Link:<a href="https://desertflying.club/local-airspace/las-vegas-bravo-airspace-transition-ga-pilots-guide/" target="_blank" rel="noopener noreferrer nofollow">https://desertflying.club/local-airspace/las-vegas-bravo-airspace-transition-ga-pilots-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas Bravo Airspace Transition: GA Pilot&#x27;s GuideFor the pilots who don&#x27;t often operate in Class B airspace, remember that...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: pilotsofamerica.com  
-   Link: <a href="https://www.pilotsofamerica.com/community/threads/flying-into-las-vegas-class-b-airspace.51722/" target="_blank" rel="noopener noreferrer nofollow">https://www.pilotsofamerica.com/community/threads/flying-into-las-vegas-class-b-airspace.51722/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying into Las Vegas Class B AirspaceAug 10, 2012 — I am heading into North Las Vegas Airport from the south or southwest...</p></details>
+   Link:<a href="https://www.pilotsofamerica.com/community/threads/flying-into-las-vegas-class-b-airspace.51722/" target="_blank" rel="noopener noreferrer nofollow">https://www.pilotsofamerica.com/community/threads/flying-into-las-vegas-class-b-airspace.51722/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying into Las Vegas Class B AirspaceAug 10, 2012 — I am heading into North Las Vegas Airport from the south or southwest...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: simpleflying.com  
    Title: Here's How The FAA Quickly Reduced Las Vegas  
-   Link: <a href="https://simpleflying.com/faa-quickly-reduced-las-vegas-airspace-collision-dangers/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/faa-quickly-reduced-las-vegas-airspace-collision-dangers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2025 — Dangerous flying conditions were found at Harry Reid International Airport(LAS), prompting the agency to make immediate cha...</p></details>
+   Link:<a href="https://simpleflying.com/faa-quickly-reduced-las-vegas-airspace-collision-dangers/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/faa-quickly-reduced-las-vegas-airspace-collision-dangers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2025 — Dangerous flying conditions were found at Harry Reid International Airport(LAS), prompting the agency to make immediate cha...</p></details>
    Published: May 2, 2025  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/3365255513792975/posts/3631436227174901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3365255513792975/posts/3631436227174901/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What this means is that it will be significantly easier...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/3365255513792975/posts/3631436227174901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3365255513792975/posts/3631436227174901/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What this means is that it will be significantly easier...Read more...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUifCigiFZF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUifCigiFZF/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing landing what pilots see is not always what is really happening...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DUifCigiFZF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUifCigiFZF/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing landing what pilots see is not always what is really happening...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100044481545551/posts/another-busy-night-in-the-sky-over-las-vegas-and-another-busy-night-for-air-traf/1049404079885634/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100044481545551/posts/another-busy-night-in-the-sky-over-las-vegas-and-another-busy-night-for-air-traf/1049404079885634/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>month for over a year, though. Very busy. 1y ·...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100044481545551/posts/another-busy-night-in-the-sky-over-las-vegas-and-another-busy-night-for-air-traf/1049404079885634/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100044481545551/posts/another-busy-night-in-the-sky-over-las-vegas-and-another-busy-night-for-air-traf/1049404079885634/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>month for over a year, though. Very busy. 1y ·...Read more...</p></details>

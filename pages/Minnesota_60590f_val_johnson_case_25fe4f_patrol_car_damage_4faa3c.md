@@ -250,20 +250,20 @@ image: /assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage
 
 ## Introduction
 
-In Minnesota’s most widely cited “close encounter of the second kind”, the damaged patrol car driven by Marshall County Deputy Sheriff **[Val Johnson]({{ 'val-johnson/' | relative_url }})** on the night of 27 August 1979 is central to ongoing debate. Unlike many UFO reports that rest solely on eyewitness testimony, this case left behind tangible physical evidence — a 1977 Ford LTD squad car with cracked windscreen glass, bent radio antennas, broken lights and other anomalies. Those physical marks, still preserved and publicly displayed, are often cited as the strongest surviving clue to what happened. Yet, as investigations over the decades have shown, the damage *proves* that something occurred — but it does **not** conclusively prove what caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+In Minnesota’s most widely cited “close encounter of the second kind”, the damaged patrol car driven by Marshall County Deputy Sheriff **[Val Johnson]({{ 'val-johnson/' | relative_url }})** on the night of 27 August 1979 is central to ongoing debate. Unlike many UFO reports that rest solely on eyewitness testimony, this case left behind tangible physical evidence — a 1977 Ford LTD squad car with cracked windscreen glass, bent radio antennas, broken lights and other anomalies. Those physical marks, still preserved and publicly displayed, are often cited as the strongest surviving clue to what happened. Yet, as investigations over the decades have shown, the damage *proves* that something occurred — but it does **not** conclusively prove what caused it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-1-dark.svg" | relative_url }}" alt="Car damage illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Visible Damage on the Patrol Car
 
 The patrol vehicle that Deputy Johnson was driving after midnight on 27 August sustained a cluster of specific physical changes that investigators have repeatedly described as “unusual”:
 
-* **Windshield fractures:** The front windscreen on the driver’s side was cracked from top to bottom. Examiners noted the crack pattern was not typical of a simple road collision and, according to a Ford Motor Company expert, appeared to involve *inward and outward forces acting almost simultaneously*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
-* **Bent radio antennas:** Both of the spring‑mounted radio antennas on the roof were bent sharply. One was folded at roughly a 60‑degree angle about halfway up the mast, and another on the trunk was bent about 90 degrees near its tip. According to an engineer from Honeywell Labs, this deformation was unlikely to be caused by heat or simple wind pressure and instead indicated a *forceful* impact or pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
-* **Headlight and lightbar damage:** One headlight and a red emergency light lens on the lightbar were broken or dislodged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
-* **Dent on the hood:** Photographs and descriptions from the time record a small, rounded dent near the windscreen on the car’s hood — a mark suggestive of a concentrated impact rather than general collision damage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Val Johnson incident</span><span class="citation-popover-snippet">Val Johnson incident</span></span></span>
-* **Synchronized clock anomalies:** Both the patrol car’s dashboard clock and Johnson’s wristwatch were found to be 14 minutes slow from their previously correct setting, a curious correlation that has been reported in virtually every retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+* **Windshield fractures:** The front windscreen on the driver’s side was cracked from top to bottom. Examiners noted the crack pattern was not typical of a simple road collision and, according to a Ford Motor Company expert, appeared to involve *inward and outward forces acting almost simultaneously*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+* **Bent radio antennas:** Both of the spring‑mounted radio antennas on the roof were bent sharply. One was folded at roughly a 60‑degree angle about halfway up the mast, and another on the trunk was bent about 90 degrees near its tip. According to an engineer from Honeywell Labs, this deformation was unlikely to be caused by heat or simple wind pressure and instead indicated a *forceful* impact or pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+* **Headlight and lightbar damage:** One headlight and a red emergency light lens on the lightbar were broken or dislodged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+* **Dent on the hood:** Photographs and descriptions from the time record a small, rounded dent near the windscreen on the car’s hood — a mark suggestive of a concentrated impact rather than general collision damage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Val Johnson incident</span><span class="citation-popover-snippet">Val Johnson incident</span></span></span>
+* **Synchronized clock anomalies:** Both the patrol car’s dashboard clock and Johnson’s wristwatch were found to be 14 minutes slow from their previously correct setting, a curious correlation that has been reported in virtually every retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
 
-The overall pattern of damage was constrained to a roughly one‑foot‑wide band on the driver’s side of the vehicle, with no signs of a conventional crash scene such as skid marks from another vehicle, paint transfer, or debris from a second object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+The overall pattern of damage was constrained to a roughly one‑foot‑wide band on the driver’s side of the vehicle, with no signs of a conventional crash scene such as skid marks from another vehicle, paint transfer, or debris from a second object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MmE9BuaNqrs" title="The Val Johnson Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MmE9BuaNqrs" target="_blank" rel="noopener noreferrer">The Val Johnson Incident</a></p><p class="youtube-embed-meta">Channel: Channel 76 &middot; Views: 51.0K &middot; Uploaded: July 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MmE9BuaNqrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MmE9BuaNqrs">Open on YouTube</a></p></div></div></div>
 
@@ -271,20 +271,20 @@ The overall pattern of damage was constrained to a roughly one‑foot‑wide ban
 
 Two aspects of the vehicle’s damage have made it persist in UFO literature as more than a mere anecdote:
 
-* **Expert testimony on force patterns:** The fact that trained technicians from Ford and Honeywell examined the patrol car and described the physical marks in terms suggestive of dynamic forces *without easily identifiable cause* lends the case a degree of technical interest that goes beyond lay impression. The Ford expert’s remark that he observed what looked like simultaneous *inward and outward* forces, and Honeywell’s puzzlement at the antenna deformation, have been cited as evidence that this was not a simple road accident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
-* **Absence of conventional impact clues:** Investigators, including Allan Hendry of the Center for UFO Studies, noted that conventional indicators of a collision — such as debris from another vehicle, typical road collision speeds, or paint transfer — were lacking. The lack of such conventional evidence has been used by some to argue that the source of impact was not another car or known object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
+* **Expert testimony on force patterns:** The fact that trained technicians from Ford and Honeywell examined the patrol car and described the physical marks in terms suggestive of dynamic forces *without easily identifiable cause* lends the case a degree of technical interest that goes beyond lay impression. The Ford expert’s remark that he observed what looked like simultaneous *inward and outward* forces, and Honeywell’s puzzlement at the antenna deformation, have been cited as evidence that this was not a simple road accident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+* **Absence of conventional impact clues:** Investigators, including Allan Hendry of the Center for UFO Studies, noted that conventional indicators of a collision — such as debris from another vehicle, typical road collision speeds, or paint transfer — were lacking. The lack of such conventional evidence has been used by some to argue that the source of impact was not another car or known object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
 
-The display of the patrol car in the **Marshall County Historical Society Museum in Warren, Minnesota**, where it is often labelled the “UFO car”, has helped keep these physical details in the public eye. Visitors consistently cite the bent antennas and cracked windscreen as the most compelling aspects they can inspect directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+The display of the patrol car in the **Marshall County Historical Society Museum in Warren, Minnesota**, where it is often labelled the “UFO car”, has helped keep these physical details in the public eye. Visitors consistently cite the bent antennas and cracked windscreen as the most compelling aspects they can inspect directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-2-dark.svg" | relative_url }}" alt="Car damage illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits of the Car as Physical Evidence
 
 Even the most striking physical markers cannot, on their own, confirm *what* caused the damage:
 
-* **Ambiguity in direction and source:** While technicians found the damage unusual, they did not identify a source capable of producing it. No conventional object — from another vehicle to known atmospheric phenomena like ball lightning — has been shown to match the observed patterns reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
-* **Multiple plausible mechanical [explanations]({{ 'explanations-2d29c0/' | relative_url }}):** Some observers have suggested that wind turbulence, a small airborne object (such as gravel or stones) kicked up at high speed, or even mechanical failure could account for certain elements of the crash pattern. Scientific sceptics have pointed out that extraordinary interpretations are not warranted without ruling out more mundane possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
-* **Time anomalies lack independent verification:** The “14 minutes slow” clocks narrative is widely told, but it relies largely on Johnson’s account and has not been subjected to independent forensic reconstruction of mechanical failure or coincidence. Because no definitive chain of custody for the clocks or watch was maintained by independent analysts, the significance of that element is disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
-* **No direct link to an object:** Importantly, while the car’s damage shows that *something* interacted with the vehicle, it does not establish that an “unidentified flying object” in the classic sense was present. There were no photographs, radar returns, or independent eyewitnesses to the alleged object itself. Thus the evidence is physical but not self‑interpreting: it documents an unexplained physical event without proving its cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Val Johnson incident</span><span class="citation-popover-snippet">Val Johnson incident</span></span></span>
+* **Ambiguity in direction and source:** While technicians found the damage unusual, they did not identify a source capable of producing it. No conventional object — from another vehicle to known atmospheric phenomena like ball lightning — has been shown to match the observed patterns reliably.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
+* **Multiple plausible mechanical [explanations]({{ 'explanations-2d29c0/' | relative_url }}):** Some observers have suggested that wind turbulence, a small airborne object (such as gravel or stones) kicked up at high speed, or even mechanical failure could account for certain elements of the crash pattern. Scientific sceptics have pointed out that extraordinary interpretations are not warranted without ruling out more mundane possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
+* **Time anomalies lack independent verification:** The “14 minutes slow” clocks narrative is widely told, but it relies largely on Johnson’s account and has not been subjected to independent forensic reconstruction of mechanical failure or coincidence. Because no definitive chain of custody for the clocks or watch was maintained by independent analysts, the significance of that element is disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+* **No direct link to an object:** Importantly, while the car’s damage shows that *something* interacted with the vehicle, it does not establish that an “unidentified flying object” in the classic sense was present. There were no photographs, radar returns, or independent eyewitnesses to the alleged object itself. Thus the evidence is physical but not self‑interpreting: it documents an unexplained physical event without proving its cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Val Johnson incident</span><span class="citation-popover-snippet">Val Johnson incident</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3FrPXjsL5lE" title="The Val Johnson UFO Encounter: A Sheriff vs. the Unknown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3FrPXjsL5lE" target="_blank" rel="noopener noreferrer">The Val Johnson UFO Encounter: A Sheriff vs. the Unknown</a></p><p class="youtube-embed-meta">Channel: Time Capsule TV &middot; Views: 39 &middot; Uploaded: February 2025 &middot; Length: 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3FrPXjsL5lE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3FrPXjsL5lE">Open on YouTube</a></p></div></div></div>
 
@@ -292,208 +292,208 @@ Even the most striking physical markers cannot, on their own, confirm *what* cau
 
 The patrol car’s preserved damage does three things for understanding the Val Johnson encounter:
 
-1. **It anchors the story in physical reality.** Unlike many UFO reports limited to narrative, the patrol car provides tangible marks that can be observed, measured, and re‑examined decades later by curious citizens or researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
-2. **It invites technical questioning.** Eyewitness accounts are subjective; physical evidence opens the door for engineering analysis, even if that analysis yields no clear conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
-3. **It sets the bar for what remains unexplained.** Even after decades of discussion, the car’s damage has not been convincingly attributed to any well‑understood cause. That unresolved status makes the Val Johnson incident — and its physical evidence — one of Minnesota’s most discussed UFO‑related cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Val Johnson incident</span><span class="citation-popover-snippet">Val Johnson incident</span></span></span>
+1. **It anchors the story in physical reality.** Unlike many UFO reports limited to narrative, the patrol car provides tangible marks that can be observed, measured, and re‑examined decades later by curious citizens or researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+2. **It invites technical questioning.** Eyewitness accounts are subjective; physical evidence opens the door for engineering analysis, even if that analysis yields no clear conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+3. **It sets the bar for what remains unexplained.** Even after decades of discussion, the car’s damage has not been convincingly attributed to any well‑understood cause. That unresolved status makes the Val Johnson incident — and its physical evidence — one of Minnesota’s most discussed UFO‑related cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Val Johnson incident</span><span class="citation-popover-snippet">Val Johnson incident</span></span></span>
 
-However, it is crucial to emphasise that **physical evidence alone does not equate to proof of extraterrestrial technology or visitation**. The damage shows an anomaly in need of explanation; it does *not* solely or unequivocally validate any specific hypothesis about the source of the striking force or light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
+However, it is crucial to emphasise that **physical evidence alone does not equate to proof of extraterrestrial technology or visitation**. The damage shows an anomaly in need of explanation; it does *not* solely or unequivocally validate any specific hypothesis about the source of the striking force or light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">1979 minnesota ufo</span><span class="citation-popover-snippet">The 1979 Minnesota UFO Sighting &#124; HowStuffWorks...</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-3-dark.svg" | relative_url }}" alt="Car damage illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_val_johnson_case_25fe4f_patrol_car_damage_4faa3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summing Up
 
-The patrol car driven by Deputy Val Johnson stands as the most concrete artefact in this Minnesota UFO encounter — a vehicle apparently struck by something that left a cracked windscreen, bent antennas, broken lights and synchronized clock anomalies. That physical evidence elevates the case above many anecdotal reports, making it a persistent point of interest in UFO history. Yet, because the damage lacks a clear causal explanation and no independent detection of an unknown craft was made at the time, the car’s condition **proves only that an unusual physical interaction occurred**, not *what* caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
+The patrol car driven by Deputy Val Johnson stands as the most concrete artefact in this Minnesota UFO encounter — a vehicle apparently struck by something that left a cracked windscreen, bent antennas, broken lights and synchronized clock anomalies. That physical evidence elevates the case above many anecdotal reports, making it a persistent point of interest in UFO history. Yet, because the damage lacks a clear causal explanation and no independent detection of an unknown craft was made at the time, the car’s condition **proves only that an unusual physical interaction occurred**, not *what* caused it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America Car Smashed By UFO, Warren, Minnesota</span><span class="citation-popover-snippet">Roadside America Car Smashed By UFO, Warren, Minnesota</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/53HsXD02NOg" title="MNopedia: Val Johnson Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=53HsXD02NOg" target="_blank" rel="noopener noreferrer">MNopedia: Val Johnson Incident</a></p><p class="youtube-embed-meta">Channel: Minnesota Historical Society &middot; Views: 14.1K &middot; Uploaded: October 2021 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=53HsXD02NOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=53HsXD02NOg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What does the UFO car really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What does the UFO car really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses close encounters involving physical traces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses close encounters involving physical traces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard M. Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard M. Dolan</p>
         
-        <p class="fr-book-desc">Places physical-evidence reports in historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places physical-evidence reports in historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides comparison with another trace-evidence incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with another trace-evidence incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Relevant to the physical evidence and damage debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to the physical evidence and damage debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-does-the-ufo-car-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ The patrol car driven by Deputy Val Johnson stands as the most concrete artefact
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ The patrol car driven by Deputy Val Johnson stands as the most concrete artefact
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ The patrol car driven by Deputy Val Johnson stands as the most concrete artefact
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ The patrol car driven by Deputy Val Johnson stands as the most concrete artefact
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ The patrol car driven by Deputy Val Johnson stands as the most concrete artefact
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,135 +699,135 @@ The patrol car driven by Deputy Val Johnson stands as the most concrete artefact
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: 1979 minnesota ufo  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1979 Minnesota UFO Sighting | HowStuffWorks...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1979 Minnesota UFO Sighting | HowStuffWorks...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Val Johnson incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Val_Johnson_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Val_Johnson_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: saucerco.com  
    Title: the val johnson incident  
-   Link: <a href="https://saucerco.com/blogs/saucer-encounters/the-val-johnson-incident" target="_blank" rel="noopener noreferrer nofollow">https://saucerco.com/blogs/saucer-encounters/the-val-johnson-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SaucerAugust 27, 2021 — Aug 27, 2021 THE VAL JOHNSON INCIDENT by SAUCER YouTube video player In August of 1979, a Deputy driving on a lon...</p></details>
+   Link:<a href="https://saucerco.com/blogs/saucer-encounters/the-val-johnson-incident" target="_blank" rel="noopener noreferrer nofollow">https://saucerco.com/blogs/saucer-encounters/the-val-johnson-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SaucerAugust 27, 2021 — Aug 27, 2021 THE VAL JOHNSON INCIDENT by SAUCER YouTube video player In August of 1979, a Deputy driving on a lon...</p></details>
    Published: August 27, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Finding Minnesota: Deputy's UFO Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=bXhjkwhNsLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bXhjkwhNsLE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bXhjkwhNsLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bXhjkwhNsLE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson Incident...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Val Johnson Incident  
-   Link: <a href="https://www.youtube.com/watch?v=MmE9BuaNqrs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MmE9BuaNqrs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson UFO Encounter: A Sheriff vs. the Unknown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MmE9BuaNqrs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MmE9BuaNqrs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson UFO Encounter: A Sheriff vs. the Unknown...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: roadsideamerica.com  
    Title: Roadside America Car Smashed By UFO, Warren, Minnesota  
-   Link: <a href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/39582</a>  
+   Link:<a href="https://www.roadsideamerica.com/story/39582" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/39582</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.ph  
    Title: 1979 minnesota ufo  
-   Link: <a href="https://archive.ph/2025.12.04-060010/https%3A/melmagazine.com/en-us/story/1979-minnesota-ufo" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/2025.12.04-060010/https%3A/melmagazine.com/en-us/story/1979-minnesota-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Minnesota Cop Who Crashed His Patrol Car into a UFODecember 4, 2025 — Image: Article Thumbnail THE MINNESOTA COP WHO CRASHED HIS PATR...</p></details>
+   Link:<a href="https://archive.ph/2025.12.04-060010/https%3A/melmagazine.com/en-us/story/1979-minnesota-ufo" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/2025.12.04-060010/https%3A/melmagazine.com/en-us/story/1979-minnesota-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Minnesota Cop Who Crashed His Patrol Car into a UFODecember 4, 2025 — Image: Article Thumbnail THE MINNESOTA COP WHO CRASHED HIS PATR...</p></details>
    Published: December 4, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: alienufoblog.com  
    Title: We might never know the truth, but there are Aliens, Ba  
-   Link: <a href="https://alienufoblog.com/val-johnson-incident-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://alienufoblog.com/val-johnson-incident-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Val Johnson Incident | More Than Just A UFO Sighting - Alien UFO BlogJuly 7, 2024 — VAL JOHNSON INCIDENT | MORE THAN JUST A UFO SIGHTING...</p></details>
+   Link:<a href="https://alienufoblog.com/val-johnson-incident-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://alienufoblog.com/val-johnson-incident-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Val Johnson Incident | More Than Just A UFO Sighting - Alien UFO BlogJuly 7, 2024 — VAL JOHNSON INCIDENT | MORE THAN JUST A UFO SIGHTING...</p></details>
    Published: July 7, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: melmagazine.com  
    Title: 1979 minnesota ufo  
-   Link: <a href="https://melmagazine.com/en-us/story/1979-minnesota-ufo" target="_blank" rel="noopener noreferrer nofollow">https://melmagazine.com/en-us/story/1979-minnesota-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Minnesota Cop Who Crashed His Patrol Car into a UFOJuly 11, 2022 — True Crime Zaron Burnett III July 11, 2022 Image: Article Thumbnai...</p></details>
+   Link:<a href="https://melmagazine.com/en-us/story/1979-minnesota-ufo" target="_blank" rel="noopener noreferrer nofollow">https://melmagazine.com/en-us/story/1979-minnesota-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Minnesota Cop Who Crashed His Patrol Car into a UFOJuly 11, 2022 — True Crime Zaron Burnett III July 11, 2022 Image: Article Thumbnai...</p></details>
    Published: July 11, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufoac.com  
    Title: Val Johnson  
-   Link: <a href="https://ufoac.com/val-johnson-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/val-johnson-ufo-incident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incidentVAL JOHNSON - UFO INCIDENT Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrestrials * UFOs and Conspiracy Ne...</p></details>
+   Link:<a href="https://ufoac.com/val-johnson-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/val-johnson-ufo-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incidentVAL JOHNSON - UFO INCIDENT Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrestrials * UFOs and Conspiracy Ne...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: stronghold-nation.com  
    Title: While on what he thought was a routine patrol on the ni  
-   Link: <a href="https://www.stronghold-nation.com/history/myth/the-val-johnson-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-val-johnson-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson Encounter | UFO Case Studies | Stronghold NationTHE VAL JOHNSON ENCOUNTER * UFO Case Studies * 1 min BY CRUSADER1307 Val...</p></details>
+   Link:<a href="https://www.stronghold-nation.com/history/myth/the-val-johnson-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-val-johnson-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson Encounter | UFO Case Studies | Stronghold NationTHE VAL JOHNSON ENCOUNTER * UFO Case Studies * 1 min BY CRUSADER1307 Val...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blog.seniorennet.be  
-   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?ID=1613414" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?ID=1613414</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART, ARCHEOLOGIE, OUDHEIDKUNDE, SF-SNUFJES EN ANDERE ESOTERISCHE WETENSCHAPPEN - DE ALL...</p></details>
+   Link:<a href="https://blog.seniorennet.be/peter2011/archief.php?ID=1613414" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?ID=1613414</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART, ARCHEOLOGIE, OUDHEIDKUNDE, SF-SNUFJES EN ANDERE ESOTERISCHE WETENSCHAPPEN - DE ALL...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: (WCCO) -- Every now and then, someone calls 911 about mysterious obje  
-   Link: <a href="https://www.cbsnews.com/minnesota/news/finding-minnesota-deputys-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/finding-minnesota-deputys-ufo-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Minnesota: Deputy&#x27;s UFO Encounter - CBS MinnesotaNovember 1, 2015 — FINDING MINNESOTA: DEPUTY&#x27;S UFO ENCOUNTER November 1, 2015 /...</p></details>
+   Link:<a href="https://www.cbsnews.com/minnesota/news/finding-minnesota-deputys-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/finding-minnesota-deputys-ufo-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Minnesota: Deputy&#x27;s UFO Encounter - CBS MinnesotaNovember 1, 2015 — FINDING MINNESOTA: DEPUTY&#x27;S UFO ENCOUNTER November 1, 2015 /...</p></details>
    Published: November 1, 2015  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufodays.net  
    Title: officer val johnson not only vehicle to collide with ufo august 1979  
-   Link: <a href="https://ufodays.net/2019/09/02/officer-val-johnson-not-only-vehicle-to-collide-with-ufo-august-1979/" target="_blank" rel="noopener noreferrer nofollow">https://ufodays.net/2019/09/02/officer-val-johnson-not-only-vehicle-to-collide-with-ufo-august-1979/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Days and UFO StoriesSeptember 2, 2019 — OFFICER VAL JOHNSON NOT ONLY VEHICLE TO COLLIDE WITH UFO AUGUST 1979 Posted on September 2, 2...</p></details>
+   Link:<a href="https://ufodays.net/2019/09/02/officer-val-johnson-not-only-vehicle-to-collide-with-ufo-august-1979/" target="_blank" rel="noopener noreferrer nofollow">https://ufodays.net/2019/09/02/officer-val-johnson-not-only-vehicle-to-collide-with-ufo-august-1979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Days and UFO StoriesSeptember 2, 2019 — OFFICER VAL JOHNSON NOT ONLY VEHICLE TO COLLIDE WITH UFO AUGUST 1979 Posted on September 2, 2...</p></details>
    Published: august 1979  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uforeport.com  
    Title: val johnson incident 1979 minnesota ufo encounter  
-   Link: <a href="https://uforeport.com/val-johnson-incident-1979-minnesota-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://uforeport.com/val-johnson-incident-1979-minnesota-ufo-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson Incident: The Minnesota Encounter That Defied Explanation (1979) - UFO ReportMay 1, 2023 — THE VAL JOHNSON INCIDENT: THE...</p></details>
+   Link:<a href="https://uforeport.com/val-johnson-incident-1979-minnesota-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://uforeport.com/val-johnson-incident-1979-minnesota-ufo-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson Incident: The Minnesota Encounter That Defied Explanation (1979) - UFO ReportMay 1, 2023 — THE VAL JOHNSON INCIDENT: THE...</p></details>
    Published: May 1, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spookyvalley.com  
    Title: Val Johnson Patrol Car Incident | Spooky Valley  
-   Link: <a href="https://spookyvalley.com/events/1979-val-johnson-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/1979-val-johnson-minnesota</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 1979 — UFO VAL JOHNSON PATROL CAR INCIDENT Deputy Sheriff Val Johnson&#x27;s patrol car was struck by an unknown light, leaving him...</p></details>
+   Link:<a href="https://spookyvalley.com/events/1979-val-johnson-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/1979-val-johnson-minnesota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 1979 — UFO VAL JOHNSON PATROL CAR INCIDENT Deputy Sheriff Val Johnson&#x27;s patrol car was struck by an unknown light, leaving him...</p></details>
    Published: August 27, 1979  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oocities.org  
-   Link: <a href="https://www.oocities.org/capitolhill/senate/5082/windshield.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oocities.org/capitolhill/senate/5082/windshield.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEVERAL WITNESSES REPORTED SEEING THE DAMAGED WINDOW AT PARKLAND HOSPITAL...</p></details>
+   Link:<a href="https://www.oocities.org/capitolhill/senate/5082/windshield.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oocities.org/capitolhill/senate/5082/windshield.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEVERAL WITNESSES REPORTED SEEING THE DAMAGED WINDOW AT PARKLAND HOSPITAL...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufoinsight.com  
    Title: The Strange And Intriguing Val Johnson Case  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/val-johnson-case" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/val-johnson-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 2, 2019 — THE STRANGE AND INTRIGUING VAL JOHNSON CASE By Marcus Lowth Image: Published Date August 2, 2019 Image: Last...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/val-johnson-case" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/val-johnson-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 2, 2019 — THE STRANGE AND INTRIGUING VAL JOHNSON CASE By Marcus Lowth Image: Published Date August 2, 2019 Image: Last...</p></details>
    Published: August 2, 2019  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tvi.show  
    Title: the 1979 val johnson ufo encounter  
-   Link: <a href="https://www.tvi.show/skywatch-files/the-1979-val-johnson-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1979-val-johnson-ufo-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking Police Evidence &amp; Paranormal MysteryTHE 1979 VAL JOHNSON UFO ENCOUNTER 1 May Written By Guest User POLICE EVIDENCE AND PARANORMA...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/the-1979-val-johnson-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1979-val-johnson-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking Police Evidence &amp; Paranormal MysteryTHE 1979 VAL JOHNSON UFO ENCOUNTER 1 May Written By Guest User POLICE EVIDENCE AND PARANORMA...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: silverland.info  
    Title: L'incidente UFO di Val Johnson  
-   Link: <a href="https://www.silverland.info/documenti/l-incidente-ufo-di-val-johnson/" target="_blank" rel="noopener noreferrer nofollow">https://www.silverland.info/documenti/l-incidente-ufo-di-val-johnson/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Il mondo degli UFOL&#x27;INCIDENTE UFO DI VAL JOHNSON Image: La macchina del vice sceriffo Val JohnsonLa macchina del vice sceriffo Val Johnso...</p></details>
+   Link:<a href="https://www.silverland.info/documenti/l-incidente-ufo-di-val-johnson/" target="_blank" rel="noopener noreferrer nofollow">https://www.silverland.info/documenti/l-incidente-ufo-di-val-johnson/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Il mondo degli UFOL&#x27;INCIDENTE UFO DI VAL JOHNSON Image: La macchina del vice sceriffo Val JohnsonLa macchina del vice sceriffo Val Johnso...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/minnesotasheriff1979.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/minnesotasheriff1979.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sheriff Blinded by Light from UFO; Minnesota-1979, UFO Casebook FilesAugust 27, 1979 — SHERIFF BLINDED BY LIGHT FROM UFO; MINNESOTA-1979...</p></details>
+   Link:<a href="https://www.ufocasebook.com/minnesotasheriff1979.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/minnesotasheriff1979.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sheriff Blinded by Light from UFO; Minnesota-1979, UFO Casebook FilesAugust 27, 1979 — SHERIFF BLINDED BY LIGHT FROM UFO; MINNESOTA-1979...</p></details>
    Published: August 27, 1979

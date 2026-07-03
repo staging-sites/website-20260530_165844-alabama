@@ -250,7 +250,7 @@ image: /assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_sh
 
 ## Introduction
 
-One of the most difficult parts of the St. Clair Triangle case is deciding whether all the witnesses were actually describing the same thing. The incident is often remembered as a classic “black triangle” UFO over southern [Illinois]({{ 'illinois/' | relative_url }}), but the original reports were not fully consistent. Some witnesses described a rectangle. Others spoke of a narrow triangle or an arrowhead. A few accounts focused mainly on bright lights with little visible structure at all. Those differences matter because the credibility of the case depends partly on whether multiple observers independently tracked one large object across the Metro East region, or whether several unrelated aerial lights and aircraft were mentally combined into a single dramatic story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The St. Clair Triangle UFO7 Oct 2014 — It was big, taller in the middle, with lots of lights on it; white on the extremities and...</span></span></span>
+One of the most difficult parts of the St. Clair Triangle case is deciding whether all the witnesses were actually describing the same thing. The incident is often remembered as a classic “black triangle” UFO over southern [Illinois]({{ 'illinois/' | relative_url }}), but the original reports were not fully consistent. Some witnesses described a rectangle. Others spoke of a narrow triangle or an arrowhead. A few accounts focused mainly on bright lights with little visible structure at all. Those differences matter because the credibility of the case depends partly on whether multiple observers independently tracked one large object across the Metro East region, or whether several unrelated aerial lights and aircraft were mentally combined into a single dramatic story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The St. Clair Triangle UFO7 Oct 2014 — It was big, taller in the middle, with lots of lights on it; white on the extremities and...</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-1-dark.svg" | relative_url }}" alt="Shape problem illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The shape problem does not automatically disprove the sighting. Night-time observations are notoriously vulnerable to distortion. Distance, darkness, motion, viewing angle and scattered lights can all change how an object is interpreted. But the inconsistencies are significant enough that sceptics have repeatedly used them as evidence against the “single gigantic triangular craft” interpretation.
@@ -259,13 +259,13 @@ The shape problem does not automatically disprove the sighting. Night-time obser
 
 ## What each main witness said about the object's shape
 
-The first key witness, Highland resident Melvern Noll, did not initially describe a classic triangle at all. According to early reconstructions by investigator David Marler, Noll spoke of a large rectangular object resembling a two-storey building moving slowly overhead. He reportedly noticed illuminated sections that looked almost like windows, along with dim red lights underneath. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The St. Clair Triangle UFO7 Oct 2014 — It was big, taller in the middle, with lots of lights on it; white on the extremities and...</span></span></span>
+The first key witness, Highland resident Melvern Noll, did not initially describe a classic triangle at all. According to early reconstructions by investigator David Marler, Noll spoke of a large rectangular object resembling a two-storey building moving slowly overhead. He reportedly noticed illuminated sections that looked almost like windows, along with dim red lights underneath.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The St. Clair Triangle UFO7 Oct 2014 — It was big, taller in the middle, with lots of lights on it; white on the extremities and...</span></span></span>
 
-That description differs sharply from the later public image of the case. Once police officers became involved, the dominant narrative shifted towards a triangular or arrowhead-shaped craft. Officer Ed Barton and other officers in the Lebanon and Shiloh areas described bright white lights arranged in a formation that suggested a narrow triangle. Some later summaries used the term “arrowhead”, implying a pointed front with lights spread along the rear edges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A UFO sighting near Highland, Illinois, occurred in the early...This sighting was corroborated by a policeman from Shiloh, who d...</span></span></span>
+That description differs sharply from the later public image of the case. Once police officers became involved, the dominant narrative shifted towards a triangular or arrowhead-shaped craft. Officer Ed Barton and other officers in the Lebanon and Shiloh areas described bright white lights arranged in a formation that suggested a narrow triangle. Some later summaries used the term “arrowhead”, implying a pointed front with lights spread along the rear edges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A UFO sighting near Highland, Illinois, occurred in the early...This sighting was corroborated by a policeman from Shiloh, who d...</span></span></span>
 
-Even among the officers, however, there was no perfectly uniform description. Some accounts concentrated on the lights themselves rather than the body of the object. Others suggested an elongated shape rather than an equilateral triangle. The often-reproduced police Polaroid photograph did not settle the issue because it captured only blurred light traces rather than a clear outline. Debate over the image has continued for years, with believers arguing that it supports a structured craft and sceptics arguing that it merely records moving lights during a shaky long exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/tdc87r/the_st_clair_triangle_ufo_incident_of_2000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the st clair triangle ufo incident of 2000</span><span class="citation-popover-snippet">THE ST. CLAIR TRIANGLE UFO INCIDENT OF 2000March 13, 2022 — Analysis of some of the current UFO files · r/UFOs - Analysis of some o...</span><span class="citation-popover-meta">Published: March 13, 2022</span></span></span>
+Even among the officers, however, there was no perfectly uniform description. Some accounts concentrated on the lights themselves rather than the body of the object. Others suggested an elongated shape rather than an equilateral triangle. The often-reproduced police Polaroid photograph did not settle the issue because it captured only blurred light traces rather than a clear outline. Debate over the image has continued for years, with believers arguing that it supports a structured craft and sceptics arguing that it merely records moving lights during a shaky long exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/tdc87r/the_st_clair_triangle_ufo_incident_of_2000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the st clair triangle ufo incident of 2000</span><span class="citation-popover-snippet">THE ST. CLAIR TRIANGLE UFO INCIDENT OF 2000March 13, 2022 — Analysis of some of the current UFO files · r/UFOs - Analysis of some o...</span><span class="citation-popover-meta">Published: March 13, 2022</span></span></span>
 
-This is a recurring problem in “black triangle” UFO reports generally. Witnesses often infer a solid object from the arrangement of lights rather than clearly seeing a sharply defined craft. Researchers of triangular UFO reports have long noted that descriptions vary between V-shapes, boomerangs, narrow wedges and large dark rectangles depending on perspective and lighting conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">September 2, 2004 — Black triangles are UFOs reported as having a triangular shape and dark color, typically observed at night, described...</span><span class="citation-popover-meta">Published: September 2, 2004</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — Among the most commonly reported shapes were V-shaped...</span></span></span>
+This is a recurring problem in “black triangle” UFO reports generally. Witnesses often infer a solid object from the arrangement of lights rather than clearly seeing a sharply defined craft. Researchers of triangular UFO reports have long noted that descriptions vary between V-shapes, boomerangs, narrow wedges and large dark rectangles depending on perspective and lighting conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">September 2, 2004 — Black triangles are UFOs reported as having a triangular shape and dark color, typically observed at night, described...</span><span class="citation-popover-meta">Published: September 2, 2004</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — Among the most commonly reported shapes were V-shaped...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wkm3KxIyZDE" title="The longstanding mystery of BLACK TRIANGLE UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer">The longstanding mystery of BLACK TRIANGLE UFOs</a></p><p class="youtube-embed-meta">Channel: Sandboxx &middot; Views: 749.5K &middot; Uploaded: July 2023 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wkm3KxIyZDE">Open on YouTube</a></p></div></div></div>
 
@@ -289,7 +289,7 @@ Several specific conditions in the St. Clair sightings could have amplified this
 
 These factors do not mean the witnesses imagined the event. They do, however, make precise geometry difficult to trust. Even experienced observers can disagree about the shape of aircraft at night when only navigation lights are visible.
 
-The case also illustrates a broader issue in UFO history: many “triangles” may partly be constructions of perception. A witness sees separated lights first and infers a connecting dark mass afterward. The final remembered shape then becomes more definite during retelling. That process may help explain why the St. Clair accounts gradually converged into the simpler “massive black triangle” label despite earlier variation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">September 2, 2004 — Black triangles are UFOs reported as having a triangular shape and dark color, typically observed at night, described...</span><span class="citation-popover-meta">Published: September 2, 2004</span></span></span>
+The case also illustrates a broader issue in UFO history: many “triangles” may partly be constructions of perception. A witness sees separated lights first and infers a connecting dark mass afterward. The final remembered shape then becomes more definite during retelling. That process may help explain why the St. Clair accounts gradually converged into the simpler “massive black triangle” label despite earlier variation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">September 2, 2004 — Black triangles are UFOs reported as having a triangular shape and dark color, typically observed at night, described...</span><span class="citation-popover-meta">Published: September 2, 2004</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-2-dark.svg" | relative_url }}" alt="Shape problem illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Dupo report may not match the same object
@@ -324,194 +324,194 @@ That tension is part of why the St. Clair Triangle remains significant within Il
 <img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-3-dark.svg" | relative_url }}" alt="Shape problem illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6_conflicting_shape_re_008bc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was It Really One Triangular Craft?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was It Really One Triangular Craft?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
-        </h4>
-        <p class="fr-book-author">By David Marler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
+</h4>
+<p class="fr-book-author">By David Marler</p>
         
-        <p class="fr-book-desc">Directly addresses triangular craft reports and interpretation issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses triangular craft reports and interpretation issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses perception, error and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses perception, error and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating conflicting witness descriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating conflicting witness descriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison cases involving multiple witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison cases involving multiple witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signed Original &#x27;Bermuda Down&#x27; Framed Acrylic Painting U.F.O. Alien U.A.P."><img src="https://i.ebayimg.com/images/g/f40AAOSwg3JjeQWe/s-l225.jpg" alt="Listing image for Signed Original &#x27;Bermuda Down&#x27; Framed Acrylic Painting U.F.O. Alien U.A.P." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">Signed Original &#x27;Bermuda Down&#x27; Framed Acrylic Painting U.F.O. Alien U.A.P.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signed Original &#x27;Bermuda Down&#x27; Framed Acrylic Painting U.F.O. Alien U.A.P."><img src="https://i.ebayimg.com/images/g/f40AAOSwg3JjeQWe/s-l225.jpg" alt="Listing image for Signed Original &#x27;Bermuda Down&#x27; Framed Acrylic Painting U.F.O. Alien U.A.P." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">Signed Original &#x27;Bermuda Down&#x27; Framed Acrylic Painting U.F.O. Alien U.A.P.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Devil&#x27;s Triangle by Richard Winer 1974 Vintage Paperback, 2nd Printing, VG"><img src="https://i.ebayimg.com/images/g/XdwAAeSw6RVoGQxn/s-l225.jpg" alt="Listing image for The Devil&#x27;s Triangle by Richard Winer 1974 Vintage Paperback, 2nd Printing, VG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">The Devil&#x27;s Triangle by Richard Winer 1974 Vintage Paperback, 2nd Printing, VG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Devil&#x27;s Triangle by Richard Winer 1974 Vintage Paperback, 2nd Printing, VG"><img src="https://i.ebayimg.com/images/g/XdwAAeSw6RVoGQxn/s-l225.jpg" alt="Listing image for The Devil&#x27;s Triangle by Richard Winer 1974 Vintage Paperback, 2nd Printing, VG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">The Devil&#x27;s Triangle by Richard Winer 1974 Vintage Paperback, 2nd Printing, VG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Misfits Skull Logo Green Letters Vinyl Decal Sticker Bomb White Triangle In Logo"><img src="https://i.ebayimg.com/images/g/UtYAAOSwXvpmOrs~/s-l225.jpg" alt="Listing image for Misfits Skull Logo Green Letters Vinyl Decal Sticker Bomb White Triangle In Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">Misfits Skull Logo Green Letters Vinyl Decal Sticker Bomb White Triangle In Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Misfits Skull Logo Green Letters Vinyl Decal Sticker Bomb White Triangle In Logo"><img src="https://i.ebayimg.com/images/g/UtYAAOSwXvpmOrs~/s-l225.jpg" alt="Listing image for Misfits Skull Logo Green Letters Vinyl Decal Sticker Bomb White Triangle In Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">Misfits Skull Logo Green Letters Vinyl Decal Sticker Bomb White Triangle In Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, FORTEAN, PARANORMAL : Select titles, build a library; weird mystery strange"><img src="https://i.ebayimg.com/images/g/WeYAAOSwO5hoUtIY/s-l225.jpg" alt="Listing image for UFO, FORTEAN, PARANORMAL : Select titles, build a library; weird mystery strange" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">UFO, FORTEAN, PARANORMAL : Select titles, build a library; weird mystery strange</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, FORTEAN, PARANORMAL : Select titles, build a library; weird mystery strange"><img src="https://i.ebayimg.com/images/g/WeYAAOSwO5hoUtIY/s-l225.jpg" alt="Listing image for UFO, FORTEAN, PARANORMAL : Select titles, build a library; weird mystery strange" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">UFO, FORTEAN, PARANORMAL : Select titles, build a library; weird mystery strange</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo art">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-really-one-triangular-craft-triangle-ufo-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo art -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="was-it-really-one-triangular-craft-triangle-ufo-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ That tension is part of why the St. Clair Triangle remains significant within Il
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ That tension is part of why the St. Clair Triangle remains significant within Il
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ That tension is part of why the St. Clair Triangle remains significant within Il
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ That tension is part of why the St. Clair Triangle remains significant within Il
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ That tension is part of why the St. Clair Triangle remains significant within Il
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,109 +717,109 @@ That tension is part of why the St. Clair Triangle remains significant within Il
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/435</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The St. Clair Triangle UFO7 Oct 2014 — It was big, taller in the middle, with lots of lights on it; white on the extremities and...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/435</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The St. Clair Triangle UFO7 Oct 2014 — It was big, taller in the middle, with lots of lights on it; white on the extremities and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/black-triangle-ufos-facts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — Among the most commonly reported shapes were V-shaped...</p></details>
+   Link:<a href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/black-triangle-ufos-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — Among the most commonly reported shapes were V-shaped...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO sighting near Highland, Illinois, occurred in the early...This sighting was corroborated by a policeman from Shiloh, who d...</p></details>
+   Link:<a href="https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO sighting near Highland, Illinois, occurred in the early...This sighting was corroborated by a policeman from Shiloh, who d...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: the [st clair triangle](&#123;&#123; 'st-clair-triangle/' | relative_url &#125;&#125;) ufo incident of 2000  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/tdc87r/the_st_clair_triangle_ufo_incident_of_2000/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/tdc87r/the_st_clair_triangle_ufo_incident_of_2000/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ST. CLAIR TRIANGLE UFO INCIDENT OF 2000March 13, 2022 — Analysis of some of the current UFO files · r/UFOs - Analysis of some o...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/tdc87r/the_st_clair_triangle_ufo_incident_of_2000/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/tdc87r/the_st_clair_triangle_ufo_incident_of_2000/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ST. CLAIR TRIANGLE UFO INCIDENT OF 2000March 13, 2022 — Analysis of some of the current UFO files · r/UFOs - Analysis of some o...</p></details>
    Published: March 13, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2004 — Black triangles are UFOs reported as having a triangular shape and dark color, typically observed at night, described...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 2, 2004 — Black triangles are UFOs reported as having a triangular shape and dark color, typically observed at night, described...</p></details>
    Published: September 2, 2004  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Had small white flat rectangle lights on each corner, and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Had small white flat rectangle lights on each corner, and...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/o429sx/david_marler_has_17000_archived_triangle_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o429sx/david_marler_has_17000_archived_triangle_cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ones. And not saucers, only triangles. Some are enormous. X...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/o429sx/david_marler_has_17000_archived_triangle_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o429sx/david_marler_has_17000_archived_triangle_cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ones. And not saucers, only triangles. Some are enormous. X...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: But why? A new episode of #UFOWitness drops on discovery+  
-   Link: <a href="https://www.facebook.com/TravelChannel/posts/there-is-no-doubt-black-triangle-ufos-have-been-appearing-in-our-skies-with-incr/10160335410328851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelChannel/posts/there-is-no-doubt-black-triangle-ufos-have-been-appearing-in-our-skies-with-incr/10160335410328851/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There is no doubt, black triangle UFOs have been...There is no doubt, black triangle UFOs have been appearing in our skies with increasi...</p></details>
+   Link:<a href="https://www.facebook.com/TravelChannel/posts/there-is-no-doubt-black-triangle-ufos-have-been-appearing-in-our-skies-with-incr/10160335410328851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelChannel/posts/there-is-no-doubt-black-triangle-ufos-have-been-appearing-in-our-skies-with-incr/10160335410328851/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There is no doubt, black triangle UFOs have been...There is no doubt, black triangle UFOs have been appearing in our skies with increasi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: fbi documents released through the national archives detail a reported ufo sight  
-   Link: <a href="https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469292275240224/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469292275240224/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI documents released through the National Archives...2000) &quot;Illinois police officers track UFO near Scott AFB&quot; &quot;During my ten years of...</p></details>
+   Link:<a href="https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469292275240224/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469292275240224/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI documents released through the National Archives...2000) &quot;Illinois police officers track UFO near Scott AFB&quot; &quot;During my ten years of...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Triangular-UFOs-Mr-David-Marler/dp/1490465812" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Triangular-UFOs-Mr-David-Marler/dp/1490465812</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFOs: An Estimate of the SituationDavid Marler has provided a comprehensive analysis of “the triangles.” He has collected, col...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Triangular-UFOs-Mr-David-Marler/dp/1490465812" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Triangular-UFOs-Mr-David-Marler/dp/1490465812</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFOs: An Estimate of the SituationDavid Marler has provided a comprehensive analysis of “the triangles.” He has collected, col...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: levelup.gitconnected.com  
    Title: i used an llm to analyze 140 000 ufo reports the aliens are real 3d589ec4055d  
-   Link: <a href="https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d" target="_blank" rel="noopener noreferrer nofollow">https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens...4 Mar 2026 — What happens when you use AI to analyze 140000 UFO reports? A humorous data-driven dive into a world of alien...</p></details>
+   Link:<a href="https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d" target="_blank" rel="noopener noreferrer nofollow">https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens...4 Mar 2026 — What happens when you use AI to analyze 140000 UFO reports? A humorous data-driven dive into a world of alien...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His...Den of Geek UFO reporter Alejandro Rojas will live interview David Marler, a UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His...Den of Geek UFO reporter Alejandro Rojas will live interview David Marler, a UFO...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wkm3KxIyZDE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The longstanding mystery of BLACK TRIANGLE UFOsThe tr3b is a giant black aircraft that was built using reverse engineered alien technolog...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wkm3KxIyZDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The longstanding mystery of BLACK TRIANGLE UFOsThe tr3b is a giant black aircraft that was built using reverse engineered alien technolog...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: storage.googleapis.com  
    Title: Triangular UFOs The Ongoing Historical Examination  
-   Link: <a href="https://storage.googleapis.com/wzukusers/user-17890272/documents/87f71dbd71994701b1ca4161226c96ec/Triangular%20UFOs%20-%20The%20Ongoing%20Historical%20Examination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/wzukusers/user-17890272/documents/87f71dbd71994701b1ca4161226c96ec/Triangular%20UFOs%20-%20The%20Ongoing%20Historical%20Examination.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFOs – The Ongoing Historical ExaminationThe witness wrote the following account: “1970 in Baltimore County my wife and I saw...</p></details>
+   Link:<a href="https://storage.googleapis.com/wzukusers/user-17890272/documents/87f71dbd71994701b1ca4161226c96ec/Triangular%20UFOs%20-%20The%20Ongoing%20Historical%20Examination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/wzukusers/user-17890272/documents/87f71dbd71994701b1ca4161226c96ec/Triangular%20UFOs%20-%20The%20Ongoing%20Historical%20Examination.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFOs – The Ongoing Historical ExaminationThe witness wrote the following account: “1970 in Baltimore County my wife and I saw...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ar UFOs can be relied on, without question. A compelling read!Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ar UFOs can be relied on, without question. A compelling read!Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTJDdqVkoHR/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTJDdqVkoHR/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2000, when multiple witnesses reported a massive, silent...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTJDdqVkoHR/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTJDdqVkoHR/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2000, when multiple witnesses reported a massive, silent...</p></details>
    Published: January 5, 2000  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.ctfassets.net  
    Title: 24741 Properties of Shapes pack 3  
-   Link: <a href="https://assets.ctfassets.net/pc40tpn1u6ef/file-26625/3f95c35551dfb75bdc6b2480e4c7ce9d/24741-Properties_of_Shapes_pack_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.ctfassets.net/pc40tpn1u6ef/file-26625/3f95c35551dfb75bdc6b2480e4c7ce9d/24741-Properties_of_Shapes_pack_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Shapes Pack ThreeWha shapes do you get? Change the angle between the folds. Can you make a kite? an arrowhead kite? an isosceles trian...</p></details>
+   Link:<a href="https://assets.ctfassets.net/pc40tpn1u6ef/file-26625/3f95c35551dfb75bdc6b2480e4c7ce9d/24741-Properties_of_Shapes_pack_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.ctfassets.net/pc40tpn1u6ef/file-26625/3f95c35551dfb75bdc6b2480e4c7ce9d/24741-Properties_of_Shapes_pack_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Shapes Pack ThreeWha shapes do you get? Change the angle between the folds. Can you make a kite? an arrowhead kite? an isosceles trian...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BlDLDRT-whU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlDLDRT-whU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Police Confirmed UFO Sighting video provides a detailed look at the original accounts, highlighting the contradictions between initia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BlDLDRT-whU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlDLDRT-whU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Police Confirmed UFO Sighting video provides a detailed look at the original accounts, highlighting the contradictions between initia...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/ALETUA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ALETUA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFOs: An Estimate of the Situation by Dave...by JB Alexander · 2016 · Cited by 2 — Reports of UFOs range from little balls of...</p></details>
+   Link:<a href="https://philpapers.org/rec/ALETUA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ALETUA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular UFOs: An Estimate of the Situation by Dave...by JB Alexander · 2016 · Cited by 2 — Reports of UFOs range from little balls of...</p></details>

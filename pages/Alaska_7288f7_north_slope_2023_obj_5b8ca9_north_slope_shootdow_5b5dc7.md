@@ -250,35 +250,35 @@ image: /assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shoo
 
 ## Introduction
 
-On 10 February 2023, the United States military shot down an unidentified object flying over or near Alaska’s **North Slope**, drawing international attention because officials could not immediately identify its origin or purpose. The action was justified not as an assertion that the object was hostile, but because it was **in a part of the sky used by civilian aircraft and therefore judged a potential hazard**. This decision marks an important moment in Alaska’s aviation and defence history: it illustrates how unidentified aerial incidents are handled when they intersect with national airspace safety and military command decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
+On 10 February 2023, the United States military shot down an unidentified object flying over or near Alaska’s **North Slope**, drawing international attention because officials could not immediately identify its origin or purpose. The action was justified not as an assertion that the object was hostile, but because it was **in a part of the sky used by civilian aircraft and therefore judged a potential hazard**. This decision marks an important moment in Alaska’s aviation and defence history: it illustrates how unidentified aerial incidents are handled when they intersect with national airspace safety and military command decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-1-dark.svg" | relative_url }}" alt="Shootdown illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 40,000‑foot airspace risk
 
-Officials repeatedly emphasised that the object’s **altitude was the primary reason for shooting it down**. At about **40,000 feet (≈ 12,000 metres)**, the object was flying well within the **flight levels used by commercial airliners and private jets**. In such airspace, unidentified objects can pose a *“reasonable threat to the safety of civilian flight”*, as the National Security Council spokesperson put it, because aircraft at those heights may not be able to manoeuvre quickly to avoid an unknown contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUnidentified object shot down over Alaska by US military, White House says &#124; US military &#124; The GuardianFebruary 10, 2023...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span>
+Officials repeatedly emphasised that the object’s **altitude was the primary reason for shooting it down**. At about **40,000 feet (≈ 12,000 metres)**, the object was flying well within the **flight levels used by commercial airliners and private jets**. In such airspace, unidentified objects can pose a *“reasonable threat to the safety of civilian flight”*, as the National Security Council spokesperson put it, because aircraft at those heights may not be able to manoeuvre quickly to avoid an unknown contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUnidentified object shot down over Alaska by US military, White House says &#124; US military &#124; The GuardianFebruary 10, 2023...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span>
 
-Unlike the much higher altitude of the Chinese surveillance balloon shot down days earlier (which flew near 60,000 feet), this object’s **height overlapped with standard airline cruising levels**. At such altitudes, an errant object — balloon, drone, or other craft — increases the risk of mid‑air collision, which can be catastrophic. That aviation safety concern was repeatedly foregrounded by officials as the rationale for action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUnidentified object shot down over Alaska by US military, White House says &#124; US military &#124; The GuardianFebruary 10, 2023...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span>
+Unlike the much higher altitude of the Chinese surveillance balloon shot down days earlier (which flew near 60,000 feet), this object’s **height overlapped with standard airline cruising levels**. At such altitudes, an errant object — balloon, drone, or other craft — increases the risk of mid‑air collision, which can be catastrophic. That aviation safety concern was repeatedly foregrounded by officials as the rationale for action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUnidentified object shot down over Alaska by US military, White House says &#124; US military &#124; The GuardianFebruary 10, 2023...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p5gpVHfqARk" title="Unidentified object near Alaska shot down by U.S. fighter pilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p5gpVHfqARk" target="_blank" rel="noopener noreferrer">Unidentified object near Alaska shot down by U.S. fighter pilot</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 1.2M &middot; Uploaded: February 2023 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p5gpVHfqARk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p5gpVHfqARk">Open on YouTube</a></p></div></div></div>
 
 ## From radar contact to presidential order
 
-NORAD (North American Aerospace Defense Command) **detected the object on radar on the evening of 9 February**, tracking it as it moved over Alaska’s northern skies. Aircraft were scrambled to investigate, and pilots reportedly determined the object **was unmanned**. They performed inspections but could not identify its purpose or capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
+NORAD (North American Aerospace Defense Command) **detected the object on radar on the evening of 9 February**, tracking it as it moved over Alaska’s northern skies. Aircraft were scrambled to investigate, and pilots reportedly determined the object **was unmanned**. They performed inspections but could not identify its purpose or capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
 
-Following this interception, **President Joe Biden authorised the shootdown** on the recommendation of the Pentagon. A U.S. Air Force F‑22 Raptor fighter — operating from Joint Base [Elmendorf]({{ 'elmendorf/' | relative_url }})‑Richardson in Alaska — fired an **AIM‑9X Sidewinder missile**, bringing the object down into the Beaufort Sea. Officials described the object as roughly *“the size of a small car,”* slightly smaller and very different in scale from the Chinese balloon shot days earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
+Following this interception, **President Joe Biden authorised the shootdown** on the recommendation of the Pentagon. A U.S. Air Force F‑22 Raptor fighter — operating from Joint Base [Elmendorf]({{ 'elmendorf/' | relative_url }})‑Richardson in Alaska — fired an **AIM‑9X Sidewinder missile**, bringing the object down into the Beaufort Sea. Officials described the object as roughly *“the size of a small car,”* slightly smaller and very different in scale from the Chinese balloon shot days earlier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
 
-The emphasis in official briefings was on **caution and uncertainty**: spokespeople said they did not know whether the object was “state‑owned, corporate‑owned, privately owned, or something else,” so the designation *“object”* was used rather than assuming any specific type of craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The emphasis in official briefings was on **caution and uncertainty**: spokespeople said they did not know whether the object was “state‑owned, corporate‑owned, privately owned, or something else,” so the designation *“object”* was used rather than assuming any specific type of craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-2-dark.svg" | relative_url }}" alt="Shootdown illustration 2" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What officials did and did not claim
 
 While the U.S. government stated clearly *why* the object was shot down, it was careful **not to claim what it was for**. Pentagon and White House officials repeatedly noted that:
 
-* They could not confirm the object’s origin, mission, or ownership at the time it was struck. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* There was no public evidence it was engaged in surveillance or espionage when downed; the decision was **based on risk assessment, not attribution**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wlrn.org/national-politics/national-politics/2023-02-10/the-u-s-shot-down-an-object-over-alaska-the-government-doesnt-know-yet-what-it-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlrn.org">[WLRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlrn.org</span><span class="citation-popover-snippet">The U.S. shot down an object over Alaska. The government doesn&#x27;t know yet what it was &#124; WLRNFebruary 10, 2023...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span>
-* It was judged unmanned and thus far less threatening (in terms of human safety) than a crewed aircraft, but still a navigational hazard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
+* They could not confirm the object’s origin, mission, or ownership at the time it was struck.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* There was no public evidence it was engaged in surveillance or espionage when downed; the decision was **based on risk assessment, not attribution**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wlrn.org/national-politics/national-politics/2023-02-10/the-u-s-shot-down-an-object-over-alaska-the-government-doesnt-know-yet-what-it-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlrn.org">[WLRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlrn.org</span><span class="citation-popover-snippet">The U.S. shot down an object over Alaska. The government doesn&#x27;t know yet what it was &#124; WLRNFebruary 10, 2023...</span><span class="citation-popover-meta">Published: February 10, 2023</span></span></span>
+* It was judged unmanned and thus far less threatening (in terms of human safety) than a crewed aircraft, but still a navigational hazard.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Alaska high altitude object</span><span class="citation-popover-snippet">2023 Alaska high altitude object</span></span></span>
 
-By publicly linking the shootdown to **airspace safety**, rather than to hostile intent, officials maintained that the decision was pragmatic: remove an **unknown object from a flight corridor** where normal aviation occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adn.com/nation-world/2023/02/10/us-shoots-down-object-posing-reasonable-threat-off-alaska-coastline-white-house-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adn.com">[Anchorage Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adn.com</span><span class="citation-popover-snippet">Anchorage Daily NewsU.S. shoots down object posing ‘reasonable threat’ to aviation off Alaska’s Arctic coast, White House says - Anchorag...</span></span></span>
+By publicly linking the shootdown to **airspace safety**, rather than to hostile intent, officials maintained that the decision was pragmatic: remove an **unknown object from a flight corridor** where normal aviation occurs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adn.com/nation-world/2023/02/10/us-shoots-down-object-posing-reasonable-threat-off-alaska-coastline-white-house-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adn.com">[Anchorage Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adn.com</span><span class="citation-popover-snippet">Anchorage Daily NewsU.S. shoots down object posing ‘reasonable threat’ to aviation off Alaska’s Arctic coast, White House says - Anchorag...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnr35B-16n8" title="US reveals what &#x27;objects&#x27; shot down over Alaska, Canada believed to be" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnr35B-16n8" target="_blank" rel="noopener noreferrer">US reveals what &#x27;objects&#x27; shot down over Alaska, Canada believed to be</a></p><p class="youtube-embed-meta">Channel: FOX 32 Chicago &middot; Views: 14.9K &middot; Uploaded: February 2023 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnr35B-16n8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnr35B-16n8">Open on YouTube</a></p></div></div></div>
 
@@ -286,199 +286,199 @@ By publicly linking the shootdown to **airspace safety**, rather than to hostile
 
 ## Summary
 
-The North Slope object was shot down primarily because it was detected flying at around 40,000 feet — a height where civilian aircraft operate — making it a **potential hazard to aviation** rather than because there was clear evidence it was spying, testing weapons, or engaged in some other hostile activity. The decision was ordered by the U.S. president on the recommendation of military authorities and framed in official statements as an **abundance of caution** in the interest of air‑traffic safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The North Slope object was shot down primarily because it was detected flying at around 40,000 feet — a height where civilian aircraft operate — making it a **potential hazard to aviation** rather than because there was clear evidence it was spying, testing weapons, or engaged in some other hostile activity. The decision was ordered by the U.S. president on the recommendation of military authorities and framed in official statements as an **abundance of caution** in the interest of air‑traffic safety.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-3-dark.svg" | relative_url }}" alt="Shootdown illustration 3" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_north_slope_2023_obj_5b8ca9_north_slope_shootdow_5b5dc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why was the Alaska object shot down?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why was the Alaska object shot down?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Discusses military decision-making and unidentified aerial threats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses military decision-making and unidentified aerial threats.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers official responses to unexplained aerial incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers official responses to unexplained aerial incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong emphasis on military and aviation testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on military and aviation testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides investigative context for unidentified aircraft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative context for unidentified aircraft reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="https://i.ebayimg.com/images/g/qjAAAOSwmXpoTA~u/s-l225.jpg" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="https://i.ebayimg.com/images/g/qjAAAOSwmXpoTA~u/s-l225.jpg" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand"><img src="https://i.ebayimg.com/images/g/nAsAAeSwEY9o1RrQ/s-l225.jpg" alt="Listing image for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand"><img src="https://i.ebayimg.com/images/g/nAsAAeSwEY9o1RrQ/s-l225.jpg" alt="Listing image for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model"><img src="https://i.ebayimg.com/images/g/phsAAeSwvlJpnuVO/s-l225.jpg" alt="Listing image for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model"><img src="https://i.ebayimg.com/images/g/phsAAeSwvlJpnuVO/s-l225.jpg" alt="Listing image for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="https://i.ebayimg.com/images/g/EesAAeSwbHFqCFeB/s-l225.jpg" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="https://i.ebayimg.com/images/g/EesAAeSwbHFqCFeB/s-l225.jpg" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-the-alaska-object-shot-down-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-was-the-alaska-object-shot-down-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -494,7 +494,7 @@ The North Slope object was shot down primarily because it was detected flying at
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -514,7 +514,7 @@ The North Slope object was shot down primarily because it was detected flying at
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -546,7 +546,7 @@ The North Slope object was shot down primarily because it was detected flying at
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -598,7 +598,7 @@ The North Slope object was shot down primarily because it was detected flying at
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -643,7 +643,7 @@ The North Slope object was shot down primarily because it was detected flying at
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -684,111 +684,111 @@ The North Slope object was shot down primarily because it was detected flying at
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2023 Alaska high altitude object  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wlrn.org  
-   Link: <a href="https://www.wlrn.org/national-politics/national-politics/2023-02-10/the-u-s-shot-down-an-object-over-alaska-the-government-doesnt-know-yet-what-it-was" target="_blank" rel="noopener noreferrer nofollow">https://www.wlrn.org/national-politics/national-politics/2023-02-10/the-u-s-shot-down-an-object-over-alaska-the-government-doesnt-know-yet-what-it-was</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. shot down an object over Alaska. The government doesn&#x27;t know yet what it was | WLRNFebruary 10, 2023...</p></details>
+   Link:<a href="https://www.wlrn.org/national-politics/national-politics/2023-02-10/the-u-s-shot-down-an-object-over-alaska-the-government-doesnt-know-yet-what-it-was" target="_blank" rel="noopener noreferrer nofollow">https://www.wlrn.org/national-politics/national-politics/2023-02-10/the-u-s-shot-down-an-object-over-alaska-the-government-doesnt-know-yet-what-it-was</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. shot down an object over Alaska. The government doesn&#x27;t know yet what it was | WLRNFebruary 10, 2023...</p></details>
    Published: February 10, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: military.com  
-   Link: <a href="https://www.military.com/daily-news/2023/02/10/military-jets-shoot-down-object-over-northern-alaska-just-days-after-china-spy-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2023/02/10/military-jets-shoot-down-object-over-northern-alaska-just-days-after-china-spy-balloon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force F-22 Raptor does a low fly-by before landing at Joint Base Elmendorf-Richardson, Alas...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2023/02/10/military-jets-shoot-down-object-over-northern-alaska-just-days-after-china-spy-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2023/02/10/military-jets-shoot-down-object-over-northern-alaska-just-days-after-china-spy-balloon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force F-22 Raptor does a low fly-by before landing at Joint Base Elmendorf-Richardson, Alas...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska</a>  
+   Link:<a href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUnidentified object shot down over Alaska by US military, White House says | US military | The GuardianFebruary 10, 2023...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUnidentified object shot down over Alaska by US military, White House says | US military | The GuardianFebruary 10, 2023...</p></details>
    Published: February 10, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: adn.com  
-   Link: <a href="https://www.adn.com/nation-world/2023/02/10/us-shoots-down-object-posing-reasonable-threat-off-alaska-coastline-white-house-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.adn.com/nation-world/2023/02/10/us-shoots-down-object-posing-reasonable-threat-off-alaska-coastline-white-house-says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anchorage Daily NewsU.S. shoots down object posing ‘reasonable threat’ to aviation off Alaska’s Arctic coast, White House says - Anchorag...</p></details>
+   Link:<a href="https://www.adn.com/nation-world/2023/02/10/us-shoots-down-object-posing-reasonable-threat-off-alaska-coastline-white-house-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.adn.com/nation-world/2023/02/10/us-shoots-down-object-posing-reasonable-threat-off-alaska-coastline-white-house-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anchorage Daily NewsU.S. shoots down object posing ‘reasonable threat’ to aviation off Alaska’s Arctic coast, White House says - Anchorag...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2023/feb/11/alaska-mystery-flying-object-us-chinese-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/11/alaska-mystery-flying-object-us-chinese-balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A similar jet brought down the mystery flying object on Friday off the coast of Alaska. [Input] A US air force F-22 fighter jet. A simila...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/feb/11/alaska-mystery-flying-object-us-chinese-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/11/alaska-mystery-flying-object-us-chinese-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A similar jet brought down the mystery flying object on Friday off the coast of Alaska. [Input] A US air force F-22 fighter jet. A simila...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: washingtonpost.com  
    Title: ‘High-altitude object’ shot down over Alaska, U.S  
-   Link: <a href="https://www.washingtonpost.com/politics/2023/02/10/military-shootdown-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2023/02/10/military-shootdown-alaska/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>says - The Washington PostFebruary 10, 2023 — U.S. JET SHOOTS DOWN ‘HIGH-ALTITUDE OBJECT’ OVER ALASKA Officials have not identified the c...</p></details>
+   Link:<a href="https://www.washingtonpost.com/politics/2023/02/10/military-shootdown-alaska/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2023/02/10/military-shootdown-alaska/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>says - The Washington PostFebruary 10, 2023 — U.S. JET SHOOTS DOWN ‘HIGH-ALTITUDE OBJECT’ OVER ALASKA Officials have not identified the c...</p></details>
    Published: February 10, 2023  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ktoo.org  
-   Link: <a href="https://www.ktoo.org/2023/02/10/after-china-balloon-scare-air-force-shoots-down-object-flying-over-alaskas-north-slope/" target="_blank" rel="noopener noreferrer nofollow">https://www.ktoo.org/2023/02/10/after-china-balloon-scare-air-force-shoots-down-object-flying-over-alaskas-north-slope/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>After China balloon scare, Air Force shoots down object flying over Alaska’s North SlopeFebruary 10, 2023 — AFTER CHINA BALLOON SCARE, AI...</p></details>
+   Link:<a href="https://www.ktoo.org/2023/02/10/after-china-balloon-scare-air-force-shoots-down-object-flying-over-alaskas-north-slope/" target="_blank" rel="noopener noreferrer nofollow">https://www.ktoo.org/2023/02/10/after-china-balloon-scare-air-force-shoots-down-object-flying-over-alaskas-north-slope/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After China balloon scare, Air Force shoots down object flying over Alaska’s North SlopeFebruary 10, 2023 — AFTER CHINA BALLOON SCARE, AI...</p></details>
    Published: February 10, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: globalsecurity.org  
    Title: fighter jet shot down a mysterious, high-altitude object that traveled into Ame  
-   Link: <a href="https://www.globalsecurity.org/military/library/news/2023/02/mil-230210-voa01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/library/news/2023/02/mil-230210-voa01.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Shoots Down Mysterious High-Altitude Object Over AlaskaFebruary 10, 2023 — US SHOOTS DOWN MYSTERIOUS HIGH-ALTITUDE OBJECT OVER ALASKA...</p></details>
+   Link:<a href="https://www.globalsecurity.org/military/library/news/2023/02/mil-230210-voa01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/library/news/2023/02/mil-230210-voa01.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Shoots Down Mysterious High-Altitude Object Over AlaskaFebruary 10, 2023 — US SHOOTS DOWN MYSTERIOUS HIGH-ALTITUDE OBJECT OVER ALASKA...</p></details>
    Published: February 10, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pbs.org  
    Title: U.S. shoots down object that crossed into airspace near Alaska | PBS News  
-   Link: <a href="https://www.pbs.org/newshour/show/u-s-shoots-down-object-that-crossed-into-airspace-near-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/show/u-s-shoots-down-object-that-crossed-into-airspace-near-alaska</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shoots down object that crossed into airspace near Alaska | PBS NewsFebruary 10, 2023 — U.S. SHOOTS DOWN OBJECT THAT CROSSED INTO AIRSPAC...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/show/u-s-shoots-down-object-that-crossed-into-airspace-near-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/show/u-s-shoots-down-object-that-crossed-into-airspace-near-alaska</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shoots down object that crossed into airspace near Alaska | PBS NewsFebruary 10, 2023 — U.S. SHOOTS DOWN OBJECT THAT CROSSED INTO AIRSPAC...</p></details>
    Published: February 10, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pbs.org  
    Title: u s military shoots down unknown object flying off the coast of alaska  
-   Link: <a href="https://www.pbs.org/newshour/world/u-s-military-shoots-down-unknown-object-flying-off-the-coast-of-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/world/u-s-military-shoots-down-unknown-object-flying-off-the-coast-of-alaska</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military shoots down unknown object flying off the coast of Alaska | PBS NewsFebruary 10, 2023 — By — Zeke Miller, Associated Press Zeke...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/world/u-s-military-shoots-down-unknown-object-flying-off-the-coast-of-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/world/u-s-military-shoots-down-unknown-object-flying-off-the-coast-of-alaska</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military shoots down unknown object flying off the coast of Alaska | PBS NewsFebruary 10, 2023 — By — Zeke Miller, Associated Press Zeke...</p></details>
    Published: February 10, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2023/02/10/pentagon-object-us-airspace-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/02/10/pentagon-object-us-airspace-alaska</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon shoots down &quot;high-altitude&quot; object over AlaskaFebruary 11, 2023 — PENTAGON SHOOTS DOWN &quot;HIGH-ALTITUDE&quot; OBJECT OVER ALASKA Image...</p></details>
+   Link:<a href="https://www.axios.com/2023/02/10/pentagon-object-us-airspace-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/02/10/pentagon-object-us-airspace-alaska</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon shoots down &quot;high-altitude&quot; object over AlaskaFebruary 11, 2023 — PENTAGON SHOOTS DOWN &quot;HIGH-ALTITUDE&quot; OBJECT OVER ALASKA Image...</p></details>
    Published: February 11, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forbes.com  
    Title: us shoots down object over alaska that posed threat pentagon says  
-   Link: <a href="https://www.forbes.com/sites/nicholasreimann/2023/02/10/us-shoots-down-object-over-alaska-that-posed-threat-pentagon-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/nicholasreimann/2023/02/10/us-shoots-down-object-over-alaska-that-posed-threat-pentagon-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shoots Down Object Over Alaska That Posed ‘Threat,’ Pentagon SaysFebruary 10, 2023 — U.S. SHOOTS DOWN OBJECT OVER ALASKA THAT POSED ‘THRE...</p></details>
+   Link:<a href="https://www.forbes.com/sites/nicholasreimann/2023/02/10/us-shoots-down-object-over-alaska-that-posed-threat-pentagon-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/nicholasreimann/2023/02/10/us-shoots-down-object-over-alaska-that-posed-threat-pentagon-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shoots Down Object Over Alaska That Posed ‘Threat,’ Pentagon SaysFebruary 10, 2023 — U.S. SHOOTS DOWN OBJECT OVER ALASKA THAT POSED ‘THRE...</p></details>
    Published: February 10, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: latimes.com  
    Title: pentagon shoots down unknown object flying in u s airspace  
-   Link: <a href="https://www.latimes.com/politics/story/2023-02-10/pentagon-shoots-down-unknown-object-flying-in-u-s-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/politics/story/2023-02-10/pentagon-shoots-down-unknown-object-flying-in-u-s-airspace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>downs unidentified object flying near Alaska&#x27;s coast - Los Angeles TimesFebruary 10, 2023 — U.S. SHOOTS DOWN OBJECT OF UNKNOWN ORIGIN FLY...</p></details>
+   Link:<a href="https://www.latimes.com/politics/story/2023-02-10/pentagon-shoots-down-unknown-object-flying-in-u-s-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/politics/story/2023-02-10/pentagon-shoots-down-unknown-object-flying-in-u-s-airspace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>downs unidentified object flying near Alaska&#x27;s coast - Los Angeles TimesFebruary 10, 2023 — U.S. SHOOTS DOWN OBJECT OF UNKNOWN ORIGIN FLY...</p></details>
    Published: February 10, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: US reveals what 'objects' shot down over Alaska, Canada believed to be  
-   Link: <a href="https://www.youtube.com/watch?v=rnr35B-16n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnr35B-16n8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon discusses object shot down over Alaska, recovered Chinese balloon debris, more | full video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rnr35B-16n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnr35B-16n8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon discusses object shot down over Alaska, recovered Chinese balloon debris, more | full video...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pU6FSXegeMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pU6FSXegeMw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biden orders &quot;high-altitude object&quot; shot down over Alaskan airspace...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pU6FSXegeMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pU6FSXegeMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biden orders &quot;high-altitude object&quot; shot down over Alaskan airspace...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Unidentified object near Alaska shot down by U.S. fighter pilot  
-   Link: <a href="https://www.youtube.com/watch?v=p5gpVHfqARk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p5gpVHfqARk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US reveals what &#x27;objects&#x27; shot down over Alaska, Canada believed to be...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=p5gpVHfqARk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p5gpVHfqARk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US reveals what &#x27;objects&#x27; shot down over Alaska, Canada believed to be...</p></details>

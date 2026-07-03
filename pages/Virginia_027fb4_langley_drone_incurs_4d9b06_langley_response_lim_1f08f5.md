@@ -250,7 +250,7 @@ image: /assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_respon
 
 ## Introduction
 
-The Langley drone incursions exposed a problem that many members of the public found surprising: a major American military base cannot automatically shoot down unidentified aircraft simply because they appear overhead. When unauthorised drones repeatedly entered restricted airspace around Joint Base Langley-Eustis in December 2023, military commanders faced a mix of aviation-safety rules, federal law, overlapping agency responsibilities and practical technical limits. The result was a response that looked cautious from the outside but reflected the realities of operating in one of the busiest and most densely connected airspaces on the US East Coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+The Langley drone incursions exposed a problem that many members of the public found surprising: a major American military base cannot automatically shoot down unidentified aircraft simply because they appear overhead. When unauthorised drones repeatedly entered restricted airspace around Joint Base Langley-Eustis in December 2023, military commanders faced a mix of aviation-safety rules, federal law, overlapping agency responsibilities and practical technical limits. The result was a response that looked cautious from the outside but reflected the realities of operating in one of the busiest and most densely connected airspaces on the US East Coast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
 <img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-1-dark.svg" | relative_url }}" alt="Response Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within Virginia’s modern UFO and unidentified-object history, the Langley case became important partly because it highlighted how difficult it can be to deal with objects that are clearly present yet not fully identified. The story was not only about what the drones were. It was also about what authorities were legally and safely allowed to do once the drones appeared.
@@ -259,9 +259,9 @@ Within Virginia’s modern UFO and unidentified-object history, the Langley case
 
 One reason Langley could not simply respond with force was geography. The base sits inside the Hampton Roads region, an area crowded with military installations, civilian airports, commercial shipping routes and populated communities.
 
-Even if an unidentified drone appears suspicious, destroying it above an urban coastal area creates its own hazards. Falling debris could injure people or damage property. More importantly, some counter-drone techniques can interfere with aircraft navigation, communications or other radio-frequency systems. Officials and reporting on the Langley incidents repeatedly pointed to concerns that aggressive electronic countermeasures could affect nearby civilian aviation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
+Even if an unidentified drone appears suspicious, destroying it above an urban coastal area creates its own hazards. Falling debris could injure people or damage property. More importantly, some counter-drone techniques can interfere with aircraft navigation, communications or other radio-frequency systems. Officials and reporting on the Langley incidents repeatedly pointed to concerns that aggressive electronic countermeasures could affect nearby civilian aviation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
 
-The timing also mattered. The incursions occurred during December, when air traffic along the East Coast increases during the holiday travel season. Reporting based on official discussions stated that Federal Aviation Administration concerns included the possibility that broad jamming measures could interfere with civilian aircraft operating near the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
+The timing also mattered. The incursions occurred during December, when air traffic along the East Coast increases during the holiday travel season. Reporting based on official discussions stated that Federal Aviation Administration concerns included the possibility that broad jamming measures could interfere with civilian aircraft operating near the region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
 
 This creates a dilemma that is often misunderstood in public debate:
 
@@ -274,7 +274,7 @@ This creates a dilemma that is often misunderstood in public debate:
 
 </div>
 
-The Langley incidents demonstrated that a drone intrusion is not automatically treated like an incoming missile or hostile aircraft. Officials said the drones did not appear to show hostile intent, even though they remained a security concern. That distinction mattered because many emergency authorities depend on demonstrating an immediate threat rather than merely suspicious behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+The Langley incidents demonstrated that a drone intrusion is not automatically treated like an incoming missile or hostile aircraft. Officials said the drones did not appear to show hostile intent, even though they remained a security concern. That distinction mattered because many emergency authorities depend on demonstrating an immediate threat rather than merely suspicious behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LQe1LxRvdnA" title="Pentagon confirms unidentified drones flew over Langley Air Force Base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LQe1LxRvdnA" target="_blank" rel="noopener noreferrer">Pentagon confirms unidentified drones flew over Langley Air Force Base</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 47.8K &middot; Uploaded: October 2024 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LQe1LxRvdnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LQe1LxRvdnA">Open on YouTube</a></p></div></div></div>
 
@@ -282,20 +282,20 @@ The Langley incidents demonstrated that a drone intrusion is not automatically t
 
 The Langley response also revealed how fragmented domestic counter-drone authority can be inside the United States.
 
-Since 2017, the Defence Department has possessed limited counter-unmanned aircraft authorities under Section 130i of Title 10 of the US Code. Those authorities allow military personnel, under certain circumstances, to detect, monitor, disrupt or even destroy threatening drones. However, the law does not create an unrestricted licence for military commanders to use those powers whenever an unidentified drone appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/uscode/text/10/130i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute10 U.S</span><span class="citation-popover-snippet">Code § 130i - Protection of certain facilities and assets...informing appropriate communication mechanisms between military installation...</span></span></span>
+Since 2017, the Defence Department has possessed limited counter-unmanned aircraft authorities under Section 130i of Title 10 of the US Code. Those authorities allow military personnel, under certain circumstances, to detect, monitor, disrupt or even destroy threatening drones. However, the law does not create an unrestricted licence for military commanders to use those powers whenever an unidentified drone appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/uscode/text/10/130i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute10 U.S</span><span class="citation-popover-snippet">Code § 130i - Protection of certain facilities and assets...informing appropriate communication mechanisms between military installation...</span></span></span>
 
-The statute specifically requires coordination with transportation and aviation authorities when counter-drone actions could affect air safety, civilian aviation operations or airspace use. In practice, that means the Defence Department, Federal Aviation Administration and other agencies may all have roles in determining what can be done and when. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span>
+The statute specifically requires coordination with transportation and aviation authorities when counter-drone actions could affect air safety, civilian aviation operations or airspace use. In practice, that means the Defence Department, Federal Aviation Administration and other agencies may all have roles in determining what can be done and when.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span>
 
 The Langley case therefore sat at the intersection of several different responsibilities:
 
 * **The US Air Force** had responsibility for protecting the installation.
 * **The FAA** had responsibility for aviation safety and national airspace management.
 * **The FBI** could become involved if criminal activity or espionage was suspected.
-* **Other Defence Department offices**, including organisations dealing with unidentified aerial incidents, participated in assessing what was happening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</span></span></span>
+* **Other Defence Department offices**, including organisations dealing with unidentified aerial incidents, participated in assessing what was happening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</span></span></span>
 
 This overlapping structure helps explain why the response did not resemble a simple military interception. The objects were reportedly unidentified, but they were not publicly classified as hostile aircraft carrying out an attack. That left authorities operating in a legal grey area between aviation enforcement, law enforcement and military defence.
 
-Several later discussions in Congress and the Pentagon cited Langley when arguing that existing counter-drone authorities were too narrow or too cumbersome for modern threats. Defence officials subsequently sought refinements to Section 130i authority and improved coordination mechanisms with other agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/4170133/dod-better-now-at-defending-domestically-against-unmanned-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod better now at defending domestically against unmanned systems</span><span class="citation-popover-snippet">Department of WarDOD Better Now at Defending Domestically Against...30 Apr 2025 — &quot;We continue to engage with members of Congress to see...</span></span></span>
+Several later discussions in Congress and the Pentagon cited Langley when arguing that existing counter-drone authorities were too narrow or too cumbersome for modern threats. Defence officials subsequently sought refinements to Section 130i authority and improved coordination mechanisms with other agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/4170133/dod-better-now-at-defending-domestically-against-unmanned-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod better now at defending domestically against unmanned systems</span><span class="citation-popover-snippet">Department of WarDOD Better Now at Defending Domestically Against...30 Apr 2025 — &quot;We continue to engage with members of Congress to see...</span></span></span>
 
 <img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-2-dark.svg" | relative_url }}" alt="Response Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why detection was easier than attribution
@@ -304,11 +304,11 @@ Another lesson from Langley was that spotting a drone and identifying its operat
 
 Many public discussions assumed that once drones were observed, investigators should have been able to trace them directly back to whoever launched them. In reality, drone attribution can be extremely difficult, especially at night and over a wide geographic area.
 
-Reports indicated that local law-enforcement efforts struggled to maintain visual contact during attempts to track the aircraft. Officials could observe the incursions but still face major challenges determining where the drones originated, who controlled them or whether multiple operators were involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
+Reports indicated that local law-enforcement efforts struggled to maintain visual contact during attempts to track the aircraft. Officials could observe the incursions but still face major challenges determining where the drones originated, who controlled them or whether multiple operators were involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
 
 That distinction matters because the legal justification for stronger countermeasures often becomes easier when authorities can identify a hostile actor or establish a specific threat. A drone that is present but unattributed creates uncertainty at every stage of the response process.
 
-The problem is familiar from earlier Virginia UFO history. Military witnesses may know that something is in the sky and behaving unusually, yet still lack enough information to identify it conclusively. In the Langley case, the leading explanation remained unauthorised drone activity, but uncertainty about the operators prolonged the security concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</span></span></span>
+The problem is familiar from earlier Virginia UFO history. Military witnesses may know that something is in the sky and behaving unusually, yet still lack enough information to identify it conclusively. In the Langley case, the leading explanation remained unauthorised drone activity, but uncertainty about the operators prolonged the security concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_RUU473NCa8" title="The challenge of stopping drone swarms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_RUU473NCa8" target="_blank" rel="noopener noreferrer">The challenge of stopping drone swarms</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 45.3K &middot; Uploaded: March 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_RUU473NCa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_RUU473NCa8">Open on YouTube</a></p></div></div></div>
 
@@ -316,27 +316,27 @@ The problem is familiar from earlier Virginia UFO history. Military witnesses ma
 
 The most significant outcome of the Langley incursions was not evidence for an exotic explanation. It was the exposure of weaknesses in domestic base defence against small aerial systems.
 
-Subsequent reporting and congressional hearings repeatedly used Langley as an example of a broader national challenge. Officials acknowledged that many military installations face drone incursions and that available countermeasures are often constrained by safety concerns, jurisdictional limits and uncertainty over authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/release/hearing-wrap-up-swift-action-needed-to-address-unauthorized-drone-activity-over-u-s-military-installations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">counter UAS authorities under section 130i. Our legislative proposal is intended to allow the department to protect additional locations...</span></span></span>
+Subsequent reporting and congressional hearings repeatedly used Langley as an example of a broader national challenge. Officials acknowledged that many military installations face drone incursions and that available countermeasures are often constrained by safety concerns, jurisdictional limits and uncertainty over authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/release/hearing-wrap-up-swift-action-needed-to-address-unauthorized-drone-activity-over-u-s-military-installations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">counter UAS authorities under section 130i. Our legislative proposal is intended to allow the department to protect additional locations...</span></span></span>
 
 The incident revealed several practical realities:
 
 **Military superiority does not automatically translate into drone superiority.**
 
-A base capable of operating advanced F-22 stealth fighters can still struggle against small, inexpensive unmanned aircraft flying in domestic airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+A base capable of operating advanced F-22 stealth fighters can still struggle against small, inexpensive unmanned aircraft flying in domestic airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
 **Domestic defence differs from wartime defence.**
 
-Techniques that might be acceptable on a battlefield can be legally or politically unacceptable over American cities and transport corridors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span>
+Techniques that might be acceptable on a battlefield can be legally or politically unacceptable over American cities and transport corridors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span>
 
 **Authorities remain fragmented.**
 
-The need for coordination among military, aviation and law-enforcement agencies can slow decision-making during rapidly evolving incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/uscode/text/10/130i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute10 U.S</span><span class="citation-popover-snippet">Code § 130i - Protection of certain facilities and assets...informing appropriate communication mechanisms between military installation...</span></span></span>
+The need for coordination among military, aviation and law-enforcement agencies can slow decision-making during rapidly evolving incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/uscode/text/10/130i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute10 U.S</span><span class="citation-popover-snippet">Code § 130i - Protection of certain facilities and assets...informing appropriate communication mechanisms between military installation...</span></span></span>
 
 **Detection is not enough.**
 
-Finding a drone does not automatically reveal who launched it, what its mission is or whether it qualifies as an immediate threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</span></span></span>
+Finding a drone does not automatically reveal who launched it, what its mission is or whether it qualifies as an immediate threat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</span></span></span>
 
-The debate did not end with Langley. Subsequent drone incidents near military sites in both the United States and Britain triggered many of the same questions about legal authority, attribution and safe countermeasures. The Langley incursions therefore became a reference point in wider discussions about how modern governments should defend sensitive facilities against increasingly capable unmanned aircraft. The War Zone <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The origins or hostility of these &quot;small unmanned aerial systems&quot; remain unknown. The USAF stated that while the drones did not impact ba...</span></span></span>
+The debate did not end with Langley. Subsequent drone incidents near military sites in both the United States and Britain triggered many of the same questions about legal authority, attribution and safe countermeasures. The Langley incursions therefore became a reference point in wider discussions about how modern governments should defend sensitive facilities against increasingly capable unmanned aircraft. The War Zone<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The origins or hostility of these &quot;small unmanned aerial systems&quot; remain unknown. The USAF stated that while the drones did not impact ba...</span></span></span>
 
 <img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-3-dark.svg" | relative_url }}" alt="Response Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_response_lim_1f08f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the response became part of the story
@@ -345,199 +345,199 @@ For many readers, the most memorable aspect of the Langley case is that the dron
 
 The incident showed that modern unidentified aerial events do not necessarily become mysteries because nobody sees them. They can remain unresolved because legal authority, aviation safety and technical identification all operate under different rules. Langley illustrated how a sensitive military base can observe an intrusion, recognise it as a problem and still face major limits on how aggressively it can respond.
 
-That tension between security needs and domestic legal constraints is one reason the Langley incursions became a notable chapter in Virginia’s contemporary UFO and UAP history. The case was less a story about unknown technology than a demonstration of how difficult it can be to manage unidentified objects in crowded civilian airspace, even when they appear over one of the United States’ most important military installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+That tension between security needs and domestic legal constraints is one reason the Langley incursions became a notable chapter in Virginia’s contemporary UFO and UAP history. The case was less a story about unknown technology than a demonstration of how difficult it can be to manage unidentified objects in crowded civilian airspace, even when they appear over one of the United States’ most important military installations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6YPywcDGe4g" title="Drone swarms over key military sites spark fears of foreign surveillance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6YPywcDGe4g" target="_blank" rel="noopener noreferrer">Drone swarms over key military sites spark fears of foreign surveillance</a></p><p class="youtube-embed-meta">Channel: Straight Arrow &middot; Views: 20.6K &middot; Uploaded: October 2024 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6YPywcDGe4g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6YPywcDGe4g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why couldn&#x27;t Langley just shoot them down?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why couldn&#x27;t Langley just shoot them down?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
-        </h4>
-        <p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
+</h4>
+<p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
         
-        <p class="fr-book-desc">Shows practical challenges of detecting and countering drones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows practical challenges of detecting and countering drones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides defense and airspace context relevant to Langley.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides defense and airspace context relevant to Langley.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Explores unidentified incursions near military facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unidentified incursions near military facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rgvZCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, August Cole</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rgvZCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, August Cole</p>
         
-        <p class="fr-book-desc">Illustrates modern security and airspace vulnerabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates modern security and airspace vulnerabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warrior</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warrior</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model"><img src="https://i.ebayimg.com/images/g/~iMAAOSwDfplJlf9/s-l225.jpg" alt="Listing image for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model"><img src="https://i.ebayimg.com/images/g/~iMAAOSwDfplJlf9/s-l225.jpg" alt="Listing image for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model"><img src="https://i.ebayimg.com/images/g/14gAAeSwAdRqHreJ/s-l225.jpg" alt="Listing image for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model"><img src="https://i.ebayimg.com/images/g/14gAAeSwAdRqHreJ/s-l225.jpg" alt="Listing image for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal"><img src="https://i.ebayimg.com/images/g/LLwAAeSwlaFoypJV/s-l225.jpg" alt="Listing image for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal"><img src="https://i.ebayimg.com/images/g/LLwAAeSwlaFoypJV/s-l225.jpg" alt="Listing image for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light"><img src="https://i.ebayimg.com/images/g/LnwAAOSwU-RjPVep/s-l225.jpg" alt="Listing image for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light"><img src="https://i.ebayimg.com/images/g/LnwAAOSwU-RjPVep/s-l225.jpg" alt="Listing image for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-couldn-t-langley-just-shoot-them-down-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-couldn-t-langley-just-shoot-them-down-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ That tension between security needs and domestic legal constraints is one reason
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ That tension between security needs and domestic legal constraints is one reason
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ That tension between security needs and domestic legal constraints is one reason
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ That tension between security needs and domestic legal constraints is one reason
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ That tension between security needs and domestic legal constraints is one reason
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,117 +743,117 @@ That tension between security needs and domestic legal constraints is one reason
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/us-military-mystery-drones-response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</p></details>
+   Link:<a href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/us-military-mystery-drones-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod better now at defending domestically against unmanned systems  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/4170133/dod-better-now-at-defending-domestically-against-unmanned-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4170133/dod-better-now-at-defending-domestically-against-unmanned-systems/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Better Now at Defending Domestically Against...30 Apr 2025 — &quot;We continue to engage with members of Congress to see...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/4170133/dod-better-now-at-defending-domestically-against-unmanned-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4170133/dod-better-now-at-defending-domestically-against-unmanned-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Better Now at Defending Domestically Against...30 Apr 2025 — &quot;We continue to engage with members of Congress to see...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — DHS, FBI, FAA &amp; DoD Joint Statement on Ongoing Response to Reported Dron...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — DHS, FBI, FAA &amp; DoD Joint Statement on Ongoing Response to Reported Dron...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: twz.com  
    Title: mysterious drones swarmed langley afb for weeks  
-   Link: <a href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</p></details>
+   Link:<a href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: taskandpurpose.com  
    Title: Task & Purpose Drones swarmed an air base for days  
-   Link: <a href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/mystery-drones-langley-afb/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/mystery-drones-langley-afb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re still a mystery.14 Oct 2024 — The military and the Pentagon&#x27;s UFO investigating arm have tried to determine the source of the dro...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
    Title: New York Post UFO drones are surveilling America's most sensitive military sites  
-   Link: <a href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</p></details>
+   Link:<a href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: law.cornell.edu  
    Title: Legal Information Institute10 U.S  
-   Link: <a href="https://www.law.cornell.edu/uscode/text/10/130i" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/uscode/text/10/130i</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Code § 130i - Protection of certain facilities and assets...informing appropriate communication mechanisms between military installation...</p></details>
+   Link:<a href="https://www.law.cornell.edu/uscode/text/10/130i" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/uscode/text/10/130i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Code § 130i - Protection of certain facilities and assets...informing appropriate communication mechanisms between military installation...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-swift-action-needed-to-address-unauthorized-drone-activity-over-u-s-military-installations/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-swift-action-needed-to-address-unauthorized-drone-activity-over-u-s-military-installations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>counter UAS authorities under section 130i. Our legislative proposal is intended to allow the department to protect additional locations...</p></details>
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-swift-action-needed-to-address-unauthorized-drone-activity-over-u-s-military-installations/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-swift-action-needed-to-address-unauthorized-drone-activity-over-u-s-military-installations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>counter UAS authorities under section 130i. Our legislative proposal is intended to allow the department to protect additional locations...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
    Title: heres what norads commander just told us about the langley afb drone incursions  
-   Link: <a href="https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHere&#x27;s What NORAD&#x27;s Commander Just Told Us About The...29 Oct 2024 — The commander of NORAD and NORTHCOM talked about the La...</p></details>
+   Link:<a href="https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHere&#x27;s What NORAD&#x27;s Commander Just Told Us About The...29 Oct 2024 — The commander of NORAD and NORTHCOM talked about the La...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeTimmons Opens Hearing on Addressing Unauthorized Drone...29 Apr 2025 — Chairman Timmons brought to attention hostile...</p></details>
+   Link:<a href="https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeTimmons Opens Hearing on Addressing Unauthorized Drone...29 Apr 2025 — Chairman Timmons brought to attention hostile...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The origins or hostility of these &quot;small unmanned aerial systems&quot; remain unknown. The USAF stated that while the drones did not impact ba...</p></details>
+   Link:<a href="https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/nov/23/unidentified-drones-spotted-over-three-uk-airbases-us-air-force-confirms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The origins or hostility of these &quot;small unmanned aerial systems&quot; remain unknown. The USAF stated that while the drones did not impact ba...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: homeland.house.gov  
-   Link: <a href="https://homeland.house.gov/2024/12/12/unexplained-sighting-doj-fbi-cbp-witnesses-testify-on-ongoing-threats-posed-by-drones-discuss-current-counter-drone-authorities/" target="_blank" rel="noopener noreferrer nofollow">https://homeland.house.gov/2024/12/12/unexplained-sighting-doj-fbi-cbp-witnesses-testify-on-ongoing-threats-posed-by-drones-discuss-current-counter-drone-authorities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.gov“Unexplained Sighting”: DOJ, FBI, CBP Witnesses Testify...“Unexplained Sighting”: DOJ, FBI, CBP Witnesses Testify on Ongoing Th...</p></details>
+   Link:<a href="https://homeland.house.gov/2024/12/12/unexplained-sighting-doj-fbi-cbp-witnesses-testify-on-ongoing-threats-posed-by-drones-discuss-current-counter-drone-authorities/" target="_blank" rel="noopener noreferrer nofollow">https://homeland.house.gov/2024/12/12/unexplained-sighting-doj-fbi-cbp-witnesses-testify-on-ongoing-threats-posed-by-drones-discuss-current-counter-drone-authorities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.gov“Unexplained Sighting”: DOJ, FBI, CBP Witnesses Testify...“Unexplained Sighting”: DOJ, FBI, CBP Witnesses Testify on Ongoing Th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/2311fdcdc78db0041b749b43b76e760d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/2311fdcdc78db0041b749b43b76e760d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force regarding drone activity over four U.K. military bases. The incursions were detected over RAF Lakenheath, RAF Mildenhall, RAF F...</p></details>
+   Link:<a href="https://apnews.com/article/2311fdcdc78db0041b749b43b76e760d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/2311fdcdc78db0041b749b43b76e760d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force regarding drone activity over four U.K. military bases. The incursions were detected over RAF Lakenheath, RAF Mildenhall, RAF F...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airsight.com  
-   Link: <a href="https://www.airsight.com/en/news/drone-langley-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/en/news/drone-langley-air-force-base</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Swarm Infiltrates Langley Air Force BaseMysterious drone swarms breach US military bases, evading detection and raising national se...</p></details>
+   Link:<a href="https://www.airsight.com/en/news/drone-langley-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/en/news/drone-langley-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Swarm Infiltrates Langley Air Force BaseMysterious drone swarms breach US military bases, evading detection and raising national se...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foreign.policy.magazine/posts/the-lack-of-public-attention-to-drone-incursions-over-us-military-bases-has-vast/1329683972356564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foreign.policy.magazine/posts/the-lack-of-public-attention-to-drone-incursions-over-us-military-bases-has-vast/1329683972356564/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lack of public attention to drone incursions over U.S....UFO drones are surveilling America&#x27;s most sensitive military sites — and th...</p></details>
+   Link:<a href="https://www.facebook.com/foreign.policy.magazine/posts/the-lack-of-public-attention-to-drone-incursions-over-us-military-bases-has-vast/1329683972356564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foreign.policy.magazine/posts/the-lack-of-public-attention-to-drone-incursions-over-us-military-bases-has-vast/1329683972356564/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The lack of public attention to drone incursions over U.S....UFO drones are surveilling America&#x27;s most sensitive military sites — and th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/556205513959384/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/556205513959384/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified drones flew over Langley Air Force BaseDrone Fleet Breaches U.S. Military Airspace for 17 Days Near Key Bases By American Pa...</p></details>
+   Link:<a href="https://www.facebook.com/groups/552059654373970/posts/556205513959384/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/556205513959384/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified drones flew over Langley Air Force BaseDrone Fleet Breaches U.S. Military Airspace for 17 Days Near Key Bases By American Pa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/daveaschroeder_dhs-fbi-faa-dod-joint-statement-on-ongoing-activity-7274769277914640384-p2Wj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/daveaschroeder_dhs-fbi-faa-dod-joint-statement-on-ongoing-activity-7274769277914640384-p2Wj</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dave Schroeder&#x27;s PostDec 17, 2024 — With the technology landscape evolving, we expect that number to increase over time. FBI has received...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/daveaschroeder_dhs-fbi-faa-dod-joint-statement-on-ongoing-activity-7274769277914640384-p2Wj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/daveaschroeder_dhs-fbi-faa-dod-joint-statement-on-ongoing-activity-7274769277914640384-p2Wj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dave Schroeder&#x27;s PostDec 17, 2024 — With the technology landscape evolving, we expect that number to increase over time. FBI has received...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wfmd.com  
-   Link: <a href="https://www.wfmd.com/2026/02/04/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-at-us-military-bases/" target="_blank" rel="noopener noreferrer nofollow">https://www.wfmd.com/2026/02/04/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-at-us-military-bases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon watchdog warns drone incursions require &#x27;...4 Feb 2026 — The watchdog report warns that the Pentagon lacks clear, consistent po...</p></details>
+   Link:<a href="https://www.wfmd.com/2026/02/04/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-at-us-military-bases/" target="_blank" rel="noopener noreferrer nofollow">https://www.wfmd.com/2026/02/04/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-at-us-military-bases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon watchdog warns drone incursions require &#x27;...4 Feb 2026 — The watchdog report warns that the Pentagon lacks clear, consistent po...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/politics/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-us-military-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-us-military-bases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon lacks clear drone policies at military bases...Feb 4, 2026 — Pentagon Inspector General report reveals War Department lacks cle...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-us-military-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/pentagon-watchdog-warns-drone-incursions-require-immediate-attention-us-military-bases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon lacks clear drone policies at military bases...Feb 4, 2026 — Pentagon Inspector General report reveals War Department lacks cle...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gpsworld.com  
    Title: unidentified uavs over langley air force base raise security concerns  
-   Link: <a href="https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified UAVs over Langley Air Force Base raise...15 Oct 2024 — The Wall Street Journal has reported mysterious UAVs spotted surveil...</p></details>
+   Link:<a href="https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified UAVs over Langley Air Force Base raise...15 Oct 2024 — The Wall Street Journal has reported mysterious UAVs spotted surveil...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: unmannedairspace.info  
    Title: dod watchdog finds gaps in c uas capabilities at covered facilities  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD watchdog finds gaps in C-UAS capabilities at covered...30 Jan 2026 — In the United States, an installation, facility or assets may b...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DoD watchdog finds gaps in C-UAS capabilities at covered...30 Jan 2026 — In the United States, an installation, facility or assets may b...</p></details>

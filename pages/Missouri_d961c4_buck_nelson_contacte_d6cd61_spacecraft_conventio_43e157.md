@@ -250,20 +250,20 @@ image: /assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_con
 
 ## Introduction
 
-For a few years in the late 1950s and early 1960s, a farm near Mountain View, Missouri became one of the stranger stops on America’s flying-saucer circuit. [Buck Nelson]({{ 'buck-nelson/' | relative_url }})’s annual Spacecraft Conventions turned his claims of friendly contact with visitors from Venus, Mars and the Moon into a public event that blended UFO belief, rural entertainment, religious overtones and roadside tourism. What began as one man’s story evolved into a gathering that attracted believers, curiosity-seekers, travelling lecturers, journalists and local spectators. By the middle of the decade, the conventions had become part of Ozarks folklore as much as UFO culture. Their rise and decline also reveal how quickly the 1950s contactee movement flourished and then lost public momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
+For a few years in the late 1950s and early 1960s, a farm near Mountain View, Missouri became one of the stranger stops on America’s flying-saucer circuit. [Buck Nelson]({{ 'buck-nelson/' | relative_url }})’s annual Spacecraft Conventions turned his claims of friendly contact with visitors from Venus, Mars and the Moon into a public event that blended UFO belief, rural entertainment, religious overtones and roadside tourism. What began as one man’s story evolved into a gathering that attracted believers, curiosity-seekers, travelling lecturers, journalists and local spectators. By the middle of the decade, the conventions had become part of Ozarks folklore as much as UFO culture. Their rise and decline also reveal how quickly the 1950s contactee movement flourished and then lost public momentum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-1-dark.svg" | relative_url }}" alt="Conventions illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Rather than providing evidence that extraterrestrials had landed in Missouri, the conventions offer a window into how UFO stories were performed, marketed and consumed in Cold War America. In Missouri’s UFO history, they matter less as proof of an encounter and more as an example of how a local claim became a regional spectacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
+Rather than providing evidence that extraterrestrials had landed in Missouri, the conventions offer a window into how UFO stories were performed, marketed and consumed in Cold War America. In Missouri’s UFO history, they matter less as proof of an encounter and more as an example of how a local claim became a regional spectacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
 
 ## How the Mountain View conventions were organised
 
-Buck Nelson’s conventions grew directly out of the attention generated by his booklet *My Trip to Mars, the Moon, and Venus* and the publicity surrounding his alleged encounters. Around 1956, he began opening his ranch near Mountain View to visitors interested in flying saucers and interplanetary contact. What followed was not a formal scientific conference but a loose gathering of believers and enthusiasts who camped, listened to speakers and exchanged stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pa-rocks-ramble.blogspot.com/2011/10/buck-nelsons-amazing-journey-to-mars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pa-rocks-ramble.blogspot.com">[Pa Rock&#x27;s Ramble]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pa-rocks-ramble.blogspot.com</span><span class="citation-popover-title">buck nelsons amazing journey to mars</span><span class="citation-popover-snippet">Pa Rock&#x27;s RambleBuck Nelson&#x27;s Amazing Journey to Mars, the Moon and...7 Oct 2011 — Buck Nelson began turning a profit from his adventure...</span></span></span>
+Buck Nelson’s conventions grew directly out of the attention generated by his booklet *My Trip to Mars, the Moon, and Venus* and the publicity surrounding his alleged encounters. Around 1956, he began opening his ranch near Mountain View to visitors interested in flying saucers and interplanetary contact. What followed was not a formal scientific conference but a loose gathering of believers and enthusiasts who camped, listened to speakers and exchanged stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pa-rocks-ramble.blogspot.com/2011/10/buck-nelsons-amazing-journey-to-mars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pa-rocks-ramble.blogspot.com">[Pa Rock&#x27;s Ramble]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pa-rocks-ramble.blogspot.com</span><span class="citation-popover-title">buck nelsons amazing journey to mars</span><span class="citation-popover-snippet">Pa Rock&#x27;s RambleBuck Nelson&#x27;s Amazing Journey to Mars, the Moon and...7 Oct 2011 — Buck Nelson began turning a profit from his adventure...</span></span></span>
 
-The format reflected the wider contactee culture then spreading across the United States. Other figures in the movement organised similar meetings, and Nelson's convention became the Missouri version of a growing network of saucer gatherings. Visitors arrived by car and camper, sometimes travelling long distances to hear lectures from people who claimed communication with “space brothers”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span> Wikipedia Photographs and contemporary accounts show a surprisingly organised event for a rural farm setting. There were speaking platforms <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>, loudspeaker systems, concession areas and spaces for visitors to gather. American flags often appeared beside the speakers’ stand, reflecting the way many contactees mixed cosmic themes with patriotic and moral language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+The format reflected the wider contactee culture then spreading across the United States. Other figures in the movement organised similar meetings, and Nelson's convention became the Missouri version of a growing network of saucer gatherings. Visitors arrived by car and camper, sometimes travelling long distances to hear lectures from people who claimed communication with “space brothers”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span> Wikipedia Photographs and contemporary accounts show a surprisingly organised event for a rural farm setting. There were speaking platforms<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>, loudspeaker systems, concession areas and spaces for visitors to gather. American flags often appeared beside the speakers’ stand, reflecting the way many contactees mixed cosmic themes with patriotic and moral language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
-Nelson himself was the main attraction. Visitors could hear him recount journeys through the Solar System, purchase copies of his booklet and meet other members of the contactee community. His events also helped spread recurring themes of the movement: warnings about nuclear war, claims of advanced peaceful civilisations and messages about humanity’s spiritual future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+Nelson himself was the main attraction. Visitors could hear him recount journeys through the Solar System, purchase copies of his booklet and meet other members of the contactee community. His events also helped spread recurring themes of the movement: warnings about nuclear war, claims of advanced peaceful civilisations and messages about humanity’s spiritual future.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
-What made the conventions distinctive was their setting. Unlike major-city lecture halls, Nelson’s meetings took place on an Ozarks farm. The journey to the ranch became part of the experience. Attendees were not simply attending a talk; they were travelling to the very place where Nelson said spacecraft had appeared. That connection between story and landscape gave the conventions an authenticity that supporters found compelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+What made the conventions distinctive was their setting. Unlike major-city lecture halls, Nelson’s meetings took place on an Ozarks farm. The journey to the ranch became part of the experience. Attendees were not simply attending a talk; they were travelling to the very place where Nelson said spacecraft had appeared. That connection between story and landscape gave the conventions an authenticity that supporters found compelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-9OcspsCjzs" title="Buck Nelson’s Wild Ride Through Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-9OcspsCjzs" target="_blank" rel="noopener noreferrer">Buck Nelson’s Wild Ride Through Space</a></p><p class="youtube-embed-meta">Channel: AustinMcConnell &middot; Views: 184.5K &middot; Uploaded: March 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-9OcspsCjzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-9OcspsCjzs">Open on YouTube</a></p></div></div></div>
 
@@ -271,11 +271,11 @@ What made the conventions distinctive was their setting. Unlike major-city lectu
 
 The crowds were not made up of a single type of visitor. The conventions attracted several overlapping audiences, each interested in something different.
 
-Some came because they genuinely believed Nelson’s claims. During the 1950s, contactee stories enjoyed national attention, and many followers accepted the idea that benevolent extraterrestrials were monitoring Earth. Nelson’s account fitted neatly into that worldview. His visitors looked human, spoke about morality and warned against destructive uses of technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Some came because they genuinely believed Nelson’s claims. During the 1950s, contactee stories enjoyed national attention, and many followers accepted the idea that benevolent extraterrestrials were monitoring Earth. Nelson’s account fitted neatly into that worldview. His visitors looked human, spoke about morality and warned against destructive uses of technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Others attended because the conventions offered something unusual and entertaining. Rural America in the 1950s supported countless fairs, revival meetings, roadside attractions and novelty events. Nelson’s ranch occupied a space somewhere between all of them. For many visitors, the attraction lay less in proving alien contact than in witnessing a colourful local phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
+Others attended because the conventions offered something unusual and entertaining. Rural America in the 1950s supported countless fairs, revival meetings, roadside attractions and novelty events. Nelson’s ranch occupied a space somewhere between all of them. For many visitors, the attraction lay less in proving alien contact than in witnessing a colourful local phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
 
-Journalists also found the story irresistible. The image of a Missouri farmer claiming friendships with Venusian travellers was exactly the sort of human-interest story newspapers sought. Coverage often balanced amusement with curiosity, helping to keep Nelson’s name in circulation far beyond Howell County. His reputation spread through newspapers, UFO newsletters and contactee networks that exchanged publications and promoted one another’s appearances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.howellcountynews.com/history/buck-nelson-tall-tales%E2%80%94part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howellcountynews.com">[Howell County News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howellcountynews.com</span><span class="citation-popover-snippet">Howell County NewsBuck Nelson: Tall Tales—Part 2April 26, 2023 — 26 Apr 2023 — In his book, “My Trip to Mars the Moon and Venus,” Buck cr...</span><span class="citation-popover-meta">Published: April 26, 2023</span></span></span>
+Journalists also found the story irresistible. The image of a Missouri farmer claiming friendships with Venusian travellers was exactly the sort of human-interest story newspapers sought. Coverage often balanced amusement with curiosity, helping to keep Nelson’s name in circulation far beyond Howell County. His reputation spread through newspapers, UFO newsletters and contactee networks that exchanged publications and promoted one another’s appearances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.howellcountynews.com/history/buck-nelson-tall-tales%E2%80%94part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howellcountynews.com">[Howell County News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howellcountynews.com</span><span class="citation-popover-snippet">Howell County NewsBuck Nelson: Tall Tales—Part 2April 26, 2023 — 26 Apr 2023 — In his book, “My Trip to Mars the Moon and Venus,” Buck cr...</span><span class="citation-popover-meta">Published: April 26, 2023</span></span></span>
 
 The conventions therefore operated on multiple levels at once:
 
@@ -285,7 +285,7 @@ The conventions therefore operated on multiple levels at once:
 * A social event for UFO enthusiasts.
 * A local tourist attraction.
 * A source of newspaper copy and regional folklore.
-* A platform where contactees reinforced one another’s claims. Springfield-Greene County Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
+* A platform where contactees reinforced one another’s claims. Springfield-Greene County Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
 
 </div>
 
@@ -294,21 +294,21 @@ That mixture explains why the events survived for years even though Nelson never
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-2-dark.svg" | relative_url }}" alt="Conventions illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Ozarks spectacle and the performance of belief
 
-Part of the conventions’ appeal came from Nelson’s carefully cultivated public image. He was often presented as a straightforward Ozarks farmer who had unexpectedly become a messenger from other worlds. That image carried cultural weight. To many outsiders, the Ozarks represented simplicity, independence and distance from urban life. Nelson’s supporters could therefore portray him as an honest witness with little reason to invent such stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+Part of the conventions’ appeal came from Nelson’s carefully cultivated public image. He was often presented as a straightforward Ozarks farmer who had unexpectedly become a messenger from other worlds. That image carried cultural weight. To many outsiders, the Ozarks represented simplicity, independence and distance from urban life. Nelson’s supporters could therefore portray him as an honest witness with little reason to invent such stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
-The reality was more complicated. Later research found that Nelson had spent decades in California and had a far more varied background than the popular image suggested. Yet the convention atmosphere depended heavily on the contrast between an ordinary-looking rural man and the extraordinary claims he was making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+The reality was more complicated. Later research found that Nelson had spent decades in California and had a far more varied background than the popular image suggested. Yet the convention atmosphere depended heavily on the contrast between an ordinary-looking rural man and the extraordinary claims he was making.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
-The events also blurred the line between testimony and performance. Visitors were not examining physical evidence in a formal setting. They were listening to stories, buying pamphlets, meeting personalities and participating in a shared culture. The conventions transformed UFO belief into something communal and theatrical. Seeing Nelson in person, hearing his accounts and meeting other enthusiasts often mattered more than verifying any specific claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richgros.com">[Richard Grosenbaugh&#x27;s Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richgros.com</span><span class="citation-popover-title">buck nelson</span><span class="citation-popover-snippet">and he is presiding over his Tenth annual Spacecraft Convention; a strange gathering that, for more than a decade, brought together peopl...</span></span></span>
+The events also blurred the line between testimony and performance. Visitors were not examining physical evidence in a formal setting. They were listening to stories, buying pamphlets, meeting personalities and participating in a shared culture. The conventions transformed UFO belief into something communal and theatrical. Seeing Nelson in person, hearing his accounts and meeting other enthusiasts often mattered more than verifying any specific claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richgros.com">[Richard Grosenbaugh&#x27;s Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richgros.com</span><span class="citation-popover-title">buck nelson</span><span class="citation-popover-snippet">and he is presiding over his Tenth annual Spacecraft Convention; a strange gathering that, for more than a decade, brought together peopl...</span></span></span>
 
-This helps explain why the conventions occupy an unusual place in Missouri UFO history. Many famous UFO cases centre on a specific sighting, radar report or military investigation. Nelson’s conventions were different. Their significance lies in the social event itself: a recurring gathering where belief became a public performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
+This helps explain why the conventions occupy an unusual place in Missouri UFO history. Many famous UFO cases centre on a specific sighting, radar report or military investigation. Nelson’s conventions were different. Their significance lies in the social event itself: a recurring gathering where belief became a public performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4N1-kbXbqCQ" title="Ozarks Life: Buck Nelson&#x27;s out of this world trip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4N1-kbXbqCQ" target="_blank" rel="noopener noreferrer">Ozarks Life: Buck Nelson&#x27;s out of this world trip</a></p><p class="youtube-embed-meta">Channel: KY3 News - Springfield, Mo. &middot; Views: 312 &middot; Uploaded: September 2023 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4N1-kbXbqCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4N1-kbXbqCQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the conventions faded by the late 1960s
 
-The decline of Nelson’s gatherings mirrored broader changes in American UFO culture. Contactee stories were most successful during the 1950s, when public knowledge about space was more limited and flying-saucer enthusiasm was expanding rapidly. By the 1960s, the Space Race had transformed public understanding of planets, spaceflight and astronomy. Claims about populated cities on Venus or inhabited settlements on the Moon became harder for many people to accept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+The decline of Nelson’s gatherings mirrored broader changes in American UFO culture. Contactee stories were most successful during the 1950s, when public knowledge about space was more limited and flying-saucer enthusiasm was expanding rapidly. By the 1960s, the Space Race had transformed public understanding of planets, spaceflight and astronomy. Claims about populated cities on Venus or inhabited settlements on the Moon became harder for many people to accept.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
-Attendance began to fall sharply. Accounts from the period describe dwindling crowds, and one report noted that the 1964 convention attracted only around fifty attendees. Nelson and his associate James L. Hill reportedly argued that increased radar and defence technology had discouraged visiting spacecraft, but that explanation did little to revive public interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+Attendance began to fall sharply. Accounts from the period describe dwindling crowds, and one report noted that the 1964 convention attracted only around fifty attendees. Nelson and his associate James L. Hill reportedly argued that increased radar and defence technology had discouraged visiting spacecraft, but that explanation did little to revive public interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
 Several other factors contributed to the decline:
 
@@ -317,212 +317,212 @@ Several other factors contributed to the decline:
 * The contactee movement itself was losing influence nationally.
 * New UFO narratives, especially alien-abduction stories, were beginning to replace the older “space brother” model.
 * Repeated conventions reduced the novelty that had initially drawn tourists and reporters.
-* Nelson’s deteriorating health limited his ability to maintain the events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+* Nelson’s deteriorating health limited his ability to maintain the events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
 </div>
 
-After the 1966 convention, Nelson became ill, and plans for future gatherings collapsed. A local newspaper announced that no convention would be held in 1967. The ending was remarkably quiet compared with the attention the events had once attracted. There was no dramatic final revelation, only declining attendance and fading enthusiasm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
+After the 1966 convention, Nelson became ill, and plans for future gatherings collapsed. A local newspaper announced that no convention would be held in 1967. The ending was remarkably quiet compared with the attention the events had once attracted. There was no dramatic final revelation, only declining attendance and fading enthusiasm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">the ozarks spaceman buck nelson in 10 facts</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-3-dark.svg" | relative_url }}" alt="Conventions illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_spacecraft_conventio_43e157-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the conventions reveal about Missouri UFO history
 
-Buck Nelson’s Spacecraft Conventions demonstrate that Missouri’s UFO history is not only a story of sightings and unexplained reports. It is also a story about culture, performance and belief. The conventions briefly connected a remote Ozarks community to a national network of contactees who claimed communication with extraterrestrials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
+Buck Nelson’s Spacecraft Conventions demonstrate that Missouri’s UFO history is not only a story of sightings and unexplained reports. It is also a story about culture, performance and belief. The conventions briefly connected a remote Ozarks community to a national network of contactees who claimed communication with extraterrestrials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
 
-From an evidential standpoint, the conventions strengthened none of Nelson’s central claims. No independently verified proof emerged from the gatherings, and later developments in astronomy weakened many of the stories he told about Mars, Venus and the Moon. Sceptics generally regard the claims as fantasy, exaggeration or deliberate invention rather than evidence of extraterrestrial contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+From an evidential standpoint, the conventions strengthened none of Nelson’s central claims. No independently verified proof emerged from the gatherings, and later developments in astronomy weakened many of the stories he told about Mars, Venus and the Moon. Sceptics generally regard the claims as fantasy, exaggeration or deliberate invention rather than evidence of extraterrestrial contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Yet the conventions remain historically significant because they show how UFO belief functioned in everyday life. For a brief period, thousands of people were willing to drive to a farm in southern Missouri to hear stories about friendly spacemen, browse saucer literature and take part in a uniquely American mixture of faith, entertainment and Cold War imagination. In that sense, the conventions tell us less about visitors from Venus than about the cultural landscape of the Ozarks during the flying-saucer era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
+Yet the conventions remain historically significant because they show how UFO belief functioned in everyday life. For a brief period, thousands of people were willing to drive to a farm in southern Missouri to hear stories about friendly spacemen, browse saucer literature and take part in a uniquely American mixture of faith, entertainment and Cold War imagination. In that sense, the conventions tell us less about visitors from Venus than about the cultural landscape of the Ozarks during the flying-saucer era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ozarksalive.com">[Ozarks Alive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ozarksalive.com</span><span class="citation-popover-snippet">Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvxIy7kh-Tc" title="Buck Nelson&#x27;s out of this world trip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer">Buck Nelson&#x27;s out of this world trip</a></p><p class="youtube-embed-meta">Channel: KY3 News - Springfield, Mo. &middot; Views: 369 &middot; Uploaded: February 2024 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvxIy7kh-Tc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Thousands Came to a Missouri UFO Farm. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Thousands Came to a Missouri UFO Farm. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oD2M8u0y5eMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gods Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods Have Landed">The Gods Have Landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oD2M8u0y5eMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gods Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods Have Landed">The Gods Have Landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">Provides broader context for convention culture and UFO evangelism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for convention culture and UFO evangelism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+Have+Landed+by+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LnUkDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
-        </h4>
-        <p class="fr-book-author">By Brenda Denzler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LnUkDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
+</h4>
+<p class="fr-book-author">By Brenda Denzler</p>
         
-        <p class="fr-book-desc">Helps explain gatherings, belief networks and UFO subculture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain gatherings, belief networks and UFO subculture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lteid47_0-kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Worlds">Alien Worlds</a>
-        </h4>
-        <p class="fr-book-author">By Diana Tumminia</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lteid47_0-kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Worlds">Alien Worlds</a>
+</h4>
+<p class="fr-book-author">By Diana Tumminia</p>
         
-        <p class="fr-book-desc">Examines the social structures behind contactee communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the social structures behind contactee communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My Trip to Mars, the Moon and Venus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b3-48I3oW5oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for My Trip to Mars, the Moon and Venus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Trip to Mars, the Moon and Venus">My Trip to Mars, the Moon and Venus</a>
-        </h4>
-        <p class="fr-book-author">By Buck Nelson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open My Trip to Mars, the Moon and Venus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b3-48I3oW5oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for My Trip to Mars, the Moon and Venus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My Trip to Mars, the Moon and Venus">My Trip to Mars, the Moon and Venus</a>
+</h4>
+<p class="fr-book-author">By Buck Nelson</p>
         
-        <p class="fr-book-desc">Explains the claims that drew visitors to Mountain View.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the claims that drew visitors to Mountain View.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=My+Trip+to+Mars%2C+the+Moon+and+Venus+by+Buck+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods Have Landed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lure of the Edge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Worlds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods Have Landed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lure of the Edge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Worlds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-thousands-came-to-a-missouri-ufo-farm-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Yet the conventions remain historically significant because they show how UFO be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Yet the conventions remain historically significant because they show how UFO be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Yet the conventions remain historically significant because they show how UFO be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Yet the conventions remain historically significant because they show how UFO be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Yet the conventions remain historically significant because they show how UFO be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,111 +728,111 @@ Yet the conventions remain historically significant because they show how UFO be
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Buck Nelson  
-   Link: <a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 449  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_serial_449.pdfJUNE 25, 26, 27, 1966: Buck Nelson&#x27;s 10th Annual. Spacecraft Convention was held at Buck&#x27;s Mou...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_serial_449.pdfJUNE 25, 26, 27, 1966: Buck Nelson&#x27;s 10th Annual. Spacecraft Convention was held at Buck&#x27;s Mou...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ozarksalive.com  
-   Link: <a href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow">https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</p></details>
+   Link:<a href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow">https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ozarks AliveBuck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — In 1958, he announced that on June 28 and 29, a space convention w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thelibrary.org  
    Title: the ozarks spaceman buck nelson in 10 facts  
-   Link: <a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</p></details>
+   Link:<a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — An in-depth look at Buck Nelson, Missouri&#x27;s m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pa-rocks-ramble.blogspot.com  
    Title: [buck nelsons](&#123;&#123; 'buck-nelson/' | relative_url &#125;&#125;) amazing journey to mars  
-   Link: <a href="https://pa-rocks-ramble.blogspot.com/2011/10/buck-nelsons-amazing-journey-to-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://pa-rocks-ramble.blogspot.com/2011/10/buck-nelsons-amazing-journey-to-mars.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pa Rock&#x27;s RambleBuck Nelson&#x27;s Amazing Journey to Mars, the Moon and...7 Oct 2011 — Buck Nelson began turning a profit from his adventure...</p></details>
+   Link:<a href="https://pa-rocks-ramble.blogspot.com/2011/10/buck-nelsons-amazing-journey-to-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://pa-rocks-ramble.blogspot.com/2011/10/buck-nelsons-amazing-journey-to-mars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pa Rock&#x27;s RambleBuck Nelson&#x27;s Amazing Journey to Mars, the Moon and...7 Oct 2011 — Buck Nelson began turning a profit from his adventure...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: richgros.com  
    Title: buck nelson  
-   Link: <a href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow">https://richgros.com/People/Buck_Nelson/buck_nelson.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and he is presiding over his Tenth annual Spacecraft Convention; a strange gathering that, for more than a decade, brought together peopl...</p></details>
+   Link:<a href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow">https://richgros.com/People/Buck_Nelson/buck_nelson.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and he is presiding over his Tenth annual Spacecraft Convention; a strange gathering that, for more than a decade, brought together peopl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: howellcountynews.com  
-   Link: <a href="https://www.howellcountynews.com/history/buck-nelson-tall-tales%E2%80%94part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.howellcountynews.com/history/buck-nelson-tall-tales%E2%80%94part-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Howell County NewsBuck Nelson: Tall Tales—Part 2April 26, 2023 — 26 Apr 2023 — In his book, “My Trip to Mars the Moon and Venus,” Buck cr...</p></details>
+   Link:<a href="https://www.howellcountynews.com/history/buck-nelson-tall-tales%E2%80%94part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.howellcountynews.com/history/buck-nelson-tall-tales%E2%80%94part-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Howell County NewsBuck Nelson: Tall Tales—Part 2April 26, 2023 — 26 Apr 2023 — In his book, “My Trip to Mars the Moon and Venus,” Buck cr...</p></details>
    Published: April 26, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: books.google.com  
    Title: My Trip to Mars the Moon and Venus  
-   Link: <a href="https://books.google.com/books/about/My_Trip_to_Mars_the_Moon_and_Venus.html?id=u64mfRxCn9EC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/My_Trip_to_Mars_the_Moon_and_Venus.html?id=u64mfRxCn9EC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Author, Buck Nelson. Publisher, B. Nelson, 1959. Original from, University of Illinois at Urbana-Champaign.Read more...</p></details>
+   Link:<a href="https://books.google.com/books/about/My_Trip_to_Mars_the_Moon_and_Venus.html?id=u64mfRxCn9EC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/My_Trip_to_Mars_the_Moon_and_Venus.html?id=u64mfRxCn9EC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Author, Buck Nelson. Publisher, B. Nelson, 1959. Original from, University of Illinois at Urbana-Champaign.Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: commons.wikimedia.org  
    Title: File:My Trip to Mars, the Moon and Venus by Buck Nelson.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:My Trip to Mars, the Moon and Venus by Buck Nelson.jpg3 Jul 2025 — English: Cover of pamphlet issued by Buck Nelson in...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:My Trip to Mars, the Moon and Venus by Buck Nelson.jpg3 Jul 2025 — English: Cover of pamphlet issued by Buck Nelson in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ky3.com  
    Title: ozarks life buck nelsons out of this world trip  
-   Link: <a href="https://www.ky3.com/2023/09/22/ozarks-life-buck-nelsons-out-of-this-world-trip/" target="_blank" rel="noopener noreferrer nofollow">https://www.ky3.com/2023/09/22/ozarks-life-buck-nelsons-out-of-this-world-trip/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ozarks Life: Buck Nelson&#x27;s out-of-this-world trip22 Sept 2023 — Buck said UFOs would visit him five times. On the fifth visit, he and his...</p></details>
+   Link:<a href="https://www.ky3.com/2023/09/22/ozarks-life-buck-nelsons-out-of-this-world-trip/" target="_blank" rel="noopener noreferrer nofollow">https://www.ky3.com/2023/09/22/ozarks-life-buck-nelsons-out-of-this-world-trip/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ozarks Life: Buck Nelson&#x27;s out-of-this-world trip22 Sept 2023 — Buck said UFOs would visit him five times. On the fifth visit, he and his...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ERBzine/posts/6172421896140539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ERBzine/posts/6172421896140539/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Buck Nelson was transported to Mars, Earth&#x27;s moon, and...&quot;Buck Nelson was transported to Mars, Earth&#x27;s moon, and Venus aboard a flying...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ERBzine/posts/6172421896140539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ERBzine/posts/6172421896140539/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Buck Nelson was transported to Mars, Earth&#x27;s moon, and...&quot;Buck Nelson was transported to Mars, Earth&#x27;s moon, and Venus aboard a flying...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Buck Nelson encounters space aliens again  
-   Link: <a href="https://www.facebook.com/groups/342207959638340/posts/2260946744431109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/342207959638340/posts/2260946744431109/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 1955 – Buck Nelson of Mountain View reported that the space aliens had returned to visit him again, as they had promised...</p></details>
+   Link:<a href="https://www.facebook.com/groups/342207959638340/posts/2260946744431109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/342207959638340/posts/2260946744431109/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 1955 – Buck Nelson of Mountain View reported that the space aliens had returned to visit him again, as they had promised...</p></details>
    Published: February 1, 1955  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntion when his stories of encounters with flying saucers...</p></details>
+   Link:<a href="https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ntion when his stories of encounters with flying saucers...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: capecentralhigh.com  
    Title: buck nelsons spacecraft convention  
-   Link: <a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nelson is nearing 70 and has held a space convention on his 40-acre farm, seven miles northwest of Mountain View, in Howell County, each...</p></details>
+   Link:<a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nelson is nearing 70 and has held a space convention on his 40-acre farm, seven miles northwest of Mountain View, in Howell County, each...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: phelpscountyfocus.com  
-   Link: <a href="https://phelpscountyfocus.com/2022/10/14/the-unsolved-mystery-of-buck-nelson-what-happened-to-the-ozarks-first-alien-abductee/" target="_blank" rel="noopener noreferrer nofollow">https://phelpscountyfocus.com/2022/10/14/the-unsolved-mystery-of-buck-nelson-what-happened-to-the-ozarks-first-alien-abductee/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unsolved mystery of Buck Nelson: What happened to...14 Oct 2022 — Before Roswell or Area 51 became famous, Buck Nelson was the face...</p></details>
+   Link:<a href="https://phelpscountyfocus.com/2022/10/14/the-unsolved-mystery-of-buck-nelson-what-happened-to-the-ozarks-first-alien-abductee/" target="_blank" rel="noopener noreferrer nofollow">https://phelpscountyfocus.com/2022/10/14/the-unsolved-mystery-of-buck-nelson-what-happened-to-the-ozarks-first-alien-abductee/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unsolved mystery of Buck Nelson: What happened to...14 Oct 2022 — Before Roswell or Area 51 became famous, Buck Nelson was the face...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Ozarks Life: Buck Nelson's out of this world trip  
-   Link: <a href="https://www.youtube.com/watch?v=4N1-kbXbqCQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4N1-kbXbqCQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Place for History: Flying things in the sky spark conventions in the Ozarks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4N1-kbXbqCQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4N1-kbXbqCQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Place for History: Flying things in the sky spark conventions in the Ozarks...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: files.shsmo.org  
-   Link: <a href="https://files.shsmo.org/manuscripts/rolla/R0759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.shsmo.org/manuscripts/rolla/R0759.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SHSMO FilesSouvenir of Buck&#x27;s Spacecraft Convention, 196025 Feb 2002 — In 1956 he published an account of his adventures as My Trip to Ma...</p></details>
+   Link:<a href="https://files.shsmo.org/manuscripts/rolla/R0759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.shsmo.org/manuscripts/rolla/R0759.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHSMO FilesSouvenir of Buck&#x27;s Spacecraft Convention, 196025 Feb 2002 — In 1956 he published an account of his adventures as My Trip to Ma...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Buck Nelson's Wild Ride Through Space  
-   Link: <a href="https://www.youtube.com/watch?v=-9OcspsCjzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-9OcspsCjzs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ozarks Life: Buck Nelson&#x27;s out of this world trip...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-9OcspsCjzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-9OcspsCjzs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ozarks Life: Buck Nelson&#x27;s out of this world trip...</p></details>

@@ -268,31 +268,31 @@ image: /assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-overview-s
 
 ## Introduction
 
-The 1953 Rapid City-Ellsworth incident is South Dakota’s landmark UFO case because it brought together the three things UFO investigators most wanted: visual witnesses, ground radar and jet intercepts. The core report began near Black Hawk, west of Rapid City, when a Ground Observer Corps observer reported a bright light, after which radar personnel at Ellsworth Air Force Base and F-84 pilots became involved. Former Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) director Edward J. Ruppelt later called it “an unknown—the best”, but later official and sceptical readings argued that the episode may have been a tangle of stars, meteors, radar artefacts, equipment problems and excited interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1953 Rapid City-Ellsworth incident is South Dakota’s landmark UFO case because it brought together the three things UFO investigators most wanted: visual witnesses, ground radar and jet intercepts. The core report began near Black Hawk, west of Rapid City, when a Ground Observer Corps observer reported a bright light, after which radar personnel at Ellsworth Air Force Base and F-84 pilots became involved. Former Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) director Edward J. Ruppelt later called it “an unknown—the best”, but later official and sceptical readings argued that the episode may have been a tangle of stars, meteors, radar artefacts, equipment problems and excited interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-overview.webp" | relative_url }}" alt="Overview image for Rapid City" loading="eager" decoding="sync" fetchpriority="high">
 That tension is why the case still matters. It is not good evidence of alien visitation, but it is unusually good evidence of how a serious Cold War UFO report could form: several observers, a defence radar environment, hurried intercept decisions and later disagreement about what the records actually proved.
 
 ## What witnesses and radar crews reported
 
-The event is usually associated with 12 August 1953 in Ruppelt’s published account, but the Project Blue Book file and later case summaries place the main Rapid City-Black Hawk sequence on 5-6 August 1953. That date issue is part of the case’s documentary problem: the famous retelling and the official file do not align perfectly, even though they describe the same broad Ellsworth-Rapid City incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The event is usually associated with 12 August 1953 in Ruppelt’s published account, but the Project Blue Book file and later case summaries place the main Rapid City-Black Hawk sequence on 5-6 August 1953. That date issue is part of the case’s documentary problem: the famous retelling and the official file do not align perfectly, even though they describe the same broad Ellsworth-Rapid City incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The first South Dakota report came from Black Hawk, about ten miles west of Ellsworth Air Force Base. A Ground Observer Corps observer, named in later summaries as Mrs Phyllis Killian, reported a stationary light northeast of her post. The Blue Book trip report says Warrant Officer Bennett, the duty controller, was on duty at about 2005 Mountain Standard Time when the report arrived through the Rapid City Filter Centre. The object was described as stationary, then moving south towards Rapid City; three airmen sent outside from the radar site reported a light moving generally north to south at high speed, while Bennett saw radar “blips” going south on the scope but had difficulty getting a clean track because of ground clutter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The first South Dakota report came from Black Hawk, about ten miles west of Ellsworth Air Force Base. A Ground Observer Corps observer, named in later summaries as Mrs Phyllis Killian, reported a stationary light northeast of her post. The Blue Book trip report says Warrant Officer Bennett, the duty controller, was on duty at about 2005 Mountain Standard Time when the report arrived through the Rapid City Filter Centre. The object was described as stationary, then moving south towards Rapid City; three airmen sent outside from the radar site reported a light moving generally north to south at high speed, while Bennett saw radar “blips” going south on the scope but had difficulty getting a clean track because of ground clutter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Ruppelt’s later book presents the same episode in stronger, more dramatic terms. In his version, the radar crew adjusted their scan after the telephone call, found a target in the reported area and used height-finding radar to place it at about 16,000 feet. He emphasised that the civilian spotter, radar controller and jet pilot later seemed to be reacting to the same moving object at the same time, which is why the case became so memorable in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ruppelt’s later book presents the same episode in stronger, more dramatic terms. In his version, the radar crew adjusted their scan after the telephone call, found a target in the reported area and used height-finding radar to place it at about 16,000 feet. He emphasised that the civilian spotter, radar controller and jet pilot later seemed to be reacting to the same moving object at the same time, which is why the case became so memorable in UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most important evidential point is that this was not a simple “light in the sky” story. The report involved a local observer, radar operators, airmen sent outside to look, and at least two F-84 intercept attempts. That does not make the object extraordinary by itself, but it does put the case in the small group of radar-visual reports that Blue Book and later UFO researchers treated more seriously than single-witness sightings.
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-1-dark.svg" | relative_url }}" alt="Rapid City illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the F-84 intercepts unfolded
 
-The first F-84 was already airborne on combat air patrol west of the base. According to Ruppelt, the controller turned the pilot south of the base and then onto a course intended to bring him towards the light, still reported at around 16,000 feet. The pilot saw the light and closed to within about three miles, at which point the object reportedly began moving; Ruppelt stressed that the controller, the spotter and the pilot all saw or tracked that movement at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The first F-84 was already airborne on combat air patrol west of the base. According to Ruppelt, the controller turned the pilot south of the base and then onto a course intended to bring him towards the light, still reported at around 16,000 feet. The pilot saw the light and closed to within about three miles, at which point the object reportedly began moving; Ruppelt stressed that the controller, the spotter and the pilot all saw or tracked that movement at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Ruppelt’s account then becomes the source of the case’s most famous “cat and mouse” quality. The F-84 chased the light northwards, with the pilot reporting changes in brightness and the controller continuing to see a radar target. The object supposedly kept roughly three miles ahead, then both the jet and the target went beyond the radar scope. When the F-84 returned because of fuel, Ruppelt said a target reappeared behind it, about 10 to 15 miles back. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ruppelt’s account then becomes the source of the case’s most famous “cat and mouse” quality. The F-84 chased the light northwards, with the pilot reporting changes in brightness and the controller continuing to see a radar target. The object supposedly kept roughly three miles ahead, then both the jet and the target went beyond the radar scope. When the F-84 returned because of fuel, Ruppelt said a target reappeared behind it, about 10 to 15 miles back.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A second F-84 was then scrambled. The second pilot, described as a veteran of both the Second World War and Korea, saw the light, climbed after it and tried several checks against ordinary explanations. Ruppelt wrote that the pilot turned off his aircraft lights to rule out reflection, rolled the aircraft to test whether the light’s position changed with his own movement, and compared it against nearby stars. The striking detail is the claimed radar-ranging gunsight response: Ruppelt said the red light on the gunsight blinked on, suggesting “something real and solid” ahead, after which the pilot requested permission to break off the intercept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A second F-84 was then scrambled. The second pilot, described as a veteran of both the Second World War and Korea, saw the light, climbed after it and tried several checks against ordinary explanations. Ruppelt wrote that the pilot turned off his aircraft lights to rule out reflection, rolled the aircraft to test whether the light’s position changed with his own movement, and compared it against nearby stars. The striking detail is the claimed radar-ranging gunsight response: Ruppelt said the red light on the gunsight blinked on, suggesting “something real and solid” ahead, after which the pilot requested permission to break off the intercept.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The official material is less clean. The Blue Book trip report notes that photos of the radar track were attempted but the camera malfunctioned and the pictures were “no good”. It also says the last radar “blip” was at about 70 miles and that the account did “not exactly correlate” with the pilot’s report. Those two details matter: the case’s reputation rests heavily on radar-visual correlation, yet the surviving record itself warns that some parts did not line up neatly and that the hoped-for photographic record failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The official material is less clean. The Blue Book trip report notes that photos of the radar track were attempted but the camera malfunctioned and the pictures were “no good”. It also says the last radar “blip” was at about 70 miles and that the account did “not exactly correlate” with the pilot’s report. Those two details matter: the case’s reputation rests heavily on radar-visual correlation, yet the surviving record itself warns that some parts did not line up neatly and that the hoped-for photographic record failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBAISwCZ2v0" title="UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer">UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 8.7M &middot; Uploaded: April 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBAISwCZ2v0">Open on YouTube</a></p></div></div></div>
 
@@ -300,22 +300,22 @@ The official material is less clean. The Blue Book trip report notes that photos
 
 The Rapid City-Ellsworth report looked powerful because it seemed to answer a common criticism of UFO cases. One witness can misperceive Venus; one radar return can be anomalous propagation; one pilot can misjudge distance at night. But when a ground observer, radar controller and interceptor pilot appear to describe the same thing, the case becomes harder to dismiss casually.
 
-That is why Ruppelt treated it as exceptional. In his book, he wrote that the sighting had been “thoroughly investigated” and that every angle examined left “nothing but a big question mark”. His final line on the case, “This was an unknown—the best,” helped cement the incident’s status in later UFO writing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is why Ruppelt treated it as exceptional. In his book, he wrote that the sighting had been “thoroughly investigated” and that every angle examined left “nothing but a big question mark”. His final line on the case, “This was an unknown—the best,” helped cement the incident’s status in later UFO writing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-It also helped that the setting was militarily sensitive. Ellsworth, near Rapid City, was part of the Cold War air-defence landscape, and the witnesses were not merely casual sky-watchers. Ground Observer Corps personnel, radar controllers and fighter pilots all had roles in watching the sky, identifying aircraft and reacting to possible intrusions. That does not make their perceptions infallible, but it explains why Project Blue Book took the incident seriously enough for Ruppelt to travel to Rapid City to interview personnel and review the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+It also helped that the setting was militarily sensitive. Ellsworth, near Rapid City, was part of the Cold War air-defence landscape, and the witnesses were not merely casual sky-watchers. Ground Observer Corps personnel, radar controllers and fighter pilots all had roles in watching the sky, identifying aircraft and reacting to possible intrusions. That does not make their perceptions infallible, but it explains why Project Blue Book took the incident seriously enough for Ruppelt to travel to Rapid City to interview personnel and review the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The case also sits within a broader South Dakota pattern. Historian Lawrence H. Larsen, writing in *South Dakota History*, noted that Air Force UFO investigations on the Great Plains were often forced to judge fleeting events from thin evidence, sometimes using only a record card or short telex message. Against that backdrop, the Ellsworth case stood out because it had more moving parts than most South Dakota reports: multiple observers, base involvement, radar and fighter response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
+The case also sits within a broader South Dakota pattern. Historian Lawrence H. Larsen, writing in *South Dakota History*, noted that Air Force UFO investigations on the Great Plains were often forced to judge fleeting events from thin evidence, sometimes using only a record card or short telex message. Against that backdrop, the Ellsworth case stood out because it had more moving parts than most South Dakota reports: multiple observers, base involvement, radar and fighter response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-2-dark.svg" | relative_url }}" alt="Rapid City illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why strong evidence still falls short of proof
 
 The case weakens when the evidence is separated into its parts. There is no surviving clear radar photograph, no physical trace, no instrument package from the object, no reliable independent film and no later technical reconstruction that proves a structured craft was present. The strongest version depends on witness memory, real-time radio/radar interpretation and Ruppelt’s narrative synthesis.
 
-The University of Colorado’s later UFO study, commonly known as the Condon Report, offered a sceptical reconstruction. It treated the Rapid City-Bismarck sequence as a mixture of ordinary causes: stars seen through an inversion layer, at least one meteor, anomalous propagation echoes on ground-controlled-intercept radar, possible ghost echoes, and a possible malfunction of the airborne radar gunsight. It specifically suggested that one F-84 may have been chasing Pollux and that another may have been chasing Mirfak, both bright stars in plausible positions for the headings involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The University of Colorado’s later UFO study, commonly known as the Condon Report, offered a sceptical reconstruction. It treated the Rapid City-Bismarck sequence as a mixture of ordinary causes: stars seen through an inversion layer, at least one meteor, anomalous propagation echoes on ground-controlled-intercept radar, possible ghost echoes, and a possible malfunction of the airborne radar gunsight. It specifically suggested that one F-84 may have been chasing Pollux and that another may have been chasing Mirfak, both bright stars in plausible positions for the headings involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Condon account also noted weather conditions favourable to optical and radar confusion. It described a dark, moonless night, clear visibility, stable air, temperature inversions and radio ducts. Such conditions can make stars shimmer, brighten, appear to change colour or seem to move; they can also produce misleading radar returns. That does not prove every observation was a star or radar ghost, but it gives sceptics a coherent way to explain why several confusing things might have happened on the same night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Condon account also noted weather conditions favourable to optical and radar confusion. It described a dark, moonless night, clear visibility, stable air, temperature inversions and radio ducts. Such conditions can make stars shimmer, brighten, appear to change colour or seem to move; they can also produce misleading radar returns. That does not prove every observation was a star or radar ghost, but it gives sceptics a coherent way to explain why several confusing things might have happened on the same night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The second pilot’s radar gunsight is one of the case’s most disputed details. In Ruppelt’s telling, the gunsight response strengthened the impression of a solid object ahead. The later Condon discussion, however, says the pilot told Dr J. Allen Hynek that the gunlock was due to equipment malfunction and that the radar gunsight continued malfunctioning on the return to base; it also notes that the equipment was apparently not checked before or during the Air Force investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The second pilot’s radar gunsight is one of the case’s most disputed details. In Ruppelt’s telling, the gunsight response strengthened the impression of a solid object ahead. The later Condon discussion, however, says the pilot told Dr J. Allen Hynek that the gunlock was due to equipment malfunction and that the radar gunsight continued malfunctioning on the return to base; it also notes that the equipment was apparently not checked before or during the Air Force investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is the key difference between “interesting” and “proof”. The Rapid City-Ellsworth incident is interesting because the reports overlap in suggestive ways. It falls short of proof because the overlaps are not preserved in a clean, testable record. The case asks readers to trust a chain of human interpretation under pressure, rather than allowing them to examine hard instrument data for themselves.
 
@@ -323,291 +323,291 @@ This is the key difference between “interesting” and “proof”. The Rapid 
 
 ## How later investigation changed the meaning of the case
 
-The incident’s reputation changed because later investigators did not simply repeat Ruppelt’s conclusion. Hynek, who served as an Air Force astronomy consultant and later became one of the best-known UFO researchers, appears to have moved from concern to scepticism on this case. A modern Enigma Labs summary of the Blue Book file says Hynek first wrote that “solid objects” seemed indicated and that failure to identify the object could expose a weakness in defence, but later, in January 1954, he “totally discounted” the incident as a series of coincident circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/cbebd9ab-9279-43fa-9f20-6830f0113c1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+The incident’s reputation changed because later investigators did not simply repeat Ruppelt’s conclusion. Hynek, who served as an Air Force astronomy consultant and later became one of the best-known UFO researchers, appears to have moved from concern to scepticism on this case. A modern Enigma Labs summary of the Blue Book file says Hynek first wrote that “solid objects” seemed indicated and that failure to identify the object could expose a weakness in defence, but later, in January 1954, he “totally discounted” the incident as a series of coincident circumstances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/cbebd9ab-9279-43fa-9f20-6830f0113c1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-That change matters because Hynek was not a simple debunker in the long run; he later criticised shallow official explanations in other UFO cases. If he became sceptical of Rapid City-Ellsworth after further review, that should carry weight. At the same time, the sceptical reconstruction is not airtight either. It asks readers to accept several overlapping ordinary explanations: a tower light or mistaken initial object, a meteor, stars, radar propagation effects, possible ghost echoes and possible equipment malfunction. A cluster of ordinary causes is plausible, especially on a night with inversion conditions, but it can feel less satisfying than a single clear identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That change matters because Hynek was not a simple debunker in the long run; he later criticised shallow official explanations in other UFO cases. If he became sceptical of Rapid City-Ellsworth after further review, that should carry weight. At the same time, the sceptical reconstruction is not airtight either. It asks readers to accept several overlapping ordinary explanations: a tower light or mistaken initial object, a meteor, stars, radar propagation effects, possible ghost echoes and possible equipment malfunction. A cluster of ordinary causes is plausible, especially on a night with inversion conditions, but it can feel less satisfying than a single clear identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The official Blue Book context also complicates the case. The National Archives notes that Project Blue Book records were later transferred to public custody, and the Air Force fact sheet says Blue Book collected 12,618 reports from 1947 to 1969, with 701 left “Unidentified”. The Air Force’s final position was that no investigated UFO showed evidence of a national-security threat, unknown scientific principles or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The official Blue Book context also complicates the case. The National Archives notes that Project Blue Book records were later transferred to public custody, and the Air Force fact sheet says Blue Book collected 12,618 reports from 1947 to 1969, with 701 left “Unidentified”. The Air Force’s final position was that no investigated UFO showed evidence of a national-security threat, unknown scientific principles or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-That final Air Force conclusion does not erase the Rapid City-Ellsworth mystery; it frames it. In official terms, an “unidentified” or unresolved case meant the available data did not support a firm identification. It did not mean the Air Force had established an exotic craft. Larsen’s review of Great Plains cases makes the same caution useful in reverse: some Blue Book identifications were thin, arbitrary or based on insufficient evidence, so an official explanation also should not be treated as automatically decisive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
+That final Air Force conclusion does not erase the Rapid City-Ellsworth mystery; it frames it. In official terms, an “unidentified” or unresolved case meant the available data did not support a firm identification. It did not mean the Air Force had established an exotic craft. Larsen’s review of Great Plains cases makes the same caution useful in reverse: some Blue Book identifications were thin, arbitrary or based on insufficient evidence, so an official explanation also should not be treated as automatically decisive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-3-dark.svg" | relative_url }}" alt="Rapid City illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the best evidence really shows
 
-The best evidence for the Rapid City-Ellsworth case is the convergence of reports, not any single spectacular item. The strongest case for something unusual rests on three linked claims: the Black Hawk observer reported an odd light; Ellsworth radar personnel believed they had a corresponding target; and F-84 pilots visually pursued lights that behaved oddly from their perspective. Ruppelt’s account adds the most force by presenting these as synchronised observations of one object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The best evidence for the Rapid City-Ellsworth case is the convergence of reports, not any single spectacular item. The strongest case for something unusual rests on three linked claims: the Black Hawk observer reported an odd light; Ellsworth radar personnel believed they had a corresponding target; and F-84 pilots visually pursued lights that behaved oddly from their perspective. Ruppelt’s account adds the most force by presenting these as synchronised observations of one object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The best evidence against a dramatic interpretation is the case’s messy fit with ordinary night-sky and radar problems. The Blue Book trip report itself mentions ground clutter, poor radar-track photography and imperfect correlation with the pilot’s report. The Condon analysis then gives a technically grounded alternative: stars, meteor, inversion effects, anomalous propagation, possible ghost echoes and possible radar-gunsight malfunction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The best evidence against a dramatic interpretation is the case’s messy fit with ordinary night-sky and radar problems. The Blue Book trip report itself mentions ground clutter, poor radar-track photography and imperfect correlation with the pilot’s report. The Condon analysis then gives a technically grounded alternative: stars, meteor, inversion effects, anomalous propagation, possible ghost echoes and possible radar-gunsight malfunction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-A balanced reading should therefore avoid two easy mistakes. The first is to say “radar plus pilots equals proof”. Radar returns can be misleading, pilots can misjudge lights at night, and stressful intercept situations can reinforce a mistaken interpretation. The second mistake is to say “stars and radar ghosts explain everything” with more confidence than the surviving record deserves. The official and later sceptical accounts include uncertainties of their own, including failed photos, untested equipment and conflicting recollections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A balanced reading should therefore avoid two easy mistakes. The first is to say “radar plus pilots equals proof”. Radar returns can be misleading, pilots can misjudge lights at night, and stressful intercept situations can reinforce a mistaken interpretation. The second mistake is to say “stars and radar ghosts explain everything” with more confidence than the surviving record deserves. The official and later sceptical accounts include uncertainties of their own, including failed photos, untested equipment and conflicting recollections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For South Dakota’s UFO history, that is exactly why the case remains important. It is a high-quality unresolved-or-disputed report, not because it proves extraordinary technology, but because it preserves the whole evidential problem in one night near Rapid City: trained observers, military systems, ambiguous instruments, later reinterpretation and a record strong enough to be memorable but too incomplete to settle the matter.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mv2EBM3El1w" title="1977 Nuke UAP Incident PART 1 - Mario Woods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mv2EBM3El1w" target="_blank" rel="noopener noreferrer">1977 Nuke UAP Incident PART 1 - Mario Woods</a></p><p class="youtube-embed-meta">Channel: Disclosure Team with Vinnie Adams &middot; Views: 9.4K &middot; Uploaded: May 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mv2EBM3El1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mv2EBM3El1w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the 1953 Rapid City Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the 1953 Rapid City Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Contains the Rapid City-Ellsworth case and its significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the Rapid City-Ellsworth case and its significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places the incident within military and government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the incident within military and government investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes military and aviation-related reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes military and aviation-related reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Analyzes radar-visual and witness cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes radar-visual and witness cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rapid-city-why-the-1953-rapid-city-case-still-matters-south-dakota-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ For South Dakota’s UFO history, that is exactly why the case remains important
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ For South Dakota’s UFO history, that is exactly why the case remains important
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ For South Dakota’s UFO history, that is exactly why the case remains important
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ For South Dakota’s UFO history, that is exactly why the case remains important
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -763,135 +763,135 @@ For South Dakota’s UFO history, that is exactly why the case remains important
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346.html</a>  
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/530805ellsworth_dir.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/530805EllsworthPBB1_109-111_docs.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/cbebd9ab-9279-43fa-9f20-6830f0113c1d" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/cbebd9ab-9279-43fa-9f20-6830f0113c1d</a>  
+   Link:<a href="https://enigmalabs.io/library/cbebd9ab-9279-43fa-9f20-6830f0113c1d" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/cbebd9ab-9279-43fa-9f20-6830f0113c1d</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sdhspress.com  
    Title: South Dakota Historical Society Press  
-   Link: <a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
+   Link:<a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: listdigitizedpartnerdata.xlsx  
-   Link: <a href="https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx</a>  
+   Link:<a href="https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/inventory15-part2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/inventory15-part2.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/inventory15-part2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/inventory15-part2.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: declassification.blogs.archives.gov  
    Title: indexing queue for blog part one  
-   Link: <a href="https://declassification.blogs.archives.gov/wp-content/uploads/sites/16/2015/10/indexing-queue-for-blog-part-one.pdf" target="_blank" rel="noopener noreferrer nofollow">https://declassification.blogs.archives.gov/wp-content/uploads/sites/16/2015/10/indexing-queue-for-blog-part-one.pdf</a>  
+   Link:<a href="https://declassification.blogs.archives.gov/wp-content/uploads/sites/16/2015/10/indexing-queue-for-blog-part-one.pdf" target="_blank" rel="noopener noreferrer nofollow">https://declassification.blogs.archives.gov/wp-content/uploads/sites/16/2015/10/indexing-queue-for-blog-part-one.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: 07166993 hcsa report 1976 1979 jfk  
-   Link: <a href="https://www.archives.gov/files/research/mlk/releases/2025/0721/07166993_hcsa_report_1976_1979_jfk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/mlk/releases/2025/0721/07166993_hcsa_report_1976_1979_jfk.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/mlk/releases/2025/0721/07166993_hcsa_report_1976_1979_jfk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/mlk/releases/2025/0721/07166993_hcsa_report_1976_1979_jfk.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/ellsworth53condon.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/ellsworth53harney.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/ellsworth53harney.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/ellsworth53harney.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/ellsworth53harney.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/ellsworth53.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/ellsworth53.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/ellsworth53.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/ellsworth53.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/ellsworth53ruppelttrue.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/ellsworth53ruppelttrue.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/ellsworth53ruppelttrue.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/ellsworth53ruppelttrue.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/427182434/Ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/427182434/Ufo</a>  
+   Link:<a href="https://www.scribd.com/document/427182434/Ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/427182434/Ufo</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
    Title: Condon Report  
-   Link: <a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
+   Link:<a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ellsworth&quot; UFO 1953 The Ellsworth UFO Encounter #unsolvedmystery The UFO Detective...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ellsworth&quot; UFO 1953 The Ellsworth UFO Encounter #unsolvedmystery The UFO Detective...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: What the Wall Street Journal isn't telling you about UFOs | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=FVpWXxneti4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FVpWXxneti4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FVpWXxneti4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FVpWXxneti4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mv2EBM3El1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mv2EBM3El1w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mv2EBM3El1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mv2EBM3El1w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D2KwttbD1r8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2KwttbD1r8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Wall Street Journal isn&#x27;t telling you about UFOs | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D2KwttbD1r8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2KwttbD1r8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Wall Street Journal isn&#x27;t telling you about UFOs | Reality Check...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles  
-   Link: <a href="https://www.youtube.com/watch?v=fU6LOfiUJ6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fU6LOfiUJ6Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 Nuke UAP Incident PART 1 - Mario Woods...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fU6LOfiUJ6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fU6LOfiUJ6Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977 Nuke UAP Incident PART 1 - Mario Woods...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
+   Link:<a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case41.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case41.htm</a>  
+   Link:<a href="https://www.ufoevidence.org/cases/case41.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case41.htm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1953.08%20-%206979324%20-%20Rapid%20City%2C%20Blackhawk%2C%20Sough%20Dakota%20Area.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1953.08%20-%206979324%20-%20Rapid%20City%2C%20Blackhawk%2C%20Sough%20Dakota%20Area.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1953.08%20-%206979324%20-%20Rapid%20City%2C%20Blackhawk%2C%20Sough%20Dakota%20Area.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1953.08%20-%206979324%20-%20Rapid%20City%2C%20Blackhawk%2C%20Sough%20Dakota%20Area.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/237316961284593/posts/788315899518027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/237316961284593/posts/788315899518027/</a>
+   Link:<a href="https://www.facebook.com/groups/237316961284593/posts/788315899518027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/237316961284593/posts/788315899518027/</a>

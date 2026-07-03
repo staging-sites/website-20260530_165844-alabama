@@ -250,19 +250,19 @@ image: /assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_red_rocks_shar
 
 ## Introduction
 
-The June 2024 Red Rocks sighting became one of [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }})’s most widely shared recent UFO stories because it appeared to solve a common weakness in eyewitness cases: there were supposedly twelve witnesses instead of one. According to reports circulated through the National UFO Reporting Center (NUFORC) and later amplified by local and national media, a group of Red Rocks Amphitheatre employees near Morrison claimed they saw a large disc-shaped object hovering silently north of the venue shortly after a concert ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13news.com/news/red-rocks-ufo-reporting-center-colorado-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13news.com">[2FOX 13]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13news.com</span><span class="citation-popover-title">red rocks ufo reporting center colorado sighting</span><span class="citation-popover-snippet">FOX 13 Tampa BayRed Rocks UFO: Workers say strange object hovered over...3 Jul 2024 — A dozen employees said they watched a large, disc...</span></span></span>
+The June 2024 Red Rocks sighting became one of [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }})’s most widely shared recent UFO stories because it appeared to solve a common weakness in eyewitness cases: there were supposedly twelve witnesses instead of one. According to reports circulated through the National UFO Reporting Center (NUFORC) and later amplified by local and national media, a group of Red Rocks Amphitheatre employees near Morrison claimed they saw a large disc-shaped object hovering silently north of the venue shortly after a concert ended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13news.com/news/red-rocks-ufo-reporting-center-colorado-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13news.com">[2FOX 13]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13news.com</span><span class="citation-popover-title">red rocks ufo reporting center colorado sighting</span><span class="citation-popover-snippet">FOX 13 Tampa BayRed Rocks UFO: Workers say strange object hovered over...3 Jul 2024 — A dozen employees said they watched a large, disc...</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_red_rocks_shared_tes_373360-Illustration-1-dark.svg" | relative_url }}" alt="Red Rocks illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_red_rocks_shared_tes_373360-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_red_rocks_shared_tes_373360-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At first glance, a dozen observers sounds far more convincing than a lone late-night report. Yet the Red Rocks case also demonstrates an important lesson in Colorado’s broader UFO history: multiple witnesses do not automatically produce reliable measurements, strong physical evidence, or a clear explanation. The witnesses agreed that they saw something unusual, but they still could not establish the object’s true distance, size, altitude, speed, or direction with confidence. That gap between “many people saw it” and “we know what it was” is exactly why the case fits into Colorado’s recurring pattern of dramatic but weakly evidenced [sightings]({{ 'sightings/' | relative_url }}).
 
 ## What the June 2024 witnesses reported
 
-The reported sighting took place around 1 a.m. on 5 June 2024 after a concert by country musician Ian Munsick at Red Rocks Amphitheatre. The original NUFORC submission said venue workers were cleaning up when one person pointed toward an object north of the amphitheatre. The report described a dark metallic disc with “three levels of windows” hovering above the treeline near the hogback ridge before disappearing after roughly thirty seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> BroBible Several details made the story spread quickly online and through television coverage: <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">multiple witnesses ufo red rocks amphitheatre</span><span class="citation-popover-snippet">Multiple Witnesses Report UFO Above Red Rocks...1 Jul 2024 — A dozen witnesses reported seeing a massive UFO light up the Colorado sky a...</span></span></span>
+The reported sighting took place around 1 a.m. on 5 June 2024 after a concert by country musician Ian Munsick at Red Rocks Amphitheatre. The original NUFORC submission said venue workers were cleaning up when one person pointed toward an object north of the amphitheatre. The report described a dark metallic disc with “three levels of windows” hovering above the treeline near the hogback ridge before disappearing after roughly thirty seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> BroBible Several details made the story spread quickly online and through television coverage:<span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">multiple witnesses ufo red rocks amphitheatre</span><span class="citation-popover-snippet">Multiple Witnesses Report UFO Above Red Rocks...1 Jul 2024 — A dozen witnesses reported seeing a massive UFO light up the Colorado sky a...</span></span></span>
 
 * The witnesses reportedly worked together rather than being random strangers.
 * The object was described as silent.
 * The report claimed the object was very large, possibly “several hundred feet long”.
-* The sighting supposedly involved direct visual confirmation from about twelve people at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denvergazette.com/2024/06/27/report-claims-12-people-at-red-rocks-saw-massive-ufo-hovering-in-the-sky-3c56dd38-34be-11ef-acad-ef34529a82fa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denvergazette.com">[Denver Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denvergazette.com</span><span class="citation-popover-snippet">Denver GazetteReport claims 12 people at Red Rocks saw massive UFO...A published report of the incident states that in the early morning...</span></span></span> BroBible Those elements gave the impression of a stronger-than-usual case. In UFO culture <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">multiple witnesses ufo red rocks amphitheatre</span><span class="citation-popover-snippet">Multiple Witnesses Report UFO Above Red Rocks...1 Jul 2024 — A dozen witnesses reported seeing a massive UFO light up the Colorado sky a...</span></span></span>, multi-witness sightings are often treated as more credible because they seem less vulnerable to hallucination or individual error. However, the Red Rocks report quickly showed how shared testimony can still leave major evidential gaps.
+* The sighting supposedly involved direct visual confirmation from about twelve people at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denvergazette.com/2024/06/27/report-claims-12-people-at-red-rocks-saw-massive-ufo-hovering-in-the-sky-3c56dd38-34be-11ef-acad-ef34529a82fa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denvergazette.com">[Denver Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denvergazette.com</span><span class="citation-popover-snippet">Denver GazetteReport claims 12 people at Red Rocks saw massive UFO...A published report of the incident states that in the early morning...</span></span></span> BroBible Those elements gave the impression of a stronger-than-usual case. In UFO culture<span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">multiple witnesses ufo red rocks amphitheatre</span><span class="citation-popover-snippet">Multiple Witnesses Report UFO Above Red Rocks...1 Jul 2024 — A dozen witnesses reported seeing a massive UFO light up the Colorado sky a...</span></span></span>, multi-witness sightings are often treated as more credible because they seem less vulnerable to hallucination or individual error. However, the Red Rocks report quickly showed how shared testimony can still leave major evidential gaps.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N_XUQcSO50g" title="Dozens saw bizarre UFO sighting at Red Rocks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N_XUQcSO50g" target="_blank" rel="noopener noreferrer">Dozens saw bizarre UFO sighting at Red Rocks</a></p><p class="youtube-embed-meta">Channel: FOX31 Denver &middot; Views: 295.5K &middot; Uploaded: June 2024 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N_XUQcSO50g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N_XUQcSO50g">Open on YouTube</a></p></div></div></div>
 
@@ -270,7 +270,7 @@ The reported sighting took place around 1 a.m. on 5 June 2024 after a concert by
 
 The strongest misconception surrounding the Red Rocks case was the idea that twelve witnesses automatically created twelve independent measurements. In reality, the witnesses were standing in roughly the same location and looking at the same patch of sky from almost identical angles.
 
-That matters because humans judge distance in the night sky very poorly without reference points. A light or object above a dark ridge can appear enormous if observers assume it is far away, while something relatively small and close can look distant and massive. The Red Rocks report itself illustrates this uncertainty: the witnesses estimated the object as somewhere between half a mile and a mile away, a very large range considering the object was visible for only about thirty seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That matters because humans judge distance in the night sky very poorly without reference points. A light or object above a dark ridge can appear enormous if observers assume it is far away, while something relatively small and close can look distant and massive. The Red Rocks report itself illustrates this uncertainty: the witnesses estimated the object as somewhere between half a mile and a mile away, a very large range considering the object was visible for only about thirty seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Without triangulation from separated observation points, there was no reliable way to calculate:
 
@@ -286,7 +286,7 @@ Without triangulation from separated observation points, there was no reliable w
 
 This is one of the classic weaknesses in many Front Range UFO reports. Colorado’s foothill geography creates dramatic visual conditions: dark ridgelines, isolated lights, open skies and long sightlines toward Denver-area air traffic corridors. A stationary or slowly moving object can appear to float unnaturally when viewed against a mountain backdrop at night.
 
-The social dynamics of group observation also matter. Once one witness says “that looks like a spaceship”, the description itself can shape how others interpret ambiguous lights or shapes. Psychologists studying eyewitness behaviour have long noted that memory and perception are socially influenced, especially in surprising or emotionally charged situations. In the Red Rocks case, witnesses reportedly kept asking each other variations of “Are you seeing this too?” while watching the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The social dynamics of group observation also matter. Once one witness says “that looks like a spaceship”, the description itself can shape how others interpret ambiguous lights or shapes. Psychologists studying eyewitness behaviour have long noted that memory and perception are socially influenced, especially in surprising or emotionally charged situations. In the Red Rocks case, witnesses reportedly kept asking each other variations of “Are you seeing this too?” while watching the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That exchange confirms a shared experience, but it also means the observers were actively reinforcing a common interpretation in real time.
 
@@ -308,7 +308,7 @@ The Denver–Front Range corridor combines several conditions that regularly pro
 
 </div>
 
-Colorado has repeatedly generated short-duration sightings where witnesses report unusual motion or lighting but cannot provide calibrated evidence afterwards. In August 2023, for example, airline pilots crossing eastern Colorado reported mysterious lights moving across the sky, yet even trained observers struggled to identify what they were seeing in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2023/08/25/strange-lights-in-the-sky-reported-by-pilots-around-eastern-colorado-thursday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">strange lights in the sky reported by pilots around eastern colorado thursday</span><span class="citation-popover-snippet">Colorado Public RadioStrange lights in the sky reported by pilots around eastern...25 Aug 2023 — Pilots on different routes that crossed...</span></span></span>
+Colorado has repeatedly generated short-duration sightings where witnesses report unusual motion or lighting but cannot provide calibrated evidence afterwards. In August 2023, for example, airline pilots crossing eastern Colorado reported mysterious lights moving across the sky, yet even trained observers struggled to identify what they were seeing in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2023/08/25/strange-lights-in-the-sky-reported-by-pilots-around-eastern-colorado-thursday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">strange lights in the sky reported by pilots around eastern colorado thursday</span><span class="citation-popover-snippet">Colorado Public RadioStrange lights in the sky reported by pilots around eastern...25 Aug 2023 — Pilots on different routes that crossed...</span></span></span>
 
 The Red Rocks setting added another complicating factor: late-night post-concert conditions. Witnesses had been working after a large event, likely under mixed lighting conditions and fatigue. The sighting reportedly occurred after midnight in an area already full of lighting contrasts, moving vehicles and nearby air traffic routes. None of this disproves the sighting, but it weakens the idea that multiple witnesses alone produce reliable certainty.
 
@@ -330,7 +330,7 @@ No publicly released evidence established:
 
 </div>
 
-Media coverage largely repeated the same witness narrative sourced from the NUFORC report rather than uncovering new documentation. FOX 13 Tampa Bay <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-spotted-colorado-red-rocks-1921200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Newsweek​​​​​​​UFO Reported Over Colorado Concert Venue4 Jul 2024 — A UFO was spotted above a concert venue in Colorado, a witness has re...</span></span></span> Even the object’s most dramatic characteristics remained uncertain. Witnesses described it as both“hovering” and then disappearing, but without fixed reference measurements, observers cannot reliably judge whether an object is stationary, moving slowly toward them, or simply fading from visibility due to lighting and angle changes. This problem appears repeatedly in UFO investigations.
+Media coverage largely repeated the same witness narrative sourced from the NUFORC report rather than uncovering new documentation. FOX 13 Tampa Bay<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-spotted-colorado-red-rocks-1921200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Newsweek​​​​​​​UFO Reported Over Colorado Concert Venue4 Jul 2024 — A UFO was spotted above a concert venue in Colorado, a witness has re...</span></span></span> Even the object’s most dramatic characteristics remained uncertain. Witnesses described it as both“hovering” and then disappearing, but without fixed reference measurements, observers cannot reliably judge whether an object is stationary, moving slowly toward them, or simply fading from visibility due to lighting and angle changes. This problem appears repeatedly in UFO investigations.
 
 The absence of video evidence was especially notable because the sighting happened in 2024 rather than decades earlier. Some witnesses reportedly said the encounter was too brief or surprising to record properly. That explanation is plausible, but it also means later investigators had almost no material to test independently.
 
@@ -368,194 +368,194 @@ That distinction is crucial for understanding Colorado’s larger UFO record. Th
 <img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_red_rocks_shared_tes_373360-Illustration-3-dark.svg" | relative_url }}" alt="Red Rocks illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_red_rocks_shared_tes_373360-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_red_rocks_shared_tes_373360-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Twelve Witnesses Really Strengthen the Red Rocks Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Twelve Witnesses Really Strengthen the Red Rocks Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses multiple-witness cases and official-source reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses multiple-witness cases and official-source reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness testimony, classification of sightings, and evidential limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness testimony, classification of sightings, and evidential limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for understanding why multiple observers can still reach mistaken conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Useful for understanding why multiple observers can still reach mistaken conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines recurring patterns in unusual reports and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines recurring patterns in unusual reports and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-twelve-witnesses-really-strengthen-the-red-rocks-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ That distinction is crucial for understanding Colorado’s larger UFO record. Th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ That distinction is crucial for understanding Colorado’s larger UFO record. Th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ That distinction is crucial for understanding Colorado’s larger UFO record. Th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ That distinction is crucial for understanding Colorado’s larger UFO record. Th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ That distinction is crucial for understanding Colorado’s larger UFO record. Th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,94 +761,94 @@ That distinction is crucial for understanding Colorado’s larger UFO record. Th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: brobible.com  
    Title: multiple witnesses ufo red rocks amphitheatre  
-   Link: <a href="https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Witnesses Report UFO Above Red Rocks...1 Jul 2024 — A dozen witnesses reported seeing a massive UFO light up the Colorado sky a...</p></details>
+   Link:<a href="https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/multiple-witnesses-ufo-red-rocks-amphitheatre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Witnesses Report UFO Above Red Rocks...1 Jul 2024 — A dozen witnesses reported seeing a massive UFO light up the Colorado sky a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/ufo-spotted-colorado-red-rocks-1921200" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-spotted-colorado-red-rocks-1921200</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Newsweek​​​​​​​UFO Reported Over Colorado Concert Venue4 Jul 2024 — A UFO was spotted above a concert venue in Colorado, a witness has re...</p></details>
+   Link:<a href="https://www.newsweek.com/ufo-spotted-colorado-red-rocks-1921200" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-spotted-colorado-red-rocks-1921200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newsweek​​​​​​​UFO Reported Over Colorado Concert Venue4 Jul 2024 — A UFO was spotted above a concert venue in Colorado, a witness has re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/</a>  
+   Link:<a href="https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/06/29/us-news/dozen-spot-ufo-soaring-above-red-rocks-amphitheater/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fox13news.com  
    Title: red rocks ufo reporting center colorado sighting  
-   Link: <a href="https://www.fox13news.com/news/red-rocks-ufo-reporting-center-colorado-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/red-rocks-ufo-reporting-center-colorado-sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 Tampa BayRed Rocks UFO: Workers say strange object hovered over...3 Jul 2024 — A dozen employees said they watched a large, disc...</p></details>
+   Link:<a href="https://www.fox13news.com/news/red-rocks-ufo-reporting-center-colorado-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/red-rocks-ufo-reporting-center-colorado-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 Tampa BayRed Rocks UFO: Workers say strange object hovered over...3 Jul 2024 — A dozen employees said they watched a large, disc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: denvergazette.com  
-   Link: <a href="https://www.denvergazette.com/2024/06/27/report-claims-12-people-at-red-rocks-saw-massive-ufo-hovering-in-the-sky-3c56dd38-34be-11ef-acad-ef34529a82fa/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2024/06/27/report-claims-12-people-at-red-rocks-saw-massive-ufo-hovering-in-the-sky-3c56dd38-34be-11ef-acad-ef34529a82fa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver GazetteReport claims 12 people at Red Rocks saw massive UFO...A published report of the incident states that in the early morning...</p></details>
+   Link:<a href="https://www.denvergazette.com/2024/06/27/report-claims-12-people-at-red-rocks-saw-massive-ufo-hovering-in-the-sky-3c56dd38-34be-11ef-acad-ef34529a82fa/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2024/06/27/report-claims-12-people-at-red-rocks-saw-massive-ufo-hovering-in-the-sky-3c56dd38-34be-11ef-acad-ef34529a82fa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denver GazetteReport claims 12 people at Red Rocks saw massive UFO...A published report of the incident states that in the early morning...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cpr.org  
    Title: strange lights in the sky reported by pilots around eastern colorado thursday  
-   Link: <a href="https://www.cpr.org/2023/08/25/strange-lights-in-the-sky-reported-by-pilots-around-eastern-colorado-thursday/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2023/08/25/strange-lights-in-the-sky-reported-by-pilots-around-eastern-colorado-thursday/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Public RadioStrange lights in the sky reported by pilots around eastern...25 Aug 2023 — Pilots on different routes that crossed...</p></details>
+   Link:<a href="https://www.cpr.org/2023/08/25/strange-lights-in-the-sky-reported-by-pilots-around-eastern-colorado-thursday/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2023/08/25/strange-lights-in-the-sky-reported-by-pilots-around-eastern-colorado-thursday/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Public RadioStrange lights in the sky reported by pilots around eastern...25 Aug 2023 — Pilots on different routes that crossed...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: denvergazette.com  
-   Link: <a href="https://www.denvergazette.com/outtherecolorado/red-rocks-ufo-vanished-when-hit-with-beam-from-flashlight-says-witness-e9c96dc6-359c-11ef-b9a0-57de1af74a8e/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/outtherecolorado/red-rocks-ufo-vanished-when-hit-with-beam-from-flashlight-says-witness-e9c96dc6-359c-11ef-b9a0-57de1af74a8e/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Red Rocks UFO&#x27; vanished when hit with beam from...28 Jun 2024 — After being present for about 30 seconds, the object described as metal...</p></details>
+   Link:<a href="https://www.denvergazette.com/outtherecolorado/red-rocks-ufo-vanished-when-hit-with-beam-from-flashlight-says-witness-e9c96dc6-359c-11ef-b9a0-57de1af74a8e/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/outtherecolorado/red-rocks-ufo-vanished-when-hit-with-beam-from-flashlight-says-witness-e9c96dc6-359c-11ef-b9a0-57de1af74a8e/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Red Rocks UFO&#x27; vanished when hit with beam from...28 Jun 2024 — After being present for about 30 seconds, the object described as metal...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dqpqo4/mass_sighting_at_red_rocks_in_colorado/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dqpqo4/mass_sighting_at_red_rocks_in_colorado/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass sighting at Red Rocks in Colorado: r/UFOsIt was like any other night at Red Rocks Amphitheatre until a report said an odd object li...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dqpqo4/mass_sighting_at_red_rocks_in_colorado/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dqpqo4/mass_sighting_at_red_rocks_in_colorado/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mass sighting at Red Rocks in Colorado: r/UFOsIt was like any other night at Red Rocks Amphitheatre until a report said an odd object li...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.iheart.com  
    Title: 2024 07 01 red rocks ufo witness comes forward with new details on mass sighting  
-   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-07-01-red-rocks-ufo-witness-comes-forward-with-new-details-on-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-07-01-red-rocks-ufo-witness-comes-forward-with-new-details-on-mass-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocks UFO Witness Comes Forward with New Details...1 Jul 2024 — The Red Rocks Amphitheatre worker who reported a mass UFO sighting has c...</p></details>
+   Link:<a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-07-01-red-rocks-ufo-witness-comes-forward-with-new-details-on-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-07-01-red-rocks-ufo-witness-comes-forward-with-new-details-on-mass-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocks UFO Witness Comes Forward with New Details...1 Jul 2024 — The Red Rocks Amphitheatre worker who reported a mass UFO sighting has c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1drvulc/12_witnesses_spot_ufo_soaring_above_red_rocks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1drvulc/12_witnesses_spot_ufo_soaring_above_red_rocks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was witnessed by people cleaning up the venue. Not typically a place you have your phone handy and only...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1drvulc/12_witnesses_spot_ufo_soaring_above_red_rocks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1drvulc/12_witnesses_spot_ufo_soaring_above_red_rocks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was witnessed by people cleaning up the venue. Not typically a place you have your phone handy and only...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: westword.com  
    Title: red rocks ufo sighting inspires skeptics and believers alike 21253654  
-   Link: <a href="https://www.westword.com/opinion/red-rocks-ufo-sighting-inspires-skeptics-and-believers-alike-21253654/" target="_blank" rel="noopener noreferrer nofollow">https://www.westword.com/opinion/red-rocks-ufo-sighting-inspires-skeptics-and-believers-alike-21253654/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver WestwordRed Rocks UFO Sighting Inspires Skeptics and Believers...7 Jul 2024 — On June 5, a “large, disc-shaped craft with three l...</p></details>
+   Link:<a href="https://www.westword.com/opinion/red-rocks-ufo-sighting-inspires-skeptics-and-believers-alike-21253654/" target="_blank" rel="noopener noreferrer nofollow">https://www.westword.com/opinion/red-rocks-ufo-sighting-inspires-skeptics-and-believers-alike-21253654/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denver WestwordRed Rocks UFO Sighting Inspires Skeptics and Believers...7 Jul 2024 — On June 5, a “large, disc-shaped craft with three l...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, with employees saying they watched a “large, disc-shaped craft”...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, with employees saying they watched a “large, disc-shaped craft”...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX7Austin/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/907529718079951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/907529718079951/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ater in Colorado spotted a UFO in early June and described it as...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/FOX7Austin/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/907529718079951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/907529718079951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ater in Colorado spotted a UFO in early June and described it as...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fox10phoenix.com  
    Title: red rocks ufo reporting center colorado sighting  
-   Link: <a href="https://www.fox10phoenix.com/news/red-rocks-ufo-reporting-center-colorado-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10phoenix.com/news/red-rocks-ufo-reporting-center-colorado-sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Rocks UFO: Workers say strange object hovered over...3 Jul 2024 — A dozen employees said they watched a large, disc-shaped craft hov...</p></details>
+   Link:<a href="https://www.fox10phoenix.com/news/red-rocks-ufo-reporting-center-colorado-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10phoenix.com/news/red-rocks-ufo-reporting-center-colorado-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Rocks UFO: Workers say strange object hovered over...3 Jul 2024 — A dozen employees said they watched a large, disc-shaped craft hov...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1evf7rp/remember_the_red_rocks_sighting_i_spoke_to_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1evf7rp/remember_the_red_rocks_sighting_i_spoke_to_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he phenomenon. When I came across this Red Rocks sighting...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1evf7rp/remember_the_red_rocks_sighting_i_spoke_to_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1evf7rp/remember_the_red_rocks_sighting_i_spoke_to_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he phenomenon. When I came across this Red Rocks sighting...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C87b_faPUKg/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C87b_faPUKg/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocks Amphitheater. The sighting occurred during a concert.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/C87b_faPUKg/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C87b_faPUKg/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocks Amphitheater. The sighting occurred during a concert.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C9DtAZYvsgr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C9DtAZYvsgr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ise, but they&#x27;re certain they spotted something odd in the...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C9DtAZYvsgr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C9DtAZYvsgr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ise, but they&#x27;re certain they spotted something odd in the...</p></details>

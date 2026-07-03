@@ -250,37 +250,37 @@ image: /assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263_atomic_security
 
 ## Introduction
 
-[Oak Ridge]({{ 'oak-ridge/' | relative_url }}) gave UFO reports a different meaning from almost anywhere else in Tennessee. In most towns, a report of strange lights or unusual objects in the sky might have been treated as a curiosity, a newspaper oddity or a possible misidentification. Near Oak Ridge, however, the same report could raise questions about national security. The city had been created during the Second World War as part of the Manhattan Project, and by the late 1940s it remained associated with uranium enrichment, nuclear research and tightly controlled federal facilities. In that environment, even uncertain aerial sightings could be interpreted through the lens of surveillance, espionage and air defence rather than simply public fascination with “flying saucers”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Security and Secrecy</span><span class="citation-popover-snippet">and Secrecy - Atomic Heritage FoundationOne obvious reason the Manhattan Engineers District selected Los Alamos, NM, Oak Ridge, TN, and H...</span></span></span>
+[Oak Ridge]({{ 'oak-ridge/' | relative_url }}) gave UFO reports a different meaning from almost anywhere else in Tennessee. In most towns, a report of strange lights or unusual objects in the sky might have been treated as a curiosity, a newspaper oddity or a possible misidentification. Near Oak Ridge, however, the same report could raise questions about national security. The city had been created during the Second World War as part of the Manhattan Project, and by the late 1940s it remained associated with uranium enrichment, nuclear research and tightly controlled federal facilities. In that environment, even uncertain aerial sightings could be interpreted through the lens of surveillance, espionage and air defence rather than simply public fascination with “flying saucers”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Security and Secrecy</span><span class="citation-popover-snippet">and Secrecy - Atomic Heritage FoundationOne obvious reason the Manhattan Engineers District selected Los Alamos, NM, Oak Ridge, TN, and H...</span></span></span>
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263_atomic_security_sigh_5c117a-Illustration-1-dark.svg" | relative_url }}" alt="Atomic Security illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263_atomic_security_sigh_5c117a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263_atomic_security_sigh_5c117a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This helps explain why Oak Ridge appears repeatedly in early flying-saucer records. The significance was not necessarily that officials believed extraterrestrial craft were present. Rather, officials could not immediately dismiss reports near an atomic installation, particularly during the opening years of the Cold War. The concern was whether an unidentified object might represent reconnaissance, a security breach, public panic, or a failure in reporting channels designed to protect one of the country's most sensitive sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manhattan_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manhattan Project</span><span class="citation-popover-snippet">Manhattan ProjectIn December 1945 the US Army published a secret report assessing the security apparatus surrounding the Manhattan Pro...</span><span class="citation-popover-meta">Published: December 1945</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+This helps explain why Oak Ridge appears repeatedly in early flying-saucer records. The significance was not necessarily that officials believed extraterrestrial craft were present. Rather, officials could not immediately dismiss reports near an atomic installation, particularly during the opening years of the Cold War. The concern was whether an unidentified object might represent reconnaissance, a security breach, public panic, or a failure in reporting channels designed to protect one of the country's most sensitive sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manhattan_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manhattan Project</span><span class="citation-popover-snippet">Manhattan ProjectIn December 1945 the US Army published a secret report assessing the security apparatus surrounding the Manhattan Pro...</span><span class="citation-popover-meta">Published: December 1945</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 ## How Oak Ridge changed the meaning of a sighting
 
-The key point is that Oak Ridge was already a security problem before it became a UFO story. The Manhattan Project had been built around secrecy, isolation and restricted access. During the war, the federal government created an entire controlled city in East Tennessee to support atomic weapons development. Guards, checkpoints, security clearances and information controls were part of everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Security and Secrecy</span><span class="citation-popover-snippet">and Secrecy - Atomic Heritage FoundationOne obvious reason the Manhattan Engineers District selected Los Alamos, NM, Oak Ridge, TN, and H...</span></span></span>
+The key point is that Oak Ridge was already a security problem before it became a UFO story. The Manhattan Project had been built around secrecy, isolation and restricted access. During the war, the federal government created an entire controlled city in East Tennessee to support atomic weapons development. Guards, checkpoints, security clearances and information controls were part of everyday life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Security and Secrecy</span><span class="citation-popover-snippet">and Secrecy - Atomic Heritage FoundationOne obvious reason the Manhattan Engineers District selected Los Alamos, NM, Oak Ridge, TN, and H...</span></span></span>
 
-After 1945, the strategic value of Oak Ridge did not disappear. The United States entered a growing confrontation with the Soviet Union, and military planners worried about espionage, sabotage and long-range air attack against nuclear facilities. Historians of the early flying-saucer era have noted that atomic sites became some of the most closely watched pieces of airspace in the country. Radar systems, visual observers and military reporting networks were increasingly tied to the protection of facilities such as Oak Ridge, Hanford and Los Alamos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
+After 1945, the strategic value of Oak Ridge did not disappear. The United States entered a growing confrontation with the Soviet Union, and military planners worried about espionage, sabotage and long-range air attack against nuclear facilities. Historians of the early flying-saucer era have noted that atomic sites became some of the most closely watched pieces of airspace in the country. Radar systems, visual observers and military reporting networks were increasingly tied to the protection of facilities such as Oak Ridge, Hanford and Los Alamos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
 
 Because of that background, an unexplained object over Oak Ridge was not merely a question of identification. It immediately became a question of vulnerability. If witnesses reported something unusual and authorities ignored it, they risked overlooking a genuine security threat. If they reacted too strongly, they risked feeding rumours and confusion. The result was a bureaucratic environment in which even weak reports could attract official attention.
 
-The 1947 Oak Ridge photographs illustrate this problem. The surviving records show that reports and photographs associated with alleged flying saucers over the Oak Ridge area were preserved within an internal-security framework rather than being treated purely as local curiosities. That does not prove the photographs showed anything extraordinary. It does show that the location itself altered how the reports were processed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">UF O Files Released by U.S</span><span class="citation-popover-snippet">Department of War (Updated)1 day ago — The records include high-profile incident accounts, photographic evidence from sites like Oak Ridg...</span></span></span>(https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/UFO/UFO%20Part%2016%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">UFO Part 16 (Final)UFO Part 16 (Final). Download PDF. — PDF document, 9424 kB (9650746 bytes). Document Viewer.Read more...</span></span></span>
+The 1947 Oak Ridge photographs illustrate this problem. The surviving records show that reports and photographs associated with alleged flying saucers over the Oak Ridge area were preserved within an internal-security framework rather than being treated purely as local curiosities. That does not prove the photographs showed anything extraordinary. It does show that the location itself altered how the reports were processed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">UF O Files Released by U.S</span><span class="citation-popover-snippet">Department of War (Updated)1 day ago — The records include high-profile incident accounts, photographic evidence from sites like Oak Ridg...</span></span></span>(https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/)<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/UFO/UFO%20Part%2016%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">UFO Part 16 (Final)UFO Part 16 (Final). Download PDF. — PDF document, 9424 kB (9650746 bytes). Document Viewer.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b7wrSI3ORUE" title="A Rare Look at the Secret Site of the Atomic Bomb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b7wrSI3ORUE" target="_blank" rel="noopener noreferrer">A Rare Look at the Secret Site of the Atomic Bomb</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 71.3K &middot; Uploaded: July 2013 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b7wrSI3ORUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b7wrSI3ORUE">Open on YouTube</a></p></div></div></div>
 
 ## Why officials could not simply ignore the reports
 
-Modern readers sometimes assume that officials investigated UFO reports because they feared alien visitors. The documentary record points to a more practical concern. The United States had recently witnessed major wartime surprises, including long-range attacks and technological developments that had transformed military planning. By 1947, defence officials were aware that advanced aircraft, missiles and reconnaissance technologies could emerge quickly and with little warning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Modern readers sometimes assume that officials investigated UFO reports because they feared alien visitors. The documentary record points to a more practical concern. The United States had recently witnessed major wartime surprises, including long-range attacks and technological developments that had transformed military planning. By 1947, defence officials were aware that advanced aircraft, missiles and reconnaissance technologies could emerge quickly and with little warning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 That context helps explain why apparently mundane reports could move through federal channels.
 
 Several factors made Oak Ridge especially sensitive:
 
-* **Strategic importance:** Oak Ridge remained connected to the American nuclear programme and therefore represented a potential intelligence target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</span></span></span>
+* **Strategic importance:** Oak Ridge remained connected to the American nuclear programme and therefore represented a potential intelligence target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</span></span></span>
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
-* **Cold War uncertainty:** Early post-war officials often lacked reliable information about Soviet capabilities and future air threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
-* **Radar expansion:** Atomic facilities were among the locations where radar monitoring and air-defence reporting received particular attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manhattan_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manhattan Project</span><span class="citation-popover-snippet">Manhattan ProjectIn December 1945 the US Army published a secret report assessing the security apparatus surrounding the Manhattan Pro...</span><span class="citation-popover-meta">Published: December 1945</span></span></span>
+* **Cold War uncertainty:** Early post-war officials often lacked reliable information about Soviet capabilities and future air threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
+* **Radar expansion:** Atomic facilities were among the locations where radar monitoring and air-defence reporting received particular attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manhattan_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manhattan Project</span><span class="citation-popover-snippet">Manhattan ProjectIn December 1945 the US Army published a secret report assessing the security apparatus surrounding the Manhattan Pro...</span><span class="citation-popover-meta">Published: December 1945</span></span></span>
 * **Reporting obligations:** Security officers could face criticism for dismissing reports too quickly if an actual intrusion later proved significant.
 
 </div>
@@ -293,9 +293,9 @@ In practical terms, the safest bureaucratic response was often to document and f
 
 One of the most revealing aspects of the Oak Ridge material is not the sightings themselves but the paper trail they generated.
 
-The surviving FBI-linked records show reports moving through security channels, with references to photographs, newspaper coverage and communications connected to flying-saucer claims in the Oak Ridge area. The importance of these files is that they demonstrate institutional interest. Officials considered the reports worth recording, forwarding and preserving, even when the evidence was weak or inconclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">ufos and the guy hottel memo</span><span class="citation-popover-snippet">Federal Bureau of InvestigationUFOs and the Guy Hottel MemoMar 25, 2013 — An FBI memo in 1950 regarding an unconfirmed account of “flying...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">UF O Files Released by U.S</span><span class="citation-popover-snippet">Department of War (Updated)1 day ago — The records include high-profile incident accounts, photographic evidence from sites like Oak Ridg...</span></span></span>(https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/)
+The surviving FBI-linked records show reports moving through security channels, with references to photographs, newspaper coverage and communications connected to flying-saucer claims in the Oak Ridge area. The importance of these files is that they demonstrate institutional interest. Officials considered the reports worth recording, forwarding and preserving, even when the evidence was weak or inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">ufos and the guy hottel memo</span><span class="citation-popover-snippet">Federal Bureau of InvestigationUFOs and the Guy Hottel MemoMar 25, 2013 — An FBI memo in 1950 regarding an unconfirmed account of “flying...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">UF O Files Released by U.S</span><span class="citation-popover-snippet">Department of War (Updated)1 day ago — The records include high-profile incident accounts, photographic evidence from sites like Oak Ridg...</span></span></span>(https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/)
 
-This reflects a broader national pattern. Later Air Force programmes, including the investigations that eventually became Project [Blue Book]({{ 'blue-book-68b442/' | relative_url }}), formally treated unidentified aerial reports as a potential national-security issue before asking whether they had scientific value. One of Blue Book's stated purposes was determining whether reported UFOs represented a threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+This reflects a broader national pattern. Later Air Force programmes, including the investigations that eventually became Project [Blue Book]({{ 'blue-book-68b442/' | relative_url }}), formally treated unidentified aerial reports as a potential national-security issue before asking whether they had scientific value. One of Blue Book's stated purposes was determining whether reported UFOs represented a threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 Oak Ridge therefore sat at the intersection of two reporting systems:
 
@@ -309,7 +309,7 @@ When a sighting occurred near an atomic installation, those systems could overla
 
 An important part of the Oak Ridge story is how easily security concerns could be triggered by uncertain evidence.
 
-Most UFO reports from the late 1940s and early 1950s lacked the kind of data modern investigators would want. Witnesses often provided brief descriptions. Photographs were blurry. Radar technology had limitations. Atmospheric effects, aircraft lights, balloons and observational errors could all produce confusing reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Report on Unidentified Flying Objects: Chapter Three....It is widely believed that many flying saucers ap...</span></span></span>
+Most UFO reports from the late 1940s and early 1950s lacked the kind of data modern investigators would want. Witnesses often provided brief descriptions. Photographs were blurry. Radar technology had limitations. Atmospheric effects, aircraft lights, balloons and observational errors could all produce confusing reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Report on Unidentified Flying Objects: Chapter Three....It is widely believed that many flying saucers ap...</span></span></span>
 
 For security officials, this created a dilemma. The threshold for concern was low because the consequences of missing a genuine threat appeared high.
 
@@ -320,11 +320,11 @@ In that sense, Oak Ridge sightings reveal more about Cold War risk management th
 <img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263_atomic_security_sigh_5c117a-Illustration-3-dark.svg" | relative_url }}" alt="Atomic Security illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263_atomic_security_sigh_5c117a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263_atomic_security_sigh_5c117a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later reports and the atomic-site pattern
 
-Oak Ridge did not remain limited to the 1947 photograph episode. Later UFO literature and Air Force-era discussions repeatedly linked atomic facilities with unusual aerial reports. Accounts involving radar observations, visual sightings and security concerns appeared not only around Oak Ridge but also around other nuclear-related locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
+Oak Ridge did not remain limited to the 1947 photograph episode. Later UFO literature and Air Force-era discussions repeatedly linked atomic facilities with unusual aerial reports. Accounts involving radar observations, visual sightings and security concerns appeared not only around Oak Ridge but also around other nuclear-related locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
 
-Supporters of a genuine mystery argue that the recurring appearance of nuclear sites in UFO records suggests more than coincidence. They point to repeated reports near facilities involved in weapons production, research or storage. Some researchers see the pattern itself as worthy of investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Supporters of a genuine mystery argue that the recurring appearance of nuclear sites in UFO records suggests more than coincidence. They point to repeated reports near facilities involved in weapons production, research or storage. Some researchers see the pattern itself as worthy of investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Sceptics reach a different conclusion. They argue that atomic installations generated more reports because they already attracted heightened observation. More guards, more radar coverage, more restricted airspace and more alert personnel naturally increased the likelihood that unusual lights or aircraft would be noticed and formally documented. From this perspective, the pattern may reflect surveillance intensity rather than unusual aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
+Sceptics reach a different conclusion. They argue that atomic installations generated more reports because they already attracted heightened observation. More guards, more radar coverage, more restricted airspace and more alert personnel naturally increased the likelihood that unusual lights or aircraft would be noticed and formally documented. From this perspective, the pattern may reflect surveillance intensity rather than unusual aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
 
 The public evidence from Oak Ridge does not clearly settle that debate.
 
@@ -332,169 +332,169 @@ The public evidence from Oak Ridge does not clearly settle that debate.
 
 ## Where caution ends and speculation begins
 
-The strongest historical claim that can be supported is relatively modest. Oak Ridge sightings mattered because they occurred near one of the most important atomic centres in the United States. That location changed how reports were interpreted, recorded and routed through government systems. Surviving records show concern, documentation and security interest. They do not demonstrate that unidentified craft penetrated the site or that officials confirmed anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of InvestigationTo that end, the FBI Vault features a collection of documents and other media that have been processed u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">UF O Files Released by U.S</span><span class="citation-popover-snippet">Department of War (Updated)1 day ago — The records include high-profile incident accounts, photographic evidence from sites like Oak Ridg...</span></span></span>(https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/)
+The strongest historical claim that can be supported is relatively modest. Oak Ridge sightings mattered because they occurred near one of the most important atomic centres in the United States. That location changed how reports were interpreted, recorded and routed through government systems. Surviving records show concern, documentation and security interest. They do not demonstrate that unidentified craft penetrated the site or that officials confirmed anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of InvestigationTo that end, the FBI Vault features a collection of documents and other media that have been processed u...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">UF O Files Released by U.S</span><span class="citation-popover-snippet">Department of War (Updated)1 day ago — The records include high-profile incident accounts, photographic evidence from sites like Oak Ridg...</span></span></span>(https://www.leonarddavid.com/ufo-files-released-by-u-s-department-of-war/)
 
-The weakest claims emerge when the existence of security files is treated as proof of a hidden conclusion. Government attention does not automatically mean government confirmation. Security agencies routinely collect information precisely because they do not yet know what an event represents. The Oak Ridge documents show uncertainty and caution far more clearly than they show answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
+The weakest claims emerge when the existence of security files is treated as proof of a hidden conclusion. Government attention does not automatically mean government confirmation. Security agencies routinely collect information precisely because they do not yet know what an event represents. The Oak Ridge documents show uncertainty and caution far more clearly than they show answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
 
-Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge is important not because it provides clear evidence of unknown craft, but because it shows how the atomic age transformed ordinary aerial reports into matters of federal concern. A sighting near a uranium facility carried implications that the same sighting elsewhere might never have acquired. In the early Cold War years, officials often worried less about extraterrestrials than about the possibility that an unexplained object in the wrong place could expose a weakness in the nation's most closely guarded infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
+Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge is important not because it provides clear evidence of unknown craft, but because it shows how the atomic age transformed ordinary aerial reports into matters of federal concern. A sighting near a uranium facility carried implications that the same sighting elsewhere might never have acquired. In the early Cold War years, officials often worried less about extraterrestrials than about the possibility that an unexplained object in the wrong place could expose a weakness in the nation's most closely guarded infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Federal Bureau of Investigation</span><span class="citation-popover-snippet">Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why did saucers near Oak Ridge worry officials?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why did saucers near Oak Ridge worry officials?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+by+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Making of the Atomic Bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2G2TlJOhGI8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Making of the Atomic Bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+by+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Making of the Atomic Bomb">The Making of the Atomic Bomb</a>
-        </h4>
-        <p class="fr-book-author">By Richard Rhodes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+by+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Making of the Atomic Bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2G2TlJOhGI8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Making of the Atomic Bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+by+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Making of the Atomic Bomb">The Making of the Atomic Bomb</a>
+</h4>
+<p class="fr-book-author">By Richard Rhodes</p>
         
-        <p class="fr-book-desc">Explains the atomic-security background that made Oak Ridge sightings sensitive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+by+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the atomic-security background that made Oak Ridge sightings sensitive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+by+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how secret facilities often become focal points for unidentified-object claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how secret facilities often become focal points for unidentified-object claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Provides broader context on Cold War security culture and official concern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on Cold War security culture and official concern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly relates to government handling of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to government handling of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Making of the Atomic Bomb</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Making of the Atomic Bomb</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE McDonalds Vintage corporate Promo paperweight magnetic glass picture holder"><img src="https://i.ebayimg.com/images/g/iyEAAeSwbA9of7oE/s-l225.jpg" alt="Listing image for RARE McDonalds Vintage corporate Promo paperweight magnetic glass picture holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RARE McDonalds Vintage corporate Promo paperweight magnetic glass picture holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: atomic age memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE McDonalds Vintage corporate Promo paperweight magnetic glass picture holder"><img src="https://i.ebayimg.com/images/g/iyEAAeSwbA9of7oE/s-l225.jpg" alt="Listing image for RARE McDonalds Vintage corporate Promo paperweight magnetic glass picture holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RARE McDonalds Vintage corporate Promo paperweight magnetic glass picture holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: atomic age memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Stromsberg Viking Runestone Etched Crystal Paperweight Swedish Glass 3&quot;"><img src="https://i.ebayimg.com/images/g/LFYAAeSwHappjpO6/s-l225.jpg" alt="Listing image for Vintage Stromsberg Viking Runestone Etched Crystal Paperweight Swedish Glass 3&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Stromsberg Viking Runestone Etched Crystal Paperweight Swedish Glass 3&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: atomic age memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Stromsberg Viking Runestone Etched Crystal Paperweight Swedish Glass 3&quot;"><img src="https://i.ebayimg.com/images/g/LFYAAeSwHappjpO6/s-l225.jpg" alt="Listing image for Vintage Stromsberg Viking Runestone Etched Crystal Paperweight Swedish Glass 3&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Stromsberg Viking Runestone Etched Crystal Paperweight Swedish Glass 3&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atomic age memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: atomic age memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=atomic+age+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atomic age memorabilia" data-ebay-reference="why-did-saucers-near-oak-ridge-worry-officials-atomic-age-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,126 +700,126 @@ Within Tennessee's UFO history, that may be the most revealing lesson. Oak Ridge
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Manhattan Project  
-   Link: <a href="https://en.wikipedia.org/wiki/Manhattan_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manhattan_Project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manhattan ProjectIn December 1945 the US Army published a secret report assessing the security apparatus surrounding the Manhattan Pro...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Manhattan_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manhattan_Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manhattan ProjectIn December 1945 the US Army published a secret report assessing the security apparatus surrounding the Manhattan Pro...</p></details>
    Published: December 1945  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 5  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War65_hs1-834228961_62-hq-83894_section_5.pdfChief security Div Oak Ridge is anxious to get qualified personnel... the inf...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War65_hs1-834228961_62-hq-83894_section_5.pdfChief security Div Oak Ridge is anxious to get qualified personnel... the inf...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/UFO/UFO%20Part%2016%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO/UFO%20Part%2016%20%28Final%29/view</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Part 16 (Final)UFO Part 16 (Final). Download PDF. — PDF document, 9424 kB (9650746 bytes). Document Viewer.Read more...</p></details>
+   Link:<a href="https://vault.fbi.gov/UFO/UFO%20Part%2016%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO/UFO%20Part%2016%20%28Final%29/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Part 16 (Final)UFO Part 16 (Final). Download PDF. — PDF document, 9424 kB (9650746 bytes). Document Viewer.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fbi.gov  
    Title: ufos and the guy hottel memo  
-   Link: <a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationUFOs and the Guy Hottel MemoMar 25, 2013 — An FBI memo in 1950 regarding an unconfirmed account of “flying...</p></details>
+   Link:<a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationUFOs and the Guy Hottel MemoMar 25, 2013 — An FBI memo in 1950 regarding an unconfirmed account of “flying...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationTo that end, the FBI Vault features a collection of documents and other media that have been processed u...</p></details>
+   Link:<a href="https://vault.fbi.gov/" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationTo that end, the FBI Vault features a collection of documents and other media that have been processed u...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/contact-us" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/contact-us</a>  
+   Link:<a href="https://www.fbi.gov/contact-us" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/contact-us</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Federal Bureau of Investigation  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationThe Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the Unit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nps.gov  
    Title: National Park Service Oak Ridge, TN  
-   Link: <a href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/mapr/oak-ridge.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</p></details>
+   Link:<a href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/mapr/oak-ridge.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceOak Ridge, TN - Manhattan Project17 Apr 2025 — Oak Ridge, Tennessee was home to several massive Manhattan Project fa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ahf.nuclearmuseum.org  
    Title: Nuclear Museum Security and Secrecy  
-   Link: <a href="https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Secrecy - Atomic Heritage FoundationOne obvious reason the Manhattan Engineers District selected Los Alamos, NM, Oak Ridge, TN, and H...</p></details>
+   Link:<a href="https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Secrecy - Atomic Heritage FoundationOne obvious reason the Manhattan Engineers District selected Los Alamos, NM, Oak Ridge, TN, and H...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo05.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Report on Unidentified Flying Objects: Chapter Three....It is widely believed that many flying saucers ap...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo05.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Report on Unidentified Flying Objects: Chapter Three....It is widely believed that many flying saucers ap...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: osti.gov  
-   Link: <a href="https://www.osti.gov/opennet/manhattan-project-history/Resources/sources.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/opennet/manhattan-project-history/Resources/sources.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manhattan Project: Sources and NotesThe map of Oak Ridge is reproduced from Vincent C. Jones, Manhattan: The Army and the Atomic Bomb, Un...</p></details>
+   Link:<a href="https://www.osti.gov/opennet/manhattan-project-history/Resources/sources.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/opennet/manhattan-project-history/Resources/sources.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manhattan Project: Sources and NotesThe map of Oak Ridge is reproduced from Vincent C. Jones, Manhattan: The Army and the Atomic Bomb, Un...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PeterSantenello/posts/inside-americas-secret-nuclear-town/1465599928261045/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterSantenello/posts/inside-americas-secret-nuclear-town/1465599928261045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside America&#x27;s Secret Nuclear TownThe entire city of Oak Ridge was also fenced in during the Manhattan Project, and protected at each e...</p></details>
+   Link:<a href="https://www.facebook.com/PeterSantenello/posts/inside-americas-secret-nuclear-town/1465599928261045/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterSantenello/posts/inside-americas-secret-nuclear-town/1465599928261045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside America&#x27;s Secret Nuclear TownThe entire city of Oak Ridge was also fenced in during the Manhattan Project, and protected at each e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: savingplaces.org  
-   Link: <a href="https://savingplaces.org/stories/secret-cities-manhattan-project-national-historical-park" target="_blank" rel="noopener noreferrer nofollow">https://savingplaces.org/stories/secret-cities-manhattan-project-national-historical-park</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Cities: Manhattan Project National Historical ParkManhattan Project National Historical Park preserves the classified sites and co...</p></details>
+   Link:<a href="https://savingplaces.org/stories/secret-cities-manhattan-project-national-historical-park" target="_blank" rel="noopener noreferrer nofollow">https://savingplaces.org/stories/secret-cities-manhattan-project-national-historical-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Cities: Manhattan Project National Historical ParkManhattan Project National Historical Park preserves the classified sites and co...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: off the map the secret cities behind the atom bomb manhattan project  
-   Link: <a href="https://www.theguardian.com/cities/2018/may/03/off-the-map-the-secret-cities-behind-the-atom-bomb-manhattan-project" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/cities/2018/may/03/off-the-map-the-secret-cities-behind-the-atom-bomb-manhattan-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Off the map: the secret cities behind the atom bomb3 May 2018 — Oak Ridge was one of three “secret cities” of the Manhattan Project, alon...</p></details>
+   Link:<a href="https://www.theguardian.com/cities/2018/may/03/off-the-map-the-secret-cities-behind-the-atom-bomb-manhattan-project" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/cities/2018/may/03/off-the-map-the-secret-cities-behind-the-atom-bomb-manhattan-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Off the map: the secret cities behind the atom bomb3 May 2018 — Oak Ridge was one of three “secret cities” of the Manhattan Project, alon...</p></details>
    Published: May 2018  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/vault-open-government-launches-massive-124428805.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/vault-open-government-launches-massive-124428805.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e incident accounts, photographic evidence from sites like Oak Ridge, TN, and...Read more...</p></details>
+   Link:<a href="https://www.aol.com/news/vault-open-government-launches-massive-124428805.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/vault-open-government-launches-massive-124428805.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e incident accounts, photographic evidence from sites like Oak Ridge, TN, and...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/236234469859434/posts/3617331318416382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/236234469859434/posts/3617331318416382/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oak Ridge and radar contacts near Knoxville back in the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/236234469859434/posts/3617331318416382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/236234469859434/posts/3617331318416382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oak Ridge and radar contacts near Knoxville back in the...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e4duip/did_someone_say_sean_kirkpatrick_and_oak_ridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e4duip/did_someone_say_sean_kirkpatrick_and_oak_ridge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The assertion that the Manhattan Project and its...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1e4duip/did_someone_say_sean_kirkpatrick_and_oak_ridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e4duip/did_someone_say_sean_kirkpatrick_and_oak_ridge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The assertion that the Manhattan Project and its...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The document details radar observations of...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The document details radar observations of...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LosAngelesmag/posts/the-newly-released-ufo-files-are-packed-with-cold-war-paranoia-fbi-memos-sent-di/1413839840781588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LosAngelesmag/posts/the-newly-released-ufo-files-are-packed-with-cold-war-paranoia-fbi-memos-sent-di/1413839840781588/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The newly released “UFO Files” are packed with Cold War...The newly released “UFO Files” are packed with Cold War paranoia, FBI memos se...</p></details>
+   Link:<a href="https://www.facebook.com/LosAngelesmag/posts/the-newly-released-ufo-files-are-packed-with-cold-war-paranoia-fbi-memos-sent-di/1413839840781588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LosAngelesmag/posts/the-newly-released-ufo-files-are-packed-with-cold-war-paranoia-fbi-memos-sent-di/1413839840781588/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The newly released “UFO Files” are packed with Cold War...The newly released “UFO Files” are packed with Cold War paranoia, FBI memos se...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kmbc9/posts/extremely-rare-footage-shows-insight-into-one-of-the-most-secret-and-secure-proj/685190813652874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kmbc9/posts/extremely-rare-footage-shows-insight-into-one-of-the-most-secret-and-secure-proj/685190813652874/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>projects ever known, The Manhattan Project...</p></details>
+   Link:<a href="https://www.facebook.com/kmbc9/posts/extremely-rare-footage-shows-insight-into-one-of-the-most-secret-and-secure-proj/685190813652874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kmbc9/posts/extremely-rare-footage-shows-insight-into-one-of-the-most-secret-and-secure-proj/685190813652874/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>projects ever known, The Manhattan Project...</p></details>

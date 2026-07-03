@@ -250,242 +250,242 @@ image: /assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1
 
 ## Introduction
 
-In late April 1987, as a series of unusual aerial sightings was unfolding around Corydon, Indiana, one incident stood out for its close‑range nature and vivid witness descriptions: a teenager operating farm equipment saw unusual coloured lights hover directly above his tractor before retreating, and later reported seeing a larger craft overhead. Within the broader pattern of Corydon area sightings — mostly nocturnal lights reported to civilian investigators — this **farm encounter** is distinctive because it places the lights at ground‑level for a brief period and links them to a named local witness’s direct experience in a familiar rural setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1987 UFO ChronologyJuly 3, 2009...</span><span class="citation-popover-meta">Published: July 3, 2009</span></span></span>
+In late April 1987, as a series of unusual aerial sightings was unfolding around Corydon, Indiana, one incident stood out for its close‑range nature and vivid witness descriptions: a teenager operating farm equipment saw unusual coloured lights hover directly above his tractor before retreating, and later reported seeing a larger craft overhead. Within the broader pattern of Corydon area sightings — mostly nocturnal lights reported to civilian investigators — this **farm encounter** is distinctive because it places the lights at ground‑level for a brief period and links them to a named local witness’s direct experience in a familiar rural setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1987 UFO ChronologyJuly 3, 2009...</span><span class="citation-popover-meta">Published: July 3, 2009</span></span></span>
 
 <img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-1-dark.svg" | relative_url }}" alt="April Farm Encounter illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Witnesses Reported on the Farm
 
-The primary account connected to this April event comes from field investigation records described in chronological UFO case compilations: a 14‑year‑old boy, **Paul Hauswald**, was working with a tractor on a corn and soybean field east of Corydon along State Route 62 in **late April 1987**. He later told investigators that as he drove the tractor, he suddenly noticed he could see the spreader and ground in spite of low ambient light because of **lights hovering above his tractor**. According to the report, these lights were **blue, white and orange**, and seemed to **follow him up and down the rows** as he completed his task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">3, 1987 From: Francis Ridge Subject: Objects Over Corydon, IN, March 13, 1987...</span><span class="citation-popover-meta">Published: March 13, 1987</span></span></span>
+The primary account connected to this April event comes from field investigation records described in chronological UFO case compilations: a 14‑year‑old boy, **Paul Hauswald**, was working with a tractor on a corn and soybean field east of Corydon along State Route 62 in **late April 1987**. He later told investigators that as he drove the tractor, he suddenly noticed he could see the spreader and ground in spite of low ambient light because of **lights hovering above his tractor**. According to the report, these lights were **blue, white and orange**, and seemed to **follow him up and down the rows** as he completed his task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">3, 1987 From: Francis Ridge Subject: Objects Over Corydon, IN, March 13, 1987...</span><span class="citation-popover-meta">Published: March 13, 1987</span></span></span>
 
-The witness said he was frightened and focused on finishing his work rather than stopping to observe. After completing the field task — a **trip back to the barn taking under five minutes** — he saw something else while refilling the spreader: a **saucer‑shaped object with coloured lights** passing above a nearby silo. This object was described as having **multiple sides and white underside illumination**, and estimated to be **larger than a house**, hovering at about **1,000 feet altitude** before moving out of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
+The witness said he was frightened and focused on finishing his work rather than stopping to observe. After completing the field task — a **trip back to the barn taking under five minutes** — he saw something else while refilling the spreader: a **saucer‑shaped object with coloured lights** passing above a nearby silo. This object was described as having **multiple sides and white underside illumination**, and estimated to be **larger than a house**, hovering at about **1,000 feet altitude** before moving out of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nTjblVk6Ov4" title="The BEST UFO Chase Scene EVER! | Close Encounters Of The Third Kind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nTjblVk6Ov4" target="_blank" rel="noopener noreferrer">The BEST UFO Chase Scene EVER! | Close Encounters Of The Third Kind</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 1.1M &middot; Uploaded: February 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nTjblVk6Ov4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nTjblVk6Ov4">Open on YouTube</a></p></div></div></div>
 
 ### Context Within Local Sightings
 
-This farm sighting occurred in the midst of a series of **light‑based reports in the Corydon area in spring 1987**, which began with repeated nocturnal orange and white lights seen by a local woman and a county deputy in March of that year and was documented by civilian UFO networks such as MUFON. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1987 UFO ChronologyJuly 3, 2009...</span><span class="citation-popover-meta">Published: July 3, 2009</span></span></span>
+This farm sighting occurred in the midst of a series of **light‑based reports in the Corydon area in spring 1987**, which began with repeated nocturnal orange and white lights seen by a local woman and a county deputy in March of that year and was documented by civilian UFO networks such as MUFON.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1987 UFO ChronologyJuly 3, 2009...</span><span class="citation-popover-meta">Published: July 3, 2009</span></span></span>
 
-Unlike most of those earlier reports, which involved lights seen at some distance or against treelines, this encounter is unusual because the lights were **close enough to interact — visually — with the farm equipment operator** and because the witness gave a **description extending beyond simple lights to a specific craft shape** in a separate observation later the same evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/8010700/regionalencounters.doc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-snippet">Regional Encounters: UFO Sightings in the Midwest 1960-1990...</span></span></span>
+Unlike most of those earlier reports, which involved lights seen at some distance or against treelines, this encounter is unusual because the lights were **close enough to interact — visually — with the farm equipment operator** and because the witness gave a **description extending beyond simple lights to a specific craft shape** in a separate observation later the same evening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/8010700/regionalencounters.doc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-snippet">Regional Encounters: UFO Sightings in the Midwest 1960-1990...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HYtuw0c3dJ4" title="Roy&#x27;s First UFO Encounter - Close Encounters of the Third Kind (1/8) Movie CLIP (1977) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HYtuw0c3dJ4" target="_blank" rel="noopener noreferrer">Roy&#x27;s First UFO Encounter - Close Encounters of the Third Kind (1/8) Movie CLIP (1977) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 221.4K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HYtuw0c3dJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HYtuw0c3dJ4">Open on YouTube</a></p></div></div></div>
 
 ## Investigator Notes and Reported Sources
 
-The details of the encounter are drawn from **compiled UFO chronologies and field investigator summaries** linked to the Corydon wave in 1987. These often combine contemporaneous witness accounts with later archival work by organisations that collate reports, such as the National UFO Reporting Center and researchers associated with the National Investigations Committee on Aerial Phenomena (NICAP). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">3, 1987 From: Francis Ridge Subject: Objects Over Corydon, IN, March 13, 1987...</span><span class="citation-popover-meta">Published: March 13, 1987</span></span></span>
+The details of the encounter are drawn from **compiled UFO chronologies and field investigator summaries** linked to the Corydon wave in 1987. These often combine contemporaneous witness accounts with later archival work by organisations that collate reports, such as the National UFO Reporting Center and researchers associated with the National Investigations Committee on Aerial Phenomena (NICAP).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">3, 1987 From: Francis Ridge Subject: Objects Over Corydon, IN, March 13, 1987...</span><span class="citation-popover-meta">Published: March 13, 1987</span></span></span>
 
-While no official government investigation report on this specific farm event appears in public archives, the inclusion of the incident in period UFO chronologies and its naming of a local witness suggests it was captured in investigator notes circulated among civilian UFO research circles at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
+While no official government investigation report on this specific farm event appears in public archives, the inclusion of the incident in period UFO chronologies and its naming of a local witness suggests it was captured in investigator notes circulated among civilian UFO research circles at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
 
 <img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-2-dark.svg" | relative_url }}" alt="April Farm Encounter illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Analysis: Closeness, Light Colours and Patterns
 
-The farm encounter’s **close range** distinguishes it from many sightings that depend on distant horizon lights over treelines. The combination of **multiple coloured lights** and the claim of an extended craft overhead later adds unusual complexity compared to simpler orb or blinking‑light reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/8010700/regionalencounters.doc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-snippet">Regional Encounters: UFO Sightings in the Midwest 1960-1990...</span></span></span>
+The farm encounter’s **close range** distinguishes it from many sightings that depend on distant horizon lights over treelines. The combination of **multiple coloured lights** and the claim of an extended craft overhead later adds unusual complexity compared to simpler orb or blinking‑light reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/8010700/regionalencounters.doc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-snippet">Regional Encounters: UFO Sightings in the Midwest 1960-1990...</span></span></span>
 
 However, as with most UFO cases in rural settings, assessing the event’s nature faces inherent challenges:
 
 * **Single primary witness:** The report centres on one adolescent’s account; no independent observers are documented in the accessible records.
 * **Lack of physical evidence:** No photographic, radar, or physical trace data tied to this encounter appear in the available compilations.
-* **Potential conventional explanations:** Lights seen above farmland at night might be conflated with **agricultural lighting, vehicle headlights, aircraft, or atmospheric phenomena**, especially when observed peripherally during a task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
+* **Potential conventional explanations:** Lights seen above farmland at night might be conflated with **agricultural lighting, vehicle headlights, aircraft, or atmospheric phenomena**, especially when observed peripherally during a task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
 
 These limitations mean the incident remains **unverified and unresolved**, though its inclusion in the Corydon sequence contributes to a picture of heightened local sightings that year.
 
 <img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-3-dark.svg" | relative_url }}" alt="April Farm Encounter illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_april_1987_f_f5f626-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How This Case Fits in 1987 Corydon UFO Activity
 
-Within the broader **Corydon 1987 pattern**, which includes repeated lights investigations by civilian field agents and local press attention, the **April farm encounter highlights a moment where the phenomenon, as reported, seemed to come closer to a witness in an everyday setting**. It also illustrates how reports from that period varied from distant lights to claims of structured craft forms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
+Within the broader **Corydon 1987 pattern**, which includes repeated lights investigations by civilian field agents and local press attention, the **April farm encounter highlights a moment where the phenomenon, as reported, seemed to come closer to a witness in an everyday setting**. It also illustrates how reports from that period varied from distant lights to claims of structured craft forms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
 
-For anyone exploring **Indiana’s UFO history**, this episode exemplifies how clustered reports and individual close‑range sightings fed public interest and civilian investigative activity in rural communities in the late 1980s, while also showing the **limitations of anecdotal evidence in reaching firm conclusions**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
+For anyone exploring **Indiana’s UFO history**, this episode exemplifies how clustered reports and individual close‑range sightings fed public interest and civilian investigative activity in rural communities in the late 1980s, while also showing the **limitations of anecdotal evidence in reaching firm conclusions**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</span><span class="citation-popover-meta">Published: August 23, 1987</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap_gvUiJKGs" title="Farmer Sees 5 Metallic Rotating Objects Leave Circles On His Crops | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap_gvUiJKGs" target="_blank" rel="noopener noreferrer">Farmer Sees 5 Metallic Rotating Objects Leave Circles On His Crops | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.7M &middot; Uploaded: April 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap_gvUiJKGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap_gvUiJKGs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did the April 1987 Farm Encounter Illuminate Corydon UFO Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did the April 1987 Farm Encounter Illuminate Corydon UFO Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines investigated UFO cases and evidential limitations similar to the Corydon reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines investigated UFO cases and evidential limitations similar to the Corydon reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witnesses and investigative standards relevant to rural sighting cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witnesses and investigative standards relevant to rural sighting cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for analysing witness reports, close encounters and recurring sighting patterns like the Corydon case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for analysing witness reports, close encounters and recurring sighting patterns like the Corydon case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places local witness encounters into broader historical patterns of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local witness encounters into broader historical patterns of unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-did-the-april-1987-farm-encounter-illuminate-corydon-ufo-activity-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -501,7 +501,7 @@ For anyone exploring **Indiana’s UFO history**, this episode exemplifies how c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -521,7 +521,7 @@ For anyone exploring **Indiana’s UFO history**, this episode exemplifies how c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -553,7 +553,7 @@ For anyone exploring **Indiana’s UFO history**, this episode exemplifies how c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -605,7 +605,7 @@ For anyone exploring **Indiana’s UFO history**, this episode exemplifies how c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -650,7 +650,7 @@ For anyone exploring **Indiana’s UFO history**, this episode exemplifies how c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -691,110 +691,110 @@ For anyone exploring **Indiana’s UFO history**, this episode exemplifies how c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1987fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1987 UFO ChronologyJuly 3, 2009...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1987fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1987 UFO ChronologyJuly 3, 2009...</p></details>
    Published: July 3, 2009  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: studylib.net  
-   Link: <a href="https://studylib.net/doc/8010700/regionalencounters.doc" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/8010700/regionalencounters.doc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regional Encounters: UFO Sightings in the Midwest 1960-1990...</p></details>
+   Link:<a href="https://studylib.net/doc/8010700/regionalencounters.doc" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/8010700/regionalencounters.doc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regional Encounters: UFO Sightings in the Midwest 1960-1990...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/corydon.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3, 1987 From: Francis Ridge &lt;nicap@insightbb.com&gt; Subject: Objects Over Corydon, IN, March 13, 1987...</p></details>
+   Link:<a href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/corydon.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3, 1987 From: Francis Ridge &lt;nicap@insightbb.com&gt; Subject: Objects Over Corydon, IN, March 13, 1987...</p></details>
    Published: March 13, 1987  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/870823corydon_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</p></details>
+   Link:<a href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/870823corydon_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportAugust 23, 1987 — IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 Aircraft Appeared In A &quot;N...</p></details>
    Published: August 23, 1987  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=97161" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=97161</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 97161May 15, 2013 — NUFORC UFO SIGHTING 97161 Occurred: 2013-04-06 19:45 Local Reported: 2013-04-14 04:39 Pacific Dur...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=97161" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=97161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 97161May 15, 2013 — NUFORC UFO SIGHTING 97161 Occurred: 2013-04-06 19:45 Local Reported: 2013-04-14 04:39 Pacific Dur...</p></details>
    Published: April 6, 2013  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=37987" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=37987</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 37987July 8, 2004 — NUFORC UFO SIGHTING 37987 Occurred: 1987-10-26 00:00 Local - Approximate Reported: 2004-07-08 07...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=37987" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=37987</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 37987July 8, 2004 — NUFORC UFO SIGHTING 37987 Occurred: 1987-10-26 00:00 Local - Approximate Reported: 2004-07-08 07...</p></details>
    Published: July 8, 2004  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: biglicktriangle.com  
    Title: I am in no way saying t  
-   Link: <a href="https://biglicktriangle.com/353-2/" target="_blank" rel="noopener noreferrer nofollow">https://biglicktriangle.com/353-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence | The Big Lick TriangleTHE EVIDENCE: Here fellow researchers, let me walk you through the highlights I found via my internet sea...</p></details>
+   Link:<a href="https://biglicktriangle.com/353-2/" target="_blank" rel="noopener noreferrer nofollow">https://biglicktriangle.com/353-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence | The Big Lick TriangleTHE EVIDENCE: Here fellow researchers, let me walk you through the highlights I found via my internet sea...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jamesmdeem.com  
    Title: However, CEs have happened often enough to be categorized. UFOlogist  
-   Link: <a href="https://www.jamesmdeem.com/stories.ufo.encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jamesmdeem.com/stories.ufo.encounters.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters with UFOs by James M DeemA close encounter (CE) with a TRUFO (a True UFO) is a fairly rare occurrence, since most sighti...</p></details>
+   Link:<a href="https://www.jamesmdeem.com/stories.ufo.encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jamesmdeem.com/stories.ufo.encounters.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters with UFOs by James M DeemA close encounter (CE) with a TRUFO (a True UFO) is a fairly rare occurrence, since most sighti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufoinsight.com  
    Title: american ufo and alien encounters from the later years of the 1980s  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/american-ufo-and-alien-encounters-from-the-later-years-of-the-1980s" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/american-ufo-and-alien-encounters-from-the-later-years-of-the-1980s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seeds Of Wider Interest: American UFO And Alien Encounters From The Later Years Of The 1980s - UFO InsightSeptember 2, 2023 — THE 198...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/american-ufo-and-alien-encounters-from-the-later-years-of-the-1980s" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/american-ufo-and-alien-encounters-from-the-later-years-of-the-1980s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Seeds Of Wider Interest: American UFO And Alien Encounters From The Later Years Of The 1980s - UFO InsightSeptember 2, 2023 — THE 198...</p></details>
    Published: September 2, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Roy's First UFO Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=HYtuw0c3dJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HYtuw0c3dJ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Farmer Sees 5 Metallic Rotating Objects Leave Circles On His Crops | Close Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HYtuw0c3dJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HYtuw0c3dJ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Farmer Sees 5 Metallic Rotating Objects Leave Circles On His Crops | Close Encounters...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
    Title: CROYDON INDIANA The incident report  
-   Link: <a href="https://medium.com/%40/ufo-photographed-over-croydon-indiana-d3c9111e0e6c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40/ufo-photographed-over-croydon-indiana-d3c9111e0e6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photographed Over Croydon Indiana | by Johnmooner-chief | MediumDecember 12, 2023 — UFO PHOTOGRAPHED OVER CROYDON INDIANA Johnmooner...</p></details>
+   Link:<a href="https://medium.com/%40/ufo-photographed-over-croydon-indiana-d3c9111e0e6c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40/ufo-photographed-over-croydon-indiana-d3c9111e0e6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photographed Over Croydon Indiana | by Johnmooner-chief | MediumDecember 12, 2023 — UFO PHOTOGRAPHED OVER CROYDON INDIANA Johnmooner...</p></details>
    Published: December 12, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
    Title: CROYDON INDIANA The incide  
-   Link: <a href="https://medium.com/%40johnmooner-chief/ufo-photographed-over-croydon-indiana-d3c9111e0e6c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40johnmooner-chief/ufo-photographed-over-croydon-indiana-d3c9111e0e6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photographed Over Croydon Indiana | by Johnmooner-chief | MediumDecember 12, 2023 — UFO PHOTOGRAPHED OVER CROYDON INDIANA Johnmooner...</p></details>
+   Link:<a href="https://medium.com/%40johnmooner-chief/ufo-photographed-over-croydon-indiana-d3c9111e0e6c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40johnmooner-chief/ufo-photographed-over-croydon-indiana-d3c9111e0e6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photographed Over Croydon Indiana | by Johnmooner-chief | MediumDecember 12, 2023 — UFO PHOTOGRAPHED OVER CROYDON INDIANA Johnmooner...</p></details>
    Published: December 12, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR - The Washington PostJanuary 1, 1987 — UFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR JAPA...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR - The Washington PostJanuary 1, 1987 — UFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR JAPA...</p></details>
    Published: January 1, 1987  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The BEST UFO Chase Scene EVER! | Close Encounters Of The Third Kind  
-   Link: <a href="https://www.youtube.com/watch?v=nTjblVk6Ov4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nTjblVk6Ov4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roy&#x27;s First UFO Encounter - Close Encounters of the Third Kind (1/8) Movie CLIP (1977) HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nTjblVk6Ov4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nTjblVk6Ov4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roy&#x27;s First UFO Encounter - Close Encounters of the Third Kind (1/8) Movie CLIP (1977) HD...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufodigest.com  
    Title: Four Dark Triangles Fly Low Over Indiana  
-   Link: <a href="https://www.ufodigest.com/article/four-dark-triangles-fly-low-over-indiana/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/four-dark-triangles-fly-low-over-indiana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DigestApril 11, 2013 — FOUR DARK TRIANGLES FLY LOW OVER INDIANA by Roger Marsh...</p></details>
+   Link:<a href="https://www.ufodigest.com/article/four-dark-triangles-fly-low-over-indiana/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/four-dark-triangles-fly-low-over-indiana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DigestApril 11, 2013 — FOUR DARK TRIANGLES FLY LOW OVER INDIANA by Roger Marsh...</p></details>
    Published: April 11, 2013  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thinkaboutitdocs.com  
    Title: 1987 september ufo alien sightings  
-   Link: <a href="https://www.thinkaboutitdocs.com/1987-september-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1987-september-ufo-alien-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1987: September UFO &amp; Alien SightingsJuly 4, 2016 — 1987: SEPTEMBER UFO &amp; ALIEN SIGHTINGS...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1987-september-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1987-september-ufo-alien-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1987: September UFO &amp; Alien SightingsJuly 4, 2016 — 1987: SEPTEMBER UFO &amp; ALIEN SIGHTINGS...</p></details>
    Published: July 4, 2016  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufofinder.com  
-   Link: <a href="https://ufofinder.com/years/1987/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/years/1987/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in 1987 | UFO Finder | UFO FinderUFO SIGHTINGS IN 1987 301 documented sightings throughout the year 301 Total Sightings Cal...</p></details>
+   Link:<a href="https://ufofinder.com/years/1987/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/years/1987/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in 1987 | UFO Finder | UFO FinderUFO SIGHTINGS IN 1987 301 documented sightings throughout the year 301 Total Sightings Cal...</p></details>

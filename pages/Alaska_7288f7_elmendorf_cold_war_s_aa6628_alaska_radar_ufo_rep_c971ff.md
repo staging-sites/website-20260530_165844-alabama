@@ -253,13 +253,13 @@ image: /assets/images/Alaska_7288f7_elmendorf_cold_war_s_aa6628_alaska_radar_ufo
 Alaska’s Cold War air-defence system created ideal conditions for UFO reports to emerge, spread and sometimes persist unresolved. Long before modern debates about unidentified aerial phenomena, the state’s radar operators, interceptor pilots and ground controllers were watching one of the most sensitive frontiers in the world: the Arctic approaches between the Soviet Union and North America. In that environment, unusual lights, strange radar returns and unidentified aircraft tracks were treated first as potential military threats and only secondarily as mysteries. That helps explain why Alaska produced a steady stream of military UFO stories linked to [Elmendorf]({{ 'elmendorf/' | relative_url }}) Air Force Base, remote radar stations and NORAD operations.
 
 <img src="{{ "/assets/images/Alaska_7288f7_elmendorf_cold_war_s_aa6628_alaska_radar_ufo_rep_c971ff-Illustration-1-dark.svg" | relative_url }}" alt="Radar network illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_elmendorf_cold_war_s_aa6628_alaska_radar_ufo_rep_c971ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_elmendorf_cold_war_s_aa6628_alaska_radar_ufo_rep_c971ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The important point is not that Alaska generated uniquely convincing evidence of extraterrestrial craft. Rather, the state’s geography and defence network made unusual aerial events more likely to be detected, recorded and escalated through official channels. Some reports probably reflected equipment limits, weather effects or misidentifications. Others remain unresolved because the original records were incomplete, classified or never fully investigated publicly. Understanding the radar network itself is therefore essential to understanding Alaska’s place in American UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Elmendorf_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Elmendorf Air Force Base</span><span class="citation-popover-snippet">Elmendorf Air Force Base</span></span></span>
+The important point is not that Alaska generated uniquely convincing evidence of extraterrestrial craft. Rather, the state’s geography and defence network made unusual aerial events more likely to be detected, recorded and escalated through official channels. Some reports probably reflected equipment limits, weather effects or misidentifications. Others remain unresolved because the original records were incomplete, classified or never fully investigated publicly. Understanding the radar network itself is therefore essential to understanding Alaska’s place in American UFO history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Elmendorf_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Elmendorf Air Force Base</span><span class="citation-popover-snippet">Elmendorf Air Force Base</span></span></span>
 
 ## How Elmendorf fitted into Alaska air defence
 
-During the early Cold War, Alaska was treated as a likely avenue for Soviet bomber attack. The shortest route between the USSR and the continental United States crossed the Arctic, making Alaska strategically critical decades before intercontinental missiles reduced the importance of bomber interception. In response, the United States built an extensive warning system of radar stations, communications relays and interceptor bases across the territory. Elmendorf Air Force Base near Anchorage became the operational hub for much of this activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dnr.alaska.gov/parks/oha/publications/Northern%20Defenders%20Cold%20War%20Context%20of%20Ladd%20Air%20Force%20Base%201947-1961.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.alaska.gov">[alaska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.alaska.gov</span><span class="citation-popover-title">Northern Defenders Cold War Context of Ladd Air Force Base 1947 1961</span><span class="citation-popover-snippet">Alaska Department of Natural Resourcescold war context of - ladd air force baseAlaska, as the closest American territory to the Soviet Un...</span></span></span> Department of Natural Resources
+During the early Cold War, Alaska was treated as a likely avenue for Soviet bomber attack. The shortest route between the USSR and the continental United States crossed the Arctic, making Alaska strategically critical decades before intercontinental missiles reduced the importance of bomber interception. In response, the United States built an extensive warning system of radar stations, communications relays and interceptor bases across the territory. Elmendorf Air Force Base near Anchorage became the operational hub for much of this activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dnr.alaska.gov/parks/oha/publications/Northern%20Defenders%20Cold%20War%20Context%20of%20Ladd%20Air%20Force%20Base%201947-1961.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.alaska.gov">[alaska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.alaska.gov</span><span class="citation-popover-title">Northern Defenders Cold War Context of Ladd Air Force Base</span><span class="citation-popover-snippet">Alaska Department of Natural Resourcescold war context of - ladd air force baseAlaska, as the closest American territory to the Soviet Un...</span></span></span> Department of Natural Resources
 
-By the 1950s, Alaska’s defence network included aircraft control and warning squadrons, Ground Control Intercept stations and increasingly sophisticated radar coverage stretching across remote regions. Controllers tracked unknown aircraft, directed fighters toward suspicious targets and coordinated with what later became NORAD’s continental defence structure. Eighteen radar sites were eventually tied into Elmendorf’s operations, reinforcing the base’s reputation as “Top Cover for North America”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+By the 1950s, Alaska’s defence network included aircraft control and warning squadrons, Ground Control Intercept stations and increasingly sophisticated radar coverage stretching across remote regions. Controllers tracked unknown aircraft, directed fighters toward suspicious targets and coordinated with what later became NORAD’s continental defence structure. Eighteen radar sites were eventually tied into Elmendorf’s operations, reinforcing the base’s reputation as “Top Cover for North America”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 This structure mattered because radar operators were under constant pressure to distinguish between ordinary activity and possible hostile intrusion. A radar blip was not merely an abstract anomaly. It could represent a Soviet reconnaissance aircraft, a navigation error, atmospheric clutter, equipment malfunction or an object that genuinely could not be identified in the moment. Reports that later entered UFO literature often originated in this high-alert environment rather than in casual observation.
 
@@ -285,7 +285,7 @@ Cold War radar technology was impressive for its time but still relatively primi
 
 This context helps explain why some military UFO reports combined radar and visual observations without producing clear conclusions. A radar return might briefly align with a distant light, encouraging operators to treat both as the same object even when the connection was uncertain.
 
-The broader history of Project Blue Book shows that radar-visual cases received particular attention because they appeared more credible than simple eyewitness testimony. Yet even Air Force investigators acknowledged that radar data could be ambiguous and vulnerable to misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AFluEcC354M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">US Military Helicopter Tracks UFO Across Alaska &#124; Aliens In Alaska</span><span class="citation-popover-snippet">Air Force Radar Operator&#x27;s Terrifying UFO Encounter in Alaska &#124; Aliens In Alaska...</span></span></span>
+The broader history of Project Blue Book shows that radar-visual cases received particular attention because they appeared more credible than simple eyewitness testimony. Yet even Air Force investigators acknowledged that radar data could be ambiguous and vulnerable to misinterpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AFluEcC354M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">US Military Helicopter Tracks UFO Across Alaska &#124; Aliens In Alaska</span><span class="citation-popover-snippet">Air Force Radar Operator&#x27;s Terrifying UFO Encounter in Alaska &#124; Aliens In Alaska...</span></span></span>
 
 ### Alaska’s alert posture amplified uncertainty
 
@@ -293,7 +293,7 @@ The Alaskan defence network existed to detect threats quickly, not to conduct sl
 
 That operational mindset encouraged rapid reporting and sometimes preserved incidents in official files before mundane explanations emerged. In other cases, explanations never became definitive because records remained classified, incomplete or dispersed across different commands.
 
-The 1950 Elmendorf sighting reflected this culture. Witnesses from an aircraft control and warning squadron described a reddish-orange object manoeuvring unusually over Anchorage before disappearing rapidly to the north-east. Because trained personnel submitted a formal report, the incident gained lasting status in UFO literature even though no decisive explanation followed publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-snippet">t same year via three teenagers from Anchorage who reported seeing a white...Read more...</span></span></span>
+The 1950 Elmendorf sighting reflected this culture. Witnesses from an aircraft control and warning squadron described a reddish-orange object manoeuvring unusually over Anchorage before disappearing rapidly to the north-east. Because trained personnel submitted a formal report, the incident gained lasting status in UFO literature even though no decisive explanation followed publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-snippet">t same year via three teenagers from Anchorage who reported seeing a white...Read more...</span></span></span>
 
 ## Why military UFO reports carried extra weight
 
@@ -305,7 +305,7 @@ Military observers were skilled within specific operational contexts. They knew 
 
 This tension appears repeatedly in Cold War UFO history. Reports from military personnel often sound more credible because of the technical language involved: tracked targets, vector changes, radar lock-ons and interceptor scrambles. Yet technical vocabulary does not automatically mean the underlying interpretation was correct.
 
-The wider American UFO record contains many examples where later analysis identified stars, planets, classified aircraft or atmospheric conditions behind initially alarming military reports. The U-2 reconnaissance programme is a famous example. High-altitude flights during the 1950s produced numerous UFO reports because civilian and military observers were unfamiliar with aircraft operating at such extreme altitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">u2s ufos and operation blue book</span><span class="citation-popover-snippet">Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — Consequently, once U-2s started flying at altitudes ab...</span></span></span>
+The wider American UFO record contains many examples where later analysis identified stars, planets, classified aircraft or atmospheric conditions behind initially alarming military reports. The U-2 reconnaissance programme is a famous example. High-altitude flights during the 1950s produced numerous UFO reports because civilian and military observers were unfamiliar with aircraft operating at such extreme altitudes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">u2s ufos and operation blue book</span><span class="citation-popover-snippet">Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — Consequently, once U-2s started flying at altitudes ab...</span></span></span>
 
 In Alaska, the same pattern likely affected some reports involving interceptor crews and radar stations. The combination of secrecy, limited public information and genuine uncertainty allowed unresolved incidents to accumulate a mystique that persisted long after the original operational context faded.
 
@@ -314,7 +314,7 @@ In Alaska, the same pattern likely affected some reports involving interceptor c
 
 Although it occurred decades after the earliest Cold War sightings, the 1986 Japan Air Lines incident near Alaska illustrates the continuing difficulties of interpreting radar-associated UFO reports.
 
-Captain Kenju Terauchi and his crew reported unusual lights while flying over Alaska, and Anchorage air traffic control became involved as controllers attempted to assess what the crew was seeing. The case gained international attention because radar data appeared at first to support the sightings. However, later Federal Aviation Administration review concluded that the radar evidence did not confirm a solid unknown object shadowing the aircraft in the way initially reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — ANCHORAGE, Alaska -- Federal investigators said a review of radar tapes f...</span></span></span>
+Captain Kenju Terauchi and his crew reported unusual lights while flying over Alaska, and Anchorage air traffic control became involved as controllers attempted to assess what the crew was seeing. The case gained international attention because radar data appeared at first to support the sightings. However, later Federal Aviation Administration review concluded that the radar evidence did not confirm a solid unknown object shadowing the aircraft in the way initially reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — ANCHORAGE, Alaska -- Federal investigators said a review of radar tapes f...</span></span></span>
 
 The case remains controversial in UFO circles precisely because it exposed the ambiguity of radar interpretation. Supporters point to pilot testimony and controller concern. Sceptics emphasise the absence of definitive radar confirmation and the possibility of planetary or atmospheric misidentification.
 
@@ -349,7 +349,7 @@ Several recurring explanations appear repeatedly in historical analysis:
 
 </div>
 
-Modern NORAD operations show that this basic dynamic has never disappeared entirely. Radar systems today are vastly more advanced, yet defence officials still adjust tracking filters and detection thresholds depending on perceived threats. During the 2023 and later unidentified-object incidents over North America, officials openly discussed how changes in radar sensitivity caused more slow or small airborne objects to be detected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/02/13/norad-adjusts-radar-gates-to-sharpen-detection-of-anomalous-objects-as-ufo-recovery-intensifies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">On Monday, President Biden also formed a...Read more...</span></span></span>
+Modern NORAD operations show that this basic dynamic has never disappeared entirely. Radar systems today are vastly more advanced, yet defence officials still adjust tracking filters and detection thresholds depending on perceived threats. During the 2023 and later unidentified-object incidents over North America, officials openly discussed how changes in radar sensitivity caused more slow or small airborne objects to be detected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/02/13/norad-adjusts-radar-gates-to-sharpen-detection-of-anomalous-objects-as-ufo-recovery-intensifies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">On Monday, President Biden also formed a...Read more...</span></span></span>
 
 That modern example offers a useful perspective on Cold War Alaska. If contemporary systems still struggle with filtering clutter, balloons and ambiguous tracks, then the uncertainties surrounding 1950s-era radar reports become easier to understand.
 
@@ -377,194 +377,194 @@ For readers exploring Alaska’s UFO history, the key lesson is that radar repor
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D2ZFtwLmnpA" title="Did Aliens Make a Military Plane Disappear? | The Alaska Triangle | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D2ZFtwLmnpA" target="_blank" rel="noopener noreferrer">Did Aliens Make a Military Plane Disappear? | The Alaska Triangle | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel &middot; Views: 34.6K &middot; Uploaded: November 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D2ZFtwLmnpA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D2ZFtwLmnpA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Alaska&#x27;s defences produced UFO reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Alaska&#x27;s defences produced UFO reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how official UFO cases were documented and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official UFO cases were documented and evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Reflects the era when military sightings became public controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the era when military sightings became public controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly relevant to official reporting, radar contacts, and defence systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to official reporting, radar contacts, and defence systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Strong fit for Cold War radar and defence-history context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for Cold War radar and defence-history context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOBIL RADAR STATION 1 -USAF PATCH SHIELD STYLE FULL COLOR"><img src="https://i.ebayimg.com/images/g/GcIAAOxy8F1RF08k/s-l225.jpg" alt="Listing image for MOBIL RADAR STATION 1 -USAF PATCH SHIELD STYLE FULL COLOR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">MOBIL RADAR STATION 1 -USAF PATCH SHIELD STYLE FULL COLOR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOBIL RADAR STATION 1 -USAF PATCH SHIELD STYLE FULL COLOR"><img src="https://i.ebayimg.com/images/g/GcIAAOxy8F1RF08k/s-l225.jpg" alt="Listing image for MOBIL RADAR STATION 1 -USAF PATCH SHIELD STYLE FULL COLOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">MOBIL RADAR STATION 1 -USAF PATCH SHIELD STYLE FULL COLOR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U S NAVY MOBILE RADAR STATION NAVAL AIR STATION patch BX AAA#10"><img src="https://i.ebayimg.com/images/g/khkAAOSw-xlkH0xY/s-l225.jpg" alt="Listing image for U S NAVY MOBILE RADAR STATION NAVAL AIR STATION patch BX AAA#10" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">U S NAVY MOBILE RADAR STATION NAVAL AIR STATION patch BX AAA#10</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U S NAVY MOBILE RADAR STATION NAVAL AIR STATION patch BX AAA#10"><img src="https://i.ebayimg.com/images/g/khkAAOSw-xlkH0xY/s-l225.jpg" alt="Listing image for U S NAVY MOBILE RADAR STATION NAVAL AIR STATION patch BX AAA#10" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">U S NAVY MOBILE RADAR STATION NAVAL AIR STATION patch BX AAA#10</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War USAF USN US Navy Mobile Radar Station 1 Patch"><img src="https://i.ebayimg.com/images/g/Z1kAAOSwn51h9EaX/s-l225.jpg" alt="Listing image for Cold War USAF USN US Navy Mobile Radar Station 1 Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">Cold War USAF USN US Navy Mobile Radar Station 1 Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War USAF USN US Navy Mobile Radar Station 1 Patch"><img src="https://i.ebayimg.com/images/g/Z1kAAOSwn51h9EaX/s-l225.jpg" alt="Listing image for Cold War USAF USN US Navy Mobile Radar Station 1 Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">Cold War USAF USN US Navy Mobile Radar Station 1 Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Marine Corps Radar Station With Call Sign PLAYBOY Vietnam War Patch"><img src="https://i.ebayimg.com/images/g/Ei4AAOSwbP9noV76/s-l225.jpg" alt="Listing image for US Marine Corps Radar Station With Call Sign PLAYBOY Vietnam War Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">US Marine Corps Radar Station With Call Sign PLAYBOY Vietnam War Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Marine Corps Radar Station With Call Sign PLAYBOY Vietnam War Patch"><img src="https://i.ebayimg.com/images/g/Ei4AAOSwbP9noV76/s-l225.jpg" alt="Listing image for US Marine Corps Radar Station With Call Sign PLAYBOY Vietnam War Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">US Marine Corps Radar Station With Call Sign PLAYBOY Vietnam War Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar station patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar station patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+station+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-alaska-s-defences-produced-ufo-reports-radar-station-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar station patch" data-ebay-reference="why-alaska-s-defences-produced-ufo-reports-radar-station-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ For readers exploring Alaska’s UFO history, the key lesson is that radar repor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ For readers exploring Alaska’s UFO history, the key lesson is that radar repor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ For readers exploring Alaska’s UFO history, the key lesson is that radar repor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ For readers exploring Alaska’s UFO history, the key lesson is that radar repor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ For readers exploring Alaska’s UFO history, the key lesson is that radar repor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,137 +770,137 @@ For readers exploring Alaska’s UFO history, the key lesson is that radar repor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</p></details>
    Published: August 15, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Elmendorf Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Elmendorf_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elmendorf_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Elmendorf_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elmendorf_Air_Force_Base</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dnr.alaska.gov  
    Title: Northern Defenders Cold War Context of Ladd Air Force Base 1947 1961  
-   Link: <a href="https://dnr.alaska.gov/parks/oha/publications/Northern%20Defenders%20Cold%20War%20Context%20of%20Ladd%20Air%20Force%20Base%201947-1961.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dnr.alaska.gov/parks/oha/publications/Northern%20Defenders%20Cold%20War%20Context%20of%20Ladd%20Air%20Force%20Base%201947-1961.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alaska Department of Natural Resourcescold war context of - ladd air force baseAlaska, as the closest American territory to the Soviet Un...</p></details>
+   Link:<a href="https://dnr.alaska.gov/parks/oha/publications/Northern%20Defenders%20Cold%20War%20Context%20of%20Ladd%20Air%20Force%20Base%201947-1961.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dnr.alaska.gov/parks/oha/publications/Northern%20Defenders%20Cold%20War%20Context%20of%20Ladd%20Air%20Force%20Base%201947-1961.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alaska Department of Natural Resourcescold war context of - ladd air force baseAlaska, as the closest American territory to the Soviet Un...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discoveryuk.com  
-   Link: <a href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t same year via three teenagers from Anchorage who reported seeing a white...Read more...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t same year via three teenagers from Anchorage who reported seeing a white...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: upi.com  
    Title: Radar review fails to confirm UFO  
-   Link: <a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — ANCHORAGE, Alaska -- Federal investigators said a review of radar tapes f...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — ANCHORAGE, Alaska -- Federal investigators said a review of radar tapes f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/02/13/norad-adjusts-radar-gates-to-sharpen-detection-of-anomalous-objects-as-ufo-recovery-intensifies/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/02/13/norad-adjusts-radar-gates-to-sharpen-detection-of-anomalous-objects-as-ufo-recovery-intensifies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On Monday, President Biden also formed a...Read more...</p></details>
+   Link:<a href="https://defensescoop.com/2023/02/13/norad-adjusts-radar-gates-to-sharpen-detection-of-anomalous-objects-as-ufo-recovery-intensifies/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/02/13/norad-adjusts-radar-gates-to-sharpen-detection-of-anomalous-objects-as-ufo-recovery-intensifies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Monday, President Biden also formed a...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: US Military Helicopter Tracks UFO Across Alaska | Aliens In Alaska  
-   Link: <a href="https://www.youtube.com/watch?v=AFluEcC354M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AFluEcC354M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Radar Operator&#x27;s Terrifying UFO Encounter in Alaska | Aliens In Alaska...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AFluEcC354M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AFluEcC354M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Radar Operator&#x27;s Terrifying UFO Encounter in Alaska | Aliens In Alaska...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Air Force Radar Operator's Terrifying UFO Encounter in Alaska | Aliens In Alaska  
-   Link: <a href="https://www.youtube.com/watch?v=oCof55P5dqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oCof55P5dqM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Covered Up By US Military In Alaska | Aliens In Alaska...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oCof55P5dqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oCof55P5dqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Covered Up By US Military In Alaska | Aliens In Alaska...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the U...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the U...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — Consequently, once U-2s started flying at altitudes ab...</p></details>
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — Consequently, once U-2s started flying at altitudes ab...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: For 17 years, the U.S  
-   Link: <a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force chased lights in the sky....From 1952 to 1969, under a classified program called Project Blue Book, the military investigated...</p></details>
+   Link:<a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force chased lights in the sky....From 1952 to 1969, under a classified program called Project Blue Book, the military investigated...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D2ZFtwLmnpA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2ZFtwLmnpA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Make a Military Plane Disappear? | The Alaska...A top secret intelligence report from February 10th 1950 reveals that UFOs we...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D2ZFtwLmnpA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2ZFtwLmnpA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Make a Military Plane Disappear? | The Alaska...A top secret intelligence report from February 10th 1950 reveals that UFOs we...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/143227050/The_Selfridge_AFB_Radar_UFO_Encounter_of_9_March_1950_A_Narrative_Reconstruction_and_Its_Implications_for_Cold_War_Air_Defense" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143227050/The_Selfridge_AFB_Radar_UFO_Encounter_of_9_March_1950_A_Narrative_Reconstruction_and_Its_Implications_for_Cold_War_Air_Defense</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Selfridge AFB Radar-UFO Encounter of 9 March 1950On the night of March 9, 1950, radar operators at Selfridge Air Force Base, Michigan...</p></details>
+   Link:<a href="https://www.academia.edu/143227050/The_Selfridge_AFB_Radar_UFO_Encounter_of_9_March_1950_A_Narrative_Reconstruction_and_Its_Implications_for_Cold_War_Air_Defense" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143227050/The_Selfridge_AFB_Radar_UFO_Encounter_of_9_March_1950_A_Narrative_Reconstruction_and_Its_Implications_for_Cold_War_Air_Defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Selfridge AFB Radar-UFO Encounter of 9 March 1950On the night of March 9, 1950, radar operators at Selfridge Air Force Base, Michigan...</p></details>
    Published: March 1950  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/mattnovak/2023/02/12/norad-detects-radar-anomaly-over-montana-as-us-on-high-alert-for-state-operated-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/mattnovak/2023/02/12/norad-detects-radar-anomaly-over-montana-as-us-on-high-alert-for-state-operated-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Detects &#x27;Radar Anomaly&#x27; Over Montana As U.S....12 Feb 2023 — NORAD issued a statement late Saturday saying it had detected a &quot;rada...</p></details>
+   Link:<a href="https://www.forbes.com/sites/mattnovak/2023/02/12/norad-detects-radar-anomaly-over-montana-as-us-on-high-alert-for-state-operated-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/mattnovak/2023/02/12/norad-detects-radar-anomaly-over-montana-as-us-on-high-alert-for-state-operated-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Detects &#x27;Radar Anomaly&#x27; Over Montana As U.S....12 Feb 2023 — NORAD issued a statement late Saturday saying it had detected a &quot;rada...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: in 1952 a military aircraft disappeared near anchorage just miles from its desti  
-   Link: <a href="https://www.facebook.com/ChillsDylan/posts/in-1952-a-military-aircraft-disappeared-near-anchorage-just-miles-from-its-desti/866487859814247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChillsDylan/posts/in-1952-a-military-aircraft-disappeared-near-anchorage-just-miles-from-its-desti/866487859814247/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, a military aircraft disappeared near Anchorage...In the days following the Skymaster&#x27;s disappearance, additional sightings were...</p></details>
+   Link:<a href="https://www.facebook.com/ChillsDylan/posts/in-1952-a-military-aircraft-disappeared-near-anchorage-just-miles-from-its-desti/866487859814247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChillsDylan/posts/in-1952-a-military-aircraft-disappeared-near-anchorage-just-miles-from-its-desti/866487859814247/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, a military aircraft disappeared near Anchorage...In the days following the Skymaster&#x27;s disappearance, additional sightings were...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-I_zwRH-sB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-I_zwRH-sB4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witnessed By Military Radar Operators | Aliens In AlaskaUFO Witnessed By Military Radar Operators | Aliens In Alaska. 226K... Hundre...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-I_zwRH-sB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-I_zwRH-sB4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witnessed By Military Radar Operators | Aliens In AlaskaUFO Witnessed By Military Radar Operators | Aliens In Alaska. 226K... Hundre...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MKxbblLlZ-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MKxbblLlZ-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Increase in observed UFO activity reflects NORAD shift in...NORAD said it&#x27;s taking the raw radar data and they are now looking at smalle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MKxbblLlZ-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MKxbblLlZ-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Increase in observed UFO activity reflects NORAD shift in...NORAD said it&#x27;s taking the raw radar data and they are now looking at smalle...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — A look back to the US Air Force programme to log reports of unident...</p></details>
+   Link:<a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — A look back to the US Air Force programme to log reports of unident...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: taskandpurpose.com  
-   Link: <a href="https://taskandpurpose.com/news/pentagon-ufo-files-2026/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/pentagon-ufo-files-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The site includes about 160 documents, from Apollo moon landings to Global War on...Read more...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/pentagon-ufo-files-2026/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/pentagon-ufo-files-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The site includes about 160 documents, from Apollo moon landings to Global War on...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: altpropulsion.com  
    Title: ufos and radar targets clutter safety and false certainty  
-   Link: <a href="https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False Certainty30 Mar 2026 — Not whether every UFO is an alien craft, but whether modern ra...</p></details>
+   Link:<a href="https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False Certainty30 Mar 2026 — Not whether every UFO is an alien craft, but whether modern ra...</p></details>

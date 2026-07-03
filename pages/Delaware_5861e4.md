@@ -76,9 +76,9 @@ heading_title: What Really Happened in Delaware's UFO Record?
 page_heading_title: What Really Happened in Delaware's UFO Record?
 source_count: 133
 infographic_count: 3
-page_website_name: Delaware UFOs
+page_website_name: Delaware
 page_banner_line: Balanced, evidence-led stories from Delaware's unusual-sky reports.
-site_website_name: Delaware UFOs
+site_website_name: Delaware
 site_banner_line: Balanced, evidence-led stories from Delaware's unusual-sky reports.
 site_image_description: A night view over a Delaware highway with distant aircraft lights, a coastal horizon, and a faint triangular pattern of lights in...
 output_language: English
@@ -482,13 +482,13 @@ image: /assets/images/Delaware_5861e4-overview-social.jpg
 Delaware is easy to overlook in UFO history because it is small, lacks desert test ranges and has not produced a nationally famous “crash” legend. That makes it useful in a different way. Its cases show what state-level UFO history often looks like when stripped of folklore inflation: scattered newspaper claims, military-adjacent sightings, [coastal lights]({{ 'coastal-lights/' | relative_url }}), airport and base-area confusion, and short witness reports that vary sharply in evidential quality.
 
 <img src="{{ "/assets/images/Delaware_5861e4-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Delaware&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-The state’s geography matters. Northern Delaware sits inside the busy Philadelphia–Wilmington–Newark air corridor, central Delaware is shaped by Dover Air Force Base, and the coast faces the Delaware Bay and Atlantic approaches where aircraft, ships, satellites and weather effects can be seen over dark water. Dover AFB is not a minor local landmark: the Air Force Historical Research Agency records the 436th Airlift Wing as stationed at Dover from January 1966, with C-5 operations from 1971 and C-17 operations from 2007, making the area a natural magnet for unusual-light reports that may involve large, slow or unfamiliar aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/433991/436-airlift-wing-amc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">436 Airlift Wing (AMC) &gt; Air Force Historical Research Agency &gt; Display...</span></span></span>
+The state’s geography matters. Northern Delaware sits inside the busy Philadelphia–Wilmington–Newark air corridor, central Delaware is shaped by Dover Air Force Base, and the coast faces the Delaware Bay and Atlantic approaches where aircraft, ships, satellites and weather effects can be seen over dark water. Dover AFB is not a minor local landmark: the Air Force Historical Research Agency records the 436th Airlift Wing as stationed at Dover from January 1966, with C-5 operations from 1971 and C-17 operations from 2007, making the area a natural magnet for unusual-light reports that may involve large, slow or unfamiliar aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/433991/436-airlift-wing-amc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">436 Airlift Wing (AMC) &gt; Air Force Historical Research Agency &gt; Display...</span></span></span>
 
 This does not mean every Dover-area report is “just a plane”. It means the burden of interpretation is higher. A silent triangle near an airbase, a hovering light near a highway or an orange formation over the beaches may be interesting as testimony, but the first serious questions are mundane: what aircraft were active, what planets were visible, what drones or lanterns were legal, what direction was the witness facing, and whether there is independent corroboration.
 
 ## The 1860 Wilmington story: striking, but historically fragile
 
-One of the most repeated Delaware UFO stories dates to 13 July 1860, when later summaries say Wilmington residents saw a pale blue light and a large, elongated object with red luminous features. Modern retellings often trace the account to the Wilmington Tribune, but the surviving easily accessible versions are secondary summaries rather than a readily verifiable digitised newspaper page. HowStuffWorks repeats the dramatic version, while a 2019 Technical.ly Delaware roundup presents it as one of the state’s famous early sightings and explicitly attributes it via HowStuffWorks rather than a displayed original clipping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century</span></span></span>
+One of the most repeated Delaware UFO stories dates to 13 July 1860, when later summaries say Wilmington residents saw a pale blue light and a large, elongated object with red luminous features. Modern retellings often trace the account to the Wilmington Tribune, but the surviving easily accessible versions are secondary summaries rather than a readily verifiable digitised newspaper page. HowStuffWorks repeats the dramatic version, while a 2019 Technical.ly Delaware roundup presents it as one of the state’s famous early sightings and explicitly attributes it via HowStuffWorks rather than a displayed original clipping.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century</span></span></span>
 
 The case matters because it sits before powered flight and therefore tempts modern readers to treat it as stronger than later aircraft-era sightings. That is not quite safe. Nineteenth-century sky reports were filtered through newspaper style, local rumour, meteor language and the era’s limited astronomical knowledge. A pre-aeroplane date removes one class of explanation, but it does not remove meteors, bolides, atmospheric optics, aurora-like effects, hoaxes, exaggeration or later paraphrase.
 
@@ -497,11 +497,11 @@ A cautious Delaware UFO history should therefore treat the 1860 Wilmington incid
 <img src="{{ "/assets/images/Delaware_5861e4-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Delaware&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dover AFB and the 1951 Sandy Hook case
 
-The most technically interesting Delaware-linked case did not unfold over Delaware itself. On 10 September 1951, a T-33 jet travelling from Dover Air Force Base to Mitchel Air Force Base in New York became part of the Fort Monmouth, New Jersey incidents. A Project Grudge special report says the pilot, an Air Force lieutenant, saw an unidentified object while en route from Dover; an Air Force major passenger also saw it after about 45 seconds. The object was described as round and silver, sometimes appearing flat, and estimated at 30 to 50 feet in diameter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most technically interesting Delaware-linked case did not unfold over Delaware itself. On 10 September 1951, a T-33 jet travelling from Dover Air Force Base to Mitchel Air Force Base in New York became part of the Fort Monmouth, New Jersey incidents. A Project Grudge special report says the pilot, an Air Force lieutenant, saw an unidentified object while en route from Dover; an Air Force major passenger also saw it after about 45 seconds. The object was described as round and silver, sometimes appearing flat, and estimated at 30 to 50 feet in diameter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The key reason this case matters is not that it “proves” anything exotic. It shows how a military UFO investigation could be both serious and sceptical. The report considered two silver radar-tracking balloons released from Evans Signal Laboratory shortly before the sighting. It noted that such balloons could appear disc-shaped from certain angles and might have been near the line of sight, but also said not all of the data fitted the balloon explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The key reason this case matters is not that it “proves” anything exotic. It shows how a military UFO investigation could be both serious and sceptical. The report considered two silver radar-tracking balloons released from Evans Signal Laboratory shortly before the sighting. It noted that such balloons could appear disc-shaped from certain angles and might have been near the line of sight, but also said not all of the data fitted the balloon explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The follow-up analysis is a useful lesson in UFO interpretation. The report argued that a comparatively small balloon closer to the aircraft could appear larger if the crew assumed it was over Sandy Hook, and that the T-33’s own high-speed manoeuvre could make a slow or stationary object appear to move rapidly. At the same time, the report acknowledged unresolved details, including the witness impression that the object descended and the fact that only one of two released balloons was noticed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The follow-up analysis is a useful lesson in UFO interpretation. The report argued that a comparatively small balloon closer to the aircraft could appear larger if the crew assumed it was over Sandy Hook, and that the T-33’s own high-speed manoeuvre could make a slow or stationary object appear to move rapidly. At the same time, the report acknowledged unresolved details, including the witness impression that the object descended and the fact that only one of two released balloons was noticed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Delaware, the case is important mainly because Dover AFB was the point of departure and because later Dover-area UFO stories often inherit the aura of a military base. But the incident itself is best described as a Delaware-linked military-pilot case with a plausible but imperfect balloon explanation, not a confirmed anomalous craft.
 
@@ -509,24 +509,24 @@ For Delaware, the case is important mainly because Dover AFB was the point of de
 
 ## Wilmington in the 1952 UFO wave
 
-The summer of 1952 was one of the central “flap” periods in American UFO history, with heavy public attention around radar and visual reports near Washington, D.C. Project Blue Book emerged during this period as the Air Force’s main UFO investigation, after earlier projects Sign and Grudge; the National Archives describes the Air Force UFO investigation as beginning in 1947, renamed Project Sign in 1948, Grudge in 1949 and Blue Book in March 1952. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The summer of 1952 was one of the central “flap” periods in American UFO history, with heavy public attention around radar and visual reports near Washington, D.C. Project Blue Book emerged during this period as the Air Force’s main UFO investigation, after earlier projects Sign and Grudge; the National Archives describes the Air Force UFO investigation as beginning in 1947, renamed Project Sign in 1948, Grudge in 1949 and Blue Book in March 1952.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Delaware appears in specialist catalogues of that wave. Brad Sparks’s catalogue of Project Blue Book “unknowns” lists a 25 July 1952 Wilmington case in which a Veterans Administration employee reportedly saw two discs reflecting light in a climb. It also lists a 27 July 1952 Wilmington report by James R. Thomas, who described a cylindrical object with domed top and bottom moving north-west to south-east before suddenly disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+Delaware appears in specialist catalogues of that wave. Brad Sparks’s catalogue of Project Blue Book “unknowns” lists a 25 July 1952 Wilmington case in which a Veterans Administration employee reportedly saw two discs reflecting light in a climb. It also lists a 27 July 1952 Wilmington report by James R. Thomas, who described a cylindrical object with domed top and bottom moving north-west to south-east before suddenly disappearing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
 These entries are intriguing because they fall inside the national 1952 surge rather than standing alone. They are also weak in a modern evidential sense. The available catalogue summaries are brief, apparently single-witness, and do not provide the kind of sensor data, photographs, multi-angle testimony or detailed weather reconstruction that would let a reader weigh them independently. Their value is historical: they show that Delaware was not absent from the great 1952 reporting wave, even though its reports were far less prominent than Washington, D.C., New Jersey, Virginia or other better-documented regional cases.
 
 <img src="{{ "/assets/images/Delaware_5861e4-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Delaware&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern Delaware reports: clusters, triangles and coastal lights
 
-The modern Delaware record is strongest as a pattern of reported experiences rather than as a set of individually decisive cases. NUFORC’s Delaware listing includes repeated reports from Wilmington, Dover, Newark, Rehoboth Beach, Lewes, Millsboro, Smyrna, Seaford and other towns. Several entries involve triangles, lights, spheres, fireballs or formations; some are explicitly marked with possible explanations such as Sirius, Venus, contrails, advertising lights or hoax notes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The modern Delaware record is strongest as a pattern of reported experiences rather than as a set of individually decisive cases. NUFORC’s Delaware listing includes repeated reports from Wilmington, Dover, Newark, Rehoboth Beach, Lewes, Millsboro, Smyrna, Seaford and other towns. Several entries involve triangles, lights, spheres, fireballs or formations; some are explicitly marked with possible explanations such as Sirius, Venus, contrails, advertising lights or hoax notes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 A few recurring themes stand out:
 
-**Triangle reports near roads and Dover.** NUFORC’s Delaware page includes triangle reports around Dover, Smyrna, Middletown, Newark and other locations, including entries near Dover AFB or Delaware highways. These are worth noting because triangle reports became a familiar American UFO category from the late twentieth century onward, but they are also vulnerable to aircraft-light geometry, perception errors at night, and the difficulty of judging size and distance without reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State DE</span><span class="citation-popover-snippet">Reports for State DE</span></span></span>
+**Triangle reports near roads and Dover.** NUFORC’s Delaware page includes triangle reports around Dover, Smyrna, Middletown, Newark and other locations, including entries near Dover AFB or Delaware highways. These are worth noting because triangle reports became a familiar American UFO category from the late twentieth century onward, but they are also vulnerable to aircraft-light geometry, perception errors at night, and the difficulty of judging size and distance without reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State DE</span><span class="citation-popover-snippet">Reports for State DE</span></span></span>
 
-**Beach and bay lights.** Rehoboth Beach, Lewes, Dewey Beach and the wider coast generate reports that often involve orange lights, globes, flashes or objects over water. One 2021 Rehoboth Beach NUFORC report described five orange lights forming a U shape, with a sixth light later approaching and the pattern changing. The witness compared the lights to flickering globes or lantern-like sources, which is exactly the kind of detail that keeps both possibilities open: a strange formation to the witness, but also potentially compatible with lanterns, drones, aircraft at distance or other prosaic lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=164027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Beach and bay lights.** Rehoboth Beach, Lewes, Dewey Beach and the wider coast generate reports that often involve orange lights, globes, flashes or objects over water. One 2021 Rehoboth Beach NUFORC report described five orange lights forming a U shape, with a sixth light later approaching and the pattern changing. The witness compared the lights to flickering globes or lantern-like sources, which is exactly the kind of detail that keeps both possibilities open: a strange formation to the witness, but also potentially compatible with lanterns, drones, aircraft at distance or other prosaic lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=164027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Brief urban lights.** Wilmington reports range from slow-moving “fireball type orbs” over Kirkwood Highway to anonymous short-duration sightings with uncertainty even about whether the time was morning or evening. NUFORC itself flags the latter problem in a 2014 Wilmington case, noting that the source was anonymous and could not be contacted to clarify the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=110093" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Brief urban lights.** Wilmington reports range from slow-moving “fireball type orbs” over Kirkwood Highway to anonymous short-duration sightings with uncertainty even about whether the time was morning or evening. NUFORC itself flags the latter problem in a 2014 Wilmington case, noting that the source was anonymous and could not be contacted to clarify the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=110093" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The strongest reader takeaway is not that Delaware has a secret pattern hidden in plain sight. It is that the state’s report stream behaves like many regional UFO datasets: many sincere witnesses, many short descriptions, uneven follow-up, and frequent overlap with known causes.
 
@@ -534,20 +534,20 @@ The strongest reader takeaway is not that Delaware has a secret pattern hidden i
 
 ## The 2024 drone scare changed how Delaware reports are read
 
-Recent drone concern is directly relevant to Delaware UFO history because it changes what “unidentified lights” mean in public conversation. In December 2024, Delaware State Police acknowledged recent potential drone sightings across the state and reminded the public that drone operation is legal. The agency told residents not to shoot at aircraft, noted that many legal manned and unmanned aircraft have visible night lighting, and recommended checking flight-tracking resources before reporting suspicious activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsp.delaware.gov">[Delaware State Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsp.delaware.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent drone concern is directly relevant to Delaware UFO history because it changes what “unidentified lights” mean in public conversation. In December 2024, Delaware State Police acknowledged recent potential drone sightings across the state and reminded the public that drone operation is legal. The agency told residents not to shoot at aircraft, noted that many legal manned and unmanned aircraft have visible night lighting, and recommended checking flight-tracking resources before reporting suspicious activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsp.delaware.gov">[Delaware State Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsp.delaware.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That official notice is a useful modern counterpart to older UFO investigations. It does not dismiss witnesses as foolish; it gives practical filters. Date, time, duration, location, movement, size estimate, direction and video quality all matter. So does whether an object is actually in restricted or sensitive airspace. The guidance also shows how “UFO” and “drone” reporting now overlap: a light that would once have been filed as a flying saucer may now be reported as a suspicious unmanned aircraft.
 
-Nationally, AARO, the U.S. government’s All-domain Anomaly Resolution Office, frames UAP work as a data-driven effort and directs attention to common causes, scientifically useful reporting and the question of whether there is evidence of extraterrestrial technology. Its public FAQ headings alone show the modern emphasis: reporting channels, leading explanations, common objects and causes, and the distinction between firsthand knowledge and rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+Nationally, AARO, the U.S. government’s All-domain Anomaly Resolution Office, frames UAP work as a data-driven effort and directs attention to common causes, scientifically useful reporting and the question of whether there is evidence of extraterrestrial technology. Its public FAQ headings alone show the modern emphasis: reporting channels, leading explanations, common objects and causes, and the distinction between firsthand knowledge and rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Delaware&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What counts as good evidence in Delaware cases?
 
 A Delaware sighting becomes more valuable when it has independent witnesses, exact time and location, direction of travel, duration, angular size, weather conditions, aircraft checks, radar or sensor correlation, original photographs or video metadata, and a documented investigation trail. A report becomes weaker when it is anonymous, delayed by years, copied from memory, missing direction and duration, or built around impressions such as “too fast”, “too silent” or “too large” without measurements.
 
-Project Blue Book itself is a reminder that “officially investigated” does not mean “proved extraordinary”. The National Archives notes that the Air Force’s Project Blue Book records are historical records in its custody, but it does not authenticate the truth of every claim contained in them. That distinction is vital for Delaware’s older cases: a sighting can be real as a document and still uncertain as an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book itself is a reminder that “officially investigated” does not mean “proved extraordinary”. The National Archives notes that the Air Force’s Project Blue Book records are historical records in its custody, but it does not authenticate the truth of every claim contained in them. That distinction is vital for Delaware’s older cases: a sighting can be real as a document and still uncertain as an event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same caution applies to NUFORC. It is one of the most useful public UFO report databases, but it is a witness-report archive, not a laboratory finding. Its Delaware entries are valuable for spotting clusters and recurring descriptions, yet the database itself contains possible explanations, suspected hoaxes and reports too thin to verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=118918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The same caution applies to NUFORC. It is one of the most useful public UFO report databases, but it is a witness-report archive, not a laboratory finding. Its Delaware entries are valuable for spotting clusters and recurring descriptions, yet the database itself contains possible explanations, suspected hoaxes and reports too thin to verify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=118918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RYiVWuzGuDs" title="White House on UFO hearing, Hunter Biden in Delaware court and more | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RYiVWuzGuDs" target="_blank" rel="noopener noreferrer">White House on UFO hearing, Hunter Biden in Delaware court and more | full video</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 1.9K &middot; Uploaded: July 2023 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RYiVWuzGuDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RYiVWuzGuDs">Open on YouTube</a></p></div></div></div>
 
@@ -558,194 +558,194 @@ Delaware’s UFO history is best understood as a small-state record shaped by th
 Modern Delaware sightings are more numerous but not necessarily stronger. They show recognisable clusters around Wilmington, Newark, Dover and the beaches, with triangles, orbs, fireballs and formations appearing repeatedly. Some may remain unresolved because the data are insufficient; others almost certainly belong to the familiar categories that explain many UFO reports: aircraft, drones, balloons, planets, satellites, meteors, lanterns, advertising lights, sensor artefacts and misjudged distance at night. The most honest conclusion is that Delaware has a genuine UFO-reporting history, but not a confirmed extraordinary UFO case. Its value lies in careful case-by-case reading, especially where Dover AFB, coastal sightlines, 1950s records and modern drone confusion intersect.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Delaware&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Delaware&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how early Air Force UFO investigations operated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how early Air Force UFO investigations operated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Connects to Delaware&#x27;s military-linked sightings and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects to Delaware&#x27;s military-linked sightings and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a state-wide overview of military and civilian UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a state-wide overview of military and civilian UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader historical context for unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader historical context for unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-delaware-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-delaware-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -761,7 +761,7 @@ Modern Delaware sightings are more numerous but not necessarily stronger. They s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -781,7 +781,7 @@ Modern Delaware sightings are more numerous but not necessarily stronger. They s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -813,7 +813,7 @@ Modern Delaware sightings are more numerous but not necessarily stronger. They s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -865,7 +865,7 @@ Modern Delaware sightings are more numerous but not necessarily stronger. They s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -910,7 +910,7 @@ Modern Delaware sightings are more numerous but not necessarily stronger. They s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -951,204 +951,204 @@ Modern Delaware sightings are more numerous but not necessarily stronger. They s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dafhistory.af.mil  
    Title: DAF History  
-   Link: <a href="https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/433991/436-airlift-wing-amc/" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/433991/436-airlift-wing-amc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>436 Airlift Wing (AMC) &gt; Air Force Historical Research Agency &gt; Display...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/433991/436-airlift-wing-amc/" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/433991/436-airlift-wing-amc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>436 Airlift Wing (AMC) &gt; Air Force Historical Research Agency &gt; Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works UFOs in the 19th Century  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: technical.ly  
    Title: its world ufo day here are the top 10 ufo sightings in delaware  
-   Link: <a href="https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/" target="_blank" rel="noopener noreferrer nofollow">https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/</a>  
+   Link:<a href="https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/" target="_blank" rel="noopener noreferrer nofollow">https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Reports for State DE  
-   Link: <a href="https://nuforc.org/subndx/?id=lDE" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lDE</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lDE" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lDE</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=164027" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164027</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=164027" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164027</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=110093" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110093</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=110093" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110093</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=118918" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=118918</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=118918" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=118918</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dsp.delaware.gov  
-   Link: <a href="https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/</a>  
+   Link:<a href="https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
+   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/B-001-014-055/B-001-014-055_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/B-001-014-055/B-001-014-055_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/B-001-014-055/B-001-014-055_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/B-001-014-055/B-001-014-055_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR10 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR9 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=149990" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=149990</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=149990" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=149990</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=192768" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192768</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=192768" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192768</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=sChevron" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sChevron</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=sChevron" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sChevron</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197245" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197245</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197245" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197245</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: northyorkshire.police.uk  
    Title: foi 0513 202425 ufo sightings  
-   Link: <a href="https://northyorkshire.police.uk/foi-ai/north-yorkshire-police/foi-disclosure-2021-22/january-2025/foi-0513-202425--ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://northyorkshire.police.uk/foi-ai/north-yorkshire-police/foi-disclosure-2021-22/january-2025/foi-0513-202425--ufo-sightings/</a>  
+   Link:<a href="https://northyorkshire.police.uk/foi-ai/north-yorkshire-police/foi-disclosure-2021-22/january-2025/foi-0513-202425--ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://northyorkshire.police.uk/foi-ai/north-yorkshire-police/foi-disclosure-2021-22/january-2025/foi-0513-202425--ufo-sightings/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051</a>  
+   Link:<a href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: westyorkshire.police.uk  
    Title: february 2025 foi 2372792 25 ufos  
-   Link: <a href="https://www.westyorkshire.police.uk/freedom-of-information/february-2025-foi-2372792-25-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/february-2025-foi-2372792-25-ufos</a>  
+   Link:<a href="https://www.westyorkshire.police.uk/freedom-of-information/february-2025-foi-2372792-25-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/february-2025-foi-2372792-25-ufos</a>  
    Published: february 2025  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Dover Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Dover_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dover_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dover_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dover_Air_Force_Base</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: unexplained-mysteries.com  
-   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/</a>  
+   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: vetfriends.com  
-   Link: <a href="https://www.vetfriends.com/branches/air-force/units/436th-airlift-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/436th-airlift-wing</a>  
+   Link:<a href="https://www.vetfriends.com/branches/air-force/units/436th-airlift-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/436th-airlift-wing</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=53KIHq1en9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=53KIHq1en9k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Historian Richard Dolan on the Drone Mystery and Disclosure in 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=53KIHq1en9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=53KIHq1en9k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Historian Richard Dolan on the Drone Mystery and Disclosure in 2025...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: White House on UFO hearing, Hunter Biden in Delaware court and more  
-   Link: <a href="https://www.youtube.com/watch?v=RYiVWuzGuDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RYiVWuzGuDs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hellfire missile bounces off mysterious orb in stunning UAP footage shown to Congress...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RYiVWuzGuDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RYiVWuzGuDs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hellfire missile bounces off mysterious orb in stunning UAP footage shown to Congress...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=baliOIBs4Dc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=baliOIBs4Dc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STEAM Speaker Series: UAP: A SCIENTIFIC INTERPRETATION...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=baliOIBs4Dc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=baliOIBs4Dc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STEAM Speaker Series: UAP: A SCIENTIFIC INTERPRETATION...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: STEAM Speaker Series: UAP: A SCIENTIFIC INTERPRETATION  
-   Link: <a href="https://www.youtube.com/watch?v=HCOlDsrjU44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HCOlDsrjU44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See all the UFO videos that the U.S. government just released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HCOlDsrjU44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HCOlDsrjU44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See all the UFO videos that the U.S. government just released...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/836667324/HISTORY-OF-THE-436th-AIRLIFT-WING-THE-EAGLE-WING-and-DOVER-AIR-FORCE-BASE-DOVER-DELAWARE" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/836667324/HISTORY-OF-THE-436th-AIRLIFT-WING-THE-EAGLE-WING-and-DOVER-AIR-FORCE-BASE-DOVER-DELAWARE</a>  
+   Link:<a href="https://www.scribd.com/document/836667324/HISTORY-OF-THE-436th-AIRLIFT-WING-THE-EAGLE-WING-and-DOVER-AIR-FORCE-BASE-DOVER-DELAWARE" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/836667324/HISTORY-OF-THE-436th-AIRLIFT-WING-THE-EAGLE-WING-and-DOVER-AIR-FORCE-BASE-DOVER-DELAWARE</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: tylervigen.com  
-   Link: <a href="https://tylervigen.com/spurious/research-papers/3895_close-encounters-of-the-third-climbing-kind-a-statistical-analysis-of-ufo-sightings-in-delaware-and-successful-mount-everest-climbs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tylervigen.com/spurious/research-papers/3895_close-encounters-of-the-third-climbing-kind-a-statistical-analysis-of-ufo-sightings-in-delaware-and-successful-mount-everest-climbs.pdf</a>  
+   Link:<a href="https://tylervigen.com/spurious/research-papers/3895_close-encounters-of-the-third-climbing-kind-a-statistical-analysis-of-ufo-sightings-in-delaware-and-successful-mount-everest-climbs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tylervigen.com/spurious/research-papers/3895_close-encounters-of-the-third-climbing-kind-a-statistical-analysis-of-ufo-sightings-in-delaware-and-successful-mount-everest-climbs.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/</a>  
+   Link:<a href="https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>  
+   Link:<a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: newengland.com  
-   Link: <a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>
+   Link:<a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>

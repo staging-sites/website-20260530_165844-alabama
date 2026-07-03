@@ -262,31 +262,31 @@ image: /assets/images/Florida_30c2d0_florida_ufo_records_c88f62-overview-social.
 
 ## Introduction
 
-Florida’s UFO record is not built mainly from one famous incident. It is built from thousands of ordinary witness reports: brief lights over the Gulf, fast objects near coastal towns, triangular formations over suburbs, fireball-like streaks, and occasional aviation-linked accounts. The National UFO Reporting Center (NUFORC) lists Florida among the busiest U.S. locations for UFO/UAP reporting, with roughly 8,900 entries in its location index, while the newer UFO Index site presents a smaller, searchable set of Florida witness accounts submitted through its own platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by Location...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Florida UFO Reports</span><span class="citation-popover-snippet">Florida UFO Reports</span></span></span>
+Florida’s UFO record is not built mainly from one famous incident. It is built from thousands of ordinary witness reports: brief lights over the Gulf, fast objects near coastal towns, triangular formations over suburbs, fireball-like streaks, and occasional aviation-linked accounts. The National UFO Reporting Center (NUFORC) lists Florida among the busiest U.S. locations for UFO/UAP reporting, with roughly 8,900 entries in its location index, while the newer UFO Index site presents a smaller, searchable set of Florida witness accounts submitted through its own platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by Location...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Florida UFO Reports</span><span class="citation-popover-snippet">Florida UFO Reports</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_records_c88f62-overview.webp" | relative_url }}" alt="Overview image for Witness Reports" loading="eager" decoding="sync" fetchpriority="high">
 That matters because databases change the way Florida’s UFO history is read. Instead of treating the subject as a handful of dramatic stories, they let readers see patterns: where people report sightings, what shapes they describe, how often reports are single-witness and short-lived, and how rarely the strongest cases are backed by radar, calibrated imagery, or independent investigation. Florida’s witness databases are therefore best understood as evidence of reporting behaviour and recurring observation claims, not as proof that every listed event involved something extraordinary.
 
 ## How Florida’s UFO reports are collected
 
-NUFORC is the central public database for Florida UFO reporting. It describes itself as dedicated to collecting and disseminating “objective UFO/UAP data”, and its site allows users to file reports, browse a data bank, view a map, and inspect image galleries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP...</span></span></span> For Florida, the NUFORC state page shows the familiar structure of a witness-report archive: date, time, city, state, shape, short summary, date reported, media field, and any explanation field where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lFL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State FL</span><span class="citation-popover-snippet">NUFORC Reports for State FL...</span></span></span>
+NUFORC is the central public database for Florida UFO reporting. It describes itself as dedicated to collecting and disseminating “objective UFO/UAP data”, and its site allows users to file reports, browse a data bank, view a map, and inspect image galleries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP...</span></span></span> For Florida, the NUFORC state page shows the familiar structure of a witness-report archive: date, time, city, state, shape, short summary, date reported, media field, and any explanation field where available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lFL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State FL</span><span class="citation-popover-snippet">NUFORC Reports for State FL...</span></span></span>
 
-The Florida entries illustrate the range of claims that end up in such databases. A 1995 Orlando report describes five witnesses seeing three yellow oval lights “the size of Venus”; a 1996 Gainesville report describes a huge diamond-shaped object with floodlights; a 1996 Jacksonville entry says the FAA relayed a report from two airliners seeing two objects in a cloud of blue light; and a 1996 Brooksville report explicitly notes that the witness was waiting to see the Space Shuttle when two fast white lights were seen overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These snippets are useful because they show the archive’s strength and weakness at once: it preserves claims that might otherwise disappear, but many entries remain too brief to settle what was actually seen.
+The Florida entries illustrate the range of claims that end up in such databases. A 1995 Orlando report describes five witnesses seeing three yellow oval lights “the size of Venus”; a 1996 Gainesville report describes a huge diamond-shaped object with floodlights; a 1996 Jacksonville entry says the FAA relayed a report from two airliners seeing two objects in a cloud of blue light; and a 1996 Brooksville report explicitly notes that the witness was waiting to see the Space Shuttle when two fast white lights were seen overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These snippets are useful because they show the archive’s strength and weakness at once: it preserves claims that might otherwise disappear, but many entries remain too brief to settle what was actually seen.
 
-UFO Index adds a different layer. It is not as large as NUFORC, but it is designed as a modern searchable witness database, with Florida pages listing reported locations and individual account pages that include co-ordinates and narrative text. Its Florida page says witnesses have reported strange lights, unidentified flying objects, and unexplained aerial phenomena across the state, and it listed 157 documented Florida sightings on the page captured during this research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/ufo-reports-by-state" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UF O Reports by State &#124; UFOIndex.com</span><span class="citation-popover-snippet">UF O Reports by State &#124; UFOIndex.com</span></span></span> A state-ranking page on the same site described Florida as the state with the most reports in that database at the time shown, though the figures on different UFO Index pages may vary as new reports are added. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/?page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Document Your Sighting</span><span class="citation-popover-snippet">Document Your Sighting</span></span></span>
+UFO Index adds a different layer. It is not as large as NUFORC, but it is designed as a modern searchable witness database, with Florida pages listing reported locations and individual account pages that include co-ordinates and narrative text. Its Florida page says witnesses have reported strange lights, unidentified flying objects, and unexplained aerial phenomena across the state, and it listed 157 documented Florida sightings on the page captured during this research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/ufo-reports-by-state" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UF O Reports by State &#124; UFOIndex.com</span><span class="citation-popover-snippet">UF O Reports by State &#124; UFOIndex.com</span></span></span> A state-ranking page on the same site described Florida as the state with the most reports in that database at the time shown, though the figures on different UFO Index pages may vary as new reports are added.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/?page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Document Your Sighting</span><span class="citation-popover-snippet">Document Your Sighting</span></span></span>
 
-The difference between the two systems is important. NUFORC is the deeper long-running archive and is more useful for historical pattern work. UFO Index is more accessible for browsing recent or individual public reports, but it also includes strongly belief-based framing from its founder, so readers should separate the witness text from the site’s interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/report?report=2261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UF O Sighting in Palm Coast, FLORIDA</span><span class="citation-popover-snippet">UF O Sighting in Palm Coast, FLORIDA</span></span></span>
+The difference between the two systems is important. NUFORC is the deeper long-running archive and is more useful for historical pattern work. UFO Index is more accessible for browsing recent or individual public reports, but it also includes strongly belief-based framing from its founder, so readers should separate the witness text from the site’s interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/report?report=2261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UF O Sighting in Palm Coast, FLORIDA</span><span class="citation-popover-snippet">UF O Sighting in Palm Coast, FLORIDA</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_records_c88f62-Illustration-1-dark.svg" | relative_url }}" alt="Witness Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_records_c88f62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_records_c88f62-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the databases show about Florida
 
-The most obvious finding is volume. NUFORC’s location index listed Florida at 8,888 reports in the opened result, placing it below California but ahead of many other large states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Spatial Hotspots in NUFORC Reports – An Analysis &#124; NUFORC</span><span class="citation-popover-snippet">Spatial Hotspots in NUFORC Reports – An Analysis &#124; NUFORC</span></span></span> A recent local news summary using NUFORC similarly described Florida as having about 8,900 reports over many decades, including dozens already listed in 2026. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/florida/southtampa/fl-among-states-most-ufo-sightings-pentagon-file-dump-shows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">FL Among States With Most UFO Sightings, Pentagon File</span><span class="citation-popover-snippet">FL Among States With Most UFO Sightings, Pentagon File</span></span></span> The exact count moves as databases update, but the broad point is stable: Florida is one of the most active public-reporting states in the U.S.
+The most obvious finding is volume. NUFORC’s location index listed Florida at 8,888 reports in the opened result, placing it below California but ahead of many other large states.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Spatial Hotspots in NUFORC Reports – An Analysis &#124; NUFORC</span><span class="citation-popover-snippet">Spatial Hotspots in NUFORC Reports – An Analysis &#124; NUFORC</span></span></span> A recent local news summary using NUFORC similarly described Florida as having about 8,900 reports over many decades, including dozens already listed in 2026.<span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/florida/southtampa/fl-among-states-most-ufo-sightings-pentagon-file-dump-shows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">FL Among States With Most UFO Sightings, Pentagon File</span><span class="citation-popover-snippet">FL Among States With Most UFO Sightings, Pentagon File</span></span></span> The exact count moves as databases update, but the broad point is stable: Florida is one of the most active public-reporting states in the U.S.
 
-The database entries do not point to one single type of object. Florida reports include lights, orbs, triangles, diamonds, discs, fireballs, formations, and vague “other” shapes. NUFORC’s own general commentary says its most commonly reported UAP shapes include orbs, triangles, circles and discs, with stranger forms appearing less often. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Florida’s own index page reflects that spread: the state list includes, among many others, a 1995 Sarasota triangular-light report, a 1996 Fort Lauderdale diamond-shaped report, a 1996 Fort Walton Beach bright-object maritime report, and a 1997 Palm Harbor triangle report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=29264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The database entries do not point to one single type of object. Florida reports include lights, orbs, triangles, diamonds, discs, fireballs, formations, and vague “other” shapes. NUFORC’s own general commentary says its most commonly reported UAP shapes include orbs, triangles, circles and discs, with stranger forms appearing less often.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Florida’s own index page reflects that spread: the state list includes, among many others, a 1995 Sarasota triangular-light report, a 1996 Fort Lauderdale diamond-shaped report, a 1996 Fort Walton Beach bright-object maritime report, and a 1997 Palm Harbor triangle report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=29264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Florida’s geography helps explain why it generates so many reports without assuming anything exotic. Long coastlines create wide night-sky horizons over the Atlantic and Gulf. The state also has major aviation, military and spaceflight contexts, including Kennedy Space Center, Cape Canaveral, Eglin Air Force Base, MacDill Air Force Base and busy civilian airports. A 1996 Cocoa Beach NUFORC entry, for example, describes a young couple seeing a cluster of objects over “Cape Kennedy”; another Florida entry involves people waiting for the Space Shuttle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=30379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These details do not debunk every sighting, but they show why Florida’s databases need careful comparison with launches, aircraft, drones, satellites, flares, meteors and weather events.
+Florida’s geography helps explain why it generates so many reports without assuming anything exotic. Long coastlines create wide night-sky horizons over the Atlantic and Gulf. The state also has major aviation, military and spaceflight contexts, including Kennedy Space Center, Cape Canaveral, Eglin Air Force Base, MacDill Air Force Base and busy civilian airports. A 1996 Cocoa Beach NUFORC entry, for example, describes a young couple seeing a cluster of objects over “Cape Kennedy”; another Florida entry involves people waiting for the Space Shuttle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=30379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These details do not debunk every sighting, but they show why Florida’s databases need careful comparison with launches, aircraft, drones, satellites, flares, meteors and weather events.
 
-The reports also show how much depends on timing. Some entries are filed soon after the event; others describe older memories reported years or decades later. A Plant City triangle report, for instance, lists an alleged 1985 event reported to NUFORC in 2016. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Such reports may be sincere, but memory-based accounts usually carry more uncertainty than same-night reports supported by photographs, multiple independent witnesses or official sensor data.
+The reports also show how much depends on timing. Some entries are filed soon after the event; others describe older memories reported years or decades later. A Plant City triangle report, for instance, lists an alleged 1985 event reported to NUFORC in 2016.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Such reports may be sincere, but memory-based accounts usually carry more uncertainty than same-night reports supported by photographs, multiple independent witnesses or official sensor data.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eHUDbyHiYkY" title="With Florida ranking high in UFO sightings, astronomers ask what&#x27;s up there?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eHUDbyHiYkY" target="_blank" rel="noopener noreferrer">With Florida ranking high in UFO sightings, astronomers ask what&#x27;s up there?</a></p><p class="youtube-embed-meta">Channel: CBS Miami &middot; Views: 86.0K &middot; Uploaded: March 2023 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eHUDbyHiYkY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eHUDbyHiYkY">Open on YouTube</a></p></div></div></div>
 
@@ -294,7 +294,7 @@ The reports also show how much depends on timing. Some entries are filed soon af
 
 A hotspot in a UFO database does not automatically mean a hotspot of unknown craft. It may mean a hotspot of population, tourism, clear sightlines, local publicity, military or launch activity, social media attention, or simply people who know where to report. That caution is especially relevant in Florida, where many reports come from coastal cities and large metropolitan areas.
 
-NUFORC’s own spatial analysis makes a useful distinction. In an analysis of around 120,000 reports across roughly 27,000 locations, NUFORC asked whether some U.S. locations showed unusually high numbers of reported shapes. The write-up warned that such maps do not prove aliens, military tests or any single explanation; they show only that many people reported seeing similar things in the same location, which can make reports more interesting while still leaving the cause unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+NUFORC’s own spatial analysis makes a useful distinction. In an analysis of around 120,000 reports across roughly 27,000 locations, NUFORC asked whether some U.S. locations showed unusually high numbers of reported shapes. The write-up warned that such maps do not prove aliens, military tests or any single explanation; they show only that many people reported seeing similar things in the same location, which can make reports more interesting while still leaving the cause unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 For Florida, the practical lesson is that clusters should be treated as leads, not conclusions. A cluster around Cape Canaveral or Cocoa Beach should be checked against space launches, re-entries, aircraft and rocket plumes. A cluster along Gulf Coast beaches should be checked against fishing boats, sky lanterns, flares, offshore aviation, meteors and low-horizon optical effects. A cluster around a city such as Miami, Tampa, Orlando or Jacksonville should be considered against population density, light pollution, aircraft traffic and social reporting patterns.
 
@@ -305,9 +305,9 @@ This is where databases become useful for sceptics and believers alike. A single
 
 The strongest Florida database entries are not necessarily the most dramatic ones. They are the ones that give enough information for later checking. A useful report should include the exact date, local time, location, direction faced, elevation above the horizon, duration, movement, colour, sound, number of witnesses, photos or video if available, and whether the witness checked aircraft trackers, satellite passes, meteor activity, launches or local events.
 
-Some Florida reports show why detail matters. A recent UFO Index Palm Coast account says an orb came into view from behind the witness’s house, appeared to pause for a fraction of a second, then went towards the ocean, with the whole event lasting about one second; the page also gives co-ordinates for the sighting location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/orb-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Orb Sightings</span><span class="citation-popover-snippet">Orb Sightings</span></span></span> That is a useful record of what the witness says, but the very short duration makes independent identification hard. A Myakka City NUFORC report gives an approximate time, one-minute duration, one observer, and compass-based viewing direction, which gives investigators more to work with than a purely impressionistic account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193075" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Some Florida reports show why detail matters. A recent UFO Index Palm Coast account says an orb came into view from behind the witness’s house, appeared to pause for a fraction of a second, then went towards the ocean, with the whole event lasting about one second; the page also gives co-ordinates for the sighting location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoindex.com/orb-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Orb Sightings</span><span class="citation-popover-snippet">Orb Sightings</span></span></span> That is a useful record of what the witness says, but the very short duration makes independent identification hard. A Myakka City NUFORC report gives an approximate time, one-minute duration, one observer, and compass-based viewing direction, which gives investigators more to work with than a purely impressionistic account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193075" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Professional or aviation-linked reports deserve attention, but they still need corroboration. A 1995 Miami-area NUFORC entry says an FAA controller relayed a crew sighting about 15 miles south-east of Lakeland VORTAC and notes that it did not show on the aircraft radar; a 1996 Jacksonville entry says two airliners saw objects in a large cloud of blue light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192861" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These details raise the evidential value compared with an anonymous one-line sighting, yet the archive snippets alone do not provide full radar records, air-traffic recordings, meteorological data or formal investigative conclusions.
+Professional or aviation-linked reports deserve attention, but they still need corroboration. A 1995 Miami-area NUFORC entry says an FAA controller relayed a crew sighting about 15 miles south-east of Lakeland VORTAC and notes that it did not show on the aircraft radar; a 1996 Jacksonville entry says two airliners saw objects in a large cloud of blue light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192861" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These details raise the evidential value compared with an anonymous one-line sighting, yet the archive snippets alone do not provide full radar records, air-traffic recordings, meteorological data or formal investigative conclusions.
 
 For readers, the simplest credibility test is not “Does it sound strange?” but “Could someone else check it?” A strong report makes falsification possible. It gives enough data for someone to compare the claim with launch schedules, ADS-B aircraft data, satellite passes, weather radar, astronomical objects, coastal flare activity and other nearby reports.
 
@@ -317,11 +317,11 @@ For readers, the simplest credibility test is not “Does it sound strange?” b
 
 Florida’s high report count is significant, but it should not be confused with a high count of confirmed unknown objects. Public UFO databases are largely self-selected: people report because they noticed something, cared enough to file it, and knew where to submit it. That means the archive reflects both sky events and human behaviour.
 
-NASA’s independent UAP study made this broader problem explicit. It found that there is no standardised system for civilian UAP reporting, leaving sparse and incomplete data without consistent curation or vetting protocols. It also noted that stigma around reporting probably causes data loss, because witnesses may stay silent rather than risk embarrassment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That cuts both ways: some genuine observations may never be filed, while some filed reports may be misidentifications, jokes, confused memories or incomplete observations.
+NASA’s independent UAP study made this broader problem explicit. It found that there is no standardised system for civilian UAP reporting, leaving sparse and incomplete data without consistent curation or vetting protocols. It also noted that stigma around reporting probably causes data loss, because witnesses may stay silent rather than risk embarrassment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That cuts both ways: some genuine observations may never be filed, while some filed reports may be misidentifications, jokes, confused memories or incomplete observations.
 
-AARO, the U.S. government’s All-domain Anomaly Resolution Office, has made a similar point about data infrastructure. A 2025 workshop paper described UAP reports as large-scale, heterogeneous and qualitative, often lacking standard metadata, formatting or common terminology; it also noted the difficulty of combining military databases, online reporting systems, digitised archives and social media into reliable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">2025 UAP Workshop Paper</span><span class="citation-popover-snippet">2025 UAP Workshop Paper</span></span></span> Florida’s public databases sit directly inside that problem. They are valuable because they preserve testimony, but they are difficult to analyse scientifically unless the records are standardised and cross-checked.
+AARO, the U.S. government’s All-domain Anomaly Resolution Office, has made a similar point about data infrastructure. A 2025 workshop paper described UAP reports as large-scale, heterogeneous and qualitative, often lacking standard metadata, formatting or common terminology; it also noted the difficulty of combining military databases, online reporting systems, digitised archives and social media into reliable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">2025 UAP Workshop Paper</span><span class="citation-popover-snippet">2025 UAP Workshop Paper</span></span></span> Florida’s public databases sit directly inside that problem. They are valuable because they preserve testimony, but they are difficult to analyse scientifically unless the records are standardised and cross-checked.
 
-Historical official records show the same tension. Project Blue Book, the U.S. Air Force’s former UFO investigation programme, ended in 1969; the National Archives says its records are declassified and available for research, but it has no information on sightings after that date. The Air Force fact sheet reproduced by the National Archives says Blue Book collected 12,618 reports from 1947 to 1969, with 701 left “Unidentified”, while also concluding that no investigated UFO showed evidence of threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2011 research guide</span><span class="citation-popover-snippet">aug 2011 research guide</span></span></span> For Florida researchers, that means older official files can provide context, but modern Florida sighting databases are mostly civilian records rather than continuations of a formal Air Force investigation.
+Historical official records show the same tension. Project Blue Book, the U.S. Air Force’s former UFO investigation programme, ended in 1969; the National Archives says its records are declassified and available for research, but it has no information on sightings after that date. The Air Force fact sheet reproduced by the National Archives says Blue Book collected 12,618 reports from 1947 to 1969, with 701 left “Unidentified”, while also concluding that no investigated UFO showed evidence of threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2011 research guide</span><span class="citation-popover-snippet">aug 2011 research guide</span></span></span> For Florida researchers, that means older official files can provide context, but modern Florida sighting databases are mostly civilian records rather than continuations of a formal Air Force investigation.
 
 <img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_records_c88f62-Illustration-3-dark.svg" | relative_url }}" alt="Witness Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_records_c88f62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_records_c88f62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Florida reports should be read
@@ -352,194 +352,194 @@ They also show how UFO history is now partly made by reporting systems. A sighti
 For Florida, the most useful reading is neither credulous nor dismissive. NUFORC and UFO Index demonstrate that thousands of people have reported puzzling things in Florida skies. They do not, by themselves, prove what those things were. Their strongest value is as a map of claims, a prompt for better investigation, and a reminder that the next step in any serious Florida UFO case is corroboration: who else saw it, what else was in the sky, what records exist, and what ordinary explanations have actually been tested.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Tracking Florida’s UFO Sightings Through Official Records. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Tracking Florida’s UFO Sightings Through Official Records. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines sighting databases, witness reports, and classification systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines sighting databases, witness reports, and classification systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by the former head of Project Blue Book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the former head of Project Blue Book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers on evaluating reported UFO cases and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on evaluating reported UFO cases and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Looks at recurring patterns across large bodies of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Looks at recurring patterns across large bodies of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="tracking-florida-s-ufo-sightings-through-official-records-ufo-wall-art-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ For Florida, the most useful reading is neither credulous nor dismissive. NUFORC
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ For Florida, the most useful reading is neither credulous nor dismissive. NUFORC
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ For Florida, the most useful reading is neither credulous nor dismissive. NUFORC
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ For Florida, the most useful reading is neither credulous nor dismissive. NUFORC
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ For Florida, the most useful reading is neither credulous nor dismissive. NUFORC
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,232 +745,232 @@ For Florida, the most useful reading is neither credulous nor dismissive. NUFORC
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Location...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Location...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufoindex.com  
    Title: Florida UFO Reports  
-   Link: <a href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/florida</a>  
+   Link:<a href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/florida</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: National UFO Reporting Center | Report a UFO | Report a UAP  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAP...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAP...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for State FL  
-   Link: <a href="https://nuforc.org/subndx/?id=lFL" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lFL</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State FL...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lFL" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lFL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State FL...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufoindex.com  
    Title: UF O Reports by State | UFOIndex.com  
-   Link: <a href="https://www.ufoindex.com/ufo-reports-by-state" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/ufo-reports-by-state</a>  
+   Link:<a href="https://www.ufoindex.com/ufo-reports-by-state" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/ufo-reports-by-state</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufoindex.com  
    Title: Document Your Sighting  
-   Link: <a href="https://www.ufoindex.com/?page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/?page=2</a>  
+   Link:<a href="https://www.ufoindex.com/?page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/?page=2</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: patch.com  
    Title: FL Among States With Most UFO Sightings, Pentagon File  
-   Link: <a href="https://patch.com/florida/southtampa/fl-among-states-most-ufo-sightings-pentagon-file-dump-shows" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/florida/southtampa/fl-among-states-most-ufo-sightings-pentagon-file-dump-shows</a>  
+   Link:<a href="https://patch.com/florida/southtampa/fl-among-states-most-ufo-sightings-pentagon-file-dump-shows" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/florida/southtampa/fl-among-states-most-ufo-sightings-pentagon-file-dump-shows</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=128504" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128504</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=128504" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128504</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
    Title: Spatial Hotspots in NUFORC Reports – An Analysis | NUFORC  
-   Link: <a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
+   Link:<a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufoindex.com  
    Title: UF O Sighting in Palm Coast, FLORIDA  
-   Link: <a href="https://www.ufoindex.com/report?report=2261" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=2261</a>  
+   Link:<a href="https://www.ufoindex.com/report?report=2261" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=2261</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184836" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184836</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184836" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184836</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=29264" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=29264</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=29264" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=29264</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=30379" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30379</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=30379" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30379</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193531</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=193531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193531</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193075" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193075</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=193075" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193075</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=192861" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192861</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=192861" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192861</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=6276" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=6276</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=6276" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=6276</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+   Link:<a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=101683" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=101683</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=101683" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=101683</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufoindex.com  
    Title: Orb Sightings  
-   Link: <a href="https://www.ufoindex.com/orb-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/orb-sightings</a>  
+   Link:<a href="https://www.ufoindex.com/orb-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/orb-sightings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufoindex.com  
-   Link: <a href="https://www.ufoindex.com/report?report=898" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=898</a>  
+   Link:<a href="https://www.ufoindex.com/report?report=898" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=898</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ufoindex.com  
-   Link: <a href="https://www.ufoindex.com/report?report=2221" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=2221</a>  
+   Link:<a href="https://www.ufoindex.com/report?report=2221" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=2221</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ufoindex.com  
    Title: UF O Sighting in Sanford, Florida  
-   Link: <a href="https://www.ufoindex.com/report?report=289" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=289</a>  
+   Link:<a href="https://www.ufoindex.com/report?report=289" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=289</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ufoindex.com  
-   Link: <a href="https://www.ufoindex.com/report?report=375" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=375</a>  
+   Link:<a href="https://www.ufoindex.com/report?report=375" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=375</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ufoindex.com  
    Title: UF O Sighting in Arcadia, FLORIDA  
-   Link: <a href="https://www.ufoindex.com/report?report=2240" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=2240</a>  
+   Link:<a href="https://www.ufoindex.com/report?report=2240" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=2240</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ufoindex.com  
-   Link: <a href="https://www.ufoindex.com/report?report=1600" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=1600</a>  
+   Link:<a href="https://www.ufoindex.com/report?report=1600" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=1600</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: archive.org  
    Title: UFO Vision 1997 No 5 djvu.txt  
-   Link: <a href="https://archive.org/stream/UFO-Vision_1997_No_5/UFO-Vision_1997_No_5_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO-Vision_1997_No_5/UFO-Vision_1997_No_5_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFO-Vision_1997_No_5/UFO-Vision_1997_No_5_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO-Vision_1997_No_5/UFO-Vision_1997_No_5_djvu.txt</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
+   Link:<a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2011 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: With Florida ranking high in UFO sightings, astronomers ask what's up there?  
-   Link: <a href="https://www.youtube.com/watch?v=eHUDbyHiYkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eHUDbyHiYkY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Gulf Breeze](&amp;#123;&amp;#123; &#x27;gulf-breeze/&#x27; | relative_url &amp;#125;&amp;#125;) UFO incident from Mary Povich on A Current Affair...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eHUDbyHiYkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eHUDbyHiYkY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Gulf Breeze](&amp;#123;&amp;#123; &#x27;gulf-breeze/&#x27; | relative_url &amp;#125;&amp;#125;) UFO incident from Mary Povich on A Current Affair...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: U.S. Government releases report on UFO sightings  
-   Link: <a href="https://www.youtube.com/watch?v=1ZvsA5TYWEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1ZvsA5TYWEE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 STUNNING UFO ENCOUNTERS CAUGHT ON CAMERA | The Proof is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1ZvsA5TYWEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1ZvsA5TYWEE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 STUNNING UFO ENCOUNTERS CAUGHT ON CAMERA | The Proof is Out There | History...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
+   Link:<a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/icymi-heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-accordin/708747308126065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/icymi-heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-accordin/708747308126065/</a>  
+   Link:<a href="https://www.facebook.com/FOX10Phoenix/posts/icymi-heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-accordin/708747308126065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/icymi-heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-accordin/708747308126065/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
+   Link:<a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+   Link:<a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/</a>  
+   Link:<a href="https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/the-national-ufo-reporting-center-has-received-more-than-2000-incidents-of-ufo-s/1216918837147383/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/daytonabeachnewsjournal/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1659321259014490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/daytonabeachnewsjournal/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1659321259014490/</a>
+   Link:<a href="https://www.facebook.com/daytonabeachnewsjournal/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1659321259014490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/daytonabeachnewsjournal/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1659321259014490/</a>

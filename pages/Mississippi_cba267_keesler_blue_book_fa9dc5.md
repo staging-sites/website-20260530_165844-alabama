@@ -261,25 +261,25 @@ image: /assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-overview-socia
 
 ## Introduction
 
-Keesler Air Force Base matters in Mississippi’s UFO history because it gives the state a paper trail inside the Cold War Air Force system, not because it proves alien visitation. The surviving record shows several Mississippi reports passing through Project Blue Book, including Keesler-linked visual, radar and photographic material from the 1950s and 1960s. Some were classed as “unknown” in later Blue Book lists; others were judged probably explainable, such as a 1956 case marked as a probable balloon. The real value is historical: Keesler was a radar, radio and electronics training centre, so reports from its personnel carried a different weight from casual sightings, while still suffering from the same limits as other UFO files — short observations, incomplete data, uncertain identifications and Cold War-era paperwork designed more for national-security triage than for public mystery-solving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Keesler Air Force Base matters in Mississippi’s UFO history because it gives the state a paper trail inside the Cold War Air Force system, not because it proves alien visitation. The surviving record shows several Mississippi reports passing through Project Blue Book, including Keesler-linked visual, radar and photographic material from the 1950s and 1960s. Some were classed as “unknown” in later Blue Book lists; others were judged probably explainable, such as a 1956 case marked as a probable balloon. The real value is historical: Keesler was a radar, radio and electronics training centre, so reports from its personnel carried a different weight from casual sightings, while still suffering from the same limits as other UFO files — short observations, incomplete data, uncertain identifications and Cold War-era paperwork designed more for national-security triage than for public mystery-solving.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-overview.webp" | relative_url }}" alt="Overview image for Keesler Records" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Keesler appears in the UFO record
 
-Keesler’s presence in the UFO archive is not surprising when its Cold War role is understood. After the Second World War, the base became central to Air Force technical training. Its Radar School arrived from Boca Raton in November 1947, and by early 1949 Air Training Command had decided that Keesler should focus on radar, radio, electronics maintenance, aircraft approach controllers, ground radar mechanics and ground-controlled approach specialists. By the 1950s and 1960s, it had become closely associated with high-technology instruction, including aircraft warning and control systems, radar, communications and electronics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/360538/history-of-keesler-air-force-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keesler.af.mil">[keesler.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keesler.af.mil</span><span class="citation-popover-title">history of keesler air force base</span><span class="citation-popover-snippet">&gt; Keesler Air Force Base &gt; Display...</span></span></span>
+Keesler’s presence in the UFO archive is not surprising when its Cold War role is understood. After the Second World War, the base became central to Air Force technical training. Its Radar School arrived from Boca Raton in November 1947, and by early 1949 Air Training Command had decided that Keesler should focus on radar, radio, electronics maintenance, aircraft approach controllers, ground radar mechanics and ground-controlled approach specialists. By the 1950s and 1960s, it had become closely associated with high-technology instruction, including aircraft warning and control systems, radar, communications and electronics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/360538/history-of-keesler-air-force-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keesler.af.mil">[keesler.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keesler.af.mil</span><span class="citation-popover-title">history of keesler air force base</span><span class="citation-popover-snippet">&gt; Keesler Air Force Base &gt; Display...</span></span></span>
 
 That background is important because some Keesler-linked reports were not simply “someone saw a light”. They involved military observers, radar training settings, weather observers, or Air Force reporting channels. In a UFO case, that can strengthen the historical interest of the report: trained personnel might be better at judging aircraft, weather and instruments than an ordinary passer-by. But it does not remove uncertainty. Radar returns can be affected by weather, equipment limits and interpretation; trained witnesses can still misjudge distance, altitude and speed; and even a military form can preserve an error as efficiently as it preserves a fact.
 
-The wider Project Blue Book system also shaped what Keesler records became. Blue Book was the Air Force’s long-running UFO investigation, active under that name from 1952 until 1969, with its records later transferred to the National Archives. The National Archives describes the files as including case reports, correspondence, newspaper clippings and analyses of photographs or physical evidence, with each case usually summarised on a control sheet showing the Air Force explanation or conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The wider Project Blue Book system also shaped what Keesler records became. Blue Book was the Air Force’s long-running UFO investigation, active under that name from 1952 until 1969, with its records later transferred to the National Archives. The National Archives describes the files as including case reports, correspondence, newspaper clippings and analyses of photographs or physical evidence, with each case usually summarised on a control sheet showing the Air Force explanation or conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-1-dark.svg" | relative_url }}" alt="Keesler Records illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Project Blue Book and Mississippi reports
 
-Project Blue Book had a practical Cold War purpose: to decide whether UFO reports indicated a threat to national security and to analyse the data scientifically enough to classify or explain them. The Air Force’s later summary says 12,618 sightings were reported from 1947 to 1969, with 701 remaining “unidentified”. It also states that Blue Book found no evidence that any investigated UFO was a national-security threat, no evidence of technology beyond contemporary scientific knowledge, and no evidence that unidentified cases were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+Project Blue Book had a practical Cold War purpose: to decide whether UFO reports indicated a threat to national security and to analyse the data scientifically enough to classify or explain them. The Air Force’s later summary says 12,618 sightings were reported from 1947 to 1969, with 701 remaining “unidentified”. It also states that Blue Book found no evidence that any investigated UFO was a national-security threat, no evidence of technology beyond contemporary scientific knowledge, and no evidence that unidentified cases were extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 For Mississippi, that means the official record should be read in two layers. The first layer is the raw historical fact that reports from the state entered the national military paperwork stream. The second is the Air Force’s institutional judgement: even unresolved cases were not treated as proof of extraordinary craft. Keesler’s files sit exactly in that tension. They are more substantial than folklore because they connect to dated federal records, military witnesses and Blue Book indexing. They are less conclusive than believers sometimes imply because “unidentified” in Blue Book language meant “not explained from the available data”, not “confirmed exotic object”.
 
-The National Archives’ own discussion of Blue Book photographs is a useful caution. It notes that witnesses often submitted photographs or negatives because they believed the images supported their sightings, but many images used as evidence were poor, ambiguous or difficult to interpret. The same Archives post specifically includes a Project Blue Book still-picture item labelled “Keesler AFB, Mississippi Film, 3/7/1954”, showing that Keesler material survived not only as written files but also as part of Blue Book’s special-media holdings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
+The National Archives’ own discussion of Blue Book photographs is a useful caution. It notes that witnesses often submitted photographs or negatives because they believed the images supported their sightings, but many images used as evidence were poor, ambiguous or difficult to interpret. The same Archives post specifically includes a Project Blue Book still-picture item labelled “Keesler AFB, Mississippi Film, 3/7/1954”, showing that Keesler material survived not only as written files but also as part of Blue Book’s special-media holdings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives – The Unwritten Record</span><span class="citation-popover-snippet">The Unwritten Record Aliens at the Archives – The Unwritten Record</span></span></span>
 
 That 1954 Keesler film entry is a good example of what the archive can and cannot do. It confirms that a Keesler-related film was part of the Blue Book photographic record. It does not, by itself, establish what the filmed object was, how reliable the camera record was, or whether the event deserved an “unknown” classification. As with much Blue Book material, the existence of the file is firmer than the meaning of the sighting.
 
@@ -289,16 +289,16 @@ That 1954 Keesler film entry is a good example of what the archive can and canno
 
 ### May 1952: a silver cylinder over Keesler
 
-One of the clearest Keesler entries in later Blue Book “unknown” catalogues is dated 7 May 1952. Brad Sparks’ catalogue of Project Blue Book unknowns lists case 1185 at Keesler AFB, Mississippi, at 12:15 p.m., where Captain Morris, a master sergeant, a staff sergeant and an airman first class reportedly saw an aluminium or silver cylindrical object dart in and out of clouds about ten times over five to ten minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+One of the clearest Keesler entries in later Blue Book “unknown” catalogues is dated 7 May 1952. Brad Sparks’ catalogue of Project Blue Book unknowns lists case 1185 at Keesler AFB, Mississippi, at 12:15 p.m., where Captain Morris, a master sergeant, a staff sergeant and an airman first class reportedly saw an aluminium or silver cylindrical object dart in and out of clouds about ten times over five to ten minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
 This is a useful case for Mississippi because it has several features readers normally look for: a precise date, a military setting, multiple witnesses and a repeated movement pattern rather than a single flash. Its weaknesses are just as obvious. The public summaries are short, the available description does not settle distance or size, and “darting in and out of clouds” leaves room for misjudged aircraft, reflective objects, balloons, birds at uncertain range, or atmospheric effects. The case is historically important because it reached the “unknown” stream, not because the available public summary rules out all ordinary explanations.
 
 <img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-2-dark.svg" | relative_url }}" alt="Keesler Records illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### July 1952: radar at Keesler during a national flap
 
-The most technically interesting Keesler-linked case is the radar report from 30 July 1952. It occurred during the famous summer 1952 UFO wave, the same national period that produced intense attention around Washington, DC. In the Keesler file, Captain Eugene P. Daspit and Technical Sergeant James E. Hansen of Keesler’s technical training organisation reported a [radar target]({{ 'radar-target-edcfc2/' | relative_url }}) on an AN/CPS-5 set shortly before midnight. The summary describes a target appearing north of the radar site, moving slowly, stopping, disappearing, reappearing and then moving away at a higher speed before disappearing again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+The most technically interesting Keesler-linked case is the radar report from 30 July 1952. It occurred during the famous summer 1952 UFO wave, the same national period that produced intense attention around Washington, DC. In the Keesler file, Captain Eugene P. Daspit and Technical Sergeant James E. Hansen of Keesler’s technical training organisation reported a [radar target]({{ 'radar-target-edcfc2/' | relative_url }}) on an AN/CPS-5 set shortly before midnight. The summary describes a target appearing north of the radar site, moving slowly, stopping, disappearing, reappearing and then moving away at a higher speed before disappearing again.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
-The surviving Air Intelligence Information Report is striking because it does not read like a sensational newspaper account. It is technical, cautious and procedural. It describes a target appearing on a PPI radar scope in a teardrop shape; estimates it as about the size of a C-54 aircraft radar return; records movement first south, then north, then north-easterly; and notes that its slow movement and a prevailing temperature inversion led the observer to suggest an “angel” — radar jargon often used for non-aircraft returns caused by birds, weather, insects, or atmospheric conditions. The report also says a local railroad agent was contacted because a train might have been in the area, but returned a negative report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/520730keesler_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520730keesler docs</span><span class="citation-popover-snippet">520730keesler docs</span></span></span>
+The surviving Air Intelligence Information Report is striking because it does not read like a sensational newspaper account. It is technical, cautious and procedural. It describes a target appearing on a PPI radar scope in a teardrop shape; estimates it as about the size of a C-54 aircraft radar return; records movement first south, then north, then north-easterly; and notes that its slow movement and a prevailing temperature inversion led the observer to suggest an “angel” — radar jargon often used for non-aircraft returns caused by birds, weather, insects, or atmospheric conditions. The report also says a local railroad agent was contacted because a train might have been in the area, but returned a negative report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/520730keesler_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520730keesler docs</span><span class="citation-popover-snippet">520730keesler docs</span></span></span>
 
 This is exactly the kind of case where both sides of the argument find something to use. A pro-UFO reader sees trained radar personnel, a recorded track and an object that changed movement. A sceptical reader sees low speed, temperature inversion, possible anomalous propagation and a report that itself considered a radar “angel”. The strongest conclusion is modest: the file shows that Keesler’s radar training environment produced a report that Air Force channels considered worth forwarding, but it does not prove the radar target was a solid craft.
 
@@ -306,24 +306,24 @@ This is exactly the kind of case where both sides of the argument find something
 
 ### February 1956: a probable balloon, not an unknown
 
-Not every Keesler file points towards mystery. A February 1956 Project Blue Book record for Keesler AFB is listed in the Blue Book Archive as a four-page case, and its OCR record card indicates a ground-visual observation from a military source with the conclusion marked “Probably Balloon”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/3098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Not every Keesler file points towards mystery. A February 1956 Project Blue Book record for Keesler AFB is listed in the Blue Book Archive as a four-page case, and its OCR record card indicates a ground-visual observation from a military source with the conclusion marked “Probably Balloon”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/3098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This matters because it shows the archive trail cutting both ways. Keesler was not simply a factory for unexplained cases. Some reports were absorbed into the Air Force system and reduced to ordinary explanations. In public UFO history, solved or probably solved files often receive less attention than unknowns, but they are essential for understanding how Blue Book worked. The presence of an explanation does not prove the Air Force was always right; it does show that the official record includes classification, filtering and sceptical judgement rather than only collection.
 
 ### 1962 and 1965: the Gulf Coast pattern continues
 
-Keesler’s place in the record did not end with the early 1950s. NICAP’s list of Blue Book unsolved cases includes 30 July 1962 at Ocean Springs, Mississippi, and 21 September 1962 west-south-west of Biloxi, as well as 4 April 1965 at Keesler AFB. The 1965 entry describes a 4:05 a.m. sighting by Airman Second Class Corum, a weather observer, with unclear confirmation by a college student, of a black oval object with four lights along the bottom moving in and out of clouds for about 15 seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Keesler’s place in the record did not end with the early 1950s. NICAP’s list of Blue Book unsolved cases includes 30 July 1962 at Ocean Springs, Mississippi, and 21 September 1962 west-south-west of Biloxi, as well as 4 April 1965 at Keesler AFB. The 1965 entry describes a 4:05 a.m. sighting by Airman Second Class Corum, a weather observer, with unclear confirmation by a college student, of a black oval object with four lights along the bottom moving in and out of clouds for about 15 seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 The 1965 case is intriguing but thin. A weather observer is a better-than-average witness for cloud and sky conditions, yet the sighting lasted only seconds, the secondary confirmation is uncertain in the available data, and the description depends on a brief visual impression in low-light conditions. The case deserves a place in Mississippi’s UFO history because it links Keesler to a later Blue Book unknown. It does not deserve inflation into a strong proof case.
 
 <img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-3-dark.svg" | relative_url }}" alt="Keesler Records illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official files can and cannot prove
 
-The Keesler files are best read as evidence of reporting, not evidence of origin. They prove that Mississippi sightings were serious enough to be written down, forwarded and preserved in federal UFO records. They show that Keesler’s Cold War technical environment — radar schooling, airfield operations, weather observation and electronics training — created a setting where unusual aerial reports could be noticed by people with relevant skills. They also show how quickly a sighting could move from a local observation into a national system centred at Wright-Patterson and later preserved through the National Archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The Keesler files are best read as evidence of reporting, not evidence of origin. They prove that Mississippi sightings were serious enough to be written down, forwarded and preserved in federal UFO records. They show that Keesler’s Cold War technical environment — radar schooling, airfield operations, weather observation and electronics training — created a setting where unusual aerial reports could be noticed by people with relevant skills. They also show how quickly a sighting could move from a local observation into a national system centred at Wright-Patterson and later preserved through the National Archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 They cannot prove that the observed objects were alien craft, secret aircraft, missiles, balloons, radar artefacts or natural phenomena in every case. Often the records do not contain enough independent data to close the question. A radar report may lack corroborating visual observation; a visual report may lack radar confirmation; a photograph may show an ambiguous mark or shape; and a later catalogue entry may compress a complex file into a few lines. That compression is useful for navigation but dangerous if treated as the whole story.
 
-A balanced reading also has to distinguish “unknown” from “best evidence”. In Blue Book usage, an unknown could mean a case resisted identification after the available investigation. It did not mean the Air Force endorsed an extraordinary explanation. The Air Force’s public fact sheet is explicit that Blue Book’s overall conclusions found no evidence of extraterrestrial vehicles and no national-security threat among investigated UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+A balanced reading also has to distinguish “unknown” from “best evidence”. In Blue Book usage, an unknown could mean a case resisted identification after the available investigation. It did not mean the Air Force endorsed an extraordinary explanation. The Air Force’s public fact sheet is explicit that Blue Book’s overall conclusions found no evidence of extraterrestrial vehicles and no national-security threat among investigated UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 At the same time, scepticism should not erase the historical value of the records. The July 1952 Keesler radar case, for example, is not merely a rumour. It has names, roles, equipment, movement notes, weather context and an official report format. Its likely explanations remain debatable, but the incident itself is better documented than many local UFO stories. That is why Keesler belongs in a Mississippi UFO history even though its files do not settle the larger UFO question.
 
@@ -338,194 +338,194 @@ Keesler also helps explain why the Gulf Coast generated recurring UFO interest. 
 The strongest takeaway is therefore neither “Keesler proves UFOs were real craft” nor “Keesler proves there was nothing to see”. The record supports a narrower, more useful conclusion: Keesler Air Force Base gave Mississippi a documented Cold War UFO trail, including several reports that entered Blue Book’s unresolved lists, while the best available official conclusions still stop well short of extraordinary claims. That makes Keesler one of the state’s most important evidence clusters for understanding how UFO sightings became records, how records became debate, and why unresolved does not mean confirmed.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Air Force Record in Mississippi?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Air Force Record in Mississippi?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly covers Blue Book investigations, methods and unresolved cases similar to Keesler reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Blue Book investigations, methods and unresolved cases similar to Keesler reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how Air Force UFO investigations operated during the era discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how Air Force UFO investigations operated during the era discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places Mississippi and Blue Book material into the wider governmental UFO record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Mississippi and Blue Book material into the wider governmental UFO record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Focuses on Air Force UFO case files and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on Air Force UFO case files and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Regiment Sew On TRF Patch/Badge"><img src="https://i.ebayimg.com/images/g/Y3MAAeSwAaFqDPah/s-l225.jpg" alt="Listing image for Royal Air Force RAF Regiment Sew On TRF Patch/Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Regiment Sew On TRF Patch/Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Regiment Sew On TRF Patch/Badge"><img src="https://i.ebayimg.com/images/g/Y3MAAeSwAaFqDPah/s-l225.jpg" alt="Listing image for Royal Air Force RAF Regiment Sew On TRF Patch/Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Regiment Sew On TRF Patch/Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for x2 Royal Air Force RAF Airman Badge Patch Shoulder Embroidered Eagle Unissued"><img src="https://i.ebayimg.com/images/g/h0IAAeSw83RpvAXQ/s-l225.jpg" alt="Listing image for x2 Royal Air Force RAF Airman Badge Patch Shoulder Embroidered Eagle Unissued" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">x2 Royal Air Force RAF Airman Badge Patch Shoulder Embroidered Eagle Unissued</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for x2 Royal Air Force RAF Airman Badge Patch Shoulder Embroidered Eagle Unissued"><img src="https://i.ebayimg.com/images/g/h0IAAeSw83RpvAXQ/s-l225.jpg" alt="Listing image for x2 Royal Air Force RAF Airman Badge Patch Shoulder Embroidered Eagle Unissued" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">x2 Royal Air Force RAF Airman Badge Patch Shoulder Embroidered Eagle Unissued</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force 35th Fighter Squadron Patch Iron On Sew On Panther Badge"><img src="https://i.ebayimg.com/images/g/5mwAAOSwGr1nSyeS/s-l225.jpg" alt="Listing image for United States Air Force 35th Fighter Squadron Patch Iron On Sew On Panther Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force 35th Fighter Squadron Patch Iron On Sew On Panther Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force 35th Fighter Squadron Patch Iron On Sew On Panther Badge"><img src="https://i.ebayimg.com/images/g/5mwAAOSwGr1nSyeS/s-l225.jpg" alt="Listing image for United States Air Force 35th Fighter Squadron Patch Iron On Sew On Panther Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force 35th Fighter Squadron Patch Iron On Sew On Panther Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique"><img src="https://i.ebayimg.com/images/g/C7oAAOSwUrZeFJR0/s-l225.jpg" alt="Listing image for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique"><img src="https://i.ebayimg.com/images/g/C7oAAOSwUrZeFJR0/s-l225.jpg" alt="Listing image for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-air-force-record-in-mississippi-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="what-did-the-air-force-record-in-mississippi-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The strongest takeaway is therefore neither “Keesler proves UFOs were real cra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The strongest takeaway is therefore neither “Keesler proves UFOs were real cra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The strongest takeaway is therefore neither “Keesler proves UFOs were real cra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The strongest takeaway is therefore neither “Keesler proves UFOs were real cra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The strongest takeaway is therefore neither “Keesler proves UFOs were real cra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,171 +731,171 @@ The strongest takeaway is therefore neither “Keesler proves UFOs were real cra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: keesler.af.mil  
    Title: history of keesler air force base  
-   Link: <a href="https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/360538/history-of-keesler-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/360538/history-of-keesler-air-force-base/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; Keesler Air Force Base &gt; Display...</p></details>
+   Link:<a href="https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/360538/history-of-keesler-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/360538/history-of-keesler-air-force-base/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; Keesler Air Force Base &gt; Display...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Aliens at the Archives – The Unwritten Record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: 520730keesler docs  
-   Link: <a href="https://www.nicap.org/docs/520730keesler_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/520730keesler_docs.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/520730keesler_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/520730keesler_docs.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/1965.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/1965.htm</a>  
+   Link:<a href="https://www.nicap.org/1965.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/1965.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: keesler.af.mil  
-   Link: <a href="https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/3718828/334th-training-squadron/" target="_blank" rel="noopener noreferrer nofollow">https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/3718828/334th-training-squadron/</a>  
+   Link:<a href="https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/3718828/334th-training-squadron/" target="_blank" rel="noopener noreferrer nofollow">https://www.keesler.af.mil/About-Us/Fact-Sheets/Display/Article/3718828/334th-training-squadron/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: keesler.af.mil  
    Title: KAFB 81st Anniversary Slide 22 AUG 22  
-   Link: <a href="https://www.keesler.af.mil/Portals/14/KAFB%2081st%20Anniversary%20Slide%2022%20AUG%2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.keesler.af.mil/Portals/14/KAFB%2081st%20Anniversary%20Slide%2022%20AUG%2022.pdf</a>  
+   Link:<a href="https://www.keesler.af.mil/Portals/14/KAFB%2081st%20Anniversary%20Slide%2022%20AUG%2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.keesler.af.mil/Portals/14/KAFB%2081st%20Anniversary%20Slide%2022%20AUG%2022.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/520730keesler_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/520730keesler_rep.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/520730keesler_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/520730keesler_rep.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1965fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1965fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1965fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1965fullrep.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
+   Link:<a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/3098" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/3098</a>  
+   Link:<a href="https://bluebookfiles.org/doc/3098" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/3098</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Keesler Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Keesler_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Keesler_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Keesler_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Keesler_Air_Force_Base</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: en.wikisource.org  
    Title: Air Force Regulation 200 2, Unidentified Flying Objects Reporting  
-   Link: <a href="https://en.wikisource.org/wiki/Air_Force_Regulation_200-2%2C_Unidentified_Flying_Objects_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Air_Force_Regulation_200-2%2C_Unidentified_Flying_Objects_Reporting</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Air_Force_Regulation_200-2%2C_Unidentified_Flying_Objects_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Air_Force_Regulation_200-2%2C_Unidentified_Flying_Objects_Reporting</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
    Title: Air Force Regulation No 200 2 12 August 1954  
-   Link: <a href="https://www.academia.edu/122632088/Air_Force_Regulation_No_200_2_12_August_1954" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/122632088/Air_Force_Regulation_No_200_2_12_August_1954</a>  
+   Link:<a href="https://www.academia.edu/122632088/Air_Force_Regulation_No_200_2_12_August_1954" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/122632088/Air_Force_Regulation_No_200_2_12_August_1954</a>  
    Published: August 1954  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: radartutorial.eu  
    Title: A N/CPS-5  
-   Link: <a href="https://www.radartutorial.eu/19.kartei/11.ancient2/karte001.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/19.kartei/11.ancient2/karte001.en.html</a>  
+   Link:<a href="https://www.radartutorial.eu/19.kartei/11.ancient2/karte001.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/19.kartei/11.ancient2/karte001.en.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
+   Link:<a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: keeslerhousing.com  
-   Link: <a href="https://www.keeslerhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.keeslerhousing.com/history</a>  
+   Link:<a href="https://www.keeslerhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.keeslerhousing.com/history</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: findingaids.library.northwestern.edu  
-   Link: <a href="https://findingaids.library.northwestern.edu/agents/people/1473" target="_blank" rel="noopener noreferrer nofollow">https://findingaids.library.northwestern.edu/agents/people/1473</a>  
+   Link:<a href="https://findingaids.library.northwestern.edu/agents/people/1473" target="_blank" rel="noopener noreferrer nofollow">https://findingaids.library.northwestern.edu/agents/people/1473</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
+   Link:<a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: 10 Cases From Project Blue Book: The CIA's Hunt For UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoKm417zKOA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Military Radar Technician Reacts to Newly Declassified UAP Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoKm417zKOA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Military Radar Technician Reacts to Newly Declassified UAP Evidence...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/35030468/Case_study_of_a_Close_Encounter_of_the_Third_Kind_Nancy_France_1969_Hallucination_or_false_memory_SUNlite_vol_9_n_6_p_4_5_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35030468/Case_study_of_a_Close_Encounter_of_the_Third_Kind_Nancy_France_1969_Hallucination_or_false_memory_SUNlite_vol_9_n_6_p_4_5_</a>  
+   Link:<a href="https://www.academia.edu/35030468/Case_study_of_a_Close_Encounter_of_the_Third_Kind_Nancy_France_1969_Hallucination_or_false_memory_SUNlite_vol_9_n_6_p_4_5_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35030468/Case_study_of_a_Close_Encounter_of_the_Third_Kind_Nancy_France_1969_Hallucination_or_false_memory_SUNlite_vol_9_n_6_p_4_5_</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/did-aliens-abduct-two-men-in-ohio-theproofisouttherenew-episodes-fridays-at-109c/1382042893488683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/did-aliens-abduct-two-men-in-ohio-theproofisouttherenew-episodes-fridays-at-109c/1382042893488683/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/did-aliens-abduct-two-men-in-ohio-theproofisouttherenew-episodes-fridays-at-109c/1382042893488683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/did-aliens-abduct-two-men-in-ohio-theproofisouttherenew-episodes-fridays-at-109c/1382042893488683/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LMCUOfficial/posts/floyd-siegfried-veteran-military-service-member-and-lmcu-member-grew-up-in-a-sma/10166156920560564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LMCUOfficial/posts/floyd-siegfried-veteran-military-service-member-and-lmcu-member-grew-up-in-a-sma/10166156920560564/</a>  
+   Link:<a href="https://www.facebook.com/LMCUOfficial/posts/floyd-siegfried-veteran-military-service-member-and-lmcu-member-grew-up-in-a-sma/10166156920560564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LMCUOfficial/posts/floyd-siegfried-veteran-military-service-member-and-lmcu-member-grew-up-in-a-sma/10166156920560564/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: jbsa.mil  
-   Link: <a href="https://www.jbsa.mil/News/News/Article/1045928/missions-and-memories-keeslers-first-75-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/1045928/missions-and-memories-keeslers-first-75-years/</a>
+   Link:<a href="https://www.jbsa.mil/News/News/Article/1045928/missions-and-memories-keeslers-first-75-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/1045928/missions-and-memories-keeslers-first-75-years/</a>

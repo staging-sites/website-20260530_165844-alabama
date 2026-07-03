@@ -253,19 +253,19 @@ image: /assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scra
 The most disputed part of the 1959 [Redmond]({{ 'redmond/' | relative_url }}) UFO case is not the visual sighting itself. It is the claim that military radar tracked the object and that interceptor aircraft were scrambled in response. Those details are what pushed the incident beyond a local police report and into Oregon’s wider UFO history. If radar operators genuinely followed an unknown target and Air Force fighters were launched because of it, the case becomes much harder to dismiss as a simple misidentification of Venus. If the radar return was a false target and the scramble story grew in the retelling, the event begins to look far less extraordinary.
 
 <img src="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-1-dark.svg" | relative_url }}" alt="Radar scramble illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The surviving records sit awkwardly between those two possibilities. There is evidence that official communications linked Redmond, Klamath Falls radar personnel and Hamilton Air Force Base. There is also evidence that later UFO literature expanded the story well beyond what the strongest documentation clearly supports. The result is a case that remains interesting less because of what is certain than because of what the records do and do not prove. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Evidence 1964</span><span class="citation-popover-snippet">The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</span><span class="citation-popover-meta">Published: June 6, 2011</span></span></span>
+The surviving records sit awkwardly between those two possibilities. There is evidence that official communications linked Redmond, Klamath Falls radar personnel and Hamilton Air Force Base. There is also evidence that later UFO literature expanded the story well beyond what the strongest documentation clearly supports. The result is a case that remains interesting less because of what is certain than because of what the records do and do not prove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Evidence 1964</span><span class="citation-popover-snippet">The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</span><span class="citation-popover-meta">Published: June 6, 2011</span></span></span>
 
 ## How the Seattle log linked Redmond, Klamath Falls and Hamilton Air Force Base
 
 The key document repeatedly cited by UFO researchers is a communication log reportedly passed through Seattle Air Route Traffic Control. According to versions reproduced by NICAP and later researchers, Redmond Airport personnel reported the object to Seattle at about 5:10 a.m. Pacific time. The Seattle centre then relayed information to Hamilton Air Force Base in California. The crucial line states:
 
-&gt; “UFO also seen on the radar at Klamath Falls GCI site.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Evidence 1964</span><span class="citation-popover-snippet">The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</span><span class="citation-popover-meta">Published: June 6, 2011</span></span></span>
+&gt; “UFO also seen on the radar at Klamath Falls GCI site.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Evidence 1964</span><span class="citation-popover-snippet">The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</span><span class="citation-popover-meta">Published: June 6, 2011</span></span></span>
 
-The same log entry adds that F-102 interceptors were scrambled from Portland. That sentence is the foundation for nearly every later claim that the Redmond object was simultaneously observed visually and tracked by military radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">590924redmond dir</span><span class="citation-popover-snippet">UFO ReportThe Air Force radar at Klamath Falls tracked the disc. Given the Air Force &quot;explanations&quot; and some incorrect data in 1959...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1959 UFO ChronologyRedmond FAA controllers lost sight of object. Seattle FAA reported at 7:11 a.m. that Klamath Falls radar still tr...</span></span></span>
+The same log entry adds that F-102 interceptors were scrambled from Portland. That sentence is the foundation for nearly every later claim that the Redmond object was simultaneously observed visually and tracked by military radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">590924redmond dir</span><span class="citation-popover-snippet">UFO ReportThe Air Force radar at Klamath Falls tracked the disc. Given the Air Force &quot;explanations&quot; and some incorrect data in 1959...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1959 UFO ChronologyRedmond FAA controllers lost sight of object. Seattle FAA reported at 7:11 a.m. that Klamath Falls radar still tr...</span></span></span>
 
-The terminology matters. A GCI site was a Ground Control Intercept radar station whose purpose was to detect aircraft and guide interceptors toward them. During the Cold War, such stations formed part of the continental air-defence network. If the Klamath Falls operators genuinely reported an unknown target, it would have been treated as an air-defence matter rather than merely an astronomical sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Blaine_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Blaine Air Force Station</span><span class="citation-popover-snippet">Blaine Air Force Station</span></span></span>
+The terminology matters. A GCI site was a Ground Control Intercept radar station whose purpose was to detect aircraft and guide interceptors toward them. During the Cold War, such stations formed part of the continental air-defence network. If the Klamath Falls operators genuinely reported an unknown target, it would have been treated as an air-defence matter rather than merely an astronomical sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Blaine_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Blaine Air Force Station</span><span class="citation-popover-snippet">Blaine Air Force Station</span></span></span>
 
-Yet the surviving public record is thinner than many popular retellings suggest. Researchers frequently quote the Seattle log, but complete radar tapes, technical plots or detailed Air Force radar analyses have not become standard parts of the case literature. What remains is a documentary trail showing that radar involvement was reported, not a complete technical reconstruction of exactly what operators saw on their scopes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/oregon1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Redman Oregon Case UFO History</span><span class="citation-popover-snippet">The Redman Oregon Case UFO History - Redmondradar at Klamath Falls. Even after the AF pilots gave up the hopeless chase, the radar o...</span></span></span>
+Yet the surviving public record is thinner than many popular retellings suggest. Researchers frequently quote the Seattle log, but complete radar tapes, technical plots or detailed Air Force radar analyses have not become standard parts of the case literature. What remains is a documentary trail showing that radar involvement was reported, not a complete technical reconstruction of exactly what operators saw on their scopes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/oregon1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Redman Oregon Case UFO History</span><span class="citation-popover-snippet">The Redman Oregon Case UFO History - Redmondradar at Klamath Falls. Even after the AF pilots gave up the hopeless chase, the radar o...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u-2kGzR2-o0" title="Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer">Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u-2kGzR2-o0">Open on YouTube</a></p></div></div></div>
 
@@ -273,7 +273,7 @@ Yet the surviving public record is thinner than many popular retellings suggest.
 
 The strongest sceptical argument is that the radar component and the visual component may not have reflected the same thing.
 
-Radar systems in the 1950s were vulnerable to anomalous returns. Temperature inversions, unusual atmospheric layers, ground reflections and other propagation effects could create false targets or make stationary features appear to move. These problems were serious enough that they became central to later debates over famous radar UFO cases such as the 1952 Washington sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Air Force Station</span><span class="citation-popover-snippet">Condon Air Force Station</span></span></span>
+Radar systems in the 1950s were vulnerable to anomalous returns. Temperature inversions, unusual atmospheric layers, ground reflections and other propagation effects could create false targets or make stationary features appear to move. These problems were serious enough that they became central to later debates over famous radar UFO cases such as the 1952 Washington sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Air Force Station</span><span class="citation-popover-snippet">Condon Air Force Station</span></span></span>
 
 Applied to Redmond, the sceptical interpretation runs roughly as follows:
 
@@ -289,14 +289,14 @@ Applied to Redmond, the sceptical interpretation runs roughly as follows:
 
 This possibility is important because the Redmond story is often presented as a single chain of evidence. In reality, it may have been several different observations occurring during the same period and later woven together into one narrative.
 
-Some later Air Force-oriented explanations reportedly characterised the Klamath Falls target as a fixed or spurious radar return rather than a solid object moving through controlled airspace. That interpretation would fit a radar anomaly better than a structured craft performing dramatic manoeuvres. The difficulty is that surviving public summaries rarely provide enough raw data to test the claim independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RedmondMuseum/posts/1579653520783200/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Redmond Museum</span><span class="citation-popover-snippet">Greater Redmond Historical Society19 Mar 2026 — The Air Force claims the UFOs are caused by false radar returns, with excitable w...</span></span></span>
+Some later Air Force-oriented explanations reportedly characterised the Klamath Falls target as a fixed or spurious radar return rather than a solid object moving through controlled airspace. That interpretation would fit a radar anomaly better than a structured craft performing dramatic manoeuvres. The difficulty is that surviving public summaries rarely provide enough raw data to test the claim independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RedmondMuseum/posts/1579653520783200/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Redmond Museum</span><span class="citation-popover-snippet">Greater Redmond Historical Society19 Mar 2026 — The Air Force claims the UFOs are caused by false radar returns, with excitable w...</span></span></span>
 
 <img src="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-2-dark.svg" | relative_url }}" alt="Radar scramble illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The altitude changes that fuelled the dispute
 
 UFO writers often point to later summaries claiming that Klamath Falls radar tracked the object at wildly different altitudes, sometimes ranging from roughly 6,000 feet to more than 50,000 feet.
 
-Supporters argue that such altitude changes indicate extraordinary performance. Critics argue almost the opposite: dramatic altitude jumps are exactly the kind of behaviour expected from an unstable radar target, misinterpretation of radar data or multiple unrelated returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span>
+Supporters argue that such altitude changes indicate extraordinary performance. Critics argue almost the opposite: dramatic altitude jumps are exactly the kind of behaviour expected from an unstable radar target, misinterpretation of radar data or multiple unrelated returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span>
 
 This disagreement highlights a recurring problem in Cold War UFO cases. Radar evidence sounds objective, but radar operators still had to interpret imperfect displays. Without the original plots and technical records, later readers are often forced to choose between competing descriptions rather than examine the underlying data.
 
@@ -308,21 +308,21 @@ The altitude issue therefore cuts both ways. It can be read either as evidence o
 
 The fighter-scramble story is probably the most inflated part of the case.
 
-The strongest documented claim is that F-102 interceptors were scrambled from Portland after the report reached military channels. That statement appears repeatedly in NICAP-derived accounts and in later UFO summaries based on the same source chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Evidence 1964</span><span class="citation-popover-snippet">The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</span><span class="citation-popover-meta">Published: June 6, 2011</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">590924redmond dir</span><span class="citation-popover-snippet">UFO ReportThe Air Force radar at Klamath Falls tracked the disc. Given the Air Force &quot;explanations&quot; and some incorrect data in 1959...</span></span></span>
+The strongest documented claim is that F-102 interceptors were scrambled from Portland after the report reached military channels. That statement appears repeatedly in NICAP-derived accounts and in later UFO summaries based on the same source chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Evidence 1964</span><span class="citation-popover-snippet">The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</span><span class="citation-popover-meta">Published: June 6, 2011</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">590924redmond dir</span><span class="citation-popover-snippet">UFO ReportThe Air Force radar at Klamath Falls tracked the disc. Given the Air Force &quot;explanations&quot; and some incorrect data in 1959...</span></span></span>
 
-As the story spread through UFO literature, however, the numbers and details grew. Some versions describe six F-102s, a B-47 bomber and an F-89 fighter all being directed toward the target. Others add dramatic pursuit sequences, near-collisions or evasive manoeuvres by the unknown object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/mushroomufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Radar Confirmed &quot;Mushroom&quot; UFO Chased By FightersThe Seattle log continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Cont...</span></span></span>
+As the story spread through UFO literature, however, the numbers and details grew. Some versions describe six F-102s, a B-47 bomber and an F-89 fighter all being directed toward the target. Others add dramatic pursuit sequences, near-collisions or evasive manoeuvres by the unknown object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/mushroomufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Radar Confirmed &quot;Mushroom&quot; UFO Chased By FightersThe Seattle log continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Cont...</span></span></span>
 
-The problem is that the evidential foundation for these more dramatic claims is much weaker than for the basic existence of a scramble order. Researchers have long noted that later retellings tend to combine details from different summaries, secondary accounts and UFO publications. Each retelling can add certainty or colour that is not obvious in the earliest available records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1959 UFO ChronologyRedmond FAA controllers lost sight of object. Seattle FAA reported at 7:11 a.m. that Klamath Falls radar still tr...</span></span></span>
+The problem is that the evidential foundation for these more dramatic claims is much weaker than for the basic existence of a scramble order. Researchers have long noted that later retellings tend to combine details from different summaries, secondary accounts and UFO publications. Each retelling can add certainty or colour that is not obvious in the earliest available records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1959 UFO ChronologyRedmond FAA controllers lost sight of object. Seattle FAA reported at 7:11 a.m. that Klamath Falls radar still tr...</span></span></span>
 
 For that reason, historians of the case often separate two questions:
 
 <img src="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-3-dark.svg" | relative_url }}" alt="Radar scramble illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_redmond_radar_case_2fa053_redmond_radar_scramb_8736eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Was military attention directed toward the reported object?
 
-The surviving communications strongly suggest yes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/oregon1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Redman Oregon Case UFO History</span><span class="citation-popover-snippet">The Redman Oregon Case UFO History - Redmondradar at Klamath Falls. Even after the AF pilots gave up the hopeless chase, the radar o...</span></span></span>
+The surviving communications strongly suggest yes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/oregon1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Redman Oregon Case UFO History</span><span class="citation-popover-snippet">The Redman Oregon Case UFO History - Redmondradar at Klamath Falls. Even after the AF pilots gave up the hopeless chase, the radar o...</span></span></span>
 2. Did multiple interceptor crews engage in a prolonged, documented pursuit of an extraordinary target?
 
-The public evidence is much less secure. The claim rests heavily on later UFO literature rather than a large body of independently preserved military records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span>
+The public evidence is much less secure. The claim rests heavily on later UFO literature rather than a large body of independently preserved military records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span>
 
 ## Why the radar question still matters
 
@@ -330,199 +330,199 @@ The Venus explanation remains relevant because it offers a plausible explanation
 
 What keeps Redmond from being neatly resolved is the radar and interceptor layer. If those reports were accurate and related to the same object seen from the ground, the case becomes considerably stronger. If they were separate events, misunderstood communications or radar anomalies, the apparent mystery shrinks substantially.
 
-That is why the Klamath Falls radar return remains the central dispute. The visual sighting alone can be debated as a possible astronomical misidentification. The radar report is the element that either strengthens the case or dissolves it, depending on how reliable one believes the surviving records to be. More than sixty years later, the evidence is still incomplete enough that both interpretations continue to find supporters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span>
+That is why the Klamath Falls radar return remains the central dispute. The visual sighting alone can be debated as a possible astronomical misidentification. The radar report is the element that either strengthens the case or dissolves it, depending on how reliable one believes the surviving records to be. More than sixty years later, the evidence is still incomplete enough that both interpretations continue to find supporters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — about UFO s and merely believe that the subject should be treated frankly and openly. September 24, 195...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mkyahi3_ZTo" title="KGW Vault: UFO sightings in Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mkyahi3_ZTo" target="_blank" rel="noopener noreferrer">KGW Vault: UFO sightings in Oregon</a></p><p class="youtube-embed-meta">Channel: KGW News &middot; Views: 43.8K &middot; Uploaded: April 2020 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mkyahi3_ZTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mkyahi3_ZTo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Redmond Radar Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Redmond Radar Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Best match for radar tracking, official logs and military response topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best match for radar tracking, official logs and military response topics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains many cases involving military and aviation witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains many cases involving military and aviation witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses investigation quality and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses investigation quality and official reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating conflicting evidence in radar cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating conflicting evidence in radar cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Mirage F1 Cockpit Radar Stick (Memorabilia item)"><img src="https://i.ebayimg.com/images/g/iJgAAeSwEGlpExBf/s-l225.jpg" alt="Listing image for Vintage Mirage F1 Cockpit Radar Stick (Memorabilia item)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Mirage F1 Cockpit Radar Stick (Memorabilia item)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Mirage F1 Cockpit Radar Stick (Memorabilia item)"><img src="https://i.ebayimg.com/images/g/iJgAAeSwEGlpExBf/s-l225.jpg" alt="Listing image for Vintage Mirage F1 Cockpit Radar Stick (Memorabilia item)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Mirage F1 Cockpit Radar Stick (Memorabilia item)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO CHAIN HOME RADAR CHELMSFORD 1 DEVELOPED FOR THE AIR MINISTRY BETWEEN 193"><img src="https://i.ebayimg.com/images/g/rg8AAOSwGPFm~Okb/s-l225.jpg" alt="Listing image for PHOTO CHAIN HOME RADAR CHELMSFORD 1 DEVELOPED FOR THE AIR MINISTRY BETWEEN 193" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO CHAIN HOME RADAR CHELMSFORD 1 DEVELOPED FOR THE AIR MINISTRY BETWEEN 193</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO CHAIN HOME RADAR CHELMSFORD 1 DEVELOPED FOR THE AIR MINISTRY BETWEEN 193"><img src="https://i.ebayimg.com/images/g/rg8AAOSwGPFm~Okb/s-l225.jpg" alt="Listing image for PHOTO CHAIN HOME RADAR CHELMSFORD 1 DEVELOPED FOR THE AIR MINISTRY BETWEEN 193" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO CHAIN HOME RADAR CHELMSFORD 1 DEVELOPED FOR THE AIR MINISTRY BETWEEN 193</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO TYPE 84 RADAR RAF AIR DEFENCE RADAR MUSEUM NEATISHEAD EX-COLD WAR RADAR.T"><img src="https://i.ebayimg.com/images/g/KvQAAeSwq49pJEXW/s-l225.jpg" alt="Listing image for PHOTO TYPE 84 RADAR RAF AIR DEFENCE RADAR MUSEUM NEATISHEAD EX-COLD WAR RADAR.T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO TYPE 84 RADAR RAF AIR DEFENCE RADAR MUSEUM NEATISHEAD EX-COLD WAR RADAR.T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO TYPE 84 RADAR RAF AIR DEFENCE RADAR MUSEUM NEATISHEAD EX-COLD WAR RADAR.T"><img src="https://i.ebayimg.com/images/g/KvQAAeSwq49pJEXW/s-l225.jpg" alt="Listing image for PHOTO TYPE 84 RADAR RAF AIR DEFENCE RADAR MUSEUM NEATISHEAD EX-COLD WAR RADAR.T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO TYPE 84 RADAR RAF AIR DEFENCE RADAR MUSEUM NEATISHEAD EX-COLD WAR RADAR.T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO GREAT BADDOW CHELMSFORD CHAIN HOME RADAR TOWER A GROUND LEVEL SHOT ON T"><img src="https://i.ebayimg.com/images/g/is8AAOSwDJxm~OkM/s-l225.jpg" alt="Listing image for PHOTO GREAT BADDOW CHELMSFORD CHAIN HOME RADAR TOWER A GROUND LEVEL SHOT ON T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO GREAT BADDOW CHELMSFORD CHAIN HOME RADAR TOWER A GROUND LEVEL SHOT ON T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO GREAT BADDOW CHELMSFORD CHAIN HOME RADAR TOWER A GROUND LEVEL SHOT ON T"><img src="https://i.ebayimg.com/images/g/is8AAOSwDJxm~OkM/s-l225.jpg" alt="Listing image for PHOTO GREAT BADDOW CHELMSFORD CHAIN HOME RADAR TOWER A GROUND LEVEL SHOT ON T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO GREAT BADDOW CHELMSFORD CHAIN HOME RADAR TOWER A GROUND LEVEL SHOT ON T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-redmond-radar-really-show-radar-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar memorabilia" data-ebay-reference="what-did-the-redmond-radar-really-show-radar-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ That is why the Klamath Falls radar return remains the central dispute. The visu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ That is why the Klamath Falls radar return remains the central dispute. The visu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ That is why the Klamath Falls radar return remains the central dispute. The visu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ That is why the Klamath Falls radar return remains the central dispute. The visu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ That is why the Klamath Falls radar return remains the central dispute. The visu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,140 +728,140 @@ That is why the Klamath Falls radar return remains the central dispute. The visu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: UFO Evidence 1964  
-   Link: <a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</p></details>
+   Link:<a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Evidence, 1964June 6, 2011 — continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Control Intercept] site...</p></details>
    Published: June 6, 2011  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
    Title: 590924redmond dir  
-   Link: <a href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/590924redmond_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportThe Air Force radar at Klamath Falls tracked the disc. Given the Air Force &quot;explanations&quot; and some incorrect data in 1959...</p></details>
+   Link:<a href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/590924redmond_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportThe Air Force radar at Klamath Falls tracked the disc. Given the Air Force &quot;explanations&quot; and some incorrect data in 1959...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Blaine Air Force Station  
-   Link: <a href="https://en.wikipedia.org/wiki/Blaine_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Blaine_Air_Force_Station</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Blaine_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Blaine_Air_Force_Station</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Condon Air Force Station  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Air_Force_Station</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Air_Force_Station</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Redmond Museum  
-   Link: <a href="https://www.facebook.com/RedmondMuseum/posts/1579653520783200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RedmondMuseum/posts/1579653520783200/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greater Redmond Historical Society19 Mar 2026 — The Air Force claims the UFOs are caused by false radar returns, with excitable w...</p></details>
+   Link:<a href="https://www.facebook.com/RedmondMuseum/posts/1579653520783200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RedmondMuseum/posts/1579653520783200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greater Redmond Historical Society19 Mar 2026 — The Air Force claims the UFOs are caused by false radar returns, with excitable w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1959fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1959 UFO ChronologyRedmond FAA controllers lost sight of object. Seattle FAA reported at 7:11 a.m. that Klamath Falls radar still tr...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1959fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1959 UFO ChronologyRedmond FAA controllers lost sight of object. Seattle FAA reported at 7:11 a.m. that Klamath Falls radar still tr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/mushroomufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/mushroomufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Confirmed &quot;Mushroom&quot; UFO Chased By FightersThe Seattle log continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Cont...</p></details>
+   Link:<a href="https://www.ufocasebook.com/mushroomufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/mushroomufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Confirmed &quot;Mushroom&quot; UFO Chased By FightersThe Seattle log continues: &quot;UFO also seen on the radar at Klamath Falls GCI [Ground Cont...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
    Title: The Redman Oregon Case UFO History  
-   Link: <a href="https://www.nicap.org/reports/oregon1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/oregon1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Redman Oregon Case UFO History - Redmondradar at Klamath Falls. Even after the AF pilots gave up the hopeless chase, the radar o...</p></details>
+   Link:<a href="https://www.nicap.org/reports/oregon1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/oregon1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Redman Oregon Case UFO History - Redmondradar at Klamath Falls. Even after the AF pilots gave up the hopeless chase, the radar o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CentralOregonDaily/posts/in-1959-a-glowing-object-hovered-over-redmond-for-two-hours-caught-on-radar-and-/1473687298096646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CentralOregonDaily/posts/in-1959-a-glowing-object-hovered-over-redmond-for-two-hours-caught-on-radar-and-/1473687298096646/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1959, a glowing object hovered over Redmond for two...The Seattle log continues: “UFO also seen on the radar at Klamath Falls GCI [Gr...</p></details>
+   Link:<a href="https://www.facebook.com/CentralOregonDaily/posts/in-1959-a-glowing-object-hovered-over-redmond-for-two-hours-caught-on-radar-and-/1473687298096646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CentralOregonDaily/posts/in-1959-a-glowing-object-hovered-over-redmond-for-two-hours-caught-on-radar-and-/1473687298096646/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1959, a glowing object hovered over Redmond for two...The Seattle log continues: “UFO also seen on the radar at Klamath Falls GCI [Gr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KGWTV8/posts/speaking-of-ufosshortly-before-dawn-on-september-24-1959-police-officer-robert-d/10156433561235736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KGWTV8/posts/speaking-of-ufosshortly-before-dawn-on-september-24-1959-police-officer-robert-d/10156433561235736/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rom somewhere in outer space has been pointed up quite dramatically...</p></details>
+   Link:<a href="https://www.facebook.com/KGWTV8/posts/speaking-of-ufosshortly-before-dawn-on-september-24-1959-police-officer-robert-d/10156433561235736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KGWTV8/posts/speaking-of-ufosshortly-before-dawn-on-september-24-1959-police-officer-robert-d/10156433561235736/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rom somewhere in outer space has been pointed up quite dramatically...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/siriusgroup.zarrar/posts/us-airforce-scrambled-to-mystery-ghost-plane-circling-skies-near-area51on-octobe/1704307692936434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/siriusgroup.zarrar/posts/us-airforce-scrambled-to-mystery-ghost-plane-circling-skies-near-area51on-octobe/1704307692936434/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that Klamath Falls radar still is tracking it at 25 miles south of Redmond but varies in altitude from 6,000 to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/siriusgroup.zarrar/posts/us-airforce-scrambled-to-mystery-ghost-plane-circling-skies-near-area51on-octobe/1704307692936434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/siriusgroup.zarrar/posts/us-airforce-scrambled-to-mystery-ghost-plane-circling-skies-near-area51on-octobe/1704307692936434/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that Klamath Falls radar still is tracking it at 25 miles south of Redmond but varies in altitude from 6,000 to...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100089701716225/posts/hunters-in-a-remote-northwest-forest-capture-video-of-a-ufo-escorted-by-fighter-/576140285386024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089701716225/posts/hunters-in-a-remote-northwest-forest-capture-video-of-a-ufo-escorted-by-fighter-/576140285386024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I [Ground Control Intercept] site. F-102&#x27;s scrambled from Portland...</p></details>
+   Link:<a href="https://www.facebook.com/100089701716225/posts/hunters-in-a-remote-northwest-forest-capture-video-of-a-ufo-escorted-by-fighter-/576140285386024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089701716225/posts/hunters-in-a-remote-northwest-forest-capture-video-of-a-ufo-escorted-by-fighter-/576140285386024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I [Ground Control Intercept] site. F-102&#x27;s scrambled from Portland...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61580242413679/posts/ufo-over-oregon-trigger-tcas-alert-after-close-pass-with-aircraft-atc-recording-/122113563945008080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61580242413679/posts/ufo-over-oregon-trigger-tcas-alert-after-close-pass-with-aircraft-atc-recording-/122113563945008080/</a>  
+   Link:<a href="https://www.facebook.com/61580242413679/posts/ufo-over-oregon-trigger-tcas-alert-after-close-pass-with-aircraft-atc-recording-/122113563945008080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61580242413679/posts/ufo-over-oregon-trigger-tcas-alert-after-close-pass-with-aircraft-atc-recording-/122113563945008080/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yumpu.com  
    Title: The UFO Evidence  
-   Link: <a href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nicap6 Apr 2014 — about &lt;strong&gt;UFO&lt;/strong&gt;s and merely believe that the subject should be treated frankly and openly. September 24, 195...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nicap6 Apr 2014 — about &lt;strong&gt;UFO&lt;/strong&gt;s and merely believe that the subject should be treated frankly and openly. September 24, 195...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...... 1959 Bright silver object arced across Panama Canal sky, tracked by U.S. radar. G, V Sept...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...... 1959 Bright silver object arced across Panama Canal sky, tracked by U.S. radar. G, V Sept...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL INVESTIGATIONS COMMITTEE ON AERIAL...We are also indebted to Isabel Davis, New York City, whose extensive files on UFOs were op...</p></details>
+   Link:<a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL INVESTIGATIONS COMMITTEE ON AERIAL...We are also indebted to Isabel Davis, New York City, whose extensive files on UFOs were op...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e8ohup/fighter_jets_scrambled_to_intercept_ufo_police/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e8ohup/fighter_jets_scrambled_to_intercept_ufo_police/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 1959, there was an important incident over the city and airport of Redmond, Oregon, when a policeman observed a large UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1e8ohup/fighter_jets_scrambled_to_intercept_ufo_police/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e8ohup/fighter_jets_scrambled_to_intercept_ufo_police/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 1959, there was an important incident over the city and airport of Redmond, Oregon, when a policeman observed a large UFO...</p></details>
    Published: September 24, 1959  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1e8ogsc/fighter_jets_scrambled_to_intercept_ufo_police/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1e8ogsc/fighter_jets_scrambled_to_intercept_ufo_police/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 1959, there was an important incident over the city and airport of Redmond, Oregon, when a policeman observed a large UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1e8ogsc/fighter_jets_scrambled_to_intercept_ufo_police/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1e8ogsc/fighter_jets_scrambled_to_intercept_ufo_police/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 1959, there was an important incident over the city and airport of Redmond, Oregon, when a policeman observed a large UFO...</p></details>
    Published: September 24, 1959  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Redmond but varying altitude from 6,000 to 52,000 ft. (Sparks; Fran Ridge/NICAP).Read more...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Redmond but varying altitude from 6,000 to 52,000 ft. (Sparks; Fran Ridge/NICAP).Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ightings from ancient times to the present...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ightings from ancient times to the present...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK  
-   Link: <a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u-2kGzR2-o0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u-2kGzR2-o0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
    Title: DQkzjm Ejb W  
-   Link: <a href="https://www.instagram.com/reel/DQkzjmEjb-W/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQkzjmEjb-W/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1959, Redmond, Oregon made national headlines when...In 1959, Redmond, Oregon made national headlines when police, FAA officials, and...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQkzjmEjb-W/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQkzjmEjb-W/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1959, Redmond, Oregon made national headlines when...In 1959, Redmond, Oregon made national headlines when police, FAA officials, and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/htm/redmond59.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/redmond59.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Redmond UFO incident, September 24, 1959, USA1 Jun 2002 — The object flew over Redmond Airport, situated southeast of the city of Portlan...</p></details>
+   Link:<a href="https://www.ufologie.patrickgross.org/htm/redmond59.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/redmond59.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Redmond UFO incident, September 24, 1959, USA1 Jun 2002 — The object flew over Redmond Airport, situated southeast of the city of Portlan...</p></details>
    Published: September 24, 1959  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>

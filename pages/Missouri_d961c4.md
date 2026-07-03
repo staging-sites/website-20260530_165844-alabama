@@ -76,9 +76,9 @@ heading_title: What Really Happened in Missouri's UFO Hotspots?
 page_heading_title: What Really Happened in Missouri's UFO Hotspots?
 source_count: 135
 infographic_count: 3
-page_website_name: Missouri UFOs
+page_website_name: Missouri
 page_banner_line: Balanced stories, records, doubts and local lore from Missouri's UFO history.
-site_website_name: Missouri UFOs
+site_website_name: Missouri
 site_banner_line: Balanced stories, records, doubts and local lore from Missouri's UFO history.
 site_image_description: A quiet Ozark lakeshore at dusk with distant lights in the sky above wooded hills and a small town road in the foreground.
 output_language: English
@@ -479,39 +479,39 @@ image: /assets/images/Missouri_d961c4-overview-social.jpg
 
 ## Why Piedmont became Missouri’s UFO centre
 
-Piedmont is the Missouri UFO case most worth starting with because it is both documented as a public episode and still visible in state memory. Missouri’s Secretary of State records that the General Assembly passed SB139 in 2023, designating Piedmont and Wayne County as the “UFO Capitals of Missouri” to mark the 50th anniversary of the 1973 sightings. The law itself says that hundreds of UFO sightings occurred there between February and April 1973 and that they formed part of a wider national pattern that year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Secretary of State
+Piedmont is the Missouri UFO case most worth starting with because it is both documented as a public episode and still visible in state memory. Missouri’s Secretary of State records that the General Assembly passed SB139 in 2023, designating Piedmont and Wayne County as the “UFO Capitals of Missouri” to mark the 50th anniversary of the 1973 sightings. The law itself says that hundreds of UFO sightings occurred there between February and April 1973 and that they formed part of a wider national pattern that year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Secretary of State
 
 <img src="{{ "/assets/images/Missouri_d961c4-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Missouri&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-The typical account begins with lights over the Piedmont and Clearwater Lake area. Later local reporting and tourism coverage often describe a burst of calls to law enforcement, heavy newspaper attention, and the arrival of outside investigators. Spectrum News reported that state representative Chris Dinkins, who sponsored related legislation, described about 500 reports to law enforcement with a focus on Clearwater Lake; Missouri’s official state-symbol page is more cautious, saying “several hundred” calls went to police, sheriffs and newspapers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumlocalnews.com/mo/st-louis/news/2023/04/07/should-missouri-designate-a-state-capital-for-ufos-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumlocalnews.com">[Spectrum News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumlocalnews.com</span><span class="citation-popover-title">Spectrum News Piedmont, Mo.: Future UFO capital of Missouri?</span><span class="citation-popover-snippet">Spectrum News Piedmont, Mo.: Future UFO capital of Missouri?</span></span></span>
+The typical account begins with lights over the Piedmont and Clearwater Lake area. Later local reporting and tourism coverage often describe a burst of calls to law enforcement, heavy newspaper attention, and the arrival of outside investigators. Spectrum News reported that state representative Chris Dinkins, who sponsored related legislation, described about 500 reports to law enforcement with a focus on Clearwater Lake; Missouri’s official state-symbol page is more cautious, saying “several hundred” calls went to police, sheriffs and newspapers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumlocalnews.com/mo/st-louis/news/2023/04/07/should-missouri-designate-a-state-capital-for-ufos-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumlocalnews.com">[Spectrum News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumlocalnews.com</span><span class="citation-popover-title">Spectrum News Piedmont, Mo.: Future UFO capital of Missouri?</span><span class="citation-popover-snippet">Spectrum News Piedmont, Mo.: Future UFO capital of Missouri?</span></span></span>
 
 What makes Piedmont different from a single dramatic sighting is the “flap” pattern: repeated reports over weeks, involving many witnesses, spreading through a rural area already primed by word of mouth and media interest. That pattern can strengthen a case in one sense, because a large number of people reported something. It can also weaken interpretation, because repeated attention can encourage people to scan the sky, report ordinary aircraft or lights, and fit ambiguous observations into a shared local story.
 
 ## Harley Rutledge and Project Identification
 
-The most important investigative figure in Missouri UFO history is Harley D. Rutledge, a physics professor at Southeast Missouri State University. His 1981 book, *Project Identification: The First Scientific Field Study of UFO Phenomena*, was published by Prentice-Hall and ran to 265 pages. Google Books’ bibliographic entry shows that the study dealt with field observations around places such as Piedmont, Clearwater Lake, Farmington, Fredericktown, Sikeston and Cape Girardeau, and included topics such as aircraft, altitude, cameras, radar, telescopes, photographs and observation stations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.rw">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.rw</span><span class="citation-popover-title">Books Project Identification: The First Scientific Field Study of UFO Phenomena</span><span class="citation-popover-snippet">Books Project Identification: The First Scientific Field Study of UFO Phenomena</span></span></span>
+The most important investigative figure in Missouri UFO history is Harley D. Rutledge, a physics professor at Southeast Missouri State University. His 1981 book, *Project Identification: The First Scientific Field Study of UFO Phenomena*, was published by Prentice-Hall and ran to 265 pages. Google Books’ bibliographic entry shows that the study dealt with field observations around places such as Piedmont, Clearwater Lake, Farmington, Fredericktown, Sikeston and Cape Girardeau, and included topics such as aircraft, altitude, cameras, radar, telescopes, photographs and observation stations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.rw">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.rw</span><span class="citation-popover-title">Books Project Identification: The First Scientific Field Study of UFO Phenomena</span><span class="citation-popover-snippet">Books Project Identification: The First Scientific Field Study of UFO Phenomena</span></span></span>
 
-Rutledge’s importance lies less in proving an extraordinary answer and more in changing the method. Instead of simply collecting witness stories after the fact, he tried to observe the phenomena in the field with trained observers and equipment. The State Historical Society of Missouri summarises the Piedmont story as part of a broader pattern of unexplained lights around the Missouri Lead Belt, noting that Piedmont and nearby Clearwater Lake were dubbed “UFO Headquarters” in 1973. <span class="citation-chip-wrap"><a class="citation-chip" href="https://shsmo.org/on-demand/missouri-mysteries/chapter-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shsmo.org">[The State Historical Society of Missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shsmo.org</span><span class="citation-popover-title">chapter 2</span><span class="citation-popover-snippet">chapter 2</span></span></span>
+Rutledge’s importance lies less in proving an extraordinary answer and more in changing the method. Instead of simply collecting witness stories after the fact, he tried to observe the phenomena in the field with trained observers and equipment. The State Historical Society of Missouri summarises the Piedmont story as part of a broader pattern of unexplained lights around the Missouri Lead Belt, noting that Piedmont and nearby Clearwater Lake were dubbed “UFO Headquarters” in 1973.<span class="citation-chip-wrap"><a class="citation-chip" href="https://shsmo.org/on-demand/missouri-mysteries/chapter-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shsmo.org">[The State Historical Society of Missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shsmo.org</span><span class="citation-popover-title">chapter 2</span><span class="citation-popover-snippet">chapter 2</span></span></span>
 
-This is also where caution is essential. Rutledge’s work is frequently presented in UFO literature as unusually serious, but serious observation does not automatically mean an extraordinary cause. The useful question is not “did he prove alien spacecraft?” but “did he collect better data than ordinary anecdotal reports?” On that narrower point, Project Identification remains a significant Missouri landmark. It shows a scientist trying to distinguish aircraft, satellites, stars, atmospheric effects and genuinely puzzling lights at a time when the official Air Force UFO programme had already ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is also where caution is essential. Rutledge’s work is frequently presented in UFO literature as unusually serious, but serious observation does not automatically mean an extraordinary cause. The useful question is not “did he prove alien spacecraft?” but “did he collect better data than ordinary anecdotal reports?” On that narrower point, Project Identification remains a significant Missouri landmark. It shows a scientist trying to distinguish aircraft, satellites, stars, atmospheric effects and genuinely puzzling lights at a time when the official Air Force UFO programme had already ended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Missouri&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and the end of Project Blue Book
 
-Missouri’s 1973 flap happened after the United States Air Force had shut down Project Blue Book. The National Archives states that Project Blue Book was terminated on 17 December 1969, after receiving 12,618 reports from 1947 to 1969, of which 701 remained “Unidentified”. The Air Force’s own fact sheet adds that the project’s conclusions found no UFO report to be an indication of a national-security threat, no evidence that “unidentified” sightings represented technology beyond modern scientific knowledge, and no evidence that they were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Missouri’s 1973 flap happened after the United States Air Force had shut down Project Blue Book. The National Archives states that Project Blue Book was terminated on 17 December 1969, after receiving 12,618 reports from 1947 to 1969, of which 701 remained “Unidentified”. The Air Force’s own fact sheet adds that the project’s conclusions found no UFO report to be an indication of a national-security threat, no evidence that “unidentified” sightings represented technology beyond modern scientific knowledge, and no evidence that they were extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That timing matters for Missouri. When Piedmont’s reports arrived in 1973, there was no longer a standing Air Force programme equivalent to Blue Book to absorb them. Missouri’s official state-symbol page explicitly notes that there was no official government investigation of the Piedmont sightings because Project Blue Book had been discontinued in 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Secretary of State
+That timing matters for Missouri. When Piedmont’s reports arrived in 1973, there was no longer a standing Air Force programme equivalent to Blue Book to absorb them. Missouri’s official state-symbol page explicitly notes that there was no official government investigation of the Piedmont sightings because Project Blue Book had been discontinued in 1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Secretary of State
 
-Missouri does appear in Blue Book-era material, but the record is mixed. A Project Blue Book status-report file includes a 1953 incident involving a military aircraft observing moving lights while searchlights from the St Louis area seemed to follow them. The Air Technical Intelligence Center checked local aircraft and found many commercial and military flights in and out of St Louis at the approximate time; its conclusion was “possibly aircraft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Missouri does appear in Blue Book-era material, but the record is mixed. A Project Blue Book status-report file includes a 1953 incident involving a military aircraft observing moving lights while searchlights from the St Louis area seemed to follow them. The Air Technical Intelligence Center checked local aircraft and found many commercial and military flights in and out of St Louis at the approximate time; its conclusion was “possibly aircraft”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A separate list of Blue Book “unknowns” compiled by Don Berliner for the Fund for UFO Research includes a 17 November 1955 St Louis case in which a witness reported twelve round, flat objects flying in formation for about 45 seconds. That source is useful as a pointer to an unresolved catalogue entry, but it is not the same as a full modern reinvestigation; even the compiler warns that “unidentified” is a limited label and that Blue Book’s classifications themselves have long been disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
+A separate list of Blue Book “unknowns” compiled by Don Berliner for the Fund for UFO Research includes a 17 November 1955 St Louis case in which a witness reported twelve round, flat objects flying in formation for about 45 seconds. That source is useful as a pointer to an unresolved catalogue entry, but it is not the same as a full modern reinvestigation; even the compiler warns that “unidentified” is a limited label and that Blue Book’s classifications themselves have long been disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JDTIqTJMBZ0" title="How Piedmont became the UFO Capitol of Missouri | Living St. Louis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer">How Piedmont became the UFO Capitol of Missouri | Living St. Louis</a></p><p class="youtube-embed-meta">Channel: Nine PBS &middot; Views: 17.7K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JDTIqTJMBZ0">Open on YouTube</a></p></div></div></div>
 
 ## Cape Girardeau: famous claim, thin evidence
 
-The Cape Girardeau crash legend is one of Missouri’s most dramatic UFO stories, but it is also one of the weakest in evidential terms. The usual claim is that in 1941, before Roswell, the Reverend William Huffman was called to pray at what he expected to be an aircraft crash site and instead saw a crashed disc and non-human bodies. The story became better known decades later through Charlotte Mann, who said Huffman was her grandfather and that the account had been passed down in the family. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[capecentralhigh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
+The Cape Girardeau crash legend is one of Missouri’s most dramatic UFO stories, but it is also one of the weakest in evidential terms. The usual claim is that in 1941, before Roswell, the Reverend William Huffman was called to pray at what he expected to be an aircraft crash site and instead saw a crashed disc and non-human bodies. The story became better known decades later through Charlotte Mann, who said Huffman was her grandfather and that the account had been passed down in the family.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[capecentralhigh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
-The problem is the time gap and the lack of contemporary documentation. A local-history page reproducing a 2004 Southeast Missourian item says an investigator was seeking witnesses to an alleged 1941 crash three to fifteen miles outside Cape Girardeau, and that his investigation was based on Mann’s account. The same report notes that Harley Rutledge, despite his later UFO work in southeast Missouri, had not heard of the 1941 incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[capecentralhigh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
+The problem is the time gap and the lack of contemporary documentation. A local-history page reproducing a 2004 Southeast Missourian item says an investigator was seeking witnesses to an alleged 1941 crash three to fifteen miles outside Cape Girardeau, and that his investigation was based on Mann’s account. The same report notes that Harley Rutledge, despite his later UFO work in southeast Missouri, had not heard of the 1941 incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[capecentralhigh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
 That does not prove the story false, but it places it in the category of local legend rather than strong historical case. For readers, the distinction matters. Piedmont has contemporaneous mass reporting, state recognition and a named field investigator. Cape Girardeau has a compelling narrative, but its public evidential trail appears to begin much later, relies heavily on family testimony, and has not produced the sort of records that would make a crash-retrieval claim historically robust.
 
@@ -520,7 +520,7 @@ That does not prove the story false, but it places it in the category of local l
 
 Missouri’s UFO history is not only about sightings. It also includes the mid-century contactee movement, in which people claimed friendly meetings with space visitors and often mixed saucer stories with religion, politics and showmanship. The clearest Missouri example is Buck Nelson of Mountain View.
 
-Springfield-Greene County Library’s local-history account describes Nelson as a retired Ozarks farmer who claimed that on 30 July 1954 he saw three disc-shaped objects over his Mountain View home, later said he met spacemen, and published *My Trip to Mars, the Moon, and Venus* in 1956. The same account notes that Nelson held Spacecraft [Conventions]({{ 'conventions/' | relative_url }}) and that, as the Space Race increased public understanding of astronomy, contactee claims lost credibility and attendance declined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+Springfield-Greene County Library’s local-history account describes Nelson as a retired Ozarks farmer who claimed that on 30 July 1954 he saw three disc-shaped objects over his Mountain View home, later said he met spacemen, and published *My Trip to Mars, the Moon, and Venus* in 1956. The same account notes that Nelson held Spacecraft [Conventions]({{ 'conventions/' | relative_url }}) and that, as the Space Race increased public understanding of astronomy, contactee claims lost credibility and attendance declined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 Nelson matters because he shows how UFO culture in Missouri developed before the Piedmont flap. His story is not strong evidence for unusual aerial phenomena; it is better understood as folklore, performance, belief and local identity. It also warns against treating every UFO-related story as the same kind of claim. A farmer-contactee selling a cosmic message, a pilot or law-enforcement report, a physicist’s field study and a family crash legend all belong to UFO history, but they do not carry the same evidential weight.
 
@@ -528,21 +528,21 @@ Nelson matters because he shows how UFO culture in Missouri developed before the
 
 ## What explanations fit Missouri’s recurring reports?
 
-The Missouri record points towards several ordinary explanations that must be considered before treating a sighting as unresolved. Aircraft are especially important around St Louis, Kansas City and military or commercial air corridors. The 1953 Blue Book incident near the St Louis area shows how moving lights, colour changes and searchlights could be interpreted as unusual while still being plausibly linked to aircraft traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Missouri record points towards several ordinary explanations that must be considered before treating a sighting as unresolved. Aircraft are especially important around St Louis, Kansas City and military or commercial air corridors. The 1953 Blue Book incident near the St Louis area shows how moving lights, colour changes and searchlights could be interpreted as unusual while still being plausibly linked to aircraft traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Rural Missouri also has conditions that can make night-sky interpretation difficult: dark skies, hilly terrain, distant lights, lakes, river valleys, aircraft seen at unusual angles, bright planets, meteors, satellites and atmospheric effects. None of those explanations should be used lazily to dismiss witnesses. But they do explain why many UFO reports begin with sincere perception and end with uncertainty rather than proof.
 
-Modern official practice also leans towards data quality rather than dramatic claims. The Office of the Director of National Intelligence reported that current UAP reporting to Congress is handled jointly by ODNI and the Department of Defense under recent legal requirements, while AARO publishes case material that includes both unresolved reports and resolved cases such as balloons or migratory birds. That contemporary framework does not decide Missouri’s older cases, but it reinforces the central lesson: without good sensor data, precise timing, location, direction, weather, aircraft checks and independent corroboration, “unidentified” remains a description of an information gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
+Modern official practice also leans towards data quality rather than dramatic claims. The Office of the Director of National Intelligence reported that current UAP reporting to Congress is handled jointly by ODNI and the Department of Defense under recent legal requirements, while AARO publishes case material that includes both unresolved reports and resolved cases such as balloons or migratory birds. That contemporary framework does not decide Missouri’s older cases, but it reinforces the central lesson: without good sensor data, precise timing, location, direction, weather, aircraft checks and independent corroboration, “unidentified” remains a description of an information gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Missouri&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to judge Missouri cases fairly
 
 The strongest Missouri cases are not necessarily the most sensational. A useful credibility scale looks like this:
 
-* **Best documented:** the 1973 Piedmont and Wayne County flap, because it involved many reports, local institutions, later state recognition and Rutledge’s organised field response. The key limitation is that mass reporting and field observation still did not establish a confirmed extraordinary cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Secretary of State
-* **Historically useful but ambiguous:** Blue Book-era Missouri entries, including St Louis material, because they connect the state to official records while also showing how cases could be left unresolved or reduced to plausible aircraft explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Culturally important rather than evidentially strong:** Buck Nelson’s Mountain View contactee story, because it illuminates Missouri’s place in 1950s flying-saucer culture but rests on extraordinary personal claims rather than verifiable observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
-* **Weakly sourced and disputed:** the Cape Girardeau crash legend, because the story is memorable but appears to depend heavily on later testimony and lacks the contemporary documentation needed for a crash-retrieval claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[capecentralhigh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
+* **Best documented:** the 1973 Piedmont and Wayne County flap, because it involved many reports, local institutions, later state recognition and Rutledge’s organised field response. The key limitation is that mass reporting and field observation still did not establish a confirmed extraordinary cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[missouri]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Secretary of State
+* **Historically useful but ambiguous:** Blue Book-era Missouri entries, including St Louis material, because they connect the state to official records while also showing how cases could be left unresolved or reduced to plausible aircraft explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Culturally important rather than evidentially strong:** Buck Nelson’s Mountain View contactee story, because it illuminates Missouri’s place in 1950s flying-saucer culture but rests on extraordinary personal claims rather than verifiable observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
+* **Weakly sourced and disputed:** the Cape Girardeau crash legend, because the story is memorable but appears to depend heavily on later testimony and lacks the contemporary documentation needed for a crash-retrieval claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[capecentralhigh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5tNYRfh7UBk" title="Missouri Mysteries Chapter 6: The Mysterious Aeronauts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5tNYRfh7UBk" target="_blank" rel="noopener noreferrer">Missouri Mysteries Chapter 6: The Mysterious Aeronauts</a></p><p class="youtube-embed-meta">Channel: State Historical Society of Missouri &middot; Views: 315 &middot; Uploaded: November 2025 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5tNYRfh7UBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5tNYRfh7UBk">Open on YouTube</a></p></div></div></div>
 
@@ -553,194 +553,194 @@ Missouri’s UFO history is valuable because it sits between folklore and invest
 The most balanced reading is that Missouri has several unresolved or historically interesting UFO traditions, but no publicly available evidence that confirms extraterrestrial craft, recovered bodies or advanced non-human technology. Its best cases matter because they reveal how people report the unknown, how institutions respond or fail to respond, and how communities turn uncertain lights in the sky into lasting local history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Missouri&#x27;s UFO Hotspots?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Missouri&#x27;s UFO Hotspots?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical background for official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical background for official UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Helps explain how investigators categorized and evaluated sightings like Missouri&#x27;s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how investigators categorized and evaluated sightings like Missouri&#x27;s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d9BaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
-        </h4>
-        <p class="fr-book-author">By David Michael Jacobs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d9BaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
+</h4>
+<p class="fr-book-author">By David Michael Jacobs</p>
         
-        <p class="fr-book-desc">Connects Missouri cases to wider national UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects Missouri cases to wider national UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+by+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
-        </h4>
-        <p class="fr-book-author">By Jane Roberts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
+</h4>
+<p class="fr-book-author">By Jane Roberts</p>
         
-        <p class="fr-book-desc">Directly covers the Piedmont and southeast Missouri investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the Piedmont and southeast Missouri investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Controversy in America</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Controversy in America</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-missouri-s-ufo-hotspots-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ The most balanced reading is that Missouri has several unresolved or historicall
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ The most balanced reading is that Missouri has several unresolved or historicall
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ The most balanced reading is that Missouri has several unresolved or historicall
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ The most balanced reading is that Missouri has several unresolved or historicall
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ The most balanced reading is that Missouri has several unresolved or historicall
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,221 +946,221 @@ The most balanced reading is that Missouri has several unresolved or historicall
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sos.mo.gov  
    Title: Missouri Secretary of State  
-   Link: <a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State UFO Capitals of Missouri...</p></details>
+   Link:<a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State UFO Capitals of Missouri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: books.google.rw  
    Title: Books Project Identification: The First Scientific Field Study of UFO Phenomena  
-   Link: <a href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s</a>  
+   Link:<a href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"  
-   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: capecentralhigh.com  
    Title: Buck Nelson's Spacecraft Convention  
-   Link: <a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
+   Link:<a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: upload.wikimedia.org  
    Title: UFOs and Related Subjects, An Annotated Bibliography, AD0688332, edit  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: books.google.rw  
-   Link: <a href="https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ</a>  
+   Link:<a href="https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How Piedmont became the UFO Capitol of Missouri | Living St. Louis  
-   Link: <a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDTIqTJMBZ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Mysteries Chapter 6: The Mysterious Aeronauts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDTIqTJMBZ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Mysteries Chapter 6: The Mysterious Aeronauts...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Missouri Mysteries Chapter 6: The Mysterious Aeronauts  
-   Link: <a href="https://www.youtube.com/watch?v=5tNYRfh7UBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tNYRfh7UBk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before &amp; After - Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5tNYRfh7UBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tNYRfh7UBk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before &amp; After - Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: shsmo.org  
    Title: chapter 2  
-   Link: <a href="https://shsmo.org/on-demand/missouri-mysteries/chapter-2" target="_blank" rel="noopener noreferrer nofollow">https://shsmo.org/on-demand/missouri-mysteries/chapter-2</a>  
+   Link:<a href="https://shsmo.org/on-demand/missouri-mysteries/chapter-2" target="_blank" rel="noopener noreferrer nofollow">https://shsmo.org/on-demand/missouri-mysteries/chapter-2</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: senate.mo.gov  
-   Link: <a href="https://www.senate.mo.gov/23info/pdf-bill/tat/SB139.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.senate.mo.gov/23info/pdf-bill/tat/SB139.pdf</a>  
+   Link:<a href="https://www.senate.mo.gov/23info/pdf-bill/tat/SB139.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.senate.mo.gov/23info/pdf-bill/tat/SB139.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spectrumlocalnews.com  
    Title: Spectrum News Piedmont, Mo.: Future UFO capital of Missouri?  
-   Link: <a href="https://spectrumlocalnews.com/mo/st-louis/news/2023/04/07/should-missouri-designate-a-state-capital-for-ufos-" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/mo/st-louis/news/2023/04/07/should-missouri-designate-a-state-capital-for-ufos-</a>  
+   Link:<a href="https://spectrumlocalnews.com/mo/st-louis/news/2023/04/07/should-missouri-designate-a-state-capital-for-ufos-" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/mo/st-louis/news/2023/04/07/should-missouri-designate-a-state-capital-for-ufos-</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thelibrary.org  
    Title: Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts  
-   Link: <a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
+   Link:<a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Harley Rutledge  
-   Link: <a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Buck Nelson  
-   Link: <a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=15942" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=15942</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=15942" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=15942</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KQ2news/posts/jefferson-city-mo-kqtv-missouri-lawmakers-passed-a-bill-that-will-stop-abusive-l/1624275709703303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KQ2news/posts/jefferson-city-mo-kqtv-missouri-lawmakers-passed-a-bill-that-will-stop-abusive-l/1624275709703303/</a>  
+   Link:<a href="https://www.facebook.com/KQ2news/posts/jefferson-city-mo-kqtv-missouri-lawmakers-passed-a-bill-that-will-stop-abusive-l/1624275709703303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KQ2news/posts/jefferson-city-mo-kqtv-missouri-lawmakers-passed-a-bill-that-will-stop-abusive-l/1624275709703303/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mapuap.com  
-   Link: <a href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sightings/missouri</a>  
+   Link:<a href="https://mapuap.com/sightings/missouri" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sightings/missouri</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: missourinet.com  
    Title: greetings earthlings piedmont opens ufo capital of missouri park  
-   Link: <a href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/</a>  
+   Link:<a href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: missourinet.com  
    Title: ufo sightings in missouri  
-   Link: <a href="https://www.missourinet.com/tag/ufo-sightings-in-missouri/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/tag/ufo-sightings-in-missouri/</a>  
+   Link:<a href="https://www.missourinet.com/tag/ufo-sightings-in-missouri/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/tag/ufo-sightings-in-missouri/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: richgros.com  
    Title: buck nelson  
-   Link: <a href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow">https://richgros.com/People/Buck_Nelson/buck_nelson.html</a>  
+   Link:<a href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow">https://richgros.com/People/Buck_Nelson/buck_nelson.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Before & After  
-   Link: <a href="https://www.youtube.com/watch?v=bUdBE2ZS1Bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUdBE2ZS1Bc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ribbon cutting for &quot;UFO Capital of Missouri&quot; Park in Piedmont...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bUdBE2ZS1Bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUdBE2ZS1Bc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ribbon cutting for &quot;UFO Capital of Missouri&quot; Park in Piedmont...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Ribbon cutting for "UFO Capital of Missouri" Park in Piedmont  
-   Link: <a href="https://www.youtube.com/watch?v=cmyTdIUMP4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cmyTdIUMP4A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Unknown: UFO Mysteries in Rural Missouri...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cmyTdIUMP4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cmyTdIUMP4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Unknown: UFO Mysteries in Rural Missouri...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/</a>  
+   Link:<a href="https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/</a>  
+   Link:<a href="https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY0H3inDTK3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY0H3inDTK3/</a>  
+   Link:<a href="https://www.instagram.com/p/DY0H3inDTK3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY0H3inDTK3/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/17g2op/google_news_archive_results_for_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/17g2op/google_news_archive_results_for_project/</a>  
+   Link:<a href="https://www.reddit.com/r/UAP/comments/17g2op/google_news_archive_results_for_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/17g2op/google_news_archive_results_for_project/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>

@@ -250,26 +250,26 @@ image: /assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_disc_cons_0
 
 ## Introduction
 
-The Twin Falls recovered disc of July 1947 was a deliberately constructed object that briefly drew police, federal agents and Army intelligence into one of the most dramatic episodes of the first flying‑saucer wave in the United States. Rather than being an alien aircraft or secret military hardware, the “disc” was a handcrafted physical artefact assembled from everyday materials to resemble what the public then expected a mysterious flying saucer to look like. Its physical design and construction played a central role in why it was initially taken seriously and why the case became a cautionary example in Idaho’s UFO history of how artefacts can mislead before sceptical analysis intervenes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoax</span></span></span>
+The Twin Falls recovered disc of July 1947 was a deliberately constructed object that briefly drew police, federal agents and Army intelligence into one of the most dramatic episodes of the first flying‑saucer wave in the United States. Rather than being an alien aircraft or secret military hardware, the “disc” was a handcrafted physical artefact assembled from everyday materials to resemble what the public then expected a mysterious flying saucer to look like. Its physical design and construction played a central role in why it was initially taken seriously and why the case became a cautionary example in Idaho’s UFO history of how artefacts can mislead before sceptical analysis intervenes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoax</span></span></span>
 
 <img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_disc_cons_0368d3-Illustration-1-dark.svg" | relative_url }}" alt="Disc Construction illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_disc_cons_0368d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_disc_cons_0368d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Detailed Description of Materials and Parts
 
-Contemporary press accounts and later summaries reported that the Twin Falls disc was roughly **30 inches (about 76 cm) in diameter** – about the size of a large bicycle wheel or small tabletop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span> Physically, it was a **circular plate with two domes** on opposite faces: one made from **clear plastic (often described as Plexiglas)** and the other from **metal**. The plastic dome rose about **14 inches high** above the disc’s rim, suggesting a central bubble or cockpit‑like feature. The metal dome on the other side was similarly curved but opaque. Bolts that looked like stove bolts held these parts on, giving the impression of intentional assembly rather than natural wear or decay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
+Contemporary press accounts and later summaries reported that the Twin Falls disc was roughly **30 inches (about 76 cm) in diameter** – about the size of a large bicycle wheel or small tabletop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span> Physically, it was a **circular plate with two domes** on opposite faces: one made from **clear plastic (often described as Plexiglas)** and the other from **metal**. The plastic dome rose about **14 inches high** above the disc’s rim, suggesting a central bubble or cockpit‑like feature. The metal dome on the other side was similarly curved but opaque. Bolts that looked like stove bolts held these parts on, giving the impression of intentional assembly rather than natural wear or decay.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
 
-Underneath the plastic dome were **three radio‑tube‑like components** with wires attached to an apparent electromagnetic coil on the outside. Contemporary reporting likened these tubes to vacuum tubes familiar from 1940s radio sets, and the wiring appeared deliberately configured rather than purely decorative. The object’s surface finish was also noteworthy: one side was reported as **gold painted**, the other **silver**, the latter possibly from stainless steel, aluminium or even tin plating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
+Underneath the plastic dome were **three radio‑tube‑like components** with wires attached to an apparent electromagnetic coil on the outside. Contemporary reporting likened these tubes to vacuum tubes familiar from 1940s radio sets, and the wiring appeared deliberately configured rather than purely decorative. The object’s surface finish was also noteworthy: one side was reported as **gold painted**, the other **silver**, the latter possibly from stainless steel, aluminium or even tin plating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
 
-The overall thickness of the piece was uneven: the flat circular plate was relatively thin while the dome sections brought the overall depth to about **10–14 inches** where they were attached, giving the thing a chunky, convex look from the side rather than a uniformly flat shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/chronos/1947fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1947 ChronologyDecember 14, 2005...</span><span class="citation-popover-meta">Published: December 14, 2005</span></span></span>
+The overall thickness of the piece was uneven: the flat circular plate was relatively thin while the dome sections brought the overall depth to about **10–14 inches** where they were attached, giving the thing a chunky, convex look from the side rather than a uniformly flat shape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/chronos/1947fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1947 ChronologyDecember 14, 2005...</span><span class="citation-popover-meta">Published: December 14, 2005</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a5KXsiBZjOM" title="The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer">The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.2M &middot; Uploaded: October 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a5KXsiBZjOM">Open on YouTube</a></p></div></div></div>
 
 ## Assembly Process and Visual Design
 
-According to police accounts published at the time, **four local teenage boys aged 15–16 spent about two days constructing** the disc before placing it in a garden in Twin Falls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1947g.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1947...</span></span></span> Based on this admission and subsequent reporting, the construction likely involved repurposing and combining **discarded electrical and household parts** rather than any precision engineering or aeronautical techniques.
+According to police accounts published at the time, **four local teenage boys aged 15–16 spent about two days constructing** the disc before placing it in a garden in Twin Falls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1947g.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1947...</span></span></span> Based on this admission and subsequent reporting, the construction likely involved repurposing and combining **discarded electrical and household parts** rather than any precision engineering or aeronautical techniques.
 
-Components such as radio tubes – common in mid‑century consumer technology – would have been scavenged from old radios. The electromagnetic coil, similarly, was likely taken from a junked appliance or hobby project. The domes could have been fashioned from repurposed Plexiglas scraps or plastic bowls. The contrasting colour scheme – gold on one side, silver on the other – was probably applied with paint to create visual impact under newspaper lights rather than for any aerodynamic reason. The use of stove‑bolt fasteners reflects a workshop‑level approach, where readily available hardware substituted for specialised fixing methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
+Components such as radio tubes – common in mid‑century consumer technology – would have been scavenged from old radios. The electromagnetic coil, similarly, was likely taken from a junked appliance or hobby project. The domes could have been fashioned from repurposed Plexiglas scraps or plastic bowls. The contrasting colour scheme – gold on one side, silver on the other – was probably applied with paint to create visual impact under newspaper lights rather than for any aerodynamic reason. The use of stove‑bolt fasteners reflects a workshop‑level approach, where readily available hardware substituted for specialised fixing methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
 
-The finished object resembled what mid‑20th‑century popular imagery suggested a flying saucer should look like: circular, shiny on both faces, and with suggestive bulges and components at its core. The **visual cues of complexity** – domes, tubes, coils, wiring – made it appear more than a simple plate to lay observers and even trained officials approaching it without context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoax</span></span></span>
+The finished object resembled what mid‑20th‑century popular imagery suggested a flying saucer should look like: circular, shiny on both faces, and with suggestive bulges and components at its core. The **visual cues of complexity** – domes, tubes, coils, wiring – made it appear more than a simple plate to lay observers and even trained officials approaching it without context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoax</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
 
@@ -278,203 +278,203 @@ The finished object resembled what mid‑20th‑century popular imagery suggeste
 <img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_disc_cons_0368d3-Illustration-2-dark.svg" | relative_url }}" alt="Disc Construction illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_disc_cons_0368d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_disc_cons_0368d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Appearance Suggested Complexity but Was a Prank
 
-At a glance, the Twin Falls disc displayed features that seemed mechanically intriguing. Under the clear dome, the grouped tubes and wiring looked like the control or sensory apparatus of a machine. The play of metallic paints and formed surfaces suggested deliberate manufacture rather than random debris. To police and journalists still caught up in the flying‑saucer fever of 1947, these features created a compelling visual narrative of a manufactured flying object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+At a glance, the Twin Falls disc displayed features that seemed mechanically intriguing. Under the clear dome, the grouped tubes and wiring looked like the control or sensory apparatus of a machine. The play of metallic paints and formed surfaces suggested deliberate manufacture rather than random debris. To police and journalists still caught up in the flying‑saucer fever of 1947, these features created a compelling visual narrative of a manufactured flying object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-Yet, on closer inspection and once the local boys’ confession became public, it was clear that **none of these design elements possessed functional aeronautical or scientific purpose**. The radio tubes were not connected to any power source, coils were decorative rather than operative, and there was no propulsion or control mechanism. The bold use of bright paints and bolts was theatrical rather than technical. In short, the object looked complex enough to intrigue non‑experts precisely because its components were familiar symbols of technology rather than because they formed an integrated machine. That familiarity masked the creative assemblage, making the prank work until closer scrutiny revealed its improvised nature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
+Yet, on closer inspection and once the local boys’ confession became public, it was clear that **none of these design elements possessed functional aeronautical or scientific purpose**. The radio tubes were not connected to any power source, coils were decorative rather than operative, and there was no propulsion or control mechanism. The bold use of bright paints and bolts was theatrical rather than technical. In short, the object looked complex enough to intrigue non‑experts precisely because its components were familiar symbols of technology rather than because they formed an integrated machine. That familiarity masked the creative assemblage, making the prank work until closer scrutiny revealed its improvised nature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dosen.profillengkap.com">[Dosen Profil Lengkap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dosen.profillengkap.com</span><span class="citation-popover-title">Dosen Profil Lengkap Twin Falls saucer hoax</span><span class="citation-popover-snippet">Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</span><span class="citation-popover-meta">Published: July 11, 1947</span></span></span>
 
-The case of the Twin Falls disc thus remains an instructive example in Idaho’s UFO history: a physical artefact that seemed to promise mechanical mystery, drawn together from household parts and teenage ingenuity, but which ultimately underscored the need for careful evidence assessment rather than assumption based on appearance alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+The case of the Twin Falls disc thus remains an instructive example in Idaho’s UFO history: a physical artefact that seemed to promise mechanical mystery, drawn together from household parts and teenage ingenuity, but which ultimately underscored the need for careful evidence assessment rather than assumption based on appearance alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Twin Falls Disc Was Built and Misunderstood. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Twin Falls Disc Was Built and Misunderstood. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to understanding how physical objects and alleged debris are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to understanding how physical objects and alleged debris are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek, J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses investigative standards for unusual claims and artifacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses investigative standards for unusual claims and artifacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Another recovered-object narrative useful for comparison with Twin Falls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Another recovered-object narrative useful for comparison with Twin Falls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Roger+Boar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s Greatest UFO Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Roger+Boar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest UFO Mysteries">The World&#x27;s Greatest UFO Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Roger Boar, Nigel Blundell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Roger+Boar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s Greatest UFO Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Roger+Boar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest UFO Mysteries">The World&#x27;s Greatest UFO Mysteries</a>
+</h4>
+<p class="fr-book-author">By Roger Boar, Nigel Blundell</p>
         
-        <p class="fr-book-desc">Includes famous cases involving alleged physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Roger+Boar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes famous cases involving alleged physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Roger+Boar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="https://i.ebayimg.com/images/g/5lUAAeSwXgpo~0lB/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="https://i.ebayimg.com/images/g/5lUAAeSwXgpo~0lB/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)"><img src="https://i.ebayimg.com/images/g/yOIAAeSwliRoEc-g/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)"><img src="https://i.ebayimg.com/images/g/yOIAAeSwliRoEc-g/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="https://i.ebayimg.com/images/g/KJAAAeSwHlpqIC~m/s-l225.jpg" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="https://i.ebayimg.com/images/g/KJAAAeSwHlpqIC~m/s-l225.jpg" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened"><img src="https://i.ebayimg.com/images/g/MZgAAOSwjH1keQGN/s-l225.jpg" alt="Listing image for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened"><img src="https://i.ebayimg.com/images/g/MZgAAOSwjH1keQGN/s-l225.jpg" alt="Listing image for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-the-twin-falls-disc-was-built-and-misunderstood-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -490,7 +490,7 @@ The case of the Twin Falls disc thus remains an instructive example in Idaho’s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -510,7 +510,7 @@ The case of the Twin Falls disc thus remains an instructive example in Idaho’s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -542,7 +542,7 @@ The case of the Twin Falls disc thus remains an instructive example in Idaho’s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -594,7 +594,7 @@ The case of the Twin Falls disc thus remains an instructive example in Idaho’s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -639,7 +639,7 @@ The case of the Twin Falls disc thus remains an instructive example in Idaho’s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -680,107 +680,107 @@ The case of the Twin Falls disc thus remains an instructive example in Idaho’s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Twin Falls saucer hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1947g.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1947g.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS 1947...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1947g.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1947g.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS 1947...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1947fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1947fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 ChronologyDecember 14, 2005...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1947fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1947fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 ChronologyDecember 14, 2005...</p></details>
    Published: December 14, 2005  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/roswell/ufo47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/roswell/ufo47.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A disk shaped object was found in Hollywood, California, and another in Twin Falls, Idaho. In both cases the hoaxes are qui...</p></details>
+   Link:<a href="https://www.project1947.com/roswell/ufo47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/roswell/ufo47.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A disk shaped object was found in Hollywood, California, and another in Twin Falls, Idaho. In both cases the hoaxes are qui...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: project1947.com  
-   Link: <a href="https://project1947.com/roswell/tfalls.htm" target="_blank" rel="noopener noreferrer nofollow">https://project1947.com/roswell/tfalls.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 -Twin Falls, Idaho - July 12, 1947July 12, 1947 — PROJECT 1947 * * * Lewiston, Idaho Daily Tribune - 12 July, 1947 Army, FBI...</p></details>
+   Link:<a href="https://project1947.com/roswell/tfalls.htm" target="_blank" rel="noopener noreferrer nofollow">https://project1947.com/roswell/tfalls.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 -Twin Falls, Idaho - July 12, 1947July 12, 1947 — PROJECT 1947 * * * Lewiston, Idaho Daily Tribune - 12 July, 1947 Army, FBI...</p></details>
    Published: July 12, 1947  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dosen.profillengkap.com  
    Title: Dosen Profil Lengkap Twin Falls saucer hoax  
-   Link: <a href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</p></details>
+   Link:<a href="https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://dosen.profillengkap.com/index.php/en/Twin_Falls_saucer_hoax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dosen Profil LengkapTwin Falls saucer hoaxJuly 11, 1947...</p></details>
    Published: July 11, 1947  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.fbi.gov  
    Title: the fbi and ufos flying flapjacks saucers and saw blades  
-   Link: <a href="https://archives.fbi.gov/archives/news/stories/2010/april/ufos_040610/the-fbi-and-ufos-flying-flapjacks-saucers-and-saw-blades" target="_blank" rel="noopener noreferrer nofollow">https://archives.fbi.gov/archives/news/stories/2010/april/ufos_040610/the-fbi-and-ufos-flying-flapjacks-saucers-and-saw-blades</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It may contain outdated information and links may no longer function. THE FBI AND UFOS Image: Fake Flying Dis...</p></details>
+   Link:<a href="https://archives.fbi.gov/archives/news/stories/2010/april/ufos_040610/the-fbi-and-ufos-flying-flapjacks-saucers-and-saw-blades" target="_blank" rel="noopener noreferrer nofollow">https://archives.fbi.gov/archives/news/stories/2010/april/ufos_040610/the-fbi-and-ufos-flying-flapjacks-saucers-and-saw-blades</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It may contain outdated information and links may no longer function. THE FBI AND UFOS Image: Fake Flying Dis...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufodossier.com  
    Title: Twin Falls, Idaho multiple observations — UFO Dossier  
-   Link: <a href="https://www.ufodossier.com/incident/1947-gov-twin-falls-idaho-multiple-observations-1e3e" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodossier.com/incident/1947-gov-twin-falls-idaho-multiple-observations-1e3e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 19, 1947 — TWIN FALLS, IDAHO MULTIPLE OBSERVATIONS 1947-08-19·Twin Falls, Idaho·FBI·unresolved Document cover Page 1 of 65_HS1-834...</p></details>
+   Link:<a href="https://www.ufodossier.com/incident/1947-gov-twin-falls-idaho-multiple-observations-1e3e" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodossier.com/incident/1947-gov-twin-falls-idaho-multiple-observations-1e3e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 19, 1947 — TWIN FALLS, IDAHO MULTIPLE OBSERVATIONS 1947-08-19·Twin Falls, Idaho·FBI·unresolved Document cover Page 1 of 65_HS1-834...</p></details>
    Published: August 19, 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thinkaboutitdocs.com  
    Title: 1947 disc zooms down snake river canyon idaho  
-   Link: <a href="https://www.thinkaboutitdocs.com/1947-disc-zooms-down-snake-river-canyon-idaho/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1947-disc-zooms-down-snake-river-canyon-idaho/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: Disc Zooms Down Snake River Canyon, IdahoApril 8, 2013 — 1947: DISC ZOOMS DOWN SNAKE RIVER CANYON, IDAHO Orbman April 8, 2013 6 min...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1947-disc-zooms-down-snake-river-canyon-idaho/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1947-disc-zooms-down-snake-river-canyon-idaho/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947: Disc Zooms Down Snake River Canyon, IdahoApril 8, 2013 — 1947: DISC ZOOMS DOWN SNAKE RIVER CANYON, IDAHO Orbman April 8, 2013 6 min...</p></details>
    Published: April 8, 2013  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoinsight.com  
    Title: 1947 snake river canyon ufo  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/1947-snake-river-canyon-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/1947-snake-river-canyon-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, perhaps because of the several moments the pilots and the air stewardess took to watch the objects, they were able to give a rel...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/1947-snake-river-canyon-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/1947-snake-river-canyon-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, perhaps because of the several moments the pilots and the air stewardess took to watch the objects, they were able to give a rel...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
    Title: It contains the witness' d  
-   Link: <a href="https://ufologie.patrickgross.org/htm/snakeriver1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/snakeriver1947.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Snake River 1947August 15, 1947 — 10.000 CASES: SNAKE RIVER, AUGUST 13, 1947: IN THE PRESS: The article below was pu...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/snakeriver1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/snakeriver1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Snake River 1947August 15, 1947 — 10.000 CASES: SNAKE RIVER, AUGUST 13, 1947: IN THE PRESS: The article below was pu...</p></details>
    Published: August 15, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: diclib.com  
    Title: Twin Falls saucer hoax  
-   Link: <a href="https://diclib.com/en/English%20dictionary/Twin%20Falls%20saucer%20hoax" target="_blank" rel="noopener noreferrer nofollow">https://diclib.com/en/English%20dictionary/Twin%20Falls%20saucer%20hoax</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meaning and definition. What is Twin Falls saucer hoax WHAT (WHO) IS TWIN FALLS SAUCER HOAX - DEFINITION [Button: Show additional info ab...</p></details>
+   Link:<a href="https://diclib.com/en/English%20dictionary/Twin%20Falls%20saucer%20hoax" target="_blank" rel="noopener noreferrer nofollow">https://diclib.com/en/English%20dictionary/Twin%20Falls%20saucer%20hoax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meaning and definition. What is Twin Falls saucer hoax WHAT (WHO) IS TWIN FALLS SAUCER HOAX - DEFINITION [Button: Show additional info ab...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: everything.explained.today  
    Title: 1947 flying disc craze  
-   Link: <a href="https://everything.explained.today/1947_flying_disc_craze/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/1947_flying_disc_craze/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 24, 1947, private pilot [Kenneth Arnold](&amp;#123;&amp;#123; &#x27;kenneth-arnold/&#x27; | relative_url &amp;#125;&amp;#125;) claimed that he saw a string of nine shiny unidentified flying objects flying past Mount...</p></details>
+   Link:<a href="https://everything.explained.today/1947_flying_disc_craze/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/1947_flying_disc_craze/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On June 24, 1947, private pilot [Kenneth Arnold](&amp;#123;&amp;#123; &#x27;kenneth-arnold/&#x27; | relative_url &amp;#125;&amp;#125;) claimed that he saw a string of nine shiny unidentified flying objects flying past Mount...</p></details>
    Published: June 24, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident  
-   Link: <a href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5KXsiBZjOM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First UFO Sighting In America | UFOs: The Lost Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5KXsiBZjOM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First UFO Sighting In America | UFOs: The Lost Evidence...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: books.apple.com  
-   Link: <a href="https://books.apple.com/us/book/twin-falls-saucer-hoax-simplified/id6511210061" target="_blank" rel="noopener noreferrer nofollow">https://books.apple.com/us/book/twin-falls-saucer-hoax-simplified/id6511210061</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Twin Falls Saucer Hoax Simplified by Solomon Hathaway on Apple BooksJuly 19, 2024 — TWIN FALLS SAUCER HOAX SIMPLIFIED Solomon H...</p></details>
+   Link:<a href="https://books.apple.com/us/book/twin-falls-saucer-hoax-simplified/id6511210061" target="_blank" rel="noopener noreferrer nofollow">https://books.apple.com/us/book/twin-falls-saucer-hoax-simplified/id6511210061</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Twin Falls Saucer Hoax Simplified by Solomon Hathaway on Apple BooksJuly 19, 2024 — TWIN FALLS SAUCER HOAX SIMPLIFIED Solomon H...</p></details>
    Published: July 19, 2024

@@ -250,19 +250,19 @@ image: /assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysi
 
 ## Introduction
 
-The radar evidence linked to Japan Air Lines Flight 1628 is the reason the 1986 Alaska sighting became more than a routine pilot UFO report. Captain Kenju Terauchi’s crew described unusual lights pacing their Boeing 747 over eastern Alaska, but the real controversy began when air-traffic controllers, FAA analysts and military radar operators tried to determine whether the objects also appeared on radar systems. The resulting technical reviews produced a confusing picture: some controllers initially believed there were unexplained returns near the aircraft, while later FAA analysis concluded that the radar data did not confirm a separate object. That tension between immediate operational impressions and later technical reassessment still defines the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
+The radar evidence linked to Japan Air Lines Flight 1628 is the reason the 1986 Alaska sighting became more than a routine pilot UFO report. Captain Kenju Terauchi’s crew described unusual lights pacing their Boeing 747 over eastern Alaska, but the real controversy began when air-traffic controllers, FAA analysts and military radar operators tried to determine whether the objects also appeared on radar systems. The resulting technical reviews produced a confusing picture: some controllers initially believed there were unexplained returns near the aircraft, while later FAA analysis concluded that the radar data did not confirm a separate object. That tension between immediate operational impressions and later technical reassessment still defines the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysis_j_9b0f59-Illustration-1-dark.svg" | relative_url }}" alt="FAA Radar Review illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysis_j_9b0f59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysis_j_9b0f59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within Alaska’s UFO history, the [JAL 1628]({{ 'jal-1628/' | relative_url }}) incident stands out because unusually large amounts of official material survived. Radar plots, transcripts, memoranda and FAA review documents allow researchers to examine how aviation authorities interpreted ambiguous radar contacts in real time and after the event. The radar analysis itself became as important as the sighting.
 
 ## How the FAA Collected the Radar Evidence
 
-When the JAL crew began reporting unknown traffic on 17 November 1986, Anchorage Air Route Traffic Control Centre treated the situation as a possible aviation hazard rather than a paranormal event. Controllers recorded pilot communications, tracked the aircraft through long-range radar systems and coordinated with military facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
+When the JAL crew began reporting unknown traffic on 17 November 1986, Anchorage Air Route Traffic Control Centre treated the situation as a possible aviation hazard rather than a paranormal event. Controllers recorded pilot communications, tracked the aircraft through long-range radar systems and coordinated with military facilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
 
 The FAA later assembled several categories of evidence:
 
-* Air-traffic control voice transcripts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the ufo encounter so disturbing the cia buried it</span><span class="citation-popover-snippet">The UFO Encounter So Disturbing, the CIA Buried It for 30...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounte...</span></span></span>
-* Radar scope observations from controllers * Primary radar returns <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span> * Secondary radar beacon data <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
+* Air-traffic control voice transcripts<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the ufo encounter so disturbing the cia buried it</span><span class="citation-popover-snippet">The UFO Encounter So Disturbing, the CIA Buried It for 30...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounte...</span></span></span>
+* Radar scope observations from controllers * Primary radar returns<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span> * Secondary radar beacon data<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
 * Controller statements and shift logs
 * Technical evaluations from FAA specialists
 
@@ -272,24 +272,24 @@ This distinction between primary and secondary radar became central to later arg
 
 Primary radar works by bouncing radio energy off a physical object and detecting the reflection. Secondary radar relies on aircraft transponders replying to interrogation signals with identification and altitude information.
 
-Flight 1628 naturally appeared clearly on secondary radar because its transponder was operating normally. The controversy centred on intermittent primary returns that some operators believed indicated another object near the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+Flight 1628 naturally appeared clearly on secondary radar because its transponder was operating normally. The controversy centred on intermittent primary returns that some operators believed indicated another object near the aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
 The key difficulty was inconsistency. The alleged extra returns appeared only briefly and irregularly. They did not behave like a continuously tracked aircraft target moving through controlled airspace. That inconsistency later became the FAA’s main reason for rejecting the idea that radar had conclusively tracked a structured unknown craft.
 
 ## What Controllers Thought They Saw in Real Time
 
-One reason the case gained attention is that some controllers initially believed the radar data supported the pilots’ reports. Contemporary press coverage quoted Anchorage controller John W. Lindley saying radar showed traffic near the aircraft during part of the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+One reason the case gained attention is that some controllers initially believed the radar data supported the pilots’ reports. Contemporary press coverage quoted Anchorage controller John W. Lindley saying radar showed traffic near the aircraft during part of the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 The timing mattered. Controllers were not reviewing the event calmly after the fact; they were responding live while hearing a professional international cargo crew report nearby objects. Under those circumstances, even intermittent returns carried operational significance.
 
-FAA transcripts show controllers asking nearby military and civilian aircraft whether they could see traffic near the Japanese freighter. Neither a United Airlines flight nor a military C-130 reported visual confirmation or radar contact with unidentified objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Japan_Airlines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Airlines</span><span class="citation-popover-snippet">Japan AirlinesJapan Airlines (JAL) is a major Japanese airline headquartered in Shinagawa, Tokyo. The airline&#x27;s main hubs are Tokyo&#x27;s...</span></span></span>
+FAA transcripts show controllers asking nearby military and civilian aircraft whether they could see traffic near the Japanese freighter. Neither a United Airlines flight nor a military C-130 reported visual confirmation or radar contact with unidentified objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Japan_Airlines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Airlines</span><span class="citation-popover-snippet">Japan AirlinesJapan Airlines (JAL) is a major Japanese airline headquartered in Shinagawa, Tokyo. The airline&#x27;s main hubs are Tokyo&#x27;s...</span></span></span>
 
-That split between: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the ufo encounter so disturbing the cia buried it</span><span class="citation-popover-snippet">The UFO Encounter So Disturbing, the CIA Buried It for 30...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounte...</span></span></span>
+That split between:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the ufo encounter so disturbing the cia buried it</span><span class="citation-popover-snippet">The UFO Encounter So Disturbing, the CIA Buried It for 30...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounte...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the JAL crew’s strong visual reports,
-* limited controller radar impressions, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+* limited controller radar impressions,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 * and negative reports from other aircraft
 
 </div>
@@ -302,17 +302,17 @@ became one of the most important contradictions in the entire investigation.
 
 Part of the confusion came from the ordinary language used in air-traffic control. Controllers sometimes referred to possible “traffic” before confirming exactly what the radar represented. In a live aviation environment, controllers often investigate uncertain returns cautiously because safety takes priority over certainty.
 
-Later UFO retellings sometimes presented these preliminary observations as definitive FAA confirmation. The actual records are more tentative. Controllers discussed possible targets, but the later technical review argued those returns could be explained without invoking an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
+Later UFO retellings sometimes presented these preliminary observations as definitive FAA confirmation. The actual records are more tentative. Controllers discussed possible targets, but the later technical review argued those returns could be explained without invoking an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
 
 ## The FAA Technical Review and the “Split Image” Explanation
 
-After the incident, the FAA sent radar materials to its Technical Center near Atlantic City for specialist analysis. This phase marked a major turning point in the official interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+After the incident, the FAA sent radar materials to its Technical Center near Atlantic City for specialist analysis. This phase marked a major turning point in the official interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
 The review concluded that the radar tapes did not confirm an independently operating object shadowing Flight 1628. Instead, analysts argued that at least some anomalous returns likely resulted from radar processing artefacts.
 
-One frequently cited explanation involved what investigators described as an “uncorrected primary and beacon target”. In simple terms, radar systems could sometimes produce misleading duplicate or offset echoes associated with the known aircraft rather than a separate vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
+One frequently cited explanation involved what investigators described as an “uncorrected primary and beacon target”. In simple terms, radar systems could sometimes produce misleading duplicate or offset echoes associated with the known aircraft rather than a separate vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Center for Inquiry Special Reports</span><span class="citation-popover-snippet">Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
-The FAA’s January 1987 position therefore became substantially more cautious than early media reports suggesting radar confirmation of a UFO. UPI reported that federal investigators said the radar review failed to confirm an unidentified object accompanying the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+The FAA’s January 1987 position therefore became substantially more cautious than early media reports suggesting radar confirmation of a UFO. UPI reported that federal investigators said the radar review failed to confirm an unidentified object accompanying the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 ### Why the technical explanation mattered
 
@@ -337,7 +337,7 @@ Those are not equivalent claims.
 <img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysis_j_9b0f59-Illustration-2-dark.svg" | relative_url }}" alt="FAA Radar Review illustration 2" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysis_j_9b0f59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysis_j_9b0f59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military Radar and the Problem of Correlation
 
-Another enduring controversy concerns reports that military radar also detected unusual traffic. Early press coverage suggested Air Force systems had corroborated the FAA observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostUFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR1 Jan 1987 — FAA flight control reports indicate the object stayed with...</span></span></span>
+Another enduring controversy concerns reports that military radar also detected unusual traffic. Early press coverage suggested Air Force systems had corroborated the FAA observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostUFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR1 Jan 1987 — FAA flight control reports indicate the object stayed with...</span></span></span>
 
 Later reviews weakened those claims considerably.
 
@@ -359,7 +359,7 @@ The absence of strong cross-confirmation pushed official conclusions toward caut
 
 ### Why intermittent returns remain controversial
 
-Supporters of the unidentified-object interpretation argue that intermittent returns do not automatically invalidate the sighting. Long-range radar systems can produce incomplete tracks, especially in difficult atmospheric or geometric conditions. They also note that some controllers genuinely believed they were seeing unknown traffic during the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+Supporters of the unidentified-object interpretation argue that intermittent returns do not automatically invalidate the sighting. Long-range radar systems can produce incomplete tracks, especially in difficult atmospheric or geometric conditions. They also note that some controllers genuinely believed they were seeing unknown traffic during the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 Sceptics counter that ambiguous radar artefacts are common in aviation and become especially vulnerable to over-interpretation during unusual incidents. Once pilots reported extraordinary objects, confirmation bias may have influenced how controllers interpreted weak returns.
 
@@ -367,7 +367,7 @@ The FAA’s own technical review ultimately aligned more closely with the scepti
 
 ## John Callahan and the Public Afterlife of the Radar Data
 
-The radar controversy gained a second life years later through former FAA division chief John Callahan. Callahan publicly discussed the case in lectures and interviews, arguing that the FAA possessed significant radar and tracking data connected to the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanghostwalks.com">[American Ghost Walks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanghostwalks.com</span><span class="citation-popover-title">haunted alaskan skies 1986 s japan airlines flight 1628 ufo encounter</span><span class="citation-popover-snippet">American Ghost WalksHaunted Alaskan Skies: 1986&#x27;s JAL1628 UFO Encounter25 May 2025 — Behind the scenes, John Callahan, an FAA employee wh...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The radar controversy gained a second life years later through former FAA division chief John Callahan. Callahan publicly discussed the case in lectures and interviews, arguing that the FAA possessed significant radar and tracking data connected to the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanghostwalks.com">[American Ghost Walks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanghostwalks.com</span><span class="citation-popover-title">haunted alaskan skies 1986 s japan airlines flight 1628 ufo encounter</span><span class="citation-popover-snippet">American Ghost WalksHaunted Alaskan Skies: 1986&#x27;s JAL1628 UFO Encounter25 May 2025 — Behind the scenes, John Callahan, an FAA employee wh...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 In UFO culture, Callahan became an important figure because he claimed senior government personnel took the incident seriously during internal briefings. His statements helped sustain the idea that the case represented one of the strongest aviation UFO encounters on record.
 
@@ -401,7 +401,7 @@ The records clearly establish several points:
 * controllers treated the reports seriously,
 * radar operators examined possible nearby returns,
 * the FAA conducted a substantial technical review,
-* and the incident generated internal memoranda and archived evidence. The Black Vault Documents <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/94376509/JAL-flight1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">JAL flight1628</span><span class="citation-popover-snippet">PDF &#124; Unidentified Flying Object &#124; AviationThe Federal Aviation Administration today released documents relating to the reported sighting...</span></span></span> But the records do not clearly establish:
+* and the incident generated internal memoranda and archived evidence. The Black Vault Documents<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/94376509/JAL-flight1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">JAL flight1628</span><span class="citation-popover-snippet">PDF &#124; Unidentified Flying Object &#124; AviationThe Federal Aviation Administration today released documents relating to the reported sighting...</span></span></span> But the records do not clearly establish:
 
 * a continuously tracked unknown craft,
 * confirmed military corroboration of a structured object,
@@ -436,194 +436,194 @@ Modern discussions of unidentified anomalous phenomena often return to JAL 1628 
 For Alaska’s UFO history specifically, the incident marked one of the rare moments when a sighting over the state moved from local aviation channels into a national debate about radar evidence and official credibility. Even decades later, the FAA’s shifting interpretation — from apparent concern to technical scepticism — remains central to understanding why the JAL 1628 encounter is still argued over today.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How FAA Radar Data Shaped the JAL 1628 Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How FAA Radar Data Shaped the JAL 1628 Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes radar-supported cases and official-source discussions relevant to FAA analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes radar-supported cases and official-source discussions relevant to FAA analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains investigative procedures and official interpretations of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative procedures and official interpretations of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how evidence and radar reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how evidence and radar reports are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Focuses on documentary records and official case reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documentary records and official case reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for radar military aircraft mid air refueling Boeing KC 135 11x17 Poster"><img src="https://i.ebayimg.com/images/g/VbcAAeSwKOdp88K0/s-l225.jpg" alt="Listing image for radar military aircraft mid air refueling Boeing KC 135 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">radar military aircraft mid air refueling Boeing KC 135 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for radar military aircraft mid air refueling Boeing KC 135 11x17 Poster"><img src="https://i.ebayimg.com/images/g/VbcAAeSwKOdp88K0/s-l225.jpg" alt="Listing image for radar military aircraft mid air refueling Boeing KC 135 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">radar military aircraft mid air refueling Boeing KC 135 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SEkAAeSwunRpZjC4/s-l225.jpg" alt="Listing image for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SEkAAeSwunRpZjC4/s-l225.jpg" alt="Listing image for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1957 Advert Marconi Radio Radar Navigational Aids Aviation"><img src="https://i.ebayimg.com/images/g/4KsAAeSwNlBpizU-/s-l225.jpg" alt="Listing image for Original 1957 Advert Marconi Radio Radar Navigational Aids Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1957 Advert Marconi Radio Radar Navigational Aids Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1957 Advert Marconi Radio Radar Navigational Aids Aviation"><img src="https://i.ebayimg.com/images/g/4KsAAeSwNlBpizU-/s-l225.jpg" alt="Listing image for Original 1957 Advert Marconi Radio Radar Navigational Aids Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1957 Advert Marconi Radio Radar Navigational Aids Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Patent Wall Art: Pilot Gift, Airport Art, Veteran Gift, Traffic Controller"><img src="https://i.ebayimg.com/images/g/SQ8AAeSwSptqC9Fk/s-l225.jpg" alt="Listing image for Radar Patent Wall Art: Pilot Gift, Airport Art, Veteran Gift, Traffic Controller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Patent Wall Art: Pilot Gift, Airport Art, Veteran Gift, Traffic Controller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Patent Wall Art: Pilot Gift, Airport Art, Veteran Gift, Traffic Controller"><img src="https://i.ebayimg.com/images/g/SQ8AAeSwSptqC9Fk/s-l225.jpg" alt="Listing image for Radar Patent Wall Art: Pilot Gift, Airport Art, Veteran Gift, Traffic Controller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Patent Wall Art: Pilot Gift, Airport Art, Veteran Gift, Traffic Controller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation radar poster" data-ebay-reference="how-faa-radar-data-shaped-the-jal-1628-case-aviation-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ For Alaska’s UFO history specifically, the incident marked one of the rare mom
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ For Alaska’s UFO history specifically, the incident marked one of the rare mom
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ For Alaska’s UFO history specifically, the incident marked one of the rare mom
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ For Alaska’s UFO history specifically, the incident marked one of the rare mom
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -788,7 +788,7 @@ For Alaska’s UFO history specifically, the incident marked one of the rare mom
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -829,142 +829,142 @@ For Alaska’s UFO history specifically, the incident marked one of the rare mom
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Japan Air Lines Cargo Flight 1628  
-   Link: <a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upi.com  
    Title: Radar review fails to confirm UFO  
-   Link: <a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
    Title: JAL flight1628  
-   Link: <a href="https://www.scribd.com/document/94376509/JAL-flight1628" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/94376509/JAL-flight1628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Unidentified Flying Object | AviationThe Federal Aviation Administration today released documents relating to the reported sighting...</p></details>
+   Link:<a href="https://www.scribd.com/document/94376509/JAL-flight1628" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/94376509/JAL-flight1628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Unidentified Flying Object | AviationThe Federal Aviation Administration today released documents relating to the reported sighting...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: upi.com  
    Title: Controller confirms UFO sighting  
-   Link: <a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jal.com  
-   Link: <a href="https://www.jal.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.jal.com/en/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JAPAN AIRLINES Corporate InformationWe conduct social contribution activities unique to the Group through our core air transport business...</p></details>
+   Link:<a href="https://www.jal.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.jal.com/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAPAN AIRLINES Corporate InformationWe conduct social contribution activities unique to the Group through our core air transport business...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Japan Airlines  
-   Link: <a href="https://en.wikipedia.org/wiki/Japan_Airlines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Airlines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan AirlinesJapan Airlines (JAL) is a major Japanese airline headquartered in Shinagawa, Tokyo. The airline&#x27;s main hubs are Tokyo&#x27;s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Japan_Airlines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Airlines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan AirlinesJapan Airlines (JAL) is a major Japanese airline headquartered in Shinagawa, Tokyo. The airline&#x27;s main hubs are Tokyo&#x27;s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KARd-HTssbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KARd-HTssbg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JAL 1628 - A Model for Investigating UAP Events...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KARd-HTssbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KARd-HTssbg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAL 1628 - A Model for Investigating UAP Events...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IcDgc3cYN4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IcDgc3cYN4Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Evidence Seized by CIA (Season 19) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IcDgc3cYN4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IcDgc3cYN4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Evidence Seized by CIA (Season 19) | History...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</p></details>
    Published: November 18, 1986  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsMemorandumINFORMATION: Transcription concerning the incident involving Japan Airlines Flight 1628 on November 18...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsMemorandumINFORMATION: Transcription concerning the incident involving Japan Airlines Flight 1628 on November 18...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: Center for Inquiry Special Reports  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquirySpecial ReportsMarch 19, 2019 — This analysis showed that the sporadic second blip was due to a phenomenon known as &quot;un...</p></details>
    Published: March 19, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostUFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR1 Jan 1987 — FAA flight control reports indicate the object stayed with...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostUFO SIGHTING CONFIRMED BY FAA, AIR FORCE RADAR1 Jan 1987 — FAA flight control reports indicate the object stayed with...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReportsUSAF C-130 transport aircraft that was westbound for [Elmendorf](&amp;#123;&amp;#123; &#x27;elmendorf/&#x27; | relative_url &amp;#125;&amp;#125;) AFB, flying south of JAL #1628. When the C-130 pilot overheard the...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReportsUSAF C-130 transport aircraft that was westbound for [Elmendorf](&amp;#123;&amp;#123; &#x27;elmendorf/&#x27; | relative_url &amp;#125;&amp;#125;) AFB, flying south of JAL #1628. When the C-130 pilot overheard the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: americanghostwalks.com  
    Title: haunted alaskan skies 1986 s japan airlines flight 1628 ufo encounter  
-   Link: <a href="https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Ghost WalksHaunted Alaskan Skies: 1986&#x27;s JAL1628 UFO Encounter25 May 2025 — Behind the scenes, John Callahan, an FAA employee wh...</p></details>
+   Link:<a href="https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Ghost WalksHaunted Alaskan Skies: 1986&#x27;s JAL1628 UFO Encounter25 May 2025 — Behind the scenes, John Callahan, an FAA employee wh...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Japan Air Lines flight 1628 was a UFO incident that occurred on November 17, 1986 in...</p></details>
+   Link:<a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Japan Air Lines flight 1628 was a UFO incident that occurred on November 17, 1986 in...</p></details>
    Published: November 17, 1986  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61578116940070/posts/a-747-cargo-pilot-50-minutes-of-close-encounter-confirmed-by-faa-radar-the-objec/122191746998937231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61578116940070/posts/a-747-cargo-pilot-50-minutes-of-close-encounter-confirmed-by-faa-radar-the-objec/122191746998937231/</a>  
+   Link:<a href="https://www.facebook.com/61578116940070/posts/a-747-cargo-pilot-50-minutes-of-close-encounter-confirmed-by-faa-radar-the-objec/122191746998937231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61578116940070/posts/a-747-cargo-pilot-50-minutes-of-close-encounter-confirmed-by-faa-radar-the-objec/122191746998937231/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jal.co.jp  
-   Link: <a href="https://www.jal.co.jp/jp/en/inter/" target="_blank" rel="noopener noreferrer nofollow">https://www.jal.co.jp/jp/en/inter/</a>  
+   Link:<a href="https://www.jal.co.jp/jp/en/inter/" target="_blank" rel="noopener noreferrer nofollow">https://www.jal.co.jp/jp/en/inter/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journalnews.com.ph  
-   Link: <a href="https://journalnews.com.ph/unfriendly-skies-the-extraordinary-flight-of-jal-1628-alaskas-best-known-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/unfriendly-skies-the-extraordinary-flight-of-jal-1628-alaskas-best-known-ufo-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unfriendly skies: The extraordinary flight of JAL 1628...During the last 30 minutes the UFOs were tracked on military and civilian rada...</p></details>
+   Link:<a href="https://journalnews.com.ph/unfriendly-skies-the-extraordinary-flight-of-jal-1628-alaskas-best-known-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/unfriendly-skies-the-extraordinary-flight-of-jal-1628-alaskas-best-known-ufo-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unfriendly skies: The extraordinary flight of JAL 1628...During the last 30 minutes the UFOs were tracked on military and civilian rada...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: black vault uncovers archives missing faa records  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Vault uncovers, archives missing FAA records of...Black Vault uncovers, archives missing FAA records of Japanese Airlines JAL 1628...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Vault uncovers, archives missing FAA records of...Black Vault uncovers, archives missing FAA records of Japanese Airlines JAL 1628...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: the ufo encounter so disturbing the cia buried it  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Encounter So Disturbing, the CIA Buried It for 30...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounte...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Encounter So Disturbing, the CIA Buried It for 30...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounte...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>42 minute...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Supported by Radar Data and Air Traffic Contro...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>42 minute...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Supported by Radar Data and Air Traffic Contro...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: flightsafetydetectives.com  
    Title: a model for investigating uap events episode 182  
-   Link: <a href="https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Model for Investigating UAP Events – Episode 182JAL Flight 1628 UAP event was investigated in detail by the FAA could serve as a model...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Model for Investigating UAP Events – Episode 182JAL Flight 1628 UAP event was investigated in detail by the FAA could serve as a model...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: open.spotify.com  
    Title: 6XWCFJBL7Dex Tu3Hm3CTJb  
-   Link: <a href="https://open.spotify.com/episode/6XWCFJBL7DexTu3Hm3CTJb" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6XWCFJBL7DexTu3Hm3CTJb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight 1628 UFO Encounter6 Nov 2025 — At one point, the object appeared on three separate radar systems at once, yet none...</p></details>
+   Link:<a href="https://open.spotify.com/episode/6XWCFJBL7DexTu3Hm3CTJb" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6XWCFJBL7DexTu3Hm3CTJb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight 1628 UFO Encounter6 Nov 2025 — At one point, the object appeared on three separate radar systems at once, yet none...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jal.co.jp  
    Title: JAPA N AIRLINES (JAL)  
-   Link: <a href="https://www.jal.co.jp/ar/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.jal.co.jp/ar/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JAPAN AIRLINES (JAL) - Flights to Japan from US &amp; CanadaBook flights &amp; vacations to Tokyo, Osaka &amp; more destinations in Japan &amp; Asia with...</p></details>
+   Link:<a href="https://www.jal.co.jp/ar/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.jal.co.jp/ar/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAPAN AIRLINES (JAL) - Flights to Japan from US &amp; CanadaBook flights &amp; vacations to Tokyo, Osaka &amp; more destinations in Japan &amp; Asia with...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/8vcrvw/the_mysterious_and_otherworldly_flight_of_japan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/8vcrvw/the_mysterious_and_otherworldly_flight_of_japan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious and otherworldly flight of Japan Airlines...The ATC reported seeing nothing on the radar indicating a object, and also re...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/8vcrvw/the_mysterious_and_otherworldly_flight_of_japan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/8vcrvw/the_mysterious_and_otherworldly_flight_of_japan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious and otherworldly flight of Japan Airlines...The ATC reported seeing nothing on the radar indicating a object, and also re...</p></details>

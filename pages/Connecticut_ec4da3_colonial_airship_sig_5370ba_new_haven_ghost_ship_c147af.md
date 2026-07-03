@@ -257,11 +257,11 @@ For Connecticut’s wider UFO and anomalous-sky history, the case matters less a
 
 ## What the colonial accounts claimed
 
-The basic story begins with New Haven Colony’s failed attempt to establish direct maritime trade with England. In the mid-1640s, colonial leaders invested heavily in a large vessel remembered in later accounts as the “Great Shippe”. The ship left New Haven during harsh winter conditions and was widely considered unstable before departure. It never returned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span>
+The basic story begins with New Haven Colony’s failed attempt to establish direct maritime trade with England. In the mid-1640s, colonial leaders invested heavily in a large vessel remembered in later accounts as the “Great Shippe”. The ship left New Haven during harsh winter conditions and was widely considered unstable before departure. It never returned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span>
 
-Months later, after no word arrived from England, New Haven residents reportedly witnessed an extraordinary apparition over the harbour. The most influential surviving version comes from a letter attributed to Reverend James Pierpont and later reproduced by Cotton Mather in *Magnalia Christi Americana*. In that account, witnesses saw a ship in the air shortly after a violent thunderstorm. The vessel appeared to sail against the wind, remained visible for roughly half an hour, then seemed to break apart and vanish into cloud or smoke. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colonialsociety.org">[Colonial Society of Massachusetts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colonialsociety.org</span><span class="citation-popover-snippet">Colonial Society of MassachusettsDecember Meeting, 1947Half a century after the appearance of a “phantom ship” in the sky at New Haven, C...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost ship of New Haven</span><span class="citation-popover-snippet">Ghost ship of New Haven</span></span></span>
+Months later, after no word arrived from England, New Haven residents reportedly witnessed an extraordinary apparition over the harbour. The most influential surviving version comes from a letter attributed to Reverend James Pierpont and later reproduced by Cotton Mather in *Magnalia Christi Americana*. In that account, witnesses saw a ship in the air shortly after a violent thunderstorm. The vessel appeared to sail against the wind, remained visible for roughly half an hour, then seemed to break apart and vanish into cloud or smoke.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colonialsociety.org">[Colonial Society of Massachusetts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colonialsociety.org</span><span class="citation-popover-snippet">Colonial Society of MassachusettsDecember Meeting, 1947Half a century after the appearance of a “phantom ship” in the sky at New Haven, C...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost ship of New Haven</span><span class="citation-popover-snippet">Ghost ship of New Haven</span></span></span>
 
-Another important source is the journal of Massachusetts Bay governor John Winthrop, who recorded hearing reports of a ship-like apparition over New Haven harbour in June 1648. Winthrop’s entry is important because it is closer in time to the event than Mather’s later retelling, though it still appears to rely on hearsay rather than direct observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/winthropsjournal00wint/winthropsjournal00wint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Browne, daughter of a well-to-do tradesman, through whom presumably the possessions of the Winthrops...Read more...</span></span></span>
+Another important source is the journal of Massachusetts Bay governor John Winthrop, who recorded hearing reports of a ship-like apparition over New Haven harbour in June 1648. Winthrop’s entry is important because it is closer in time to the event than Mather’s later retelling, though it still appears to rely on hearsay rather than direct observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/winthropsjournal00wint/winthropsjournal00wint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Browne, daughter of a well-to-do tradesman, through whom presumably the possessions of the Winthrops...Read more...</span></span></span>
 
 Several details recur across the different versions:
 
@@ -280,9 +280,9 @@ These details gave the story emotional power, but they do not amount to strong p
 
 ## Why the apparition fitted New Haven’s crisis
 
-The story makes more sense when viewed against the colony’s anxieties. New Haven in the 1640s was economically fragile and deeply religious. The missing vessel represented far more than a lost ship. It carried investors’ fortunes, personal belongings, manuscripts and the colony’s hopes for commercial independence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span>
+The story makes more sense when viewed against the colony’s anxieties. New Haven in the 1640s was economically fragile and deeply religious. The missing vessel represented far more than a lost ship. It carried investors’ fortunes, personal belongings, manuscripts and the colony’s hopes for commercial independence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span>
 
-Puritan New Englanders also tended to interpret unusual natural events as messages from God. Storms, comets and strange atmospheric effects were often treated as signs of judgement or providence. In that context, a mysterious image in the sky after months of uncertainty could easily be understood as a divine revelation about the ship’s fate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span>
+Puritan New Englanders also tended to interpret unusual natural events as messages from God. Storms, comets and strange atmospheric effects were often treated as signs of judgement or providence. In that context, a mysterious image in the sky after months of uncertainty could easily be understood as a divine revelation about the ship’s fate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span>
 
 The timing mattered as much as the visual appearance itself. The community had already spent months waiting for news and praying for answers. Once the ship failed to arrive in England, rumours and fears would have spread naturally through the colony. A dramatic atmospheric effect appearing over the harbour after a storm would therefore have carried enormous symbolic weight even if the underlying visual stimulus was ordinary.
 
@@ -292,7 +292,7 @@ This is one reason historians usually treat the Ghost Ship as folklore rooted in
 
 The biggest weakness in the case is the gap between the event and the surviving descriptions.
 
-No detailed contemporary investigation survives. The best-known narrative comes from Cotton Mather’s publication roughly half a century later, based on testimony collected from elderly witnesses through Reverend James Pierpont. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colonialsociety.org">[Colonial Society of Massachusetts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colonialsociety.org</span><span class="citation-popover-snippet">Colonial Society of MassachusettsDecember Meeting, 1947Half a century after the appearance of a “phantom ship” in the sky at New Haven, C...</span></span></span> That does not automatically make the story false, but it does raise major reliability problems:
+No detailed contemporary investigation survives. The best-known narrative comes from Cotton Mather’s publication roughly half a century later, based on testimony collected from elderly witnesses through Reverend James Pierpont.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colonialsociety.org">[Colonial Society of Massachusetts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colonialsociety.org</span><span class="citation-popover-snippet">Colonial Society of MassachusettsDecember Meeting, 1947Half a century after the appearance of a “phantom ship” in the sky at New Haven, C...</span></span></span> That does not automatically make the story false, but it does raise major reliability problems:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +303,7 @@ No detailed contemporary investigation survives. The best-known narrative comes 
 
 </div>
 
-Even the date varies between accounts. Some retellings place the apparition six months after the ship vanished, while others say roughly eighteen months later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span> Such inconsistencies are common in folklore traditions but problematic for strict historical reconstruction.
+Even the date varies between accounts. Some retellings place the apparition six months after the ship vanished, while others say roughly eighteen months later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</span></span></span> Such inconsistencies are common in folklore traditions but problematic for strict historical reconstruction.
 
 The number of witnesses is also unclear. Later versions often describe large crowds observing the ship together, yet the earliest records do not provide verifiable witness lists or independent testimonies. The lack of corroborating records from neighbouring colonies weakens the case for an extraordinary event visible over a wide area.
 
@@ -316,7 +316,7 @@ Modern explanations usually fall into four broad categories.
 
 The most plausible natural explanation is some form of optical mirage or unusual atmospheric reflection. Superior mirages can distort distant ships, especially over water during unstable weather conditions. Under certain conditions, vessels beyond the horizon may appear elevated, elongated or floating in the sky.
 
-Some historians and sceptics have suggested the New Haven witnesses may have seen a real ship refracted through unusual atmospheric conditions after the thunderstorm. A Dutch vessel travelling along the coast has sometimes been proposed as a possible source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/New_Haven_Colony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">New Haven Colony</span><span class="citation-popover-snippet">New Haven Colony</span></span></span>
+Some historians and sceptics have suggested the New Haven witnesses may have seen a real ship refracted through unusual atmospheric conditions after the thunderstorm. A Dutch vessel travelling along the coast has sometimes been proposed as a possible source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/New_Haven_Colony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">New Haven Colony</span><span class="citation-popover-snippet">New Haven Colony</span></span></span>
 
 This explanation fits several reported details:
 
@@ -341,7 +341,7 @@ This possibility is strengthened by the highly symbolic nature of the account. T
 
 ### Folklore growth over time
 
-The Ghost Ship story almost certainly became more elaborate as it circulated. By the nineteenth century, the tale had entered American literary culture through Henry Wadsworth Longfellow’s poem “The Phantom Ship” and various local histories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span> Artistic depictions and repeated retellings helped solidify details that may never have existed in the original observations.
+The Ghost Ship story almost certainly became more elaborate as it circulated. By the nineteenth century, the tale had entered American literary culture through Henry Wadsworth Longfellow’s poem “The Phantom Ship” and various local histories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span> Artistic depictions and repeated retellings helped solidify details that may never have existed in the original observations.
 
 This process is important when considering later paranormal interpretations. Many modern versions blend together elements from different centuries without distinguishing between seventeenth-century records and later embellishment.
 
@@ -349,7 +349,7 @@ This process is important when considering later paranormal interpretations. Man
 
 ### Paranormal or UFO interpretations
 
-A minority of writers have treated the case as an early UFO report or supernatural manifestation. These interpretations generally rely on the object’s unusual movement and dramatic disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Winthrop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Winthrop</span><span class="citation-popover-snippet">John WinthropJohn Winthrop (January 12, 1588 [a] – March 26, 1649) was an English Puritan lawyer and a leading figure in the founding...</span><span class="citation-popover-meta">Published: January 12, 1588</span></span></span>
+A minority of writers have treated the case as an early UFO report or supernatural manifestation. These interpretations generally rely on the object’s unusual movement and dramatic disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Winthrop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Winthrop</span><span class="citation-popover-snippet">John WinthropJohn Winthrop (January 12, 1588 [a] – March 26, 1649) was an English Puritan lawyer and a leading figure in the founding...</span><span class="citation-popover-meta">Published: January 12, 1588</span></span></span>
 
 The problem with this approach is that nothing in the original descriptions resembles a modern technological craft. Witnesses described exactly what their culture expected to see: a sailing ship. There are no reports of metallic structures, structured lights, mechanical sounds or non-human entities. The story fits colonial religious folklore far better than it fits later UFO patterns.
 
@@ -358,199 +358,199 @@ The problem with this approach is that nothing in the original descriptions rese
 
 The New Haven Ghost Ship remains important because it reveals how ambiguous aerial experiences become culturally meaningful. In Connecticut’s later UFO history, witnesses would interpret uncertain lights and objects through the language of aviation, military secrecy or extraterrestrial speculation. In 1648, the same basic human process produced a phantom ship instead.
 
-The case also demonstrates how local legends acquire authority through repetition. Cotton Mather’s inclusion of the story in a major religious history helped preserve it. Later poems, paintings and public art transformed it into a foundational New Haven legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publicartarchive.org/art/Phantom-Ship/703771f5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicartarchive.org">[Public Art Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicartarchive.org</span><span class="citation-popover-snippet">Public Art ArchivePhantom Ship in New Haven, CTAccording to New Haven legend, those on shore could identify their friends on board, and w...</span></span></span>
+The case also demonstrates how local legends acquire authority through repetition. Cotton Mather’s inclusion of the story in a major religious history helped preserve it. Later poems, paintings and public art transformed it into a foundational New Haven legend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynutmeg.com">[Daily Nutmeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynutmeg.com</span><span class="citation-popover-title">Daily Nutmeg Ship Sailed</span><span class="citation-popover-snippet">Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</span><span class="citation-popover-meta">Published: October 10, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://publicartarchive.org/art/Phantom-Ship/703771f5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicartarchive.org">[Public Art Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicartarchive.org</span><span class="citation-popover-snippet">Public Art ArchivePhantom Ship in New Haven, CTAccording to New Haven legend, those on shore could identify their friends on board, and w...</span></span></span>
 
 As evidence for an anomalous craft, the case is weak. The accounts are late, second-hand and culturally shaped. As evidence for how people construct meaning around strange sky events, however, the Ghost Ship is one of Connecticut’s most revealing early examples.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Was the New Haven Ghost Ship?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Was the New Haven Ghost Ship?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Examines historical sky apparitions similar to the Ghost Ship tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines historical sky apparitions similar to the Ghost Ship tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Places the Ghost Ship story among famous unexplained traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Ghost Ship story among famous unexplained traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how cultural beliefs shape extraordinary sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how cultural beliefs shape extraordinary sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Encyclopedia of Unsolved Mysteries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Weird Death Ship Poster - Vintage style Sci-Fi Horror Comic Cover Art"><img src="https://i.ebayimg.com/images/g/4XIAAeSw1rpqHvIp/s-l225.jpg" alt="Listing image for Ghostly Weird Death Ship Poster - Vintage style Sci-Fi Horror Comic Cover Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">Ghostly Weird Death Ship Poster - Vintage style Sci-Fi Horror Comic Cover Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Weird Death Ship Poster - Vintage style Sci-Fi Horror Comic Cover Art"><img src="https://i.ebayimg.com/images/g/4XIAAeSw1rpqHvIp/s-l225.jpg" alt="Listing image for Ghostly Weird Death Ship Poster - Vintage style Sci-Fi Horror Comic Cover Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">Ghostly Weird Death Ship Poster - Vintage style Sci-Fi Horror Comic Cover Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Ship Movie Poster Print A5 A4 A3 A2 A1 Maxi Wall Art - 1926"><img src="https://i.ebayimg.com/images/g/~dkAAOSw25NiaYt4/s-l225.jpg" alt="Listing image for Ghost Ship Movie Poster Print A5 A4 A3 A2 A1 Maxi Wall Art - 1926" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost Ship Movie Poster Print A5 A4 A3 A2 A1 Maxi Wall Art - 1926</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Ship Movie Poster Print A5 A4 A3 A2 A1 Maxi Wall Art - 1926"><img src="https://i.ebayimg.com/images/g/~dkAAOSw25NiaYt4/s-l225.jpg" alt="Listing image for Ghost Ship Movie Poster Print A5 A4 A3 A2 A1 Maxi Wall Art - 1926" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost Ship Movie Poster Print A5 A4 A3 A2 A1 Maxi Wall Art - 1926</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Ship 2002 japan Chirashi movie flyer mini poster B5"><img src="https://i.ebayimg.com/images/g/sCQAAOSwdNFkwVDD/s-l225.jpg" alt="Listing image for Ghost Ship 2002 japan Chirashi movie flyer mini poster B5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost Ship 2002 japan Chirashi movie flyer mini poster B5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Ship 2002 japan Chirashi movie flyer mini poster B5"><img src="https://i.ebayimg.com/images/g/sCQAAOSwdNFkwVDD/s-l225.jpg" alt="Listing image for Ghost Ship 2002 japan Chirashi movie flyer mini poster B5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost Ship 2002 japan Chirashi movie flyer mini poster B5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1943 THE GHOST SHIP MOVIE POSTER A4 PRINT"><img src="https://i.ebayimg.com/images/g/Qq4AAOSwwmhmIYxD/s-l225.jpg" alt="Listing image for 1943 THE GHOST SHIP MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">1943 THE GHOST SHIP MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1943 THE GHOST SHIP MOVIE POSTER A4 PRINT"><img src="https://i.ebayimg.com/images/g/Qq4AAOSwwmhmIYxD/s-l225.jpg" alt="Listing image for 1943 THE GHOST SHIP MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">1943 THE GHOST SHIP MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost ship poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost ship poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+ship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-the-new-haven-ghost-ship-ghost-ship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost ship poster" data-ebay-reference="what-was-the-new-haven-ghost-ship-ghost-ship-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ As evidence for an anomalous craft, the case is weak. The accounts are late, sec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ As evidence for an anomalous craft, the case is weak. The accounts are late, sec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ As evidence for an anomalous craft, the case is weak. The accounts are late, sec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ As evidence for an anomalous craft, the case is weak. The accounts are late, sec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ As evidence for an anomalous craft, the case is weak. The accounts are late, sec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,105 +756,105 @@ As evidence for an anomalous craft, the case is weak. The accounts are late, sec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ghost ship of New Haven  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/winthropsjournal00wint/winthropsjournal00wint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/winthropsjournal00wint/winthropsjournal00wint.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Browne, daughter of a well-to-do tradesman, through whom presumably the possessions of the Winthrops...Read more...</p></details>
+   Link:<a href="https://archive.org/download/winthropsjournal00wint/winthropsjournal00wint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/winthropsjournal00wint/winthropsjournal00wint.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Browne, daughter of a well-to-do tradesman, through whom presumably the possessions of the Winthrops...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: New Haven Colony  
-   Link: <a href="https://en.wikipedia.org/wiki/New_Haven_Colony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_Haven_Colony</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/New_Haven_Colony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_Haven_Colony</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: John Winthrop  
-   Link: <a href="https://en.wikipedia.org/wiki/John_Winthrop" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Winthrop</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John WinthropJohn Winthrop (January 12, 1588 [a] – March 26, 1649) was an English Puritan lawyer and a leading figure in the founding...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/John_Winthrop" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Winthrop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John WinthropJohn Winthrop (January 12, 1588 [a] – March 26, 1649) was an English Puritan lawyer and a leading figure in the founding...</p></details>
    Published: January 12, 1588  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dailynutmeg.com  
    Title: Daily Nutmeg Ship Sailed  
-   Link: <a href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow">https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</p></details>
+   Link:<a href="https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed" target="_blank" rel="noopener noreferrer nofollow">https://dailynutmeg.com/blogs/blog/new-haven-colony-phantom-ship-sailed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily NutmegShip SailedOctober 10, 2023 — 10 Oct 2023 — New Haven&#x27;s most famous ghost story features an apparition that brought closure...</p></details>
    Published: October 10, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: connecticuthistory.org  
-   Link: <a href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</p></details>
+   Link:<a href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in MysteryTales of a spectral ship seen sailing in the skies above New...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: colonialsociety.org  
-   Link: <a href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow">https://www.colonialsociety.org/node/1016</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colonial Society of MassachusettsDecember Meeting, 1947Half a century after the appearance of a “phantom ship” in the sky at New Haven, C...</p></details>
+   Link:<a href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow">https://www.colonialsociety.org/node/1016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colonial Society of MassachusettsDecember Meeting, 1947Half a century after the appearance of a “phantom ship” in the sky at New Haven, C...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: publicartarchive.org  
-   Link: <a href="https://publicartarchive.org/art/Phantom-Ship/703771f5" target="_blank" rel="noopener noreferrer nofollow">https://publicartarchive.org/art/Phantom-Ship/703771f5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Art ArchivePhantom Ship in New Haven, CTAccording to New Haven legend, those on shore could identify their friends on board, and w...</p></details>
+   Link:<a href="https://publicartarchive.org/art/Phantom-Ship/703771f5" target="_blank" rel="noopener noreferrer nofollow">https://publicartarchive.org/art/Phantom-Ship/703771f5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Art ArchivePhantom Ship in New Haven, CTAccording to New Haven legend, those on shore could identify their friends on board, and w...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: teachersinstitute.yale.edu  
-   Link: <a href="https://teachersinstitute.yale.edu/curriculum/units/2003/2/03.02.04/3" target="_blank" rel="noopener noreferrer nofollow">https://teachersinstitute.yale.edu/curriculum/units/2003/2/03.02.04/3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Haven Teachers Institute03.02.04: History of Early New Haven: A Connection to Our PastLocal myth, and a ballad by Henry Wadswort...</p></details>
+   Link:<a href="https://teachersinstitute.yale.edu/curriculum/units/2003/2/03.02.04/3" target="_blank" rel="noopener noreferrer nofollow">https://teachersinstitute.yale.edu/curriculum/units/2003/2/03.02.04/3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Haven Teachers Institute03.02.04: History of Early New Haven: A Connection to Our PastLocal myth, and a ballad by Henry Wadswort...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/200654943447427/posts/2616639965182234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/200654943447427/posts/2616639965182234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Haven&#x27;s Ghost Ship and its Historical SignificanceNew Haven&#x27;s Ghost Ship, I often wondered if this story had been the catalyst for Jo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/200654943447427/posts/2616639965182234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/200654943447427/posts/2616639965182234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Haven&#x27;s Ghost Ship and its Historical SignificanceNew Haven&#x27;s Ghost Ship, I often wondered if this story had been the catalyst for Jo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: esoterx.com  
-   Link: <a href="https://esoterx.com/2015/03/05/the-great-ship-of-new-haven-phantoms-puritan-hippies-and-the-reformation/" target="_blank" rel="noopener noreferrer nofollow">https://esoterx.com/2015/03/05/the-great-ship-of-new-haven-phantoms-puritan-hippies-and-the-reformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Ship of New Haven: Phantoms, Puritan Hippies...5 Mar 2015 — James Pierpont, the pastor of that place, in a letter writt...</p></details>
+   Link:<a href="https://esoterx.com/2015/03/05/the-great-ship-of-new-haven-phantoms-puritan-hippies-and-the-reformation/" target="_blank" rel="noopener noreferrer nofollow">https://esoterx.com/2015/03/05/the-great-ship-of-new-haven-phantoms-puritan-hippies-and-the-reformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Ship of New Haven: Phantoms, Puritan Hippies...5 Mar 2015 — James Pierpont, the pastor of that place, in a letter writt...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cga.ct.gov  
    Title: History of the Colony of New Haven  
-   Link: <a href="https://www.cga.ct.gov/hco/books/History_of_the_Colony_of_New_Haven.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/hco/books/History_of_the_Colony_of_New_Haven.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the colony of New HavenNew Haven Phantom Ship. 57. Treaty for Galloway, in Ireland. 58. Account... 1648, John, in 1650, Robert, in...</p></details>
+   Link:<a href="https://www.cga.ct.gov/hco/books/History_of_the_Colony_of_New_Haven.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/hco/books/History_of_the_Colony_of_New_Haven.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the colony of New HavenNew Haven Phantom Ship. 57. Treaty for Galloway, in Ireland. 58. Account... 1648, John, in 1650, Robert, in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Unraveling the Mystique of Fata Morgana Mirage of Legends and Wonders  
-   Link: <a href="https://www.youtube.com/watch?v=qjHMeUSWKZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qjHMeUSWKZQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video 50 Unbelievable Connecticut Facts That Are Completely True explores historical anomalies and local legends across the state, fe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qjHMeUSWKZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qjHMeUSWKZQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video 50 Unbelievable Connecticut Facts That Are Completely True explores historical anomalies and local legends across the state, fe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wikitree.com  
    Title: Space:The Great Shippe of New Haven Colony  
-   Link: <a href="https://www.wikitree.com/wiki/Space%3AThe_Great_Shippe_of_New_Haven_Colony" target="_blank" rel="noopener noreferrer nofollow">https://www.wikitree.com/wiki/Space%3AThe_Great_Shippe_of_New_Haven_Colony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Shippe of New Haven Colony10 Sept 2021 — The History of New England From 1630 to 1649 by John Winthrop... (1/1) The Phantom Sh...</p></details>
+   Link:<a href="https://www.wikitree.com/wiki/Space%3AThe_Great_Shippe_of_New_Haven_Colony" target="_blank" rel="noopener noreferrer nofollow">https://www.wikitree.com/wiki/Space%3AThe_Great_Shippe_of_New_Haven_Colony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Shippe of New Haven Colony10 Sept 2021 — The History of New England From 1630 to 1649 by John Winthrop... (1/1) The Phantom Sh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: upload.wikimedia.org  
    Title: Early New Haven (IA earlynewhaven00wood)  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/36/Early_New_Haven_%28IA_earlynewhaven00wood%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/36/Early_New_Haven_%28IA_earlynewhaven00wood%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New HavenIn Cotton Mather&#x27;s Magnalia the story is written in a letter by Rev. Mr. Pierpont, the second minister of the Center. Church to...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/36/Early_New_Haven_%28IA_earlynewhaven00wood%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/36/Early_New_Haven_%28IA_earlynewhaven00wood%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New HavenIn Cotton Mather&#x27;s Magnalia the story is written in a letter by Rev. Mr. Pierpont, the second minister of the Center. Church to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: #New England Legends Podcast 43  
-   Link: <a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-43-new-havens-ghost-ship-in-june-of-1647-dozens-of-new/10156022833314748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-43-new-havens-ghost-ship-in-june-of-1647-dozens-of-new/10156022833314748/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#NewEnglandLegends Podcast 43 - New Haven&#x27;s Ghost...In June of 1647 dozens of New Haven, Connecticut, witnesses saw a ghost ship they re...</p></details>
+   Link:<a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-43-new-havens-ghost-ship-in-june-of-1647-dozens-of-new/10156022833314748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-43-new-havens-ghost-ship-in-june-of-1647-dozens-of-new/10156022833314748/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#NewEnglandLegends Podcast 43 - New Haven&#x27;s Ghost...In June of 1647 dozens of New Haven, Connecticut, witnesses saw a ghost ship they re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newenglandhistoricalsociety.com  
    Title: james pierpont Archives The Rev  
-   Link: <a href="https://newenglandhistoricalsociety.com/tag/james-pierpont/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandhistoricalsociety.com/tag/james-pierpont/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Pierpont, in writing of the ship to Cotton Mather, reported that the citizens of New Haven were agitated when they received no word...</p></details>
+   Link:<a href="https://newenglandhistoricalsociety.com/tag/james-pierpont/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandhistoricalsociety.com/tag/james-pierpont/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Pierpont, in writing of the ship to Cotton Mather, reported that the citizens of New Haven were agitated when they received no word...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commonheroes3.wordpress.com  
    Title: the phantom ship of new haven  
-   Link: <a href="https://commonheroes3.wordpress.com/11th-generation/bradley-william-alice-prichard/the-phantom-ship-of-new-haven/" target="_blank" rel="noopener noreferrer nofollow">https://commonheroes3.wordpress.com/11th-generation/bradley-william-alice-prichard/the-phantom-ship-of-new-haven/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phantom Ship of New Haven - commonheroes325 Jun 2016 — (Some sources claim this occurred in 1646/47.) In addition to all of the tradeable...</p></details>
+   Link:<a href="https://commonheroes3.wordpress.com/11th-generation/bradley-william-alice-prichard/the-phantom-ship-of-new-haven/" target="_blank" rel="noopener noreferrer nofollow">https://commonheroes3.wordpress.com/11th-generation/bradley-william-alice-prichard/the-phantom-ship-of-new-haven/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phantom Ship of New Haven - commonheroes325 Jun 2016 — (Some sources claim this occurred in 1646/47.) In addition to all of the tradeable...</p></details>

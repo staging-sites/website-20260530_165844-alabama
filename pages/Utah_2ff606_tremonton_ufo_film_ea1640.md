@@ -268,50 +268,50 @@ image: /assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-overview-social.jpg
 
 ## Introduction
 
-The Tremonton UFO film is Utah’s landmark early-UFO case because it looks stronger than an ordinary sighting report but still cannot escape the central weakness of single-camera sky footage: the film shows bright moving objects, yet it does not fix their distance, size or altitude. On 2 July 1952, Navy photographer Delbert C. Newhouse filmed a group of bright objects near Tremonton, northern Utah. The footage was studied by Air Force, Navy, CIA-linked and later University of Colorado investigators. The main sceptical answer became simple but contentious: the objects were probably white gulls or other birds reflecting sunlight. That explanation is plausible, especially given the Great Salt Lake region’s gull population, but it remains disputed because Newhouse’s visual account, the early Navy analysis and the film’s apparent brightness and movement never lined up neatly into a fully proven identification. NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
+The Tremonton UFO film is Utah’s landmark early-UFO case because it looks stronger than an ordinary sighting report but still cannot escape the central weakness of single-camera sky footage: the film shows bright moving objects, yet it does not fix their distance, size or altitude. On 2 July 1952, Navy photographer Delbert C. Newhouse filmed a group of bright objects near Tremonton, northern Utah. The footage was studied by Air Force, Navy, CIA-linked and later University of Colorado investigators. The main sceptical answer became simple but contentious: the objects were probably white gulls or other birds reflecting sunlight. That explanation is plausible, especially given the Great Salt Lake region’s gull population, but it remains disputed because Newhouse’s visual account, the early Navy analysis and the film’s apparent brightness and movement never lined up neatly into a fully proven identification. NICAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
 
 <img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-overview.webp" | relative_url }}" alt="Overview image for Tremonton Film" loading="eager" decoding="sync" fetchpriority="high">
 ## What Newhouse filmed near Tremonton
 
-Newhouse was not an anonymous witness with a brief story. He was a U.S. Navy chief warrant officer and photographer travelling with his wife and children when the sighting occurred near Tremonton, reportedly about seven miles north of the town on State Highway 30. The film became known in official files as the “Utah” or Tremonton film and was treated as one of the best-known motion-picture cases of the early UFO era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">SYMPOSIUM ON UNIDENTIFIED FLYING OBJECTS</span><span class="citation-popover-snippet">SYMPOSIUM ON UNIDENTIFIED FLYING OBJECTS</span></span></span>
+Newhouse was not an anonymous witness with a brief story. He was a U.S. Navy chief warrant officer and photographer travelling with his wife and children when the sighting occurred near Tremonton, reportedly about seven miles north of the town on State Highway 30. The film became known in official files as the “Utah” or Tremonton film and was treated as one of the best-known motion-picture cases of the early UFO era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">SYMPOSIUM ON UNIDENTIFIED FLYING OBJECTS</span><span class="citation-popover-snippet">SYMPOSIUM ON UNIDENTIFIED FLYING OBJECTS</span></span></span>
 
-The basic report is that Newhouse and his wife first saw a group of bright, metallic-looking objects in the sky. Newhouse then retrieved his Bell & Howell camera and filmed the objects on colour Kodachrome film. What survived as the famous evidence is not a close-up image of structured craft, but a sequence of small bright points moving against a mostly featureless blue sky. That distinction matters. The strongest part of the case is that it was filmed by a trained photographer; the weakest part is that the film itself gives the viewer almost no landscape, cloud, horizon or known object for scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
+The basic report is that Newhouse and his wife first saw a group of bright, metallic-looking objects in the sky. Newhouse then retrieved his Bell & Howell camera and filmed the objects on colour Kodachrome film. What survived as the famous evidence is not a close-up image of structured craft, but a sequence of small bright points moving against a mostly featureless blue sky. That distinction matters. The strongest part of the case is that it was filmed by a trained photographer; the weakest part is that the film itself gives the viewer almost no landscape, cloud, horizon or known object for scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
 
 This is why the case has remained so durable in Utah UFO history. Tremonton is not remembered because the footage plainly shows alien craft. It is remembered because reasonable people could look at the same record and draw different conclusions. If the bright points were nearby birds, their movement was ordinary. If they were distant solid objects, their apparent movement could imply something more unusual. The film alone cannot decide that question.
 
 <img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-1-dark.svg" | relative_url }}" alt="Tremonton Film illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official investigators judged the footage
 
-The Tremonton film entered official UFO history during the same Cold War period in which Project Blue Book became the U.S. Air Force’s major UFO investigation programme. The Air Force later summarised Blue Book as a 1947–1969 effort that collected 12,618 reports, with 701 left “unidentified”, while also concluding that no investigated UFO was shown to be a national-security threat, an extraterrestrial vehicle, or evidence of technology beyond known science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The Tremonton film entered official UFO history during the same Cold War period in which Project Blue Book became the U.S. Air Force’s major UFO investigation programme. The Air Force later summarised Blue Book as a 1947–1969 effort that collected 12,618 reports, with 701 left “unidentified”, while also concluding that no investigated UFO was shown to be a national-security threat, an extraterrestrial vehicle, or evidence of technology beyond known science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-Tremonton mattered within that wider programme because it was film, not just testimony. The Robertson Panel, a CIA-convened scientific advisory group that met in January 1953, considered the Tremonton and Great Falls, Montana films among the notable cases placed before it. The panel report described the Tremonton material as “excellent documentary evidence” in the form of Kodachrome motion-picture film, and recorded that U.S. Navy Photo Interpretation Laboratory representatives had spent about 1,000 man-hours preparing frame plots of motion and light-intensity variation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Tremonton mattered within that wider programme because it was film, not just testimony. The Robertson Panel, a CIA-convened scientific advisory group that met in January 1953, considered the Tremonton and Great Falls, Montana films among the notable cases placed before it. The panel report described the Tremonton material as “excellent documentary evidence” in the form of Kodachrome motion-picture film, and recorded that U.S. Navy Photo Interpretation Laboratory representatives had spent about 1,000 man-hours preparing frame plots of motion and light-intensity variation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Navy analysts were impressed enough to argue that the objects were not birds, balloons or aircraft. Their reasoning included the claim that the lights did not behave like ordinary reflections as they passed through a wide arc, and that they appeared self-luminous rather than merely reflective. The Robertson Panel accepted that the Navy team had worked hard, but it rejected the Navy’s conclusion. In the panel’s view, a convex object could reflect sunlight without obvious “blinking”, and the apparent size, brightness and motion were strongly suggestive of birds after the panel viewed a film of seagulls reflecting bright sunlight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Navy analysts were impressed enough to argue that the objects were not birds, balloons or aircraft. Their reasoning included the claim that the lights did not behave like ordinary reflections as they passed through a wide arc, and that they appeared self-luminous rather than merely reflective. The Robertson Panel accepted that the Navy team had worked hard, but it rejected the Navy’s conclusion. In the panel’s view, a convex object could reflect sunlight without obvious “blinking”, and the apparent size, brightness and motion were strongly suggestive of birds after the panel viewed a film of seagulls reflecting bright sunlight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The later Condon Report, formally the University of Colorado’s Scientific Study of Unidentified Flying Objects, revisited the case in the late 1960s. Its Case 49 discussion is one of the most important public analyses of the Tremonton film because it neither treats the bird answer as laughably obvious nor accepts the more extraordinary reading. It states that the images were small and relatively sharp, so the case could not be dismissed merely as poor photography. But it also stresses the central measurement problem: once distance is unknown, speed estimates become conditional guesses rather than hard evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
+The later Condon Report, formally the University of Colorado’s Scientific Study of Unidentified Flying Objects, revisited the case in the late 1960s. Its Case 49 discussion is one of the most important public analyses of the Tremonton film because it neither treats the bird answer as laughably obvious nor accepts the more extraordinary reading. It states that the images were small and relatively sharp, so the case could not be dismissed merely as poor photography. But it also stresses the central measurement problem: once distance is unknown, speed estimates become conditional guesses rather than hard evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kOM-F21FuHc" title="The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer">The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie</a></p><p class="youtube-embed-meta">Channel: Stash - Free Documentaries &middot; Views: 55.7K &middot; Uploaded: April 2024 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kOM-F21FuHc">Open on YouTube</a></p></div></div></div>
 
 ## Why birds became the leading explanation
 
-The bird explanation rests on several connected points rather than on one decisive frame. First, the Tremonton objects were bright, small and unresolved on film, which is exactly the kind of image that can be produced when a distant white bird catches sunlight. Second, the objects’ apparent intermingling and erratic motion can resemble birds circling, soaring or turning in a loose group. Third, gulls were not an exotic suggestion for northern Utah. The Great Salt Lake region is strongly associated with California Gulls, which breed around inland western lakes and have long been part of Utah’s natural and cultural history. NCAS PDF Directory <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.utah.gov/blog/california-gull/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.utah.gov">[Utah Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.utah.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The bird explanation rests on several connected points rather than on one decisive frame. First, the Tremonton objects were bright, small and unresolved on film, which is exactly the kind of image that can be produced when a distant white bird catches sunlight. Second, the objects’ apparent intermingling and erratic motion can resemble birds circling, soaring or turning in a loose group. Third, gulls were not an exotic suggestion for northern Utah. The Great Salt Lake region is strongly associated with California Gulls, which breed around inland western lakes and have long been part of Utah’s natural and cultural history. NCAS PDF Directory<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.utah.gov/blog/california-gull/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.utah.gov">[Utah Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.utah.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Condon analysis found the bird hypothesis attractive because it made the scale problem manageable. Robert M. L. Baker’s microscopic measurements gave angular diameters for the images, and the Condon discussion notes that if one assumes a bird-sized reflecting surface, the resulting distances could fall in the range of hundreds to a little over a thousand feet. At that kind of distance, ordinary bird speeds become far more plausible than the high velocities sometimes attached to the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
+The Condon analysis found the bird hypothesis attractive because it made the scale problem manageable. Robert M. L. Baker’s microscopic measurements gave angular diameters for the images, and the Condon discussion notes that if one assumes a bird-sized reflecting surface, the resulting distances could fall in the range of hundreds to a little over a thousand feet. At that kind of distance, ordinary bird speeds become far more plausible than the high velocities sometimes attached to the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
 
-William K. Hartmann, the University of Arizona astronomer who analysed the case for the Condon study, later strengthened his own confidence in the bird explanation after driving through Utah and watching bird activity. He reported seeing flocks of white or light-coloured birds in Utah that reminded him of the Newhouse footage: the birds milled about, drifted as a group, sometimes moved in pairs and sometimes faded or brightened as individuals turned. This did not prove that Newhouse filmed gulls on 2 July 1952, but it showed that a natural Utah sky scene could look surprisingly similar to the famous film under the right conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">The Newhouse Film, Tremonton Utah</span></span></span>
+William K. Hartmann, the University of Arizona astronomer who analysed the case for the Condon study, later strengthened his own confidence in the bird explanation after driving through Utah and watching bird activity. He reported seeing flocks of white or light-coloured birds in Utah that reminded him of the Newhouse footage: the birds milled about, drifted as a group, sometimes moved in pairs and sometimes faded or brightened as individuals turned. This did not prove that Newhouse filmed gulls on 2 July 1952, but it showed that a natural Utah sky scene could look surprisingly similar to the famous film under the right conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">The Newhouse Film, Tremonton Utah</span></span></span>
 
-The local ecology gives that interpretation extra weight. California Gulls are common inland western birds, not just coastal birds, and Cornell’s bird guide notes that they breed around inland lakes and rivers and forage in pastures, scrublands and other open areas. Utah Historical Society also notes that California Gulls are deeply tied to Utah’s public memory and were formally designated the state bird in 1955. Those facts do not identify the Tremonton objects by themselves, but they make “gulls near Tremonton” a geographically reasonable hypothesis rather than a remote debunking idea imported from elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allaboutbirds.org/guide/California_Gull/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allaboutbirds.org">[All About Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allaboutbirds.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The local ecology gives that interpretation extra weight. California Gulls are common inland western birds, not just coastal birds, and Cornell’s bird guide notes that they breed around inland lakes and rivers and forage in pastures, scrublands and other open areas. Utah Historical Society also notes that California Gulls are deeply tied to Utah’s public memory and were formally designated the state bird in 1955. Those facts do not identify the Tremonton objects by themselves, but they make “gulls near Tremonton” a geographically reasonable hypothesis rather than a remote debunking idea imported from elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allaboutbirds.org/guide/California_Gull/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allaboutbirds.org">[All About Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allaboutbirds.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-2-dark.svg" | relative_url }}" alt="Tremonton Film illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the bird explanation remains disputed
 
-The bird explanation is plausible, but the dispute has survived because it was never demonstrated with the original event conditions. The Robertson Panel itself said that further data would be needed for positive identification, including photographing balloons near the site under similar conditions, checking bird-flight and reflection characteristics with ornithologists, and calculating apparent forces from the film tracks. In other words, even the panel that favoured mundane explanations recognised that the case had not been closed by a simple glance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The bird explanation is plausible, but the dispute has survived because it was never demonstrated with the original event conditions. The Robertson Panel itself said that further data would be needed for positive identification, including photographing balloons near the site under similar conditions, checking bird-flight and reflection characteristics with ornithologists, and calculating apparent forces from the film tracks. In other words, even the panel that favoured mundane explanations recognised that the case had not been closed by a simple glance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The strongest objection from UFO-oriented writers and some earlier analysts is that Newhouse’s visual description was more definite than the film. He reportedly described objects that looked like flat, bright, disc-like forms before he began filming. That testimony matters because it came from someone with photographic and aviation experience, but it also creates a familiar evidential tension: the most dramatic part of the sighting was not captured clearly enough on film to be independently checked. Once the camera footage begins, the objects are small bright images rather than recognisable discs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/520702tremonton_CondonRpt_Case49.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Condon Report</span><span class="citation-popover-snippet">Condon Report</span></span></span>
+The strongest objection from UFO-oriented writers and some earlier analysts is that Newhouse’s visual description was more definite than the film. He reportedly described objects that looked like flat, bright, disc-like forms before he began filming. That testimony matters because it came from someone with photographic and aviation experience, but it also creates a familiar evidential tension: the most dramatic part of the sighting was not captured clearly enough on film to be independently checked. Once the camera footage begins, the objects are small bright images rather than recognisable discs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/520702tremonton_CondonRpt_Case49.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Condon Report</span><span class="citation-popover-snippet">Condon Report</span></span></span>
 
-A second dispute concerns the early Navy analysis. The Navy Photo Interpretation Laboratory reportedly concluded that the objects were not birds, balloons or aircraft, and its analysts invested a very large amount of time in frame-by-frame work. But the Robertson Panel criticised key assumptions behind that work, including the treatment of reflected light, the use of duplicate rather than original film for light-intensity analysis, the lack of calibration data for Kodachrome under the same camera settings, and the failure to remove hand jitter from some motion plots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A second dispute concerns the early Navy analysis. The Navy Photo Interpretation Laboratory reportedly concluded that the objects were not birds, balloons or aircraft, and its analysts invested a very large amount of time in frame-by-frame work. But the Robertson Panel criticised key assumptions behind that work, including the treatment of reflected light, the use of duplicate rather than original film for light-intensity analysis, the lack of calibration data for Kodachrome under the same camera settings, and the failure to remove hand jitter from some motion plots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A third dispute concerns how “birds” became the public explanation. The Condon Report records that in February 1953, after the Robertson Panel meetings, Project Blue Book correspondence considered wording that would attribute the images to reflective surfaces such as seagulls, while also acknowledging that many experts believed this but the Air Force could not prove it. That phrasing is important: it is not the same as saying the case was conclusively solved at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
+A third dispute concerns how “birds” became the public explanation. The Condon Report records that in February 1953, after the Robertson Panel meetings, Project Blue Book correspondence considered wording that would attribute the images to reflective surfaces such as seagulls, while also acknowledging that many experts believed this but the Air Force could not prove it. That phrasing is important: it is not the same as saying the case was conclusively solved at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
 
 The result is a case that sits between weak mystery and hard identification. It is not strong evidence for extraordinary craft because the decisive measurements are missing. Yet it is also not a trivial case, because trained analysts argued over it, official bodies treated it seriously, and the best mundane explanation remains probabilistic rather than proven from a recovered bird, a second camera angle, radar data or a controlled re-creation.
 
@@ -319,212 +319,212 @@ The result is a case that sits between weak mystery and hard identification. It 
 
 ## What the film teaches about UFO evidence
 
-Tremonton is useful because it shows how a UFO case can be both historically important and evidentially limited. The film looks like better evidence than an ordinary anecdote, and in some ways it is. It fixes an event on motion-picture film, allows frame-by-frame analysis and preserves movement that later investigators can inspect. But it also shows the limits of film when the camera records bright objects in an empty sky with no reliable distance reference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
+Tremonton is useful because it shows how a UFO case can be both historically important and evidentially limited. The film looks like better evidence than an ordinary anecdote, and in some ways it is. It fixes an event on motion-picture film, allows frame-by-frame analysis and preserves movement that later investigators can inspect. But it also shows the limits of film when the camera records bright objects in an empty sky with no reliable distance reference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
 
-The key lesson is that apparent speed is not the same as measured speed. If an object is assumed to be miles away, its movement across the frame can imply very high velocity. If it is much closer, the same angular movement can be compatible with birds. The Condon Report explicitly criticised misunderstandings around earlier velocity calculations, noting that some figures depended on assumed distance rather than measured distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
+The key lesson is that apparent speed is not the same as measured speed. If an object is assumed to be miles away, its movement across the frame can imply very high velocity. If it is much closer, the same angular movement can be compatible with birds. The Condon Report explicitly criticised misunderstandings around earlier velocity calculations, noting that some figures depended on assumed distance rather than measured distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie Film...</span></span></span>
 
 The case also illustrates why witness credibility cannot settle an identification by itself. Newhouse’s background made the report worth taking seriously, and official investigators clearly did take it seriously. But a credible observer can still misjudge distance, size or the nature of bright objects in a featureless sky. Conversely, a sceptical explanation can be plausible without being perfectly proved. Tremonton’s lasting value is that it makes both truths visible at once.
 
 <img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-3-dark.svg" | relative_url }}" alt="Tremonton Film illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Tremonton still matters in Utah UFO history
 
-Within Utah’s UFO record, Tremonton remains distinct from later eastern Utah stories because it is not mainly a ranch legend, a flap of scattered testimony or a modern social-media mystery. It is a specific Cold War film case tied to official analysis, Navy photographic interpretation, Project Blue Book, the Robertson Panel and the Condon Report. That paper trail gives the case a firmer historical footing than many famous UFO stories, even though the film itself is ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Within Utah’s UFO record, Tremonton remains distinct from later eastern Utah stories because it is not mainly a ranch legend, a flap of scattered testimony or a modern social-media mystery. It is a specific Cold War film case tied to official analysis, Navy photographic interpretation, Project Blue Book, the Robertson Panel and the Condon Report. That paper trail gives the case a firmer historical footing than many famous UFO stories, even though the film itself is ambiguous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most balanced reading is that the bird explanation has become the leading explanation because it fits the geography, the image scale and the observed type of motion better than an extraordinary-aircraft hypothesis. Gulls and other light-coloured birds are natural candidates in northern Utah, and later observations of Utah bird flocks gave analysts a real-world comparison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allaboutbirds.org/guide/California_Gull/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allaboutbirds.org">[All About Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allaboutbirds.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.utah.gov/blog/california-gull/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.utah.gov">[Utah Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.utah.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most balanced reading is that the bird explanation has become the leading explanation because it fits the geography, the image scale and the observed type of motion better than an extraordinary-aircraft hypothesis. Gulls and other light-coloured birds are natural candidates in northern Utah, and later observations of Utah bird flocks gave analysts a real-world comparison.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allaboutbirds.org/guide/California_Gull/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allaboutbirds.org">[All About Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allaboutbirds.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://history.utah.gov/blog/california-gull/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.utah.gov">[Utah Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.utah.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 At the same time, the case should not be oversimplified into “just birds” without qualification. The original sighting report was stronger than many UFO claims, the film received serious official attention, and some early analysts did not accept the bird answer. The fairest conclusion is that Tremonton is probably explainable as birds reflecting sunlight, but not proven beyond all doubt. Its importance lies less in proving what was in the sky and more in showing how difficult it can be to turn a striking film into a firm identification when the crucial measurements were never captured.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vbLvzgJMsIQ" title="Delbert Newhouse UFO Footage - 1952 - Tremonton Utah." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vbLvzgJMsIQ" target="_blank" rel="noopener noreferrer">Delbert Newhouse UFO Footage - 1952 - Tremonton Utah.</a></p><p class="youtube-embed-meta">Channel: parkerdonaldmusic &middot; Views: 20.7K &middot; Uploaded: September 2012 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vbLvzgJMsIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vbLvzgJMsIQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Tremonton&#x27;s Famous UFO Film Show Birds?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Tremonton&#x27;s Famous UFO Film Show Birds?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how sightings and photographic evidence should be interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how sightings and photographic evidence should be interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the era and investigative environment surrounding major early UFO cases like Tremonton.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the era and investigative environment surrounding major early UFO cases like Tremonton.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides historical context for Air Force and government reviews of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for Air Force and government reviews of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zqIrc7GvRbIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Utah UFO Display" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display">The Utah UFO Display</a>
-        </h4>
-        <p class="fr-book-author">By Frank B. Salisbury</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zqIrc7GvRbIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Utah UFO Display" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display">The Utah UFO Display</a>
+</h4>
+<p class="fr-book-author">By Frank B. Salisbury</p>
         
-        <p class="fr-book-desc">Places Tremonton within the broader history of Utah UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Tremonton within the broader history of Utah UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-tremonton-s-famous-ufo-film-show-birds-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ At the same time, the case should not be oversimplified into “just birds” wi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ At the same time, the case should not be oversimplified into “just birds” wi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ At the same time, the case should not be oversimplified into “just birds” wi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ At the same time, the case should not be oversimplified into “just birds” wi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ At the same time, the case should not be oversimplified into “just birds” wi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,134 +730,134 @@ At the same time, the case should not be oversimplified into “just birds” wi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: SYMPOSIUM ON UNIDENTIFIED FLYING OBJECTS  
-   Link: <a href="https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf</a>  
+   Link:<a href="https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.ncas.org  
    Title: PDF Directory  
-   Link: <a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 49: Tremonton, Utah - Movie Film...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 49: Tremonton, Utah - Movie Film...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: The Newhouse Film, Tremonton Utah  
-   Link: <a href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/utah1.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/utah1.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.utah.gov  
-   Link: <a href="https://history.utah.gov/blog/california-gull/" target="_blank" rel="noopener noreferrer nofollow">https://history.utah.gov/blog/california-gull/</a>  
+   Link:<a href="https://history.utah.gov/blog/california-gull/" target="_blank" rel="noopener noreferrer nofollow">https://history.utah.gov/blog/california-gull/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
    Title: Condon Report  
-   Link: <a href="https://www.nicap.org/docs/520702tremonton_CondonRpt_Case49.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/520702tremonton_CondonRpt_Case49.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/520702tremonton_CondonRpt_Case49.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/520702tremonton_CondonRpt_Case49.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/ufosymposium/baker.html</a>  
+   Link:<a href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/ufosymposium/baker.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wildlife.utah.gov  
-   Link: <a href="https://wildlife.utah.gov/waterbirdsurvey/cagu.htm" target="_blank" rel="noopener noreferrer nofollow">https://wildlife.utah.gov/waterbirdsurvey/cagu.htm</a>  
+   Link:<a href="https://wildlife.utah.gov/waterbirdsurvey/cagu.htm" target="_blank" rel="noopener noreferrer nofollow">https://wildlife.utah.gov/waterbirdsurvey/cagu.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
    Title: Tremonton, Utah / Newhouse Color Film*** Newhouse passed away  
-   Link: <a href="https://www.nicap.org/520702tremonton_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/520702tremonton_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/520702tremonton_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/520702tremonton_dir.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: collections.lib.utah.edu  
-   Link: <a href="https://collections.lib.utah.edu/details?id=1118250" target="_blank" rel="noopener noreferrer nofollow">https://collections.lib.utah.edu/details?id=1118250</a>  
+   Link:<a href="https://collections.lib.utah.edu/details?id=1118250" target="_blank" rel="noopener noreferrer nofollow">https://collections.lib.utah.edu/details?id=1118250</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: allaboutbirds.org  
-   Link: <a href="https://www.allaboutbirds.org/guide/California_Gull/overview" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/guide/California_Gull/overview</a>  
+   Link:<a href="https://www.allaboutbirds.org/guide/California_Gull/overview" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/guide/California_Gull/overview</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hswri.org  
    Title: california gulls  
-   Link: <a href="https://hswri.org/california-gulls/" target="_blank" rel="noopener noreferrer nofollow">https://hswri.org/california-gulls/</a>  
+   Link:<a href="https://hswri.org/california-gulls/" target="_blank" rel="noopener noreferrer nofollow">https://hswri.org/california-gulls/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The UFO Movie THEY Don't Want You to See | UFO Documentary | Full Movie  
-   Link: <a href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOM-F21FuHc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: SHOCKING Bird Phenomenon Caught on Camera (Season 2) | Exclusive | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOM-F21FuHc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: SHOCKING Bird Phenomenon Caught on Camera (Season 2) | Exclusive | History...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Project Blue Book 16MM film (low-ish quality) with interview  
-   Link: <a href="https://www.youtube.com/watch?v=wH4xofCFFkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wH4xofCFFkA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wH4xofCFFkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wH4xofCFFkA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/app/details/CHRG-90hhrg97818" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/CHRG-90hhrg97818</a>  
+   Link:<a href="https://www.govinfo.gov/app/details/CHRG-90hhrg97818" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/CHRG-90hhrg97818</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: UFO's Are Real | FULL MOVIE | Aliens Sci-Fi Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oM9WfDBRNcg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 16MM film (low-ish quality) with interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oM9WfDBRNcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 16MM film (low-ish quality) with interview...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/338058495/520702newhouse-1968-Baker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/338058495/520702newhouse-1968-Baker</a>  
+   Link:<a href="https://www.scribd.com/document/338058495/520702newhouse-1968-Baker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/338058495/520702newhouse-1968-Baker</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXYolzKOuTp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXYolzKOuTp/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXYolzKOuTp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXYolzKOuTp/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GreatSaltLakeStateMarina/posts/ever-been-to-great-salt-lake-state-park-and-thought-wow-so-many-seagullswell-new/760466572996432/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreatSaltLakeStateMarina/posts/ever-been-to-great-salt-lake-state-park-and-thought-wow-so-many-seagullswell-new/760466572996432/</a>  
+   Link:<a href="https://www.facebook.com/GreatSaltLakeStateMarina/posts/ever-been-to-great-salt-lake-state-park-and-thought-wow-so-many-seagullswell-new/760466572996432/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreatSaltLakeStateMarina/posts/ever-been-to-great-salt-lake-state-park-and-thought-wow-so-many-seagullswell-new/760466572996432/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>

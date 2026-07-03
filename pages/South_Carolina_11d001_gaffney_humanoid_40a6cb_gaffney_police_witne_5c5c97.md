@@ -250,30 +250,30 @@ image: /assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_poli
 
 ## Introduction
 
-The Gaffney humanoid story is remembered largely because two named police officers were attached to it. Patrolmen A. G. Huskey and Charles Hutchins gave the account an appearance of official credibility that many UFO reports lack. Yet the same case also shows the limits of relying on witness status alone. The strongest claims about the encounter were not preserved in a contemporary police report, tape recording, photograph or sworn statement. Instead, most of what later readers know comes through magazine summaries and a year-later interview conducted by UFO writer John Keel. That does not automatically make the officers unreliable, but it leaves modern readers with an awkward question: how much confidence can be placed in a dramatic story when the evidence depends heavily on memory, retelling and later reconstruction? <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+The Gaffney humanoid story is remembered largely because two named police officers were attached to it. Patrolmen A. G. Huskey and Charles Hutchins gave the account an appearance of official credibility that many UFO reports lack. Yet the same case also shows the limits of relying on witness status alone. The strongest claims about the encounter were not preserved in a contemporary police report, tape recording, photograph or sworn statement. Instead, most of what later readers know comes through magazine summaries and a year-later interview conducted by UFO writer John Keel. That does not automatically make the officers unreliable, but it leaves modern readers with an awkward question: how much confidence can be placed in a dramatic story when the evidence depends heavily on memory, retelling and later reconstruction?<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within South Carolina UFO history, Gaffney is therefore less important as proof of an extraordinary event than as an example of how police testimony can both strengthen and complicate a case. The officers' identities were known, but the surviving record remains thin.
 
 ## What Huskey and Hutchins reportedly said
 
-Most versions of the Gaffney story trace back to accounts attributed to patrolmen Huskey and Hutchins. According to later retellings, the officers were driving along West Buford Street Extension before dawn on 17 November 1966 when they saw a metallic object descending ahead of their patrol car. Hutchins later described a dark, round craft with a broad rim and no visible windows or lights. A small figure supposedly emerged, approached the officers and engaged them in conversation before returning to the object and departing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">Keel on the Gaffney Incident By JOHN A. KEEL NEW YORK (NANA</span><span class="citation-popover-snippet">Keel on the Gaffney IncidentBy JOHN A. KEEL NEW YORK (NANA) - Patrolmen Charles Hutchins and A. G. Huskey pretty solid citizens in Gaffne...</span></span></span> Several details became famous in UFO literature:
+Most versions of the Gaffney story trace back to accounts attributed to patrolmen Huskey and Hutchins. According to later retellings, the officers were driving along West Buford Street Extension before dawn on 17 November 1966 when they saw a metallic object descending ahead of their patrol car. Hutchins later described a dark, round craft with a broad rim and no visible windows or lights. A small figure supposedly emerged, approached the officers and engaged them in conversation before returning to the object and departing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">Keel on the Gaffney Incident By JOHN A. KEEL NEW YORK (NANA</span><span class="citation-popover-snippet">Keel on the Gaffney IncidentBy JOHN A. KEEL NEW YORK (NANA) - Patrolmen Charles Hutchins and A. G. Huskey pretty solid citizens in Gaffne...</span></span></span> Several details became famous in UFO literature:
 
 * The figure was said to be around four feet tall.
 * It reportedly wore a gold or metallic-looking suit.
 * It allegedly spoke fluent English.
 * The being supposedly told the officers it would return in two days.
-* The officers later claimed to have found [footprints]({{ 'footprints/' | relative_url }}) at the location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+* The officers later claimed to have found [footprints]({{ 'footprints/' | relative_url }}) at the location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
-What matters for assessing credibility is not whether these details are memorable but when they entered the record. The best-known version of the encounter appeared after Keel interviewed Hutchins roughly a year after the event and spoke with Huskey by telephone. By then the story had already circulated through UFO channels and local discussion. The surviving evidence does not allow readers to compare Keel's narrative with a detailed original police statement taken immediately after the alleged encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+What matters for assessing credibility is not whether these details are memorable but when they entered the record. The best-known version of the encounter appeared after Keel interviewed Hutchins roughly a year after the event and spoke with Huskey by telephone. By then the story had already circulated through UFO channels and local discussion. The surviving evidence does not allow readers to compare Keel's narrative with a detailed original police statement taken immediately after the alleged encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
-A further complication is that some details shifted over time. In later comments attributed to Hutchins, the often-repeated claim that the being had a green complexion was downplayed. Hutchins reportedly suggested that the officers added that feature after being mocked, and that they could not actually determine the complexion clearly. If accurate, that admission shows at least one colourful part of the legend developing after the event rather than emerging directly from observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+A further complication is that some details shifted over time. In later comments attributed to Hutchins, the often-repeated claim that the being had a green complexion was downplayed. Hutchins reportedly suggested that the officers added that feature after being mocked, and that they could not actually determine the complexion clearly. If accurate, that admission shows at least one colourful part of the legend developing after the event rather than emerging directly from observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZv3XWa0fLc" title="The Gaffney UFO Incident, The Night Police Talked To A Real Alien, as Reported By John Keel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZv3XWa0fLc" target="_blank" rel="noopener noreferrer">The Gaffney UFO Incident, The Night Police Talked To A Real Alien, as Reported By John Keel</a></p><p class="youtube-embed-meta">Channel: Tattooed Biker&#x27;s Unexplained &middot; Views: 834 &middot; Uploaded: August 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZv3XWa0fLc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZv3XWa0fLc">Open on YouTube</a></p></div></div></div>
 
 ## Why police status helps but does not verify the claim
 
-Police officers are often treated as unusually strong UFO witnesses because their work involves observation, reporting and public accountability. In the Gaffney case, the fact that the witnesses were on patrol rather than attending a UFO meeting or seeking publicity made the story more persuasive to many readers. The officers also had reputational reasons not to invite ridicule from neighbours, colleagues or supervisors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+Police officers are often treated as unusually strong UFO witnesses because their work involves observation, reporting and public accountability. In the Gaffney case, the fact that the witnesses were on patrol rather than attending a UFO meeting or seeking publicity made the story more persuasive to many readers. The officers also had reputational reasons not to invite ridicule from neighbours, colleagues or supervisors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 However, witness credibility and event credibility are not the same thing.
 
@@ -285,7 +285,7 @@ Several limits are especially relevant in the Gaffney case:
 * No photographs, radar records or physical samples support the claim.
 * The reported footprints were neither photographed nor cast.
 * The encounter apparently had only the two primary witnesses.
-* Most later descriptions depend on recollections rather than preserved original documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601409.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601409.us.archive.org</span><span class="citation-popover-title">An eminent scientist, mathematician, and.Read more</span><span class="citation-popover-snippet">Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</span></span></span>
+* Most later descriptions depend on recollections rather than preserved original documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601409.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601409.us.archive.org</span><span class="citation-popover-title">An eminent scientist, mathematician, and.Read more</span><span class="citation-popover-snippet">Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</span></span></span>
 
 Those gaps matter because extraordinary claims become easier to evaluate when independent records exist. The officers may have sincerely believed what they reported, but sincerity alone cannot answer questions about exactly what occurred.
 
@@ -294,7 +294,7 @@ Those gaps matter because extraordinary claims become easier to evaluate when in
 
 One of the most striking weaknesses in the Gaffney case is the absence of documentation that readers would normally expect from a significant police encounter.
 
-If two patrol officers genuinely believed they had witnessed a landed craft and spoken with a strange visitor, modern readers naturally expect paperwork. Even in 1966, unusual incidents involving officers often generated some form of departmental record, memo or report. Yet UFO researchers discussing the case generally cite magazine articles, Keel's writings and later catalogues rather than archived police documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+If two patrol officers genuinely believed they had witnessed a landed craft and spoken with a strange visitor, modern readers naturally expect paperwork. Even in 1966, unusual incidents involving officers often generated some form of departmental record, memo or report. Yet UFO researchers discussing the case generally cite magazine articles, Keel's writings and later catalogues rather than archived police documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 This does not prove that no report existed. Records may have been lost, discarded or never publicly released. The problem is that investigators cannot inspect what they do not have.
 
@@ -320,295 +320,295 @@ The largest credibility issue may not be dishonesty but memory.
 
 Psychological research consistently shows that recollections change over time. People often become more confident in memories even as details shift, merge or absorb later discussion. That risk becomes especially important in UFO cases because witnesses are frequently asked to repeat their stories many times. Each retelling can subtly reshape the narrative.
 
-The Gaffney encounter illustrates several warning signs: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/John_Keel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">John KeelIn his books UFOs: Operation Trojan Horse and The Eighth Tower Keel argues... The Great UFO Wave of &#x27;73: Interview with John...</span></span></span>
+The Gaffney encounter illustrates several warning signs:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/John_Keel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">John KeelIn his books UFOs: Operation Trojan Horse and The Eighth Tower Keel argues... The Great UFO Wave of &#x27;73: Interview with John...</span></span></span>
 
 ### A long delay before the best-known account
 
-Keel's influential version emerged after he visited Gaffney about a year after the reported event. By then the officers had already experienced local reactions, media attention and discussion within UFO circles. The story readers know today is therefore not a same-day account but a retrospective one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+Keel's influential version emerged after he visited Gaffney about a year after the reported event. By then the officers had already experienced local reactions, media attention and discussion within UFO circles. The story readers know today is therefore not a same-day account but a retrospective one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Public ridicule may have altered details
 
-Hutchins reportedly told Keel that the officers faced mockery after speaking about the encounter. He further suggested that the famous "green complexion" element was added partly in response to that ridicule. Whether interpreted as humour, frustration or embellishment, the admission raises questions about which parts of the narrative were original observations and which became attached later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+Hutchins reportedly told Keel that the officers faced mockery after speaking about the encounter. He further suggested that the famous "green complexion" element was added partly in response to that ridicule. Whether interpreted as humour, frustration or embellishment, the admission raises questions about which parts of the narrative were original observations and which became attached later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 ### Retellings became more polished
 
-Many classic UFO stories grow more coherent over time. Contradictions disappear, conversations become sharper and dramatic details receive greater emphasis. Because the Gaffney case survives mainly through retellings rather than raw records, it is difficult to separate original observation from later narrative refinement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+Many classic UFO stories grow more coherent over time. Contradictions disappear, conversations become sharper and dramatic details receive greater emphasis. Because the Gaffney case survives mainly through retellings rather than raw records, it is difficult to separate original observation from later narrative refinement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 ## What modern readers can reasonably conclude
 
-The Gaffney police witnesses deserve more attention than anonymous storytellers because they were identifiable public servants whose names remained attached to the account. Their testimony is one reason the case survived in South Carolina UFO folklore while countless other local stories disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+The Gaffney police witnesses deserve more attention than anonymous storytellers because they were identifiable public servants whose names remained attached to the account. Their testimony is one reason the case survived in South Carolina UFO folklore while countless other local stories disappeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 At the same time, the evidence never reaches the level that the police connection sometimes implies. The officers' status strengthens the story's interest but does not overcome its missing records, lack of physical documentation, delayed interviews and evolving details.
 
-A balanced assessment sits between belief and dismissal. There is no strong evidence that Huskey and Hutchins invented the encounter from nothing. There is equally no strong evidence that the event unfolded exactly as later UFO literature describes it. The surviving record supports only a narrower conclusion: two named Gaffney officers were associated with an unusual story that they continued discussing after the event, but the available documentation is too limited to verify the most extraordinary parts of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601409.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601409.us.archive.org</span><span class="citation-popover-title">An eminent scientist, mathematician, and.Read more</span><span class="citation-popover-snippet">Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</span></span></span>
+A balanced assessment sits between belief and dismissal. There is no strong evidence that Huskey and Hutchins invented the encounter from nothing. There is equally no strong evidence that the event unfolded exactly as later UFO literature describes it. The surviving record supports only a narrower conclusion: two named Gaffney officers were associated with an unusual story that they continued discussing after the event, but the available documentation is too limited to verify the most extraordinary parts of the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601409.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601409.us.archive.org</span><span class="citation-popover-title">An eminent scientist, mathematician, and.Read more</span><span class="citation-popover-snippet">Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AxM4rWuaLOI" title="The Gaffney Visitor - South Carolina&#x27;s Most Famous UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AxM4rWuaLOI" target="_blank" rel="noopener noreferrer">The Gaffney Visitor - South Carolina&#x27;s Most Famous UFO Encounter</a></p><p class="youtube-embed-meta">Channel: The Strangest &middot; Views: 2.0K &middot; Uploaded: November 2023 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AxM4rWuaLOI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AxM4rWuaLOI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Were the Gaffney Police Witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Were the Gaffney Police Witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3xFXLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3xFXLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
         
-        <p class="fr-book-desc">Keel&#x27;s work is closely tied to the Gaffney narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keel&#x27;s work is closely tied to the Gaffney narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly engages with witness reliability and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly engages with witness reliability and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses witness accounts and recurring humanoid reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness accounts and recurring humanoid reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating testimony quality and observation limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating testimony quality and observation limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e3b4f1-how-strong-were-the-gaffney-police-witnesses-south-carolina-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -624,7 +624,7 @@ A balanced assessment sits between belief and dismissal. There is no strong evid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -644,7 +644,7 @@ A balanced assessment sits between belief and dismissal. There is no strong evid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -676,7 +676,7 @@ A balanced assessment sits between belief and dismissal. There is no strong evid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ A balanced assessment sits between belief and dismissal. There is no strong evid
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -764,82 +764,82 @@ A balanced assessment sits between belief and dismissal. There is no strong evid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ia601409.us.archive.org  
    Title: An eminent scientist, mathematician, and.Read more  
-   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</p></details>
+   Link:<a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newspapers.com  
    Title: Keel on the Gaffney Incident By JOHN A. KEEL NEW YORK (NANA)  
-   Link: <a href="https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keel on the Gaffney IncidentBy JOHN A. KEEL NEW YORK (NANA) - Patrolmen Charles Hutchins and A. G. Huskey pretty solid citizens in Gaffne...</p></details>
+   Link:<a href="https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keel on the Gaffney IncidentBy JOHN A. KEEL NEW YORK (NANA) - Patrolmen Charles Hutchins and A. G. Huskey pretty solid citizens in Gaffne...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ia801800.us.archive.org  
    Title: Jacques Vallee Passportto Magonia  
-   Link: <a href="https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Magoniaconclusions. Passport to Magonia also contains Jacques Vallee&#x27;s... the testimony of these four witnesses was rendered vain.&#x27; 1...</p></details>
+   Link:<a href="https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Magoniaconclusions. Passport to Magonia also contains Jacques Vallee&#x27;s... the testimony of these four witnesses was rendered vain.&#x27; 1...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blackbooksdotpub.wordpress.com  
-   Link: <a href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</p></details>
+   Link:<a href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</p></details>
    Published: December 3, 2021  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cinemaretro.com  
-   Link: <a href="https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=" target="_blank" rel="noopener noreferrer nofollow">https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema RetroIt comes with an audio commentary by authors and comedy historians Gemma and Robert Ross. There is also an interview with act...</p></details>
+   Link:<a href="https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=" target="_blank" rel="noopener noreferrer nofollow">https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema RetroIt comes with an audio commentary by authors and comedy historians Gemma and Robert Ross. There is also an interview with act...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee&#x27;s Passport to Magonia: r/ufoOne of the things reading Jacque Vallee taught me was to stop cherry picking the data. We ten...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee&#x27;s Passport to Magonia: r/ufoOne of the things reading Jacque Vallee taught me was to stop cherry picking the data. We ten...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/John_Keel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Keel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John KeelIn his books UFOs: Operation Trojan Horse and The Eighth Tower Keel argues... The Great UFO Wave of &#x27;73: Interview with John...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/John_Keel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Keel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John KeelIn his books UFOs: Operation Trojan Horse and The Eighth Tower Keel argues... The Great UFO Wave of &#x27;73: Interview with John...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PASSPORT TO MAGONIA. On UFOs, Folklore, and Parallel...Passport to Magonia is Jacques Vallee&#x27;s second book on the UFO phenomenon and the...</p></details>
+   Link:<a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PASSPORT TO MAGONIA. On UFOs, Folklore, and Parallel...Passport to Magonia is Jacques Vallee&#x27;s second book on the UFO phenomenon and the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: device.report  
-   Link: <a href="https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c" target="_blank" rel="noopener noreferrer nofollow">https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF documentCode Number 0A ORIGINATING AGENCY POLICE OR STATE IDENTIFICATION NUMBER AF AIR FORCE SERIAL NUMBER AN N0N-IMMIGRATI0N ADMISSI...</p></details>
+   Link:<a href="https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c" target="_blank" rel="noopener noreferrer nofollow">https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF documentCode Number 0A ORIGINATING AGENCY POLICE OR STATE IDENTIFICATION NUMBER AF AIR FORCE SERIAL NUMBER AN N0N-IMMIGRATI0N ADMISSI...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
    Title: Physical Traces PDF | PDF | Unidentified Flying Object Traces were found  
-   Link: <a href="https://www.scribd.com/document/452809253/Physical-Traces-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452809253/Physical-Traces-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Lucius Farish). Nov 17, 1966 u.s., Gaffney, SC. Police officers A.G. Huskey and Charles 252 0400 Hutchins saw a glowing object on the gr...</p></details>
+   Link:<a href="https://www.scribd.com/document/452809253/Physical-Traces-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452809253/Physical-Traces-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Lucius Farish). Nov 17, 1966 u.s., Gaffney, SC. Police officers A.G. Huskey and Charles 252 0400 Hutchins saw a glowing object on the gr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: goodreads.com  
    Title: 395681 passport to magonia on ufos folklore and parallel worlds  
-   Link: <a href="https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Editions of Passport to MagoniaPassport to Magonia: On UFOs, Folklore, and Parallel Worlds. Published January 1st 1993 by Contemporar...</p></details>
+   Link:<a href="https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Editions of Passport to MagoniaPassport to Magonia: On UFOs, Folklore, and Parallel Worlds. Published January 1st 1993 by Contemporar...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amazon.co.uk  
    Title: Passport to Magonia: From Folklore to Flying Saucers Dr  
-   Link: <a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques F. Vallee has long been regarded as the most respected and senior scientific investigator of unidentified aerial phenomena. He wa...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques F. Vallee has long been regarded as the most respected and senior scientific investigator of unidentified aerial phenomena. He wa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boris Karloff: Midnight Marquee Actors Series...Steiner (Edward Van Sloan) tells Henderson (Karloff) he is to take over for Arnold in Be...</p></details>
+   Link:<a href="https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boris Karloff: Midnight Marquee Actors Series...Steiner (Edward Van Sloan) tells Henderson (Karloff) he is to take over for Arnold in Be...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jeroenthoughts.wordpress.com  
    Title: review passport to magonia 1969 by jacques vallee  
-   Link: <a href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow">https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vallée presents so many accounts of strange visitations, and refers to so many ancient sources, that he gives...Read more...</p></details>
+   Link:<a href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow">https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vallée presents so many accounts of strange visitations, and refers to so many ancient sources, that he gives...Read more...</p></details>

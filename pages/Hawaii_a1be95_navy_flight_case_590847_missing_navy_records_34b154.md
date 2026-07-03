@@ -255,26 +255,26 @@ One of the curious twists in early Cold War UFO lore linked to Hawai‘i‑conne
 <img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-1-dark.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The claimed Office of Naval Research follow‑up
 
-Accounts circulated in UFO research circles from later decades suggest that after sailors or aviators associated with prominent missions reported unusual aerial phenomena, **the Navy briefly authorised a UFO investigation under the Office of Naval Research** (ONR), a scientific and technical research arm of the U.S. Navy. One widely cited summary, hosted by the long‑running Project 1947 site, states that after **pilots in aircraft carrying the Secretary of the Navy and the Chief of Naval Operations sighted “UFOs”**, the Navy **“instituted a short‑lived UFO investigation project in the Office of Naval Research”**. According to that version, the unit was subsequently shut down after complaints by the Air Force about intruding into their domain of interest, and an “outbriefing” was held — but **no details of the project were obtainable** from Naval archives. This account adds that multiple FOIA requests to various Navy agencies have yielded the same answer: **no records exist**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
+Accounts circulated in UFO research circles from later decades suggest that after sailors or aviators associated with prominent missions reported unusual aerial phenomena, **the Navy briefly authorised a UFO investigation under the Office of Naval Research** (ONR), a scientific and technical research arm of the U.S. Navy. One widely cited summary, hosted by the long‑running Project 1947 site, states that after **pilots in aircraft carrying the Secretary of the Navy and the Chief of Naval Operations sighted “UFOs”**, the Navy **“instituted a short‑lived UFO investigation project in the Office of Naval Research”**. According to that version, the unit was subsequently shut down after complaints by the Air Force about intruding into their domain of interest, and an “outbriefing” was held — but **no details of the project were obtainable** from Naval archives. This account adds that multiple FOIA requests to various Navy agencies have yielded the same answer: **no records exist**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
 
-A letter from the archives of physicist and UFO researcher Dr James McDonald illustrates these efforts. Dated 4 August 1970, it recounts McDonald’s inquiries with retired intelligence officers about early 1950s Navy interest in UFOs. McDonald mentions that he heard a “dim” recall of being briefed on ONR studies, but that none of his sources could recall **details** of such an investigation, and no files could be cited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
+A letter from the archives of physicist and UFO researcher Dr James McDonald illustrates these efforts. Dated 4 August 1970, it recounts McDonald’s inquiries with retired intelligence officers about early 1950s Navy interest in UFOs. McDonald mentions that he heard a “dim” recall of being briefed on ONR studies, but that none of his sources could recall **details** of such an investigation, and no files could be cited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2k7K5H6Htl8" title="1952 - The Invasion of Washington | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer">1952 - The Invasion of Washington | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 4.8K &middot; Uploaded: December 2024 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2k7K5H6Htl8">Open on YouTube</a></p></div></div></div>
 
 ## What researchers found — and did not find
 
-The repeated inability of researchers to locate a formal ONR investigation file is a key part of the story. After the 1970 McDonald correspondence and similar leads, **multiple Freedom of Information Act requests to Navy records managers reportedly returned responses that no records of such an investigation could be located**. This absence encompasses not just detailed reports but **basic evidence of an organised study** within ONR’s files. Project 1947’s summary explicitly notes that repeated requests to different Naval agencies all yielded the conclusion that relevant records **do not exist**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
+The repeated inability of researchers to locate a formal ONR investigation file is a key part of the story. After the 1970 McDonald correspondence and similar leads, **multiple Freedom of Information Act requests to Navy records managers reportedly returned responses that no records of such an investigation could be located**. This absence encompasses not just detailed reports but **basic evidence of an organised study** within ONR’s files. Project 1947’s summary explicitly notes that repeated requests to different Naval agencies all yielded the conclusion that relevant records **do not exist**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
 
-Official archival collections such as those of the U.S. National Archives and Records Administration (NARA) do hold a range of UFO‑related materials from the 1950s — including Project [Blue Book files]({{ 'blue-book-files/' | relative_url }}) from the U.S. Air Force and miscellaneous naval intelligence reports — but there is **no obvious dedicated ONR project series from 1952 aligned with the claims**. Catalogued holdings include textual files on UFO investigations and naval installations’ reports, but researchers have not linked these to a distinct ONR inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
+Official archival collections such as those of the U.S. National Archives and Records Administration (NARA) do hold a range of UFO‑related materials from the 1950s — including Project [Blue Book files]({{ 'blue-book-files/' | relative_url }}) from the U.S. Air Force and miscellaneous naval intelligence reports — but there is **no obvious dedicated ONR project series from 1952 aligned with the claims**. Catalogued holdings include textual files on UFO investigations and naval installations’ reports, but researchers have not linked these to a distinct ONR inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
 
-In some cases, archival compilations show only peripheral Naval materials, such as intelligence reports listed under broader series, or log excerpts where “unidentified” radar or visual contacts appear amid other Cold War activities. Absent is the **clear paper trail** one would expect if the Navy had formally initiated and completed a dedicated investigation in 1952. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
+In some cases, archival compilations show only peripheral Naval materials, such as intelligence reports listed under broader series, or log excerpts where “unidentified” radar or visual contacts appear amid other Cold War activities. Absent is the **clear paper trail** one would expect if the Navy had formally initiated and completed a dedicated investigation in 1952.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
 
 <img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-2-dark.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why missing files weaken rather than prove the case
 
 The claim of an ONR investigation is attractive to UFO enthusiasts because it suggests **formal military interest**, even engagement, with unexplained aerial phenomena — especially in a period when most public attention focused on Air Force investigations like Project [Blue Book]({{ 'blue-book-6b1d39/' | relative_url }}). But the **lack of documentary evidence weakens the credibility** of this part of the story for several reasons:
 
-* **Official absence versus informal activity:** An investigation that was authorised at a high level but left no record — no reports, memoranda, internal correspondence, or referenced files — seems unlikely given ONR’s standing as a research organisation. Even short‑lived scientific projects typically generate identifiable documentation. The absence therefore suggests either the inquiry never moved beyond informal conversations, was extremely limited and undocumented, or was not undertaken as claimed. The repeated FOIA responses that **no records exist** underscore this gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
+* **Official absence versus informal activity:** An investigation that was authorised at a high level but left no record — no reports, memoranda, internal correspondence, or referenced files — seems unlikely given ONR’s standing as a research organisation. Even short‑lived scientific projects typically generate identifiable documentation. The absence therefore suggests either the inquiry never moved beyond informal conversations, was extremely limited and undocumented, or was not undertaken as claimed. The repeated FOIA responses that **no records exist** underscore this gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
 * **Memory and reporting distortion:** The available secondary accounts — such as McDonald’s letter — rely on personal recollections or second‑hand references many years after the events. Human memory is fallible, especially decades after the fact, and without corroborating archival records, these recollections cannot be confirmed. Professional historians generally treat such oral claims with caution, especially when documentary support is absent.
 * **Archival context:** The mid‑1950s saw an explosion of UFO reports and multiple military and scientific responses. However, the well‑catalogued investigations, especially by the Air Force, are distinct and documented. The lack of a parallel, traceable ONR investigation — while Air Force files from the same period survive — suggests the ONR connection may be more anecdotal than official.
 
@@ -286,199 +286,199 @@ In the context of Hawaii’s UFO history, this missing‑records phenomenon illu
 
 ## The broader archival picture
 
-Today, formal research into historical UFO and unidentified anomalous phenomena (UAP) records emphasises rigorous archival discovery. Agencies like NARA list extensive record groups related to U.S. military and government UFO reporting, including some naval series, but none correspond to a standalone ONR UFO project from 1952. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span> This reflects a broader truth in early military UFO history: **official, systematic investigations were primarily conducted under Air Force auspices**, with other activity often buried within broader intelligence files or not documented at all. The absence of an ONR project file — as repeatedly reported by researchers and confirmed by archival silence — remains part of why the Pearl Harbor to Guam narrative and its alleged Navy follow‑up continue to straddle the line between intriguing anecdote and verifiable historical record.
+Today, formal research into historical UFO and unidentified anomalous phenomena (UAP) records emphasises rigorous archival discovery. Agencies like NARA list extensive record groups related to U.S. military and government UFO reporting, including some naval series, but none correspond to a standalone ONR UFO project from 1952.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span> This reflects a broader truth in early military UFO history: **official, systematic investigations were primarily conducted under Air Force auspices**, with other activity often buried within broader intelligence files or not documented at all. The absence of an ONR project file — as repeatedly reported by researchers and confirmed by archival silence — remains part of why the Pearl Harbor to Guam narrative and its alleged Navy follow‑up continue to straddle the line between intriguing anecdote and verifiable historical record.
 
 <img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-3-dark.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847_missing_navy_records_34b154-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Navy investigate and lose the trail?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Navy investigate and lose the trail?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly relevant to questions about records and government inquiries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to questions about records and government inquiries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official reporting and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official reporting and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Focuses on government involvement and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government involvement and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains why documentation quality matters in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why documentation quality matters in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force and Navy Posters Circa 1980’s Memorabilia Vintage"><img src="https://i.ebayimg.com/images/g/ynoAAeSw59BpzBeI/s-l225.jpg" alt="Listing image for Royal Air Force and Navy Posters Circa 1980’s Memorabilia Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force and Navy Posters Circa 1980’s Memorabilia Vintage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force and Navy Posters Circa 1980’s Memorabilia Vintage"><img src="https://i.ebayimg.com/images/g/ynoAAeSw59BpzBeI/s-l225.jpg" alt="Listing image for Royal Air Force and Navy Posters Circa 1980’s Memorabilia Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force and Navy Posters Circa 1980’s Memorabilia Vintage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMS Centaur Memorabilia 4th Commission Book Photos Paintings"><img src="https://i.ebayimg.com/images/g/u0wAAeSwTMFqIUhJ/s-l225.jpg" alt="Listing image for HMS Centaur Memorabilia 4th Commission Book Photos Paintings" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">HMS Centaur Memorabilia 4th Commission Book Photos Paintings</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMS Centaur Memorabilia 4th Commission Book Photos Paintings"><img src="https://i.ebayimg.com/images/g/u0wAAeSwTMFqIUhJ/s-l225.jpg" alt="Listing image for HMS Centaur Memorabilia 4th Commission Book Photos Paintings" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">HMS Centaur Memorabilia 4th Commission Book Photos Paintings</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Swan Hunter Shipbuilder Memorabilia Ties HMS Marlborough &amp; HMS Westminster"><img src="https://i.ebayimg.com/images/g/wlkAAeSwdkBqDfQb/s-l225.jpg" alt="Listing image for Swan Hunter Shipbuilder Memorabilia Ties HMS Marlborough &amp; HMS Westminster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Swan Hunter Shipbuilder Memorabilia Ties HMS Marlborough &amp; HMS Westminster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Swan Hunter Shipbuilder Memorabilia Ties HMS Marlborough &amp; HMS Westminster"><img src="https://i.ebayimg.com/images/g/wlkAAeSwdkBqDfQb/s-l225.jpg" alt="Listing image for Swan Hunter Shipbuilder Memorabilia Ties HMS Marlborough &amp; HMS Westminster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Swan Hunter Shipbuilder Memorabilia Ties HMS Marlborough &amp; HMS Westminster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Amazing Army and Navy 1903 Medical Kit First Aid Kit with Contents Original Box"><img src="https://i.ebayimg.com/images/g/YPwAAeSwUuBqJuve/s-l225.jpg" alt="Listing image for Amazing Army and Navy 1903 Medical Kit First Aid Kit with Contents Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Amazing Army and Navy 1903 Medical Kit First Aid Kit with Contents Original Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Amazing Army and Navy 1903 Medical Kit First Aid Kit with Contents Original Box"><img src="https://i.ebayimg.com/images/g/YPwAAeSwUuBqJuve/s-l225.jpg" alt="Listing image for Amazing Army and Navy 1903 Medical Kit First Aid Kit with Contents Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Amazing Army and Navy 1903 Medical Kit First Aid Kit with Contents Original Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: navy memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-navy-investigate-and-lose-the-trail-navy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy memorabilia" data-ebay-reference="did-the-navy-investigate-and-lose-the-trail-navy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -494,7 +494,7 @@ Today, formal research into historical UFO and unidentified anomalous phenomena 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -514,7 +514,7 @@ Today, formal research into historical UFO and unidentified anomalous phenomena 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -546,7 +546,7 @@ Today, formal research into historical UFO and unidentified anomalous phenomena 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -598,7 +598,7 @@ Today, formal research into historical UFO and unidentified anomalous phenomena 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -643,7 +643,7 @@ Today, formal research into historical UFO and unidentified anomalous phenomena 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -684,126 +684,126 @@ Today, formal research into historical UFO and unidentified anomalous phenomena 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952a.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS 1952...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS 1952...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2026 — RECORD GROUP 615: UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION The National Archives “Unidentified Anomalous P...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2026 — RECORD GROUP 615: UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION The National Archives “Unidentified Anomalous P...</p></details>
    Published: February 20, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
+   Link:<a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
    Published: April 24, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Sound Recordings | National ArchivesApril 24, 2025 — LIST OF MOVING IMAGES AND SOUND RECORDINGS RELATED TO UFOS AND UAPS RECORD GROUP...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Sound Recordings | National ArchivesApril 24, 2025 — LIST OF MOVING IMAGES AND SOUND RECORDINGS RELATED TO UFOS AND UAPS RECORD GROUP...</p></details>
    Published: April 24, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: project1947.com  
    Title: Aldrich Dr. J. Allen Hynek summarized the February 2, 195  
-   Link: <a href="https://www.project1947.com/feaf/jahcv47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/feaf/jahcv47.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947: Jan Aldrich - FEAF Report - The USS Philippine Sea February 2, 1952PROJECT 1947 * * * FEAF Radar Intelligence Summaries UFO...</p></details>
+   Link:<a href="https://www.project1947.com/feaf/jahcv47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/feaf/jahcv47.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947: Jan Aldrich - FEAF Report - The USS Philippine Sea February 2, 1952PROJECT 1947 * * * FEAF Radar Intelligence Summaries UFO...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/47cats/usnavyintro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/47cats/usnavyintro.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Since Project 1947 is mainly concerned with cases at the beginning of the UFO era, this is not surprising. Many cases only came...</p></details>
+   Link:<a href="https://www.project1947.com/47cats/usnavyintro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/47cats/usnavyintro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since Project 1947 is mainly concerned with cases at the beginning of the UFO era, this is not surprising. Many cases only came...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Records/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP RecordsAll-domain Anomaly Resolution Office UAP RECORDS/INFORMATION PAPERS NEW CONTENT Content Type Date Added White Paper: 2025...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP RecordsAll-domain Anomaly Resolution Office UAP RECORDS/INFORMATION PAPERS NEW CONTENT Content Type Date Added White Paper: 2025...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afhistory.af.mil  
-   Link: <a href="https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions &gt; Air Force Historical Support Division &gt; Fact SheetsUFO QUESTIONS Unidentified Flying Objects (UFOs) and Air Force Project Blu...</p></details>
+   Link:<a href="https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Questions &gt; Air Force Historical Support Division &gt; Fact SheetsUFO QUESTIONS Unidentified Flying Objects (UFOs) and Air Force Project Blu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedebrief.org  
    Title: Fragmented Facts: AARO Report Unearths Odd Claims Involving U.S  
-   Link: <a href="https://thedebrief.org/fragmented-facts-aaro-report-unearths-odd-claims-involving-u-s-recovery-of-material-from-1952-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/fragmented-facts-aaro-report-unearths-odd-claims-involving-u-s-recovery-of-material-from-1952-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recovery of Material From 1952 UFO Incident - The DebriefMarch 12, 2024 — FRAGMENTED FACTS: AARO REPORT UNEARTHS ODD CLAIMS INVOLVING U.S...</p></details>
+   Link:<a href="https://thedebrief.org/fragmented-facts-aaro-report-unearths-odd-claims-involving-u-s-recovery-of-material-from-1952-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/fragmented-facts-aaro-report-unearths-odd-claims-involving-u-s-recovery-of-material-from-1952-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recovery of Material From 1952 UFO Incident - The DebriefMarch 12, 2024 — FRAGMENTED FACTS: AARO REPORT UNEARTHS ODD CLAIMS INVOLVING U.S...</p></details>
    Published: March 12, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufosearch.org  
    Title: The full Department of War PURSUE archive — d  
-   Link: <a href="https://ufosearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://ufosearch.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Search — PURSUE UAP ArchiveMay 8, 2026 — P PRESIDENTIAL UNSEALING &amp; REPORTING SYSTEM FOR UAP ENCOUNTERS▍ RELEASE 01 · CLEARED 2026-05...</p></details>
+   Link:<a href="https://ufosearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://ufosearch.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Search — PURSUE UAP ArchiveMay 8, 2026 — P PRESIDENTIAL UNSEALING &amp; REPORTING SYSTEM FOR UAP ENCOUNTERS▍ RELEASE 01 · CLEARED 2026-05...</p></details>
    Published: May 8, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-MbGYAv7Cg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 1952 Major Samford Donald Keyhoe, 1952...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-MbGYAv7Cg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report 1952 Major Samford Donald Keyhoe, 1952...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2k7K5H6Htl8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major General John A. Samford&#x27;s Talks About &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2k7K5H6Htl8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major General John A. Samford&#x27;s Talks About &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 - The Invasion of Washington | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952 - The Invasion of Washington | Full Documentary...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MnYqf-YBFEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYqf-YBFEA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MnYqf-YBFEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MnYqf-YBFEA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/520314hawaii_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/520314hawaii_dir.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportMarch 14, 1952 — Category 11 Case Directory SIGHTINGS FROM AIRCRAFT Preliminary Rating: 5 | | Image AVCAT is a special project...</p></details>
+   Link:<a href="https://www.nicap.org/520314hawaii_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/520314hawaii_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportMarch 14, 1952 — Category 11 Case Directory SIGHTINGS FROM AIRCRAFT Preliminary Rating: 5 | | Image AVCAT is a special project...</p></details>
    Published: March 14, 1952  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena/Volume 1/Section 4 - Wikisource, the free online libraryMay 10, 2024 — REPOR...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena/Volume 1/Section 4 - Wikisource, the free online libraryMay 10, 2024 — REPOR...</p></details>
    Published: May 10, 2024

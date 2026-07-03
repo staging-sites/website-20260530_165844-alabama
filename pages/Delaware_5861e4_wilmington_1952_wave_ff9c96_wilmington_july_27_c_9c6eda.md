@@ -250,33 +250,33 @@ image: /assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_jul
 
 ## Introduction
 
-On **27 July 1952**, during the height of what historians call the **1952 UFO wave** in the United States, a single civilian witness in Wilmington, Delaware, reported seeing an unusual aerial object described as a **cylindrical shape with domed ends** moving across the night sky. The sighting is logged in Project Blue Book summaries alongside dozens of other reports from that same date, but it stands out in Delaware’s UFO history because it is the only substantial sighting recorded for the state during that peak period. What makes this case useful to examine is not that it provides incontrovertible proof of an extraordinary craft overhead, but that it illustrates how brief, solitary sightings from small cities like Wilmington were woven into a much broader pattern of sightings that challenged the U.S. Air Force’s investigatory capacity in the summer of 1952. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/The_1952_Sighting_Wave.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">The 1952 Sighting Wave</span><span class="citation-popover-snippet">The 1952 Sighting WaveDecember 15, 2005...</span><span class="citation-popover-meta">Published: December 15, 2005</span></span></span>
+On **27 July 1952**, during the height of what historians call the **1952 UFO wave** in the United States, a single civilian witness in Wilmington, Delaware, reported seeing an unusual aerial object described as a **cylindrical shape with domed ends** moving across the night sky. The sighting is logged in Project Blue Book summaries alongside dozens of other reports from that same date, but it stands out in Delaware’s UFO history because it is the only substantial sighting recorded for the state during that peak period. What makes this case useful to examine is not that it provides incontrovertible proof of an extraordinary craft overhead, but that it illustrates how brief, solitary sightings from small cities like Wilmington were woven into a much broader pattern of sightings that challenged the U.S. Air Force’s investigatory capacity in the summer of 1952.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/The_1952_Sighting_Wave.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">The 1952 Sighting Wave</span><span class="citation-popover-snippet">The 1952 Sighting WaveDecember 15, 2005...</span><span class="citation-popover-meta">Published: December 15, 2005</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-1-dark.svg" | relative_url }}" alt="27 July Cylinder illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Wilmington witness reported
 
-According to the **Project Blue Book summary** (the U.S. Air Force’s official UFO case file system in 1952), a man identified as **Mr. James R. Thomas** saw a single **cylindrical object with a domed top and bottom** on the night of **27 July 1952**, moving in a roughly **north‑west to south‑east direction**. The item was described as **remaining upright**, visible for **about 90 seconds**, and then **disappearing suddenly** from sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">new1952December 15, 2005...</span><span class="citation-popover-meta">Published: December 15, 2005</span></span></span>
+According to the **Project Blue Book summary** (the U.S. Air Force’s official UFO case file system in 1952), a man identified as **Mr. James R. Thomas** saw a single **cylindrical object with a domed top and bottom** on the night of **27 July 1952**, moving in a roughly **north‑west to south‑east direction**. The item was described as **remaining upright**, visible for **about 90 seconds**, and then **disappearing suddenly** from sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">new1952December 15, 2005...</span><span class="citation-popover-meta">Published: December 15, 2005</span></span></span>
 
-Later summaries of the same file note that the sighting occurred around **2300 Z (late evening local time)**, and that the witness believed the object’s motion was noticeable but provided no measurements of size, distance, altitude, or speed. There are *no known photographs, radar corroboration, or other independent witnesses* associated with Thomas’s report in the available public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
+Later summaries of the same file note that the sighting occurred around **2300 Z (late evening local time)**, and that the witness believed the object’s motion was noticeable but provided no measurements of size, distance, altitude, or speed. There are *no known photographs, radar corroboration, or other independent witnesses* associated with Thomas’s report in the available public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
 
-A privately archived narrative — based on contemporary UFO research documentation — adds colour to the basic summary: it describes Thomas observing the unusual upright cylinder at some distance while watching **Air Force F‑94 jet interceptors** manoeuvring in the sky above Wilmington. In that account the object was “grey in colour, with a slightly domed top and bottom,” moved at roughly the same pace as jets visible in the distance, then at the end of the sighting “flashed a silver light” before vanishing. However, this fuller wording appears in second‑hand UFO histories rather than in declassified military files, and it cannot be independently verified from original Air Force records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/The_1952_Sighting_Wave.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">The 1952 Sighting Wave</span><span class="citation-popover-snippet">The 1952 Sighting WaveDecember 15, 2005...</span><span class="citation-popover-meta">Published: December 15, 2005</span></span></span>
+A privately archived narrative — based on contemporary UFO research documentation — adds colour to the basic summary: it describes Thomas observing the unusual upright cylinder at some distance while watching **Air Force F‑94 jet interceptors** manoeuvring in the sky above Wilmington. In that account the object was “grey in colour, with a slightly domed top and bottom,” moved at roughly the same pace as jets visible in the distance, then at the end of the sighting “flashed a silver light” before vanishing. However, this fuller wording appears in second‑hand UFO histories rather than in declassified military files, and it cannot be independently verified from original Air Force records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/The_1952_Sighting_Wave.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">The 1952 Sighting Wave</span><span class="citation-popover-snippet">The 1952 Sighting WaveDecember 15, 2005...</span><span class="citation-popover-meta">Published: December 15, 2005</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.7K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
 
 ## Timing within the 1952 national UFO wave
 
-To understand this sighting’s significance, it helps to see it in the context of **late‑July 1952**, one of the most intense periods of UFO reporting in U.S. history. Project Blue Book logged hundreds of reports that month, with July’s totals later described by researchers as sharply higher than any previous year. Many of those reports clustered around major metropolitan areas and involved multiple observers, radar contacts, or military engagements — most famously over **Washington, D.C.**, on the nights of **26–27 July**, when radar and visual sightings triggered fighter scrambles and widespread press coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">1952 ufo wave</span><span class="citation-popover-snippet">UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</span><span class="citation-popover-meta">Published: September 28, 2019</span></span></span>
+To understand this sighting’s significance, it helps to see it in the context of **late‑July 1952**, one of the most intense periods of UFO reporting in U.S. history. Project Blue Book logged hundreds of reports that month, with July’s totals later described by researchers as sharply higher than any previous year. Many of those reports clustered around major metropolitan areas and involved multiple observers, radar contacts, or military engagements — most famously over **Washington, D.C.**, on the nights of **26–27 July**, when radar and visual sightings triggered fighter scrambles and widespread press coverage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">1952 ufo wave</span><span class="citation-popover-snippet">UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</span><span class="citation-popover-meta">Published: September 28, 2019</span></span></span>
 
-In that environment of heightened public attention and widespread sightings, even relatively modest reports from smaller cities were collected, catalogued and, where possible, evaluated as part of the broader data flow into Blue Book. The Wilmington cylindrical sighting appears in that official catalogue precisely because Blue Book sought to record *all* such reports, not just those with obvious national security implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
+In that environment of heightened public attention and widespread sightings, even relatively modest reports from smaller cities were collected, catalogued and, where possible, evaluated as part of the broader data flow into Blue Book. The Wilmington cylindrical sighting appears in that official catalogue precisely because Blue Book sought to record *all* such reports, not just those with obvious national security implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-2-dark.svg" | relative_url }}" alt="27 July Cylinder illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence limits and interpretation challenges
 
 From an evidential standpoint, the Wilmington sighting has *significant limitations*:
 
-* **Single witness, no supporting data:** Only one named witness, with no independent corroboration from radar, other observers, or photography, appears in available files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
-* **No physical measurements:** Blue Book’s brief summary gives no details on the object’s size, distance, altitude, or speed, making it impossible to test hypotheses about conventional explanations (such as distant aircraft, balloons, astronomical objects, or optical effects). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/520726washington_national_sightings_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">Folder (BB) - MAXW-PBB11-916 (Dan Wilson) Log of Reports on UO 2108E-1121E, July 26, 1952 - M...</span><span class="citation-popover-meta">Published: July 26, 1952</span></span></span>
-* **Retrospective narrative variance:** Later interpretations that describe F‑94 jets in proximity or a silver flash at the sighting’s end are drawn from private research compilations rather than declassified Air Force documentation. Their inclusion in UFO lore should be treated cautiously because the primary official report remains modest in its details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
+* **Single witness, no supporting data:** Only one named witness, with no independent corroboration from radar, other observers, or photography, appears in available files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
+* **No physical measurements:** Blue Book’s brief summary gives no details on the object’s size, distance, altitude, or speed, making it impossible to test hypotheses about conventional explanations (such as distant aircraft, balloons, astronomical objects, or optical effects).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/520726washington_national_sightings_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">Folder (BB) - MAXW-PBB11-916 (Dan Wilson) Log of Reports on UO 2108E-1121E, July 26, 1952 - M...</span><span class="citation-popover-meta">Published: July 26, 1952</span></span></span>
+* **Retrospective narrative variance:** Later interpretations that describe F‑94 jets in proximity or a silver flash at the sighting’s end are drawn from private research compilations rather than declassified Air Force documentation. Their inclusion in UFO lore should be treated cautiously because the primary official report remains modest in its details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">UFO&#x27;S: A History</span><span class="citation-popover-snippet">UFO&#x27;S: A HistoryNovember 8, 2025...</span><span class="citation-popover-meta">Published: November 8, 2025</span></span></span>
 
 Given these constraints, the case is classified in most UFO catalogues as an **“unidentified” report**, but *unidentified* in this sense means “not definitively explained with the available summary information,” not that it has compelling evidence of anything extraordinary.
 
@@ -290,201 +290,201 @@ Experienced investigators and sceptical analysts alike note that brief eyewitnes
 
 Delaware’s appearance in the 1952 UFO wave is anchored in **two brief Wilmington reports** from late July — one on the 25th (two reflective discs) and one on the 27th (domed cylinder). Neither case has enough independent substance to be regarded as strong evidence of anomalous craft, but both are valuable *historically* as part of the broader national pattern of civilian sightings during that intense period.
 
-The 27 July domed cylinder case illustrates how, even in a smaller state like Delaware, ordinary citizens were tuned to the skies and eager to report unusual observations, and how Project Blue Book’s largely administrative processes worked under strain during the wave. It also highlights a perennial challenge in UFO historical research: isolated eyewitness accounts without corroborative data can remain unresolved indefinitely because there is simply too little to analyse with confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">1952 ufo wave</span><span class="citation-popover-snippet">UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</span><span class="citation-popover-meta">Published: September 28, 2019</span></span></span>
+The 27 July domed cylinder case illustrates how, even in a smaller state like Delaware, ordinary citizens were tuned to the skies and eager to report unusual observations, and how Project Blue Book’s largely administrative processes worked under strain during the wave. It also highlights a perennial challenge in UFO historical research: isolated eyewitness accounts without corroborative data can remain unresolved indefinitely because there is simply too little to analyse with confidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">1952 ufo wave</span><span class="citation-popover-snippet">UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</span><span class="citation-popover-meta">Published: September 28, 2019</span></span></span>
 
-In Delaware’s UFO history, then, the 27 July sighting matters less as a mystery *solved* than as a **remark of participation** in a nationwide surge of aerial reports that overwhelmed early 1950s UFO collection efforts and helped shape public and military attention on unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">1952 ufo wave</span><span class="citation-popover-snippet">UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</span><span class="citation-popover-meta">Published: September 28, 2019</span></span></span>
+In Delaware’s UFO history, then, the 27 July sighting matters less as a mystery *solved* than as a **remark of participation** in a nationwide surge of aerial reports that overwhelmed early 1950s UFO collection efforts and helped shape public and military attention on unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">1952 ufo wave</span><span class="citation-popover-snippet">UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</span><span class="citation-popover-meta">Published: September 28, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-3-dark.svg" | relative_url }}" alt="27 July Cylinder illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1952_wave_ff9c96_wilmington_july_27_c_9c6eda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Investigating Wilmington&#x27;s 27 July Domed Cylinder Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Investigating Wilmington&#x27;s 27 July Domed Cylinder Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly relevant to the era and investigative framework behind the sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to the era and investigative framework behind the sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Explains official handling of sightings during major UFO flaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official handling of sightings during major UFO flaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness credibility and case classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness credibility and case classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Places isolated reports within broader UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places isolated reports within broader UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="https://i.ebayimg.com/images/g/0XoAAeSwgzVpAKy6/s-l225.jpg" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="https://i.ebayimg.com/images/g/TJEAAOSwRfdlxh4e/s-l225.jpg" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="https://i.ebayimg.com/images/g/hMAAAeSw~QFofklr/s-l225.jpg" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-wilmington-s-27-july-domed-cylinder-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -500,7 +500,7 @@ In Delaware’s UFO history, then, the 27 July sighting matters less as a myst
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -520,7 +520,7 @@ In Delaware’s UFO history, then, the 27 July sighting matters less as a myst
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -552,7 +552,7 @@ In Delaware’s UFO history, then, the 27 July sighting matters less as a myst
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -604,7 +604,7 @@ In Delaware’s UFO history, then, the 27 July sighting matters less as a myst
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -649,7 +649,7 @@ In Delaware’s UFO history, then, the 27 July sighting matters less as a myst
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -690,123 +690,123 @@ In Delaware’s UFO history, then, the 27 July sighting matters less as a myst
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: noufors.com  
    Title: The 1952 Sighting Wave  
-   Link: <a href="https://noufors.com/The_1952_Sighting_Wave.html" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/The_1952_Sighting_Wave.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Sighting WaveDecember 15, 2005...</p></details>
+   Link:<a href="https://noufors.com/The_1952_Sighting_Wave.html" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/The_1952_Sighting_Wave.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Sighting WaveDecember 15, 2005...</p></details>
    Published: December 15, 2005  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>new1952December 15, 2005...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>new1952December 15, 2005...</p></details>
    Published: December 15, 2005  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: noufors.com  
    Title: UFO'S: A History  
-   Link: <a href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;S: A HistoryNovember 8, 2025...</p></details>
+   Link:<a href="https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/Documents/NICAP/History/The%201952%20Sighting%20Wave/1952_07-21st_07-31st_History.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;S: A HistoryNovember 8, 2025...</p></details>
    Published: November 8, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/Good_Cases/520726washington_national_sightings_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/520726washington_national_sightings_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Folder (BB) - MAXW-PBB11-916 (Dan Wilson) Log of Reports on UO 2108E-1121E, July 26, 1952 - M...</p></details>
+   Link:<a href="https://www.nicap.org/Good_Cases/520726washington_national_sightings_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/520726washington_national_sightings_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Folder (BB) - MAXW-PBB11-916 (Dan Wilson) Log of Reports on UO 2108E-1121E, July 26, 1952 - M...</p></details>
    Published: July 26, 1952  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/1952jul.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/1952jul.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook 1952 JulyUFO CASEBOOK: JULY, 1952 This selection of &quot;UFO CASEBOOK&quot; contains the Blue Book &quot;Unknowns&quot; and will soon provide t...</p></details>
+   Link:<a href="https://www.nicap.org/1952jul.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/1952jul.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook 1952 JulyUFO CASEBOOK: JULY, 1952 This selection of &quot;UFO CASEBOOK&quot; contains the Blue Book &quot;Unknowns&quot; and will soon provide t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=PeF0Ca_SqP4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PeF0Ca_SqP4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 52 UFO Air Wars...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=PeF0Ca_SqP4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PeF0Ca_SqP4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 52 UFO Air Wars...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufoinsight.com  
    Title: 1952 ufo wave  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/1952-ufo-wave</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/1952-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/1952-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe 1952 UFO Wave - UFO InsightSeptember 28, 2019...</p></details>
    Published: September 28, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: The Nash-Fortenberry UFO Sighting  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 9, 2019 — THE NASH-FORTENBERRY UFO SIGHTING By Marcus Lowth Image: Published Date June 9, 2019 Image: Last Updated Octobe...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 9, 2019 — THE NASH-FORTENBERRY UFO SIGHTING By Marcus Lowth Image: Published Date June 9, 2019 Image: Last Updated Octobe...</p></details>
    Published: June 9, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1952d.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952d.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsJULY 1952 - WASHINGTON, D.C., AREA RADAR-VISUAL SIGHTINGS AND RELATED EVENTS. * * * &gt; #### Codes: &gt; &gt; AFOSI - Air Force Offi...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1952d.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952d.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsJULY 1952 - WASHINGTON, D.C., AREA RADAR-VISUAL SIGHTINGS AND RELATED EVENTS. * * * &gt; #### Codes: &gt; &gt; AFOSI - Air Force Offi...</p></details>
    Published: JULY 1952  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: isgp-studies.com  
    Title: Air Force Jet Fighters Fail to Catch Objects Flying over Washington  
-   Link: <a href="https://www.isgp-studies.com/misc/UFOs/press-reports/1952-07-28-wilkes-barre-record-air-force-jet-fighters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/1952-07-28-wilkes-barre-record-air-force-jet-fighters-fail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 28, 1952 — AIR FORCE JET FIGHTERS FAIL TO CATCH OBJECTS FLYING OVER WASHINGTON ISGP section: UFO press reports index &#x27;Things&#x27; Sighte...</p></details>
+   Link:<a href="https://www.isgp-studies.com/misc/UFOs/press-reports/1952-07-28-wilkes-barre-record-air-force-jet-fighters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/1952-07-28-wilkes-barre-record-air-force-jet-fighters-fail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 28, 1952 — AIR FORCE JET FIGHTERS FAIL TO CATCH OBJECTS FLYING OVER WASHINGTON ISGP section: UFO press reports index &#x27;Things&#x27; Sighte...</p></details>
    Published: July 28, 1952  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bibliotecapleyades.net  
    Title: Air Force UFO investigation (at first Project Sign, then Proj  
-   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1952.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1952.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Briefing Doc - 1952: SECOND AMERICAN SIGHTING WAVETHE UFO BRIEFING DOCUMENT CASE HISTORIES Last Page | Next Page 1952: SECOND AMERICA...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1952.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1952.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Briefing Doc - 1952: SECOND AMERICAN SIGHTING WAVETHE UFO BRIEFING DOCUMENT CASE HISTORIES Last Page | Next Page 1952: SECOND AMERICA...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
    Title: In April and May, the flow increased to 3 per  
-   Link: <a href="https://ufologie.patrickgross.org/htm/usa1952.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/usa1952.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: The US UFO flap of 1952THE WASHINGTON D.C UFO FLAP OF 1952: 1952 started out as the previous one had begun, with few...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/usa1952.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/usa1952.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: The US UFO flap of 1952THE WASHINGTON D.C UFO FLAP OF 1952: 1952 started out as the previous one had begun, with few...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
    Title: For the US Air Force who conducted Project  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book unexplained cases summaries with witnesses names, 1952PROJECT BLUE BOOK UNEXPLAINED CASES SUMMARIE...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book unexplained cases summaries with witnesses names, 1952PROJECT BLUE BOOK UNEXPLAINED CASES SUMMARIE...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ignaciodarnaude.com  
    Title: One object was observed by four wit  
-   Link: <a href="https://www.ignaciodarnaude.com/avistamientos_ovnis/Casos%20OVNI%201952.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ignaciodarnaude.com/avistamientos_ovnis/Casos%20OVNI%201952.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in 195226 July 1952 22:45 - Palat, Algeria - An unidentified object was sighted, but with appearance and behavior that most...</p></details>
+   Link:<a href="https://www.ignaciodarnaude.com/avistamientos_ovnis/Casos%20OVNI%201952.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ignaciodarnaude.com/avistamientos_ovnis/Casos%20OVNI%201952.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in 195226 July 1952 22:45 - Palat, Algeria - An unidentified object was sighted, but with appearance and behavior that most...</p></details>
    Published: July 1952  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: military-history.fandom.com  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident | Military Wiki | Fandom^{[9]} Before leaving Washington, Ruppelt did speak with an Air Force radar specialist, Captain Roy...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident | Military Wiki | Fandom^{[9]} Before leaving Washington, Ruppelt did speak with an Air Force radar specialist, Captain Roy...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thinkaboutitdocs.com  
    Title: 1952 july ufo alien sightings  
-   Link: <a href="https://www.thinkaboutitdocs.com/1952-july-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1952-july-ufo-alien-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952: July UFO &amp; Alien SightingsSeptember 22, 2013 — * * * Date: July 5, 1952 Location: Richlands, Washington Time: Summary: Four Florida...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1952-july-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1952-july-ufo-alien-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952: July UFO &amp; Alien SightingsSeptember 22, 2013 — * * * Date: July 5, 1952 Location: Richlands, Washington Time: Summary: Four Florida...</p></details>
    Published: September 22, 2013  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/nashfortenberrysighting1952.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/nashfortenberrysighting1952.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commander and his wife who described a formation of red discs traveling at high-speed and making immediate directional changes without a...</p></details>
+   Link:<a href="https://www.ufocasebook.com/nashfortenberrysighting1952.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/nashfortenberrysighting1952.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commander and his wife who described a formation of red discs traveling at high-speed and making immediate directional changes without a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: saucerco.com  
    Title: The Salem UFO – Saucer  
-   Link: <a href="https://saucerco.com/blogs/saucer-encounters/the-salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://saucerco.com/blogs/saucer-encounters/the-salem-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 2022 — 8 comments · Jul 16, 2022 THE SALEM UFO by SAUCER Image: The Salem UFO - July 16, 1952 (Four unidentified luminous object...</p></details>
+   Link:<a href="https://saucerco.com/blogs/saucer-encounters/the-salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://saucerco.com/blogs/saucer-encounters/the-salem-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 2022 — 8 comments · Jul 16, 2022 THE SALEM UFO by SAUCER Image: The Salem UFO - July 16, 1952 (Four unidentified luminous object...</p></details>
    Published: July 16, 2022

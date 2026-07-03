@@ -253,25 +253,25 @@ image: /assets/images/Louisiana_b158e0_barksdale_airfield_290137_2026_barksdale_
 In March 2026, [Barksdale]({{ 'barksdale/' | relative_url }}) Air Force Base in north-west Louisiana became the centre of a national security story that quickly blurred into the wider American debate over “mystery drones” near military facilities. The incident was not presented by the Air Force as a UFO event. Officials described it as a series of unauthorised drone incursions over restricted airspace. Yet the case mattered to Louisiana’s UFO history because it showed how modern drone activity can create the same confusion, speculation and incomplete information that once surrounded unidentified lights over military bases.
 
 <img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_2026_barksdale_drone_00f985-Illustration-1-dark.svg" | relative_url }}" alt="2026 Drone Incursions illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_2026_barksdale_drone_00f985-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_2026_barksdale_drone_00f985-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key facts are relatively clear. Beginning on 9 March 2026, Barksdale experienced repeated drone intrusions that triggered a temporary shelter-in-place order, federal investigation and intense media coverage. Later reporting suggested multiple coordinated drones operated over sensitive areas of the installation during several nights. Some reports described aircraft that resisted jamming attempts and appeared to use non-commercial control methods. The result was a genuine security incident, but also a reminder that many modern “unknown lights” near military sites may involve advanced drones rather than unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
+The key facts are relatively clear. Beginning on 9 March 2026, Barksdale experienced repeated drone intrusions that triggered a temporary shelter-in-place order, federal investigation and intense media coverage. Later reporting suggested multiple coordinated drones operated over sensitive areas of the installation during several nights. Some reports described aircraft that resisted jamming attempts and appeared to use non-commercial control methods. The result was a genuine security incident, but also a reminder that many modern “unknown lights” near military sites may involve advanced drones rather than unexplained craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
 
 ## What Happened at Barksdale in March 2026?
 
-Barksdale AFB, near Bossier City and Shreveport, is one of the most strategically important Air Force bases in the United States. It hosts B-52 bomber operations and Air Force Global Strike Command, making any airspace intrusion especially sensitive. That strategic role immediately raised the stakes when reports emerged on 9 March that an unidentified unmanned aerial system had entered restricted airspace over the base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">drone incursions b 52 base strategic installations</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineDrones Incursions Over B-52 Base Spark Concern23 Mar 2026 — Barksdale announced March 9 it was implementing a...</span></span></span>
+Barksdale AFB, near Bossier City and Shreveport, is one of the most strategically important Air Force bases in the United States. It hosts B-52 bomber operations and Air Force Global Strike Command, making any airspace intrusion especially sensitive. That strategic role immediately raised the stakes when reports emerged on 9 March that an unidentified unmanned aerial system had entered restricted airspace over the base.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">drone incursions b 52 base strategic installations</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineDrones Incursions Over B-52 Base Spark Concern23 Mar 2026 — Barksdale announced March 9 it was implementing a...</span></span></span>
 
-Base leadership responded with a shelter-in-place order on the morning of 9 March. The order was lifted later the same day, but the story did not end there. Subsequent reporting indicated that additional incursions continued across the following week. According to information later cited by ABC News from an internal briefing, security personnel observed “multiple waves” of roughly 12 to 15 drones between 9 and 15 March. The reported activity included flights over sensitive areas such as the flight line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
+Base leadership responded with a shelter-in-place order on the morning of 9 March. The order was lifted later the same day, but the story did not end there. Subsequent reporting indicated that additional incursions continued across the following week. According to information later cited by ABC News from an internal briefing, security personnel observed “multiple waves” of roughly 12 to 15 drones between 9 and 15 March. The reported activity included flights over sensitive areas such as the flight line.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
 
-The Air Force later issued a public fact-check statement after widespread online exaggeration and speculation. Air Force Global Strike Command confirmed that several unauthorised drone incursions had occurred, while also stressing that some public reporting had been inaccurate or incomplete. Officials stated that operations continued and that the matter remained under federal investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+The Air Force later issued a public fact-check statement after widespread online exaggeration and speculation. Air Force Global Strike Command confirmed that several unauthorised drone incursions had occurred, while also stressing that some public reporting had been inaccurate or incomplete. Officials stated that operations continued and that the matter remained under federal investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
 ## Why the Incident Drew So Much Attention
 
 The Barksdale incursions became bigger than a local Louisiana security story because of three overlapping factors.
 
-First, the location mattered. Barksdale is tied directly to America’s nuclear-capable bomber force. Reports of unidentified aircraft operating above or near such a base naturally attract more attention than similar activity over civilian infrastructure. Several national outlets emphasised that point, portraying the drones as a possible espionage or probing operation rather than casual hobbyist activity. Air & Space Forces Magazine <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</span></span></span>
+First, the location mattered. Barksdale is tied directly to America’s nuclear-capable bomber force. Reports of unidentified aircraft operating above or near such a base naturally attract more attention than similar activity over civilian infrastructure. Several national outlets emphasised that point, portraying the drones as a possible espionage or probing operation rather than casual hobbyist activity. Air & Space Forces Magazine<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</span></span></span>
 
-Second, the timing increased anxiety. The incidents occurred during a tense international climate in early 2026, when American officials were already discussing drone warfare, Iranian regional activity and the vulnerability of military installations to low-cost unmanned systems. Commentators quickly linked Barksdale to broader concerns about modern air defence weaknesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/opinions/2026/03/29/drone-swarm-barksdale-louisiana-iran-ukraine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">assets. During a weeklong event, sophisticated and likely custom-built drones managed to infiltrate the airspace of this key nuclear bomb...</span></span></span>
+Second, the timing increased anxiety. The incidents occurred during a tense international climate in early 2026, when American officials were already discussing drone warfare, Iranian regional activity and the vulnerability of military installations to low-cost unmanned systems. Commentators quickly linked Barksdale to broader concerns about modern air defence weaknesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/opinions/2026/03/29/drone-swarm-barksdale-louisiana-iran-ukraine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">assets. During a weeklong event, sophisticated and likely custom-built drones managed to infiltrate the airspace of this key nuclear bomb...</span></span></span>
 
-Third, the information environment amplified uncertainty. Initial local reporting described an unidentified drone over the base. Later leaks and media reports described more complex swarming behaviour involving many drones over several days. Online discussion rapidly transformed the story into claims about “mystery aircraft”, “advanced technology” or covert foreign surveillance. Some social-media posts exaggerated the available evidence far beyond official statements. https www.ksla.com <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
+Third, the information environment amplified uncertainty. Initial local reporting described an unidentified drone over the base. Later leaks and media reports described more complex swarming behaviour involving many drones over several days. Online discussion rapidly transformed the story into claims about “mystery aircraft”, “advanced technology” or covert foreign surveillance. Some social-media posts exaggerated the available evidence far beyond official statements. https www.ksla.com<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
 
 This pattern mirrors older UFO waves around military sites: limited official disclosure leaves room for speculation, while incomplete witness accounts spread faster than verified details.
 
@@ -283,16 +283,16 @@ The confirmed information remained narrower than many online retellings suggeste
 
 Public Air Force statements established several points:
 
-* Unauthorised drones entered Barksdale-controlled airspace during the week of 9 March. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksla.com/2026/03/31/barksdale-fact-checks-drone-coverage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksla.com">[ksla.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksla.com</span><span class="citation-popover-title">barksdale fact checks drone coverage</span><span class="citation-popover-snippet">Barksdale fact-checks drone coverage31 Mar 2026 — “Barksdale Air Force Base detected multiple unauthorized drones operating in our airspa...</span></span></span>
+* Unauthorised drones entered Barksdale-controlled airspace during the week of 9 March.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksla.com/2026/03/31/barksdale-fact-checks-drone-coverage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksla.com">[ksla.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksla.com</span><span class="citation-popover-title">barksdale fact checks drone coverage</span><span class="citation-popover-snippet">Barksdale fact-checks drone coverage31 Mar 2026 — “Barksdale Air Force Base detected multiple unauthorized drones operating in our airspa...</span></span></span>
 * The incursions prompted emergency security measures, including a temporary shelter-in-place order.
 * Federal and local authorities began an active investigation.
-* Flying drones over a military installation is a criminal offence under US law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[kirtland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">fact check barksdale drone incursion</span><span class="citation-popover-snippet">Kirtland Air Force BaseFACT CHECK: Barksdale Drone Incursion31 Mar 2026 — To clear up inaccurate and incomplete reporting, beginning Mond...</span></span></span> More dramatic claims mainly came from media reporting based on internal briefings rather than fully released public documents. These included assertions that:
+* Flying drones over a military installation is a criminal offence under US law.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[kirtland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">fact check barksdale drone incursion</span><span class="citation-popover-snippet">Kirtland Air Force BaseFACT CHECK: Barksdale Drone Incursion31 Mar 2026 — To clear up inaccurate and incomplete reporting, beginning Mond...</span></span></span> More dramatic claims mainly came from media reporting based on internal briefings rather than fully released public documents. These included assertions that:
 
 * groups of 12–15 drones operated in coordinated waves;
 * some drones displayed “non-commercial signal characteristics”;
 * operators may have attempted to avoid detection;
 * certain systems resisted jamming attempts;
-* the incursions affected runway operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</span></span></span>
+* the incursions affected runway operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</span></span></span>
 
 Those reports were widely repeated, but readers should separate them from officially confirmed Air Force releases. The Air Force itself never publicly endorsed every operational detail circulating online.
 
@@ -315,11 +315,11 @@ For Louisiana’s UFO history, this is important because it demonstrates a trans
 
 One reason the Barksdale incursions received serious attention is that modern counter-drone defence remains difficult even for advanced militaries.
 
-Small drones can fly low, move slowly and present tiny radar signatures. Analysts have repeatedly noted that these characteristics make them harder to track than traditional aircraft or missiles. Even when detected, determining who is operating them may be extremely difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.01436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unauthorized Drone Detection: Experiments and Prototypes</span><span class="citation-popover-snippet">Unauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</span><span class="citation-popover-meta">Published: December 2, 2022</span></span></span>
+Small drones can fly low, move slowly and present tiny radar signatures. Analysts have repeatedly noted that these characteristics make them harder to track than traditional aircraft or missiles. Even when detected, determining who is operating them may be extremely difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.01436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unauthorized Drone Detection: Experiments and Prototypes</span><span class="citation-popover-snippet">Unauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</span><span class="citation-popover-meta">Published: December 2, 2022</span></span></span>
 
-Reports that some Barksdale drones resisted jamming attracted particular attention because electronic countermeasures are often considered a standard defence against commercial drones. If accurate, that detail suggested either customised systems, unconventional control methods or limitations in the local counter-drone setup. However, outside observers do not have access to the classified technical evidence needed to judge those claims conclusively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
+Reports that some Barksdale drones resisted jamming attracted particular attention because electronic countermeasures are often considered a standard defence against commercial drones. If accurate, that detail suggested either customised systems, unconventional control methods or limitations in the local counter-drone setup. However, outside observers do not have access to the classified technical evidence needed to judge those claims conclusively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span>
 
-Security experts quoted in national reporting argued that the incidents looked more deliberate than recreational. Former defence officials suggested the activity resembled testing of response procedures or probing of base vulnerabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</span></span></span>
+Security experts quoted in national reporting argued that the incidents looked more deliberate than recreational. Former defence officials suggested the activity resembled testing of response procedures or probing of base vulnerabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</span></span></span>
 
 That interpretation remains more plausible than exotic explanations because the known technology already exists. Coordinated drone swarms are an established military and intelligence concern worldwide.
 
@@ -347,11 +347,11 @@ The Barksdale case therefore serves as a modern example of how “unknown lights
 <img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_2026_barksdale_drone_00f985-Illustration-3-dark.svg" | relative_url }}" alt="2026 Drone Incursions illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_2026_barksdale_drone_00f985-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_2026_barksdale_drone_00f985-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did Later Reporting Strengthen or Weaken the Original Claims?
 
-Later reporting strengthened the core claim that a genuine drone-security problem occurred at Barksdale. Multiple independent outlets confirmed that unauthorised drones entered restricted airspace and that federal authorities treated the matter seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">drone incursions b 52 base strategic installations</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineDrones Incursions Over B-52 Base Spark Concern23 Mar 2026 — Barksdale announced March 9 it was implementing a...</span></span></span>
+Later reporting strengthened the core claim that a genuine drone-security problem occurred at Barksdale. Multiple independent outlets confirmed that unauthorised drones entered restricted airspace and that federal authorities treated the matter seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">drone incursions b 52 base strategic installations</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineDrones Incursions Over B-52 Base Spark Concern23 Mar 2026 — Barksdale announced March 9 it was implementing a...</span></span></span>
 
 However, later coverage also complicated some of the more dramatic narratives.
 
-The Air Force’s public fact-check suggested that certain online claims had overstated operational impacts or relied on incomplete information. Meanwhile, some media stories mixed confirmed facts with anonymous-source reporting and speculative commentary about foreign surveillance or warfare scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+The Air Force’s public fact-check suggested that certain online claims had overstated operational impacts or relied on incomplete information. Meanwhile, some media stories mixed confirmed facts with anonymous-source reporting and speculative commentary about foreign surveillance or warfare scenarios.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
 As of spring 2026, no publicly released evidence showed extraterrestrial craft, impossible flight characteristics or physics-defying behaviour. The strongest evidence pointed instead toward a serious but earthly counter-drone challenge.
 
@@ -360,194 +360,194 @@ That distinction is important for interpreting modern UFO reports in Louisiana a
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uhDOjNvK8Fk" title="Mysterious Drones Near US Military Bases Raise Security Concerns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uhDOjNvK8Fk" target="_blank" rel="noopener noreferrer">Mysterious Drones Near US Military Bases Raise Security Concerns</a></p><p class="youtube-embed-meta">Channel: NTD &middot; Views: 4.2K &middot; Uploaded: April 2026 &middot; Length: 1 minute 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uhDOjNvK8Fk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uhDOjNvK8Fk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Drones Disrupt Barksdale Air Force Base in 2026?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Drones Disrupt Barksdale Air Force Base in 2026?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers understand advanced aircraft secrecy and misidentification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand advanced aircraft secrecy and misidentification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Relevant to contemporary debates over unidentified objects near military facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to contemporary debates over unidentified objects near military facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical comparison for modern unidentified-airspace incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical comparison for modern unidentified-airspace incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers frameworks for distinguishing unidentified from extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers frameworks for distinguishing unidentified from extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model"><img src="https://i.ebayimg.com/images/g/~iMAAOSwDfplJlf9/s-l225.jpg" alt="Listing image for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model"><img src="https://i.ebayimg.com/images/g/~iMAAOSwDfplJlf9/s-l225.jpg" alt="Listing image for 2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">2x Zeee Short 7.4V 2200mAh 2S Lipo Battery XT60 50C for Car Boat UAV Drone Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/eeQAAeSwKOdqCOKl/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Louie Fully Painted Models Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/eeQAAeSwKOdqCOKl/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Louie Fully Painted Models Sci-Fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Neo 2 (Drone and battery Only model) - Brand NEW &amp; SEALED - 1yr warranty"><img src="https://i.ebayimg.com/images/g/aYUAAeSwrplqKAXx/s-l225.jpg" alt="Listing image for DJI Neo 2 (Drone and battery Only model) - Brand NEW &amp; SEALED - 1yr warranty" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Neo 2 (Drone and battery Only model) - Brand NEW &amp; SEALED - 1yr warranty</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Neo 2 (Drone and battery Only model) - Brand NEW &amp; SEALED - 1yr warranty"><img src="https://i.ebayimg.com/images/g/aYUAAeSwrplqKAXx/s-l225.jpg" alt="Listing image for DJI Neo 2 (Drone and battery Only model) - Brand NEW &amp; SEALED - 1yr warranty" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Neo 2 (Drone and battery Only model) - Brand NEW &amp; SEALED - 1yr warranty</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal"><img src="https://i.ebayimg.com/images/g/LLwAAeSwlaFoypJV/s-l225.jpg" alt="Listing image for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal"><img src="https://i.ebayimg.com/images/g/LLwAAeSwlaFoypJV/s-l225.jpg" alt="Listing image for 1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 MQ-1B Predator UAV Drone Diecast Model USAF 432nd Wing Creech AFB Metal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="how-did-drones-disrupt-barksdale-air-force-base-in-2026-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ That distinction is important for interpreting modern UFO reports in Louisiana a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ That distinction is important for interpreting modern UFO reports in Louisiana a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ That distinction is important for interpreting modern UFO reports in Louisiana a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ That distinction is important for interpreting modern UFO reports in Louisiana a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ That distinction is important for interpreting modern UFO reports in Louisiana a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,119 +753,119 @@ That distinction is important for interpreting modern UFO reports in Louisiana a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ksla.com  
-   Link: <a href="https://www.ksla.com/2026/03/09/shelter-in-place-lifted-barksdale-airforce-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksla.com/2026/03/09/shelter-in-place-lifted-barksdale-airforce-base/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.ksla.comBarksdale](https://www.ksla.comBarksdale) confirms multiple drones entered its airspace...March 9, 2026 — 9 Mar 2026 — “Barksdale Air Force Base det...</p></details>
+   Link:<a href="https://www.ksla.com/2026/03/09/shelter-in-place-lifted-barksdale-airforce-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksla.com/2026/03/09/shelter-in-place-lifted-barksdale-airforce-base/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.ksla.comBarksdale](https://www.ksla.comBarksdale) confirms multiple drones entered its airspace...March 9, 2026 — 9 Mar 2026 — “Barksdale Air Force Base det...</p></details>
    Published: March 9, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ksla.com  
    Title: barksdale fact checks drone coverage  
-   Link: <a href="https://www.ksla.com/2026/03/31/barksdale-fact-checks-drone-coverage/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksla.com/2026/03/31/barksdale-fact-checks-drone-coverage/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barksdale fact-checks drone coverage31 Mar 2026 — “Barksdale Air Force Base detected multiple unauthorized drones operating in our airspa...</p></details>
+   Link:<a href="https://www.ksla.com/2026/03/31/barksdale-fact-checks-drone-coverage/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksla.com/2026/03/31/barksdale-fact-checks-drone-coverage/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barksdale fact-checks drone coverage31 Mar 2026 — “Barksdale Air Force Base detected multiple unauthorized drones operating in our airspa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Unauthorized Drone Detection: Experiments and Prototypes  
-   Link: <a href="https://arxiv.org/abs/2212.01436" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.01436</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2212.01436" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.01436</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unauthorized Drone Detection: Experiments and PrototypesDecember 2, 2022...</p></details>
    Published: December 2, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentLarge number of &#x27;unidentified drones&#x27; spotted over base...20 Mar 2026 — “Barksdale Air Force Base detected multiple unaut...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentLarge number of &#x27;unidentified drones&#x27; spotted over base...20 Mar 2026 — “Barksdale Air Force Base detected multiple unaut...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afgsc.af.mil  
    Title: Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion  
-   Link: <a href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</p></details>
+   Link:<a href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Global Strike CommandFACT CHECK: Barksdale Drone IncursionMarch 31, 2026...</p></details>
    Published: March 31, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</p></details>
+   Link:<a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted...20 Mar 2026 — “Between March 9-15, 2026, BAFB Security Forces observe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airandspaceforces.com  
    Title: drone incursions b 52 base strategic installations  
-   Link: <a href="https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineDrones Incursions Over B-52 Base Spark Concern23 Mar 2026 — Barksdale announced March 9 it was implementing a...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/drone-incursions-b-52-base-strategic-installations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineDrones Incursions Over B-52 Base Spark Concern23 Mar 2026 — Barksdale announced March 9 it was implementing a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Barksdale Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kirtland.af.mil  
    Title: fact check barksdale drone incursion  
-   Link: <a href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirtland Air Force BaseFACT CHECK: Barksdale Drone Incursion31 Mar 2026 — To clear up inaccurate and incomplete reporting, beginning Mond...</p></details>
+   Link:<a href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirtland Air Force BaseFACT CHECK: Barksdale Drone Incursion31 Mar 2026 — To clear up inaccurate and incomplete reporting, beginning Mond...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</p></details>
+   Link:<a href="https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/21/us-news/mysterious-drones-swarmed-us-air-force-base-home-to-nuclear-bombers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The drones resisted military jamming efforts and appeared to conduct coordinated, deliberate incursions, including testing security respo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/opinions/2026/03/29/drone-swarm-barksdale-louisiana-iran-ukraine/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/2026/03/29/drone-swarm-barksdale-louisiana-iran-ukraine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>assets. During a weeklong event, sophisticated and likely custom-built drones managed to infiltrate the airspace of this key nuclear bomb...</p></details>
+   Link:<a href="https://www.washingtonpost.com/opinions/2026/03/29/drone-swarm-barksdale-louisiana-iran-ukraine/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/2026/03/29/drone-swarm-barksdale-louisiana-iran-ukraine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>assets. During a weeklong event, sophisticated and likely custom-built drones managed to infiltrate the airspace of this key nuclear bomb...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedailybeast.com  
-   Link: <a href="https://www.thedailybeast.com/leak-reveals-major-drone-incident-at-louisiana-air-force-base-in-trumps-war/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/leak-reveals-major-drone-incident-at-louisiana-air-force-base-in-trumps-war/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On March 9, during heightened tensions from President Trump&#x27;s war in Iran, a shelter-in-place order was issued due to an unmanned aerial...</p></details>
+   Link:<a href="https://www.thedailybeast.com/leak-reveals-major-drone-incident-at-louisiana-air-force-base-in-trumps-war/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/leak-reveals-major-drone-incident-at-louisiana-air-force-base-in-trumps-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On March 9, during heightened tensions from President Trump&#x27;s war in Iran, a shelter-in-place order was issued due to an unmanned aerial...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bl-dNTgt1jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bl-dNTgt1jw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bl-dNTgt1jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bl-dNTgt1jw</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: moderndiplomacy.eu  
    Title: the barksdale incursion the end of strategic sanctuary  
-   Link: <a href="https://moderndiplomacy.eu/2026/04/21/the-barksdale-incursion-the-end-of-strategic-sanctuary/" target="_blank" rel="noopener noreferrer nofollow">https://moderndiplomacy.eu/2026/04/21/the-barksdale-incursion-the-end-of-strategic-sanctuary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Barksdale Incursion: The End of Strategic Sanctuary21 Apr 2026 — The drone incursions over Barksdale Air Force Base are not a local s...</p></details>
+   Link:<a href="https://moderndiplomacy.eu/2026/04/21/the-barksdale-incursion-the-end-of-strategic-sanctuary/" target="_blank" rel="noopener noreferrer nofollow">https://moderndiplomacy.eu/2026/04/21/the-barksdale-incursion-the-end-of-strategic-sanctuary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Barksdale Incursion: The End of Strategic Sanctuary21 Apr 2026 — The drone incursions over Barksdale Air Force Base are not a local s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Base for nearly a week, one of the most strategic...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Base for nearly a week, one of the most strategic...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r Force Base for nearly a week, one of the most strategic...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r Force Base for nearly a week, one of the most strategic...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wnct9/posts/early-on-monday-march-9-reports-began-to-circulate-that-a-shelter-in-place-was-o/1342400321249691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wnct9/posts/early-on-monday-march-9-reports-began-to-circulate-that-a-shelter-in-place-was-o/1342400321249691/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, leading to a shelter-in- place order and new security measures...</p></details>
+   Link:<a href="https://www.facebook.com/wnct9/posts/early-on-monday-march-9-reports-began-to-circulate-that-a-shelter-in-place-was-o/1342400321249691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wnct9/posts/early-on-monday-march-9-reports-began-to-circulate-that-a-shelter-in-place-was-o/1342400321249691/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, leading to a shelter-in- place order and new security measures...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dronelife.com  
    Title: barksdale air force base drone incident  
-   Link: <a href="https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barksdale Drone Incursions Highlight Real Security Risks30 Mar 2026 — Unauthorized drones over Barksdale Air Force Base raise security co...</p></details>
+   Link:<a href="https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barksdale Drone Incursions Highlight Real Security Risks30 Mar 2026 — Unauthorized drones over Barksdale Air Force Base raise security co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWHhzJ8kQXS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHhzJ8kQXS/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>clear if there has been activity since. The...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWHhzJ8kQXS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHhzJ8kQXS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clear if there has been activity since. The...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
    Title: Barksdale isn't just any  
-   Link: <a href="https://www.instagram.com/reel/DWH_QSJFfoE/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWH_QSJFfoE/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law enforcement officials have warned of “a significant threat...For 7 straight days in March, waves of 12–15 unidentified drones flew o...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWH_QSJFfoE/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWH_QSJFfoE/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law enforcement officials have warned of “a significant threat...For 7 straight days in March, waves of 12–15 unidentified drones flew o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWHKTJCAmmc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHKTJCAmmc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone sighting that temporarily raised alarms at one of the...Unauthorized drones swarmed Barksdale AFB, survived all jamming attempts...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWHKTJCAmmc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHKTJCAmmc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone sighting that temporarily raised alarms at one of the...Unauthorized drones swarmed Barksdale AFB, survived all jamming attempts...</p></details>

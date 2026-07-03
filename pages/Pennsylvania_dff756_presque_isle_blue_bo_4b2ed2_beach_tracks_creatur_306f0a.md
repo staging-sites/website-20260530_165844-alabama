@@ -250,26 +250,26 @@ image: /assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_trac
 
 ## Introduction
 
-The beach traces and alleged creature sighting at [Presque Isle]({{ 'presque-isle/' | relative_url }}) are the most dramatic parts of Erie’s 1966 UFO story, but they are also the least reliable. While Project [Blue Book]({{ 'blue-book-68fdf4/' | relative_url }}) ultimately kept the aerial object report in its unresolved category, the physical evidence on the beach never carried the same weight. Reports of strange sand impressions, disturbed ground and a dark figure near Beach Six helped turn the case into Pennsylvania UFO folklore, yet those details emerged in a setting where ordinary explanations were difficult to rule out. The result is a useful example of how a UFO case can become more famous through its most questionable elements rather than its strongest evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
+The beach traces and alleged creature sighting at [Presque Isle]({{ 'presque-isle/' | relative_url }}) are the most dramatic parts of Erie’s 1966 UFO story, but they are also the least reliable. While Project [Blue Book]({{ 'blue-book-68fdf4/' | relative_url }}) ultimately kept the aerial object report in its unresolved category, the physical evidence on the beach never carried the same weight. Reports of strange sand impressions, disturbed ground and a dark figure near Beach Six helped turn the case into Pennsylvania UFO folklore, yet those details emerged in a setting where ordinary explanations were difficult to rule out. The result is a useful example of how a UFO case can become more famous through its most questionable elements rather than its strongest evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-dark.svg" | relative_url }}" alt="Beach Tracks illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses and newspapers said was found
 
-The original reports described more than an unusual light in the sky. Witnesses and later newspaper accounts claimed that investigators found marks in the sand near the area where an object was believed to have descended. Erie newspapers reported that police and civilian UFO investigators examined the location after the event, and later summaries repeated claims that numerous impressions were present around Beach Six. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
+The original reports described more than an unusual light in the sky. Witnesses and later newspaper accounts claimed that investigators found marks in the sand near the area where an object was believed to have descended. Erie newspapers reported that police and civilian UFO investigators examined the location after the event, and later summaries repeated claims that numerous impressions were present around Beach Six.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
 
-Some retellings went further, suggesting that the impressions formed a pattern consistent with a landing. Those descriptions became increasingly important in popular versions of the story because they appeared to offer physical proof rather than eyewitness testimony alone. Yet surviving accounts are often vague about the size, depth and arrangement of the marks. Detailed measurements, controlled photographs and systematic documentation are largely absent from public retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
+Some retellings went further, suggesting that the impressions formed a pattern consistent with a landing. Those descriptions became increasingly important in popular versions of the story because they appeared to offer physical proof rather than eyewitness testimony alone. Yet surviving accounts are often vague about the size, depth and arrangement of the marks. Detailed measurements, controlled photographs and systematic documentation are largely absent from public retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
 
-The creature claim emerged from the same cluster of witness statements. Betty Jean Klem later recalled seeing a dark, featureless figure and hearing sounds around the vehicle after the reported object descended. According to newspaper-derived summaries, she described something moving near the car and noises on or above it. These details quickly became some of the most memorable aspects of the Erie story because they transformed a light-in-the-sky report into something closer to a close encounter narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
+The creature claim emerged from the same cluster of witness statements. Betty Jean Klem later recalled seeing a dark, featureless figure and hearing sounds around the vehicle after the reported object descended. According to newspaper-derived summaries, she described something moving near the car and noises on or above it. These details quickly became some of the most memorable aspects of the Erie story because they transformed a light-in-the-sky report into something closer to a close encounter narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
 
-However, even sympathetic investigators faced a problem: the alleged creature was observed briefly, under stressful conditions and in darkness. No photographs, physical traces clearly linked to a creature, or independent confirmations established what was actually seen. The creature report remained dependent on witness recollection rather than verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
+However, even sympathetic investigators faced a problem: the alleged creature was observed briefly, under stressful conditions and in darkness. No photographs, physical traces clearly linked to a creature, or independent confirmations established what was actually seen. The creature report remained dependent on witness recollection rather than verifiable evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aga-fA6iUm4" title="Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer">Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 5.7M &middot; Uploaded: July 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aga-fA6iUm4">Open on YouTube</a></p></div></div></div>
 
 ## Why sand impressions are hard to interpret
 
-The beach environment itself makes the physical evidence difficult to evaluate. Presque Isle is a dynamic sand peninsula shaped by wind, waves, drifting sand and heavy public use. Tracks and impressions can be altered rapidly by weather, animals and human activity. Even genuine marks may become impossible to interpret once multiple people have walked through an area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presque_Isle_State_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Presque Isle State Park</span><span class="citation-popover-snippet">Presque Isle State Park</span></span></span>
+The beach environment itself makes the physical evidence difficult to evaluate. Presque Isle is a dynamic sand peninsula shaped by wind, waves, drifting sand and heavy public use. Tracks and impressions can be altered rapidly by weather, animals and human activity. Even genuine marks may become impossible to interpret once multiple people have walked through an area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presque_Isle_State_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Presque Isle State Park</span><span class="citation-popover-snippet">Presque Isle State Park</span></span></span>
 
-That problem was especially relevant at Beach Six. The area was not an isolated scientific test site. It was a public beach where vehicles, park staff, police officers, curious visitors and investigators moved through the scene after reports spread. By the time searches were conducted, any original traces could have been mixed with later disturbances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
+That problem was especially relevant at Beach Six. The area was not an isolated scientific test site. It was a public beach where vehicles, park staff, police officers, curious visitors and investigators moved through the scene after reports spread. By the time searches were conducted, any original traces could have been mixed with later disturbances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
 
 Several factors make the impressions less persuasive than later folklore suggests:
 
@@ -283,12 +283,12 @@ Several factors make the impressions less persuasive than later folklore suggest
 
 </div>
 
-In UFO investigations, physical traces become strongest when investigators can demonstrate that ordinary causes are unlikely. The Presque Isle marks never reached that standard. They remained interesting but ambiguous observations rather than compelling forensic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
+In UFO investigations, physical traces become strongest when investigators can demonstrate that ordinary causes are unlikely. The Presque Isle marks never reached that standard. They remained interesting but ambiguous observations rather than compelling forensic evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-dark.svg" | relative_url }}" alt="Beach Tracks illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Blue Book treated the traces cautiously
 
-One reason the Presque Isle case remains important is that the official Air Force response was more restrained than many later retellings. The Blue Book file preserved witness statements and investigative material, but official handling did not treat the beach marks as proof that a craft had landed. Researchers who have reviewed the case generally note that the unidentified status applied to the aerial observation, not necessarily to every associated claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
+One reason the Presque Isle case remains important is that the official Air Force response was more restrained than many later retellings. The Blue Book file preserved witness statements and investigative material, but official handling did not treat the beach marks as proof that a craft had landed. Researchers who have reviewed the case generally note that the unidentified status applied to the aerial observation, not necessarily to every associated claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
 
 This distinction matters because popular accounts often merge three separate questions into one:
 
@@ -300,7 +300,7 @@ This distinction matters because popular accounts often merge three separate que
 
 </div>
 
-The available evidence does not support all three questions equally. The first remained unresolved in official records. The second was uncertain and difficult to interpret. The third rested almost entirely on witness testimony. Treating them as a single block of evidence makes the case appear stronger than the documentation allows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
+The available evidence does not support all three questions equally. The first remained unresolved in official records. The second was uncertain and difficult to interpret. The third rested almost entirely on witness testimony. Treating them as a single block of evidence makes the case appear stronger than the documentation allows.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cYPCKIL7oVw" title="UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer">UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film</a></p><p class="youtube-embed-meta">Channel: UFO CENTRAL &middot; Views: 9.2M &middot; Uploaded: November 2011 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cYPCKIL7oVw">Open on YouTube</a></p></div></div></div>
 
@@ -308,11 +308,11 @@ The available evidence does not support all three questions equally. The first r
 
 The dark figure reported near the car had a lasting cultural impact precisely because it was the most vivid part of the story. A distant light can be forgotten; a mysterious creature stalking a stranded vehicle is far easier to remember and retell.
 
-Over time, local newspaper retrospectives, regional history pieces and paranormal discussions increasingly highlighted the creature element. In many retellings the figure became a central character rather than a secondary observation made during a confusing event. The story also benefited from its setting. Presque Isle's beaches, wooded areas and shoreline atmosphere already lend themselves to [local legends]({{ 'local-legend/' | relative_url }}), making the encounter memorable long after the details became uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
+Over time, local newspaper retrospectives, regional history pieces and paranormal discussions increasingly highlighted the creature element. In many retellings the figure became a central character rather than a secondary observation made during a confusing event. The story also benefited from its setting. Presque Isle's beaches, wooded areas and shoreline atmosphere already lend themselves to [local legends]({{ 'local-legend/' | relative_url }}), making the encounter memorable long after the details became uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
 
 The creature description itself remained remarkably indistinct. Witnesses did not provide a detailed biological description, and accounts generally emphasised darkness, shape and movement rather than specific features. That vagueness allowed later storytellers to imagine different possibilities while making the original claim harder to test. A poorly defined figure in darkness can be interpreted as an animal, a person, a shadow, a mistaken perception or something more exotic depending on the assumptions brought to the story.
 
-This is one reason sceptical interpretations have remained plausible. A dark shoreline environment, heightened emotions, unusual lights and a stranded vehicle create conditions in which ordinary sights and sounds can seem extraordinary. The creature claim may therefore reveal as much about perception under stress as it does about whatever happened near Beach Six that evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
+This is one reason sceptical interpretations have remained plausible. A dark shoreline environment, heightened emotions, unusual lights and a stranded vehicle create conditions in which ordinary sights and sounds can seem extraordinary. The creature claim may therefore reveal as much about perception under stress as it does about whatever happened near Beach Six that evening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-dark.svg" | relative_url }}" alt="Beach Tracks illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the beach traces actually tell us
@@ -321,274 +321,274 @@ The beach marks and creature reports helped make Presque Isle one of Pennsylvani
 
 They show how a UFO incident can acquire layers of meaning as witnesses, newspapers, investigators and later enthusiasts focus on the most dramatic details. The sand impressions created the impression of physical evidence. The creature report supplied a memorable narrative. Together they transformed a local sighting into a regional legend.
 
-Yet those same features are also the weakest parts of the record. The impressions were found in an environment where contamination and misinterpretation were highly likely. The creature was never independently verified. More than half a century later, the traces remain intriguing but inconclusive, while the creature has largely passed from reported observation into local folklore. That tension between official mystery and unreliable embellishment is exactly what makes the Presque Isle case such a revealing chapter in Pennsylvania's UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
+Yet those same features are also the weakest parts of the record. The impressions were found in an environment where contamination and misinterpretation were highly likely. The creature was never independently verified. More than half a century later, the traces remain intriguing but inconclusive, while the creature has largely passed from reported observation into local folklore. That tension between official mystery and unreliable embellishment is exactly what makes the Presque Isle case such a revealing chapter in Pennsylvania's UFO history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pSZUBulON6I" title="UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer">UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 3.2M &middot; Uploaded: August 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pSZUBulON6I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the beach traces prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the beach traces prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for how evidence quality affects case interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how evidence quality affects case interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful background on evaluating reports with limited physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on evaluating reports with limited physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Real-Life+X-Files+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real-Life X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wWAP2cs0lB0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Real-Life X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Real-Life+X-Files+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real-Life X-Files">Real-Life X-Files</a>
-        </h4>
-        <p class="fr-book-author">By Joe Nickell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Real-Life+X-Files+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real-Life X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wWAP2cs0lB0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Real-Life X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Real-Life+X-Files+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real-Life X-Files">Real-Life X-Files</a>
+</h4>
+<p class="fr-book-author">By Joe Nickell</p>
         
-        <p class="fr-book-desc">Focuses on evaluating alleged physical evidence and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Real-Life+X-Files+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating alleged physical evidence and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Real-Life+X-Files+by+Joe+Nickell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswellian+Syndrome%3A+How+Some+UFO+Myths+Develop+Joe+Nickell+and+James+McGaha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswellian Syndrome: How Some UFO Myths Develop on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswellian+Syndrome%3A+How+Some+UFO+Myths+Develop+Joe+Nickell+and+James+McGaha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswellian Syndrome: How Some UFO Myths Develop">The Roswellian Syndrome: How Some UFO Myths Develop</a>
-        </h4>
-        <p class="fr-book-author">By Joe Nickell and James McGaha</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswellian+Syndrome%3A+How+Some+UFO+Myths+Develop+Joe+Nickell+and+James+McGaha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswellian Syndrome: How Some UFO Myths Develop on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswellian+Syndrome%3A+How+Some+UFO+Myths+Develop+Joe+Nickell+and+James+McGaha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswellian Syndrome: How Some UFO Myths Develop">The Roswellian Syndrome: How Some UFO Myths Develop</a>
+</h4>
+<p class="fr-book-author">By Joe Nickell and James McGaha</p>
         
-        <p class="fr-book-desc">Highly relevant to disputed physical traces and folklore growth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswellian+Syndrome%3A+How+Some+UFO+Myths+Develop+Joe+Nickell+and+James+McGaha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to disputed physical traces and folklore growth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswellian+Syndrome%3A+How+Some+UFO+Myths+Develop+Joe+Nickell+and+James+McGaha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Real+Life+X+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Real Life X Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Real+Life+X+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Real Life X Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beach-tracks-did-the-beach-traces-prove-anything-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ Yet those same features are also the weakest parts of the record. The impression
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ Yet those same features are also the weakest parts of the record. The impression
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ Yet those same features are also the weakest parts of the record. The impression
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ Yet those same features are also the weakest parts of the record. The impression
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -744,99 +744,99 @@ Yet those same features are also the weakest parts of the record. The impression
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Presque Isle State Park  
-   Link: <a href="https://en.wikipedia.org/wiki/Presque_Isle_State_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presque_Isle_State_Park</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Presque_Isle_State_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presque_Isle_State_Park</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: Said he would call if he heard of any such reports •. •. •. Page 105  
-   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</p></details>
    Published: July 1966  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hagenhistory.org  
    Title: ufo sightings appear and disappear in the erie county region  
-   Link: <a href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow">https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</p></details>
+   Link:<a href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow">https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eriehistory.blogspot.com  
    Title: ufo sightings at presque isle state park  
-   Link: <a href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</p></details>
+   Link:<a href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity that is finished over a period of time and intended to ach...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity that is finished over a period of time and intended to ach...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: knowledgetrain.co.uk  
-   Link: <a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Projects | Definition of a ProjectProjects are more than just temporary endeavours; they are the lifeblood of organizations, driving stra...</p></details>
+   Link:<a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Projects | Definition of a ProjectProjects are more than just temporary endeavours; they are the lifeblood of organizations, driving stra...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
    Title: FLYIN G SAUCERS UFO REPORTS | CIA FOIA (foia.cia.gov)Erie, Pa.,  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTS | CIA FOIA (foia.cia.gov)Erie, Pa., August 1, 1966: Equally certain that sighters had &quot;seen something&quot; were th...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTS | CIA FOIA (foia.cia.gov)Erie, Pa., August 1, 1966: Equally certain that sighters had &quot;seen something&quot; were th...</p></details>
    Published: August 1, 1966  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: the blue man of elktonin early 1958 motorists around elkton in michigans thumb r  
-   Link: <a href="https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Blue Man of Elkton In early 1958, motorists around...It happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle i...</p></details>
+   Link:<a href="https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Blue Man of Elkton In early 1958, motorists around...It happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle i...</p></details>
    Published: July 31, 1966  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: History of Presque Isle's UFO Landing It happened on a warm summer evening  
-   Link: <a href="https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Presque Isle&#x27;s UFO LandingIt happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle in Erie Pa. Many peopl...</p></details>
+   Link:<a href="https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of Presque Isle&#x27;s UFO LandingIt happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle in Erie Pa. Many peopl...</p></details>
    Published: July 31, 1966  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: American Institute of Metaphysics It happened on a warm summer evening  
-   Link: <a href="https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Institute of MetaphysicsIt happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle in Erie Pa. Many people wi...</p></details>
+   Link:<a href="https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Institute of MetaphysicsIt happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle in Erie Pa. Many people wi...</p></details>
    Published: July 31, 1966  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: talkerie.com  
    Title: that time in 1966 when an ufo might have visited erie  
-   Link: <a href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow">https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2021 — Back in 1966, a group of friends witnessed a UFO on Presque Isle&#x27;s Beach 6, making Erie the focus of Federal Blue Book Case...</p></details>
+   Link:<a href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow">https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2021 — Back in 1966, a group of friends witnessed a UFO on Presque Isle&#x27;s Beach 6, making Erie the focus of Federal Blue Book Case...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oxfordlearnersdictionaries.com  
    Title: a history project; project on something My  
-   Link: <a href="https://www.oxfordlearnersdictionaries.com/definition/english/project_1" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/project_1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>project noun - Definition, pictures, pronunciation and usage...a piece of work involving careful study of a subject over a period of tim...</p></details>
+   Link:<a href="https://www.oxfordlearnersdictionaries.com/definition/english/project_1" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/project_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>project noun - Definition, pictures, pronunciation and usage...a piece of work involving careful study of a subject over a period of tim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Presque Isle “Shadow Creatures” Sightings (2000s) –...It happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle...</p></details>
+   Link:<a href="https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Presque Isle “Shadow Creatures” Sightings (2000s) –...It happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle...</p></details>
    Published: July 31, 1966

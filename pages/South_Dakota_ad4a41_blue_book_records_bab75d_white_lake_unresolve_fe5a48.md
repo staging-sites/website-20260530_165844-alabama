@@ -250,20 +250,20 @@ image: /assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_un
 
 ## Introduction
 
-The White Lake sighting of August 1952 occupies a small but unusual place in South Dakota's UFO history because it was the only case from the state that Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) ultimately left in its formal “unidentified” category. That label did not mean the Air Force believed an alien craft had been seen. It meant something narrower: investigators felt the report contained enough detail to deserve evaluation, yet they could not confidently match it to a known aircraft, balloon, astronomical object or other ordinary cause. In a state where most surviving Blue Book cases received conventional explanations or were dismissed as lacking information, White Lake stands out as an example of how a sighting could remain unresolved without becoming proven evidence of anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
+The White Lake sighting of August 1952 occupies a small but unusual place in South Dakota's UFO history because it was the only case from the state that Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) ultimately left in its formal “unidentified” category. That label did not mean the Air Force believed an alien craft had been seen. It meant something narrower: investigators felt the report contained enough detail to deserve evaluation, yet they could not confidently match it to a known aircraft, balloon, astronomical object or other ordinary cause. In a state where most surviving Blue Book cases received conventional explanations or were dismissed as lacking information, White Lake stands out as an example of how a sighting could remain unresolved without becoming proven evidence of anything extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-1-dark.svg" | relative_url }}" alt="White Lake illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The case also illustrates a broader problem that runs through the Blue Book files. A report could be detailed enough to avoid the “insufficient data” category but still too limited to establish what was actually observed. White Lake therefore matters less as a mystery with a dramatic answer than as a test case for how the Air Force handled uncertainty during the intense UFO wave of 1952. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
+The case also illustrates a broader problem that runs through the Blue Book files. A report could be detailed enough to avoid the “insufficient data” category but still too limited to establish what was actually observed. White Lake therefore matters less as a mystery with a dramatic answer than as a test case for how the Air Force handled uncertainty during the intense UFO wave of 1952.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKqlNK_IG1w" title="I Saw a Cigar Shaped Object in the Sky, What Was it? | This Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKqlNK_IG1w" target="_blank" rel="noopener noreferrer">I Saw a Cigar Shaped Object in the Sky, What Was it? | This Morning</a></p><p class="youtube-embed-meta">Channel: This Morning &middot; Views: 10.3K &middot; Uploaded: June 2018 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKqlNK_IG1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKqlNK_IG1w">Open on YouTube</a></p></div></div></div>
 
 ## What the observer reported at White Lake
 
-According to the surviving Blue Book records, the report came from a member of the Ground Observer Corps near White Lake, South Dakota, on 14 August 1952. The Ground Observer Corps was a Cold War civilian observation network intended to watch for potentially hostile aircraft, giving the witness a status that investigators generally regarded as more serious than that of a casual passer-by. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+According to the surviving Blue Book records, the report came from a member of the Ground Observer Corps near White Lake, South Dakota, on 14 August 1952. The Ground Observer Corps was a Cold War civilian observation network intended to watch for potentially hostile aircraft, giving the witness a status that investigators generally regarded as more serious than that of a casual passer-by.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
-The witness reported seeing a cigar-shaped aerial object on two separate occasions. Blue Book documentation described the object as remaining visible for roughly thirty to forty minutes during each observation. The long viewing time distinguished the report from many fleeting “light in the sky” sightings that were easier to dismiss as meteors or momentary misperceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+The witness reported seeing a cigar-shaped aerial object on two separate occasions. Blue Book documentation described the object as remaining visible for roughly thirty to forty minutes during each observation. The long viewing time distinguished the report from many fleeting “light in the sky” sightings that were easier to dismiss as meteors or momentary misperceptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
-What makes the White Lake file noteworthy is not that the description was spectacular, but that it was comparatively structured. The observer gave investigators enough information about appearance and duration for the case to be formally processed rather than immediately discarded. Yet the available records do not contain the kind of supporting evidence that would allow a modern reader to reconstruct the event with confidence. There were no photographs, radar tracks or multiple independently documented witness statements that could firmly establish distance, speed, altitude or size. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+What makes the White Lake file noteworthy is not that the description was spectacular, but that it was comparatively structured. The observer gave investigators enough information about appearance and duration for the case to be formally processed rather than immediately discarded. Yet the available records do not contain the kind of supporting evidence that would allow a modern reader to reconstruct the event with confidence. There were no photographs, radar tracks or multiple independently documented witness statements that could firmly establish distance, speed, altitude or size.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
 That gap between a reasonably detailed description and a lack of hard measurements became the central problem of the case.
 
@@ -271,14 +271,14 @@ That gap between a reasonably detailed description and a lack of hard measuremen
 
 ## Why Blue Book treated it as unidentified
 
-Project Blue Book's official categories were often misunderstood. An unidentified case was not simply one that investigators had not yet looked at. The Air Force definition was intended for reports that contained enough information to permit analysis but still resisted a satisfactory explanation. White Lake ended up in that narrow category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span> Wikipedia South Dakota historian Lawrence H. Larsen <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>, reviewing the Great Plains Blue Book files, noted that White Lake was the state's only case listed as unidentified. His discussion is useful because it places the sighting within the larger pattern of Blue Book evaluations. Many South Dakota reports were assigned explanations despite evidence that was sometimes no stronger than the information available in White Lake. The distinction often came down to how investigators weighed probabilities rather than to any clear scientific threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
+Project Blue Book's official categories were often misunderstood. An unidentified case was not simply one that investigators had not yet looked at. The Air Force definition was intended for reports that contained enough information to permit analysis but still resisted a satisfactory explanation. White Lake ended up in that narrow category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span> Wikipedia South Dakota historian Lawrence H. Larsen<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>, reviewing the Great Plains Blue Book files, noted that White Lake was the state's only case listed as unidentified. His discussion is useful because it places the sighting within the larger pattern of Blue Book evaluations. Many South Dakota reports were assigned explanations despite evidence that was sometimes no stronger than the information available in White Lake. The distinction often came down to how investigators weighed probabilities rather than to any clear scientific threshold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
 
 Several factors likely helped keep White Lake unresolved:
 
 * The witness was not anonymous and belonged to an organised observation network.
 * The object was reportedly observed for a substantial period rather than for only a few seconds.
 * Investigators apparently lacked enough contradictory evidence to dismiss the report outright.
-* At the same time, there was insufficient data to determine the object's distance, altitude and true motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+* At the same time, there was insufficient data to determine the object's distance, altitude and true motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
 These conditions created a bureaucratic middle ground. Blue Book could not confidently identify the object, but neither could it demonstrate that anything extraordinary had occurred.
 
@@ -287,9 +287,9 @@ The case therefore reveals something important about the meaning of “unidentif
 <img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-2-dark.svg" | relative_url }}" alt="White Lake illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a stray missile explanation would and would not settle
 
-Over the years, some discussions of the White Lake sighting have suggested that a missile or military test vehicle might explain the report. Such suggestions are understandable because the sighting occurred during the early Cold War, when missile development and military aviation activity were expanding across the United States. The cigar-shaped description also resembles language that witnesses sometimes used for rockets, contrails or elongated aircraft viewed under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Over the years, some discussions of the White Lake sighting have suggested that a missile or military test vehicle might explain the report. Such suggestions are understandable because the sighting occurred during the early Cold War, when missile development and military aviation activity were expanding across the United States. The cigar-shaped description also resembles language that witnesses sometimes used for rockets, contrails or elongated aircraft viewed under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-However, the surviving White Lake documentation does not provide clear evidence that investigators identified a specific missile launch connected to the observation. A missile explanation therefore remains a possibility rather than a demonstrated solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+However, the surviving White Lake documentation does not provide clear evidence that investigators identified a specific missile launch connected to the observation. A missile explanation therefore remains a possibility rather than a demonstrated solution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
 Even if a missile test were eventually shown to have occurred in the relevant period, several questions would still need answering:
 
@@ -304,209 +304,209 @@ Even if a missile test were eventually shown to have occurred in the relevant pe
 
 Without those answers, the missile hypothesis reduces uncertainty but does not fully resolve the case.
 
-The opposite mistake is equally important to avoid. Because no definitive explanation has been established, it does not follow that the object represented unknown technology or a non-human craft. The evidence simply does not support such a conclusion. The surviving record shows only that one observer reported a cigar-shaped object and that Air Force investigators could not confidently classify it using the information available to them. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
+The opposite mistake is equally important to avoid. Because no definitive explanation has been established, it does not follow that the object represented unknown technology or a non-human craft. The evidence simply does not support such a conclusion. The surviving record shows only that one observer reported a cigar-shaped object and that Air Force investigators could not confidently classify it using the information available to them. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xyesq1k3Ns" title="Project Blue Book - 1969| Movietone Moment | 17 December 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer">Project Blue Book - 1969| Movietone Moment | 17 December 2021</a></p><p class="youtube-embed-meta">Channel: British Movietone &middot; Views: 20.1K &middot; Uploaded: December 2021 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xyesq1k3Ns">Open on YouTube</a></p></div></div></div>
 
 ## Why White Lake still matters in South Dakota's UFO record
 
-White Lake remains significant because it demonstrates how rare the official “unidentified” category actually was within South Dakota's surviving Blue Book files. Most reports entered the archive as ordinary objects, probable misidentifications or cases with too little information for meaningful evaluation. White Lake landed in the small space between those outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
+White Lake remains significant because it demonstrates how rare the official “unidentified” category actually was within South Dakota's surviving Blue Book files. Most reports entered the archive as ordinary objects, probable misidentifications or cases with too little information for meaningful evaluation. White Lake landed in the small space between those outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
 
-The case also provides a useful corrective to popular assumptions about Blue Book. Some readers assume unidentified cases represent the strongest UFO evidence. Others assume every unidentified report was simply ignored. White Lake suggests a more complicated reality. Investigators took the report seriously enough to preserve it as unresolved, yet the available evidence remained too thin to establish what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
+The case also provides a useful corrective to popular assumptions about Blue Book. Some readers assume unidentified cases represent the strongest UFO evidence. Others assume every unidentified report was simply ignored. White Lake suggests a more complicated reality. Investigators took the report seriously enough to preserve it as unresolved, yet the available evidence remained too thin to establish what was seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</span></span></span>
 
-For South Dakota's UFO history, that may be the most important lesson. The White Lake sighting survived not because it proved anything extraordinary, but because it exposed the limits of official explanation. More than seventy years later, the case remains unresolved in the narrow historical sense that Blue Book never supplied a convincing answer. Whether the object was an unusual aircraft, a missile-related sighting, an observational error or something else entirely cannot be determined from the surviving record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+For South Dakota's UFO history, that may be the most important lesson. The White Lake sighting survived not because it proved anything extraordinary, but because it exposed the limits of official explanation. More than seventy years later, the case remains unresolved in the narrow historical sense that Blue Book never supplied a convincing answer. Whether the object was an unusual aircraft, a missile-related sighting, an observational error or something else entirely cannot be determined from the surviving record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons[PDF] 2 location</span><span class="citation-popover-snippet">Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-3-dark.svg" | relative_url }}" alt="White Lake illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_white_lake_unresolve_fe5a48-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why White Lake stayed officially unresolved. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why White Lake stayed officially unresolved. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Closely tied to unresolved 1950s UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely tied to unresolved 1950s UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context for unidentified classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for unidentified classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how cases remain unresolved without proving extraordinary causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how cases remain unresolved without proving extraordinary causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Collects notable unresolved and debated cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Collects notable unresolved and debated cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-white-lake-stayed-officially-unresolved-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="why-white-lake-stayed-officially-unresolved-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ For South Dakota's UFO history, that may be the most important lesson. The White
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ For South Dakota's UFO history, that may be the most important lesson. The White
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ For South Dakota's UFO history, that may be the most important lesson. The White
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ For South Dakota's UFO history, that may be the most important lesson. The White
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ For South Dakota's UFO history, that may be the most important lesson. The White
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,112 +712,112 @@ For South Dakota's UFO history, that may be the most important lesson. The White
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upload.wikimedia.org  
    Title: Commons[PDF] 2 location  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons[PDF] 2 locationJanuary 6, 2015 — or&quot; cigar&quot; shaped flying object near White Lake, South Dakota on two different occasio...</p></details>
    Published: January 6, 2015  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings - WikipediaCommon elements of the descriptions included bright lights, cigar-shaped bodies, movable win...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings - WikipediaCommon elements of the descriptions included bright lights, cigar-shaped bodies, movable win...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ia600600.us.archive.org  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>archive.org[PDF] The UFO book: encyclopedia of the extraterrestrial - Internet Archivemade over the Cascade Mountains on June 24, 1947...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archive.org[PDF] The UFO book: encyclopedia of the extraterrestrial - Internet Archivemade over the Cascade Mountains on June 24, 1947...</p></details>
    Published: June 24, 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9iFpZToN6yU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - 1969| Movietone Moment | 17 December 2021...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9iFpZToN6yU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - 1969| Movietone Moment | 17 December 2021...</p></details>
    Published: December 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BD-0120 Lt Col Robert J Friend Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BD-0120 Lt Col Robert J Friend Project Blue Book...</p></details>
    Published: December 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sdhspress.com  
-   Link: <a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</p></details>
+   Link:<a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake on...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; FactsMay 16, 2026 — Project Blue Book, code name for the United States&#x27; longest...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; FactsMay 16, 2026 — Project Blue Book, code name for the United States&#x27; longest...</p></details>
    Published: May 16, 2026  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/ufo1.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ufo1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident at USAF Missile Base | Internet Sacred Text ArchiveThis UFO incident allegedly occurred at Alsworth AFB in South Dakota. Abo...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/ufo1.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ufo1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident at USAF Missile Base | Internet Sacred Text ArchiveThis UFO incident allegedly occurred at Alsworth AFB in South Dakota. Abo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: minotdailynews.com  
-   Link: <a href="https://www.minotdailynews.com/news/local-news/2025/01/dolphins-tagovailoa-unlikely-to-play-sunday-against-jets-huntley-in-line-for-2nd-straight-start/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2025/01/dolphins-tagovailoa-unlikely-to-play-sunday-against-jets-huntley-in-line-for-2nd-straight-start/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary brings UFOs to a CLOSE ENCOUNTERJanuary 4, 2025 — David Schindele, a former missile officer, was involved in a UFO incident a...</p></details>
+   Link:<a href="https://www.minotdailynews.com/news/local-news/2025/01/dolphins-tagovailoa-unlikely-to-play-sunday-against-jets-huntley-in-line-for-2nd-straight-start/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2025/01/dolphins-tagovailoa-unlikely-to-play-sunday-against-jets-huntley-in-line-for-2nd-straight-start/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary brings UFOs to a CLOSE ENCOUNTERJanuary 4, 2025 — David Schindele, a former missile officer, was involved in a UFO incident a...</p></details>
    Published: January 4, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: Public Interest in UFOs Persists 50 Years After Project Blue Book  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2019 — Project Blue Book, from March 1952 to December 1969—the longest-running iteration of the Air Force&#x27;s investigation of...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2019 — Project Blue Book, from March 1952 to December 1969—the longest-running iteration of the Air Force&#x27;s investigation of...</p></details>
    Published: December 5, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prologue.blogs.archives.gov  
    Title: Project Blue Book was actually the third in a series of studies  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue BookThe Federal Government established Project Blue Book in 1952 to...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue BookThe Federal Government established Project Blue Book in 1952 to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo19.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo19.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report didn&#x27;t have many details but it did sound good. It gave the pilot&#x27;s name and said that he could be reached at Moody AFB...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo19.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo19.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report didn&#x27;t have many details but it did sound good. It gave the pilot&#x27;s name and said that he could be reached at Moody AFB...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Some objects were cigar-shaped and flashed amber, red, blue and white lights  
-   Link: <a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a UFO flying over...July 2, 2025 — The Boshkung Lake UFOs arrived in assorted shapes...</p></details>
+   Link:<a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a UFO flying over...July 2, 2025 — The Boshkung Lake UFOs arrived in assorted shapes...</p></details>
    Published: July 2, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: The Story of Mario Woods, guard at Ellsworth AFB, nuclear missile silo  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1pq4p5r/the_story_of_mario_woods_guard_at_ellsworth_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1pq4p5r/the_story_of_mario_woods_guard_at_ellsworth_afb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Mario Woods recently testifies to Pentagon UFO Program AARO about his 1977 UFO encounter. He shared his terrifying alien encounter...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1pq4p5r/the_story_of_mario_woods_guard_at_ellsworth_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1pq4p5r/the_story_of_mario_woods_guard_at_ellsworth_afb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Mario Woods recently testifies to Pentagon UFO Program AARO about his 1977 UFO encounter. He shared his terrifying alien encounter...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=85roqz-GCvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85roqz-GCvs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounter Freezes Team in Time (Season 2) | History - YouTubeSeptember 11, 2020 — Do you love investigations into the unknown?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=85roqz-GCvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85roqz-GCvs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounter Freezes Team in Time (Season 2) | History - YouTubeSeptember 11, 2020 — Do you love investigations into the unknown?...</p></details>
    Published: September 11, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: Former USAF Sergeant Recounts UFO Incident Over Ellsworth Air  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/106wyx8/former_usaf_sergeant_recounts_ufo_incident_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/106wyx8/former_usaf_sergeant_recounts_ufo_incident_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 8, 2023 — In 1977, USAF Sergeant, Mario Woods was assigned to the surveillance and protection of weapons and nuclear materials at...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/106wyx8/former_usaf_sergeant_recounts_ufo_incident_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/106wyx8/former_usaf_sergeant_recounts_ufo_incident_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 8, 2023 — In 1977, USAF Sergeant, Mario Woods was assigned to the surveillance and protection of weapons and nuclear materials at...</p></details>
    Published: January 8, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects - Project GutenbergBy Project Blue Book standards, these were not &quot;good&quot; UFO reports either...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects - Project GutenbergBy Project Blue Book standards, these were not &quot;good&quot; UFO reports either...</p></details>

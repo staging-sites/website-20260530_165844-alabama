@@ -253,11 +253,11 @@ image: /assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_polk_county_report
 Polk County produces more UFO reports than any other county in Iowa, but that does not automatically make it Iowa’s most mysterious location. The county contains Des Moines and much of the state’s largest urban area, giving it a huge advantage in the raw numbers game. More people means more drivers, more late-night commuters, more phones pointed at the sky, more aircraft overhead and more residents who know where to file an online report. That matters because UFO databases measure reports submitted by people, not confirmed unexplained objects.
 
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_polk_county_report_t_ff54b0-Illustration-1-dark.svg" | relative_url }}" alt="Polk Counts illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_polk_county_report_t_ff54b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_polk_county_report_t_ff54b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Axios Des Moines reported that at least 183 UFO sightings had been logged in Polk County since 2000 through the National UFO Reporting Center, the highest county total in Iowa. Yet when the figures were adjusted for population, Polk County reportedly fell to 37th place statewide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-[hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Charted: Iowa&#x27;s UFO hotspots - Axios Des MoinesFebruary 12, 2024 — 12 Feb 2024 — At least 183 UFOs have been reported in Polk County...</span><span class="citation-popover-meta">Published: February 12, 2024</span></span></span> That gap is the central issue in understanding Iowa’s UFO geography: a raw hotspot is not necessarily an anomalous hotspot.
+Axios Des Moines reported that at least 183 UFO sightings had been logged in Polk County since 2000 through the National UFO Reporting Center, the highest county total in Iowa. Yet when the figures were adjusted for population, Polk County reportedly fell to 37th place statewide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-[hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Charted: Iowa&#x27;s UFO hotspots - Axios Des MoinesFebruary 12, 2024 — 12 Feb 2024 — At least 183 UFOs have been reported in Polk County...</span><span class="citation-popover-meta">Published: February 12, 2024</span></span></span> That gap is the central issue in understanding Iowa’s UFO geography: a raw hotspot is not necessarily an anomalous hotspot.
 
 ## Why raw report totals cluster around Des Moines
 
-Polk County’s numbers become less surprising once the county’s scale is considered. The U.S. Census Bureau estimated the county’s population at more than 516,000 residents in 2024 and 2025, making it Iowa’s largest county by population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST120224" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: census.gov">[Census.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">census.gov</span><span class="citation-popover-title">U.S. Census Bureau Quick Facts: Polk County, Iowa Population estimates,</span><span class="citation-popover-snippet">U.S. Census Bureau QuickFacts: Polk County, IowaPopulation estimates, July 1, 2024, (V2024).. 516,185; Population estimates base, April...</span><span class="citation-popover-meta">Published: July 1, 2024</span></span></span> Even if only a tiny fraction of residents ever report an unusual sight in the sky, the total can still outpace rural counties by a wide margin.
+Polk County’s numbers become less surprising once the county’s scale is considered. The U.S. Census Bureau estimated the county’s population at more than 516,000 residents in 2024 and 2025, making it Iowa’s largest county by population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST120224" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: census.gov">[Census.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">census.gov</span><span class="citation-popover-title">U.S. Census Bureau Quick Facts: Polk County, Iowa Population estimates,</span><span class="citation-popover-snippet">U.S. Census Bureau QuickFacts: Polk County, IowaPopulation estimates, July 1, 2024, (V2024).. 516,185; Population estimates base, April...</span><span class="citation-popover-meta">Published: July 1, 2024</span></span></span> Even if only a tiny fraction of residents ever report an unusual sight in the sky, the total can still outpace rural counties by a wide margin.
 
 That creates a statistical effect familiar in crime mapping, public-health reporting and social-media trends: large population centres tend to dominate raw counts simply because more people are present to notice and report events. In UFO databases, the effect can be even stronger because reporting depends on voluntary submission. A person has to recognise an event as unusual, know that a reporting system exists and then take the time to describe it online.
 
@@ -273,7 +273,7 @@ Des Moines and its suburbs generate the conditions for high reporting volume:
 
 </div>
 
-NUFORC’s Iowa archive reflects this urban concentration. Des Moines appears repeatedly across decades of reports, alongside nearby suburbs such as Grimes and other central Iowa communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State IAAugust 20, 2023 — NUFORC Reports for State IA.; Open, 02/19/2025 19:51, Galva; Open, 02/18/2025 22:00...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> Many entries describe lights, fireballs or moving points rather than structured craft, and most are brief witness accounts rather than independently investigated incidents.
+NUFORC’s Iowa archive reflects this urban concentration. Des Moines appears repeatedly across decades of reports, alongside nearby suburbs such as Grimes and other central Iowa communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State IAAugust 20, 2023 — NUFORC Reports for State IA.; Open, 02/19/2025 19:51, Galva; Open, 02/18/2025 22:00...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> Many entries describe lights, fireballs or moving points rather than structured craft, and most are brief witness accounts rather than independently investigated incidents.
 
 The key point is that Polk County’s leading raw total may tell readers more about visibility, population density and reporting behaviour than about uniquely strange aerial activity.
 
@@ -281,7 +281,7 @@ The key point is that Polk County’s leading raw total may tell readers more ab
 
 ## Population-adjusted rates change the picture
 
-Per-capita comparisons produce a very different map of Iowa UFO reporting. Axios noted that smaller Jefferson County ranked first in reports per 100,000 residents, while Polk County fell well down the statewide list despite leading in absolute numbers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Iowans have reported seeing more than 1,100 UFOs</span><span class="citation-popover-snippet">According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</span></span></span>
+Per-capita comparisons produce a very different map of Iowa UFO reporting. Axios noted that smaller Jefferson County ranked first in reports per 100,000 residents, while Polk County fell well down the statewide list despite leading in absolute numbers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Iowans have reported seeing more than 1,100 UFOs</span><span class="citation-popover-snippet">According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</span></span></span>
 
 That distinction matters because raw totals can easily exaggerate the idea of a “UFO capital”. If one county has ten times the population of another, it would normally be expected to generate far more reports even if residents are no more likely to experience unusual sightings.
 
@@ -289,7 +289,7 @@ A simplified comparison shows the problem:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Polk County has a population above half a million. <span class="citation-chip-wrap"><a class="citation-chip" href="https://worldpopulationreview.com/states/iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldpopulationreview.com">[worldpopulationreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldpopulationreview.com</span><span class="citation-popover-snippet">Population 2026Iowa Population; 2024, 3,241,490, 23,080, 0.72%; 2023, 3,218,410, 15,590, 0.49%...</span></span></span>
+* Polk County has a population above half a million.<span class="citation-chip-wrap"><a class="citation-chip" href="https://worldpopulationreview.com/states/iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldpopulationreview.com">[worldpopulationreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldpopulationreview.com</span><span class="citation-popover-snippet">Population 2026Iowa Population; 2024, 3,241,490, 23,080, 0.72%; 2023, 3,218,410, 15,590, 0.49%...</span></span></span>
 * Many rural Iowa counties have populations under 20,000.
 * A modest cluster of reports in a small county can therefore produce a much higher rate per resident than a much larger urban county.
 
@@ -318,7 +318,7 @@ This matters because many classic UFO descriptions overlap with ordinary aviatio
 
 Urban settings can also make sightings feel more dramatic than they are. Bright lights reflected off cloud cover, especially in winter humidity or summer haze, can create unusual visual effects over Des Moines. Fireworks, advertising lights and sky lanterns have all historically generated UFO calls in American cities.
 
-NUFORC’s listings for Iowa contain many reports that fit these ambiguous categories: lights changing direction, glowing objects seen while driving or bright aerial points observed briefly before vanishing behind clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location. LOCATION, REPORT COUNT. USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 3. USA - Hawaii, 706. USA - Iowa...</span></span></span> Some may remain genuinely unidentified because the evidence is too limited, but limited evidence is not the same thing as evidence of extraordinary craft.
+NUFORC’s listings for Iowa contain many reports that fit these ambiguous categories: lights changing direction, glowing objects seen while driving or bright aerial points observed briefly before vanishing behind clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location. LOCATION, REPORT COUNT. USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 3. USA - Hawaii, 706. USA - Iowa...</span></span></span> Some may remain genuinely unidentified because the evidence is too limited, but limited evidence is not the same thing as evidence of extraordinary craft.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CXB2y_V9tb8" title="WATCH: Congressional hearing on UFOs once again in the spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CXB2y_V9tb8" target="_blank" rel="noopener noreferrer">WATCH: Congressional hearing on UFOs once again in the spotlight</a></p><p class="youtube-embed-meta">Channel: Iowa&#x27;s News Now &middot; Views: 4.6K &middot; Uploaded: November 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CXB2y_V9tb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CXB2y_V9tb8">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +337,7 @@ That increases report frequency in several ways:
 
 </div>
 
-Axios noted broader Iowa reporting trends showing more than 1,100 sightings submitted statewide over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">That&#x27;s the most in the state ...Read more</span><span class="citation-popover-snippet">AxiosCharted: Iowa&#x27;s UFO hotspots - Axios Des MoinesFebruary 12, 2024 — 12 Feb 2024 — At least 183 UFOs have been reported in Polk County...</span></span></span> Yet modern increases in reports do not necessarily mean more unexplained phenomena are appearing. They may instead reflect a lower barrier to documentation.
+Axios noted broader Iowa reporting trends showing more than 1,100 sightings submitted statewide over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">That&#x27;s the most in the state ...Read more</span><span class="citation-popover-snippet">AxiosCharted: Iowa&#x27;s UFO hotspots - Axios Des MoinesFebruary 12, 2024 — 12 Feb 2024 — At least 183 UFOs have been reported in Polk County...</span></span></span> Yet modern increases in reports do not necessarily mean more unexplained phenomena are appearing. They may instead reflect a lower barrier to documentation.
 
 This is especially important in Polk County because the Des Moines metro area has both the state’s densest population concentration and one of its most digitally connected populations. A strange light over suburban Des Moines is more likely to end up online than a similar light over a remote farm road.
 
@@ -359,7 +359,7 @@ Investigators generally place greater weight on reports that include:
 
 </div>
 
-Few publicly available Iowa reports meet all of those standards. Many consist of short online narratives submitted days or years after the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State IAAugust 20, 2023 — NUFORC Reports for State IA.; Open, 02/19/2025 19:51, Galva; Open, 02/18/2025 22:00...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> That does not mean every report is mistaken, but it does explain why population-adjusted analysis is more useful than dramatic raw totals when assessing statewide patterns.
+Few publicly available Iowa reports meet all of those standards. Many consist of short online narratives submitted days or years after the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State IAAugust 20, 2023 — NUFORC Reports for State IA.; Open, 02/19/2025 19:51, Galva; Open, 02/18/2025 22:00...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> That does not mean every report is mistaken, but it does explain why population-adjusted analysis is more useful than dramatic raw totals when assessing statewide patterns.
 
 A county with many weak reports is not automatically more significant than a county with one carefully documented incident.
 
@@ -367,201 +367,201 @@ A county with many weak reports is not automatically more significant than a cou
 
 ## Is Polk County really Iowa’s UFO capital?
 
-Polk County is Iowa’s reporting centre, but calling it the state’s UFO capital risks overstating what the numbers actually show. The county’s dominance in raw reports is exactly what statisticians would expect from Iowa’s largest metropolitan area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Iowans have reported seeing more than 1,100 UFOs</span><span class="citation-popover-snippet">According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</span></span></span>
+Polk County is Iowa’s reporting centre, but calling it the state’s UFO capital risks overstating what the numbers actually show. The county’s dominance in raw reports is exactly what statisticians would expect from Iowa’s largest metropolitan area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Iowans have reported seeing more than 1,100 UFOs</span><span class="citation-popover-snippet">According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</span></span></span>
 
 That does not make the reports meaningless. Large urban counties can still contain genuinely puzzling cases, and Des Moines has produced recurring sightings across decades. But the broader lesson is methodological rather than sensational: UFO maps are heavily shaped by population, infrastructure and reporting behaviour.
 
 When readers see Polk County at the top of Iowa’s raw totals, the safest interpretation is not “something unusual is concentrated there”. The safer interpretation is that Polk County contains the largest concentration of people capable of noticing, recording and reporting unusual things in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Polk County really Iowa&#x27;s UFO capital?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Polk County really Iowa&#x27;s UFO capital?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses how official investigators handled large numbers of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how official investigators handled large numbers of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Represents contemporary discussion around unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents contemporary discussion around unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the difference between anecdotal reports and stronger evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the difference between anecdotal reports and stronger evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for evaluating claims in high-report environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for evaluating claims in high-report environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="https://i.ebayimg.com/images/g/djAAAOSwFDVnNU8V/s-l225.jpg" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="https://i.ebayimg.com/images/g/D7UAAOSweAFnrbbm/s-l225.jpg" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art"><img src="https://i.ebayimg.com/images/g/yWwAAeSwKo5qHKWD/s-l225.jpg" alt="Listing image for X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL"><img src="https://i.ebayimg.com/images/g/NJgAAeSwhxRpMHWG/s-l225.jpg" alt="Listing image for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-polk-county-really-iowa-s-ufo-capital-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ When readers see Polk County at the top of Iowa’s raw totals, the safest inter
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ When readers see Polk County at the top of Iowa’s raw totals, the safest inter
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ When readers see Polk County at the top of Iowa’s raw totals, the safest inter
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ When readers see Polk County at the top of Iowa’s raw totals, the safest inter
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ When readers see Polk County at the top of Iowa’s raw totals, the safest inter
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,131 +767,131 @@ When readers see Polk County at the top of Iowa’s raw totals, the safest inter
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-[hotspots" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-[hotspots</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charted: Iowa&#x27;s UFO hotspots - Axios Des MoinesFebruary 12, 2024 — 12 Feb 2024 — At least 183 UFOs have been reported in Polk County...</p></details>
+   Link:<a href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-[hotspots" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-[hotspots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charted: Iowa&#x27;s UFO hotspots - Axios Des MoinesFebruary 12, 2024 — 12 Feb 2024 — At least 183 UFOs have been reported in Polk County...</p></details>
    Published: February 12, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: census.gov  
    Title: U.S. Census Bureau Quick Facts: Polk County, Iowa Population estimates,  
-   Link: <a href="https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST120224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST120224</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Census Bureau QuickFacts: Polk County, IowaPopulation estimates, July 1, 2024, (V2024).. 516,185; Population estimates base, April...</p></details>
+   Link:<a href="https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST120224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST120224</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Census Bureau QuickFacts: Polk County, IowaPopulation estimates, July 1, 2024, (V2024).. 516,185; Population estimates base, April...</p></details>
    Published: July 1, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State IAAugust 20, 2023 — NUFORC Reports for State IA.; Open, 02/19/2025 19:51, Galva; Open, 02/18/2025 22:00...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State IAAugust 20, 2023 — NUFORC Reports for State IA.; Open, 02/19/2025 19:51, Galva; Open, 02/18/2025 22:00...</p></details>
    Published: August 20, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: axios.com  
    Title: Iowans have reported seeing more than 1,100 UFOs  
-   Link: <a href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</p></details>
+   Link:<a href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location. LOCATION, REPORT COUNT. USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 3. USA - Hawaii, 706. USA - Iowa...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 3. USA - Hawaii, 706. USA - Iowa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: census.gov  
    Title: U.S. Census Bureau Quick Facts: Polk County, Iowa Table; Population estimates,  
-   Link: <a href="https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Census Bureau QuickFacts: Polk County, IowaTable; Population estimates, July 1, 2024, (V2024).. 516,185; Population estimates base...</p></details>
+   Link:<a href="https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Census Bureau QuickFacts: Polk County, IowaTable; Population estimates, July 1, 2024, (V2024).. 516,185; Population estimates base...</p></details>
    Published: July 1, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: test.data.census.gov  
-   Link: <a href="https://test.data.census.gov/all?g=050XX00US19049" target="_blank" rel="noopener noreferrer nofollow">https://test.data.census.gov/all?g=050XX00US19049</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Population in Dallas County, Iowa is 99678Total Population in Dallas County, Iowa is 99,678. 2020 Decennial Census... Des Moines townshi...</p></details>
+   Link:<a href="https://test.data.census.gov/all?g=050XX00US19049" target="_blank" rel="noopener noreferrer nofollow">https://test.data.census.gov/all?g=050XX00US19049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Population in Dallas County, Iowa is 99678Total Population in Dallas County, Iowa is 99,678. 2020 Decennial Census... Des Moines townshi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: worldpopulationreview.com  
-   Link: <a href="https://worldpopulationreview.com/us-counties/iowa/polk-county" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-counties/iowa/polk-county</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Polk County, Iowa Population 2026Polk County&#x27;s 2026 population is estimated at 533,581, reflecting a 1.66% growth rate over the past year...</p></details>
+   Link:<a href="https://worldpopulationreview.com/us-counties/iowa/polk-county" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-counties/iowa/polk-county</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Polk County, Iowa Population 2026Polk County&#x27;s 2026 population is estimated at 533,581, reflecting a 1.66% growth rate over the past year...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ia800508.us.archive.org  
-   Link: <a href="https://ia800508.us.archive.org/35/items/bodypolitic78toro/bodypolitic78toro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800508.us.archive.org/35/items/bodypolitic78toro/bodypolitic78toro.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Body politic, November 1981YOU&#x27;RE GOING TO LOVE IT IN 1982. On February 14, 1979, The Body. Politic was found not guilty of using the mai...</p></details>
+   Link:<a href="https://ia800508.us.archive.org/35/items/bodypolitic78toro/bodypolitic78toro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800508.us.archive.org/35/items/bodypolitic78toro/bodypolitic78toro.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Body politic, November 1981YOU&#x27;RE GOING TO LOVE IT IN 1982. On February 14, 1979, The Body. Politic was found not guilty of using the mai...</p></details>
    Published: February 14, 1979  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: datausa.io  
    Title: polk county ia  
-   Link: <a href="https://datausa.io/profile/geo/polk-county-ia" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/polk-county-ia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Polk County, IAPolk County, IA is home to a population of 503k people, from which 94.6% are citizens. As of 2024, 9.72% of Polk County, I...</p></details>
+   Link:<a href="https://datausa.io/profile/geo/polk-county-ia" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/polk-county-ia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Polk County, IAPolk County, IA is home to a population of 503k people, from which 94.6% are citizens. As of 2024, 9.72% of Polk County, I...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: censusreporter.org  
    Title: Polk County, IA  
-   Link: <a href="https://censusreporter.org/profiles/05000US19153-polk-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://censusreporter.org/profiles/05000US19153-polk-county-ia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Profile dataCensus data for Polk County, IA (pop. 516185), including age, race, sex, income, poverty, marital status, education and more...</p></details>
+   Link:<a href="https://censusreporter.org/profiles/05000US19153-polk-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://censusreporter.org/profiles/05000US19153-polk-county-ia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Profile dataCensus data for Polk County, IA (pop. 516185), including age, race, sex, income, poverty, marital status, education and more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: worldpopulationreview.com  
-   Link: <a href="https://worldpopulationreview.com/states/iowa" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/states/iowa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Population 2026Iowa Population; 2024, 3,241,490, 23,080, 0.72%; 2023, 3,218,410, 15,590, 0.49%...</p></details>
+   Link:<a href="https://worldpopulationreview.com/states/iowa" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/states/iowa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Population 2026Iowa Population; 2024, 3,241,490, 23,080, 0.72%; 2023, 3,218,410, 15,590, 0.49%...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iowadatacenter.org  
-   Link: <a href="https://www.iowadatacenter.org/index.php/data-by-source/population-estimates" target="_blank" rel="noopener noreferrer nofollow">https://www.iowadatacenter.org/index.php/data-by-source/population-estimates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Population EstimatesThe Census Bureau&#x27;s Population Estimates Program (PEP) produces estimates of the population for the United Sta...</p></details>
+   Link:<a href="https://www.iowadatacenter.org/index.php/data-by-source/population-estimates" target="_blank" rel="noopener noreferrer nofollow">https://www.iowadatacenter.org/index.php/data-by-source/population-estimates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Population EstimatesThe Census Bureau&#x27;s Population Estimates Program (PEP) produces estimates of the population for the United Sta...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iowadatacenter.org  
-   Link: <a href="https://www.iowadatacenter.org/index.php/quick-facts/census-tract-quick-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.iowadatacenter.org/index.php/quick-facts/census-tract-quick-facts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Census Tract Quick FactsDecennial Census · Annual Population Estimates · Other Federal Sources · State Agencies. Quick Facts. State Quick...</p></details>
+   Link:<a href="https://www.iowadatacenter.org/index.php/quick-facts/census-tract-quick-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.iowadatacenter.org/index.php/quick-facts/census-tract-quick-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Census Tract Quick FactsDecennial Census · Annual Population Estimates · Other Federal Sources · State Agencies. Quick Facts. State Quick...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/424170017/Format-numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/424170017/Format-numbers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Numbers Overview | PDF | TelecommunicationThis document lists 376 enterprise numbers assigned by IANA to various organizations...</p></details>
+   Link:<a href="https://www.scribd.com/document/424170017/Format-numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/424170017/Format-numbers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Numbers Overview | PDF | TelecommunicationThis document lists 376 enterprise numbers assigned by IANA to various organizations...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fred.stlouisfed.org  
    Title: FREDResident Population in Polk County, IA (IAPOLK3POP)  
-   Link: <a href="https://fred.stlouisfed.org/series/IAPOLK3POP" target="_blank" rel="noopener noreferrer nofollow">https://fred.stlouisfed.org/series/IAPOLK3POP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Population in Polk County, IA (IAPOLK3POP) - FREDResident Population in Polk County, IA (IAPOLK3POP). Observations. 2024: 516.185 | Thous...</p></details>
+   Link:<a href="https://fred.stlouisfed.org/series/IAPOLK3POP" target="_blank" rel="noopener noreferrer nofollow">https://fred.stlouisfed.org/series/IAPOLK3POP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Population in Polk County, IA (IAPOLK3POP) - FREDResident Population in Polk County, IA (IAPOLK3POP). Observations. 2024: 516.185 | Thous...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gwbushcenter.imgix.net  
    Title: Build Housing Expand Opportunity FINAL 4.4.2025  
-   Link: <a href="https://gwbushcenter.imgix.net/wp-content/uploads/Build-Housing-Expand-Opportunity_FINAL_4.4.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwbushcenter.imgix.net/wp-content/uploads/Build-Housing-Expand-Opportunity_FINAL_4.4.2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HOMES, EXPAND OPPORTUNITY - Imgix10 Dec 2024 — more than incomes in the United States since 2000, Section II of this report shows. Home p...</p></details>
+   Link:<a href="https://gwbushcenter.imgix.net/wp-content/uploads/Build-Housing-Expand-Opportunity_FINAL_4.4.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwbushcenter.imgix.net/wp-content/uploads/Build-Housing-Expand-Opportunity_FINAL_4.4.2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HOMES, EXPAND OPPORTUNITY - Imgix10 Dec 2024 — more than incomes in the United States since 2000, Section II of this report shows. Home p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: unitedforalice.org  
-   Link: <a href="https://www.unitedforalice.org/county-reports/iowa" target="_blank" rel="noopener noreferrer nofollow">https://www.unitedforalice.org/county-reports/iowa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s Moines, 17,188, 41%. Dickinson, 8,650, 31...</p></details>
+   Link:<a href="https://www.unitedforalice.org/county-reports/iowa" target="_blank" rel="noopener noreferrer nofollow">https://www.unitedforalice.org/county-reports/iowa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s Moines, 17,188, 41%. Dickinson, 8,650, 31...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Des Moines County, Iowa  
-   Link: <a href="https://en.wikipedia.org/wiki/Des_Moines_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Des_Moines_County%2C_Iowa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Des Moines County, IowaAs of the 2020 census, the population was 38,910, and was estimated to be 38,077 in 2025. The county seat and l...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Des_Moines_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Des_Moines_County%2C_Iowa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Des Moines County, IowaAs of the 2020 census, the population was 38,910, and was estimated to be 38,077 in 2025. The county seat and l...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: datausa.io  
    Title: des moines county ia  
-   Link: <a href="https://datausa.io/profile/geo/des-moines-county-ia" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/des-moines-county-ia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Des Moines County, IADes Moines County, IA is home to a population of 38.5k people, from which 98.5% are citizens. As of 2024, 2.31% of D...</p></details>
+   Link:<a href="https://datausa.io/profile/geo/des-moines-county-ia" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/des-moines-county-ia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Des Moines County, IADes Moines County, IA is home to a population of 38.5k people, from which 98.5% are citizens. As of 2024, 2.31% of D...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: usafacts.org  
    Title: des moines county ia  
-   Link: <a href="https://usafacts.org/answers/how-many-people-live-in-the-us/county/des-moines-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/county/des-moines-county-ia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many people live in Des Moines County, IA?In 2024, there were about 38,400 people living in Des Moines County, IA. That makes Des Moi...</p></details>
+   Link:<a href="https://usafacts.org/answers/how-many-people-live-in-the-us/county/des-moines-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/county/des-moines-county-ia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many people live in Des Moines County, IA?In 2024, there were about 38,400 people living in Des Moines County, IA. That makes Des Moi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: k923.fm  
    Title: iowa alien sightings  
-   Link: <a href="https://k923.fm/iowa-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://k923.fm/iowa-alien-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Skies Hold Strange Secrets, UFO Data Shows - K92.38 Aug 2025 — Cities like Des Moines lead with approximately 104 sightings since...</p></details>
+   Link:<a href="https://k923.fm/iowa-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://k923.fm/iowa-alien-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Skies Hold Strange Secrets, UFO Data Shows - K92.38 Aug 2025 — Cities like Des Moines lead with approximately 104 sightings since...</p></details>

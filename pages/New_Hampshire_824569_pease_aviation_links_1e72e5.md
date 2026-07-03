@@ -275,11 +275,11 @@ The most important example is the 1965 [Exeter case]({{ 'exeter-case/' | relativ
 
 ## Why Pease matters in Seacoast UFO reports
 
-Pease sits in a region where civilian and military aviation overlap. Today, the 157th Air Refuelling Wing describes Pease Air National Guard Base as the home of the KC-46A Pegasus and New Hampshire’s only Air National Guard base. It operates 12 KC-46A tankers from a two-mile runway and supports worldwide in-flight refuelling, transport and medical movement missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 157arw.ang.af.mil">[157arw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">157arw.ang.af.mil</span><span class="citation-popover-title">157th Air Refueling Wing &gt; 157th Air Refueling Wing &gt; Display</span><span class="citation-popover-snippet">157th Air Refueling Wing &gt; 157th Air Refueling Wing &gt; Display</span></span></span>
+Pease sits in a region where civilian and military aviation overlap. Today, the 157th Air Refuelling Wing describes Pease Air National Guard Base as the home of the KC-46A Pegasus and New Hampshire’s only Air National Guard base. It operates 12 KC-46A tankers from a two-mile runway and supports worldwide in-flight refuelling, transport and medical movement missions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 157arw.ang.af.mil">[157arw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">157arw.ang.af.mil</span><span class="citation-popover-title">157th Air Refueling Wing &gt; 157th Air Refueling Wing &gt; Display</span><span class="citation-popover-snippet">157th Air Refueling Wing &gt; 157th Air Refueling Wing &gt; Display</span></span></span>
 
 That modern mission is not a perfect match for every historical case, but it explains why Pease remains relevant to UFO interpretation. Tankers are large aircraft. They fly at night. They use bright exterior lighting. They may operate with other aircraft. From the ground, especially in rural or semi-rural darkness, the viewer may see lights without seeing the airframe that holds them.
 
-The airport side matters too. Portsmouth International Airport at Pease uses a long single runway, 16/34, measuring about 11,321 to 11,322 feet. FAA-derived airport data and New Hampshire airport material list precision approach aids, runway lighting and instrument procedures, all of which can create bright, patterned lights near the horizon or along approach paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airnav.com/airport/kpsm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-snippet">KPSM - Portsmouth International Airport at PeaseTraffic pattern: right; Runway heading: 165 magnetic, 149 true; Displaced thresho...</span></span></span>
+The airport side matters too. Portsmouth International Airport at Pease uses a long single runway, 16/34, measuring about 11,321 to 11,322 feet. FAA-derived airport data and New Hampshire airport material list precision approach aids, runway lighting and instrument procedures, all of which can create bright, patterned lights near the horizon or along approach paths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airnav.com/airport/kpsm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-snippet">KPSM - Portsmouth International Airport at PeaseTraffic pattern: right; Runway heading: 165 magnetic, 149 true; Displaced thresho...</span></span></span>
 
 For UFO readers, the key point is not that “lights near Pease equal planes”. It is that the Seacoast is not an empty sky. A sighting near Exeter, Kensington, Hampton, Portsmouth or Newington has to be checked against military traffic, civil flights, approach lights, runway orientation, weather, visibility, altitude, sound conditions and the observer’s position.
 
@@ -288,9 +288,9 @@ For UFO readers, the key point is not that “lights near Pease equal planes”.
 
 The September 1965 Exeter incident is the clearest place where Pease enters New Hampshire UFO history. Norman Muscarello, then a teenager, and Exeter police officers Eugene Bertrand and David Hunt reported a dramatic night-time object near Kensington, south of Exeter. The case drew Air Force attention and became part of the Project Blue Book record.
 
-A Project Blue Book record for the Exeter period lists the location as Exeter, New Hampshire, the dates as 2–3 September 1965, the observation type as ground-visual, and the conclusion as “unidentified”. The same record also notes aircraft in the area during “Operation Big Blast”, a military exercise, between 03/0444Z and 03/0535Z. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/650903exeter_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">650903exeter docs1</span><span class="citation-popover-snippet">650903exeter docs1</span></span></span>
+A Project Blue Book record for the Exeter period lists the location as Exeter, New Hampshire, the dates as 2–3 September 1965, the observation type as ground-visual, and the conclusion as “unidentified”. The same record also notes aircraft in the area during “Operation Big Blast”, a military exercise, between 03/0444Z and 03/0535Z.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/650903exeter_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">650903exeter docs1</span><span class="citation-popover-snippet">650903exeter docs1</span></span></span>
 
-That official status is often misunderstood. “Unidentified” in a Blue Book file did not mean “confirmed exotic craft”. It meant the investigators had not reached a positive identification from the available data. The Air Force’s own later summary of Project Blue Book says 701 of 12,618 sightings remained unidentified, while also stating that it found no evidence that unidentified cases represented extraterrestrial vehicles or unknown technology beyond modern scientific knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+That official status is often misunderstood. “Unidentified” in a Blue Book file did not mean “confirmed exotic craft”. It meant the investigators had not reached a positive identification from the available data. The Air Force’s own later summary of Project Blue Book says 701 of 12,618 sightings remained unidentified, while also stating that it found no evidence that unidentified cases represented extraterrestrial vehicles or unknown technology beyond modern scientific knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 Pease mattered because Air Force personnel from the nearby base were part of the early response. Contemporary and later accounts of the Exeter case report that Pease had aircraft active in the area and that Air Force explanations shifted between stars and planets, a temperature inversion, military exercise traffic, and other possibilities. The resulting frustration among witnesses helped make Exeter one of the more contested New Hampshire cases rather than a quietly filed report.
 
@@ -298,18 +298,18 @@ Pease mattered because Air Force personnel from the nearby base were part of the
 
 ## Tankers, training exercises and the pattern of red lights
 
-The strongest aviation-based argument for Exeter does not simply say “there were planes nearby”. It tries to match the reported light pattern to tanker operations. In a 2011 *Skeptical Inquirer* article, former Air Force pilot James McGaha and science writer Joe Nickell argued that a KC-97 aerial refuelling tanker could account for the sighting. Their argument focused on the tanker’s underbody and boom lighting: a set of bright lights and red sequencing lights that could appear to pulse in a distinctive order when seen from below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest aviation-based argument for Exeter does not simply say “there were planes nearby”. It tries to match the reported light pattern to tanker operations. In a 2011 *Skeptical Inquirer* article, former Air Force pilot James McGaha and science writer Joe Nickell argued that a KC-97 aerial refuelling tanker could account for the sighting. Their argument focused on the tanker’s underbody and boom lighting: a set of bright lights and red sequencing lights that could appear to pulse in a distinctive order when seen from below.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This matters because several Exeter descriptions emphasise red lights, apparent hovering or slow movement, and an odd sequence rather than a clearly visible aircraft fuselage. A tanker flying circuits, preparing for refuelling, lowering its boom, or manoeuvring with another aircraft could plausibly look stranger than an ordinary airliner from the ground. The 2011 sceptical reconstruction also notes that aircraft were still in the sky even if the named exercise was said to have ended before the most famous close-range sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because several Exeter descriptions emphasise red lights, apparent hovering or slow movement, and an odd sequence rather than a clearly visible aircraft fuselage. A tanker flying circuits, preparing for refuelling, lowering its boom, or manoeuvring with another aircraft could plausibly look stranger than an ordinary airliner from the ground. The 2011 sceptical reconstruction also notes that aircraft were still in the sky even if the named exercise was said to have ended before the most famous close-range sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The argument is not airtight. Critics of the tanker explanation point to witness claims that the object was silent, very close, low, large, and able to illuminate the field and nearby houses. They also argue that the timing, movement and geometry do not neatly fit a known refuelling pass. A specialist counter-analysis by Martin Shough challenged the KC-97 explanation, arguing that the light sequence and motion described by witnesses do not align cleanly with the tanker-boom interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">Exeunt Exeter?</span><span class="citation-popover-snippet">Exeunt Exeter?</span></span></span>
+The argument is not airtight. Critics of the tanker explanation point to witness claims that the object was silent, very close, low, large, and able to illuminate the field and nearby houses. They also argue that the timing, movement and geometry do not neatly fit a known refuelling pass. A specialist counter-analysis by Martin Shough challenged the KC-97 explanation, arguing that the light sequence and motion described by witnesses do not align cleanly with the tanker-boom interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">Exeunt Exeter?</span><span class="citation-popover-snippet">Exeunt Exeter?</span></span></span>
 
 This is the useful middle ground: the [tanker theory]({{ 'tanker-theory/' | relative_url }}) is one of the strongest prosaic explanations because it is specific, local and mechanically plausible. It is also not a final proof, because a good mistaken-identity explanation has to match time, direction, altitude, sound, lighting, witness position and movement, not just one striking feature.
 
 <img src="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5-Illustration-2-dark.svg" | relative_url }}" alt="Pease Aviation illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why night aviation creates honest mistakes
 
-Night sightings are difficult because the human eye often catches lights before it can resolve shape, distance or scale. The FAA’s night-flying material notes that bright lights can affect night vision and that darkness complicates distance judgement. Aircraft anti-collision lights, landing lights and runway or approach lighting can be visible even when the aircraft body is hard to see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
+Night sightings are difficult because the human eye often catches lights before it can resolve shape, distance or scale. The FAA’s night-flying material notes that bright lights can affect night vision and that darkness complicates distance judgement. Aircraft anti-collision lights, landing lights and runway or approach lighting can be visible even when the aircraft body is hard to see.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
 
 Near Pease, this creates several specific mistaken-identity risks:
 
@@ -358,194 +358,194 @@ That does not weaken the historical importance of Exeter. In some ways it streng
 For readers following New Hampshire UFO history, Pease is the reason Seacoast cases need aviation literacy. It explains why some sightings may be misidentified aircraft, why official answers can be controversial, and why unresolved does not automatically mean extraordinary. It also shows what a fair investigation should demand: not ridicule, not blind belief, but a careful match between what was reported and what was actually in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Can Aviation Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Can Aviation Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
-        </h4>
-        <p class="fr-book-author">By Joachim-Ernst Berendt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Is Sound: Nada Brahma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXs-OQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The World Is Sound: Nada Brahma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Is Sound: Nada Brahma">The World Is Sound: Nada Brahma</a>
+</h4>
+<p class="fr-book-author">By Joachim-Ernst Berendt</p>
         
-        <p class="fr-book-desc">Strong fit for weighing aviation explanations against unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for weighing aviation explanations against unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma+by+Joachim-Ernst+Berendt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes military and aviation-linked cases relevant to Pease discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes military and aviation-linked cases relevant to Pease discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers military reporting and official analysis of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military reporting and official analysis of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader interpretive context beyond aviation explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader interpretive context beyond aviation explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Is Sound: Nada Brahma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Is+Sound%3A+Nada+Brahma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Is Sound: Nada Brahma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="https://i.ebayimg.com/images/g/v0AAAOSwnFBhAtAK/s-l225.jpg" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="https://i.ebayimg.com/images/g/v0AAAOSwnFBhAtAK/s-l225.jpg" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="https://i.ebayimg.com/images/g/Ih8AAMXQHxVRh2gW/s-l225.jpg" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="https://i.ebayimg.com/images/g/Ih8AAMXQHxVRh2gW/s-l225.jpg" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing"><img src="https://i.ebayimg.com/images/g/ENMAAOSwHuhfS6Ad/s-l225.jpg" alt="Listing image for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing"><img src="https://i.ebayimg.com/images/g/ENMAAOSwHuhfS6Ad/s-l225.jpg" alt="Listing image for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster"><img src="https://i.ebayimg.com/images/g/ICcAAOSwEHlhbrfh/s-l225.jpg" alt="Listing image for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster"><img src="https://i.ebayimg.com/images/g/ICcAAOSwEHlhbrfh/s-l225.jpg" alt="Listing image for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-can-aviation-explain-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-much-can-aviation-explain-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ For readers following New Hampshire UFO history, Pease is the reason Seacoast ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ For readers following New Hampshire UFO history, Pease is the reason Seacoast ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ For readers following New Hampshire UFO history, Pease is the reason Seacoast ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ For readers following New Hampshire UFO history, Pease is the reason Seacoast ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ For readers following New Hampshire UFO history, Pease is the reason Seacoast ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,179 +751,179 @@ For readers following New Hampshire UFO history, Pease is the reason Seacoast ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: 157arw.ang.af.mil  
    Title: 157th Air Refueling Wing > 157th Air Refueling Wing > Display  
-   Link: <a href="https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: airnav.com  
-   Link: <a href="https://www.airnav.com/airport/kpsm" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/kpsm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KPSM - Portsmouth International Airport at PeaseTraffic pattern: right; Runway heading: 165 magnetic, 149 true; Displaced thresho...</p></details>
+   Link:<a href="https://www.airnav.com/airport/kpsm" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/kpsm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KPSM - Portsmouth International Airport at PeaseTraffic pattern: right; Runway heading: 165 magnetic, 149 true; Displaced thresho...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: 650903exeter docs1  
-   Link: <a href="https://www.nicap.org/docs/650903exeter_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/650903exeter_docs1.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/650903exeter_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/650903exeter_docs1.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: martinshough.com  
    Title: Exeunt Exeter?  
-   Link: <a href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf</a>  
+   Link:<a href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: 12 afh ch11  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/650903exeter_fowler.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/650903exeter_fowler.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/0450-74.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/0450-74.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: adip.faa.gov  
-   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
+   Link:<a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
    Title: general statements  
-   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
+   Link:<a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: 157arw.ang.af.mil  
-   Link: <a href="https://www.157arw.ang.af.mil/About-Us/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/About-Us/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/About-Us/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/About-Us/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: 157arw.ang.af.mil  
    Title: pease airmen prepare for first kc 46 deployment  
-   Link: <a href="https://www.157arw.ang.af.mil/News/Article/3900275/pease-airmen-prepare-for-first-kc-46-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/3900275/pease-airmen-prepare-for-first-kc-46-deployment/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/News/Article/3900275/pease-airmen-prepare-for-first-kc-46-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/3900275/pease-airmen-prepare-for-first-kc-46-deployment/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: 157arw.ang.af.mil  
    Title: nh air guard to spearhead kc 46a modernization with new test force  
-   Link: <a href="https://www.157arw.ang.af.mil/News/Article/4296289/nh-air-guard-to-spearhead-kc-46a-modernization-with-new-test-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/4296289/nh-air-guard-to-spearhead-kc-46a-modernization-with-new-test-force/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/News/Article/4296289/nh-air-guard-to-spearhead-kc-46a-modernization-with-new-test-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/4296289/nh-air-guard-to-spearhead-kc-46a-modernization-with-new-test-force/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: 157arw.ang.af.mil  
-   Link: <a href="https://www.157arw.ang.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: 157arw.ang.af.mil  
    Title: better than an actual refueling  
-   Link: <a href="https://www.157arw.ang.af.mil/News/Article/3152710/better-than-an-actual-refueling/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/3152710/better-than-an-actual-refueling/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/News/Article/3152710/better-than-an-actual-refueling/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/3152710/better-than-an-actual-refueling/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: 157arw.ang.af.mil  
    Title: mil Photos  
-   Link: <a href="https://www.157arw.ang.af.mil/News/Photos/?igcategory=Home_SlideShow&amp;igpage=5&amp;igsort=CreatedOnDate&amp;igtag=Pease+Air+National+Guard+base" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Photos/?igcategory=Home_SlideShow&amp;igpage=5&amp;igsort=CreatedOnDate&amp;igtag=Pease+Air+National+Guard+base</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/News/Photos/?igcategory=Home_SlideShow&amp;igpage=5&amp;igsort=CreatedOnDate&amp;igtag=Pease+Air+National+Guard+base" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Photos/?igcategory=Home_SlideShow&amp;igpage=5&amp;igsort=CreatedOnDate&amp;igtag=Pease+Air+National+Guard+base</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: 157arw.ang.af.mil  
-   Link: <a href="https://www.157arw.ang.af.mil/News/Photos/igphoto/2002938522/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Photos/igphoto/2002938522/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/News/Photos/igphoto/2002938522/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Photos/igphoto/2002938522/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: 157arw.ang.af.mil  
    Title: new hampshire air guard performs kc 46 endurance flight  
-   Link: <a href="https://www.157arw.ang.af.mil/News/Article/3125676/new-hampshire-air-guard-performs-kc-46-endurance-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/3125676/new-hampshire-air-guard-performs-kc-46-endurance-flight/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/News/Article/3125676/new-hampshire-air-guard-performs-kc-46-endurance-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Article/3125676/new-hampshire-air-guard-performs-kc-46-endurance-flight/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: 157arw.ang.af.mil  
-   Link: <a href="https://www.157arw.ang.af.mil/News/Photos/igphoto/2003540254/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Photos/igphoto/2003540254/</a>  
+   Link:<a href="https://www.157arw.ang.af.mil/News/Photos/igphoto/2003540254/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/News/Photos/igphoto/2003540254/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: airport-data.com  
-   Link: <a href="https://airport-data.com/airport/PSM/" target="_blank" rel="noopener noreferrer nofollow">https://airport-data.com/airport/PSM/</a>  
+   Link:<a href="https://airport-data.com/airport/PSM/" target="_blank" rel="noopener noreferrer nofollow">https://airport-data.com/airport/PSM/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: pease air national guard base selected to receive kc 46a pegasus aircraft  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Pease Air National Guard Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Portsmouth International Airport at Pease  
-   Link: <a href="https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: kupi.com  
    Title: Pease Air Force Base  
-   Link: <a href="https://www.kupi.com/en-ae/explore/united-states/boston/airport-pease-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/boston/airport-pease-air-force-base</a>  
+   Link:<a href="https://www.kupi.com/en-ae/explore/united-states/boston/airport-pease-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/boston/airport-pease-air-force-base</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mm.nh.gov  
-   Link: <a href="https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NH DHHSPortsmouth International Airport at PeaseLocated one mile west from Portsmouth, the airport occupies approximately 900 acres. Ther...</p></details>
+   Link:<a href="https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NH DHHSPortsmouth International Airport at PeaseLocated one mile west from Portsmouth, the airport occupies approximately 900 acres. Ther...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gFM_usC6YZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gFM_usC6YZI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Norman Muscarello and other eyewitnesses recall the 1965 UFO incident in Exeter, New Hampshire...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gFM_usC6YZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gFM_usC6YZI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Norman Muscarello and other eyewitnesses recall the 1965 UFO incident in Exeter, New Hampshire...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cASwJV0rw7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cASwJV0rw7w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pease Air National Guard prepares for historic KC-46 deployment...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cASwJV0rw7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cASwJV0rw7w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pease Air National Guard prepares for historic KC-46 deployment...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Exeter UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=DJykhePPe4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJykhePPe4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Exeter UFO Pease Air Force Base Incident at Exeter: Norman Muscarello and his frightening 1965 UFO encounter Eyes On Cinema...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DJykhePPe4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJykhePPe4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Exeter UFO Pease Air Force Base Incident at Exeter: Norman Muscarello and his frightening 1965 UFO encounter Eyes On Cinema...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: faasafety.gov  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: peasedev.org  
-   Link: <a href="https://peasedev.org/wp-content/uploads/2023/09/Complete-Final-AMPU-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://peasedev.org/wp-content/uploads/2023/09/Complete-Final-AMPU-Report.pdf</a>  
+   Link:<a href="https://peasedev.org/wp-content/uploads/2023/09/Complete-Final-AMPU-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://peasedev.org/wp-content/uploads/2023/09/Complete-Final-AMPU-Report.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: flypsmairport.com  
-   Link: <a href="https://flypsmairport.com/aviation-business/" target="_blank" rel="noopener noreferrer nofollow">https://flypsmairport.com/aviation-business/</a>  
+   Link:<a href="https://flypsmairport.com/aviation-business/" target="_blank" rel="noopener noreferrer nofollow">https://flypsmairport.com/aviation-business/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: uapsightings.org  
-   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
+   Link:<a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>
+   Link:<a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>

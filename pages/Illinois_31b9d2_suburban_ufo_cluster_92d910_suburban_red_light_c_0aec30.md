@@ -250,49 +250,49 @@ image: /assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_l
 
 ## Introduction
 
-Suburban UFO clusters in [Illinois]({{ 'illinois/' | relative_url }}) often spread for social reasons as much as visual ones. The best-known example, the [Tinley Park]({{ 'tinley-park/' | relative_url }}) Lights of 2004–2006, became a regional phenomenon not simply because people saw red lights in the sky, but because large numbers of residents were already outdoors, watching the same stretch of sky, discussing what they saw in real time, and then reinforcing one another’s interpretations through local media and UFO databases. In dense south-west Chicago suburbs, a light seen by one family could quickly become a neighbourhood event. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span>
+Suburban UFO clusters in [Illinois]({{ 'illinois/' | relative_url }}) often spread for social reasons as much as visual ones. The best-known example, the [Tinley Park]({{ 'tinley-park/' | relative_url }}) Lights of 2004–2006, became a regional phenomenon not simply because people saw red lights in the sky, but because large numbers of residents were already outdoors, watching the same stretch of sky, discussing what they saw in real time, and then reinforcing one another’s interpretations through local media and UFO databases. In dense south-west Chicago suburbs, a light seen by one family could quickly become a neighbourhood event. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-1-dark.svg" | relative_url }}" alt="Cluster spread illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That pattern matters within Illinois UFO history because it helps explain why some sightings become major “flaps” while others vanish after a single report. The Tinley Park episodes show how suburban geography, traffic patterns, seasonal events, camcorder footage, police calls, and later internet circulation could transform ambiguous lights into one of the state’s most famous UFO clusters. At the same time, the same conditions that spread reports also made misidentification and shared suggestion more likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">ufo in tinley park</span><span class="citation-popover-snippet">Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</span></span></span>
+That pattern matters within Illinois UFO history because it helps explain why some sightings become major “flaps” while others vanish after a single report. The Tinley Park episodes show how suburban geography, traffic patterns, seasonal events, camcorder footage, police calls, and later internet circulation could transform ambiguous lights into one of the state’s most famous UFO clusters. At the same time, the same conditions that spread reports also made misidentification and shared suggestion more likely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">ufo in tinley park</span><span class="citation-popover-snippet">Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</span></span></span>
 
 ## Outdoor crowds, neighbourhood visibility, and repeat reports
 
-The south suburbs around Tinley Park, Oak Forest, Orland Park, Frankfort, and Mokena provided unusually good conditions for a mass sighting. The area combined dense residential neighbourhoods with wide sky visibility, busy roads, and large numbers of people outside during summer nights and Halloween evenings. When the first major 2004 cluster occurred, many witnesses were reportedly leaving Ozzfest at the Tweeter Center, later First Midwest Bank Amphitheatre, and were already sitting in traffic looking upward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">ufo in tinley park</span><span class="citation-popover-snippet">Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</span></span></span>
+The south suburbs around Tinley Park, Oak Forest, Orland Park, Frankfort, and Mokena provided unusually good conditions for a mass sighting. The area combined dense residential neighbourhoods with wide sky visibility, busy roads, and large numbers of people outside during summer nights and Halloween evenings. When the first major 2004 cluster occurred, many witnesses were reportedly leaving Ozzfest at the Tweeter Center, later First Midwest Bank Amphitheatre, and were already sitting in traffic looking upward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">ufo in tinley park</span><span class="citation-popover-snippet">Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</span></span></span>
 
-That setting changed the scale of the reports. A single observer seeing unusual lights may hesitate to report them, but dozens of motorists or families reacting simultaneously creates immediate social confirmation. Witnesses start pointing, comparing descriptions, and calling relatives outdoors. In Tinley Park, reports rapidly spread between adjacent suburbs rather than remaining isolated to one street or household. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span> Patch Halloween was especially important to the spread mechanism. On 31 October 2004 <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[patch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</span></span></span>, residents across several suburbs were already outside accompanying trick-or-treaters. That meant large numbers of people were looking around neighbourhood streets at roughly the same time. Chicago Magazine later described “entire blocks of trick-or-treaters gaping up at the sky”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span>
+That setting changed the scale of the reports. A single observer seeing unusual lights may hesitate to report them, but dozens of motorists or families reacting simultaneously creates immediate social confirmation. Witnesses start pointing, comparing descriptions, and calling relatives outdoors. In Tinley Park, reports rapidly spread between adjacent suburbs rather than remaining isolated to one street or household.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span> Patch Halloween was especially important to the spread mechanism. On 31 October 2004<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[patch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</span></span></span>, residents across several suburbs were already outside accompanying trick-or-treaters. That meant large numbers of people were looking around neighbourhood streets at roughly the same time. Chicago Magazine later described “entire blocks of trick-or-treaters gaping up at the sky”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span>
 
-This matters because UFO clusters often depend on synchronised observation. The more witnesses there are in a visible public space, the faster a sighting acquires legitimacy. A resident who might privately dismiss strange lights may react differently after hearing neighbours say they also saw a triangular formation. The suburban layout of south-west Chicago helped this process because witnesses could easily compare what they saw across nearby communities separated by only a few miles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span>
+This matters because UFO clusters often depend on synchronised observation. The more witnesses there are in a visible public space, the faster a sighting acquires legitimacy. A resident who might privately dismiss strange lights may react differently after hearing neighbours say they also saw a triangular formation. The suburban layout of south-west Chicago helped this process because witnesses could easily compare what they saw across nearby communities separated by only a few miles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span>
 
-The repeated timing of the sightings also strengthened the sense of a pattern. Reports appeared in August 2004, October 2004, October 2005, and again in 2006. Repetition encouraged residents to interpret new lights through the memory of earlier events. By the mid-2000s, the phrase “Tinley Park Lights” already existed locally, giving later sightings a ready-made narrative framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmaticideas.com/revisiting-the-tinley-park-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmaticideas.com">[Enigmatic Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmaticideas.com</span><span class="citation-popover-title">Enigmatic Ideas Revisiting the Tinley Park Lights</span><span class="citation-popover-snippet">Revisiting the Tinley Park Lights - Enigmatic Ideas27 Feb 2026 — Witnesses across Tinley Park and neighboring towns reported three red li...</span></span></span>
+The repeated timing of the sightings also strengthened the sense of a pattern. Reports appeared in August 2004, October 2004, October 2005, and again in 2006. Repetition encouraged residents to interpret new lights through the memory of earlier events. By the mid-2000s, the phrase “Tinley Park Lights” already existed locally, giving later sightings a ready-made narrative framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmaticideas.com/revisiting-the-tinley-park-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmaticideas.com">[Enigmatic Ideas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmaticideas.com</span><span class="citation-popover-title">Enigmatic Ideas Revisiting the Tinley Park Lights</span><span class="citation-popover-snippet">Revisiting the Tinley Park Lights - Enigmatic Ideas27 Feb 2026 — Witnesses across Tinley Park and neighboring towns reported three red li...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ixqNeQum-Iw" title="Did Illinois Police Officers Really Chase Down A UFO? | Unsolved Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixqNeQum-Iw" target="_blank" rel="noopener noreferrer">Did Illinois Police Officers Really Chase Down A UFO? | Unsolved Mysteries</a></p><p class="youtube-embed-meta">Channel: Swamp Dweller &middot; Views: 27.0K &middot; Uploaded: January 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixqNeQum-Iw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixqNeQum-Iw">Open on YouTube</a></p></div></div></div>
 
 ## How media attention and databases shape a cluster
 
-Suburban UFO clusters spread much further once local media and reporting databases become involved. Tinley Park is a strong example because the sightings moved rapidly from eyewitness conversations into NUFORC reports, television coverage, newspaper articles, and online discussion boards. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span>
+Suburban UFO clusters spread much further once local media and reporting databases become involved. Tinley Park is a strong example because the sightings moved rapidly from eyewitness conversations into NUFORC reports, television coverage, newspaper articles, and online discussion boards. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span>
 
-NUFORC, the National UFO Reporting Center, gave scattered witness experiences a visible archive. Once residents could read reports matching their own observations, the sightings appeared more credible and coherent. Multiple entries described similar red lights changing between triangular and linear formations, often hovering silently before fading away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 38901Occurred: 2004-08-21 23:00 Local; Reported: 2004-08-26 11:42 Pacific; Duration: 30 MINUTES; No of obser...</span><span class="citation-popover-meta">Published: August 21, 2004</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 403242 Nov 2004 — The triangular formation of red lights witnessed on Aug.21st in Tinley Park, IL reappeared on Oct...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=39833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 39833Three red lights seen hovering and moving. My wife and I, who live near the Tinley Park Post Office at 171st Str...</span></span></span>
+NUFORC, the National UFO Reporting Center, gave scattered witness experiences a visible archive. Once residents could read reports matching their own observations, the sightings appeared more credible and coherent. Multiple entries described similar red lights changing between triangular and linear formations, often hovering silently before fading away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 38901Occurred: 2004-08-21 23:00 Local; Reported: 2004-08-26 11:42 Pacific; Duration: 30 MINUTES; No of obser...</span><span class="citation-popover-meta">Published: August 21, 2004</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 403242 Nov 2004 — The triangular formation of red lights witnessed on Aug.21st in Tinley Park, IL reappeared on Oct...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=39833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 39833Three red lights seen hovering and moving. My wife and I, who live near the Tinley Park Post Office at 171st Str...</span></span></span>
 
 This feedback loop matters. Public databases can preserve genuine evidence, but they can also encourage later witnesses to describe events using already familiar language. Once “three red lights in a triangle” became the dominant description, subsequent reports often repeated the same framing. That does not necessarily mean witnesses were dishonest; it means human memory and interpretation are influenced by shared narratives.
 
-Television exposure amplified the effect further. The case appeared in documentaries and on programmes such as *UFO Hunters*. Local witness footage gained a second life online and on cable television, turning a regional suburban incident into a nationally recognised UFO case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</span></span></span>
+Television exposure amplified the effect further. The case appeared in documentaries and on programmes such as *UFO Hunters*. Local witness footage gained a second life online and on cable television, turning a regional suburban incident into a nationally recognised UFO case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</span></span></span>
 
-Importantly, media attention also encouraged sceptical investigation. As the sightings spread, proposed explanations multiplied: aircraft formations, military exercises, balloons, flares, lanterns, and perspective distortions all entered the debate. The more famous the case became, the more investigators attempted to recreate or debunk the lights. Patch <span class="citation-chip-wrap"><a class="citation-chip" href="https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beardyhistory.com">[Beardy History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beardyhistory.com</span><span class="citation-popover-title">ufo sightings investigated by tony mcmahon</span><span class="citation-popover-snippet">Beardy HistoryUFO hotspots, sightings, and triangles21 Jan 2024 — Essentially claiming that this UFO was in fact state-of-the-art militar...</span></span></span>
+Importantly, media attention also encouraged sceptical investigation. As the sightings spread, proposed explanations multiplied: aircraft formations, military exercises, balloons, flares, lanterns, and perspective distortions all entered the debate. The more famous the case became, the more investigators attempted to recreate or debunk the lights. Patch<span class="citation-chip-wrap"><a class="citation-chip" href="https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beardyhistory.com">[Beardy History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beardyhistory.com</span><span class="citation-popover-title">ufo sightings investigated by tony mcmahon</span><span class="citation-popover-snippet">Beardy HistoryUFO hotspots, sightings, and triangles21 Jan 2024 — Essentially claiming that this UFO was in fact state-of-the-art militar...</span></span></span>
 
 That tension between reinforcement and scrutiny is central to understanding Illinois suburban UFO clusters. Publicity can make weak sightings stronger socially while simultaneously exposing them to more criticism and technical analysis.
 
 <img src="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-2-dark.svg" | relative_url }}" alt="Cluster spread illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why formation lights can look more connected than they are
 
-One reason suburban red-light clusters spread so effectively is that separate lights can appear psychologically connected, especially at night. Witnesses often reported seeing triangular craft rather than three independent points of light. Yet video footage usually showed bright red lights against a dark sky without a clearly visible solid object between them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of reported UFO sightings in the United StatesA triangular formation of reddish lights were seen at low to intermediate altitude...</span></span></span>
+One reason suburban red-light clusters spread so effectively is that separate lights can appear psychologically connected, especially at night. Witnesses often reported seeing triangular craft rather than three independent points of light. Yet video footage usually showed bright red lights against a dark sky without a clearly visible solid object between them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of reported UFO sightings in the United StatesA triangular formation of reddish lights were seen at low to intermediate altitude...</span></span></span>
 
-Human perception naturally links nearby lights into geometric patterns. In suburban skies with little visible reference detail, three hovering lights can easily appear attached to a single structure. Small changes in spacing may then seem like deliberate manoeuvres. Witnesses in Tinley Park frequently described formations shifting from triangles into straight lines or angled patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 40379NUFORC UFO Sighting 40379 · Occurred: 2004-10-31 20:30 Local · Reported: 2004-11-01 14:09 Pacific · Durati...</span><span class="citation-popover-meta">Published: October 31, 2004</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=51995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 51995Witness elects to remain totally anonymous; provides no contact information. Sightings over Tinley Park occurred...</span></span></span>
+Human perception naturally links nearby lights into geometric patterns. In suburban skies with little visible reference detail, three hovering lights can easily appear attached to a single structure. Small changes in spacing may then seem like deliberate manoeuvres. Witnesses in Tinley Park frequently described formations shifting from triangles into straight lines or angled patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=40379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 40379NUFORC UFO Sighting 40379 · Occurred: 2004-10-31 20:30 Local · Reported: 2004-11-01 14:09 Pacific · Durati...</span><span class="citation-popover-meta">Published: October 31, 2004</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=51995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 51995Witness elects to remain totally anonymous; provides no contact information. Sightings over Tinley Park occurred...</span></span></span>
 
-Atmospheric conditions may also have contributed. One NUFORC witness specifically described a “damp and hazy night”. Haze can soften light edges, obscure altitude, and make stationary lights appear larger or stranger than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 38901Occurred: 2004-08-21 23:00 Local; Reported: 2004-08-26 11:42 Pacific; Duration: 30 MINUTES; No of obser...</span><span class="citation-popover-meta">Published: August 21, 2004</span></span></span>
+Atmospheric conditions may also have contributed. One NUFORC witness specifically described a “damp and hazy night”. Haze can soften light edges, obscure altitude, and make stationary lights appear larger or stranger than they are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 38901Occurred: 2004-08-21 23:00 Local; Reported: 2004-08-26 11:42 Pacific; Duration: 30 MINUTES; No of obser...</span><span class="citation-popover-meta">Published: August 21, 2004</span></span></span>
 
-Busy suburban airspace complicated matters further. The south Chicago suburbs lie beneath heavily travelled aviation corridors connected to Midway and O’Hare airports. Witnesses often compared the lights with visible aircraft nearby, concluding the red formations behaved differently. However, night-time judging of altitude, distance, and speed is notoriously unreliable, especially when observers lack stable reference points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-40361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">Sentient Orbs Tinley Pk Red lights</span><span class="citation-popover-snippet">Sentient OrbsTinley Pk Red lights - have video - Sentient OrbsThree red lights in triangle formation, low altitute, moving very slowly, n...</span></span></span>
+Busy suburban airspace complicated matters further. The south Chicago suburbs lie beneath heavily travelled aviation corridors connected to Midway and O’Hare airports. Witnesses often compared the lights with visible aircraft nearby, concluding the red formations behaved differently. However, night-time judging of altitude, distance, and speed is notoriously unreliable, especially when observers lack stable reference points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-40361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">Sentient Orbs Tinley Pk Red lights</span><span class="citation-popover-snippet">Sentient OrbsTinley Pk Red lights - have video - Sentient OrbsThree red lights in triangle formation, low altitute, moving very slowly, n...</span></span></span>
 
-Researchers and sceptics have repeatedly pointed out that groups of flares, lanterns, or balloons can appear coordinated from a distance even when they are drifting independently. Because the lights were usually seen at night, with no confirmed radar evidence released publicly, interpretation depended heavily on witness perception and video quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beardyhistory.com">[Beardy History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beardyhistory.com</span><span class="citation-popover-title">ufo sightings investigated by tony mcmahon</span><span class="citation-popover-snippet">Beardy HistoryUFO hotspots, sightings, and triangles21 Jan 2024 — Essentially claiming that this UFO was in fact state-of-the-art militar...</span></span></span>
+Researchers and sceptics have repeatedly pointed out that groups of flares, lanterns, or balloons can appear coordinated from a distance even when they are drifting independently. Because the lights were usually seen at night, with no confirmed radar evidence released publicly, interpretation depended heavily on witness perception and video quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beardyhistory.com">[Beardy History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beardyhistory.com</span><span class="citation-popover-title">ufo sightings investigated by tony mcmahon</span><span class="citation-popover-snippet">Beardy HistoryUFO hotspots, sightings, and triangles21 Jan 2024 — Essentially claiming that this UFO was in fact state-of-the-art militar...</span></span></span>
 
 This helps explain why the Tinley Park cluster remained unresolved rather than conclusively solved or confirmed. The reports were numerous and sincere enough to sustain interest, but the available evidence never fully established whether observers were watching a single structured object, multiple unrelated lights, or a combination of ordinary aerial sources interpreted collectively.
 
@@ -309,210 +309,210 @@ Tinley Park and nearby communities also sat at the intersection of several reinf
 * Heavy local news coverage in the Chicago media market.
 * Early consumer camcorder use during the mid-2000s.
 * Existing UFO interest groups such as Illinois MUFON.
-* Easy circulation of stories through internet forums and television. Patch <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span> Patch Once the area acquired a reputation as a <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[patch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</span></span></span>“UFO hotspot”, later reports became easier to spread. Residents already expected unusual lights to be meaningful. Patch later described Tinley Park as having developed a reputation as a “UFO magnet”, showing how a local identity can form around repeated sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/orlandpark/tinley-park-lights-still-a-southland-mystery-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery 2</span><span class="citation-popover-snippet">UFO Hunters: &quot;Invasion Illinois.&quot; Second Sighting that Halloween. Yet, the sightings weren&#x27;t over. About two months later on Halloween ni...</span></span></span>
+* Easy circulation of stories through internet forums and television. Patch<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagomag.com">[Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagomag.com</span><span class="citation-popover-snippet">Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</span></span></span> Patch Once the area acquired a reputation as a<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[patch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery</span><span class="citation-popover-snippet">Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</span></span></span>“UFO hotspot”, later reports became easier to spread. Residents already expected unusual lights to be meaningful. Patch later described Tinley Park as having developed a reputation as a “UFO magnet”, showing how a local identity can form around repeated sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/orlandpark/tinley-park-lights-still-a-southland-mystery-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">tinley park lights still a southland mystery 2</span><span class="citation-popover-snippet">UFO Hunters: &quot;Invasion Illinois.&quot; Second Sighting that Halloween. Yet, the sightings weren&#x27;t over. About two months later on Halloween ni...</span></span></span>
 
 That reputation can increase reporting rates even if the underlying number of ambiguous lights remains unchanged. People who know about earlier sightings are more likely to notice, record, and report later ones.
 
 <img src="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-3-dark.svg" | relative_url }}" alt="Cluster spread illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_suburban_ufo_cluster_92d910_suburban_red_light_c_0aec30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Tinley Park pattern really demonstrates
 
-The suburban Illinois red-light clusters are important less because they prove extraordinary craft and more because they reveal how UFO waves form socially. Tinley Park became famous through a combination of genuine witness experiences, suburban visibility, repeated timing, and rapid information sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">ufo in tinley park</span><span class="citation-popover-snippet">Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">ufo expert tinley parks 2004 sightings they were not hoax</span><span class="citation-popover-snippet">UFO Expert On Tinley Park&#x27;s 2004 Sightings: They Were...23 Sept 2019 — An Illinois UFO expert explains the Navy&#x27;s announcement abou...</span></span></span>
+The suburban Illinois red-light clusters are important less because they prove extraordinary craft and more because they reveal how UFO waves form socially. Tinley Park became famous through a combination of genuine witness experiences, suburban visibility, repeated timing, and rapid information sharing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-title">ufo in tinley park</span><span class="citation-popover-snippet">Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">ufo expert tinley parks 2004 sightings they were not hoax</span><span class="citation-popover-snippet">UFO Expert On Tinley Park&#x27;s 2004 Sightings: They Were...23 Sept 2019 — An Illinois UFO expert explains the Navy&#x27;s announcement abou...</span></span></span>
 
-The evidence does show that many people across several suburbs observed unusual red lights on multiple nights. Videos and reports confirm that something visible and attention-grabbing occurred. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span>
+The evidence does show that many people across several suburbs observed unusual red lights on multiple nights. Videos and reports confirm that something visible and attention-grabbing occurred. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[Blaze TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-snippet">The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</span></span></span>
 
 What the evidence does not show conclusively is that witnesses observed a single massive structured craft. The leap from “multiple red lights” to “one enormous triangular UFO” depended heavily on interpretation, memory, and group reinforcement. That uncertainty is exactly why the case still occupies a middle ground in Illinois UFO history: too widespread to dismiss casually, but too ambiguous to settle definitively.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cgBwdi7tBms" title="Over 50 People Spot A UFO During Halloween | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cgBwdi7tBms" target="_blank" rel="noopener noreferrer">Over 50 People Spot A UFO During Halloween | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 537.8K &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cgBwdi7tBms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cgBwdi7tBms">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why do suburban UFO clusters catch fire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why do suburban UFO clusters catch fire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for credible sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for credible sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Excellent fit for a page about mass sightings and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for a page about mass sightings and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
-        </h4>
-        <p class="fr-book-author">By David Marler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Triangular UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NceqzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Triangular UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
+</h4>
+<p class="fr-book-author">By David Marler</p>
         
-        <p class="fr-book-desc">Relevant to formation-light interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to formation-light interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Triangular+UFOs+by+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses social spread, belief and misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses social spread, belief and misidentification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Triangular+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Triangular UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-suburban-ufo-clusters-catch-fire-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ What the evidence does not show conclusively is that witnesses observed a single
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ What the evidence does not show conclusively is that witnesses observed a single
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ What the evidence does not show conclusively is that witnesses observed a single
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ What the evidence does not show conclusively is that witnesses observed a single
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ What the evidence does not show conclusively is that witnesses observed a single
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,173 +718,173 @@ What the evidence does not show conclusively is that witnesses observed a single
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=38901" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38901</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 38901Occurred: 2004-08-21 23:00 Local; Reported: 2004-08-26 11:42 Pacific; Duration: 30 MINUTES; No of obser...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=38901" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 38901Occurred: 2004-08-21 23:00 Local; Reported: 2004-08-26 11:42 Pacific; Duration: 30 MINUTES; No of obser...</p></details>
    Published: August 21, 2004  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: patch.com  
    Title: tinley park lights still a southland mystery  
-   Link: <a href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</p></details>
+   Link:<a href="https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/tinley-park-lights-still-a-southland-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Tinley Park Lights&#x27; Still A Southland Mystery9 Jun 2011 — Tinley Park Patch interviewed local eyewitnesses and experts about this phenom...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blaze.tv  
-   Link: <a href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</p></details>
+   Link:<a href="https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/tinley-park-lights-halloween-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Tinley Park Lights&#x27; Halloween UFO encounterOne of the 77 described the sighting as: &#x27;Three horizontal equally spaced red lights in t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.pollstar.com  
    Title: ufo in tinley park  
-   Link: <a href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</p></details>
+   Link:<a href="https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2008/11/21/ufo-in-tinley-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsUFO In Tinley Park21 Nov 2008 — As the fans were caught up in a traffic jam, three lights in a triangular pattern hovered ab...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40324" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40324</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 403242 Nov 2004 — The triangular formation of red lights witnessed on Aug.21st in Tinley Park, IL reappeared on Oct...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=40324" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 403242 Nov 2004 — The triangular formation of red lights witnessed on Aug.21st in Tinley Park, IL reappeared on Oct...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: patch.com  
    Title: tinley park lights still a southland mystery 2  
-   Link: <a href="https://patch.com/illinois/orlandpark/tinley-park-lights-still-a-southland-mystery-2" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/orlandpark/tinley-park-lights-still-a-southland-mystery-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters: &quot;Invasion Illinois.&quot; Second Sighting that Halloween. Yet, the sightings weren&#x27;t over. About two months later on Halloween ni...</p></details>
+   Link:<a href="https://patch.com/illinois/orlandpark/tinley-park-lights-still-a-southland-mystery-2" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/orlandpark/tinley-park-lights-still-a-southland-mystery-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters: &quot;Invasion Illinois.&quot; Second Sighting that Halloween. Yet, the sightings weren&#x27;t over. About two months later on Halloween ni...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=39833" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39833</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 39833Three red lights seen hovering and moving. My wife and I, who live near the Tinley Park Post Office at 171st Str...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=39833" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39833</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 39833Three red lights seen hovering and moving. My wife and I, who live near the Tinley Park Post Office at 171st Str...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=40379" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40379</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 40379NUFORC UFO Sighting 40379 · Occurred: 2004-10-31 20:30 Local · Reported: 2004-11-01 14:09 Pacific · Durati...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=40379" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=40379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 40379NUFORC UFO Sighting 40379 · Occurred: 2004-10-31 20:30 Local · Reported: 2004-11-01 14:09 Pacific · Durati...</p></details>
    Published: October 31, 2004  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: patch.com  
    Title: ufo expert [tinley parks](&#123;&#123; 'tinley-park/' | relative_url &#125;&#125;) 2004 sightings they were not hoax  
-   Link: <a href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Expert On Tinley Park&#x27;s 2004 Sightings: They Were...23 Sept 2019 — An Illinois UFO expert explains the Navy&#x27;s announcement abou...</p></details>
+   Link:<a href="https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/ufo-expert-tinley-parks-2004-sightings-they-were-not-hoax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Expert On Tinley Park&#x27;s 2004 Sightings: They Were...23 Sept 2019 — An Illinois UFO expert explains the Navy&#x27;s announcement abou...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings in the United StatesA triangular formation of reddish lights were seen at low to intermediate altitude...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings in the United StatesA triangular formation of reddish lights were seen at low to intermediate altitude...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: patch.com  
    Title: theyre baaaack did you see ufos on the fourth of july  
-   Link: <a href="https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Baaaack! Did You See UFOs on the Fourth of July?8 Jul 2013 — Some people in Tinley Park and around the south suburbs say the...</p></details>
+   Link:<a href="https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/theyre-baaaack-did-you-see-ufos-on-the-fourth-of-july</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Baaaack! Did You See UFOs on the Fourth of July?8 Jul 2013 — Some people in Tinley Park and around the south suburbs say the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=51995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51995</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 51995Witness elects to remain totally anonymous; provides no contact information. Sightings over Tinley Park occurred...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=51995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 51995Witness elects to remain totally anonymous; provides no contact information. Sightings over Tinley Park occurred...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings&quot;Lights in sky over Tinley Park have UFO believers looking up&quot;. ABC7. Archived from the original on 17 F...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings&quot;Lights in sky over Tinley Park have UFO believers looking up&quot;. ABC7. Archived from the original on 17 F...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: patch.com  
    Title: navy confirms ufos could tinley park lights be real  
-   Link: <a href="https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Confirms UFOs: Could The Tinley Park Lights Be Real?20 Sept 2019 — The US Navy confirmed this week that the strange objects pilots c...</p></details>
+   Link:<a href="https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/tinleypark/navy-confirms-ufos-could-tinley-park-lights-be-real</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Confirms UFOs: Could The Tinley Park Lights Be Real?20 Sept 2019 — The US Navy confirmed this week that the strange objects pilots c...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: chicagomag.com  
-   Link: <a href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</p></details>
+   Link:<a href="https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagomag.com/chicago-magazine/march-2007/do-you-believe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago MagazineDo You Believe? – Chicago MagazineCreepy detail: One witness said that some buildings had been lit up with spotlights ori...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: enigmaticideas.com  
    Title: Enigmatic Ideas Revisiting the Tinley Park Lights  
-   Link: <a href="https://enigmaticideas.com/revisiting-the-tinley-park-lights/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/revisiting-the-tinley-park-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Tinley Park Lights - Enigmatic Ideas27 Feb 2026 — Witnesses across Tinley Park and neighboring towns reported three red li...</p></details>
+   Link:<a href="https://enigmaticideas.com/revisiting-the-tinley-park-lights/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/revisiting-the-tinley-park-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Tinley Park Lights - Enigmatic Ideas27 Feb 2026 — Witnesses across Tinley Park and neighboring towns reported three red li...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: beardyhistory.com  
    Title: ufo sightings investigated by tony mcmahon  
-   Link: <a href="https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/" target="_blank" rel="noopener noreferrer nofollow">https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beardy HistoryUFO hotspots, sightings, and triangles21 Jan 2024 — Essentially claiming that this UFO was in fact state-of-the-art militar...</p></details>
+   Link:<a href="https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/" target="_blank" rel="noopener noreferrer nofollow">https://beardyhistory.com/2024/01/21/ufo-sightings-investigated-by-tony-mcmahon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beardy HistoryUFO hotspots, sightings, and triangles21 Jan 2024 — Essentially claiming that this UFO was in fact state-of-the-art militar...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sentientorbs.com  
    Title: Sentient Orbs Tinley Pk Red lights  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-40361" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-40361</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsTinley Pk Red lights - have video - Sentient OrbsThree red lights in triangle formation, low altitute, moving very slowly, n...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-40361" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-40361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsTinley Pk Red lights - have video - Sentient OrbsThree red lights in triangle formation, low altitute, moving very slowly, n...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sentientorbs.com  
    Title: NUFORC 38790  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-38790" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-38790</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four bright white lights in a row, descended sharply and...21 Aug 2004 — Four bright white lights in a row, descended sharply and dimini...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-38790" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-38790</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Four bright white lights in a row, descended sharply and...21 Aug 2004 — Four bright white lights in a row, descended sharply and dimini...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TinleyParkPatch/posts/ufo-sightings-tinley-park-has-been-a-hotbed-for-ufo-sightings-over-the-past-deca/1551764598169511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TinleyParkPatch/posts/ufo-sightings-tinley-park-has-been-a-hotbed-for-ufo-sightings-over-the-past-deca/1551764598169511/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS: Tinley Park has been a hotbed...Has anybody seen that strange smoke like light in the sky tonight in the east direction o...</p></details>
+   Link:<a href="https://www.facebook.com/TinleyParkPatch/posts/ufo-sightings-tinley-park-has-been-a-hotbed-for-ufo-sightings-over-the-past-deca/1551764598169511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TinleyParkPatch/posts/ufo-sightings-tinley-park-has-been-a-hotbed-for-ufo-sightings-over-the-past-deca/1551764598169511/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS: Tinley Park has been a hotbed...Has anybody seen that strange smoke like light in the sky tonight in the east direction o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
    Title: do aliens only work weekdays crunching the numbers on ufo sightings c523a326ade7  
-   Link: <a href="https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Aliens Only Work Weekdays? Crunching the Numbers...The 2004 incidents have been dubbed the “Tinley Park Lights” and feature in numero...</p></details>
+   Link:<a href="https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Aliens Only Work Weekdays? Crunching the Numbers...The 2004 incidents have been dubbed the “Tinley Park Lights” and feature in numero...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: edition.pagesuite.com  
-   Link: <a href="https://edition.pagesuite.com/tribune/article_popover.aspx?guid=fc9a4a63-bf51-4595-bcdf-5ffb9e990e28" target="_blank" rel="noopener noreferrer nofollow">https://edition.pagesuite.com/tribune/article_popover.aspx?guid=fc9a4a63-bf51-4595-bcdf-5ffb9e990e28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon was the subject of an episode of the History Channel show “UFO Hunters,”...Read more...</p></details>
+   Link:<a href="https://edition.pagesuite.com/tribune/article_popover.aspx?guid=fc9a4a63-bf51-4595-bcdf-5ffb9e990e28" target="_blank" rel="noopener noreferrer nofollow">https://edition.pagesuite.com/tribune/article_popover.aspx?guid=fc9a4a63-bf51-4595-bcdf-5ffb9e990e28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon was the subject of an episode of the History Channel show “UFO Hunters,”...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guys, I just debunked the Aug 21, 2004 Tinley Park, IL UFO...Please note that I&#x27;m a complete believer in UFO&#x27;s, but I live in Tinley Park...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/gcqqq/guys_i_just_debunked_the_aug_21_2004_tinley_park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guys, I just debunked the Aug 21, 2004 Tinley Park, IL UFO...Please note that I&#x27;m a complete believer in UFO&#x27;s, but I live in Tinley Park...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theclio.com  
    Title: First Sighting of the Tinley Park Lights  
-   Link: <a href="https://theclio.com/entry/141743" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/141743</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioA strange phenomenon where Illinois residents widely reported witnessing unexplained lights in the sky during the early 2000s.Read more...</p></details>
+   Link:<a href="https://theclio.com/entry/141743" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/141743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioA strange phenomenon where Illinois residents widely reported witnessing unexplained lights in the sky during the early 2000s.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>red. I saw i flying literally right above a house and was...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>red. I saw i flying literally right above a house and was...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=01GT4oK4feU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01GT4oK4feU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cross suburban Chicago. For years, one question has lingered...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=01GT4oK4feU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01GT4oK4feU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cross suburban Chicago. For years, one question has lingered...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: animated-character-database.fandom.com  
    Title: Black Triangles (UFO)  
-   Link: <a href="https://animated-character-database.fandom.com/wiki/Black_Triangles_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://animated-character-database.fandom.com/wiki/Black_Triangles_%28UFO%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three red lights hovered in a triangular formation were seen by multiple witnesses in Tinley Park and Oak Forest, Illinois, on...Read more...</p></details>
+   Link:<a href="https://animated-character-database.fandom.com/wiki/Black_Triangles_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://animated-character-database.fandom.com/wiki/Black_Triangles_%28UFO%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three red lights hovered in a triangular formation were seen by multiple witnesses in Tinley Park and Oak Forest, Illinois, on...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Did Illinois Police Officers Really Chase Down A UFO? | Unsolved Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=ixqNeQum-Iw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixqNeQum-Iw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police Confirmed UFO Sighting | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ixqNeQum-Iw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixqNeQum-Iw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police Confirmed UFO Sighting | National Geographic...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: yahoo.com  
    Title: Chicago Tribune  
-   Link: <a href="https://www.yahoo.com/news/vintage-chicago-tribune-close-encounters-190000190.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/vintage-chicago-tribune-close-encounters-190000190.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Close encounters&#x27; with UFOs in Illinois!!!!!12 May 2022 — Multiple sightings of three red or white lights in a triangular pattern were r...</p></details>
+   Link:<a href="https://www.yahoo.com/news/vintage-chicago-tribune-close-encounters-190000190.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/vintage-chicago-tribune-close-encounters-190000190.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Close encounters&#x27; with UFOs in Illinois!!!!!12 May 2022 — Multiple sightings of three red or white lights in a triangular pattern were r...</p></details>
    Published: May 2022

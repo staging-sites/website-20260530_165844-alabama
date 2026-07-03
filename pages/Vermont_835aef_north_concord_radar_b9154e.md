@@ -262,29 +262,29 @@ image: /assets/images/Vermont_835aef_north_concord_radar_b9154e-overview-social.
 
 ## Introduction
 
-The North Concord radar story is one of Vermont’s most intriguing but easiest-to-overstate UFO episodes. The core claim is simple: on 19 September 1961, operators at North Concord Air Force Station on East Mountain recorded an unusual [radar target]({{ 'radar-target/' | relative_url }}) for 18 minutes, only hours before Betty and Barney Hill reported their famous encounter in neighbouring New Hampshire. That timing turned a short radar file into a durable piece of regional UFO lore. Yet the connection is weaker than the legend often implies. The Air Force treated the North Concord target as “probably balloon”, later researchers have questioned that explanation, and even pro-UFO catalogues acknowledge that a direct link to the Hill encounter remains speculative rather than demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The North Concord radar story is one of Vermont’s most intriguing but easiest-to-overstate UFO episodes. The core claim is simple: on 19 September 1961, operators at North Concord Air Force Station on East Mountain recorded an unusual [radar target]({{ 'radar-target/' | relative_url }}) for 18 minutes, only hours before Betty and Barney Hill reported their famous encounter in neighbouring New Hampshire. That timing turned a short radar file into a durable piece of regional UFO lore. Yet the connection is weaker than the legend often implies. The Air Force treated the North Concord target as “probably balloon”, later researchers have questioned that explanation, and even pro-UFO catalogues acknowledge that a direct link to the Hill encounter remains speculative rather than demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-overview.webp" | relative_url }}" alt="Overview image for North Concord" loading="eager" decoding="sync" fetchpriority="high">
 For Vermont UFO history, North Concord matters less as a proven “radar confirmation” of the Hill case than as a revealing example of how Cold War military infrastructure, sparse documentation and a famous nearby abduction story can combine into folklore that outlives the original record.
 
 ## East Mountain’s Cold War role
 
-North Concord Air Force Station was not a UFO outpost. It was a Cold War aircraft-control and warning radar site, built into the defensive network that watched the skies of the north-eastern United States. The former station sat on East Mountain in East Haven, in Vermont’s remote Northeast Kingdom. A 2013 remedial investigation report for the former Lyndonville Air Force Station describes the site as a remote forested project area with an operations area and receiver building at roughly 3,400 feet, a cantonment area lower down the access road, and a debris area associated with the former military installation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anrweb.vt.gov">[ANR Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anrweb.vt.gov</span><span class="citation-popover-snippet">ANR Web</span></span></span>
+North Concord Air Force Station was not a UFO outpost. It was a Cold War aircraft-control and warning radar site, built into the defensive network that watched the skies of the north-eastern United States. The former station sat on East Mountain in East Haven, in Vermont’s remote Northeast Kingdom. A 2013 remedial investigation report for the former Lyndonville Air Force Station describes the site as a remote forested project area with an operations area and receiver building at roughly 3,400 feet, a cantonment area lower down the access road, and a debris area associated with the former military installation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anrweb.vt.gov">[ANR Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anrweb.vt.gov</span><span class="citation-popover-snippet">ANR Web</span></span></span>
 
-The station’s official life was brief. Vermont environmental records state that between 1956 and August 1963 the property was used by the Air Force as an aircraft-control and warning radar facility; it was initially known as North Concord Air Force Station and was renamed Lyndonville Air Force Station around March 1962. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anrweb.vt.gov">[ANR Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anrweb.vt.gov</span><span class="citation-popover-snippet">ANR Web</span></span></span> Radomes, a specialist archive of US air-defence radar sites, gives the same broad chronology and adds the equipment story: the 911th Aircraft Control and Warning Squadron operated AN/MPS-11 and AN/MPS-14 radars from 1956, added an AN/FPS-6A height-finder radar in 1958, briefly used an AN/FPS-3 search radar in 1959, and fed into the Semi-Automatic Ground Environment, or SAGE, air-defence system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radomes.org">[radomes.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radomes.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The station’s official life was brief. Vermont environmental records state that between 1956 and August 1963 the property was used by the Air Force as an aircraft-control and warning radar facility; it was initially known as North Concord Air Force Station and was renamed Lyndonville Air Force Station around March 1962.<span class="citation-chip-wrap"><a class="citation-chip" href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anrweb.vt.gov">[ANR Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anrweb.vt.gov</span><span class="citation-popover-snippet">ANR Web</span></span></span> Radomes, a specialist archive of US air-defence radar sites, gives the same broad chronology and adds the equipment story: the 911th Aircraft Control and Warning Squadron operated AN/MPS-11 and AN/MPS-14 radars from 1956, added an AN/FPS-6A height-finder radar in 1958, briefly used an AN/FPS-3 search radar in 1959, and fed into the Semi-Automatic Ground Environment, or SAGE, air-defence system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radomes.org">[radomes.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radomes.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That context matters because the later UFO legend rests on the credibility implied by the place. This was a military radar station staffed by trained personnel and equipped to detect aircraft. A report from such a site feels different from a single roadside witness account. But the same context also cuts the other way: radar stations frequently dealt with ambiguous returns, weather effects, balloons, aircraft, equipment limits and interpretation problems. A radar contact is stronger evidence than a rumour, but it is not automatically proof of an extraordinary craft.
 
-The abandoned site has since become a physical anchor for the story. Local and regional coverage often emphasises the decaying towers, the difficult mountain access and the base’s eerie Cold War atmosphere. That landscape helps explain why the North Concord account has travelled so well: it attaches an already dramatic UFO claim to a visible ruin that visitors can still imagine as a watchtower over the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vtdigger.org">[VTDigger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vtdigger.org</span><span class="citation-popover-title">a cold war relic the east haven radar station closed 50 years ago</span><span class="citation-popover-snippet">a cold war relic the east haven radar station closed 50 years ago</span></span></span>
+The abandoned site has since become a physical anchor for the story. Local and regional coverage often emphasises the decaying towers, the difficult mountain access and the base’s eerie Cold War atmosphere. That landscape helps explain why the North Concord account has travelled so well: it attaches an already dramatic UFO claim to a visible ruin that visitors can still imagine as a watchtower over the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vtdigger.org">[VTDigger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vtdigger.org</span><span class="citation-popover-title">a cold war relic the east haven radar station closed 50 years ago</span><span class="citation-popover-snippet">a cold war relic the east haven radar station closed 50 years ago</span></span></span>
 
 <img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-dark.svg" | relative_url }}" alt="North Concord illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The reported 1961 sighting
 
-The radar incident usually cited in connection with the Hill case occurred on 19 September 1961. The key Project Blue Book summary, reproduced in later research material, gives the location as North Concord Air Force Station, Vermont; the observation type as ground radar; the source as military; the duration as 18 minutes; and the number of objects as one. The target was described as a height-finder radar return at about 62,000 feet, first appearing around 196 degrees at 84 miles, with the return later lost near 199 degrees at 80 miles after a course described as erratic. The same summary says the target appeared like an aircraft-sized normal radar target, while the Air Force conclusion was “probably balloon”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The radar incident usually cited in connection with the Hill case occurred on 19 September 1961. The key Project Blue Book summary, reproduced in later research material, gives the location as North Concord Air Force Station, Vermont; the observation type as ground radar; the source as military; the duration as 18 minutes; and the number of objects as one. The target was described as a height-finder radar return at about 62,000 feet, first appearing around 196 degrees at 84 miles, with the return later lost near 199 degrees at 80 miles after a course described as erratic. The same summary says the target appeared like an aircraft-sized normal radar target, while the Air Force conclusion was “probably balloon”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The sighting is often presented as if it happened “above” the base, but the surviving summary is more precise and less dramatic. The radar return was plotted at distance and bearing from the station, not described as an object hovering over East Mountain. NICAP’s radar-case directory gives the target as picked up on an AN/MPS-14 height-finder radar at 62,000 feet, at 84 miles, with contact later lost at 80 miles after an 18-minute observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The sighting is often presented as if it happened “above” the base, but the surviving summary is more precise and less dramatic. The radar return was plotted at distance and bearing from the station, not described as an object hovering over East Mountain. NICAP’s radar-case directory gives the target as picked up on an AN/MPS-14 height-finder radar at 62,000 feet, at 84 miles, with contact later lost at 80 miles after an 18-minute observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The Air Force’s balloon explanation was cautious but not especially satisfying. An Air Force Foreign Technology Division memo reportedly argued that low speed, high altitude and erratic course favoured a weather balloon and suggested checking balloon-launching and tracking activity in the area if further investigation was desired. The later Air Command and Staff College research study noted that there was no indication Project Blue Book made that check before accepting the balloon interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The Air Force’s balloon explanation was cautious but not especially satisfying. An Air Force Foreign Technology Division memo reportedly argued that low speed, high altitude and erratic course favoured a weather balloon and suggested checking balloon-launching and tracking activity in the area if further investigation was desired. The later Air Command and Staff College research study noted that there was no indication Project Blue Book made that check before accepting the balloon interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 That leaves the North Concord radar case in a middle category. It is not merely folklore, because there was a Project Blue Book paper trail and a military radar source. It is not a clean “unknown” either, because the Air Force did offer a prosaic explanation and the public file does not provide enough raw radar data to reconstruct the event independently. The most careful reading is that North Concord was a real reported radar anomaly with an official explanation that remains open to criticism.
 
@@ -292,11 +292,11 @@ That leaves the North Concord radar case in a middle category. It is not merely 
 
 ## Why the Hill encounter changed the meaning of the radar return
 
-The North Concord case would probably be a minor radar entry without Betty and Barney Hill. The Hills, a Portsmouth, New Hampshire couple, reported a strange aerial encounter while driving through the White Mountains on the night of 19–20 September 1961. Their story later became the first widely reported alien-abduction case in the United States, with New Hampshire Public Radio noting that it was commemorated by a state historical marker on Route 3 in Lincoln in 2011. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhpr.org">[New Hampshire Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The North Concord case would probably be a minor radar entry without Betty and Barney Hill. The Hills, a Portsmouth, New Hampshire couple, reported a strange aerial encounter while driving through the White Mountains on the night of 19–20 September 1961. Their story later became the first widely reported alien-abduction case in the United States, with New Hampshire Public Radio noting that it was commemorated by a state historical marker on Route 3 in Lincoln in 2011.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhpr.org">[New Hampshire Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The University of New Hampshire’s guide to the Betty and Barney Hill Papers describes the couple as returning from Montreal to Portsmouth when they saw lights approaching from the sky, later claiming two missing hours, physical after-effects such as Betty’s torn and stained dress and Barney’s scraped shoe, and later hypnotic sessions in which an abduction narrative emerged. The archive itself contains correspondence, journals, essays, manuscripts, clippings, photographs and other material relating to the Hills’ UFO experience and later UFO interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The University of New Hampshire’s guide to the Betty and Barney Hill Papers describes the couple as returning from Montreal to Portsmouth when they saw lights approaching from the sky, later claiming two missing hours, physical after-effects such as Betty’s torn and stained dress and Barney’s scraped shoe, and later hypnotic sessions in which an abduction narrative emerged. The archive itself contains correspondence, journals, essays, manuscripts, clippings, photographs and other material relating to the Hills’ UFO experience and later UFO interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers</span><span class="citation-popover-snippet">betty barney hill papers</span></span></span>
 
-The possible link between Vermont and the Hill case comes from timing and geography. The North Concord radar track occurred several hours before the Hills’ reported encounter. A separate Pease Air Force Base radar note from 20 September 1961 is also often discussed with the Hill file: the record described an unidentified aircraft appearing on precision-approach radar at 2:14 a.m., making an approach and pulling up, while the tower reportedly saw no aircraft. The Project Blue Book material itself said it was not possible to determine any relationship between observations, though time and distance could “hint” at one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The possible link between Vermont and the Hill case comes from timing and geography. The North Concord radar track occurred several hours before the Hills’ reported encounter. A separate Pease Air Force Base radar note from 20 September 1961 is also often discussed with the Hill file: the record described an unidentified aircraft appearing on precision-approach radar at 2:14 a.m., making an approach and pulling up, while the tower reportedly saw no aircraft. The Project Blue Book material itself said it was not possible to determine any relationship between observations, though time and distance could “hint” at one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 This is the point at which interpretation matters. Believers see a cluster: a military radar contact in Vermont, a famous visual and missing-time case in New Hampshire, and a later Pease radar note. Sceptics see coincidence: separate events, different times, incomplete descriptions and no firm tracking continuity between them. Even within UFO research circles, the stronger position is not that North Concord “confirmed” the Hill abduction, but that it became part of the case’s supporting mythology because it was nearby, military and roughly contemporaneous.
 
@@ -307,11 +307,11 @@ The North Concord story has grown because it is narratively powerful. A remote V
 
 Three distinctions keep the case in proportion:
 
-**A radar return is not the same as a tracked spacecraft.** The North Concord record describes one radar target, not a visual sighting by the radar operators of a craft in the sky. The Air Force summary called it a height-finder radar return and concluded “probably balloon”. Later analysts have found reasons to doubt the balloon explanation, but doubting the explanation does not identify the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+**A radar return is not the same as a tracked spacecraft.** The North Concord record describes one radar target, not a visual sighting by the radar operators of a craft in the sky. The Air Force summary called it a height-finder radar return and concluded “probably balloon”. Later analysts have found reasons to doubt the balloon explanation, but doubting the explanation does not identify the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-**Temporal proximity is not identity.** The North Concord radar event occurred hours before the Hill encounter. Martin Shough, commenting for the NICAP-linked RADCAT discussion, wrote that there was “no reason” to log the North Concord track as more than a coincidence, while also saying the Air Force balloon reasoning was not cogent. That is a useful balanced judgement: the radar case may be genuinely interesting, but the link to the Hills is not established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+**Temporal proximity is not identity.** The North Concord radar event occurred hours before the Hill encounter. Martin Shough, commenting for the NICAP-linked RADCAT discussion, wrote that there was “no reason” to log the North Concord track as more than a coincidence, while also saying the Air Force balloon reasoning was not cogent. That is a useful balanced judgement: the radar case may be genuinely interesting, but the link to the Hills is not established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-**The Pease radar note is weaker than popular retellings imply.** Richard Hall’s MUFON Journal note, republished by NICAP, argued that the radar-Hill connection was weak and that no evidence had been found that the UFO in the Hill case was tracked on radar. Hall described the Pease radar incident as a low-level target in the landing pattern, around 80 miles from the reported abduction site, and said any link to the Hill case was conjectural. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+**The Pease radar note is weaker than popular retellings imply.** Richard Hall’s MUFON Journal note, republished by NICAP, argued that the radar-Hill connection was weak and that no evidence had been found that the UFO in the Hill case was tracked on radar. Hall described the Pease radar incident as a low-level target in the landing pattern, around 80 miles from the reported abduction site, and said any link to the Hill case was conjectural.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 The result is a classic UFO-history tension: the story is too documented to dismiss as pure invention, but too underdetermined to carry the weight later folklore puts on it. The record shows a reported military radar anomaly. It does not show a continuous radar track of the Hills’ object, an intercept, a recovered object, a confirmed craft, or an official finding that the radar target and the Hill encounter were the same event.
 
@@ -319,295 +319,295 @@ The result is a classic UFO-history tension: the story is too documented to dism
 
 ## What the case adds to Vermont UFO history
 
-North Concord’s value in a Vermont UFO history is not that it proves the Hill encounter. It shows how Vermont’s Cold War geography became part of wider New England UFO culture. East Mountain was built for national defence, not folklore, but its function made it a natural magnet for stories about mysterious aerial objects. In a state whose UFO history often depends on local reports, small archives and later retellings, North Concord stands out because the central claim touches an official Air Force investigation rather than only oral tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+North Concord’s value in a Vermont UFO history is not that it proves the Hill encounter. It shows how Vermont’s Cold War geography became part of wider New England UFO culture. East Mountain was built for national defence, not folklore, but its function made it a natural magnet for stories about mysterious aerial objects. In a state whose UFO history often depends on local reports, small archives and later retellings, North Concord stands out because the central claim touches an official Air Force investigation rather than only oral tradition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 It also helps readers separate three different evidential layers:
 
-First, there is the **site history**, which is well supported: North Concord/Lyndonville was a real Air Force radar station, operational from 1956 until 1963, with documented air-defence equipment and a known role in Cold War radar surveillance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radomes.org">[radomes.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radomes.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+First, there is the **site history**, which is well supported: North Concord/Lyndonville was a real Air Force radar station, operational from 1956 until 1963, with documented air-defence equipment and a known role in Cold War radar surveillance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radomes.org">[radomes.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radomes.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Second, there is the **radar incident**, which is documented but incomplete: one military radar return, 18 minutes, high altitude, uncertain movement, officially judged probably a balloon, with later criticism of that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+Second, there is the **radar incident**, which is documented but incomplete: one military radar return, 18 minutes, high altitude, uncertain movement, officially judged probably a balloon, with later criticism of that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-Third, there is the **Hill connection**, which is culturally important but evidentially thin: the timing and regional proximity invite comparison, but the surviving material does not prove that the Vermont radar target, the Hills’ reported object and the Pease radar note were parts of one continuous event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Third, there is the **Hill connection**, which is culturally important but evidentially thin: the timing and regional proximity invite comparison, but the surviving material does not prove that the Vermont radar target, the Hills’ reported object and the Pease radar note were parts of one continuous event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/610919nconcord_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 That layered reading makes North Concord more interesting, not less. It lets the story be what it is: a small but revealing junction where Vermont’s military landscape, Project Blue Book paperwork, New Hampshire’s most famous UFO legend and later regional storytelling all meet.
 
 <img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-dark.svg" | relative_url }}" alt="North Concord illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best evidence and main doubts
 
-The strongest evidence for including North Concord in Vermont’s UFO record is the existence of a Project Blue Book trail. The National Archives states that Project Blue Book records were declassified and transferred for public research, with individual case files arranged chronologically; the Air Force’s own fact sheet says Blue Book collected 12,618 sightings from 1947 to 1969, of which 701 remained unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> Within that broader framework, the North Concord file is a documented report from a military radar station, not a late campfire story.
+The strongest evidence for including North Concord in Vermont’s UFO record is the existence of a Project Blue Book trail. The National Archives states that Project Blue Book records were declassified and transferred for public research, with individual case files arranged chronologically; the Air Force’s own fact sheet says Blue Book collected 12,618 sightings from 1947 to 1969, of which 701 remained unidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> Within that broader framework, the North Concord file is a documented report from a military radar station, not a late campfire story.
 
-The main doubts are equally important. The available public summaries do not supply raw radar plots, full operator logs, independent visual confirmation, balloon-launch checks, aircraft-control correlation, or enough meteorological detail to settle the target’s identity. The Air Force’s “probably balloon” conclusion may be under-argued, especially if the return truly stayed at a constant 62,000 feet and appeared aircraft-sized, but the weakness of one explanation does not automatically validate a more exotic one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The main doubts are equally important. The available public summaries do not supply raw radar plots, full operator logs, independent visual confirmation, balloon-launch checks, aircraft-control correlation, or enough meteorological detail to settle the target’s identity. The Air Force’s “probably balloon” conclusion may be under-argued, especially if the return truly stayed at a constant 62,000 feet and appeared aircraft-sized, but the weakness of one explanation does not automatically validate a more exotic one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The Hill connection is weaker still. It is plausible as folklore because the dates, geography and institutions line up neatly. It is weak as proof because the events are separated by hours, the radar descriptions do not match a clearly identified object from the Hill narrative, and later UFO researchers themselves have warned against treating the radar material as confirmation of the abduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The Hill connection is weaker still. It is plausible as folklore because the dates, geography and institutions line up neatly. It is weak as proof because the events are separated by hours, the radar descriptions do not match a clearly identified object from the Hill narrative, and later UFO researchers themselves have warned against treating the radar material as confirmation of the abduction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 The fairest conclusion is therefore restrained: North Concord is a legitimate Vermont radar-lore case with a real Air Force paper trail and a famous regional association. It is not a confirmed radar record of the Betty and Barney Hill object. Its significance lies in how a thin but intriguing military record became attached to a much larger legend, and how that attachment still shapes the way Vermont appears in New England UFO history.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pdFHaioNpk4" title="New England Legends Podcast 286 - Vermont’s Abandoned UFO Base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pdFHaioNpk4" target="_blank" rel="noopener noreferrer">New England Legends Podcast 286 - Vermont’s Abandoned UFO Base</a></p><p class="youtube-embed-meta">Channel: Jeff Belanger &middot; Views: 341 &middot; Uploaded: February 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pdFHaioNpk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pdFHaioNpk4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Radar Base Story Behind the Legend. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Radar Base Story Behind the Legend. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Matches the radar-investigation and Cold War context of North Concord.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the radar-investigation and Cold War context of North Concord.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers official case files, radar reports and unresolved incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers official case files, radar reports and unresolved incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Appeals to readers interested in radar-supported and official reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Appeals to readers interested in radar-supported and official reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unusual aerial reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual aerial reports are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=north-concord-the-radar-base-story-behind-the-legend-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ The fairest conclusion is therefore restrained: North Concord is a legitimate Ve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ The fairest conclusion is therefore restrained: North Concord is a legitimate Ve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ The fairest conclusion is therefore restrained: North Concord is a legitimate Ve
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ The fairest conclusion is therefore restrained: North Concord is a legitimate Ve
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -763,140 +763,140 @@ The fairest conclusion is therefore restrained: North Concord is a legitimate Ve
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/hillradarweak.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/hillradarweak.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/0450-74.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/0450-74.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: anrweb.vt.gov  
    Title: ANR Web  
-   Link: <a href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf</a>  
+   Link:<a href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: radomes.org  
-   Link: <a href="https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT" target="_blank" rel="noopener noreferrer nofollow">https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT</a>  
+   Link:<a href="https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT" target="_blank" rel="noopener noreferrer nofollow">https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vtdigger.org  
    Title: a cold war relic the east haven radar station closed 50 years ago  
-   Link: <a href="https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/</a>  
+   Link:<a href="https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link: <a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006</a>  
+   Link:<a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/reports/610919nconcord_rep2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610919nconcord_rep2.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/610919nconcord_rep2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610919nconcord_rep2.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/610919nconcord_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610919nconcord_rep.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/610919nconcord_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610919nconcord_rep.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1961fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1961fullrep.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.com  
    Title: project blue book declassified the true story of the hill abduction  
-   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction</a>  
+   Link:<a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nhpr.org  
-   Link: <a href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln</a>  
+   Link:<a href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: military-history.fandom.com  
    Title: Lyndonville Air Force Station  
-   Link: <a href="https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abandonedspaces.com  
    Title: north concord radar  
-   Link: <a href="https://www.abandonedspaces.com/conflict/north-concord-radar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.abandonedspaces.com/conflict/north-concord-radar.html</a>  
+   Link:<a href="https://www.abandonedspaces.com/conflict/north-concord-radar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.abandonedspaces.com/conflict/north-concord-radar.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/124" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/124</a>  
+   Link:<a href="https://skeptoid.com/episodes/124" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/124</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scenicnh.com  
    Title: Lyndonville Air Force Station  
-   Link: <a href="https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/" target="_blank" rel="noopener noreferrer nofollow">https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/</a>  
+   Link:<a href="https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/" target="_blank" rel="noopener noreferrer nofollow">https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Surviving Overnight ON TOP Abandoned Military Radar Tower  
-   Link: <a href="https://www.youtube.com/watch?v=ph3Sx7w8LA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ph3Sx7w8LA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>East Mountain Radar Station, Vermont. Abandoned since 1963! Exploration and Drone video in 4k...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ph3Sx7w8LA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ph3Sx7w8LA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>East Mountain Radar Station, Vermont. Abandoned since 1963! Exploration and Drone video in 4k...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jl1pVatXwbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jl1pVatXwbU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surviving Overnight ON TOP Abandoned Military Radar Tower...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jl1pVatXwbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jl1pVatXwbU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surviving Overnight ON TOP Abandoned Military Radar Tower...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 286  
-   Link: <a href="https://www.youtube.com/watch?v=pdFHaioNpk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pdFHaioNpk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abandoned North Concord Air Force Station In Vermont...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pdFHaioNpk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pdFHaioNpk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Abandoned North Concord Air Force Station In Vermont...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Abandoned North Concord Air Force Station In Vermont  
-   Link: <a href="https://www.youtube.com/watch?v=8ZyRZAAvNyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ZyRZAAvNyc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Hill: Grandmother of UFO Abductees on her 1961 Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8ZyRZAAvNyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ZyRZAAvNyc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Hill: Grandmother of UFO Abductees on her 1961 Encounter...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/</a>  
+   Link:<a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DCXwFhAArX3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DCXwFhAArX3/</a>  
+   Link:<a href="https://www.instagram.com/p/DCXwFhAArX3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DCXwFhAArX3/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: outdoors.org  
-   Link: <a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
+   Link:<a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html</a>  
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/</a>  
+   Link:<a href="https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: superstock.com  
-   Link: <a href="https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V" target="_blank" rel="noopener noreferrer nofollow">https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V</a>
+   Link:<a href="https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V" target="_blank" rel="noopener noreferrer nofollow">https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V</a>

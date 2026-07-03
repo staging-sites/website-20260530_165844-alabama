@@ -250,20 +250,20 @@ image: /assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chas
 
 ## Introduction
 
-In **1972**, the small western Kansas town of **Dighton** became the focal point of one of the most curious and enduring reports in the state’s UFO history: a **police pursuit of unexplained aerial lights** that repeatedly evaded capture despite officers’ efforts to intercept them. This incident, involving then‑Chief of Police **M. R. Shelton**, stands out within the broader wave of sightings across Kansas that year because it moves beyond isolated civilian testimony into **law‑enforcement engagement**, offering a richer set of claims and behavioural details about the lights. While there is no definitive explanation, the available contemporaneous reporting and later retrospectives provide enough specificity to analyse what was claimed, how the lights behaved relative to vehicles and observers, and what official avenues of explanation were pursued at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+In **1972**, the small western Kansas town of **Dighton** became the focal point of one of the most curious and enduring reports in the state’s UFO history: a **police pursuit of unexplained aerial lights** that repeatedly evaded capture despite officers’ efforts to intercept them. This incident, involving then‑Chief of Police **M. R. Shelton**, stands out within the broader wave of sightings across Kansas that year because it moves beyond isolated civilian testimony into **law‑enforcement engagement**, offering a richer set of claims and behavioural details about the lights. While there is no definitive explanation, the available contemporaneous reporting and later retrospectives provide enough specificity to analyse what was claimed, how the lights behaved relative to vehicles and observers, and what official avenues of explanation were pursued at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-1-dark.svg" | relative_url }}" alt="Shelton Chase illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Police Reported During the Chase
 
-According to **local news reports from the summer of 1972**, the series of sightings in and around Dighton began with descriptions of **bright red‑orange or white lights** in the night sky that would appear stationary or hovering until a patrol car approached. Then‑Chief of Police **M. R. Shelton** and other officers described attempting to follow these lights in patrol vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+According to **local news reports from the summer of 1972**, the series of sightings in and around Dighton began with descriptions of **bright red‑orange or white lights** in the night sky that would appear stationary or hovering until a patrol car approached. Then‑Chief of Police **M. R. Shelton** and other officers described attempting to follow these lights in patrol vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
 
 The key behavioural features attributed to the lights during these encounters include:
 
-* **Stationary to evasive motion:** Officers described the lights as sometimes remaining still — “hovering” — **until approached**, after which the light would begin to **move away**, seemingly ahead of the vehicle that was investigating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
-* **Sustained parallel movement:** In Shelton’s account, when he pursued one of the lights in his patrol car, it **kept pace with or stayed slightly ahead** of his vehicle, even when he reached **speeds of up to about 100 mph**. Despite this, he reported **never catching up** to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
-* **Variable pathing:** Observers from law enforcement reported the lights moving **laterally relative to the road**, sometimes running parallel rather than simply ascending or retreating straight ahead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+* **Stationary to evasive motion:** Officers described the lights as sometimes remaining still — “hovering” — **until approached**, after which the light would begin to **move away**, seemingly ahead of the vehicle that was investigating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+* **Sustained parallel movement:** In Shelton’s account, when he pursued one of the lights in his patrol car, it **kept pace with or stayed slightly ahead** of his vehicle, even when he reached **speeds of up to about 100 mph**. Despite this, he reported **never catching up** to it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+* **Variable pathing:** Observers from law enforcement reported the lights moving **laterally relative to the road**, sometimes running parallel rather than simply ascending or retreating straight ahead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
 
-Taken together, these details sketch a dynamic where the lights did not behave like typical aircraft — which would either accelerate away at speed or remain fixed on a defined route — but rather **seemed responsive to pursuit**, an aspect that drew attention from both officers and civilian witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+Taken together, these details sketch a dynamic where the lights did not behave like typical aircraft — which would either accelerate away at speed or remain fixed on a defined route — but rather **seemed responsive to pursuit**, an aspect that drew attention from both officers and civilian witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eY8Ju19VT9I" title="The Proof Is Out There: SILVER UFO CAUGHT ON TAPE IN KANSAS (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eY8Ju19VT9I" target="_blank" rel="noopener noreferrer">The Proof Is Out There: SILVER UFO CAUGHT ON TAPE IN KANSAS (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 464.1K &middot; Uploaded: October 2021 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eY8Ju19VT9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eY8Ju19VT9I">Open on YouTube</a></p></div></div></div>
 
@@ -271,22 +271,22 @@ Taken together, these details sketch a dynamic where the lights did not behave l
 
 Understanding the **behaviour of the lights** in the context of vehicle pursuit sheds light on why the incident became so talked‑about:
 
-* **Speed and Tracking:** Shelton’s claim that the light **matched or exceeded police patrol speeds** on rural roads suggested to witnesses that the phenomenon was not merely a distant star, planet, or conventional aircraft. The lights’ ability to remain just out of reach — despite high pursuit speeds — is a central element in the narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
-* **Stationary then Mobile:** The repeated pattern of lights **holding position and then moving once approached** was reported by multiple individuals, not only officers. This pattern was why law enforcement repeatedly tried to investigate, thinking the object might be a **military aircraft or device** — for instance, testing equipment or infrared photography from low‑flying planes over feedlots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
-* **Public Perception of Behaviour:** The perception of unorthodox motion — hovering, rapid lateral shifts, and unpredictable acceleration — contributed to local residents and media framing the phenomenon as unusual and noteworthy compared with normal airborne objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+* **Speed and Tracking:** Shelton’s claim that the light **matched or exceeded police patrol speeds** on rural roads suggested to witnesses that the phenomenon was not merely a distant star, planet, or conventional aircraft. The lights’ ability to remain just out of reach — despite high pursuit speeds — is a central element in the narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+* **Stationary then Mobile:** The repeated pattern of lights **holding position and then moving once approached** was reported by multiple individuals, not only officers. This pattern was why law enforcement repeatedly tried to investigate, thinking the object might be a **military aircraft or device** — for instance, testing equipment or infrared photography from low‑flying planes over feedlots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+* **Public Perception of Behaviour:** The perception of unorthodox motion — hovering, rapid lateral shifts, and unpredictable acceleration — contributed to local residents and media framing the phenomenon as unusual and noteworthy compared with normal airborne objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
 
-However, it’s important to note that **no documented measurements** (such as radar tracks or precise speed recordings) from 1972 are publicly available to confirm the lights’ motion relative to police cars with quantitative precision. The behavioural descriptions rest on **verbal accounts and press reporting of witnesses** at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+However, it’s important to note that **no documented measurements** (such as radar tracks or precise speed recordings) from 1972 are publicly available to confirm the lights’ motion relative to police cars with quantitative precision. The behavioural descriptions rest on **verbal accounts and press reporting of witnesses** at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-2-dark.svg" | relative_url }}" alt="Shelton Chase illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Attempts at Explanation and Official Responses
 
 At the time of the sightings and chase, local law enforcement **considered conventional explanations** before concluding that they lacked confirmation:
 
-* **Military Aircraft Hypothesis:** Shelton and other officials initially speculated that the lights might be **military aircraft conducting infrared photography or other low‑level operations**, possibly related to training or surveillance. This hypothesis was grounded in the logic of ordinary aircraft behaviour — that unusual lights could come from **flight operations**, especially at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
-* **Air Force Denials:** When questions were put to **Forbes Air Force Base** (Topeka) and **McConnell Air Force Base** (Wichita) about low‑level flights or aircraft emitting such lights in the relevant time frames, both bases **denied any such operations**. These denials removed one straightforward conventional explanation from consideration, at least according to contemporaneous reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
-* **Lack of Formal Investigation Records:** There is no clear public record that a formal investigation — for example by a state or federal aviation authority — ever reached a definitive conclusion about these particular lights. Their behaviour, as reported, remains **unresolved within official archives as to public access**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+* **Military Aircraft Hypothesis:** Shelton and other officials initially speculated that the lights might be **military aircraft conducting infrared photography or other low‑level operations**, possibly related to training or surveillance. This hypothesis was grounded in the logic of ordinary aircraft behaviour — that unusual lights could come from **flight operations**, especially at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+* **Air Force Denials:** When questions were put to **Forbes Air Force Base** (Topeka) and **McConnell Air Force Base** (Wichita) about low‑level flights or aircraft emitting such lights in the relevant time frames, both bases **denied any such operations**. These denials removed one straightforward conventional explanation from consideration, at least according to contemporaneous reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+* **Lack of Formal Investigation Records:** There is no clear public record that a formal investigation — for example by a state or federal aviation authority — ever reached a definitive conclusion about these particular lights. Their behaviour, as reported, remains **unresolved within official archives as to public access**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
 
-The absence of an official conventional explanation, combined with detailed [witness accounts]({{ 'witness-accounts/' | relative_url }}) about behavioural responses to pursuit, helped cement the Dighton chase as a curious incident within the broader 1972 Kansas UFO wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+The absence of an official conventional explanation, combined with detailed [witness accounts]({{ 'witness-accounts/' | relative_url }}) about behavioural responses to pursuit, helped cement the Dighton chase as a curious incident within the broader 1972 Kansas UFO wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0kFCE3xe8k4" title="UFOs in Kansas?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0kFCE3xe8k4" target="_blank" rel="noopener noreferrer">UFOs in Kansas?</a></p><p class="youtube-embed-meta">Channel: KSN TV &middot; Views: 4.4K &middot; Uploaded: November 2021 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0kFCE3xe8k4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0kFCE3xe8k4">Open on YouTube</a></p></div></div></div>
 
@@ -294,212 +294,212 @@ The absence of an official conventional explanation, combined with detailed [wit
 
 In analysing the Dighton police chase, several points bear emphasising for clarity:
 
-* **Source Basis:** The substantive details about the chase come from **local press reporting and later retrospective accounts** that summarise witness claims. There is **no indication of technical measurements or corroborative documentation** (such as flight logs or radar data) available in the public domain about the chase itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
-* **Context of Multiple Sightings:** Dighton was not an isolated report — it was part of a **cluster of sightings across western Kansas in 1972**, with at least several dozen reports logged that year statewide. This cluster lends weight to the notion that something notable was visible in the night skies — though it does **not necessarily resolve the nature of the lights**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
-* **Witness Credibility and Interpretation:** The participating witnesses — including law enforcement officers and local residents — were generally described in reports as credible within their communities. However, human perception, particularly in low‑light conditions and with novel stimuli, is known to be prone to misinterpretation without corroborating physical data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+* **Source Basis:** The substantive details about the chase come from **local press reporting and later retrospective accounts** that summarise witness claims. There is **no indication of technical measurements or corroborative documentation** (such as flight logs or radar data) available in the public domain about the chase itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+* **Context of Multiple Sightings:** Dighton was not an isolated report — it was part of a **cluster of sightings across western Kansas in 1972**, with at least several dozen reports logged that year statewide. This cluster lends weight to the notion that something notable was visible in the night skies — though it does **not necessarily resolve the nature of the lights**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+* **Witness Credibility and Interpretation:** The participating witnesses — including law enforcement officers and local residents — were generally described in reports as credible within their communities. However, human perception, particularly in low‑light conditions and with novel stimuli, is known to be prone to misinterpretation without corroborating physical data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-3-dark.svg" | relative_url }}" alt="Shelton Chase illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_dighton_1972_flap_313f29_dighton_police_chase_6e3ff4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Chase Matters in Kansas UFO History
 
 The Dighton police chase episode is significant within Kansas UFO history for three reasons:
 
-1. **Law Enforcement Engagement:** Having a small‑town police chief actively pursuing unexplained lights elevates the episode from anecdote to **a documented institutional encounter**, albeit one based on verbal accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
-2. **Pattern of Behaviour:** The described evasive lighting behaviour — stationary then mobile, responsive to approach — distinguishes this case from simpler reports of static lights or passing aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
-3. **Unresolved Official Explanation:** The combination of military denials and a lack of definitive conventional interpretation left the case as an **unexplained fragment** of the 1972 Kansas UFO wave, feeding into later local lore and retrospective media attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+1. **Law Enforcement Engagement:** Having a small‑town police chief actively pursuing unexplained lights elevates the episode from anecdote to **a documented institutional encounter**, albeit one based on verbal accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
+2. **Pattern of Behaviour:** The described evasive lighting behaviour — stationary then mobile, responsive to approach — distinguishes this case from simpler reports of static lights or passing aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+3. **Unresolved Official Explanation:** The combination of military denials and a lack of definitive conventional interpretation left the case as an **unexplained fragment** of the 1972 Kansas UFO wave, feeding into later local lore and retrospective media attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hppr.org">[HPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hppr.org</span><span class="citation-popover-title">Rural Kansas Once UFO Hot Spot &#124; HPPR</span><span class="citation-popover-snippet">Rural Kansas Once UFO Hot Spot &#124; HPPR...</span></span></span>
 
-Overall, while the Dighton chase lacks the hard technical data that would elevate it to a fully documented aerial anomaly under strict scientific criteria, the **quality of witness accounts and the repeated behavioural tropes attributed to the lights** make it a distinctive episode in the state’s record of unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
+Overall, while the Dighton chase lacks the hard technical data that would elevate it to a fully documented aerial anomaly under strict scientific criteria, the **quality of witness accounts and the repeated behavioural tropes attributed to the lights** make it a distinctive episode in the state’s record of unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.ljworld.com">[LJWorld.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.ljworld.com</span><span class="citation-popover-title">dighton recalls ufo sightings 1972</span><span class="citation-popover-snippet">recalls UFO sightings of 1972 &#124; News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Q8vmwEg7QQ" title="The UFO of Delphos, Kansas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Q8vmwEg7QQ" target="_blank" rel="noopener noreferrer">The UFO of Delphos, Kansas</a></p><p class="youtube-embed-meta">Channel: Tom&#x27;s Bible Tales &middot; Views: 1.1K &middot; Uploaded: August 2021 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Q8vmwEg7QQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Q8vmwEg7QQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Chief Shelton Pursued the 1972 Dighton Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Chief Shelton Pursued the 1972 Dighton Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official investigations and institutional responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigations and institutional responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Provides framework for evaluating police and civilian reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides framework for evaluating police and civilian reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a law-enforcement UFO pursuit case especially well.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a law-enforcement UFO pursuit case especially well.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Discusses interpretation of unusual pursuit and observation cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses interpretation of unusual pursuit and observation cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-chief-shelton-pursued-the-1972-dighton-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ Overall, while the Dighton chase lacks the hard technical data that would elevat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ Overall, while the Dighton chase lacks the hard technical data that would elevat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ Overall, while the Dighton chase lacks the hard technical data that would elevat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ Overall, while the Dighton chase lacks the hard technical data that would elevat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ Overall, while the Dighton chase lacks the hard technical data that would elevat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,84 +705,84 @@ Overall, while the Dighton chase lacks the hard technical data that would elevat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: www2.ljworld.com  
    Title: dighton recalls ufo sightings 1972  
-   Link: <a href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow">https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>recalls UFO sightings of 1972 | News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</p></details>
+   Link:<a href="https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/" target="_blank" rel="noopener noreferrer nofollow">https://www2.ljworld.com/news/2010/aug/29/dighton-recalls-ufo-sightings-1972/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recalls UFO sightings of 1972 | News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, KansasA...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hppr.org  
    Title: Rural Kansas Once UFO Hot Spot | HPPR  
-   Link: <a href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow">https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rural Kansas Once UFO Hot Spot | HPPR...</p></details>
+   Link:<a href="https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot" target="_blank" rel="noopener noreferrer nofollow">https://www.hppr.org/hppr-arts-culture-history/2016-01-14/rural-kansas-once-ufo-hot-spot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rural Kansas Once UFO Hot Spot | HPPR...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufoinsight.com  
    Title: UF Os And The Law – Strange And Bizarre Sightings By Police Officers  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/ufos-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/ufos-and-the-law</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs And The Law – Strange And Bizarre Sightings By Police Officers - UFO InsightOctober 17, 2021 — UFOS AND THE LAW – STRANGE AND BIZARR...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/ufos-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/ufos-and-the-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs And The Law – Strange And Bizarre Sightings By Police Officers - UFO InsightOctober 17, 2021 — UFOS AND THE LAW – STRANGE AND BIZARR...</p></details>
    Published: October 17, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: humanitieskansas.org  
    Title: Kansas astronaut Ron Evans journeyed to the moon on the Apoll  
-   Link: <a href="https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kansas 1972: To the Stars - Kansas Story - Humanities KansasMay 19, 2022 — Home // Get Involved // Kansas Stories KANSAS 1972: TO THE STA...</p></details>
+   Link:<a href="https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://www.humanitieskansas.org/get-involved/kansas-stories/people/kansas-1972-to-the-stars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kansas 1972: To the Stars - Kansas Story - Humanities KansasMay 19, 2022 — Home // Get Involved // Kansas Stories KANSAS 1972: TO THE STA...</p></details>
    Published: May 19, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kansasreflector.com  
-   Title: So it was kind of like the Geneseo secret.”</p> <p> </p> <fig  
-   Link: <a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At the &#x27;UFO capital of Kansas,&#x27; a celebration of the weird and wonderful • Kansas ReflectorOctober 29, 2023 — “After he was gone, they re...</p></details>
+   Title: So it was kind of like the Geneseo secret.”</p><p></p><fig  
+   Link:<a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the &#x27;UFO capital of Kansas,&#x27; a celebration of the weird and wonderful • Kansas ReflectorOctober 29, 2023 — “After he was gone, they re...</p></details>
    Published: October 29, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jackandkitty.com  
    Title: Enigmatic Lights: How Dighton, Kansas Became A UFO Hotspot  
-   Link: <a href="https://jackandkitty.com/dighton-kansas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://jackandkitty.com/dighton-kansas-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in this small Kansas town? Discover the incredible story of Dighton&#x27;s UFO sightings that sparked a $50,000 reward! ENIGMATI...</p></details>
+   Link:<a href="https://jackandkitty.com/dighton-kansas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://jackandkitty.com/dighton-kansas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in this small Kansas town? Discover the incredible story of Dighton&#x27;s UFO sightings that sparked a $50,000 reward! ENIGMATI...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlyinyourstate.com  
    Title: UF O Sightings In Dighton, KS Made Headlines 50 Years Ago  
-   Link: <a href="https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings In Dighton, KS Made Headlines 50 Years AgoOctober 4, 2023 — 50 YEARS AGO, THIS SMALL KANSAS TOWN WAS A HOTBED OF UFO SIGHTI...</p></details>
+   Link:<a href="https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/state-pride/kansas/ufo-sighting-ks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings In Dighton, KS Made Headlines 50 Years AgoOctober 4, 2023 — 50 YEARS AGO, THIS SMALL KANSAS TOWN WAS A HOTBED OF UFO SIGHTI...</p></details>
    Published: October 4, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufomagazines.com  
    Title: The author expresses skepticism, calling it 'science  
-   Link: <a href="https://www.ufomagazines.com/ufo-research-newsletter-lore-ufo-research-newsletter-1972-10-11-vol-02-no-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ufo-research-newsletter-lore-ufo-research-newsletter-1972-10-11-vol-02-no-07/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO RESEARCH NEWSLETTER — UFO Research Newsletter (Lore) | UFO Magazine ArchiveOctober 11, 1972 — UFO PROGRAM DOWNGRADES SUBJECT (A REVIE...</p></details>
+   Link:<a href="https://www.ufomagazines.com/ufo-research-newsletter-lore-ufo-research-newsletter-1972-10-11-vol-02-no-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ufo-research-newsletter-lore-ufo-research-newsletter-1972-10-11-vol-02-no-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO RESEARCH NEWSLETTER — UFO Research Newsletter (Lore) | UFO Magazine ArchiveOctober 11, 1972 — UFO PROGRAM DOWNGRADES SUBJECT (A REVIE...</p></details>
    Published: October 11, 1972  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newsfromthestates.com  
    Title: ufo capital kansas celebration weird and wonderful  
-   Link: <a href="https://www.newsfromthestates.com/article/ufo-capital-kansas-celebration-weird-and-wonderful" target="_blank" rel="noopener noreferrer nofollow">https://www.newsfromthestates.com/article/ufo-capital-kansas-celebration-weird-and-wonderful</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At the ‘UFO capital of Kansas,’ a celebration of the weird and wonderful | News From The StatesOctober 29, 2023 — A BEAM OF LIGHT Gray is...</p></details>
+   Link:<a href="https://www.newsfromthestates.com/article/ufo-capital-kansas-celebration-weird-and-wonderful" target="_blank" rel="noopener noreferrer nofollow">https://www.newsfromthestates.com/article/ufo-capital-kansas-celebration-weird-and-wonderful</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the ‘UFO capital of Kansas,’ a celebration of the weird and wonderful | News From The StatesOctober 29, 2023 — A BEAM OF LIGHT Gray is...</p></details>
    Published: October 29, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: podcastufo.com  
    Title: ufos and the police in colby kansas  
-   Link: <a href="https://podcastufo.com/ufos-and-the-police-in-colby-kansas/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/ufos-and-the-police-in-colby-kansas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the Police in Colby, Kansas – Podcast UFODecember 4, 2022 — UFOS AND THE POLICE IN COLBY, KANSAS December 4, 2022admin By Charle...</p></details>
+   Link:<a href="https://podcastufo.com/ufos-and-the-police-in-colby-kansas/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/ufos-and-the-police-in-colby-kansas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the Police in Colby, Kansas – Podcast UFODecember 4, 2022 — UFOS AND THE POLICE IN COLBY, KANSAS December 4, 2022admin By Charle...</p></details>
    Published: December 4, 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thinkaboutitdocs.com  
    Title: 1972 june ufo alien sightings  
-   Link: <a href="https://www.thinkaboutitdocs.com/1972-june-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1972-june-ufo-alien-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Kansas, exact location not given Date: Summer 1972 Time: late night The witness was driving on an isolated road when he s...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1972-june-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1972-june-ufo-alien-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Central Kansas, exact location not given Date: Summer 1972 Time: late night The witness was driving on an isolated road when he s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nicap.org  
    Title: UF O Chronology  
-   Link: <a href="https://www.nicap.org/chronos/1972fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1972fullrep.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ChronologyMarch 15, 2007 — `presents` The 1972 UFO Chronology Image Magazine cover depicting 1972 articles, courtesy of ufopop.org (J...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1972fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1972fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ChronologyMarch 15, 2007 — `presents` The 1972 UFO Chronology Image Magazine cover depicting 1972 articles, courtesy of ufopop.org (J...</p></details>
    Published: March 15, 2007

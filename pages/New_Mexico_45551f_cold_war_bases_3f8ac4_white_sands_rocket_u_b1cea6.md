@@ -250,14 +250,14 @@ image: /assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket
 
 ## Introduction
 
-For anyone trying to understand New Mexico’s UFO history, White Sands Missile Range is one of the most important places to know about. Many sightings reported as mysterious aerial objects took place in a state where rockets, guided missiles, tracking radars and experimental flights were already transforming the sky. From the late 1940s onward, White Sands was not simply a desert backdrop to UFO stories. It was one of the busiest missile-testing centres in the United States, and some of the things witnesses described — bright lights, glowing trails, strange manoeuvres, apparent explosions and objects tracked on radar — were genuine features of rocket testing. That does not mean every report can be explained by White Sands activity. It does mean that any serious assessment of New Mexico UFO claims has to consider what was actually being launched over the state and how those launches looked to people who often had no idea a test was taking place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/75-years-ago-first-launch-of-a-two-stage-rocket/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">75 years ago first launch of a two stage rocket</span><span class="citation-popover-snippet">75 Years Ago: First Launch of a Two-Stage Rocket12 May 2023 — The first static test firing of a V-2 rocket at White Sands took place...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+For anyone trying to understand New Mexico’s UFO history, White Sands Missile Range is one of the most important places to know about. Many sightings reported as mysterious aerial objects took place in a state where rockets, guided missiles, tracking radars and experimental flights were already transforming the sky. From the late 1940s onward, White Sands was not simply a desert backdrop to UFO stories. It was one of the busiest missile-testing centres in the United States, and some of the things witnesses described — bright lights, glowing trails, strange manoeuvres, apparent explosions and objects tracked on radar — were genuine features of rocket testing. That does not mean every report can be explained by White Sands activity. It does mean that any serious assessment of New Mexico UFO claims has to consider what was actually being launched over the state and how those launches looked to people who often had no idea a test was taking place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/75-years-ago-first-launch-of-a-two-stage-rocket/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">75 years ago first launch of a two stage rocket</span><span class="citation-popover-snippet">75 Years Ago: First Launch of a Two-Stage Rocket12 May 2023 — The first static test firing of a V-2 rocket at White Sands took place...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-1-dark.svg" | relative_url }}" alt="White Sands illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## V-2 launches and the post-war test range
 
-The roots of the problem go back to the years immediately after the Second World War. Under Operation Paperclip, the United States brought captured German V-2 rockets and German rocket specialists to the newly established White Sands Proving Ground. Between 1946 and 1951, the Army launched 67 V-2 rockets there, using them to learn how large rockets behaved at high altitude and high speed. These tests became the foundation for later American missile and space programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia To a modern observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">White Sands V-2 Launching Site</span><span class="citation-popover-snippet">White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</span></span></span>, a rocket launch may seem familiar. In the late 1940s it was not. Most Americans had never seen a large rocket. A V-2 could climb to the edge of space, leave unusual exhaust patterns and appear in parts of the sky where people were not used to seeing aircraft. Some launches succeeded cleanly, while others malfunctioned, broke apart or behaved unpredictably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span>
+The roots of the problem go back to the years immediately after the Second World War. Under Operation Paperclip, the United States brought captured German V-2 rockets and German rocket specialists to the newly established White Sands Proving Ground. Between 1946 and 1951, the Army launched 67 V-2 rockets there, using them to learn how large rockets behaved at high altitude and high speed. These tests became the foundation for later American missile and space programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia To a modern observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">White Sands V-2 Launching Site</span><span class="citation-popover-snippet">White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</span></span></span>, a rocket launch may seem familiar. In the late 1940s it was not. Most Americans had never seen a large rocket. A V-2 could climb to the edge of space, leave unusual exhaust patterns and appear in parts of the sky where people were not used to seeing aircraft. Some launches succeeded cleanly, while others malfunctioned, broke apart or behaved unpredictably.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span>
 
-This timing matters because the first great American flying-saucer wave erupted in 1947, precisely when White Sands and other military ranges were conducting highly visible experiments. Public fascination with advanced flight was already growing. Newspaper reports from the period regularly linked mysterious aerial objects with atomic and missile research sites, including White Sands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">White Sands V-2 Launching Site</span><span class="citation-popover-snippet">White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</span></span></span>
+This timing matters because the first great American flying-saucer wave erupted in 1947, precisely when White Sands and other military ranges were conducting highly visible experiments. Public fascination with advanced flight was already growing. Newspaper reports from the period regularly linked mysterious aerial objects with atomic and missile research sites, including White Sands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">White Sands V-2 Launching Site</span><span class="citation-popover-snippet">White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</span></span></span>
 
 The result was a genuine interpretive problem. Witnesses were reporting unusual objects in the sky at the same time that entirely new aerospace technologies were entering service. In New Mexico especially, a strange object did not automatically imply an unknown craft. It could also mean a classified or poorly understood test.
 
@@ -267,7 +267,7 @@ One reason White Sands became such a useful explanation for UFO reports is that 
 
 A witness near a launch might see a bright flame and ascending vehicle. Someone dozens or hundreds of miles away could instead see a glowing point, an expanding trail or a luminous cloud with no obvious source. Under certain lighting conditions, exhaust plumes can remain illuminated by sunlight long before sunrise or after sunset, making them appear self-luminous against a dark sky.
 
-A modern example illustrates the mechanism clearly. In September 2012, a missile-intercept test involving a Juno rocket and White Sands generated widespread UFO reports across the American Southwest. Observers from several states reported a mysterious glowing object and unusual trail. The explanation turned out to be a high-altitude missile contrail illuminated by sunlight beyond the horizon. Military officials received large numbers of calls from people convinced they had seen something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/17600-ufo-reports-army-missile-test.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">17600 ufo reports army missile test</span><span class="citation-popover-snippet">Dazzling Army Missile Test Triggers UFO Reports in...14 Sept 2012 — A U.S. Army missile test in New Mexico triggered a flood of UFO...</span></span></span>
+A modern example illustrates the mechanism clearly. In September 2012, a missile-intercept test involving a Juno rocket and White Sands generated widespread UFO reports across the American Southwest. Observers from several states reported a mysterious glowing object and unusual trail. The explanation turned out to be a high-altitude missile contrail illuminated by sunlight beyond the horizon. Military officials received large numbers of calls from people convinced they had seen something extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/17600-ufo-reports-army-missile-test.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">17600 ufo reports army missile test</span><span class="citation-popover-snippet">Dazzling Army Missile Test Triggers UFO Reports in...14 Sept 2012 — A U.S. Army missile test in New Mexico triggered a flood of UFO...</span></span></span>
 
 The same visual effects would have been even more confusing in the 1940s and 1950s, when public familiarity with rocket launches was far lower.
 
@@ -294,16 +294,16 @@ White Sands was a military range operating in a Cold War environment. Many tests
 
 This created a pattern that appears repeatedly in New Mexico UFO history. A witness might report something genuinely unusual. Investigators might suspect a missile or rocket test. Military personnel might be unwilling or unable to discuss the details. The resulting information gap encouraged speculation.
 
-The issue was not necessarily deliberate deception. In many cases, missile-development work involved restricted technology, experimental guidance systems and defence programmes that were not intended for public discussion. The lack of information allowed some sightings to remain mysterious long after the event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span>
+The issue was not necessarily deliberate deception. In many cases, missile-development work involved restricted technology, experimental guidance systems and defence programmes that were not intended for public discussion. The lack of information allowed some sightings to remain mysterious long after the event itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span>
 
 For later UFO researchers, this has produced a recurring difficulty. Some sightings look more credible because witnesses were sincere and because official explanations initially seemed incomplete. Yet incomplete explanations do not automatically mean the object was unknown. In a state filled with classified aerospace work, missing information can simply reflect restricted military activity.
 
 <img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-2-dark.svg" | relative_url }}" alt="White Sands illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How radar and recovery work complicated reports
 
-White Sands was not only a launch site. It was also a vast tracking and recovery complex. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">White Sands V-2 Launching Site</span><span class="citation-popover-snippet">White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</span></span></span>
+White Sands was not only a launch site. It was also a vast tracking and recovery complex.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">White Sands V-2 Launching Site</span><span class="citation-popover-snippet">White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</span></span></span>
 
-Rocket testing required radar stations, optical tracking systems, telemetry networks and recovery teams. Historical accounts of White Sands operations describe extensive radar installations used to follow missile flights across the range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wsmrmuseum.com/wp-content/uploads/2022/02/Star-Throwers-of-the-Tularosa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsmrmuseum.com">[White Sands Missile Range Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsmrmuseum.com</span><span class="citation-popover-title">Star Throwers of the Tularosa</span><span class="citation-popover-snippet">White Sands Missile Range MuseumStar Throwers of the Tularosa1947, A Station consisted of two SCR-584 radar vans set up to track the V-2...</span></span></span>
+Rocket testing required radar stations, optical tracking systems, telemetry networks and recovery teams. Historical accounts of White Sands operations describe extensive radar installations used to follow missile flights across the range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wsmrmuseum.com/wp-content/uploads/2022/02/Star-Throwers-of-the-Tularosa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsmrmuseum.com">[White Sands Missile Range Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsmrmuseum.com</span><span class="citation-popover-title">Star Throwers of the Tularosa</span><span class="citation-popover-snippet">White Sands Missile Range MuseumStar Throwers of the Tularosa1947, A Station consisted of two SCR-584 radar vans set up to track the V-2...</span></span></span>
 
 This matters because radar has long played a major role in UFO claims. To the public, a radar contact can sound like powerful confirmation that an object was extraordinary. In practice, Cold War radar environments were often crowded with missiles, balloons, test vehicles and experimental tracking targets.
 
@@ -311,7 +311,7 @@ A radar operator might be observing a genuine object without the information nee
 
 Recovery operations added another layer of confusion. When rockets crashed, scattered debris over the desert, or required retrieval after testing, military vehicles and personnel often appeared in remote areas. Reports of unusual wreckage, sealed-off locations or rapid recovery activity could feed rumours even when the underlying event was entirely terrestrial.
 
-The broader [Roswell]({{ 'roswell/' | relative_url }}) story demonstrates how this dynamic operated in New Mexico. Decades of speculation grew partly from the collision between genuine military secrecy and incomplete public information. While Roswell is a separate case from White Sands rocket testing, both show how classified programmes could make mundane explanations appear suspicious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span>
+The broader [Roswell]({{ 'roswell/' | relative_url }}) story demonstrates how this dynamic operated in New Mexico. Decades of speculation grew partly from the collision between genuine military secrecy and incomplete public information. While Roswell is a separate case from White Sands rocket testing, both show how classified programmes could make mundane explanations appear suspicious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8GTIiKmgQw" title="PROJECT HERMES A-1 ROCKET TESTS at WHITE SANDS PROVING GROUNDS 1951 83134" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8GTIiKmgQw" target="_blank" rel="noopener noreferrer">PROJECT HERMES A-1 ROCKET TESTS at WHITE SANDS PROVING GROUNDS 1951 83134</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 6.5K &middot; Uploaded: February 2017 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8GTIiKmgQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8GTIiKmgQw">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +319,7 @@ The broader [Roswell]({{ 'roswell/' | relative_url }}) story demonstrates how th
 
 White Sands has repeatedly appeared in sceptical interpretations of New Mexico UFO cases because it offers a concrete mechanism rather than a vague dismissal.
 
-When researchers examine reports involving bright lights, unusual aerial movements or apparent craft near central and southern New Mexico, the range is often considered alongside other possibilities such as aircraft, balloons, astronomical objects and observational error. In some famous cases, including debates surrounding the 1964 [Socorro]({{ 'socorro/' | relative_url }}) incident, later writers have suggested experimental aerospace vehicles from the White Sands area as a possible explanation, though no definitive evidence has emerged tying that case to a specific test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/socorro-ufo-unpacking-evidence-of-an-alien-visit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">socorro ufo unpacking evidence of an alien visit</span><span class="citation-popover-snippet">Discovery UKSocorro UFO: Unpacking Evidence of an Alien Visit5 Jun 2024 — Another theory says that the UFO in New Mexico may have been no...</span></span></span>
+When researchers examine reports involving bright lights, unusual aerial movements or apparent craft near central and southern New Mexico, the range is often considered alongside other possibilities such as aircraft, balloons, astronomical objects and observational error. In some famous cases, including debates surrounding the 1964 [Socorro]({{ 'socorro/' | relative_url }}) incident, later writers have suggested experimental aerospace vehicles from the White Sands area as a possible explanation, though no definitive evidence has emerged tying that case to a specific test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/socorro-ufo-unpacking-evidence-of-an-alien-visit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">socorro ufo unpacking evidence of an alien visit</span><span class="citation-popover-snippet">Discovery UKSocorro UFO: Unpacking Evidence of an Alien Visit5 Jun 2024 — Another theory says that the UFO in New Mexico may have been no...</span></span></span>
 
 The important point is not that White Sands explains every sighting. It plainly does not. Rather, White Sands changed the baseline level of strangeness in New Mexico skies. Rockets reaching near-space altitudes, missile failures, radar tracking operations and recovery missions were real events happening in the same landscape where UFO reports were being collected.
 
@@ -327,7 +327,7 @@ The important point is not that White Sands explains every sighting. It plainly 
 
 ## What White Sands explains — and what it does not
 
-White Sands is one of the strongest sceptical frameworks available for understanding many New Mexico UFO reports because it rests on documented activity rather than speculation. The range launched dozens of V-2 rockets, supported increasingly sophisticated missile programmes and filled the region with aerospace technology that many civilians had never encountered before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4233.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">the Tracking and Data Relay Satellite...</span></span></span>
+White Sands is one of the strongest sceptical frameworks available for understanding many New Mexico UFO reports because it rests on documented activity rather than speculation. The range launched dozens of V-2 rockets, supported increasingly sophisticated missile programmes and filled the region with aerospace technology that many civilians had never encountered before.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">white sands v2 launching site</span><span class="citation-popover-snippet">National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</span><span class="citation-popover-meta">Published: March 1946</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4233.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">the Tracking and Data Relay Satellite...</span></span></span>
 
 Yet the explanation has limits.
 
@@ -338,194 +338,194 @@ That distinction matters because New Mexico's UFO history contains a mixture of 
 <img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-3-dark.svg" | relative_url }}" alt="White Sands illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4_white_sands_rocket_u_b1cea6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Rockets Looked Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Rockets Looked Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers understand how rocket and weapons testing created mystery sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers understand how rocket and weapons testing created mystery sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Examines how rocket launches and aviation developments influenced UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how rocket launches and aviation developments influenced UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Paperclip+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rs1CCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Operation Paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Paperclip+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Paperclip">Operation Paperclip</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Paperclip+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rs1CCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Operation Paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Paperclip+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Paperclip">Operation Paperclip</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Covers the German rocket expertise that fed into White Sands testing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Paperclip+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the German rocket expertise that fed into White Sands testing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Paperclip+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nKorDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
-        </h4>
-        <p class="fr-book-author">By Robert Kurson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nKorDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
+</h4>
+<p class="fr-book-author">By Robert Kurson</p>
         
-        <p class="fr-book-desc">Provides accessible background on the rocket era that emerged from early test programmes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible background on the rocket era that emerged from early test programmes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Paperclip</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Paperclip</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="https://i.ebayimg.com/images/g/Ih8AAMXQHxVRh2gW/s-l225.jpg" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="https://i.ebayimg.com/images/g/Ih8AAMXQHxVRh2gW/s-l225.jpg" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="https://i.ebayimg.com/images/g/wsEAAeSwT65qH~8U/s-l225.jpg" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="https://i.ebayimg.com/images/g/wsEAAeSwT65qH~8U/s-l225.jpg" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rockets-looked-like-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="when-rockets-looked-like-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ That distinction matters because New Mexico's UFO history contains a mixture of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ That distinction matters because New Mexico's UFO history contains a mixture of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ That distinction matters because New Mexico's UFO history contains a mixture of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ That distinction matters because New Mexico's UFO history contains a mixture of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ That distinction matters because New Mexico's UFO history contains a mixture of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,151 +731,151 @@ That distinction matters because New Mexico's UFO history contains a mixture of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: 75 years ago first launch of a two stage rocket  
-   Link: <a href="https://www.nasa.gov/history/75-years-ago-first-launch-of-a-two-stage-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/75-years-ago-first-launch-of-a-two-stage-rocket/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years Ago: First Launch of a Two-Stage Rocket12 May 2023 — The first static test firing of a V-2 rocket at White Sands took place...</p></details>
+   Link:<a href="https://www.nasa.gov/history/75-years-ago-first-launch-of-a-two-stage-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/75-years-ago-first-launch-of-a-two-stage-rocket/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years Ago: First Launch of a Two-Stage Rocket12 May 2023 — The first static test firing of a V-2 rocket at White Sands took place...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: army.mil  
-   Link: <a href="https://www.army.mil/article/288098/the_evolution_of_white_sands_missile_range_a_look_back_at_the_1950s_and_1960s" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/288098/the_evolution_of_white_sands_missile_range_a_look_back_at_the_1950s_and_1960s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of White Sands Missile Range: A Look Back...30 Jul 2025 — Between 1946 and 1952 alone, approximately 67 V-2 rockets we...</p></details>
+   Link:<a href="https://www.army.mil/article/288098/the_evolution_of_white_sands_missile_range_a_look_back_at_the_1950s_and_1960s" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/288098/the_evolution_of_white_sands_missile_range_a_look_back_at_the_1950s_and_1960s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of White Sands Missile Range: A Look Back...30 Jul 2025 — Between 1946 and 1952 alone, approximately 67 V-2 rockets we...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: White Sands V-2 Launching Site  
-   Link: <a href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White_Sands_V-2_Launching_Site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands V-2 Launching SiteThe White Sands V-2 Launching Site, also known as Launch Complex 33 and originally as Army Launch Area N...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands Proving Ground (site of the Trinity Test and Holloman base). During the 1947 craze, flying discs and atomic weaponry became l...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands Proving Ground (site of the Trinity Test and Holloman base). During the 1947 craze, flying discs and atomic weaponry became l...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sighting1 Sighting · 2 Publicity and origins of term &quot;flying saucer&quot; · 3 Military investigation of Arnold story · 4...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sighting1 Sighting · 2 Publicity and origins of term &quot;flying saucer&quot; · 3 Military investigation of Arnold story · 4...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: 17600 ufo reports army missile test  
-   Link: <a href="https://www.space.com/17600-ufo-reports-army-missile-test.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/17600-ufo-reports-army-missile-test.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dazzling Army Missile Test Triggers UFO Reports in...14 Sept 2012 — A U.S. Army missile test in New Mexico triggered a flood of UFO...</p></details>
+   Link:<a href="https://www.space.com/17600-ufo-reports-army-missile-test.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/17600-ufo-reports-army-missile-test.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dazzling Army Missile Test Triggers UFO Reports in...14 Sept 2012 — A U.S. Army missile test in New Mexico triggered a flood of UFO...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4233.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4233.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Tracking and Data Relay Satellite...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4233.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4233.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Tracking and Data Relay Satellite...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discoveryuk.com  
    Title: socorro ufo unpacking evidence of an alien visit  
-   Link: <a href="https://www.discoveryuk.com/mysteries/socorro-ufo-unpacking-evidence-of-an-alien-visit/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/socorro-ufo-unpacking-evidence-of-an-alien-visit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSocorro UFO: Unpacking Evidence of an Alien Visit5 Jun 2024 — Another theory says that the UFO in New Mexico may have been no...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/socorro-ufo-unpacking-evidence-of-an-alien-visit/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/socorro-ufo-unpacking-evidence-of-an-alien-visit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSocorro UFO: Unpacking Evidence of an Alien Visit5 Jun 2024 — Another theory says that the UFO in New Mexico may have been no...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Trinity UFO Case  
-   Link: <a href="https://en.wikipedia.org/wiki/Trinity_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trinity_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trinity UFO CaseThe Trinity UFO case is a crashed UFO story set in August 1945 near the Trinity test site where the first atomic bomb...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Trinity_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trinity_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trinity UFO CaseThe Trinity UFO case is a crashed UFO story set in August 1945 near the Trinity test site where the first atomic bomb...</p></details>
    Published: August 1945  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.com  
    Title: s most infamous ufo sightings  
-   Link: <a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Still... Soon, other reports of a group of nine UFOs cropped up across the...Read more...</p></details>
+   Link:<a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Still... Soon, other reports of a group of nine UFOs cropped up across the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: v2rocket.com  
-   Link: <a href="https://www.v2rocket.com/start/others/wsmr.html" target="_blank" rel="noopener noreferrer nofollow">https://www.v2rocket.com/start/others/wsmr.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>V-2 Rocket at White Sands Missile Range MuseumThe V-2 program at White Sands, initiated after World War II, involved the testing and laun...</p></details>
+   Link:<a href="https://www.v2rocket.com/start/others/wsmr.html" target="_blank" rel="noopener noreferrer nofollow">https://www.v2rocket.com/start/others/wsmr.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>V-2 Rocket at White Sands Missile Range MuseumThe V-2 program at White Sands, initiated after World War II, involved the testing and laun...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nps.gov  
    Title: white sands v2 launching site  
-   Link: <a href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/white-sands-v2-launching-site.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</p></details>
+   Link:<a href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/white-sands-v2-launching-site.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceWhite Sands V-2 Launching Site29 Aug 2017 — By March 1946 the first captured V-2 was static test fired at White Sand...</p></details>
    Published: March 1946  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wsmrmuseum.com  
    Title: Star Throwers of the Tularosa  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2022/02/Star-Throwers-of-the-Tularosa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2022/02/Star-Throwers-of-the-Tularosa.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands Missile Range MuseumStar Throwers of the Tularosa1947, A Station consisted of two SCR-584 radar vans set up to track the V-2...</p></details>
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2022/02/Star-Throwers-of-the-Tularosa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2022/02/Star-Throwers-of-the-Tularosa.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands Missile Range MuseumStar Throwers of the Tularosa1947, A Station consisted of two SCR-584 radar vans set up to track the V-2...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kids.kiddle.co  
    Title: White Sands V 2 Launching Site  
-   Link: <a href="https://kids.kiddle.co/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/White_Sands_V-2_Launching_Site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sands V-2 Launching Site Facts for Kids17 Oct 2025 — Between 1946 and 1951, the U.S. Army launched 67 V-2 rockets from this site. These w...</p></details>
+   Link:<a href="https://kids.kiddle.co/White_Sands_V-2_Launching_Site" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/White_Sands_V-2_Launching_Site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sands V-2 Launching Site Facts for Kids17 Oct 2025 — Between 1946 and 1951, the U.S. Army launched 67 V-2 rockets from this site. These w...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOur search for government records concerning the Roswell crash yielde...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOur search for government records concerning the Roswell crash yielde...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sacred-texts.com  
    Title: The Report on Unidentified Flying Objects: Chapter Six  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T...... White Sands Proving Ground had made good UFO sightings. The best one was made on April 24, 1949, when the commander&#x27;s crew of eng...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>T...... White Sands Proving Ground had made good UFO sightings. The best one was made on April 24, 1949, when the commander&#x27;s crew of eng...</p></details>
    Published: April 24, 1949  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EdwardsAirForceBase/posts/ever-wonder-what-happens-on-those-mountains-past-the-lake-/741864524647790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdwardsAirForceBase/posts/ever-wonder-what-happens-on-those-mountains-past-the-lake-/741864524647790/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>formed at the White Sands Missile Range near Las Cruces, New...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/EdwardsAirForceBase/posts/ever-wonder-what-happens-on-those-mountains-past-the-lake-/741864524647790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdwardsAirForceBase/posts/ever-wonder-what-happens-on-those-mountains-past-the-lake-/741864524647790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>formed at the White Sands Missile Range near Las Cruces, New...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wsmrhistoric.com  
    Title: WHIT E SANDS MISSILE RANGE ENDS FIRST DECADE  
-   Link: <a href="https://www.wsmrhistoric.com/files/Partial%20Issue%20-%20May%2031%2C%201968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsmrhistoric.com/files/Partial%20Issue%20-%20May%2031%2C%201968.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>V -2 was launched from the New. Mexico missile range. By June 30, 1951, a total of 67 metal monsters in V-. 2 fuselages had been sent alo...</p></details>
+   Link:<a href="https://www.wsmrhistoric.com/files/Partial%20Issue%20-%20May%2031%2C%201968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsmrhistoric.com/files/Partial%20Issue%20-%20May%2031%2C%201968.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>V -2 was launched from the New. Mexico missile range. By June 30, 1951, a total of 67 metal monsters in V-. 2 fuselages had been sent alo...</p></details>
    Published: June 30, 1951  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wliw.org  
    Title: how the roswell ufo spurred our modern age of conspiracy theories  
-   Link: <a href="https://www.wliw.org/radio/news/how-the-roswell-ufo-spurred-our-modern-age-of-conspiracy-theories/" target="_blank" rel="noopener noreferrer nofollow">https://www.wliw.org/radio/news/how-the-roswell-ufo-spurred-our-modern-age-of-conspiracy-theories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GRAFF: It&#x27;s the beginning, at least, of the modern age of UFOs. You know, humans going back as...Read more...</p></details>
+   Link:<a href="https://www.wliw.org/radio/news/how-the-roswell-ufo-spurred-our-modern-age-of-conspiracy-theories/" target="_blank" rel="noopener noreferrer nofollow">https://www.wliw.org/radio/news/how-the-roswell-ufo-spurred-our-modern-age-of-conspiracy-theories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GRAFF: It&#x27;s the beginning, at least, of the modern age of UFOs. You know, humans going back as...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSMissileRange/posts/white-sands-missile-range-a-crucial-site-for-us-space-exploration-1940s-to-1960s/1438671488303144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSMissileRange/posts/white-sands-missile-range-a-crucial-site-for-us-space-exploration-1940s-to-1960s/1438671488303144/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed States&#x27; entry into space technology and laid the foundation for...</p></details>
+   Link:<a href="https://www.facebook.com/WSMissileRange/posts/white-sands-missile-range-a-crucial-site-for-us-space-exploration-1940s-to-1960s/1438671488303144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSMissileRange/posts/white-sands-missile-range-a-crucial-site-for-us-space-exploration-1940s-to-1960s/1438671488303144/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed States&#x27; entry into space technology and laid the foundation for...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=T8GTIiKmgQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T8GTIiKmgQw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 OTD in Space – January 17: Final Aerobee Sounding Rocket Launched...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T8GTIiKmgQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T8GTIiKmgQw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 OTD in Space – January 17: Final Aerobee Sounding Rocket Launched...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theparisreview.org  
    Title: more ufos than ever before  
-   Link: <a href="https://www.theparisreview.org/blog/2019/08/26/more-ufos-than-ever-before/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparisreview.org/blog/2019/08/26/more-ufos-than-ever-before/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If we could do it, it was only logical to think aliens could do it, too. Roswell, New Mexico...Read more...</p></details>
+   Link:<a href="https://www.theparisreview.org/blog/2019/08/26/more-ufos-than-ever-before/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparisreview.org/blog/2019/08/26/more-ufos-than-ever-before/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If we could do it, it was only logical to think aliens could do it, too. Roswell, New Mexico...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: OTD in Space – January 17: Final Aerobee Sounding Rocket Launched  
-   Link: <a href="https://www.youtube.com/watch?v=PvQdFR0QvOY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PvQdFR0QvOY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 OTD in Space - Sept. 6: First V2 Rocket Launches at Sea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PvQdFR0QvOY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PvQdFR0QvOY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 OTD in Space - Sept. 6: First V2 Rocket Launches at Sea...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
    Title: DXh P5l0iuzz  
-   Link: <a href="https://www.instagram.com/p/DXhP5l0iuzz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXhP5l0iuzz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In November 2015, at the edge of the White Sands Missile...On October 24, 1946, a team of researchers at the White Sands Missile Range l...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXhP5l0iuzz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXhP5l0iuzz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In November 2015, at the edge of the White Sands Missile...On October 24, 1946, a team of researchers at the White Sands Missile Range l...</p></details>
    Published: October 24, 1946

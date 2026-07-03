@@ -262,25 +262,25 @@ image: /assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-overview-soci
 
 ## Introduction
 
-Modern Tennessee UFO reporting is best understood as a pattern of public claims, not a catalogue of verified unknown craft. NUFORC, the National UFO Reporting Center, lists Tennessee as having 2,482 reports in its location index, with the largest city totals concentrated around Nashville, Knoxville and [Memphis]({{ 'memphis/' | relative_url }}). That tells us where people are reporting, but not what they saw. The clearest pattern is a mix of population, visibility and modern sky clutter: more people produce more reports, darker rural skies make faint objects easier to notice, and satellites, aircraft, drones, meteors and military activity can all become “UFOs” when seen briefly or without context. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span></span></span> For Tennessee’s UFO history, this matters because it shifts the question from “Is Tennessee a hotspot?” to “What kind of reporting environment does Tennessee create?” The NUFORC record shows real witness experiences and occasional puzzling accounts, but it is a self-reporting database. Its value is strongest when used to study clusters, recurring descriptions and reporting bias, not as proof that any particular light was exotic.
+Modern Tennessee UFO reporting is best understood as a pattern of public claims, not a catalogue of verified unknown craft. NUFORC, the National UFO Reporting Center, lists Tennessee as having 2,482 reports in its location index, with the largest city totals concentrated around Nashville, Knoxville and [Memphis]({{ 'memphis/' | relative_url }}). That tells us where people are reporting, but not what they saw. The clearest pattern is a mix of population, visibility and modern sky clutter: more people produce more reports, darker rural skies make faint objects easier to notice, and satellites, aircraft, drones, meteors and military activity can all become “UFOs” when seen briefly or without context. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span></span></span> For Tennessee’s UFO history, this matters because it shifts the question from “Is Tennessee a hotspot?” to “What kind of reporting environment does Tennessee create?” The NUFORC record shows real witness experiences and occasional puzzling accounts, but it is a self-reporting database. Its value is strongest when used to study clusters, recurring descriptions and reporting bias, not as proof that any particular light was exotic.
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-overview.webp" | relative_url }}" alt="Overview image for Report Patterns" loading="eager" decoding="sync" fetchpriority="high">
 ## What NUFORC counts really mean
 
-NUFORC’s database is one of the most visible civilian UFO reporting systems in the United States. Its own databank describes it as a large independently collected set of UFO/UAP sighting reports, freely browsable by the public, and says reports are periodically posted after processing. Since March 2023, NUFORC has also used tiers: more dramatic or apparently anomalous reports are marked differently from reports the centre considers possibly, probably or certainly explainable by human or natural causes. Reports before March 2023 have not all been graded under that newer system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+NUFORC’s database is one of the most visible civilian UFO reporting systems in the United States. Its own databank describes it as a large independently collected set of UFO/UAP sighting reports, freely browsable by the public, and says reports are periodically posted after processing. Since March 2023, NUFORC has also used tiers: more dramatic or apparently anomalous reports are marked differently from reports the centre considers possibly, probably or certainly explainable by human or natural causes. Reports before March 2023 have not all been graded under that newer system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 That makes Tennessee’s NUFORC count useful, but limited. A report is evidence that someone submitted an account; it is not, by itself, evidence that the object was an unknown aircraft. The database mixes short impressions, old memories, multi-witness accounts, reports with photos or video, and entries that NUFORC itself flags as likely ordinary phenomena. A single Tennessee entry may be a serious close-range claim, a distant light near an airport, a bright meteor, a Starlink satellite train, a drone, or a witness’s retrospective memory from decades earlier.
 
-This is why raw totals can mislead. Tennessee’s 2,482 reports place it in the middle-to-upper range of state-level NUFORC activity, but the number reflects awareness of the reporting centre, internet access, willingness to report, population distribution, night-sky visibility and the amount of ordinary sky traffic. A Scientific Reports study using NUFORC data described these records as volunteered geographic information: useful for pattern analysis, but not directly verifiable case-by-case. The authors noted that some reports are valid, some are not, and that public reports require caution because location, memory and interpretation can all be imperfect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+This is why raw totals can mislead. Tennessee’s 2,482 reports place it in the middle-to-upper range of state-level NUFORC activity, but the number reflects awareness of the reporting centre, internet access, willingness to report, population distribution, night-sky visibility and the amount of ordinary sky traffic. A Scientific Reports study using NUFORC data described these records as volunteered geographic information: useful for pattern analysis, but not directly verifiable case-by-case. The authors noted that some reports are valid, some are not, and that public reports require caution because location, memory and interpretation can all be imperfect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 The best use of NUFORC, then, is not to count Tennessee sightings as if they were confirmed anomalies. It is to ask why reports appear where they do, what witnesses most often describe, and which cases survive basic checks against ordinary explanations.
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-Illustration-1-dark.svg" | relative_url }}" alt="Report Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where do Tennesseans report UFOs most?
 
-The city pattern is unsurprising at first glance: the biggest reporting centres are also among the state’s largest population and travel hubs. A Stacker ranking based on NUFORC data from 1995 onward listed Nashville first with 189 city-level reports, Knoxville second with 154, Memphis third with 149, Clarksville fourth with 81, and Murfreesboro fifth with 78. Chattanooga, Franklin, Johnson City, Kingsport and Jackson followed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span></span></span>
+The city pattern is unsurprising at first glance: the biggest reporting centres are also among the state’s largest population and travel hubs. A Stacker ranking based on NUFORC data from 1995 onward listed Nashville first with 189 city-level reports, Knoxville second with 154, Memphis third with 149, Clarksville fourth with 81, and Murfreesboro fifth with 78. Chattanooga, Franklin, Johnson City, Kingsport and Jackson followed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span></span></span>
 
-Those figures do not mean Nashville has the strangest skies in Tennessee. They mean the Nashville area has many people, many phones, heavy air traffic, suburban observers and enough cultural visibility for people to know where to report. Axios, using NUFORC and Census data, reported that the Nashville metro area had 657 sightings since the start of the millennium, a rate of 32.1 per 100,000 residents, slightly below the national average it cited of 34.3. The same report noted that Tennessee’s highest per-capita counties tended to be low-population rural areas with somewhat darker skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Map: UFO sightings in Tennessee</span><span class="citation-popover-snippet">Map: UFO sightings in Tennessee</span></span></span>
+Those figures do not mean Nashville has the strangest skies in Tennessee. They mean the Nashville area has many people, many phones, heavy air traffic, suburban observers and enough cultural visibility for people to know where to report. Axios, using NUFORC and Census data, reported that the Nashville metro area had 657 sightings since the start of the millennium, a rate of 32.1 per 100,000 residents, slightly below the national average it cited of 34.3. The same report noted that Tennessee’s highest per-capita counties tended to be low-population rural areas with somewhat darker skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Map: UFO sightings in Tennessee</span><span class="citation-popover-snippet">Map: UFO sightings in Tennessee</span></span></span>
 
 That difference between total reports and per-capita reports is central to understanding Tennessee. A large city can dominate the raw count because more people are outside, commuting, flying, using security cameras and posting online. A rural county can look more intense per resident because even a small number of reports stands out against a small population base. Neither measure is automatically “truer” than the other. Each answers a different question.
 
@@ -302,9 +302,9 @@ This helps explain why Tennessee can feel active in UFO reporting without produc
 
 A useful Tennessee model needs both halves: people and sky. Without people, there are fewer reports. Without a visible sky, there are fewer things to notice. Tennessee has bright urban corridors around Nashville, Memphis, Knoxville and Chattanooga, but it also has rural dark-sky areas, mountain valleys, state parks and open roads where a distant light can seem more dramatic.
 
-The broader research supports that mechanism. A 2023 Scientific Reports study analysed more than 98,000 NUFORC reports from the conterminous United States between 2001 and 2020, using factors such as light pollution, cloud cover, tree canopy, airports and military installations. Its main conclusion was not that NUFORC proves unusual craft; it was that reports increase where people have more opportunity to see things in the sky. The study found, for example, that higher light pollution was associated with fewer sighting reports, while factors connected to air traffic and military activity were also relevant to report patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+The broader research supports that mechanism. A 2023 Scientific Reports study analysed more than 98,000 NUFORC reports from the conterminous United States between 2001 and 2020, using factors such as light pollution, cloud cover, tree canopy, airports and military installations. Its main conclusion was not that NUFORC proves unusual craft; it was that reports increase where people have more opportunity to see things in the sky. The study found, for example, that higher light pollution was associated with fewer sighting reports, while factors connected to air traffic and military activity were also relevant to report patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-That finding fits Tennessee well. A person in downtown Nashville may see many aircraft but fewer faint satellites or meteors because of urban skyglow. A person in Pickett County, the Cumberland Plateau or near Big South Fork may see fainter objects and longer horizon-to-horizon motion, but may also lack immediate context for satellites, military flights or distant aircraft. Tennessee State Parks describes Pickett CCC Memorial State Park as the first state park in the south-east to receive internationally recognised Dark Skies certification, while the National Park Service says national parks such as Big South Fork preserve some of the country’s remaining dark skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tnstateparks.com/parks/pickett" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tnstateparks.com">[Tennessee State Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tnstateparks.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That finding fits Tennessee well. A person in downtown Nashville may see many aircraft but fewer faint satellites or meteors because of urban skyglow. A person in Pickett County, the Cumberland Plateau or near Big South Fork may see fainter objects and longer horizon-to-horizon motion, but may also lack immediate context for satellites, military flights or distant aircraft. Tennessee State Parks describes Pickett CCC Memorial State Park as the first state park in the south-east to receive internationally recognised Dark Skies certification, while the National Park Service says national parks such as Big South Fork preserve some of the country’s remaining dark skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tnstateparks.com/parks/pickett" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tnstateparks.com">[Tennessee State Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tnstateparks.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This does not make rural reports more reliable in every case. Dark skies reveal more real objects, but they also reveal more ordinary objects that urban observers never notice: satellites, high-altitude aircraft, meteors, re-entering debris and planets near the horizon. A dark sky increases both the chance of seeing something unusual and the chance of misidentifying something normal.
 
@@ -313,11 +313,11 @@ This does not make rural reports more reliable in every case. Dark skies reveal 
 
 Many modern Tennessee reports fit a familiar national pattern: lights in lines, clusters, triangles or formations. These can be intriguing when seen suddenly from a road or back garden, but they are also exactly the kinds of patterns produced by satellites, aircraft approach paths, drones, sky lanterns, military flights and meteors breaking apart.
 
-A Memphis NUFORC entry illustrates the problem neatly. The report described objects appearing “6 at a time”, spaced evenly and in a line “like satellites”; NUFORC appended the note “Starlink satellites?” The sighting was reported in 2020, and the object description itself already points towards a common modern explanation rather than a solid unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
+A Memphis NUFORC entry illustrates the problem neatly. The report described objects appearing “6 at a time”, spaced evenly and in a line “like satellites”; NUFORC appended the note “Starlink satellites?” The sighting was reported in 2020, and the object description itself already points towards a common modern explanation rather than a solid unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
-Another Memphis entry from December 2024 was classed as a fireball and carried NUFORC’s explanation “Meteor - Certain”, with a note suggesting a meteor or burning space junk. The witness language was vivid — orange “orbs” and a startling appearance near Christmas shopping — but the database record shows why classification matters: a dramatic experience can still be explained by a natural or human-made event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=155066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Another Memphis entry from December 2024 was classed as a fireball and carried NUFORC’s explanation “Meteor - Certain”, with a note suggesting a meteor or burning space junk. The witness language was vivid — orange “orbs” and a startling appearance near Christmas shopping — but the database record shows why classification matters: a dramatic experience can still be explained by a natural or human-made event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=155066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Not every modern report is so easily resolved from the public entry. A November 2024 Memphis report described a rectangular object with red and white lights, unusual manoeuvres and 20 observers, with the witness saying they checked a flight-tracking app afterwards. That is the sort of account that is stronger than a one-sentence distant-light report because it includes location, time, multiple observers and an attempted ordinary check. But even here, the public NUFORC page is not the same as a full investigation: there is no independent radar record, calibrated image analysis, verified witness list or official aviation reconstruction in the entry itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Not every modern report is so easily resolved from the public entry. A November 2024 Memphis report described a rectangular object with red and white lights, unusual manoeuvres and 20 observers, with the witness saying they checked a flight-tracking app afterwards. That is the sort of account that is stronger than a one-sentence distant-light report because it includes location, time, multiple observers and an attempted ordinary check. But even here, the public NUFORC page is not the same as a full investigation: there is no independent radar record, calibrated image analysis, verified witness list or official aviation reconstruction in the entry itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The lesson for Tennessee is not that formation reports should be dismissed. It is that they need context. Good modern analysis asks: Was Starlink visible? Were aircraft on approach to Nashville International, Memphis International or another airport? Was there military training? Was a meteor shower active? Did multiple witnesses report from different locations? Is there video with a stable horizon and timestamp? Without those checks, the most honest label is often “unresolved report”, not “unknown craft”.
 
@@ -325,20 +325,20 @@ The lesson for Tennessee is not that formation reports should be dismissed. It i
 
 ## What changed after 2000?
 
-Modern Tennessee reporting is partly a technology story. NUFORC entries became easier to file as internet access spread, smartphones became common, and people grew more willing to search for “report UFO” after seeing something odd. The Scientific Reports study deliberately focused on 2001–2020 partly because internet access made modern reporting more plausible, while also noting that earlier rural internet gaps could bias the record. It found a marked national peak in NUFORC reports between 2012 and 2014, followed by a drop between 2015 and 2018. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Modern Tennessee reporting is partly a technology story. NUFORC entries became easier to file as internet access spread, smartphones became common, and people grew more willing to search for “report UFO” after seeing something odd. The Scientific Reports study deliberately focused on 2001–2020 partly because internet access made modern reporting more plausible, while also noting that earlier rural internet gaps could bias the record. It found a marked national peak in NUFORC reports between 2012 and 2014, followed by a drop between 2015 and 2018.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-The sky itself also changed. Satellite constellations, especially trains of newly launched Starlink satellites, have created a new category of public UFO confusion. The same 2023 study specifically mentioned Starlink and increased drone activity as modern factors likely contributing to UAP reports. It also noted that NUFORC provides guidance on Starlink and Venus, both of which can be mistaken for something unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+The sky itself also changed. Satellite constellations, especially trains of newly launched Starlink satellites, have created a new category of public UFO confusion. The same 2023 study specifically mentioned Starlink and increased drone activity as modern factors likely contributing to UAP reports. It also noted that NUFORC provides guidance on Starlink and Venus, both of which can be mistaken for something unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-Federal UAP reporting has changed the public mood as well. AARO, the Pentagon’s All-domain Anomaly Resolution Office, said in 2024 that it had received more than 1,600 UAP reports overall and more than 757 during the period covered by its FY2024 report, while resolving hundreds of cases as commonplace objects such as balloons, birds, drones, satellites and aircraft. AARO also said only a small percentage of reports are potentially anomalous, though those cases require more focused inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span></span></span>
+Federal UAP reporting has changed the public mood as well. AARO, the Pentagon’s All-domain Anomaly Resolution Office, said in 2024 that it had received more than 1,600 UAP reports overall and more than 757 during the period covered by its FY2024 report, while resolving hundreds of cases as commonplace objects such as balloons, birds, drones, satellites and aircraft. AARO also said only a small percentage of reports are potentially anomalous, though those cases require more focused inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span></span></span>
 
 That federal context matters for Tennessee because it gives the public a more official vocabulary — UAP rather than UFO — without necessarily improving the average civilian report. A Tennessee witness today may be more likely to file a report, but the report may still lack the data needed to identify the object.
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-Illustration-3-dark.svg" | relative_url }}" alt="Report Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to judge a Tennessee NUFORC report
 
-A stronger Tennessee report is not simply the strangest sounding one. It is the one with enough detail to test. The most useful entries tend to include a precise time, exact location, direction of travel, duration, elevation angle, weather, number of observers, whether aircraft were nearby, whether video exists, and whether the witness checked obvious explanations. NUFORC’s newer system helps by distinguishing more dramatic reports from those it considers explainable, but older entries need extra caution because they were not graded under the same post-2023 framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A stronger Tennessee report is not simply the strangest sounding one. It is the one with enough detail to test. The most useful entries tend to include a precise time, exact location, direction of travel, duration, elevation angle, weather, number of observers, whether aircraft were nearby, whether video exists, and whether the witness checked obvious explanations. NUFORC’s newer system helps by distinguishing more dramatic reports from those it considers explainable, but older entries need extra caution because they were not graded under the same post-2023 framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-A weak report is usually vague, retrospective or dependent on interpretation. “A light moved strangely” may be sincere, but without time, direction, distance, comparison objects or independent records, it is hard to separate from aircraft, drones, planets, satellites or camera artefacts. Tennessee’s NUFORC page includes many brief entries of this kind, alongside more detailed ones. The difference matters because a database can preserve both without making them equal in evidential strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lTN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State TN</span><span class="citation-popover-snippet">Reports for State TN</span></span></span>
+A weak report is usually vague, retrospective or dependent on interpretation. “A light moved strangely” may be sincere, but without time, direction, distance, comparison objects or independent records, it is hard to separate from aircraft, drones, planets, satellites or camera artefacts. Tennessee’s NUFORC page includes many brief entries of this kind, alongside more detailed ones. The difference matters because a database can preserve both without making them equal in evidential strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lTN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State TN</span><span class="citation-popover-snippet">Reports for State TN</span></span></span>
 
 A practical credibility screen for Tennessee reports would ask:
 
@@ -360,272 +360,272 @@ This approach does not debunk every Tennessee report. It prevents weak reports f
 
 Tennessee’s modern NUFORC pattern adds a democratic layer to the state’s older UFO history. [Oak Ridge]({{ 'oak-ridge/' | relative_url }}) and Cold War-era files show how UFOs entered official and security channels. Modern NUFORC reports show how ordinary residents continue to notice, interpret and report the sky from cities, suburbs, interstates, farms, parks and mountain communities.
 
-The strongest conclusion is modest but useful: Tennessee has a substantial modern UFO reporting record, but its pattern is shaped by normal human and environmental mechanisms. Nashville, Knoxville and Memphis dominate city counts because they are major population centres. Rural counties can look prominent per capita because darker skies and small populations magnify the rate. Modern satellites, drones, aircraft and meteors explain a significant share of reports, and federal UAP work has reinforced the same broad caution: many cases are ordinary objects, some lack enough data, and a small remainder may deserve further study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Map: UFO sightings in Tennessee</span><span class="citation-popover-snippet">Map: UFO sightings in Tennessee</span></span></span> For readers following Tennessee UFO history, NUFORC is therefore best treated as a map of reporting behaviour and witness experience. It can point investigators towards clusters, repeated descriptions and cases worth checking. It cannot, on its own, turn a Tennessee light in the sky into evidence of extraordinary technology.
+The strongest conclusion is modest but useful: Tennessee has a substantial modern UFO reporting record, but its pattern is shaped by normal human and environmental mechanisms. Nashville, Knoxville and Memphis dominate city counts because they are major population centres. Rural counties can look prominent per capita because darker skies and small populations magnify the rate. Modern satellites, drones, aircraft and meteors explain a significant share of reports, and federal UAP work has reinforced the same broad caution: many cases are ordinary objects, some lack enough data, and a small remainder may deserve further study.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Tennessee &#124; Stacker</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Map: UFO sightings in Tennessee</span><span class="citation-popover-snippet">Map: UFO sightings in Tennessee</span></span></span> For readers following Tennessee UFO history, NUFORC is therefore best treated as a map of reporting behaviour and witness experience. It can point investigators towards clusters, repeated descriptions and cases worth checking. It cannot, on its own, turn a Tennessee light in the sky into evidence of extraordinary technology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Do Tennesseans Report UFOs Most?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Do Tennesseans Report UFOs Most?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong fit for analysing reporting patterns and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for analysing reporting patterns and witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Helps readers understand reporting systems and investigative limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand reporting systems and investigative limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses recurring report patterns and witness experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses recurring report patterns and witness experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores geographic and cultural patterns in sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores geographic and cultural patterns in sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-677669-where-do-tennesseans-report-ufos-most-tennessee-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -641,7 +641,7 @@ The strongest conclusion is modest but useful: Tennessee has a substantial moder
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -661,7 +661,7 @@ The strongest conclusion is modest but useful: Tennessee has a substantial moder
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -693,7 +693,7 @@ The strongest conclusion is modest but useful: Tennessee has a substantial moder
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ The strongest conclusion is modest but useful: Tennessee has a substantial moder
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -781,230 +781,230 @@ The strongest conclusion is modest but useful: Tennessee has a substantial moder
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Tennessee | Stacker  
-   Link: <a href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee</a>  
+   Link:<a href="https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/tennessee/cities-most-ufo-sightings-tennessee</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: axios.com  
    Title: Map: UFO sightings in Tennessee  
-   Link: <a href="https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map</a>  
+   Link:<a href="https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/nashville/2024/02/20/ufo-sightings-tennessee-map</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=155066" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=155066</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=155066" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=155066</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=186108" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186108</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=186108" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186108</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184315" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184315</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184315" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184315</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: Reports for State TN  
-   Link: <a href="https://nuforc.org/subndx/?id=lTN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lTN</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lTN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lTN</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=70537" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=70537</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=70537" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=70537</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lGA</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lGA</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lAL" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAL</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lAL" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAL</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lOH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOH</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lOH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOH</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lME</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lME</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=129420" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=129420</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=129420" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=129420</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/2018posts/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2018posts/</a>  
+   Link:<a href="https://nuforc.org/2018posts/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2018posts/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=35113" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=35113</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=35113" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=35113</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=94307" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=94307</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=94307" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=94307</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=186890" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186890</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=186890" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186890</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=135444" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135444</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=135444" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=135444</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=177773" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177773</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=177773" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177773</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=195466" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195466</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=195466" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195466</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=102489" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=102489</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=102489" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=102489</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=141592" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=141592</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=141592" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=141592</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184242" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184242</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184242" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184242</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=52891" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52891</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=52891" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52891</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
+   Link:<a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: census.gov  
    Title: U.S. Census Bureau Quick Facts: Knoxville city, Tennessee Population estimates,  
-   Link: <a href="https://www.census.gov/quickfacts/fact/table/knoxvillecitytennessee/HEA775224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/knoxvillecitytennessee/HEA775224</a>  
+   Link:<a href="https://www.census.gov/quickfacts/fact/table/knoxvillecitytennessee/HEA775224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/knoxvillecitytennessee/HEA775224</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: tnstateparks.com  
-   Link: <a href="https://tnstateparks.com/parks/pickett" target="_blank" rel="noopener noreferrer nofollow">https://tnstateparks.com/parks/pickett</a>  
+   Link:<a href="https://tnstateparks.com/parks/pickett" target="_blank" rel="noopener noreferrer nofollow">https://tnstateparks.com/parks/pickett</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
+   Link:<a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: darksitefinder.com  
-   Link: <a href="https://darksitefinder.com/map/" target="_blank" rel="noopener noreferrer nofollow">https://darksitefinder.com/map/</a>  
+   Link:<a href="https://darksitefinder.com/map/" target="_blank" rel="noopener noreferrer nofollow">https://darksitefinder.com/map/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
+   Link:<a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: worldpopulationreview.com  
-   Link: <a href="https://worldpopulationreview.com/states/tennessee" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/states/tennessee</a>  
+   Link:<a href="https://worldpopulationreview.com/states/tennessee" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/states/tennessee</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E63u90DGzyo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Newly declassified UFO files reveal unexplained encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E63u90DGzyo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Newly declassified UFO files reveal unexplained encounters...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Newly declassified UFO files reveal unexplained encounters  
-   Link: <a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ag2pzH6aSpY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 US releases files on UFOs, decades of sightings revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ag2pzH6aSpY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 US releases files on UFOs, decades of sightings revealed...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: UFO sightings in Middle TN grows  
-   Link: <a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYJrwWIVaBk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 UFO files released, new TN congressional maps and local police involved in crashes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYJrwWIVaBk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 UFO files released, new TN congressional maps and local police involved in crashes...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFO sightings in Middle TN grows...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFO sightings in Middle TN grows...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
+   Link:<a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: tnstateparks.com  
-   Link: <a href="https://tnstateparks.com/sites/default/files/2025-08/dark-skies-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tnstateparks.com/sites/default/files/2025-08/dark-skies-2016.pdf</a>  
+   Link:<a href="https://tnstateparks.com/sites/default/files/2025-08/dark-skies-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tnstateparks.com/sites/default/files/2025-08/dark-skies-2016.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: usafacts.org  
-   Link: <a href="https://usafacts.org/answers/how-many-people-live-in-the-us/state/tennessee/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/state/tennessee/</a>  
+   Link:<a href="https://usafacts.org/answers/how-many-people-live-in-the-us/state/tennessee/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/state/tennessee/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: gostargazing.co.uk  
-   Link: <a href="https://gostargazing.co.uk/light-pollution-map/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/light-pollution-map/</a>  
+   Link:<a href="https://gostargazing.co.uk/light-pollution-map/" target="_blank" rel="noopener noreferrer nofollow">https://gostargazing.co.uk/light-pollution-map/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: lightpollutionmap.info  
-   Link: <a href="https://www.lightpollutionmap.info/" target="_blank" rel="noopener noreferrer nofollow">https://www.lightpollutionmap.info/</a>  
+   Link:<a href="https://www.lightpollutionmap.info/" target="_blank" rel="noopener noreferrer nofollow">https://www.lightpollutionmap.info/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/MapPorn/comments/fv8768/light_pollution_map_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/fv8768/light_pollution_map_of_the_us/</a>
+   Link:<a href="https://www.reddit.com/r/MapPorn/comments/fv8768/light_pollution_map_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/fv8768/light_pollution_map_of_the_us/</a>

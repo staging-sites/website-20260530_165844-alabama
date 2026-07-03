@@ -253,7 +253,7 @@ image: /assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_r
 The biggest problem with the alleged 1941 Cape Girardeau UFO crash is not simply that the story sounds extraordinary. It is that the records many researchers would expect to exist have never been produced. The claim involves a rural crash scene, local police, firefighters, a minister, photographers, military personnel, bodies, debris and an alleged recovery operation. If even part of that account happened as described, it would normally leave traces in newspapers, church records, police logs, coroner files, military paperwork, photographs, insurance reports or personal correspondence.
 
 <img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-dark.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-More than eighty years later, investigators still argue over whether those records were destroyed, never existed, remain hidden, or point to a different event altogether. The absence of a verifiable paper trail has become one of the central reasons why the Cape Girardeau story remains a legend rather than a documented historical case. Even writers who support the crash narrative acknowledge that obtaining hard evidence has proved extremely difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
+More than eighty years later, investigators still argue over whether those records were destroyed, never existed, remain hidden, or point to a different event altogether. The absence of a verifiable paper trail has become one of the central reasons why the Cape Girardeau story remains a legend rather than a documented historical case. Even writers who support the crash narrative acknowledge that obtaining hard evidence has proved extremely difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
 ## What records a real crash might leave
 
@@ -276,17 +276,17 @@ At a minimum, researchers would look for:
 
 The challenge for the Cape Girardeau case is that the story requires not just one missing document but the absence of many different categories of records. According to later retellings, numerous people supposedly saw the crash site before military personnel arrived and secured it. If true, that would increase the likelihood of independent documentation surviving somewhere outside official channels.
 
-Researchers who approach the story sceptically often focus on this multiplication problem. A single missing file can be explained by loss, disposal or poor archiving. An entire ecosystem of missing records is harder to explain without assuming either a remarkably effective suppression effort or a significant gap between the later story and the original event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
+Researchers who approach the story sceptically often focus on this multiplication problem. A single missing file can be explained by loss, disposal or poor archiving. An entire ecosystem of missing records is harder to explain without assuming either a remarkably effective suppression effort or a significant gap between the later story and the original event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
 
 ## Known gaps in newspaper coverage
 
 One of the most discussed weaknesses in the case is the lack of contemporary press reporting.
 
-The alleged crash is usually placed in spring 1941, often April. Yet no widely accepted local newspaper article from that period has been produced describing a mysterious crash near Cape Girardeau, unusual bodies, a large emergency response or military recovery activity. Investigators and journalists discussing the case routinely note that the story emerged decades later through family testimony rather than through contemporaneous reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
+The alleged crash is usually placed in spring 1941, often April. Yet no widely accepted local newspaper article from that period has been produced describing a mysterious crash near Cape Girardeau, unusual bodies, a large emergency response or military recovery activity. Investigators and journalists discussing the case routinely note that the story emerged decades later through family testimony rather than through contemporaneous reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
 This absence matters because local newspapers of the period regularly covered accidents, fires and unusual events. Even if editors had avoided publishing claims about a strange craft, reports of emergency vehicles, a rural fire or a suspected aircraft accident would normally have been newsworthy.
 
-Supporters of the crash narrative sometimes argue that wartime secrecy or government pressure could explain missing coverage. Critics counter that the United States was not yet fully mobilised for war in April 1941 and that suppressing every local mention would have required a level of coordination for which no documentary evidence has surfaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
+Supporters of the crash narrative sometimes argue that wartime secrecy or government pressure could explain missing coverage. Critics counter that the United States was not yet fully mobilised for war in April 1941 and that suppressing every local mention would have required a level of coordination for which no documentary evidence has surfaced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dvlgGKf7oq0" title="UFO files: UAP disclosures &amp; evidence for unexplained cases | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer">UFO files: UAP disclosures &amp; evidence for unexplained cases | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 56.2K &middot; Uploaded: May 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dvlgGKf7oq0">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +315,7 @@ Without those details, the story remains difficult to test against surviving pub
 <img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-dark.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The military paperwork problem
 
-Military involvement is central to most versions of the Cape Girardeau narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
+Military involvement is central to most versions of the Cape Girardeau narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
 
 Later accounts describe federal or military personnel arriving, taking possession of debris, removing bodies and ordering witnesses not to speak. That claim creates a second layer of expected documentation. Large-scale recovery operations generally generate transport records, communications, personnel assignments or administrative paperwork somewhere in the chain of command.
 
@@ -323,13 +323,13 @@ No authenticated military file has emerged that directly confirms a 1941 recover
 
 Supporters of the crash story often argue that classified material may remain hidden or may have been destroyed. Critics respond that extraordinary secrecy claims become difficult to evaluate when they rely on records that are both missing and unconfirmed. A hidden archive can always be proposed, but until documents are produced and authenticated it cannot serve as evidence by itself.
 
-This issue has become more important as other historical military records from the Second World War era have gradually entered public archives. The longer the search continues without a clear documentary match, the harder it becomes to move the Cape Girardeau story beyond anecdotal testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
+This issue has become more important as other historical military records from the Second World War era have gradually entered public archives. The longer the search continues without a clear documentary match, the harder it becomes to move the Cape Girardeau story beyond anecdotal testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
 
 ## The lost photograph and chain-of-custody problem
 
 The most famous missing item is the alleged photograph.
 
-Family accounts connected to Reverend William Huffman describe a picture showing one of the beings recovered from the crash. According to later retellings, the image was seen by relatives but eventually disappeared from the family's possession. The photograph has never been publicly authenticated or subjected to independent analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
+Family accounts connected to Reverend William Huffman describe a picture showing one of the beings recovered from the crash. According to later retellings, the image was seen by relatives but eventually disappeared from the family's possession. The photograph has never been publicly authenticated or subjected to independent analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
 For investigators, the issue is not only that the image is missing. It is that there is no documented chain of custody.
 
@@ -353,7 +353,7 @@ Because the photograph cannot be examined, it functions more as testimony about 
 
 The missing-records problem is made worse by uncertainty over basic facts.
 
-Different versions of the story place the event at somewhat different locations around the Cape Girardeau and Chaffee area. Dates also vary between accounts, with some descriptions referring broadly to spring 1941 while others suggest specific April dates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
+Different versions of the story place the event at somewhat different locations around the Cape Girardeau and Chaffee area. Dates also vary between accounts, with some descriptions referring broadly to spring 1941 while others suggest specific April dates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
 This creates a practical obstacle for archival research.
 
@@ -369,278 +369,278 @@ The missing-records issue does not automatically disprove the Cape Girardeau sto
 
 However, the absence of evidence changes how the claim is assessed.
 
-Cases such as the 1973 southeast Missouri UFO flap investigated by physicist Harley Rutledge generated numerous witnesses, media reports and surviving documentation. Researchers can examine those records directly, compare accounts and test competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
+Cases such as the 1973 southeast Missouri UFO flap investigated by physicist Harley Rutledge generated numerous witnesses, media reports and surviving documentation. Researchers can examine those records directly, compare accounts and test competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
 
 The Cape Girardeau crash operates differently. Its strongest elements are retrospective family testimony, later investigator interviews and stories about evidence that is no longer available. The central question is therefore not whether witnesses believed something unusual happened. It is whether the supporting documentation that should help verify the story can be found.
 
-After decades of investigation, no widely accepted cache of newspaper articles, police reports, military files, photographs or physical artefacts has emerged to settle the issue. That evidence gap is why the alleged crash remains one of Missouri's most famous UFO legends while also remaining one of its least verifiable. The mystery survives largely because the expected records are missing, and because no explanation for their absence has gained broad acceptance among either believers or sceptics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
+After decades of investigation, no widely accepted cache of newspaper articles, police reports, military files, photographs or physical artefacts has emerged to settle the issue. That evidence gap is why the alleged crash remains one of Missouri's most famous UFO legends while also remaining one of its least verifiable. The mystery survives largely because the expected records are missing, and because no explanation for their absence has gained broad acceptance among either believers or sceptics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-dark.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why are the 1941 records missing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why are the 1941 records missing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Fits a page concerned with missing records and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page concerned with missing records and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Addresses case evaluation when evidence is incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses case evaluation when evidence is incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
-        </h4>
-        <p class="fr-book-author">By Jane Roberts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
+</h4>
+<p class="fr-book-author">By Jane Roberts</p>
         
-        <p class="fr-book-desc">Provides a contrast between preserved records and missing-record claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a contrast between preserved records and missing-record claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Readers interested in hidden records often cross-shop Roswell literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in hidden records often cross-shop Roswell literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychic+Politics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychic Politics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychic+Politics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychic Politics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-1c5e8c-why-are-the-1941-records-missing-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -656,7 +656,7 @@ After decades of investigation, no widely accepted cache of newspaper articles, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -676,7 +676,7 @@ After decades of investigation, no widely accepted cache of newspaper articles, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -708,7 +708,7 @@ After decades of investigation, no widely accepted cache of newspaper articles, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ After decades of investigation, no widely accepted cache of newspaper articles, 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -796,88 +796,88 @@ After decades of investigation, no widely accepted cache of newspaper articles, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kfvs12.com  
    Title: alleged ufo crash cape girardeau area  
-   Link: <a href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</p></details>
+   Link:<a href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
    Title: The 1941 Cape Girardeau Conundrum  
-   Link: <a href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</p></details>
+   Link:<a href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Harley Rutledge  
-   Link: <a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kfvs12.com  
    Title: story alleged ufo crash near cape girardeau  
-   Link: <a href="https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Story of alleged UFO crash of 1941 near Cape GirardeauA UFO allegedly crashed in a field near Cape Girardeau in 1941.... A Missouri sena...</p></details>
+   Link:<a href="https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Story of alleged UFO crash of 1941 near Cape GirardeauA UFO allegedly crashed in a field near Cape Girardeau in 1941.... A Missouri sena...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Night A Priest Was Called To A UFO CrashI Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up Coding. In.Read more...</p></details>
+   Link:<a href="https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Night A Priest Was Called To A UFO CrashI Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up Coding. In.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sosupernaturalpodcast.com  
-   Link: <a href="https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: Cape Girardeau IncidentALIEN: Cape Girardeau ALIEN: Cape Girardeau ALIEN: Cape Girardeau. Powered... The 1941 Cape Girardeau UFO...</p></details>
+   Link:<a href="https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: Cape Girardeau IncidentALIEN: Cape Girardeau ALIEN: Cape Girardeau ALIEN: Cape Girardeau. Powered... The 1941 Cape Girardeau UFO...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: audioboom.com  
-   Link: <a href="https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell: The Cape Girardeau UFO Crash and...11 Mar 2025 — Six years before Roswell, a reported UFO crash in Cape Girardeau, Misso...</p></details>
+   Link:<a href="https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell: The Cape Girardeau UFO Crash and...11 Mar 2025 — Six years before Roswell, a reported UFO crash in Cape Girardeau, Misso...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: Revised actual History of the first UFO Crash (Serious)r/aliens  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1941 Cape Girardeau, MO UFO crash with dead occupants. youtube. 27. 9. Alien crash site on Google maps. r/aliens. • 2mo ago...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1941 Cape Girardeau, MO UFO crash with dead occupants. youtube. 27. 9. Alien crash site on Google maps. r/aliens. • 2mo ago...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>who saw it confessed everything on his deathbed. Aliens &amp; UFOs.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>who saw it confessed everything on his deathbed. Aliens &amp; UFOs.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at FBI agents quickly showed up to this site swore everyone to...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at FBI agents quickly showed up to this site swore everyone to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: a local legend has people sharing their connection to the story on social media  
-   Link: <a href="https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reverend William Huffman of the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reverend William Huffman of the...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO files: UAP disclosures & evidence for unexplained cases | Backscroll  
-   Link: <a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dvlgGKf7oq0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fifth Witness: UFO Crash-Retrievals Uncovered...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dvlgGKf7oq0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fifth Witness: UFO Crash-Retrievals Uncovered...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Before & After  
-   Link: <a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CNYfSSKr56E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CNYfSSKr56E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters Ep33 | 1941 Cape Girardeau UFO CrashMay 16, 2024 — A frequent lecturer on the UFO subject, Ryan has taught college courses and...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters Ep33 | 1941 Cape Girardeau UFO CrashMay 16, 2024 — A frequent lecturer on the UFO subject, Ryan has taught college courses and...</p></details>
    Published: May 16, 2024

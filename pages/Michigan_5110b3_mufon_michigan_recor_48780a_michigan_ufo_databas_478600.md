@@ -250,15 +250,15 @@ image: /assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_michigan_ufo_d
 
 ## Introduction
 
-When people in Michigan report something strange in the sky, that report often becomes part of a larger civilian database long before any official investigation begins. Three major civilian reporting systems — especially the state chapter of Mutual UFO Network (MUFON) and the National UFO Reporting Center (NUFORC) — hold thousands of Michigan‑area UFO sighting records. These records are a rich resource for understanding how many unusual lights and shapes are seen, where and when they occur, and how often they vanish into conventional explanations after review. A striking pattern emerges from this data: **about nine out of every ten Michigan UFO reports can eventually be matched to ordinary phenomena** or identified with confidence after investigation. This “90 percent” pattern highlights the difference between **raw sighting counts** and **meaningful unidentified cases**, a distinction that is central to making sense of Michigan’s UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
+When people in Michigan report something strange in the sky, that report often becomes part of a larger civilian database long before any official investigation begins. Three major civilian reporting systems — especially the state chapter of Mutual UFO Network (MUFON) and the National UFO Reporting Center (NUFORC) — hold thousands of Michigan‑area UFO sighting records. These records are a rich resource for understanding how many unusual lights and shapes are seen, where and when they occur, and how often they vanish into conventional explanations after review. A striking pattern emerges from this data: **about nine out of every ten Michigan UFO reports can eventually be matched to ordinary phenomena** or identified with confidence after investigation. This “90 percent” pattern highlights the difference between **raw sighting counts** and **meaningful unidentified cases**, a distinction that is central to making sense of Michigan’s UFO history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_michigan_ufo_databas_478600-Illustration-1-dark.svg" | relative_url }}" alt="90 Percent illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_michigan_ufo_databas_478600-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_mufon_michigan_recor_48780a_michigan_ufo_databas_478600-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Michigan’s UFO Databases Actually Are
 
 Civilian databases do not themselves establish something as genuinely “unexplained” or extraterrestrial. They are **catalogues of witness reports and investigator conclusions**.
 
-* **NUFORC** operates as a public, open archive of reported sightings from across the United States, including Michigan. Witnesses submit narratives by phone or web form, and the centre publishes them verbatim, grouped by date, shape, location and other basic fields. NUFORC does not investigate each report; it serves primarily as a searchable historical index. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
-* **MUFON’s state chapters**, such as the Michigan chapter, receive reports, assign trained volunteer investigators, and attempt to follow up with witnesses, weather or astronomical checks, and comparisons with known aerial or atmospheric activity. These investigations often result in a **case resolution** — typically identifying the phenomenon or concluding that information is insufficient to explain it with confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutual UFO Network</span><span class="citation-popover-snippet">Mutual UFO Network</span></span></span>
+* **NUFORC** operates as a public, open archive of reported sightings from across the United States, including Michigan. Witnesses submit narratives by phone or web form, and the centre publishes them verbatim, grouped by date, shape, location and other basic fields. NUFORC does not investigate each report; it serves primarily as a searchable historical index.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **MUFON’s state chapters**, such as the Michigan chapter, receive reports, assign trained volunteer investigators, and attempt to follow up with witnesses, weather or astronomical checks, and comparisons with known aerial or atmospheric activity. These investigations often result in a **case resolution** — typically identifying the phenomenon or concluding that information is insufficient to explain it with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutual UFO Network</span><span class="citation-popover-snippet">Mutual UFO Network</span></span></span>
 
 Taken together, these databases offer a **two‑tier view of UFO reports**: the broad brush of raw public submissions and the filtered layer of cases that pass through a follow‑up and classification process.
 
@@ -266,15 +266,15 @@ Taken together, these databases offer a **two‑tier view of UFO reports**: the 
 
 ## What the “90 Percent Problem” Means in Michigan
 
-A persistent theme in Michigan’s civilian UFO data is that **most reports are explainable once checked against mundane causes**. Local MUFON leadership, such as State Director Bill Konkolesky, has noted on multiple occasions that **about 80–95% of reports in a typical Michigan year receive an ID as a known phenomenon** after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
+A persistent theme in Michigan’s civilian UFO data is that **most reports are explainable once checked against mundane causes**. Local MUFON leadership, such as State Director Bill Konkolesky, has noted on multiple occasions that **about 80–95% of reports in a typical Michigan year receive an ID as a known phenomenon** after investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
 
-This pattern is not unique to Michigan. Broad research on UFO reporting generally — from historical efforts like the U.S. Air Force’s Project Blue Book to modern civilian datasets — shows that **a large majority of reported sightings ultimately correspond to identifiable conventional objects or phenomena** such as aircraft, satellites, planets, atmospheric optics, or misidentified lights. Only a small fraction remain genuinely unexplained after evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
+This pattern is not unique to Michigan. Broad research on UFO reporting generally — from historical efforts like the U.S. Air Force’s Project Blue Book to modern civilian datasets — shows that **a large majority of reported sightings ultimately correspond to identifiable conventional objects or phenomena** such as aircraft, satellites, planets, atmospheric optics, or misidentified lights. Only a small fraction remain genuinely unexplained after evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
-In Michigan: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
+In Michigan:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
 
-* Across roughly a decade (2010–2020), MUFON’s state chapter recorded **2,789 sighting reports**, and most of these were resolved to everyday explanations such as satellites (including SpaceX’s Starlink trains), aircraft, or celestial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
-* In typical recent years, MUFON receives **around 200 reports** from Michigan, and even at the lower end of estimates, **about 80% of those have clear identifications**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox17online.com/news/national-news/u-f-o-sightings-up-in-2020-a-michigan-expert-explains-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox17online.com">[FOX 17 West Michigan News (WXMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox17online.com</span><span class="citation-popover-title">u f o sightings up in 2020 a michigan expert explains why</span><span class="citation-popover-snippet">FOX 17 West Michigan News (WXMI)UFO sightings up in 2020: a Michigan expert explains why...</span></span></span>
-* The remaining **roughly 10–20%** of reports that are not readily explainable after initial checks are the ones framed as “unidentified” and attract the most attention from researchers and enthusiasts, but they represent a small subset of the total. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
+* Across roughly a decade (2010–2020), MUFON’s state chapter recorded **2,789 sighting reports**, and most of these were resolved to everyday explanations such as satellites (including SpaceX’s Starlink trains), aircraft, or celestial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
+* In typical recent years, MUFON receives **around 200 reports** from Michigan, and even at the lower end of estimates, **about 80% of those have clear identifications**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox17online.com/news/national-news/u-f-o-sightings-up-in-2020-a-michigan-expert-explains-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox17online.com">[FOX 17 West Michigan News (WXMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox17online.com</span><span class="citation-popover-title">u f o sightings up in 2020 a michigan expert explains why</span><span class="citation-popover-snippet">FOX 17 West Michigan News (WXMI)UFO sightings up in 2020: a Michigan expert explains why...</span></span></span>
+* The remaining **roughly 10–20%** of reports that are not readily explainable after initial checks are the ones framed as “unidentified” and attract the most attention from researchers and enthusiasts, but they represent a small subset of the total.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
 
 The “90 percent problem” phrase captures this **disparity between the sheer number of sightings reported and the much smaller share that remain unexplained** after careful review.
 
@@ -283,10 +283,10 @@ The “90 percent problem” phrase captures this **disparity between the shee
 
 The most common shapes and descriptions in Michigan’s civilian reports reflect familiar visual clutter in the night sky:
 
-* **Lights** of various brightness and motion patterns — especially those moving slowly, hovering or line‑forming — are the most frequently logged shape category in NUFORC and MUFON indexes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 197709May 17, 2026 — NUFORC UFO SIGHTING 197709 Occurred: 2026-05-11 03:28 Local - Approximate Reported: 2026-05-12 1...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
-* **Triangular formations** appear repeatedly in reports and local media pieces on notable Michigan sightings. These often attract extra interest because triangles are visually striking, but many such reports correspond to mundane aircraft lighting configurations, drones, or optical effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
+* **Lights** of various brightness and motion patterns — especially those moving slowly, hovering or line‑forming — are the most frequently logged shape category in NUFORC and MUFON indexes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 197709May 17, 2026 — NUFORC UFO SIGHTING 197709 Occurred: 2026-05-11 03:28 Local - Approximate Reported: 2026-05-12 1...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+* **Triangular formations** appear repeatedly in reports and local media pieces on notable Michigan sightings. These often attract extra interest because triangles are visually striking, but many such reports correspond to mundane aircraft lighting configurations, drones, or optical effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hourdetroit.com">[hourdetroit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hourdetroit.com</span><span class="citation-popover-title">Patty&#x27;s Triangle Remains Among Michigan&#x27;s Most Baffling</span><span class="citation-popover-snippet">Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</span></span></span>
 
-Because those kinds of visuals are common in reports, they **populate the databases disproportionately**. When investigators bring in auxiliary information — such as launch schedules for satellites, astronomical charts, or local aviation data — the majority of such reports can be resolved as **identified flying objects (IFOs)** rather than unexplained anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event1994 Michigan UFO event... On March 8, 1994, multiple individuals reported a sighting of multiple UFOs in West...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span>
+Because those kinds of visuals are common in reports, they **populate the databases disproportionately**. When investigators bring in auxiliary information — such as launch schedules for satellites, astronomical charts, or local aviation data — the majority of such reports can be resolved as **identified flying objects (IFOs)** rather than unexplained anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event1994 Michigan UFO event... On March 8, 1994, multiple individuals reported a sighting of multiple UFOs in West...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K1JShMzePlU" title="What Is MUFON Hiding About UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K1JShMzePlU" target="_blank" rel="noopener noreferrer">What Is MUFON Hiding About UFOs?</a></p><p class="youtube-embed-meta">Channel: Philippe Waterloos &middot; Views: 31 &middot; Uploaded: September 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K1JShMzePlU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K1JShMzePlU">Open on YouTube</a></p></div></div></div>
 
@@ -294,8 +294,8 @@ Because those kinds of visuals are common in reports, they **populate the databa
 
 Sorting “noise” (reports that ultimately have prosaic explanations) from reports that truly resist identification is the core work of civilian UFO investigators in Michigan:
 
-* **Structured interviews and follow‑ups:** MUFON field investigators contact witnesses to clarify timing, direction, duration and corroborating witnesses, and they gather additional evidence such as sketches, photos or videos. When possible, they also check radar data or local flight information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutual UFO Network</span><span class="citation-popover-snippet">Mutual UFO Network</span></span></span>
-* **Cross‑checking with known phenomena:** Many reports are resolved using reference checks against known events — for example, meteor showers, known satellite passes, aircraft flight paths, or planetary positions. Large satellite trains such as SpaceX’s Starlink often account for clusters of light reports when they are visible shortly after dusk or before dawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Social factors and UFO reports: was the SARS-Co V</span><span class="citation-popover-snippet">UFO Network (MUFON) is the largest civilian US group that. investigates UFO... as UFOs. Figure 8. Weekly UFO reports annotated with Star...</span></span></span>
+* **Structured interviews and follow‑ups:** MUFON field investigators contact witnesses to clarify timing, direction, duration and corroborating witnesses, and they gather additional evidence such as sketches, photos or videos. When possible, they also check radar data or local flight information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutual UFO Network</span><span class="citation-popover-snippet">Mutual UFO Network</span></span></span>
+* **Cross‑checking with known phenomena:** Many reports are resolved using reference checks against known events — for example, meteor showers, known satellite passes, aircraft flight paths, or planetary positions. Large satellite trains such as SpaceX’s Starlink often account for clusters of light reports when they are visible shortly after dusk or before dawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Social factors and UFO reports: was the SARS-Co V</span><span class="citation-popover-snippet">UFO Network (MUFON) is the largest civilian US group that. investigates UFO... as UFOs. Figure 8. Weekly UFO reports annotated with Star...</span></span></span>
 * **Classification outcomes:** Cases that align with known visual events or man‑made objects are logged as identified; those lacking sufficient information may remain “unknown” but not necessarily anomalous; a few stubborn cases that defy explanatory checks after thorough review are left as **unexplained** for further scrutiny by researchers or external analysts.
 
 This is why Michigan’s civilian databases are **not simplistic tally sheets of unknown craft**, but rather **working datasets used to separate the ordinary from the genuinely puzzling**.
@@ -309,203 +309,203 @@ Understanding the 90 percent pattern helps shape a balanced view of Michigan�
 
 * It prevents **raw sighting counts** from being taken at face value as evidence of extraordinary phenomena.
 * It highlights that **a small fraction of compelling cases is embedded in a large background of explainable sightings**, encouraging researchers to focus attention where unusual patterns persist after conventional identification.
-* It aligns Michigan’s civilian UFO record with broader historical patterns of UFO reporting and identification, showing how careful sorting and classification can clarify what remains genuinely unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
+* It aligns Michigan’s civilian UFO record with broader historical patterns of UFO reporting and identification, showing how careful sorting and classification can clarify what remains genuinely unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
 </div>
 
-For students of Michigan’s UFO history, the strength of databases like MUFON and NUFORC lies not in the headline totals but in their **capacity to sharpen the lens on the few reports that remain genuinely puzzling after rigorous checks**. That is the real value of distinguishing identified cases from true unknowns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+For students of Michigan’s UFO history, the strength of databases like MUFON and NUFORC lies not in the headline totals but in their **capacity to sharpen the lens on the few reports that remain genuinely puzzling after rigorous checks**. That is the real value of distinguishing identified cases from true unknowns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BK1leFpCK68" title="Data center debate &amp; Detroit in the UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BK1leFpCK68" target="_blank" rel="noopener noreferrer">Data center debate &amp; Detroit in the UFO files</a></p><p class="youtube-embed-meta">Channel: FOX 2 Detroit &middot; Views: 7.3K &middot; Uploaded: May 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BK1leFpCK68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BK1leFpCK68">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why most Michigan reports get identified. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why most Michigan reports get identified. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses credible cases while acknowledging that most reports are explainable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses credible cases while acknowledging that most reports are explainable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses report classification and why many sightings receive conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses report classification and why many sightings receive conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains investigative processes and identification challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative processes and identification challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Focuses on evidence evaluation and unresolved versus solved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence evaluation and unresolved versus solved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-most-michigan-reports-get-identified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-most-michigan-reports-get-identified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ For students of Michigan’s UFO history, the strength of databases like MUFON a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ For students of Michigan’s UFO history, the strength of databases like MUFON a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ For students of Michigan’s UFO history, the strength of databases like MUFON a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ For students of Michigan’s UFO history, the strength of databases like MUFON a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ For students of Michigan’s UFO history, the strength of databases like MUFON a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,135 +711,135 @@ For students of Michigan’s UFO history, the strength of databases like MUFON a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hourdetroit.com  
    Title: Patty's Triangle Remains Among Michigan's Most Baffling  
-   Link: <a href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</p></details>
+   Link:<a href="https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hourdetroit.com/science-topics/pattys-triangle-remains-among-michigans-most-baffling-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan&#x27;s MUFON chapter received 2,789 sightings from 2010 to 2020, of which 80 to 95 percent...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Social factors and UFO reports: was the SARS-Co V  
-   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Network (MUFON) is the largest civilian US group that. investigates UFO... as UFOs. Figure 8. Weekly UFO reports annotated with Star...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Network (MUFON) is the largest civilian US group that. investigates UFO... as UFOs. Figure 8. Weekly UFO reports annotated with Star...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197709" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197709</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 197709May 17, 2026 — NUFORC UFO SIGHTING 197709 Occurred: 2026-05-11 03:28 Local - Approximate Reported: 2026-05-12 1...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=197709" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197709</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 197709May 17, 2026 — NUFORC UFO SIGHTING 197709 Occurred: 2026-05-11 03:28 Local - Approximate Reported: 2026-05-12 1...</p></details>
    Published: May 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mufon.com  
    Title: In the News: Mich  
-   Link: <a href="https://mufon.com/2023/02/18/in-the-news-mich-ufo-leader-on-object-shot-down-over-lake-huron-it-wasnt-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2023/02/18/in-the-news-mich-ufo-leader-on-object-shot-down-over-lake-huron-it-wasnt-a-ufo/</a>  
+   Link:<a href="https://mufon.com/2023/02/18/in-the-news-mich-ufo-leader-on-object-shot-down-over-lake-huron-it-wasnt-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2023/02/18/in-the-news-mich-ufo-leader-on-object-shot-down-over-lake-huron-it-wasnt-a-ufo/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/2023/02/17/in-the-news-ufo-activity-group-says-about-95-of-reported-activity-in-skies-are-explainable/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2023/02/17/in-the-news-ufo-activity-group-says-about-95-of-reported-activity-in-skies-are-explainable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 17, 2023 — * Feb 17 2023 * &lt; 1 mins read * MUFON News Reporter * Public Policy IN THE NEWS: UFO ACTIVITY GROUP SAYS ABOUT 9...</p></details>
+   Link:<a href="https://mufon.com/2023/02/17/in-the-news-ufo-activity-group-says-about-95-of-reported-activity-in-skies-are-explainable/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2023/02/17/in-the-news-ufo-activity-group-says-about-95-of-reported-activity-in-skies-are-explainable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 17, 2023 — * Feb 17 2023 * &lt; 1 mins read * MUFON News Reporter * Public Policy IN THE NEWS: UFO ACTIVITY GROUP SAYS ABOUT 9...</p></details>
    Published: February 17, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: 1994 Michigan UFO event  
-   Link: <a href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1994_Michigan_UFO_event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1994 Michigan UFO event1994 Michigan UFO event... On March 8, 1994, multiple individuals reported a sighting of multiple UFOs in West...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1994_Michigan_UFO_event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1994 Michigan UFO event1994 Michigan UFO event... On March 8, 1994, multiple individuals reported a sighting of multiple UFOs in West...</p></details>
    Published: March 8, 1994  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pararational.com  
    Title: Para Rational NUFORC (National UFO Reporting Center)  
-   Link: <a href="https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC stands for the National UFO Reporting Center — a nonprofit organization that serves as the primary public clearinghouse for UFO si...</p></details>
+   Link:<a href="https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC stands for the National UFO Reporting Center — a nonprofit organization that serves as the primary public clearinghouse for UFO si...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fox17online.com  
    Title: u f o sightings up in 2020 a michigan expert explains why  
-   Link: <a href="https://www.fox17online.com/news/national-news/u-f-o-sightings-up-in-2020-a-michigan-expert-explains-why" target="_blank" rel="noopener noreferrer nofollow">https://www.fox17online.com/news/national-news/u-f-o-sightings-up-in-2020-a-michigan-expert-explains-why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 17 West Michigan News (WXMI)UFO sightings up in 2020: a Michigan expert explains why...</p></details>
+   Link:<a href="https://www.fox17online.com/news/national-news/u-f-o-sightings-up-in-2020-a-michigan-expert-explains-why" target="_blank" rel="noopener noreferrer nofollow">https://www.fox17online.com/news/national-news/u-f-o-sightings-up-in-2020-a-michigan-expert-explains-why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 17 West Michigan News (WXMI)UFO sightings up in 2020: a Michigan expert explains why...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapedia.ai  
-   Link: <a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025 — NUFORC &amp; MUFON: CIVILIAN DATA SOURCES Civilian reporting pipelines are...</p></details>
+   Link:<a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025 — NUFORC &amp; MUFON: CIVILIAN DATA SOURCES Civilian reporting pipelines are...</p></details>
    Published: November 7, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stacker.com  
    Title: See How Many UFO Sightings Have Occurred in Michigan | Stacker  
-   Link: <a href="https://stacker.com/stories/michigan/see-how-many-ufo-sightings-have-occurred-michigan" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/michigan/see-how-many-ufo-sightings-have-occurred-michigan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 21, 2021 — SEE HOW MANY UFO SIGHTINGS HAVE OCCURRED IN MICHIGAN Written by: Stacker December 21, 2021 Canva See how many UFO sig...</p></details>
+   Link:<a href="https://stacker.com/stories/michigan/see-how-many-ufo-sightings-have-occurred-michigan" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/michigan/see-how-many-ufo-sightings-have-occurred-michigan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 21, 2021 — SEE HOW MANY UFO SIGHTINGS HAVE OCCURRED IN MICHIGAN Written by: Stacker December 21, 2021 Canva See how many UFO sig...</p></details>
    Published: December 21, 2021  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/2105234" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/2105234</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identified flying objectIDENTIFIED FLYING OBJECT * * * * * * * * Identified flying object An Identified Flying Object, or IFO, is any unu...</p></details>
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/2105234" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/2105234</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identified flying objectIDENTIFIED FLYING OBJECT * * * * * * * * Identified flying object An Identified Flying Object, or IFO, is any unu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON and Credibility: r/UFOs... reports, do investigations, and collect evidence on ufo and alien sightings.... r/UFOs - Analysis of s...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON and Credibility: r/UFOs... reports, do investigations, and collect evidence on ufo and alien sightings.... r/UFOs - Analysis of s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mimufon.org  
-   Link: <a href="https://mimufon.org/mimufon" target="_blank" rel="noopener noreferrer nofollow">https://mimufon.org/mimufon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan MUFON | Serious Investigation of Michigan UFO ReportsMICHIGAN MUFON SERIOUS INVESTIGATION OF MICHIGAN UFO REPORTS PLEASE CLICK H...</p></details>
+   Link:<a href="https://mimufon.org/mimufon" target="_blank" rel="noopener noreferrer nofollow">https://mimufon.org/mimufon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan MUFON | Serious Investigation of Michigan UFO ReportsMICHIGAN MUFON SERIOUS INVESTIGATION OF MICHIGAN UFO REPORTS PLEASE CLICK H...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: watchmojo.com  
-   Link: <a href="https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Truth Of MUFON | UnveiledUnveiled Space Aliens MUFON UFOs Extraterrestrial Flying Saucers Alien Alien Life Comments ∧... Even...</p></details>
+   Link:<a href="https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/the-untold-truth-of-mufon-unveiled</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Truth Of MUFON | UnveiledUnveiled Space Aliens MUFON UFOs Extraterrestrial Flying Saucers Alien Alien Life Comments ∧... Even...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufosint.com  
-   Link: <a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
+   Link:<a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=j0AJ8YXpOlQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j0AJ8YXpOlQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Michigan group studying UFO sightingsMore than 200 UFO sightings are reported in Michigan every year. The Michigan group studying UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j0AJ8YXpOlQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j0AJ8YXpOlQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Michigan group studying UFO sightingsMore than 200 UFO sightings are reported in Michigan every year. The Michigan group studying UFO...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wxyz.com  
-   Link: <a href="https://www.wxyz.com/news/ufo-hunters-investigate-strange-sightings-hundreds-reported-in-michigan-every-year" target="_blank" rel="noopener noreferrer nofollow">https://www.wxyz.com/news/ufo-hunters-investigate-strange-sightings-hundreds-reported-in-michigan-every-year</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many people say yes and many people say no. Image: UFO hunters investigate strange sightings in MI By: Kristi...</p></details>
+   Link:<a href="https://www.wxyz.com/news/ufo-hunters-investigate-strange-sightings-hundreds-reported-in-michigan-every-year" target="_blank" rel="noopener noreferrer nofollow">https://www.wxyz.com/news/ufo-hunters-investigate-strange-sightings-hundreds-reported-in-michigan-every-year</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many people say yes and many people say no. Image: UFO hunters investigate strange sightings in MI By: Kristi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mimufon.org  
-   Link: <a href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mimufon.org/index.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan MUFON IncMUFON UFO Files Read UFO News Search UFO Report Database View UFO Weather Maps Witness this: Michigan MUFON in the News...</p></details>
+   Link:<a href="https://www.mimufon.org/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mimufon.org/index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan MUFON IncMUFON UFO Files Read UFO News Search UFO Report Database View UFO Weather Maps Witness this: Michigan MUFON in the News...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: michiganpublic.org  
    Title: Michigan has its fair share of UFO sightings, but Ohio takes the cake  
-   Link: <a href="https://www.michiganpublic.org/offbeat/2013-08-08/michigan-has-its-fair-share-of-ufo-sightings-but-ohio-takes-the-cake" target="_blank" rel="noopener noreferrer nofollow">https://www.michiganpublic.org/offbeat/2013-08-08/michigan-has-its-fair-share-of-ufo-sightings-but-ohio-takes-the-cake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 8, 2013 — * * * # Michigan has its fair share of UFO sightings, but Ohio takes the cake Michigan Public | By Stateside Staff Publi...</p></details>
+   Link:<a href="https://www.michiganpublic.org/offbeat/2013-08-08/michigan-has-its-fair-share-of-ufo-sightings-but-ohio-takes-the-cake" target="_blank" rel="noopener noreferrer nofollow">https://www.michiganpublic.org/offbeat/2013-08-08/michigan-has-its-fair-share-of-ufo-sightings-but-ohio-takes-the-cake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 8, 2013 — * * * # Michigan has its fair share of UFO sightings, but Ohio takes the cake Michigan Public | By Stateside Staff Publi...</p></details>
    Published: August 8, 2013  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: michigan has reported more than 3800 ufo sightings since 1995  
-   Link: <a href="https://www.facebook.com/mlive/posts/michigan-has-reported-more-than-3800-ufo-sightings-since-1995/1151562823667853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mlive/posts/michigan-has-reported-more-than-3800-ufo-sightings-since-1995/1151562823667853/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan has reported more than 3800 UFO sightings...Hundreds of people witnessed what many insisted were UFOs — unidentified flying obj...</p></details>
+   Link:<a href="https://www.facebook.com/mlive/posts/michigan-has-reported-more-than-3800-ufo-sightings-since-1995/1151562823667853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mlive/posts/michigan-has-reported-more-than-3800-ufo-sightings-since-1995/1151562823667853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan has reported more than 3800 UFO sightings...Hundreds of people witnessed what many insisted were UFOs — unidentified flying obj...</p></details>

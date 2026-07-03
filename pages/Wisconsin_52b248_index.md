@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-index/
 description: Focused pages that expand on What Really Made Wisconsin a UFO State?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Wisconsin_52b248
 parent_title: What Really Made Wisconsin a UFO State?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-made-wisconsin-a-ufo-state/
 
 # Explore Topics in What Really Made Wisconsin a UFO State?
 
-The following pages expand on the main **[What Really Made Wisconsin a UFO State?]({{ '/what-really-made-wisconsin-a-ufo-state/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Made Wisconsin a UFO State?]({{ '/what-really-made-wisconsin-a-ufo-state/' | relative_url }})** page and cover its key branches in.
 
 - [Coral Lorenzen]({{ '/coral-lorenzen/' | relative_url }})
 - [Dundee]({{ '/dundee/' | relative_url }})

@@ -250,21 +250,21 @@ image: /assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_ufo_reports_
 
 ## Introduction
 
-Maine consistently ranks **among the U.S. states with the highest UFO report rates per resident**, a pattern often highlighted in state‑level analyses and regional media coverage. Per‑capita rankings show Maine with roughly **one reported sighting for every 1 358 residents**, placing it above the national average for the frequency of UFO reports relative to population size. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
+Maine consistently ranks **among the U.S. states with the highest UFO report rates per resident**, a pattern often highlighted in state‑level analyses and regional media coverage. Per‑capita rankings show Maine with roughly **one reported sighting for every 1 358 residents**, placing it above the national average for the frequency of UFO reports relative to population size.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_ufo_reports_pe_827001-Illustration-1-dark.svg" | relative_url }}" alt="Per Capita illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_ufo_reports_pe_827001-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_ufo_reports_pe_827001-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding *why* Maine appears so high in per‑resident reporting requires looking beyond the raw numbers. It involves considering the **mechanisms** that influence how many sightings get filed, from environmental and cultural factors to reporting behaviours and statistical quirks tied to population size. This isn’t to assert that unexplained aerial phenomena occur *more often* in Maine in an objective sense, but rather to unpack **why the reporting signal in the data looks unusually strong once resident numbers are factored in**.
 
 ## What Per‑Capita Rankings Actually Measure
 
-Per‑capita rankings take the **total number of reported sightings** and divide them by a region’s population, typically revealing how *many reports* there are **relative to the number of potential observers**. Maine’s position in several analyses — often fourth or among the top five when ranked by sightings per 100 000 residents — derives from this calculation. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wabi.tv">[www.wabi.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wabi.tv</span><span class="citation-popover-title">are aliens stopping lobsters maine ranks top 5 ufo reports</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
+Per‑capita rankings take the **total number of reported sightings** and divide them by a region’s population, typically revealing how *many reports* there are **relative to the number of potential observers**. Maine’s position in several analyses — often fourth or among the top five when ranked by sightings per 100 000 residents — derives from this calculation. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wabi.tv">[www.wabi.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wabi.tv</span><span class="citation-popover-title">are aliens stopping lobsters maine ranks top 5 ufo reports</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
 
 But this metric has **inherent limitations**:
 
 * **Small populations amplify rates:** A modest absolute count of reports can translate into a relatively high per‑person rate simply because Maine is one of the less densely populated states. This means even dozens of reports, spread over a long period, can yield a high per‑capita figure compared with more populous states where hundreds of reports dilute into a lower rate.
 * **Reporting isn’t evenly distributed:** States with similar weather or night‑sky conditions may not report at the same rate if observers aren’t equally inclined to submit reports. Per‑capita rates reflect **reporting behaviour** at least as much as they reflect the underlying phenomena.
 
-Thus Maine’s ranking is partly a statistical artefact of its population alongside genuine community engagement with UFO reporting channels such as the National UFO Reporting Center (NUFORC). <span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
+Thus Maine’s ranking is partly a statistical artefact of its population alongside genuine community engagement with UFO reporting channels such as the National UFO Reporting Center (NUFORC).<span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2r0CHEKmYnA" title="Was that a UFO? Massive collection of reports and sightings finds a new home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2r0CHEKmYnA" target="_blank" rel="noopener noreferrer">Was that a UFO? Massive collection of reports and sightings finds a new home</a></p><p class="youtube-embed-meta">Channel: NEWS CENTER Maine &middot; Views: 926 &middot; Uploaded: July 2024 &middot; Length: 3 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2r0CHEKmYnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2r0CHEKmYnA">Open on YouTube</a></p></div></div></div>
 
@@ -272,8 +272,8 @@ Thus Maine’s ranking is partly a statistical artefact of its population alongs
 
 One factor frequently cited in coverage of Maine’s UFO report rate is its **environmental conditions**:
 
-* **Low light pollution:** Large rural areas and less urban development mean darker night skies, making unusual aerial lights easier to spot than in cities that suffer heavy light pollution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
-* **Coastal vantage points:** Maine’s long Atlantic coastline provides expansive sky views with minimal horizon obstructions, possibly increasing observer visibility of objects or light phenomena that might go unnoticed elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
+* **Low light pollution:** Large rural areas and less urban development mean darker night skies, making unusual aerial lights easier to spot than in cities that suffer heavy light pollution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
+* **Coastal vantage points:** Maine’s long Atlantic coastline provides expansive sky views with minimal horizon obstructions, possibly increasing observer visibility of objects or light phenomena that might go unnoticed elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
 
 These conditions alone don’t prove that unexplained aerial phenomena are objectively more common over Maine, but they *do* make the state a more conducive location for sky watching — and for noticing anything unusual against a dark, clear backdrop.
 
@@ -282,8 +282,8 @@ These conditions alone don’t prove that unexplained aerial phenomena are objec
 
 Beyond environmental visibility, the **people and reporting habits** in Maine seem to play a role in how many sightings get logged:
 
-* **Active local reporting:** Coverage by community news outlets and local awareness campaigns can encourage residents to submit reports when they see atypical lights or objects. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wabi.tv">[www.wabi.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wabi.tv</span><span class="citation-popover-title">are aliens stopping lobsters maine ranks top 5 ufo reports</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
-* **Prompting by local media:** Local stories about sightings sometimes spur others to report experiences they might otherwise dismiss or keep to themselves. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wabi.tv">[www.wabi.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wabi.tv</span><span class="citation-popover-title">are aliens stopping lobsters maine ranks top 5 ufo reports</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
+* **Active local reporting:** Coverage by community news outlets and local awareness campaigns can encourage residents to submit reports when they see atypical lights or objects. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wabi.tv">[www.wabi.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wabi.tv</span><span class="citation-popover-title">are aliens stopping lobsters maine ranks top 5 ufo reports</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
+* **Prompting by local media:** Local stories about sightings sometimes spur others to report experiences they might otherwise dismiss or keep to themselves. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wabi.tv">[www.wabi.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wabi.tv</span><span class="citation-popover-title">are aliens stopping lobsters maine ranks top 5 ufo reports</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
 
 This culture of responsiveness means that **Mainers may be more likely than people in some other states to file a report**, making the per‑capita totals reflect human behaviour as much as the sky phenomena that prompt those reports.
 
@@ -293,8 +293,8 @@ This culture of responsiveness means that **Mainers may be more likely than peop
 
 Interpreting why Maine ranks highly per resident also requires acknowledging the **limits of such comparisons**:
 
-* **Different reporting systems:** Data sources like NUFORC and the Mutual UFO Network (MUFON) rely on voluntary submissions, meaning reporting incentives and awareness vary across states and over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
-* **Temporal fluctuations:** Some years see spikes in reports (for example around widely noticed celestial events) while other years decline, affecting per‑capita calculations when short time frames are used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bangordailynews.com/2023/01/03/portland/maine-ufo-sightings-down-2022-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangordailynews.com">[Bangor Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangordailynews.com</span><span class="citation-popover-title">maine ufo sightings down 2022 joam40zk0w</span><span class="citation-popover-snippet">Bangor Daily News&#x27;Official&#x27; Maine UFO sightings fell again in 2022January 3, 2023...</span><span class="citation-popover-meta">Published: January 3, 2023</span></span></span>
+* **Different reporting systems:** Data sources like NUFORC and the Mutual UFO Network (MUFON) rely on voluntary submissions, meaning reporting incentives and awareness vary across states and over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+* **Temporal fluctuations:** Some years see spikes in reports (for example around widely noticed celestial events) while other years decline, affecting per‑capita calculations when short time frames are used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bangordailynews.com/2023/01/03/portland/maine-ufo-sightings-down-2022-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bangordailynews.com">[Bangor Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bangordailynews.com</span><span class="citation-popover-title">maine ufo sightings down 2022 joam40zk0w</span><span class="citation-popover-snippet">Bangor Daily News&#x27;Official&#x27; Maine UFO sightings fell again in 2022January 3, 2023...</span><span class="citation-popover-meta">Published: January 3, 2023</span></span></span>
 * **Unreported sightings:** Many sightings may never be filed with official databases — particularly in areas with less engagement or awareness — making comparisons between states inherently imperfect.
 
 For these reasons, researchers and journalists often caution against reading per‑capita rankings as simple evidence of “more UFOs” in one state over another. Instead, they reveal **where more people are talking to reporting centres relative to population size**, which can reflect a mix of environmental, social and cultural factors.
@@ -313,199 +313,199 @@ In essence, Maine’s high UFO reports per resident appear to stem from a combin
 
 </div>
 
-This mix suggests that Maine’s per‑capita ranking is as much about **how and why people in Maine report what they see** as it is about what might actually be in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
+This mix suggests that Maine’s per‑capita ranking is as much about **how and why people in Maine report what they see** as it is about what might actually be in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dKOqRPnmOz4" title="Unusual sightings in Maine skies spark curiosity among viewers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dKOqRPnmOz4" target="_blank" rel="noopener noreferrer">Unusual sightings in Maine skies spark curiosity among viewers</a></p><p class="youtube-embed-meta">Channel: NEWS CENTER Maine &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 1 minute 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dKOqRPnmOz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dKOqRPnmOz4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does Maine Report So Many UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does Maine Report So Many UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Adds perspective on how sightings are documented and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds perspective on how sightings are documented and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines reporting patterns and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reporting patterns and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Disney+Villains+by+Glenn+Dakin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Disney Villains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Qz6kAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Disney Villains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Disney+Villains+by+Glenn+Dakin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Disney Villains">Disney Villains</a>
-        </h4>
-        <p class="fr-book-author">By Glenn Dakin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Disney+Villains+by+Glenn+Dakin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Disney Villains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Qz6kAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Disney Villains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Disney+Villains+by+Glenn+Dakin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Disney Villains">Disney Villains</a>
+</h4>
+<p class="fr-book-author">By Glenn Dakin</p>
         
-        <p class="fr-book-desc">Useful for understanding why reports accumulate in certain regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Disney+Villains+by+Glenn+Dakin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why reports accumulate in certain regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Disney+Villains+by+Glenn+Dakin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Connects reporting trends with current public interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects reporting trends with current public interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Disney+Villains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Disney Villains</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Disney+Villains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Disney Villains</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO band Wall Art Decor Metal Sign"><img src="https://i.ebayimg.com/images/g/xBEAAeSwGFFqKoox/s-l225.jpg" alt="Listing image for UFO band Wall Art Decor Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO band Wall Art Decor Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pvwAAeSwPu1philS/s-l225.jpg" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor"><img src="https://i.ebayimg.com/images/g/XkIAAeSwTU5qFY7l/s-l225.jpg" alt="Listing image for Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-maine-report-so-many-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-maine-report-so-many-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ This mix suggests that Maine’s per‑capita ranking is as much about **how and
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ This mix suggests that Maine’s per‑capita ranking is as much about **how and
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ This mix suggests that Maine’s per‑capita ranking is as much about **how and
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ This mix suggests that Maine’s per‑capita ranking is as much about **how and
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ This mix suggests that Maine’s per‑capita ranking is as much about **how and
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,133 +711,133 @@ This mix suggests that Maine’s per‑capita ranking is as much about **how and
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wabi.tv  
    Title: are aliens stopping lobsters maine ranks top 5 ufo reports  
-   Link: <a href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wabi.tvAre](https://www.wabi.tvAre) aliens stopping for lobsters? Maine ranks in the top 5 for UFO reports in USJanuary 12, 2026...</p></details>
+   Link:<a href="https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.wabi.tv/2026/01/12/are-aliens-stopping-lobsters-maine-ranks-top-5-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wabi.tvAre](https://www.wabi.tvAre) aliens stopping for lobsters? Maine ranks in the top 5 for UFO reports in USJanuary 12, 2026...</p></details>
    Published: January 12, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Maine ranks in the top 5 for UFO reports in US  
-   Link: <a href="https://www.youtube.com/watch?v=Zie6YAxpH14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zie6YAxpH14</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maine ranks in the top 5 for most UFO sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Zie6YAxpH14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zie6YAxpH14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maine ranks in the top 5 for most UFO sightings...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: countryherald.com  
    Title: Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents  
-   Link: <a href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow">https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</p></details>
+   Link:<a href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow">https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country HeraldMarch 24, 2026...</p></details>
    Published: March 24, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bangordailynews.com  
    Title: maine ufo sightings down 2022 joam40zk0w  
-   Link: <a href="https://www.bangordailynews.com/2023/01/03/portland/maine-ufo-sightings-down-2022-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2023/01/03/portland/maine-ufo-sightings-down-2022-joam40zk0w/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bangor Daily News&#x27;Official&#x27; Maine UFO sightings fell again in 2022January 3, 2023...</p></details>
+   Link:<a href="https://www.bangordailynews.com/2023/01/03/portland/maine-ufo-sightings-down-2022-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2023/01/03/portland/maine-ufo-sightings-down-2022-joam40zk0w/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bangor Daily News&#x27;Official&#x27; Maine UFO sightings fell again in 2022January 3, 2023...</p></details>
    Published: January 3, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bangordailynews.com  
    Title: Maine UFO sightings sharply decline this year  
-   Link: <a href="https://www.bangordailynews.com/2021/11/01/news/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2021/11/01/news/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennett November 1, 2021October 31, 2021 iframe Image A satellite streaks across the sky over Buxton on Thurs...</p></details>
+   Link:<a href="https://www.bangordailynews.com/2021/11/01/news/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2021/11/01/news/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bennett November 1, 2021October 31, 2021 iframe Image A satellite streaks across the sky over Buxton on Thurs...</p></details>
    Published: November 1, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bangordailynews.com  
    Title: Maine UFO sightings sharply decline this year  
-   Link: <a href="https://www.bangordailynews.com/2021/11/01/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2021/11/01/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennett November 1, 2021 Image A satellite streaks across the sky over Buxton on Thursday night Oct. 28, 2021. Reported...</p></details>
+   Link:<a href="https://www.bangordailynews.com/2021/11/01/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2021/11/01/portland/maine-ufo-sightings-sharply-decline-this-year-joam40zk0w/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bennett November 1, 2021 Image A satellite streaks across the sky over Buxton on Thursday night Oct. 28, 2021. Reported...</p></details>
    Published: November 1, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bangordailynews.com  
    Title: Maine is a UFO hotspot, newly declassified docs say  
-   Link: <a href="https://www.bangordailynews.com/2021/02/04/news/maine-is-a-ufo-hotspot-newly-declassified-docs-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2021/02/04/news/maine-is-a-ufo-hotspot-newly-declassified-docs-say/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennett February 4, 2021 Updated February 5, 2021 iframe Image The comet NEOWISE streaks across the Maine s...</p></details>
+   Link:<a href="https://www.bangordailynews.com/2021/02/04/news/maine-is-a-ufo-hotspot-newly-declassified-docs-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.bangordailynews.com/2021/02/04/news/maine-is-a-ufo-hotspot-newly-declassified-docs-say/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bennett February 4, 2021 Updated February 5, 2021 iframe Image The comet NEOWISE streaks across the Maine s...</p></details>
    Published: February 4, 2021  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — An environmental analysis of public UAP sightings and sky view potential Download PDF Download PDF * Article * Open a...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — An environmental analysis of public UAP sightings and sky view potential Download PDF Download PDF * Article * Open a...</p></details>
    Published: December 14, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: singularfortean.com  
    Title: NUFOR C UFO Data Compiled in Honor of World UFO Day — A Singular Fortean  
-   Link: <a href="https://www.singularfortean.com/news/2019/7/2/nuforc-ufo-data-compiled-in-honor-of-world-ufo-day" target="_blank" rel="noopener noreferrer nofollow">https://www.singularfortean.com/news/2019/7/2/nuforc-ufo-data-compiled-in-honor-of-world-ufo-day</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data Compiled in Honor of World UFO Day — A Singular ForteanJuly 2, 2019 — NUFORC UFO DATA COMPILED IN HONOR OF WORLD UFO DAY...</p></details>
+   Link:<a href="https://www.singularfortean.com/news/2019/7/2/nuforc-ufo-data-compiled-in-honor-of-world-ufo-day" target="_blank" rel="noopener noreferrer nofollow">https://www.singularfortean.com/news/2019/7/2/nuforc-ufo-data-compiled-in-honor-of-world-ufo-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data Compiled in Honor of World UFO Day — A Singular ForteanJuly 2, 2019 — NUFORC UFO DATA COMPILED IN HONOR OF WORLD UFO DAY...</p></details>
    Published: July 2, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theblaze.com  
    Title: Want to Know How Many UFO Sightings Per Capita Your County Has?  
-   Link: <a href="https://www.theblaze.com/news/2015/04/07/want-to-know-how-many-ufo-sightings-per-capita-your-county-has-find-out-with-this-interactive-map" target="_blank" rel="noopener noreferrer nofollow">https://www.theblaze.com/news/2015/04/07/want-to-know-how-many-ufo-sightings-per-capita-your-county-has-find-out-with-this-interactive-map</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Out With This Interactive Map | Blaze MediaApril 7, 2015 — Image: Want to Know How Many UFO Sightings Per Capita Your County Has? Fi...</p></details>
+   Link:<a href="https://www.theblaze.com/news/2015/04/07/want-to-know-how-many-ufo-sightings-per-capita-your-county-has-find-out-with-this-interactive-map" target="_blank" rel="noopener noreferrer nofollow">https://www.theblaze.com/news/2015/04/07/want-to-know-how-many-ufo-sightings-per-capita-your-county-has-find-out-with-this-interactive-map</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find Out With This Interactive Map | Blaze MediaApril 7, 2015 — Image: Want to Know How Many UFO Sightings Per Capita Your County Has? Fi...</p></details>
    Published: April 7, 2015  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wmtw.com  
    Title: Maine one of states with most UFO sightings, analysis finds  
-   Link: <a href="https://www.wmtw.com/article/maine-one-of-best-states-to-spot-a-ufo-analysis-finds/28193590" target="_blank" rel="noopener noreferrer nofollow">https://www.wmtw.com/article/maine-one-of-best-states-to-spot-a-ufo-analysis-finds/28193590</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2019 — MAINE ONE OF STATES WITH MOST UFO SIGHTINGS, ANALYSIS FINDS Nearly 1,000 UFO sightings were reported in Maine last year...</p></details>
+   Link:<a href="https://www.wmtw.com/article/maine-one-of-best-states-to-spot-a-ufo-analysis-finds/28193590" target="_blank" rel="noopener noreferrer nofollow">https://www.wmtw.com/article/maine-one-of-best-states-to-spot-a-ufo-analysis-finds/28193590</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2019 — MAINE ONE OF STATES WITH MOST UFO SIGHTINGS, ANALYSIS FINDS Nearly 1,000 UFO sightings were reported in Maine last year...</p></details>
    Published: June 26, 2019  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wjbq.com  
    Title: The 26 Maine Towns With the Most Reported UFO Sightings  
-   Link: <a href="https://wjbq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wjbq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 28, 2024 — Image: The 26 Maine Towns With the Most Reported UFO Sightings THE 26 MAINE TOWNS WITH THE MOST REPORTED UFO SIGHTINGS J...</p></details>
+   Link:<a href="https://wjbq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wjbq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 28, 2024 — Image: The 26 Maine Towns With the Most Reported UFO Sightings THE 26 MAINE TOWNS WITH THE MOST REPORTED UFO SIGHTINGS J...</p></details>
    Published: April 28, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Maine | Stacker  
-   Link: <a href="https://stacker.com/stories/maine/cities-most-ufo-sightings-maine" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/maine/cities-most-ufo-sightings-maine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN MAINE Written by: Stacker May 12, 2025 IgorZh // Shutterstock [Button: Publish this...</p></details>
+   Link:<a href="https://stacker.com/stories/maine/cities-most-ufo-sightings-maine" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/maine/cities-most-ufo-sightings-maine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN MAINE Written by: Stacker May 12, 2025 IgorZh // Shutterstock [Button: Publish this...</p></details>
    Published: May 12, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: boston.com  
    Title: Michael Mc Cormack / IPTimelapse By Dialynn Dwye  
-   Link: <a href="https://www.boston.com/news/local-news/2021/02/04/maine-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/news/local-news/2021/02/04/maine-ufo-hotspot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report: Maine is a hotspot for reports of UFO sightingsFebruary 4, 2021 — REPORT: MAINE IS A HOTSPOT FOR REPORTS OF UFO SIGHTINGS “THE NU...</p></details>
+   Link:<a href="https://www.boston.com/news/local-news/2021/02/04/maine-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/news/local-news/2021/02/04/maine-ufo-hotspot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report: Maine is a hotspot for reports of UFO sightingsFebruary 4, 2021 — REPORT: MAINE IS A HOTSPOT FOR REPORTS OF UFO SIGHTINGS “THE NU...</p></details>
    Published: February 4, 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: 1019therock.com  
    Title: maine ufos reported sightings 2024  
-   Link: <a href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow">https://1019therock.com/maine-ufos-reported-sightings-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024 — THERE WERE 30 UFO SIGHTINGS IN 2024, AND HERE’S WHERE THEY WER...</p></details>
+   Link:<a href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow">https://1019therock.com/maine-ufos-reported-sightings-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024 — THERE WERE 30 UFO SIGHTINGS IN 2024, AND HERE’S WHERE THEY WER...</p></details>
    Published: December 10, 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: workingwaterfrontarchives.org  
    Title: Is Maine a hotbed of UFO activity?  
-   Link: <a href="https://www.workingwaterfrontarchives.org/2014/09/29/is-maine-a-hotbed-of-ufo-activity/" target="_blank" rel="noopener noreferrer nofollow">https://www.workingwaterfrontarchives.org/2014/09/29/is-maine-a-hotbed-of-ufo-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Working Waterfront ArchivesSeptember 29, 2014 — IS MAINE A HOTBED OF UFO ACTIVITY? THE NUMBERS SAY OTHERWISE, BUT DON&#x27;T DISCOUNT THE...</p></details>
+   Link:<a href="https://www.workingwaterfrontarchives.org/2014/09/29/is-maine-a-hotbed-of-ufo-activity/" target="_blank" rel="noopener noreferrer nofollow">https://www.workingwaterfrontarchives.org/2014/09/29/is-maine-a-hotbed-of-ufo-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Working Waterfront ArchivesSeptember 29, 2014 — IS MAINE A HOTBED OF UFO ACTIVITY? THE NUMBERS SAY OTHERWISE, BUT DON&#x27;T DISCOUNT THE...</p></details>
    Published: September 29, 2014  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pressherald.com  
    Title: More visitors from away?  
-   Link: <a href="https://www.pressherald.com/2019/06/26/more-visitors-from-away-maine-is-great-for-ufo-spotting/" target="_blank" rel="noopener noreferrer nofollow">https://www.pressherald.com/2019/06/26/more-visitors-from-away-maine-is-great-for-ufo-spotting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maine is great for UFO spottingJune 26, 2019 — MORE VISITORS FROM AWAY? MAINE IS GREAT FOR UFO SPOTTING SatelliteInternet.com says Maine’...</p></details>
+   Link:<a href="https://www.pressherald.com/2019/06/26/more-visitors-from-away-maine-is-great-for-ufo-spotting/" target="_blank" rel="noopener noreferrer nofollow">https://www.pressherald.com/2019/06/26/more-visitors-from-away-maine-is-great-for-ufo-spotting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maine is great for UFO spottingJune 26, 2019 — MORE VISITORS FROM AWAY? MAINE IS GREAT FOR UFO SPOTTING SatelliteInternet.com says Maine’...</p></details>
    Published: June 26, 2019

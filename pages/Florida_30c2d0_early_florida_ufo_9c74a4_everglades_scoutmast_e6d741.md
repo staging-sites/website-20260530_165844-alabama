@@ -250,35 +250,35 @@ image: /assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutma
 
 ## Introduction
 
-On the humid night of **19 August 1952**, a curious and controversial UFO encounter took place near **West Palm Beach, Florida**, when Scoutmaster D. S. “Sonny” **DesVergers** returned from the Everglades with burns and an extraordinary story that drew the attention of the U.S. Air Force’s **Project Blue Book**. Unlike many mere sighting reports, this incident included **physical effects**, multiple witnesses and a formal investigation — but also **deep doubts** about the reliability of the account. This episode sits among the most debated pre‑[Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}) UFO cases in Florida's mid‑century record because it was treated seriously by officials, yet later cast in sceptical terms by the investigator in charge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+On the humid night of **19 August 1952**, a curious and controversial UFO encounter took place near **West Palm Beach, Florida**, when Scoutmaster D. S. “Sonny” **DesVergers** returned from the Everglades with burns and an extraordinary story that drew the attention of the U.S. Air Force’s **Project Blue Book**. Unlike many mere sighting reports, this incident included **physical effects**, multiple witnesses and a formal investigation — but also **deep doubts** about the reliability of the account. This episode sits among the most debated pre‑[Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}) UFO cases in Florida's mid‑century record because it was treated seriously by officials, yet later cast in sceptical terms by the investigator in charge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-1-dark.svg" | relative_url }}" alt="Scoutmaster case illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Night Near Military Trail
 
-On the evening of 19 August 1952, DesVergers, then a 30‑year‑old hardware‑store clerk and Boy Scout leader, was driving three scouts home from a meeting along **Military Trail** when he noticed a bright light descending into dense palmetto thickets beside the road. Believing there might be a fire or crash, he stopped the car and, telling the boys to wait, walked into the undergrowth with flashlights to investigate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+On the evening of 19 August 1952, DesVergers, then a 30‑year‑old hardware‑store clerk and Boy Scout leader, was driving three scouts home from a meeting along **Military Trail** when he noticed a bright light descending into dense palmetto thickets beside the road. Believing there might be a fire or crash, he stopped the car and, telling the boys to wait, walked into the undergrowth with flashlights to investigate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-According to DesVergers, he encountered an **unidentified object** hovering amid the brush and was soon enveloped by a “red mist” or flare‑like light that approached him before knocking him unconscious. When he later regained his senses, he found himself leaning against a tree with his **eyes burning** and his clothing and skin showing signs of burns. About an hour later he emerged from the palmettos, disoriented and frightened, carrying a machete and barely able to speak. Local law enforcement officers later testified to his distressed state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+According to DesVergers, he encountered an **unidentified object** hovering amid the brush and was soon enveloped by a “red mist” or flare‑like light that approached him before knocking him unconscious. When he later regained his senses, he found himself leaning against a tree with his **eyes burning** and his clothing and skin showing signs of burns. About an hour later he emerged from the palmettos, disoriented and frightened, carrying a machete and barely able to speak. Local law enforcement officers later testified to his distressed state.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-Meanwhile, the three scouts — **Bobby Ruffing**, **David Rowan** and **Chuck Stevens** — remained in the car. They later told investigators they saw lights in the brush and, at one point, DesVergers’s flashlight beam before everything went dark. They ran to a nearby farmhouse for help, which ultimately brought sheriff’s deputies to the scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Meanwhile, the three scouts — **Bobby Ruffing**, **David Rowan** and **Chuck Stevens** — remained in the car. They later told investigators they saw lights in the brush and, at one point, DesVergers’s flashlight beam before everything went dark. They ran to a nearby farmhouse for help, which ultimately brought sheriff’s deputies to the scene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-Fmax00XbA" title="The Report on UFO [Audiobook part 1] by Edward J. Ruppelt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-Fmax00XbA" target="_blank" rel="noopener noreferrer">The Report on UFO [Audiobook part 1] by Edward J. Ruppelt</a></p><p class="youtube-embed-meta">Channel: English Audio Books &middot; Views: 124.0K &middot; Uploaded: July 2017 &middot; Length: 8 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-Fmax00XbA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-Fmax00XbA">Open on YouTube</a></p></div></div></div>
 
 ## Physical Traces and the Blue Book Investigation
 
-The most striking aspect of the scoutmaster case, and part of what kept it on Project Blue Book’s docket, was its **physical trace evidence**. After hearing the report, Air Force investigators led by Captain **Edward J. Ruppelt** — the first director of Blue Book — travelled to West Palm Beach to interview the witnesses and examine the site. They collected **soil and grass samples** from a small clearing where DesVergers said he encountered the object, and they photographed and documented the surrounding area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+The most striking aspect of the scoutmaster case, and part of what kept it on Project Blue Book’s docket, was its **physical trace evidence**. After hearing the report, Air Force investigators led by Captain **Edward J. Ruppelt** — the first director of Blue Book — travelled to West Palm Beach to interview the witnesses and examine the site. They collected **soil and grass samples** from a small clearing where DesVergers said he encountered the object, and they photographed and documented the surrounding area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-Back at the sheriff’s office, officers noted singed hair, mild burns on DesVergers’s arms and face, and **tiny burn holes** in the bill of his cap. Later laboratory work — including an FBI examination of the cap and agronomy studies of the grass roots — reportedly found charred plant roots and suggested that the scorch marks were not easily attributable to ordinary swamp fires or natural causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/scoutmaster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span><span class="citation-popover-snippet">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span></span></span>
+Back at the sheriff’s office, officers noted singed hair, mild burns on DesVergers’s arms and face, and **tiny burn holes** in the bill of his cap. Later laboratory work — including an FBI examination of the cap and agronomy studies of the grass roots — reportedly found charred plant roots and suggested that the scorch marks were not easily attributable to ordinary swamp fires or natural causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/scoutmaster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span><span class="citation-popover-snippet">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span></span></span>
 
-Still, these traces were ambiguous. The FBI lab noted no identifiable residue in the cap’s burn holes, and analyses of the vegetation did not conclusively point to any airborne craft or exotic energy source. While some Blue Book files speculated about induction heating or ozone production as theoretical mechanisms, none amounted to a firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohelp.com">[UFO Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohelp.com</span><span class="citation-popover-title">UFO Help Florida Scoutmaster</span><span class="citation-popover-snippet">UFO HelpFlorida ScoutmasterAugust 19, 1952...</span><span class="citation-popover-meta">Published: August 19, 1952</span></span></span>
+Still, these traces were ambiguous. The FBI lab noted no identifiable residue in the cap’s burn holes, and analyses of the vegetation did not conclusively point to any airborne craft or exotic energy source. While some Blue Book files speculated about induction heating or ozone production as theoretical mechanisms, none amounted to a firm conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohelp.com">[UFO Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohelp.com</span><span class="citation-popover-title">UFO Help Florida Scoutmaster</span><span class="citation-popover-snippet">UFO HelpFlorida ScoutmasterAugust 19, 1952...</span><span class="citation-popover-meta">Published: August 19, 1952</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-2-dark.svg" | relative_url }}" alt="Scoutmaster case illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hoax Claims, Misidentification and Unresolved Questions
 
-Despite the physical evidence, Ruppelt’s ultimate assessment of the case was sceptical. In his 1956 book **The Report on Unidentified Flying Objects**, he described the scoutmaster encounter as perhaps “**the best hoax in UFO history**,” noting that after background checks, DesVergers had some troubling personal history and that the Boy Scouts could not have seen what he claimed from their distant vantage point in the thick brush. Ruppelt’s investigators suggested the possibility that the entire episode was a fabrication or misinterpretation rather than evidence of extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Despite the physical evidence, Ruppelt’s ultimate assessment of the case was sceptical. In his 1956 book **The Report on Unidentified Flying Objects**, he described the scoutmaster encounter as perhaps “**the best hoax in UFO history**,” noting that after background checks, DesVergers had some troubling personal history and that the Boy Scouts could not have seen what he claimed from their distant vantage point in the thick brush. Ruppelt’s investigators suggested the possibility that the entire episode was a fabrication or misinterpretation rather than evidence of extraterrestrial contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-Critics and sceptics of the DesVergers narrative also point to the lack of corroborative physical evidence beyond the burns and scorch marks, and the fact that later media accounts and fictionalised portrayals — including in modern television dramatizations — have blurred the line between documented investigation and storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meaww.com">[Meaww]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meaww.com</span><span class="citation-popover-snippet">Meaww&#x27;Project Blue Book&#x27; Season 1 Episode 7: The strange story of a scoutmaster who was attacked by a UFOFebruary 17, 2019...</span><span class="citation-popover-meta">Published: February 17, 2019</span></span></span>
+Critics and sceptics of the DesVergers narrative also point to the lack of corroborative physical evidence beyond the burns and scorch marks, and the fact that later media accounts and fictionalised portrayals — including in modern television dramatizations — have blurred the line between documented investigation and storytelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meaww.com">[Meaww]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meaww.com</span><span class="citation-popover-snippet">Meaww&#x27;Project Blue Book&#x27; Season 1 Episode 7: The strange story of a scoutmaster who was attacked by a UFOFebruary 17, 2019...</span><span class="citation-popover-meta">Published: February 17, 2019</span></span></span>
 
-Yet some researchers and enthusiasts argue that the case’s **multiple eyewitness accounts**, the **physical effects**, and the very fact Blue Book officials took samples and testimonies seriously distinguish it from run‑of‑the‑mill sightings. While not accepted as definitive proof of alien visitation, the scoutmaster incident remains a **curious anomaly** in Florida’s UFO history — neither fully explained nor convincingly debunked — and continues to be cited in discussions of early ground‑evidence encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/scoutmaster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span><span class="citation-popover-snippet">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span></span></span>
+Yet some researchers and enthusiasts argue that the case’s **multiple eyewitness accounts**, the **physical effects**, and the very fact Blue Book officials took samples and testimonies seriously distinguish it from run‑of‑the‑mill sightings. While not accepted as definitive proof of alien visitation, the scoutmaster incident remains a **curious anomaly** in Florida’s UFO history — neither fully explained nor convincingly debunked — and continues to be cited in discussions of early ground‑evidence encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/scoutmaster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span><span class="citation-popover-snippet">UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_RVakG3uYEk" title="Florida men recall UFO close encounter 50 years ago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_RVakG3uYEk" target="_blank" rel="noopener noreferrer">Florida men recall UFO close encounter 50 years ago</a></p><p class="youtube-embed-meta">Channel: FOX 4 Now &middot; Views: 56.9K &middot; Uploaded: February 2016 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_RVakG3uYEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_RVakG3uYEk">Open on YouTube</a></p></div></div></div>
 
@@ -291,194 +291,194 @@ The DesVergers case predates the more famous Gulf Breeze sightings by more than 
 <img src="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-3-dark.svg" | relative_url }}" alt="Scoutmaster case illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_early_florida_ufo_9c74a4_everglades_scoutmast_e6d741-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What really happened to the burned scoutmaster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What really happened to the burned scoutmaster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Ruppelt personally investigated the DesVergers incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ruppelt personally investigated the DesVergers incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for assessing physical-trace cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for assessing physical-trace cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official handling of controversial UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official handling of controversial UFO incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains summaries of important historical encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains summaries of important historical encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-burned-scoutmaster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-to-the-burned-scoutmaster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -494,7 +494,7 @@ The DesVergers case predates the more famous Gulf Breeze sightings by more than 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -514,7 +514,7 @@ The DesVergers case predates the more famous Gulf Breeze sightings by more than 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -546,7 +546,7 @@ The DesVergers case predates the more famous Gulf Breeze sightings by more than 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -598,7 +598,7 @@ The DesVergers case predates the more famous Gulf Breeze sightings by more than 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -643,7 +643,7 @@ The DesVergers case predates the more famous Gulf Breeze sightings by more than 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -684,68 +684,68 @@ The DesVergers case predates the more famous Gulf Breeze sightings by more than 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: ufo encounter florida desvergers scoutmaster burned  
-   Link: <a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. | HISTORYAugust 23, 2018...</p></details>
+   Link:<a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. | HISTORYAugust 23, 2018...</p></details>
    Published: August 23, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: meaww.com  
-   Link: <a href="https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings" target="_blank" rel="noopener noreferrer nofollow">https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaww&#x27;Project Blue Book&#x27; Season 1 Episode 7: The strange story of a scoutmaster who was attacked by a UFOFebruary 17, 2019...</p></details>
+   Link:<a href="https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings" target="_blank" rel="noopener noreferrer nofollow">https://meaww.com/project-blue-book-season-1-episode-7-the-true-incident-of-the-scoutmaster-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meaww&#x27;Project Blue Book&#x27; Season 1 Episode 7: The strange story of a scoutmaster who was attacked by a UFOFebruary 17, 2019...</p></details>
    Published: February 17, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufocasebook.com  
    Title: UFO Casebook UFO Physical Trace Cases, Florida Scoutmaster  
-   Link: <a href="https://www.ufocasebook.com/scoutmaster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/scoutmaster.html</a>  
+   Link:<a href="https://www.ufocasebook.com/scoutmaster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/scoutmaster.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufohelp.com  
    Title: UFO Help Florida Scoutmaster  
-   Link: <a href="https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HelpFlorida ScoutmasterAugust 19, 1952...</p></details>
+   Link:<a href="https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HelpFlorida ScoutmasterAugust 19, 1952...</p></details>
    Published: August 19, 1952  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Project Blue Book: The Government's Failed War on Flying Saucers  
-   Link: <a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on UFO [Audiobook part 1] by Edward J. Ruppelt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on UFO [Audiobook part 1] by Edward J. Ruppelt...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Florida men recall UFO close encounter 50 years ago  
-   Link: <a href="https://www.youtube.com/watch?v=_RVakG3uYEk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_RVakG3uYEk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Government&#x27;s Failed War on Flying Saucers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_RVakG3uYEk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_RVakG3uYEk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Government&#x27;s Failed War on Flying Saucers...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Report on UFO [Audiobook part 1] by Edward J. Ruppelt  
-   Link: <a href="https://www.youtube.com/watch?v=O-Fmax00XbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O-Fmax00XbA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O-Fmax00XbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O-Fmax00XbA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aiptcomics.com  
-   Link: <a href="https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/</a>  
+   Link:<a href="https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: UFO attack or hoax?  
-   Link: <a href="https://www.youtube.com/watch?v=lJxSHj_wGlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lJxSHj_wGlY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida men recall UFO close encounter 50 years ago...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lJxSHj_wGlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lJxSHj_wGlY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Florida men recall UFO close encounter 50 years ago...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iccra.org  
    Title: ICCRA FL West Palm Beach, Palm Beach County (August 19, 1952)  
-   Link: <a href="https://iccra.org/bystate/Florida/ICCRA%20-%20FL%20-%20West%20Palm%20Beach%2C%20Palm%20Beach%20County%20%28August%2019%2C%201952%29.htm" target="_blank" rel="noopener noreferrer nofollow">https://iccra.org/bystate/Florida/ICCRA%20-%20FL%20-%20West%20Palm%20Beach%2C%20Palm%20Beach%20County%20%28August%2019%2C%201952%29.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FL - West Palm Beach, Palm Beach County (August 19, 1952)...</p></details>
+   Link:<a href="https://iccra.org/bystate/Florida/ICCRA%20-%20FL%20-%20West%20Palm%20Beach%2C%20Palm%20Beach%20County%20%28August%2019%2C%201952%29.htm" target="_blank" rel="noopener noreferrer nofollow">https://iccra.org/bystate/Florida/ICCRA%20-%20FL%20-%20West%20Palm%20Beach%2C%20Palm%20Beach%20County%20%28August%2019%2C%201952%29.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FL - West Palm Beach, Palm Beach County (August 19, 1952)...</p></details>
    Published: August 19, 1952  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>
+   Link:<a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>

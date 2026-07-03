@@ -250,26 +250,26 @@ image: /assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9_fort_smith_196
 
 ## Introduction
 
-In the summer of 1966, northwest Arkansas briefly became a focal point for one of the more widely reported mass sightings in the historical record of U.S. Air Force UFO investigations. On the night of **16 August 1966**, large numbers of residents in and around **Fort Smith, Arkansas** reported seeing unusual lights in the sky. Those reports were formally recorded and forwarded to **Project [Blue Book]({{ 'blue-book/' | relative_url }})**, the U.S. Air Force’s official UFO investigation programme, and the resulting file offers one of the few state-level records with both crowd‑scale witness reports and an Air Force investigative trail. What the surviving documents show is a sighting that drew significant local attention and official interest, but which ultimately resisted firm identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+In the summer of 1966, northwest Arkansas briefly became a focal point for one of the more widely reported mass sightings in the historical record of U.S. Air Force UFO investigations. On the night of **16 August 1966**, large numbers of residents in and around **Fort Smith, Arkansas** reported seeing unusual lights in the sky. Those reports were formally recorded and forwarded to **Project [Blue Book]({{ 'blue-book/' | relative_url }})**, the U.S. Air Force’s official UFO investigation programme, and the resulting file offers one of the few state-level records with both crowd‑scale witness reports and an Air Force investigative trail. What the surviving documents show is a sighting that drew significant local attention and official interest, but which ultimately resisted firm identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
 <img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9_fort_smith_1966_ufo_9149d5-Illustration-1-dark.svg" | relative_url }}" alt="Fort Smith Case illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9_fort_smith_1966_ufo_9149d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9_fort_smith_1966_ufo_9149d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Eyewitness Accounts and Crowd Scale
 
-The Fort Smith case is striking first for the number of people said to have observed it. According to contemporary reports and the Project [Blue Book file]({{ 'blue-book-file/' | relative_url }}), **up to about 1,500 people** in the Fort Smith area were estimated to have watched the lights on the night in question. News clippings and witness recollections cited in the Air Force documentation repeatedly note crowds of observers, with local radio and television coverage prompting many to step outside and look skyward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katv.com">[KATV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katv.com</span><span class="citation-popover-snippet">Air Force&#x27;s investigation into UFO phenomena, as many as 1,500 people in Fort Smith saw the UFO.Read more...</span></span></span>
+The Fort Smith case is striking first for the number of people said to have observed it. According to contemporary reports and the Project [Blue Book file]({{ 'blue-book-file/' | relative_url }}), **up to about 1,500 people** in the Fort Smith area were estimated to have watched the lights on the night in question. News clippings and witness recollections cited in the Air Force documentation repeatedly note crowds of observers, with local radio and television coverage prompting many to step outside and look skyward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katv.com">[KATV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katv.com</span><span class="citation-popover-snippet">Air Force&#x27;s investigation into UFO phenomena, as many as 1,500 people in Fort Smith saw the UFO.Read more...</span></span></span>
 
-The primary record in the Blue Book file includes recorded witness descriptions and notes on the scale of the event. These accounts describe **groups of coloured lights — red, green and white — in the sky over Fort Smith**, observed from the ground and in some cases through **binoculars**. One Fort Smith police officer, Sergeant J. W. Gilbreth, contributed a direct observational description of **four red lights arranged like the points of a square**, with additional coloured lights moving in straight lines between them. The report emphasised that the observers saw *lights*, not discernible solid craft, and noted the absence of sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+The primary record in the Blue Book file includes recorded witness descriptions and notes on the scale of the event. These accounts describe **groups of coloured lights — red, green and white — in the sky over Fort Smith**, observed from the ground and in some cases through **binoculars**. One Fort Smith police officer, Sergeant J. W. Gilbreth, contributed a direct observational description of **four red lights arranged like the points of a square**, with additional coloured lights moving in straight lines between them. The report emphasised that the observers saw *lights*, not discernible solid craft, and noted the absence of sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
-The Blue Book file itself stressed the difficulty of a more detailed evidential record because of the **large number of observers**. Investigators opted to interview only a few representatives, noting that their descriptions broadly coincided with the majority. This stands as a reminder that crowd‑wide reports in popular lore can outpace the ability of official teams to capture individual testimony with forensic detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+The Blue Book file itself stressed the difficulty of a more detailed evidential record because of the **large number of observers**. Investigators opted to interview only a few representatives, noting that their descriptions broadly coincided with the majority. This stands as a reminder that crowd‑wide reports in popular lore can outpace the ability of official teams to capture individual testimony with forensic detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4-MbGYAv7Cg" title="Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer">Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 333.6K &middot; Uploaded: September 2013 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4-MbGYAv7Cg">Open on YouTube</a></p></div></div></div>
 
 ## Air Force Investigative Steps and Radar Checks
 
-Once local authorities and observers communicated the event to the Air Force, standard Blue Book investigative procedures were set in motion. Much of what survives in the Fort Smith case file is procedural: internal Federal records, written reports forwarded from bases, and annotations summarising checks undertaken. The Air Force noted that **weather was clear**, that no unusual atmospheric conditions were recorded, and that **official radar systems in the region — such as the [Texarkana]({{ 'texarkana/' | relative_url }}) radar — reportedly did not detect anomalous targets** associated with the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localtvkfsm.files.wordpress.com">[Local TV KFSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localtvkfsm.files.wordpress.com</span><span class="citation-popover-snippet">Local TV KFSMproject 10073 record1 Jan 2015 — UFO Sightings. •. FTD. •. •. •. •. •. • •. •. 1. The following conforms to... 16 sig~~i::l...</span></span></span>
+Once local authorities and observers communicated the event to the Air Force, standard Blue Book investigative procedures were set in motion. Much of what survives in the Fort Smith case file is procedural: internal Federal records, written reports forwarded from bases, and annotations summarising checks undertaken. The Air Force noted that **weather was clear**, that no unusual atmospheric conditions were recorded, and that **official radar systems in the region — such as the [Texarkana]({{ 'texarkana/' | relative_url }}) radar — reportedly did not detect anomalous targets** associated with the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localtvkfsm.files.wordpress.com">[Local TV KFSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localtvkfsm.files.wordpress.com</span><span class="citation-popover-snippet">Local TV KFSMproject 10073 record1 Jan 2015 — UFO Sightings. •. FTD. •. •. •. •. •. • •. •. 1. The following conforms to... 16 sig~~i::l...</span></span></span>
 
-The formal Air Force response included communication between Little Rock Air Force Base and line officers on the ground. Recording tapes and news clippings referenced in the official packet supplemented the core sighting reports. There was **no evidence of military aircraft in pursuit or direct engagement with the objects**, and military personnel were *not* part of the observed group — the sightings were purely civilian reports relayed upwards by local authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+The formal Air Force response included communication between Little Rock Air Force Base and line officers on the ground. Recording tapes and news clippings referenced in the official packet supplemented the core sighting reports. There was **no evidence of military aircraft in pursuit or direct engagement with the objects**, and military personnel were *not* part of the observed group — the sightings were purely civilian reports relayed upwards by local authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
-Project Blue Book’s broader methods at the time generally involved assessing witness reports, looking for correlations with known aircraft movements, astronomical bodies, or radar data, and attempting to find conventional explanations. By 1966, the programme was under external scrutiny, with academic channels (such as an independent study conducted by the University of Colorado under contract later that year) being brought in to review its methods and findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fordlibrarymuseum.gov">[Ford Library Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fordlibrarymuseum.gov</span><span class="citation-popover-snippet">Ford Library MuseumFord Press Releases - UFO, 1966January 12, 2015 — Air Force Projeqt Blue Book files, as well as any other UFO informat...</span><span class="citation-popover-meta">Published: January 12, 2015</span></span></span>
+Project Blue Book’s broader methods at the time generally involved assessing witness reports, looking for correlations with known aircraft movements, astronomical bodies, or radar data, and attempting to find conventional explanations. By 1966, the programme was under external scrutiny, with academic channels (such as an independent study conducted by the University of Colorado under contract later that year) being brought in to review its methods and findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fordlibrarymuseum.gov">[Ford Library Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fordlibrarymuseum.gov</span><span class="citation-popover-snippet">Ford Library MuseumFord Press Releases - UFO, 1966January 12, 2015 — Air Force Projeqt Blue Book files, as well as any other UFO informat...</span><span class="citation-popover-meta">Published: January 12, 2015</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_gfj_UK0Po" title="UFO Eyewitness Interviews from &quot;Attack from Outer Space&quot; (1978) Fort Smith Arkansas 1966 Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_gfj_UK0Po" target="_blank" rel="noopener noreferrer">UFO Eyewitness Interviews from &quot;Attack from Outer Space&quot; (1978) Fort Smith Arkansas 1966 Sightings</a></p><p class="youtube-embed-meta">Channel: Space.Trucks &middot; Views: 17 &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_gfj_UK0Po" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_gfj_UK0Po">Open on YouTube</a></p></div></div></div>
 
@@ -278,205 +278,205 @@ Project Blue Book’s broader methods at the time generally involved assessing w
 <img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9_fort_smith_1966_ufo_9149d5-Illustration-2-dark.svg" | relative_url }}" alt="Fort Smith Case illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9_fort_smith_1966_ufo_9149d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9_fort_smith_1966_ufo_9149d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Conclusions, Evidence Limits and Legacy
 
-The documentation from the Fort Smith case, like many [Blue Book files]({{ 'blue-book-file/' | relative_url }}), illustrates the constraints of military UFO investigations of the period. Project Blue Book’s own fact sheet emphasises that although **701 of over 12,000 cases remained categorised as “unidentified,”** none provided evidence of technology beyond known scientific knowledge or posed a threat to national security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+The documentation from the Fort Smith case, like many [Blue Book files]({{ 'blue-book-file/' | relative_url }}), illustrates the constraints of military UFO investigations of the period. Project Blue Book’s own fact sheet emphasises that although **701 of over 12,000 cases remained categorised as “unidentified,”** none provided evidence of technology beyond known scientific knowledge or posed a threat to national security.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
-In the specific Fort Smith file, the investigation did not result in a definitive identification. Rather, records point to a cluster of **lights in the night sky**, widely observed but not corroborated by radar or other instrumental data. No physical craft, propulsion, or geometric structure was confirmed; nor did the Air Force suggest an extraterrestrial origin. The absence of detailed interviews beyond a few witnesses, and the reliance on second‑hand local media reports, further limited what Blue Book could assert. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+In the specific Fort Smith file, the investigation did not result in a definitive identification. Rather, records point to a cluster of **lights in the night sky**, widely observed but not corroborated by radar or other instrumental data. No physical craft, propulsion, or geometric structure was confirmed; nor did the Air Force suggest an extraterrestrial origin. The absence of detailed interviews beyond a few witnesses, and the reliance on second‑hand local media reports, further limited what Blue Book could assert.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
-Later commentators — including Arkansas UFO researchers and local media retrospectives — have cited the 1966 Fort Smith event as one of the more compelling mass sightings in the state’s lore, and it continues to be mentioned in modern discussions about historical UFO reports. However, those accounts typically emphasise the **volume of observers and the vividness of the local experience**, rather than the confirmation of an unexplained craft or phenomenon in physical terms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katv.com">[KATV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katv.com</span><span class="citation-popover-snippet">Air Force&#x27;s investigation into UFO phenomena, as many as 1,500 people in Fort Smith saw the UFO.Read more...</span></span></span>
+Later commentators — including Arkansas UFO researchers and local media retrospectives — have cited the 1966 Fort Smith event as one of the more compelling mass sightings in the state’s lore, and it continues to be mentioned in modern discussions about historical UFO reports. However, those accounts typically emphasise the **volume of observers and the vividness of the local experience**, rather than the confirmation of an unexplained craft or phenomenon in physical terms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katv.com">[KATV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katv.com</span><span class="citation-popover-snippet">Air Force&#x27;s investigation into UFO phenomena, as many as 1,500 people in Fort Smith saw the UFO.Read more...</span></span></span>
 
-In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as an unusually large and well‑documented civilian sighting that found its way into official records via Project Blue Book, but it remains an unresolved lights‑in‑the‑sky case rather than a confirmed anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as an unusually large and well‑documented civilian sighting that found its way into official records via Project Blue Book, but it remains an unresolved lights‑in‑the‑sky case rather than a confirmed anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.0K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Fort Smith 1966 UFO File Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Fort Smith 1966 UFO File Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding witness reports and classification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding witness reports and classification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides insight into official investigative procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into official investigative procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines government records like those surrounding Fort Smith.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government records like those surrounding Fort Smith.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Matches the Fort Smith Blue Book case context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the Fort Smith Blue Book case context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-the-fort-smith-1966-ufo-file-really-shows-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -492,7 +492,7 @@ In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -512,7 +512,7 @@ In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -544,7 +544,7 @@ In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -596,7 +596,7 @@ In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -641,7 +641,7 @@ In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -682,133 +682,133 @@ In sum, the Fort Smith 1966 sighting stands within Arkansas’s UFO history as a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1966 08 8728209 FortSmith Arkansas  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons1966-08-8728209-FortSmith-ArkansasJanuary 8, 2015...</p></details>
    Published: January 8, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: katv.com  
-   Link: <a href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigation into UFO phenomena, as many as 1,500 people in Fort Smith saw the UFO.Read more...</p></details>
+   Link:<a href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigation into UFO phenomena, as many as 1,500 people in Fort Smith saw the UFO.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/appndx-a.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-a.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Appendix A: 1966 Blue Book Review Committee ReportAPPENDIX A: SPECIAL REPORT OF THE USAF SCIENTIFIC ADVISORY BOARD AD HOC COMMITT...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/appndx-a.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Appendix A: 1966 Blue Book Review Committee ReportAPPENDIX A: SPECIAL REPORT OF THE USAF SCIENTIFIC ADVISORY BOARD AD HOC COMMITT...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: localtvkfsm.files.wordpress.com  
-   Link: <a href="https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local TV KFSMproject 10073 record1 Jan 2015 — UFO Sightings. •. FTD. •. •. •. •. •. • •. •. 1. The following conforms to... 16 sig~~i::l...</p></details>
+   Link:<a href="https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local TV KFSMproject 10073 record1 Jan 2015 — UFO Sightings. •. FTD. •. •. •. •. •. • •. •. 1. The following conforms to... 16 sig~~i::l...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fordlibrarymuseum.gov  
-   Link: <a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Library MuseumFord Press Releases - UFO, 1966January 12, 2015 — Air Force Projeqt Blue Book files, as well as any other UFO informat...</p></details>
+   Link:<a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Library MuseumFord Press Releases - UFO, 1966January 12, 2015 — Air Force Projeqt Blue Book files, as well as any other UFO informat...</p></details>
    Published: January 12, 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=54327" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54327</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 54327February 1, 2007 — NUFORC UFO SIGHTING 54327 Occurred: 1967-08-05 21:00 Local - Approximate Reported: 2007-01-02...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=54327" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54327</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 54327February 1, 2007 — NUFORC UFO SIGHTING 54327 Occurred: 1967-08-05 21:00 Local - Approximate Reported: 2007-01-02...</p></details>
    Published: January 2, 2007  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=42427" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42427</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42427April 16, 2005 — NUFORC UFO SIGHTING 42427 Occurred: 1966-01-15 22:00 Local - Approximate Reported: 2005-02-25 1...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=42427" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42427</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42427April 16, 2005 — NUFORC UFO SIGHTING 42427 Occurred: 1966-01-15 22:00 Local - Approximate Reported: 2005-02-25 1...</p></details>
    Published: February 25, 2005  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=42165" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42165</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42165April 16, 2005 — NUFORC UFO SIGHTING 42165 Occurred: 1967-07-05 20:45 Local - Approximate Reported: 2005-02-24 1...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=42165" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42165</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42165April 16, 2005 — NUFORC UFO SIGHTING 42165 Occurred: 1967-07-05 20:45 Local - Approximate Reported: 2005-02-24 1...</p></details>
    Published: February 24, 2005  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
+   Link:<a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1On December 17, 1969 the Secretary of the. Air Force announced the termination of. Project Blue. Book, the. Ai...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1On December 17, 1969 the Secretary of the. Air Force announced the termination of. Project Blue. Book, the. Ai...</p></details>
    Published: December 17, 1969  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/obrien.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/obrien.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/obrien.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/obrien.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufotransparency.com  
    Title: Unidentified Flying Objects — Hearing by Committee on Armed Services, U.S  
-   Link: <a href="https://ufotransparency.com/files/1966-04-05-house-armed-services-ufo-hearing-house-armed-services-ufo-hearing-1966" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1966-04-05-house-armed-services-ufo-hearing-house-armed-services-ufo-hearing-1966</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Representatives (89th Congress, 2d Sess., No. 55), U.S. House Committee on Armed Services · 1966 · UFO TransparencyApril 5, 1966...</p></details>
+   Link:<a href="https://ufotransparency.com/files/1966-04-05-house-armed-services-ufo-hearing-house-armed-services-ufo-hearing-1966" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1966-04-05-house-armed-services-ufo-hearing-house-armed-services-ufo-hearing-1966</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Representatives (89th Congress, 2d Sess., No. 55), U.S. House Committee on Armed Services · 1966 · UFO TransparencyApril 5, 1966...</p></details>
    Published: April 5, 1966  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: <a href="http://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Project Blue Book&quot; Arkansas 1966 UFO Eyewitness Interviews from &quot;Attack from Outer Space&quot; (1978) Fort Smith Arkansas 1966 Sightings Spac...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Project Blue Book&quot; Arkansas 1966 UFO Eyewitness Interviews from &quot;Attack from Outer Space&quot; (1978) Fort Smith Arkansas 1966 Sightings Spac...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894experience gained from investigating UFO reports since 1948, the conclusions of Project Blue Book are: (1) no UFO reported...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894experience gained from investigating UFO reports since 1948, the conclusions of Project Blue Book are: (1) no UFO reported...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theprojectbluebookarchive.org  
    Title: Air Force Explore the Archive Buy the Book ABOUT THE ARC  
-   Link: <a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Blue Book ArchiveImage: Project Blue Book Archive Logo THE PROJECT BLUE BOOK ARCHIVE Browse and download declassified UAP inv...</p></details>
+   Link:<a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Blue Book ArchiveImage: Project Blue Book Archive Logo THE PROJECT BLUE BOOK ARCHIVE Browse and download declassified UAP inv...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: During the Cold War, as Project Blue Book investigated  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force- approved Project Blue Book investigated thousands of UFO sightings. USAF Report: Submarine-Shaped UFO Spotted In Oklahoma In 1...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force- approved Project Blue Book investigated thousands of UFO sightings. USAF Report: Submarine-Shaped UFO Spotted In Oklahoma In 1...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"BLUEBOOK PART 5 Aug  
-   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23, 1955; Arlington, Virginia. 10:45 a.m. Witness: G.M. Park, using a 400x telescope. Several orange lights moved singly or in groups, ci...</p></details>
+   Link:<a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23, 1955; Arlington, Virginia. 10:45 a.m. Witness: G.M. Park, using a 400x telescope. Several orange lights moved singly or in groups, ci...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufologie.patrickgross.org  
    Title: The image shown there is large and of high qualit  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bluebookpics9966.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebookpics9966.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book case 9966, August 1965PROJECT BLUE BOOK CASE 9966: TULSA, OKLAHOMA, AUGUST 2, 1965: The image is o...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/bluebookpics9966.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebookpics9966.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book case 9966, August 1965PROJECT BLUE BOOK CASE 9966: TULSA, OKLAHOMA, AUGUST 2, 1965: The image is o...</p></details>
    Published: August 2, 1965  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blog.fold3.com  
-   Link: <a href="https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1963: UFO Reports in Project Blue Book1 Aug 2013 — In August 1963, there were forty-four investigations into UFO sightings...</p></details>
+   Link:<a href="https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1963: UFO Reports in Project Blue Book1 Aug 2013 — In August 1963, there were forty-four investigations into UFO sightings...</p></details>
    Published: August 1963

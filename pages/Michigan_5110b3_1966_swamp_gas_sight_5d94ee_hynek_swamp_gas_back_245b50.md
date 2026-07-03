@@ -250,18 +250,18 @@ image: /assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_ga
 
 ## Introduction
 
-The most enduring legacy of Michigan’s 1966 UFO wave is not necessarily the sightings themselves, but a two-word explanation: “swamp gas”. When astronomer Dr J. Allen Hynek, serving as a scientific consultant to the US Air Force’s Project Blue Book, suggested that some of the reported lights near Dexter and Hillsdale could have been caused by luminous gases released from marshland, the reaction was immediate and overwhelmingly negative. What might have been intended as a limited, case-specific hypothesis quickly became a national symbol of official scepticism and, in the eyes of many witnesses, official dismissal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+The most enduring legacy of Michigan’s 1966 UFO wave is not necessarily the sightings themselves, but a two-word explanation: “swamp gas”. When astronomer Dr J. Allen Hynek, serving as a scientific consultant to the US Air Force’s Project Blue Book, suggested that some of the reported lights near Dexter and Hillsdale could have been caused by luminous gases released from marshland, the reaction was immediate and overwhelmingly negative. What might have been intended as a limited, case-specific hypothesis quickly became a national symbol of official scepticism and, in the eyes of many witnesses, official dismissal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-1-dark.svg" | relative_url }}" alt="Swamp gas illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Michigan’s UFO history, the controversy matters because it transformed a local sighting flap into a national debate about how authorities investigate unexplained reports. The phrase “swamp gas” survived long after the details of the sightings faded, becoming shorthand for explanations that the public regards as inadequate or overly convenient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+Within Michigan’s UFO history, the controversy matters because it transformed a local sighting flap into a national debate about how authorities investigate unexplained reports. The phrase “swamp gas” survived long after the details of the sightings faded, becoming shorthand for explanations that the public regards as inadequate or overly convenient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2DjOl1EYgt0" title="History Lives - 1966: The Year UFOs Came to Michigan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2DjOl1EYgt0" target="_blank" rel="noopener noreferrer">History Lives - 1966: The Year UFOs Came to Michigan</a></p><p class="youtube-embed-meta">Channel: LivoniaTV &middot; Views: 6.7K &middot; Uploaded: November 2017 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2DjOl1EYgt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2DjOl1EYgt0">Open on YouTube</a></p></div></div></div>
 
 ## What Hynek proposed in Detroit
 
-After several days investigating reports from southeastern Michigan, Hynek appeared before reporters at the Detroit Press Club on 25 March 1966. There he argued that at least the Dexter and Hillsdale incidents could plausibly be explained by marsh gas or “swamp gas” produced by decaying vegetation in wetland areas. According to his reasoning, gases released during seasonal thaw conditions might under certain circumstances create unusual lights that observers could mistake for something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bentley.umich.edu">[bentley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bentley.umich.edu</span><span class="citation-popover-title">Bentley Historical Library Flying Saucers and Swamp Gas</span><span class="citation-popover-snippet">Bentley Historical LibraryFlying Saucers and Swamp Gas - Bentley Historical LibraryOn March 25, 1966, Hynek gave a press conference where...</span><span class="citation-popover-meta">Published: March 25, 1966</span></span></span> Historical Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>, Hynek's original comments were somewhat narrower than the public memory of the event. Contemporary accounts indicate that he was discussing specific reports from marshy locations rather than claiming that every UFO report in Michigan was caused by swamp gas. Some later accounts note that Hynek repeatedly stressed that the explanation applied only to certain sightings and was not intended as a universal solution to the UFO problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hillsdalehistoricalsociety.org/alien-invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hillsdalehistoricalsociety.org">[Hillsdale County Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hillsdalehistoricalsociety.org</span><span class="citation-popover-title">Hillsdale County Historical Society Alien Invasion</span><span class="citation-popover-snippet">Hillsdale County Historical SocietyAlien Invasion - 1966” At his press conference at the end of March 1966, Hynek repeatedly and strenuou...</span><span class="citation-popover-meta">Published: March 1966</span></span></span>
+After several days investigating reports from southeastern Michigan, Hynek appeared before reporters at the Detroit Press Club on 25 March 1966. There he argued that at least the Dexter and Hillsdale incidents could plausibly be explained by marsh gas or “swamp gas” produced by decaying vegetation in wetland areas. According to his reasoning, gases released during seasonal thaw conditions might under certain circumstances create unusual lights that observers could mistake for something extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bentley.umich.edu">[bentley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bentley.umich.edu</span><span class="citation-popover-title">Bentley Historical Library Flying Saucers and Swamp Gas</span><span class="citation-popover-snippet">Bentley Historical LibraryFlying Saucers and Swamp Gas - Bentley Historical LibraryOn March 25, 1966, Hynek gave a press conference where...</span><span class="citation-popover-meta">Published: March 25, 1966</span></span></span> Historical Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>, Hynek's original comments were somewhat narrower than the public memory of the event. Contemporary accounts indicate that he was discussing specific reports from marshy locations rather than claiming that every UFO report in Michigan was caused by swamp gas. Some later accounts note that Hynek repeatedly stressed that the explanation applied only to certain sightings and was not intended as a universal solution to the UFO problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hillsdalehistoricalsociety.org/alien-invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hillsdalehistoricalsociety.org">[Hillsdale County Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hillsdalehistoricalsociety.org</span><span class="citation-popover-title">Hillsdale County Historical Society Alien Invasion</span><span class="citation-popover-snippet">Hillsdale County Historical SocietyAlien Invasion - 1966” At his press conference at the end of March 1966, Hynek repeatedly and strenuou...</span><span class="citation-popover-meta">Published: March 1966</span></span></span>
 
-However, the nuance was largely lost. Reporters seized on the memorable phrase, and headlines across the country reduced a complicated investigation to a simple verdict: UFOs explained by swamp gas. Hynek himself later recalled realising the public-relations disaster almost immediately when journalists focused on those two words above everything else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigantoday.umich.edu">[michigantoday.umich.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigantoday.umich.edu</span><span class="citation-popover-title">Ann Arbor vs</span><span class="citation-popover-snippet">the flying saucers &#124; Michigan Today13 Apr 2014 — Hynek knew he was in trouble when he saw a reporter underlining the words “swamp gas” on...</span></span></span>
+However, the nuance was largely lost. Reporters seized on the memorable phrase, and headlines across the country reduced a complicated investigation to a simple verdict: UFOs explained by swamp gas. Hynek himself later recalled realising the public-relations disaster almost immediately when journalists focused on those two words above everything else.<span class="citation-chip-wrap"><a class="citation-chip" href="https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigantoday.umich.edu">[michigantoday.umich.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigantoday.umich.edu</span><span class="citation-popover-title">Ann Arbor vs</span><span class="citation-popover-snippet">the flying saucers &#124; Michigan Today13 Apr 2014 — Hynek knew he was in trouble when he saw a reporter underlining the words “swamp gas” on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hhJb_vlmnaM" title="The 1960s Conspiracy That Inspired Spielberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer">The 1960s Conspiracy That Inspired Spielberg</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 289.8K &middot; Uploaded: August 2012 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hhJb_vlmnaM">Open on YouTube</a></p></div></div></div>
 
@@ -269,27 +269,27 @@ However, the nuance was largely lost. Reporters seized on the memorable phrase, 
 
 The backlash was driven less by the technical possibility of marsh gas and more by the perceived mismatch between the explanation and the testimony.
 
-Many witnesses reported lights that appeared to move, change direction, hover for extended periods, or travel across significant distances. Law-enforcement officers, civil-defence officials, college students, and local residents argued that what they observed did not resemble a brief natural glow above wetlands. To them, the explanation seemed to address only part of the evidence while ignoring the rest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+Many witnesses reported lights that appeared to move, change direction, hover for extended periods, or travel across significant distances. Law-enforcement officers, civil-defence officials, college students, and local residents argued that what they observed did not resemble a brief natural glow above wetlands. To them, the explanation seemed to address only part of the evidence while ignoring the rest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
 Several factors fuelled public resistance:
 
-* **The number of witnesses.** Reports came from multiple locations and involved police officers and other observers viewed as credible by local communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
-* **The apparent complexity of the sightings.** Witnesses described movement and behaviour that seemed difficult to reconcile with a localised natural light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
-* **The speed of the conclusion.** Critics felt that Hynek and the Air Force reached an explanation before fully examining all reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoryreader.com/us-history/swamp-gas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoryreader.com">[The History Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoryreader.com</span><span class="citation-popover-title">Read more about the two most critical events in UFO history here.Read more</span><span class="citation-popover-snippet">The History ReaderSwamp Gas: UFOs and the Ford AdministrationIt was while in Michigan that Hynek made the biggest blunder of his professi...</span></span></span>
-* **The tone of official communication.** Even people who accepted that some sightings might have natural explanations often felt that the investigation appeared dismissive of eyewitness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+* **The number of witnesses.** Reports came from multiple locations and involved police officers and other observers viewed as credible by local communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+* **The apparent complexity of the sightings.** Witnesses described movement and behaviour that seemed difficult to reconcile with a localised natural light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+* **The speed of the conclusion.** Critics felt that Hynek and the Air Force reached an explanation before fully examining all reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoryreader.com/us-history/swamp-gas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoryreader.com">[The History Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoryreader.com</span><span class="citation-popover-title">Read more about the two most critical events in UFO history here.Read more</span><span class="citation-popover-snippet">The History ReaderSwamp Gas: UFOs and the Ford AdministrationIt was while in Michigan that Hynek made the biggest blunder of his professi...</span></span></span>
+* **The tone of official communication.** Even people who accepted that some sightings might have natural explanations often felt that the investigation appeared dismissive of eyewitness testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-The strongest political reaction came from Michigan Congressman Gerald R. Ford. Arguing that citizens deserved a more thorough inquiry, Ford publicly criticised the handling of the case and called for congressional hearings into the broader UFO issue. His intervention elevated the controversy from a local dispute into a national political matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fordlibrarymuseum.gov">[fordlibrarymuseum.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fordlibrarymuseum.gov</span><span class="citation-popover-title">Ford Press Releases</span><span class="citation-popover-snippet">UFO, 1966The Air Force sent a c;o~s,ultant, astrophysicist Dr. J~ Allen Hynek of. Northwestern University, to Michigan to investigate the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — These congressional press releases from then-House Minority Leader, Gerald Fo...</span></span></span>
+The strongest political reaction came from Michigan Congressman Gerald R. Ford. Arguing that citizens deserved a more thorough inquiry, Ford publicly criticised the handling of the case and called for congressional hearings into the broader UFO issue. His intervention elevated the controversy from a local dispute into a national political matter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fordlibrarymuseum.gov">[fordlibrarymuseum.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fordlibrarymuseum.gov</span><span class="citation-popover-title">Ford Press Releases</span><span class="citation-popover-snippet">UFO, 1966The Air Force sent a c;o~s,ultant, astrophysicist Dr. J~ Allen Hynek of. Northwestern University, to Michigan to investigate the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — These congressional press releases from then-House Minority Leader, Gerald Fo...</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-2-dark.svg" | relative_url }}" alt="Swamp gas illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the phrase shaped later UFO debate
 
 The long-term significance of “swamp gas” lies in its cultural impact rather than its scientific merits.
 
-Almost immediately, the phrase became a punchline in newspapers and popular culture. For believers in the Michigan sightings, it represented bureaucratic unwillingness to take unusual reports seriously. For sceptics, it became an example of how public excitement can outpace evidence. Either way, the expression escaped the original case and entered the wider vocabulary of UFO debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+Almost immediately, the phrase became a punchline in newspapers and popular culture. For believers in the Michigan sightings, it represented bureaucratic unwillingness to take unusual reports seriously. For sceptics, it became an example of how public excitement can outpace evidence. Either way, the expression escaped the original case and entered the wider vocabulary of UFO debate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-The controversy also affected perceptions of Project Blue Book. Critics argued that the Air Force appeared more interested in reducing public concern than in investigating unexplained cases. Whether or not that criticism was justified, the Michigan episode became one of the most frequently cited examples by people who believed official investigations were too quick to explain away reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/news/air-force-asked-man-investigate-162745292.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">The Air Force Asked This Man to Investigate UFOs—Then...Hynek dismisses a Michigan sighting of a UFO as luminous swamp gas at a press...</span></span></span>
+The controversy also affected perceptions of Project Blue Book. Critics argued that the Air Force appeared more interested in reducing public concern than in investigating unexplained cases. Whether or not that criticism was justified, the Michigan episode became one of the most frequently cited examples by people who believed official investigations were too quick to explain away reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/news/air-force-asked-man-investigate-162745292.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">The Air Force Asked This Man to Investigate UFOs—Then...Hynek dismisses a Michigan sighting of a UFO as luminous swamp gas at a press...</span></span></span>
 
-Ironically, the episode also influenced views of Hynek himself. Although he was initially associated with the controversial explanation, he later became increasingly critical of simplistic dismissals and advocated more rigorous scientific study of unexplained aerial phenomena. In later years, the swamp-gas episode was often portrayed as a turning point that exposed the limitations of the Air Force's approach and damaged public confidence in official UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</span></span></span>
+Ironically, the episode also influenced views of Hynek himself. Although he was initially associated with the controversial explanation, he later became increasingly critical of simplistic dismissals and advocated more rigorous scientific study of unexplained aerial phenomena. In later years, the swamp-gas episode was often portrayed as a turning point that exposed the limitations of the Air Force's approach and damaged public confidence in official UFO investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3qWyN8rxzw" title="1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer">1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary</a></p><p class="youtube-embed-meta">Channel: Michigan Online &middot; Views: 53.0K &middot; Uploaded: February 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3qWyN8rxzw">Open on YouTube</a></p></div></div></div>
 
@@ -297,201 +297,201 @@ Ironically, the episode also influenced views of Hynek himself. Although he was 
 
 From a historical perspective, the key question is not whether swamp gas can exist—it can—but whether the explanation adequately accounted for the specific reports that generated Michigan’s 1966 UFO flap. On that point, opinions remain divided.
 
-Sceptical writers note that unusual atmospheric effects, misidentified celestial objects, and local environmental conditions can produce surprising observations, particularly at night. Others argue that the witness accounts were too varied and widespread to be comfortably reduced to a single natural cause. Neither side has produced evidence capable of settling the matter definitively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The UFO That Wasn&#x27;t Swamp Gas11 Jul 2023 — The phenomenon of swamp lights is apparently quite well known, and references to it ar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bentley.umich.edu">[Bentley Historical Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bentley.umich.edu</span><span class="citation-popover-title">Bentley Historical Library Flying Saucers and Swamp Gas</span><span class="citation-popover-snippet">Bentley Historical LibraryFlying Saucers and Swamp Gas - Bentley Historical LibraryOn March 25, 1966, Hynek gave a press conference where...</span><span class="citation-popover-meta">Published: March 25, 1966</span></span></span>
+Sceptical writers note that unusual atmospheric effects, misidentified celestial objects, and local environmental conditions can produce surprising observations, particularly at night. Others argue that the witness accounts were too varied and widespread to be comfortably reduced to a single natural cause. Neither side has produced evidence capable of settling the matter definitively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The UFO That Wasn&#x27;t Swamp Gas11 Jul 2023 — The phenomenon of swamp lights is apparently quite well known, and references to it ar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bentley.umich.edu">[Bentley Historical Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bentley.umich.edu</span><span class="citation-popover-title">Bentley Historical Library Flying Saucers and Swamp Gas</span><span class="citation-popover-snippet">Bentley Historical LibraryFlying Saucers and Swamp Gas - Bentley Historical LibraryOn March 25, 1966, Hynek gave a press conference where...</span><span class="citation-popover-meta">Published: March 25, 1966</span></span></span>
 
-What is clear is that the public reaction became more important than the explanation itself. The phrase “swamp gas” entered American culture as a symbol of explanations that many people regard as technically possible yet unsatisfying. Within Michigan’s UFO history, that reaction is the real legacy of Hynek’s 1966 press conference: a reminder that public trust in an investigation often depends as much on how conclusions are communicated as on the conclusions themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigantoday.umich.edu">[2michigantoday.umich.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigantoday.umich.edu</span><span class="citation-popover-title">Ann Arbor vs</span><span class="citation-popover-snippet">the flying saucers &#124; Michigan Today13 Apr 2014 — Hynek knew he was in trouble when he saw a reporter underlining the words “swamp gas” on...</span></span></span>
+What is clear is that the public reaction became more important than the explanation itself. The phrase “swamp gas” entered American culture as a symbol of explanations that many people regard as technically possible yet unsatisfying. Within Michigan’s UFO history, that reaction is the real legacy of Hynek’s 1966 press conference: a reminder that public trust in an investigation often depends as much on how conclusions are communicated as on the conclusions themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigantoday.umich.edu">[2michigantoday.umich.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigantoday.umich.edu</span><span class="citation-popover-title">Ann Arbor vs</span><span class="citation-popover-snippet">the flying saucers &#124; Michigan Today13 Apr 2014 — Hynek knew he was in trouble when he saw a reporter underlining the words “swamp gas” on...</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-3-dark.svg" | relative_url }}" alt="Swamp gas illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee_hynek_swamp_gas_back_245b50-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why did &#x27;swamp gas&#x27; become so infamous?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why did &#x27;swamp gas&#x27; become so infamous?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how Hynek later framed unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how Hynek later framed unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides Hynek&#x27;s perspective on investigations and controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides Hynek&#x27;s perspective on investigations and controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Mark O&#x27;Connell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Mark O&#x27;Connell</p>
         
-        <p class="fr-book-desc">Directly examines Hynek&#x27;s public role and reputation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Hynek&#x27;s public role and reputation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Explores the wider institutional setting behind the swamp gas debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the wider institutional setting behind the swamp gas debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="https://i.ebayimg.com/images/g/tPwAAeSwvxhpJvyE/s-l225.jpg" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="https://i.ebayimg.com/images/g/bLgAAeSwIDhqDxIn/s-l225.jpg" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="https://i.ebayimg.com/images/g/cOkAAOSwQb5hqPMn/s-l225.jpg" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Michael Schenker Photo Original Black And White Press Promo November 1985"><img src="https://i.ebayimg.com/images/g/2IEAAOSwxQBnMgB1/s-l225.jpg" alt="Listing image for UFO Michael Schenker Photo Original Black And White Press Promo November 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Michael Schenker Photo Original Black And White Press Promo November 1985</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-swamp-gas-become-so-infamous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-swamp-gas-become-so-infamous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -507,7 +507,7 @@ What is clear is that the public reaction became more important than the explana
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -527,7 +527,7 @@ What is clear is that the public reaction became more important than the explana
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -559,7 +559,7 @@ What is clear is that the public reaction became more important than the explana
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -611,7 +611,7 @@ What is clear is that the public reaction became more important than the explana
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -656,7 +656,7 @@ What is clear is that the public reaction became more important than the explana
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -697,126 +697,126 @@ What is clear is that the public reaction became more important than the explana
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Michigan "swamp gas" UFO reports  
-   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bentley.umich.edu  
    Title: Bentley Historical Library Flying Saucers and Swamp Gas  
-   Link: <a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bentley Historical LibraryFlying Saucers and Swamp Gas - Bentley Historical LibraryOn March 25, 1966, Hynek gave a press conference where...</p></details>
+   Link:<a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bentley Historical LibraryFlying Saucers and Swamp Gas - Bentley Historical LibraryOn March 25, 1966, Hynek gave a press conference where...</p></details>
    Published: March 25, 1966  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/air-force-asked-man-investigate-162745292.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/air-force-asked-man-investigate-162745292.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Asked This Man to Investigate UFOs—Then...Hynek dismisses a Michigan sighting of a UFO as luminous swamp gas at a press...</p></details>
+   Link:<a href="https://www.aol.com/news/air-force-asked-man-investigate-162745292.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/air-force-asked-man-investigate-162745292.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Asked This Man to Investigate UFOs—Then...Hynek dismisses a Michigan sighting of a UFO as luminous swamp gas at a press...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: michigantoday.umich.edu  
    Title: Ann Arbor vs  
-   Link: <a href="https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the flying saucers | Michigan Today13 Apr 2014 — Hynek knew he was in trouble when he saw a reporter underlining the words “swamp gas” on...</p></details>
+   Link:<a href="https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://michigantoday.umich.edu/2014/04/13/ann-arbor-vs-the-flying-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the flying saucers | Michigan Today13 Apr 2014 — Hynek knew he was in trouble when he saw a reporter underlining the words “swamp gas” on...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fordlibrarymuseum.gov  
    Title: Ford Press Releases  
-   Link: <a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1966The Air Force sent a c;o~s,ultant, astrophysicist Dr. J~ Allen Hynek of. Northwestern University, to Michigan to investigate the...</p></details>
+   Link:<a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1966The Air Force sent a c;o~s,ultant, astrophysicist Dr. J~ Allen Hynek of. Northwestern University, to Michigan to investigate the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — These congressional press releases from then-House Minority Leader, Gerald Fo...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — These congressional press releases from then-House Minority Leader, Gerald Fo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/892" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/892</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO That Wasn&#x27;t Swamp Gas11 Jul 2023 — The phenomenon of swamp lights is apparently quite well known, and references to it ar...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/892" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/892</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO That Wasn&#x27;t Swamp Gas11 Jul 2023 — The phenomenon of swamp lights is apparently quite well known, and references to it ar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hillsdalehistoricalsociety.org  
    Title: Hillsdale County Historical Society Alien Invasion  
-   Link: <a href="https://www.hillsdalehistoricalsociety.org/alien-invasion" target="_blank" rel="noopener noreferrer nofollow">https://www.hillsdalehistoricalsociety.org/alien-invasion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hillsdale County Historical SocietyAlien Invasion - 1966” At his press conference at the end of March 1966, Hynek repeatedly and strenuou...</p></details>
+   Link:<a href="https://www.hillsdalehistoricalsociety.org/alien-invasion" target="_blank" rel="noopener noreferrer nofollow">https://www.hillsdalehistoricalsociety.org/alien-invasion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hillsdale County Historical SocietyAlien Invasion - 1966” At his press conference at the end of March 1966, Hynek repeatedly and strenuou...</p></details>
    Published: March 1966  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: biography.com  
    Title: j allen hynek  
-   Link: <a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — Swamp Gas and the Condon Committee... In March 1966, Hynek was dispatched t...</p></details>
+   Link:<a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — Swamp Gas and the Condon Committee... In March 1966, Hynek was dispatched t...</p></details>
    Published: March 1966  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thehistoryreader.com  
    Title: Read more about the two most critical events in UFO history here.Read more  
-   Link: <a href="https://www.thehistoryreader.com/us-history/swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/us-history/swamp-gas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History ReaderSwamp Gas: UFOs and the Ford AdministrationIt was while in Michigan that Hynek made the biggest blunder of his professi...</p></details>
+   Link:<a href="https://www.thehistoryreader.com/us-history/swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/us-history/swamp-gas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History ReaderSwamp Gas: UFOs and the Ford AdministrationIt was while in Michigan that Hynek made the biggest blunder of his professi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40davidpaul777/ufo-swamp-gas-shot-down-by-fighter-pilot-9cdd32906175" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40davidpaul777/ufo-swamp-gas-shot-down-by-fighter-pilot-9cdd32906175</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Swamp Gas Alibi Shot Down by Fighter Pilot Who...Willnus said that Hynek mumbled “Swamp gas, swamp gas, it was swamp gas.” Hynek the...</p></details>
+   Link:<a href="https://medium.com/%40davidpaul777/ufo-swamp-gas-shot-down-by-fighter-pilot-9cdd32906175" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40davidpaul777/ufo-swamp-gas-shot-down-by-fighter-pilot-9cdd32906175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Swamp Gas Alibi Shot Down by Fighter Pilot Who...Willnus said that Hynek mumbled “Swamp gas, swamp gas, it was swamp gas.” Hynek the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: mar 22 1966 an unidentified flying object described as hovering low over a swamp  
-   Link: <a href="https://www.facebook.com/realtime1960s/posts/mar-22-1966-an-unidentified-flying-object-described-as-hovering-low-over-a-swamp/1524030169727982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/realtime1960s/posts/mar-22-1966-an-unidentified-flying-object-described-as-hovering-low-over-a-swamp/1524030169727982/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar. 22, 1966 - An unidentified flying object described...... Michigan ufo encounter that kicked off the 1966 flap that famously had Hyn...</p></details>
+   Link:<a href="https://www.facebook.com/realtime1960s/posts/mar-22-1966-an-unidentified-flying-object-described-as-hovering-low-over-a-swamp/1524030169727982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/realtime1960s/posts/mar-22-1966-an-unidentified-flying-object-described-as-hovering-low-over-a-swamp/1524030169727982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar. 22, 1966 - An unidentified flying object described...... Michigan ufo encounter that kicked off the 1966 flap that famously had Hyn...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dexter.lib.mi.us  
    Title: we are dexter not swamp gas the true story of the 1966 michigan swamp gas ufo  
-   Link: <a href="https://dexter.lib.mi.us/events/we-are-dexter-not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://dexter.lib.mi.us/events/we-are-dexter-not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Szymanski believes pilot testimony that he recorded and official records he analyzed prove that the Dexter and Hillsdale UFO sightings we...</p></details>
+   Link:<a href="https://dexter.lib.mi.us/events/we-are-dexter-not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://dexter.lib.mi.us/events/we-are-dexter-not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Szymanski believes pilot testimony that he recorded and official records he analyzed prove that the Dexter and Hillsdale UFO sightings we...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thesuntimesnews.com  
    Title: uncover dexters 1966 ufo sightings with acclaimed author and ufo researcher  
-   Link: <a href="https://thesuntimesnews.com/uncover-dexters-1966-ufo-sightings-with-acclaimed-author-and-ufo-researcher/" target="_blank" rel="noopener noreferrer nofollow">https://thesuntimesnews.com/uncover-dexters-1966-ufo-sightings-with-acclaimed-author-and-ufo-researcher/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sun Times NewsUncover Dexter&#x27;s 1966 UFO Sightings with Acclaimed...May 30, 2024 — In March 1966, southeastern Michigan experienced a...</p></details>
+   Link:<a href="https://thesuntimesnews.com/uncover-dexters-1966-ufo-sightings-with-acclaimed-author-and-ufo-researcher/" target="_blank" rel="noopener noreferrer nofollow">https://thesuntimesnews.com/uncover-dexters-1966-ufo-sightings-with-acclaimed-author-and-ufo-researcher/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sun Times NewsUncover Dexter&#x27;s 1966 UFO Sightings with Acclaimed...May 30, 2024 — In March 1966, southeastern Michigan experienced a...</p></details>
    Published: May 30, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dexter.lib.mi.us  
    Title: not swamp gas the true story of the 1966 michigan swamp gas ufo  
-   Link: <a href="https://dexter.lib.mi.us/events/not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://dexter.lib.mi.us/events/not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Szymanski believes pilot testimony that he recorded and official records he analyzed prove that the Dexter and Hillsdale UFO sightings we...</p></details>
+   Link:<a href="https://dexter.lib.mi.us/events/not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://dexter.lib.mi.us/events/not-swamp-gas-the-true-story-of-the-1966-michigan-swamp-gas-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Szymanski believes pilot testimony that he recorded and official records he analyzed prove that the Dexter and Hillsdale UFO sightings we...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: clickondetroit.com  
    Title: ill believe this to the day i die the michigan ufo craze of 1966  
-   Link: <a href="https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I&#x27;ll believe this to the day I die. Somebody has kept something quiet, and nothing more ever materialized.Read more...</p></details>
+   Link:<a href="https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I&#x27;ll believe this to the day I die. Somebody has kept something quiet, and nothing more ever materialized.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dailynorthwestern.com  
    Title: The Daily Northwestern Remembering NU professor J  
-   Link: <a href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek&#x27;s UFO researchMar 6, 2023 — Rodeghier said Hynek was open to the idea of UFOs being extraterrestrial, but was an “old-school...</p></details>
+   Link:<a href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek&#x27;s UFO researchMar 6, 2023 — Rodeghier said Hynek was open to the idea of UFOs being extraterrestrial, but was an “old-school...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/162f1a0/gerald_ford_angrily_lead_the_charge_and_had/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/162f1a0/gerald_ford_angrily_lead_the_charge_and_had/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Hylick of Project Bluebook actually used the swamp gas...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/162f1a0/gerald_ford_angrily_lead_the_charge_and_had/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/162f1a0/gerald_ford_angrily_lead_the_charge_and_had/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Hylick of Project Bluebook actually used the swamp gas...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10157240790186696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10157240790186696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rence in 1966. The term “swamp gas” became a proto-meme...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10157240790186696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10157240790186696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rence in 1966. The term “swamp gas” became a proto-meme...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sal of UFO reports. - **Media Mockery**: - The press and public...</p></details>
+   Link:<a href="https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sal of UFO reports. - **Media Mockery**: - The press and public...</p></details>

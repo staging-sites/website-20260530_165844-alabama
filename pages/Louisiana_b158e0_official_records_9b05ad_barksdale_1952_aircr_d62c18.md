@@ -250,7 +250,7 @@ image: /assets/images/Louisiana_b158e0_official_records_9b05ad_barksdale_1952_ai
 
 ## Introduction
 
-The April 1952 Shreveport and [Barksdale]({{ 'barksdale/' | relative_url }}) reports sit in an unusual corner of Louisiana UFO history because they involved military aircrews rather than anonymous civilian witnesses. According to Air Force records later absorbed into Project Blue Book, crews flying C-46 transport aircraft near Shreveport and Barksdale Air Force Base reported seeing unusual aerial objects described as disc-like or unusually bright. The incidents emerged during the same year that the Air Force expanded Project Blue Book amid a national surge in UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
+The April 1952 Shreveport and [Barksdale]({{ 'barksdale/' | relative_url }}) reports sit in an unusual corner of Louisiana UFO history because they involved military aircrews rather than anonymous civilian witnesses. According to Air Force records later absorbed into Project Blue Book, crews flying C-46 transport aircraft near Shreveport and Barksdale Air Force Base reported seeing unusual aerial objects described as disc-like or unusually bright. The incidents emerged during the same year that the Air Force expanded Project Blue Book amid a national surge in UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_barksdale_1952_aircr_d62c18-Illustration-1-dark.svg" | relative_url }}" alt="Barksdale 1952 Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_barksdale_1952_aircr_d62c18-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_barksdale_1952_aircr_d62c18-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the Shreveport/Barksdale cases worth revisiting is not that they provide strong proof of anything extraordinary. They do not. Instead, they illustrate how military sightings entered official channels, how limited many Blue Book investigations could be, and how difficult it remains to verify aircrew observations when radar records, flight logs and detailed witness statements are incomplete or missing. Within Louisiana's UFO record, they remain notable because trained Air Force personnel were involved and because the events generated formal documentation rather than surviving only as local folklore.
@@ -278,9 +278,9 @@ The Shreveport reports therefore occupy an intermediate category. They are stron
 
 Any military sighting near Barksdale Air Force Base attracted attention in 1952 because the base was a major Strategic Air Command installation. During the early Cold War, reports of unidentified aircraft or unusual aerial activity carried a security dimension that went beyond public fascination with flying saucers.
 
-Project Blue Book itself was established in March 1952 after Air Force leaders concluded that earlier UFO programmes had not adequately handled continuing reports. The programme's stated purpose was both intelligence-related and scientific: determining whether reported objects represented a threat and analysing the reports systematically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; Origins22 Dec 2024 — On December 17, 1969, the United States Air Force concluded Project B...</span><span class="citation-popover-meta">Published: December 17, 1969</span></span></span> That context helps explain why a report from aircrews operating around Barksdale would be recorded at all. Investigators did not need to believe they were dealing with extraterrestrial craft. Any unidentified object seen by military personnel near a strategic installation was potentially relevant from an intelligence standpoint.
+Project Blue Book itself was established in March 1952 after Air Force leaders concluded that earlier UFO programmes had not adequately handled continuing reports. The programme's stated purpose was both intelligence-related and scientific: determining whether reported objects represented a threat and analysing the reports systematically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; Origins22 Dec 2024 — On December 17, 1969, the United States Air Force concluded Project B...</span><span class="citation-popover-meta">Published: December 17, 1969</span></span></span> That context helps explain why a report from aircrews operating around Barksdale would be recorded at all. Investigators did not need to believe they were dealing with extraterrestrial craft. Any unidentified object seen by military personnel near a strategic installation was potentially relevant from an intelligence standpoint.
 
-The timing is also important. The spring and summer of 1952 became one of the busiest UFO reporting periods in American history, culminating in the better-known Washington radar and visual incidents later that year. Air Force investigators were already receiving increasing numbers of reports from both civilian and military sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+The timing is also important. The spring and summer of 1952 became one of the busiest UFO reporting periods in American history, culminating in the better-known Washington radar and visual incidents later that year. Air Force investigators were already receiving increasing numbers of reports from both civilian and military sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 140.8K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
 
@@ -288,7 +288,7 @@ The timing is also important. The spring and summer of 1952 became one of the bu
 
 The strongest argument for treating the Shreveport/Barksdale sightings seriously is not the sighting narrative itself but the existence of official documentation.
 
-Project Blue Book accumulated thousands of reports and associated correspondence, witness statements, intelligence summaries and investigative notes. The National Archives now holds those records, making it possible to compare later retellings against the surviving paperwork. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
+Project Blue Book accumulated thousands of reports and associated correspondence, witness statements, intelligence summaries and investigative notes. The National Archives now holds those records, making it possible to compare later retellings against the surviving paperwork.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
 
 For the Louisiana cases, the official files demonstrate several things:
 
@@ -300,7 +300,7 @@ For the Louisiana cases, the official files demonstrate several things:
 
 </div>
 
-What the files do not necessarily provide is a decisive answer. Many Blue Book investigations were brief. Some relied heavily on summaries rather than extensive fieldwork. Others ended with tentative explanations or no firm conclusion at all. Historians of the programme have repeatedly noted that record quality varied substantially from case to case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+What the files do not necessarily provide is a decisive answer. Many Blue Book investigations were brief. Some relied heavily on summaries rather than extensive fieldwork. Others ended with tentative explanations or no firm conclusion at all. Historians of the programme have repeatedly noted that record quality varied substantially from case to case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 For that reason, the existence of a Blue Book file should be viewed as evidence that a report was officially logged, not evidence that the underlying claim was verified.
 
@@ -336,7 +336,7 @@ One reason the Shreveport reports remain unresolved rather than celebrated is th
 
 ### Astronomical objects
 
-Bright planets, particularly Venus, generated a large number of Air Force UFO investigations during the Blue Book years. Investigators repeatedly concluded that witnesses sometimes misjudged the position, motion or apparent size of bright celestial objects under unusual viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">This object vas at a very high altitude, and very little</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — Project observed a silver crescent-shaped object visually from the grou...</span><span class="citation-popover-meta">Published: September 9, 2005</span></span></span>
+Bright planets, particularly Venus, generated a large number of Air Force UFO investigations during the Blue Book years. Investigators repeatedly concluded that witnesses sometimes misjudged the position, motion or apparent size of bright celestial objects under unusual viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">This object vas at a very high altitude, and very little</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — Project observed a silver crescent-shaped object visually from the grou...</span><span class="citation-popover-meta">Published: September 9, 2005</span></span></span>
 
 For airborne observers, however, a simple astronomical explanation is not always sufficient. Reports involving apparent manoeuvres, rapid motion or changing positions require closer examination.
 
@@ -349,7 +349,7 @@ This possibility deserves particular attention because the witnesses themselves 
 <img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_barksdale_1952_aircr_d62c18-Illustration-3-dark.svg" | relative_url }}" alt="Barksdale 1952 Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_barksdale_1952_aircr_d62c18-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_barksdale_1952_aircr_d62c18-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Atmospheric and optical effects
 
-Temperature inversions, haze layers and reflections can alter the appearance of lights or distant objects. Such effects became a major part of later discussions surrounding several 1952 UFO incidents elsewhere in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+Temperature inversions, haze layers and reflections can alter the appearance of lights or distant objects. Such effects became a major part of later discussions surrounding several 1952 UFO incidents elsewhere in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 The difficulty is that surviving summaries of the Louisiana reports generally do not preserve enough environmental detail to test these possibilities rigorously.
 
@@ -371,199 +371,199 @@ The cases are neither obvious hoaxes nor exceptionally well-supported mysteries.
 
 The main significance of the April 1952 Shreveport and Barksdale reports is historical rather than sensational.
 
-They demonstrate that Louisiana participated in the wider 1952 wave of military and civilian UFO reporting that pushed the Air Force to devote greater attention to the subject. They also show how a sighting near an important Strategic Air Command installation could move into formal intelligence channels and become part of the archival record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
+They demonstrate that Louisiana participated in the wider 1952 wave of military and civilian UFO reporting that pushed the Air Force to devote greater attention to the subject. They also show how a sighting near an important Strategic Air Command installation could move into formal intelligence channels and become part of the archival record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</span><span class="citation-popover-meta">Published: December 4, 2019</span></span></span>
 
 For readers tracing Louisiana's aviation-related UFO history, the case remains one of the state's more useful official-record episodes because it links military witnesses, a major Air Force base and Blue Book documentation. Yet the available evidence also illustrates the limits of many Cold War UFO investigations. The reports are real, the witnesses were genuine Air Force personnel, and the paperwork survives in at least partial form. What remains missing is the level of corroboration needed to move the sightings from interesting historical reports to genuinely persuasive unexplained events.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Assessing the 1952 Shreveport and Barksdale Air Force UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Assessing the 1952 Shreveport and Barksdale Air Force UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for evaluating pilot observations and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for evaluating pilot observations and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for military UFO investigations in the early 1950s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for military UFO investigations in the early 1950s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches the aircrew and official-records angle of the Barksdale reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the aircrew and official-records angle of the Barksdale reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines military records and government investigative procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military records and government investigative procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Editions Military Giants Of The Sky C-46 Halifax B-17F Stirling MK1 Bundle"><img src="https://i.ebayimg.com/images/g/LwEAAeSwm-VqI9d8/s-l225.jpg" alt="Listing image for Atlas Editions Military Giants Of The Sky C-46 Halifax B-17F Stirling MK1 Bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Editions Military Giants Of The Sky C-46 Halifax B-17F Stirling MK1 Bundle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Editions Military Giants Of The Sky C-46 Halifax B-17F Stirling MK1 Bundle"><img src="https://i.ebayimg.com/images/g/LwEAAeSwm-VqI9d8/s-l225.jpg" alt="Listing image for Atlas Editions Military Giants Of The Sky C-46 Halifax B-17F Stirling MK1 Bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Editions Military Giants Of The Sky C-46 Halifax B-17F Stirling MK1 Bundle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for C46 Voluptuous Busty model. Glossy glamour set. HQ!"><img src="https://i.ebayimg.com/images/g/BBkAAeSwsj1qEtfn/s-l225.jpg" alt="Listing image for C46 Voluptuous Busty model. Glossy glamour set. HQ!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">C46 Voluptuous Busty model. Glossy glamour set. HQ!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for C46 Voluptuous Busty model. Glossy glamour set. HQ!"><img src="https://i.ebayimg.com/images/g/BBkAAeSwsj1qEtfn/s-l225.jpg" alt="Listing image for C46 Voluptuous Busty model. Glossy glamour set. HQ!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">C46 Voluptuous Busty model. Glossy glamour set. HQ!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S &amp; M Models SSM72-010 1:72 Curtiss C-46 LN-FOR Fred Olsen (MB)"><img src="https://i.ebayimg.com/images/g/-kMAAeSwuhVp9TfK/s-l225.jpg" alt="Listing image for S &amp; M Models SSM72-010 1:72 Curtiss C-46 LN-FOR Fred Olsen (MB)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">S &amp; M Models SSM72-010 1:72 Curtiss C-46 LN-FOR Fred Olsen (MB)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S &amp; M Models SSM72-010 1:72 Curtiss C-46 LN-FOR Fred Olsen (MB)"><img src="https://i.ebayimg.com/images/g/-kMAAeSwuhVp9TfK/s-l225.jpg" alt="Listing image for S &amp; M Models SSM72-010 1:72 Curtiss C-46 LN-FOR Fred Olsen (MB)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">S &amp; M Models SSM72-010 1:72 Curtiss C-46 LN-FOR Fred Olsen (MB)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Editions Military Giants Of The Sky 3903040 Curtiss C-46 Commando 1/144"><img src="https://i.ebayimg.com/images/g/x60AAeSwralqKcAG/s-l225.jpg" alt="Listing image for Atlas Editions Military Giants Of The Sky 3903040 Curtiss C-46 Commando 1/144" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Editions Military Giants Of The Sky 3903040 Curtiss C-46 Commando 1/144</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Editions Military Giants Of The Sky 3903040 Curtiss C-46 Commando 1/144"><img src="https://i.ebayimg.com/images/g/x60AAeSwralqKcAG/s-l225.jpg" alt="Listing image for Atlas Editions Military Giants Of The Sky 3903040 Curtiss C-46 Commando 1/144" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Editions Military Giants Of The Sky 3903040 Curtiss C-46 Commando 1/144</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for c46 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: c46 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=c46+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="c46 model" data-ebay-reference="assessing-the-1952-shreveport-and-barksdale-air-force-ufo-reports-c46-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ For readers tracing Louisiana's aviation-related UFO history, the case remains o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ For readers tracing Louisiana's aviation-related UFO history, the case remains o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ For readers tracing Louisiana's aviation-related UFO history, the case remains o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ For readers tracing Louisiana's aviation-related UFO history, the case remains o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ For readers tracing Louisiana's aviation-related UFO history, the case remains o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,120 +769,120 @@ For readers tracing Louisiana's aviation-related UFO history, the case remains o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Public Interest in UFOs Persists 50 Years After Project Blue  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...December 4, 2019 — 5 Dec 2019 — Project Blue Book, from...</p></details>
    Published: December 4, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upload.wikimedia.org  
    Title: This object vas at a very high altitude, and very little  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — Project observed a silver crescent-shaped object visually from the grou...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — Project observed a silver crescent-shaped object visually from the grou...</p></details>
    Published: September 9, 2005  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR6 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Catalog of 1600 Project Blue Book UFO...2 Oct 2009 — The main purpose of this catalog at present is to help identify and f...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Catalog of 1600 Project Blue Book UFO...2 Oct 2009 — The main purpose of this catalog at present is to help identify and f...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | Origins22 Dec 2024 — On December 17, 1969, the United States Air Force concluded Project B...</p></details>
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | Origins22 Dec 2024 — On December 17, 1969, the United States Air Force concluded Project B...</p></details>
    Published: December 17, 1969  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFO sightings through Project Blue Book. Of 12,618 sightings, 701 remained “unidentified...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFO sightings through Project Blue Book. Of 12,618 sightings, 701 remained “unidentified...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bossier Parish Libraries History Center&#x27;s postThe featuring article details a local resident reports of a bright, blinking lights over Ba...</p></details>
+   Link:<a href="https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bossier Parish Libraries History Center&#x27;s postThe featuring article details a local resident reports of a bright, blinking lights over Ba...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSWvc01ko5i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSWvc01ko5i/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hunting UFOs around the world #OnThisDay: On December...Under the Project Blue Book over 12, 618 sightings of UFOs of which 701 remained...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSWvc01ko5i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSWvc01ko5i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hunting UFOs around the world #OnThisDay: On December...Under the Project Blue Book over 12, 618 sightings of UFOs of which 701 remained...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book was the United States Air Force&#x27;s longest-running p...</p></details>
+   Link:<a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book was the United States Air Force&#x27;s longest-running p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video is highly relevant as it details the historical framing of military investigations during the exact period of the 1952 sightin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video is highly relevant as it details the historical framing of military investigations during the exact period of the 1952 sightin...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: af.mil  
    Title: The project, headquartered at Wright-Patterson Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue Book24 Jan 2024 — Based at Wright-Patterson, the operation collected all reports of UFO sightings...</p></details>
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue Book24 Jan 2024 — Based at Wright-Patterson, the operation collected all reports of UFO sightings...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: koreanwar.org  
    Title: 301st Bombardment Wing  
-   Link: <a href="https://www.koreanwar.org/html/units/usaf/301bw.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.koreanwar.org/html/units/usaf/301bw.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAFBarksdale AFB which is also required information for the Records Center. Realistically, all I am trying to figure out at this point i...</p></details>
+   Link:<a href="https://www.koreanwar.org/html/units/usaf/301bw.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.koreanwar.org/html/units/usaf/301bw.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAFBarksdale AFB which is also required information for the Records Center. Realistically, all I am trying to figure out at this point i...</p></details>

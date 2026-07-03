@@ -253,15 +253,15 @@ image: /assets/images/North_Dakota_0b6838_gorman_dogfight_913456_gorman_balloon_
 The most important question in the Fargo “[Gorman dogfight]({{ 'gorman-case/' | relative_url }})” is not whether George Gorman was sincere. Most researchers, including sceptical ones, accept that he genuinely believed he was chasing an intelligent object. The real issue is whether a pilot flying a fast fighter at night could mistake a slow, rising weather balloon for something that was dodging, climbing and outmanoeuvring him.
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_gorman_balloon_perce_d6e7bd-Illustration-1-dark.svg" | relative_url }}" alt="Night Illusions illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_gorman_balloon_perce_d6e7bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_gorman_balloon_perce_d6e7bd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Air Force eventually concluded that this is exactly what happened. The explanation was not that the balloon literally outflew a P-51 Mustang. Instead, investigators argued that the combination of darkness, a single light with no visible structure, rapid fighter manoeuvres and the difficulty of judging distance in the night sky created a powerful illusion of pursuit. In that interpretation, the apparent “dogfight” was largely produced by relative motion: Gorman was moving aggressively, while the balloon was drifting and climbing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
+The Air Force eventually concluded that this is exactly what happened. The explanation was not that the balloon literally outflew a P-51 Mustang. Instead, investigators argued that the combination of darkness, a single light with no visible structure, rapid fighter manoeuvres and the difficulty of judging distance in the night sky created a powerful illusion of pursuit. In that interpretation, the apparent “dogfight” was largely produced by relative motion: Gorman was moving aggressively, while the balloon was drifting and climbing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
 
 ## Could A Weather Balloon Really Outfly A Mustang?
 
-On its face, the idea sounds absurd. A weather balloon moves slowly and cannot perform combat manoeuvres. Gorman, meanwhile, was flying a high-performance fighter and reported head-on passes, sudden climbs and sharp turns. He believed the object was responding intelligently to his actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+On its face, the idea sounds absurd. A weather balloon moves slowly and cannot perform combat manoeuvres. Gorman, meanwhile, was flying a high-performance fighter and reported head-on passes, sudden climbs and sharp turns. He believed the object was responding intelligently to his actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 The balloon explanation does not require the balloon to match those manoeuvres. It depends on a different claim: that Gorman could not accurately judge the light's distance, altitude or speed.
 
-At night, a pilot looking at a single point of light has very few visual references. If the object has no visible body, wings, exhaust trail or background landmarks, the brain has to estimate range from limited information. A distant light can appear nearby. A slow-moving light can seem fast if the observer is moving rapidly. Investigators believed Gorman repeatedly interpreted changes in his own position as changes in the target's position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
+At night, a pilot looking at a single point of light has very few visual references. If the object has no visible body, wings, exhaust trail or background landmarks, the brain has to estimate range from limited information. A distant light can appear nearby. A slow-moving light can seem fast if the observer is moving rapidly. Investigators believed Gorman repeatedly interpreted changes in his own position as changes in the target's position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
 
 This matters because Gorman was not observing from a stable platform. He was accelerating, turning, climbing and diving in a fighter aircraft while trying to intercept an object whose true distance was unknown.
 
@@ -271,13 +271,13 @@ This matters because Gorman was not observing from a stable platform. He was acc
 
 Several details in Gorman's account actually fit the kind of visual ambiguities that investigators later emphasised.
 
-He initially described the object as a small blinking light with no visible shape. Later, during parts of the chase, it appeared brighter and steadier. He also repeatedly lost sight of it during manoeuvres before reacquiring it. At one point he blacked out briefly during a hard turn caused by high g-forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
+He initially described the object as a small blinking light with no visible shape. Later, during parts of the chase, it appeared brighter and steadier. He also repeatedly lost sight of it during manoeuvres before reacquiring it. At one point he blacked out briefly during a hard turn caused by high g-forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
 
 From the Air Force perspective, these moments were crucial.
 
-If the pilot temporarily loses visual contact with a target, even for a few seconds, he may reacquire a different light without realising it. [Project Sign]({{ 'project-sign/' | relative_url }}) investigators later suggested that after losing the original object, Gorman may have picked up another celestial target, possibly Jupiter, during part of the later chase. Whether or not that specific identification was correct, the broader point was that intermittent visual contact can distort a pilot's reconstruction of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+If the pilot temporarily loses visual contact with a target, even for a few seconds, he may reacquire a different light without realising it. [Project Sign]({{ 'project-sign/' | relative_url }}) investigators later suggested that after losing the original object, Gorman may have picked up another celestial target, possibly Jupiter, during part of the later chase. Whether or not that specific identification was correct, the broader point was that intermittent visual contact can distort a pilot's reconstruction of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-Investigators also noted an important difference between Gorman's testimony and the observations from the ground. Tower personnel and other witnesses saw a light, but they did not report the dramatic combat-style manoeuvres that Gorman described. That discrepancy supported the idea that the most extraordinary movements were being generated by the geometry of the chase rather than by the light itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Investigators also noted an important difference between Gorman's testimony and the observations from the ground. Tower personnel and other witnesses saw a light, but they did not report the dramatic combat-style manoeuvres that Gorman described. That discrepancy supported the idea that the most extraordinary movements were being generated by the geometry of the chase rather than by the light itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01GMBRxI-8I" title="Exploring North Dakota&#x27;s Urban Legends: Myths and Folklore in the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01GMBRxI-8I" target="_blank" rel="noopener noreferrer">Exploring North Dakota&#x27;s Urban Legends: Myths and Folklore in the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 50.9K &middot; Uploaded: June 2024 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01GMBRxI-8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01GMBRxI-8I">Open on YouTube</a></p></div></div></div>
 
@@ -299,9 +299,9 @@ The effect becomes much stronger in the air:
 
 </div>
 
-Under those conditions, a slowly rising balloon can appear to bank, climb or evade because the fighter is constantly changing its own position relative to the target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
+Under those conditions, a slowly rising balloon can appear to bank, climb or evade because the fighter is constantly changing its own position relative to the target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
 
-The New Yorker described the Air Force view using a simple analogy from a former Project Saucer technician. Chasing a balloon from a fighter, he argued, is like diving underwater after a floating ball that is steadily rising. The pursuer zigzags while the target continues on a comparatively simple path. The result is a strong impression that the target is slipping away or changing direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
+The New Yorker described the Air Force view using a simple analogy from a former Project Saucer technician. Chasing a balloon from a fighter, he argued, is like diving underwater after a floating ball that is steadily rising. The pursuer zigzags while the target continues on a comparatively simple path. The result is a strong impression that the target is slipping away or changing direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
 
 According to that interpretation, Gorman's impression that the object was “thinking” and responding to him emerged naturally from the geometry of pursuit rather than from any intelligent control.
 
@@ -312,9 +312,9 @@ One of the most dramatic parts of the Fargo case was Gorman's claim that the obj
 
 Again, the Air Force explanation focused on perception rather than performance.
 
-A weather balloon naturally rises. If a pilot underestimates the balloon's distance, he will also underestimate its altitude. As the balloon continues climbing, it can appear to be making a steep evasive ascent. Because the observer is moving quickly and changing direction, the apparent climb angle may seem much more dramatic than the balloon's actual motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+A weather balloon naturally rises. If a pilot underestimates the balloon's distance, he will also underestimate its altitude. As the balloon continues climbing, it can appear to be making a steep evasive ascent. Because the observer is moving quickly and changing direction, the apparent climb angle may seem much more dramatic than the balloon's actual motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-Investigators learned that a lighted weather balloon had been released from Fargo at approximately 8:50 p.m., about ten minutes before Gorman's first report. Its predicted location was broadly consistent with where witnesses first saw the light. The balloon was expected to drift and climb steadily, which matched some of the earliest observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Investigators learned that a lighted weather balloon had been released from Fargo at approximately 8:50 p.m., about ten minutes before Gorman's first report. Its predicted location was broadly consistent with where witnesses first saw the light. The balloon was expected to drift and climb steadily, which matched some of the earliest observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 What made the incident famous was not the balloon's movement itself but the interpretation placed on those movements by a pilot attempting a high-speed interception.
 
@@ -324,11 +324,11 @@ What made the incident famous was not the balloon's movement itself but the inte
 
 The balloon explanation gained credibility because Air Force personnel did not rely entirely on theory.
 
-After similar reports involving pilots chasing lights at night, researchers discussed controlled tests in which pilots would attempt to intercept known balloons under more controlled conditions. According to contemporary accounts, psychologist Dr Karl Fitts and others involved with the investigation argued that relative-motion illusions could be reproduced experimentally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
+After similar reports involving pilots chasing lights at night, researchers discussed controlled tests in which pilots would attempt to intercept known balloons under more controlled conditions. According to contemporary accounts, psychologist Dr Karl Fitts and others involved with the investigation argued that relative-motion illusions could be reproduced experimentally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</span></span></span>
 
 The reasoning was straightforward. If experienced pilots, fully aware that they were pursuing a weather balloon, still found it difficult to judge the target's motion accurately, then reports like Gorman's became easier to understand without invoking an extraordinary craft.
 
-Accounts associated with later Air Force discussions described pilots discovering that many apparent manoeuvres could indeed be recreated when chasing illuminated balloons. The key finding was not that balloons behaved like fighters, but that pilots often interpreted their own aircraft movements as movements by the target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergPlain Text UTF-8When the pilot was informed that he had been fighting a lighted weather balloon... Gorman was also the...</span></span></span>
+Accounts associated with later Air Force discussions described pilots discovering that many apparent manoeuvres could indeed be recreated when chasing illuminated balloons. The key finding was not that balloons behaved like fighters, but that pilots often interpreted their own aircraft movements as movements by the target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergPlain Text UTF-8When the pilot was informed that he had been fighting a lighted weather balloon... Gorman was also the...</span></span></span>
 
 This became one of the most important lessons drawn from the Fargo case. The investigation shifted attention away from the object's reported performance and towards the limitations of human perception during night interception.
 
@@ -337,201 +337,201 @@ This became one of the most important lessons drawn from the Fargo case. The inv
 
 The weather-balloon interpretation has never satisfied everyone.
 
-Supporters of the UFO interpretation argue that Gorman was a trained military pilot who spent nearly half an hour observing the object. They contend that an experienced flyer should not mistake a simple balloon for something that appeared to perform repeated aggressive manoeuvres. Critics of the Air Force explanation also question parts of the later reconstruction, including suggestions that Gorman may have confused the original light with Jupiter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Supporters of the UFO interpretation argue that Gorman was a trained military pilot who spent nearly half an hour observing the object. They contend that an experienced flyer should not mistake a simple balloon for something that appeared to perform repeated aggressive manoeuvres. Critics of the Air Force explanation also question parts of the later reconstruction, including suggestions that Gorman may have confused the original light with Jupiter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-Even so, many historians of UFO reports regard the balloon explanation as one of the stronger sceptical solutions in an early classic case. The reason is not that every detail was explained perfectly. Rather, investigators identified a real balloon launch, a known source of illuminated aerial targets, and a plausible mechanism by which a night-time fighter chase could transform a drifting light into an apparently evasive opponent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Even so, many historians of UFO reports regard the balloon explanation as one of the stronger sceptical solutions in an early classic case. The reason is not that every detail was explained perfectly. Rather, investigators identified a real balloon launch, a known source of illuminated aerial targets, and a plausible mechanism by which a night-time fighter chase could transform a drifting light into an apparently evasive opponent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-Within North Dakota's UFO history, that lesson may be as significant as the sighting itself. The Fargo incident became famous because a credible pilot felt he had engaged in an aerial duel. The lasting debate centres on whether the object was extraordinary, or whether the extraordinary element was the way human perception behaves when a fast fighter pilot chases a single light through a dark sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Within North Dakota's UFO history, that lesson may be as significant as the sighting itself. The Fargo incident became famous because a credible pilot felt he had engaged in an aerial duel. The lasting debate centres on whether the object was extraordinary, or whether the extraordinary element was the way human perception behaves when a fast fighter pilot chases a single light through a dark sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could A Weather Balloon Really Outfly A Mustang?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could A Weather Balloon Really Outfly A Mustang?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for pilot sightings and debates over official explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for pilot sightings and debates over official explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers witness perception, investigation methods and how unusual aerial reports are interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness perception, investigation methods and how unusual aerial reports are interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains perception errors, misidentification and critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains perception errors, misidentification and critical evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Connects directly to Air Force investigations of sightings and official case evaluations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects directly to Air Force investigations of sightings and official case evaluations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-weather-balloon-really-outfly-a-mustang-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-a-weather-balloon-really-outfly-a-mustang-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ Within North Dakota's UFO history, that lesson may be as significant as the sigh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ Within North Dakota's UFO history, that lesson may be as significant as the sigh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ Within North Dakota's UFO history, that lesson may be as significant as the sigh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ Within North Dakota's UFO history, that lesson may be as significant as the sigh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ Within North Dakota's UFO history, that lesson may be as significant as the sigh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,101 +737,101 @@ Within North Dakota's UFO history, that lesson may be as significant as the sigh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Gorman dogfight  
-   Link: <a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Gorman Dogfight  
-   Link: <a href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gorman_Dogfight</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gorman_Dogfight</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>  
+   Link:<a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: ufo dogfight gorman us plane fargo  
-   Link: <a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When a US Fighter Pilot Got Into a Dogfight with a UFO19 Jul 2018 — Back in Fargo, after the Air Weather Service revealed it had released...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a US Fighter Pilot Got Into a Dogfight with a UFO19 Jul 2018 — Back in Fargo, after the Air Weather Service revealed it had released...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerSomething in the SkyProject Saucer suspected that Gorman was tilting with a weather balloon. For one thing, it learned that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kids.kiddle.co  
    Title: Gorman dogfight  
-   Link: <a href="https://kids.kiddle.co/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Gorman_dogfight</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman dogfight Facts for Kids17 Oct 2025 — However, in 1949, the USAF decided that the Gorman dogfight was actually caused by a li...</p></details>
+   Link:<a href="https://kids.kiddle.co/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Gorman_dogfight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman dogfight Facts for Kids17 Oct 2025 — However, in 1949, the USAF decided that the Gorman dogfight was actually caused by a li...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.prairiepublic.org  
    Title: gorman dogfight  
-   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dogfight25 Apr 2022 — The incident the young lieutenant was referring to has since become known as the Gorman Dogfight, one of the early...</p></details>
+   Link:<a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dogfight25 Apr 2022 — The incident the young lieutenant was referring to has since become known as the Gorman Dogfight, one of the early...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Other postsThe US government tried to explain that the rapidly maneuvering bright object was a weather balloon, but ufologists never beli...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Other postsThe US government tried to explain that the rapidly maneuvering bright object was a weather balloon, but ufologists never beli...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: in 1948 george f gorman a 25 year old wwii veteran and north dakota national gua  
-   Link: <a href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1948, George F. Gorman, a 25-year-old WWII veteran...What followed became one of the most famous early UFO sightings in U.S. history...</p></details>
+   Link:<a href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1948, George F. Gorman, a 25-year-old WWII veteran...What followed became one of the most famous early UFO sightings in U.S. history...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: krocnews.com  
    Title: 1948 dogfight with ufo above fargo on history channel video  
-   Link: <a href="https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/" target="_blank" rel="noopener noreferrer nofollow">https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1948 Dogfight With UFO Above Fargo On History Channel...12 Jan 2019 — A widely publicized UFO incident occurred when 25 years old George...</p></details>
+   Link:<a href="https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/" target="_blank" rel="noopener noreferrer nofollow">https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1948 Dogfight With UFO Above Fargo On History Channel...12 Jan 2019 — A widely publicized UFO incident occurred when 25 years old George...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weirddarkness.com  
-   Link: <a href="https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE GORMAN DOGFIGHT: Did This Fighter Pilot Chase a...16 Aug 2025 — Project Sign seized on this explanation, despite multiple problems w...</p></details>
+   Link:<a href="https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE GORMAN DOGFIGHT: Did This Fighter Pilot Chase a...16 Aug 2025 — Project Sign seized on this explanation, despite multiple problems w...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences to misidentifications of mundane p...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences to misidentifications of mundane p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byRuppelt, Edward J. Inside stor1 of the saucers. Sci~nce digest, v. 39, Apr... Flying saucer controversy; meteorologica...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byRuppelt, Edward J. Inside stor1 of the saucers. Sci~nce digest, v. 39, Apr... Flying saucer controversy; meteorologica...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: gorman ufo dogfight of 1948  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman dogfight was a UFO incident which took place on October 1, 1948, in the skies over Fargo, North Dakota, United States.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman dogfight was a UFO incident which took place on October 1, 1948, in the skies over Fargo, North Dakota, United States.Read more...</p></details>
    Published: October 1, 1948  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wyominghistoryday.org  
    Title: UF O sighting by George F  
-   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october-1-1948" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october-1-1948</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman on October 1, 1948.Gorman dogfight was a widely publicized UFO incident which occured on October 1, 1948 near Fargo, North Dakota...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman on October 1, 1948.Gorman dogfight was a widely publicized UFO incident which occured on October 1, 1948 near Fargo, North Dakota...</p></details>
    Published: October 1, 1948  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hpr1.com  
    Title: the gorman dogfight  
-   Link: <a href="https://hpr1.com/index.php/feature/culture/the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-gorman-dogfight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>​The Gorman dogfight | High Plains Reader, Fargo ND14 Dec 2016 — The strange case of the unidentified flying object over Fargo was offici...</p></details>
+   Link:<a href="https://hpr1.com/index.php/feature/culture/the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-gorman-dogfight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>​The Gorman dogfight | High Plains Reader, Fargo ND14 Dec 2016 — The strange case of the unidentified flying object over Fargo was offici...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: 12 UFO Stories That Will Keep You Up Tonight | Forgotten History  
-   Link: <a href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SoiXiux51uo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring North Dakota&#x27;s Urban Legends: Myths and Folklore in the United States...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SoiXiux51uo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring North Dakota&#x27;s Urban Legends: Myths and Folklore in the United States...</p></details>

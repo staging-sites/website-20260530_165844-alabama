@@ -76,9 +76,9 @@ heading_title: What Makes Florida a Hotspot for UFO Sightings?
 page_heading_title: What Makes Florida a Hotspot for UFO Sightings?
 source_count: 24
 infographic_count: 3
-page_website_name: Florida UFOs
+page_website_name: Florida
 page_banner_line: Exploring Florida’s most intriguing aerial phenomena and sightings
-site_website_name: Florida UFOs
+site_website_name: Florida
 site_banner_line: Exploring Florida’s most intriguing aerial phenomena and sightings
 site_image_description: A night sky over Florida with multiple glowing lights and a triangular craft silhouette above a suburban landscape.
 output_language: English
@@ -479,245 +479,245 @@ image: /assets/images/Florida_30c2d0-overview-social.jpg
 
 ## A Long Trajectory of Sightings Across Florida
 
-Florida consistently ranks among the top U.S. states for UFO reports, with thousands of sightings filed since the 1970s. According to the National UFO Reporting Center (NUFORC), Floridians have reported over 8,000 sightings as of April 2023, second only to states with larger populations and astronomical observation communities. These reports include reports of lights, orbs, triangular or diamond‑shaped objects, and fast‑moving dots that witnesses could not readily identify. Most involve visual phenomena captured at night or near the horizon, often without corroborating radar or physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">The 4 most convincing UFO sightings in Florida history</span><span class="citation-popover-snippet">The Floricua Newsroom...</span></span></span>
+Florida consistently ranks among the top U.S. states for UFO reports, with thousands of sightings filed since the 1970s. According to the National UFO Reporting Center (NUFORC), Floridians have reported over 8,000 sightings as of April 2023, second only to states with larger populations and astronomical observation communities. These reports include reports of lights, orbs, triangular or diamond‑shaped objects, and fast‑moving dots that witnesses could not readily identify. Most involve visual phenomena captured at night or near the horizon, often without corroborating radar or physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">The 4 most convincing UFO sightings in Florida history</span><span class="citation-popover-snippet">The Floricua Newsroom...</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0-overview.webp" | relative_url }}" alt="Overview image for What Makes Florida a Hotspot for UFO..." loading="eager" decoding="sync" fetchpriority="high">
-In 2026 alone, local witness reporting platforms show recent Florida reports of bright red objects with trailing lights, quick‑moving orbs, and a lone triangular craft sighted in 2025 and early 2026. Many of these accounts lack photographic or radar support and reflect typical descriptions seen nationwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Florida UFO Reports</span><span class="citation-popover-snippet">Florida UFO Reports</span></span></span>
+In 2026 alone, local witness reporting platforms show recent Florida reports of bright red objects with trailing lights, quick‑moving orbs, and a lone triangular craft sighted in 2025 and early 2026. Many of these accounts lack photographic or radar support and reflect typical descriptions seen nationwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Florida UFO Reports</span><span class="citation-popover-snippet">Florida UFO Reports</span></span></span>
 
 ## Notable Florida UFO Incidents
 
 ### The Gulf Breeze Wave (Late 1987–1988)
 
-One of the most famous and controversial set of UFO reports in U.S. history unfolded in [Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}), a small city in northwest Florida. Beginning on 11 November 1987, local contractor Ed Walters supplied a series of Polaroid photographs to the *Gulf Breeze Sentinel* that he claimed showed disc‑shaped craft hovering over his property, sometimes emitting light beams. These images sparked intense local and national media attention, with several hundred residents reporting similar sightings over the next months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floridafolkhistory.org">[Florida Folk History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floridafolkhistory.org</span><span class="citation-popover-title">Florida Folk History Gulf Breeze UFO – Florida Folk History</span><span class="citation-popover-snippet">Florida Folk HistoryGulf Breeze UFO – Florida Folk HistoryNovember 20, 2025...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
+One of the most famous and controversial set of UFO reports in U.S. history unfolded in [Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}), a small city in northwest Florida. Beginning on 11 November 1987, local contractor Ed Walters supplied a series of Polaroid photographs to the *Gulf Breeze Sentinel* that he claimed showed disc‑shaped craft hovering over his property, sometimes emitting light beams. These images sparked intense local and national media attention, with several hundred residents reporting similar sightings over the next months.<span class="citation-chip-wrap"><a class="citation-chip" href="https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floridafolkhistory.org">[Florida Folk History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floridafolkhistory.org</span><span class="citation-popover-title">Florida Folk History Gulf Breeze UFO – Florida Folk History</span><span class="citation-popover-snippet">Florida Folk HistoryGulf Breeze UFO – Florida Folk HistoryNovember 20, 2025...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
 
-What made Gulf Breeze especially significant was both its mass eyewitness dimension and how it became a contentious case study in UFO investigation. Some researchers, including investigators from the Mutual UFO Network (MUFON), maintained that the photographs and reports were consistent with genuine unexplained objects. Skeptics, however, pointed to a styrofoam model found in Walters’s former home in 1990 that closely matched the photographed craft, suggesting a hoax or misrepresentation. Walters himself claimed the model was planted to discredit him, a claim that remains debated. Local air force installations reported no corresponding radar activity, and media investigations criticised early sensationalist reporting. To this day, the Gulf Breeze wave stands as one of the most documented—and disputed—UFO episodes in Florida. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+What made Gulf Breeze especially significant was both its mass eyewitness dimension and how it became a contentious case study in UFO investigation. Some researchers, including investigators from the Mutual UFO Network (MUFON), maintained that the photographs and reports were consistent with genuine unexplained objects. Skeptics, however, pointed to a styrofoam model found in Walters’s former home in 1990 that closely matched the photographed craft, suggesting a hoax or misrepresentation. Walters himself claimed the model was planted to discredit him, a claim that remains debated. Local air force installations reported no corresponding radar activity, and media investigations criticised early sensationalist reporting. To this day, the Gulf Breeze wave stands as one of the most documented—and disputed—UFO episodes in Florida.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0-Illustration-1-dark.svg" | relative_url }}" alt="What Makes Florida a Hotspot for UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Earlier and Other Sightings
 
-Florida’s UFO history includes earlier sightings that predate the Gulf Breeze wave by decades. For example, in 1952, a Florida scoutmaster reported emerging from the Everglades with burns and singed grass after claiming to encounter a glowing object, a case later labelled by U.S. Air Force Project Blue Book investigators as “the best hoax in UFO history,” though it continues to be discussed in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Florida’s UFO history includes earlier sightings that predate the Gulf Breeze wave by decades. For example, in 1952, a Florida scoutmaster reported emerging from the Everglades with burns and singed grass after claiming to encounter a glowing object, a case later labelled by U.S. Air Force Project Blue Book investigators as “the best hoax in UFO history,” though it continues to be discussed in UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo encounter florida desvergers scoutmaster burned</span><span class="citation-popover-snippet">This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. &#124; HISTORYAugust 23, 2018...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
-In the late 1960s, rural Florida towns reported orb‑like objects and sudden flashes accompanied by silent aerial objects that maneuvered in ways witnesses felt defied conventional aircraft capabilities. Independent reporting sites recount such instances around Blitho and Venice, though these narratives largely come from personal testimony gathered long after the fact and often lack contemporaneous documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+In the late 1960s, rural Florida towns reported orb‑like objects and sudden flashes accompanied by silent aerial objects that maneuvered in ways witnesses felt defied conventional aircraft capabilities. Independent reporting sites recount such instances around Blitho and Venice, though these narratives largely come from personal testimony gathered long after the fact and often lack contemporaneous documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2U69Gn2rTS0" title="UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer">UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 224.8K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2U69Gn2rTS0">Open on YouTube</a></p></div></div></div>
 
 ## How Florida’s Reports Fit Broader Patterns
 
-The variety of Florida’s UFO reports reflects wider national patterns rather than a unique phenomenon exclusive to the state. Common shapes—lights, orbs, triangles—and night‑time sightings mirror national reporting trends catalogued by NUFORC and other databases. Many Florida sightings occur in areas with clear skies and low air traffic, where bright lights or re‑entries of space debris are more noticeable to observers. The state’s proximity to Cape Canaveral and frequent rocket launches can also produce light phenomena in the sky that are misinterpreted by casual observers. Official bodies like the Pentagon’s All‑domain Anomaly Resolution Office have reiterated that while UAP sightings are real in the sense that witnesses report them, the data often does not support extraterrestrial interpretations, and many cases remain unresolved because of insufficient evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">Tyler Francischine</span><span class="citation-popover-snippet">The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
+The variety of Florida’s UFO reports reflects wider national patterns rather than a unique phenomenon exclusive to the state. Common shapes—lights, orbs, triangles—and night‑time sightings mirror national reporting trends catalogued by NUFORC and other databases. Many Florida sightings occur in areas with clear skies and low air traffic, where bright lights or re‑entries of space debris are more noticeable to observers. The state’s proximity to Cape Canaveral and frequent rocket launches can also produce light phenomena in the sky that are misinterpreted by casual observers. Official bodies like the Pentagon’s All‑domain Anomaly Resolution Office have reiterated that while UAP sightings are real in the sense that witnesses report them, the data often does not support extraterrestrial interpretations, and many cases remain unresolved because of insufficient evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">Tyler Francischine</span><span class="citation-popover-snippet">The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0-Illustration-3-dark.svg" | relative_url }}" alt="What Makes Florida a Hotspot for UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sceptical and Investigative Perspectives
 
-Investigative responses to Florida’s sightings range from enthusiastic documentation to thorough scepticism. Organisations such as MUFON compile and analyse eyewitness reports, providing structured databases that highlight recurring shapes and behaviour patterns. Meanwhile, official investigations like Project Blue Book historically examined high‑profile cases and often attributed them to natural or man‑made causes, misidentification, or deliberate fabrication. In Gulf Breeze, for example, the discovery of a physical model consistent with the photographs and the lack of independent radar or reliable contemporaneous documentation have led many analysts to view the episode with caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+Investigative responses to Florida’s sightings range from enthusiastic documentation to thorough scepticism. Organisations such as MUFON compile and analyse eyewitness reports, providing structured databases that highlight recurring shapes and behaviour patterns. Meanwhile, official investigations like Project Blue Book historically examined high‑profile cases and often attributed them to natural or man‑made causes, misidentification, or deliberate fabrication. In Gulf Breeze, for example, the discovery of a physical model consistent with the photographs and the lack of independent radar or reliable contemporaneous documentation have led many analysts to view the episode with caution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 
-Florida’s UFO reports also illustrate how cultural and media contexts influence interpretation. Waves of sightings can coincide with local news coverage, social media sharing, and public fascination, which in turn can prompt more reports that may be attributable to optical illusions, aircraft, satellites, drones, or atmospheric effects. Official guidance emphasises careful documentation and corroborating evidence before drawing extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">The 4 most convincing UFO sightings in Florida history</span><span class="citation-popover-snippet">The Floricua Newsroom...</span></span></span>
+Florida’s UFO reports also illustrate how cultural and media contexts influence interpretation. Waves of sightings can coincide with local news coverage, social media sharing, and public fascination, which in turn can prompt more reports that may be attributable to optical illusions, aircraft, satellites, drones, or atmospheric effects. Official guidance emphasises careful documentation and corroborating evidence before drawing extraordinary conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">The 4 most convincing UFO sightings in Florida history</span><span class="citation-popover-snippet">The Floricua Newsroom...</span></span></span>
 
 <img src="{{ "/assets/images/Florida_30c2d0-Illustration-2-dark.svg" | relative_url }}" alt="What Makes Florida a Hotspot for UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness Reporting and Official Records
 
-Databases like NUFORC and the UFO Index collect thousands of sighting reports from Florida, offering a public archive of dates, locations, and descriptions. These repositories are valuable for tracking patterns over time, but most entries are based on individual testimony without physical evidence. National government reporting over the last decade, including reports to Congress and releases by U.S. defence agencies, has acknowledged the existence of unexplained aerial phenomena but found no conclusive proof of extraterrestrial technology in any case, including those from Florida. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">Tyler Francischine</span><span class="citation-popover-snippet">The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
+Databases like NUFORC and the UFO Index collect thousands of sighting reports from Florida, offering a public archive of dates, locations, and descriptions. These repositories are valuable for tracking patterns over time, but most entries are based on individual testimony without physical evidence. National government reporting over the last decade, including reports to Congress and releases by U.S. defence agencies, has acknowledged the existence of unexplained aerial phenomena but found no conclusive proof of extraterrestrial technology in any case, including those from Florida.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">Tyler Francischine</span><span class="citation-popover-snippet">The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sQmSA0dvh6U" title="LIVE: Florida Congresswoman leads Federal Secrets Task Force UFO hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sQmSA0dvh6U" target="_blank" rel="noopener noreferrer">LIVE: Florida Congresswoman leads Federal Secrets Task Force UFO hearing</a></p><p class="youtube-embed-meta">Channel: FOX 35 Orlando &middot; Views: 1.4K &middot; Uploaded: September 2025 &middot; Length: 1 hour 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sQmSA0dvh6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sQmSA0dvh6U">Open on YouTube</a></p></div></div></div>
 
 ## Why Florida’s UFO History Matters
 
-Florida’s UFO history matters not because it provides conclusive evidence of extraterrestrial visitation, but because it encapsulates the interplay between public perception, witness testimony, investigative practice, and media representation. Cases like Gulf Breeze demonstrate how local incidents can scale into national fascination, prompting debates over evidence, hoaxes, and interpretation. The state’s extensive skies, clear observation conditions, and cultural backdrop make it fertile ground for sightings that challenge observers, researchers, and sceptics alike to weigh credence carefully against available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+Florida’s UFO history matters not because it provides conclusive evidence of extraterrestrial visitation, but because it encapsulates the interplay between public perception, witness testimony, investigative practice, and media representation. Cases like Gulf Breeze demonstrate how local incidents can scale into national fascination, prompting debates over evidence, hoaxes, and interpretation. The state’s extensive skies, clear observation conditions, and cultural backdrop make it fertile ground for sightings that challenge observers, researchers, and sceptics alike to weigh credence carefully against available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-snippet">UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1T5eRcACsQQ" title="The Gulf Breeze UFO Locations from Extraterrestrial 1987 Sighting - Inside Florida Spaceship Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1T5eRcACsQQ" target="_blank" rel="noopener noreferrer">The Gulf Breeze UFO Locations from Extraterrestrial 1987 Sighting - Inside Florida Spaceship Home</a></p><p class="youtube-embed-meta">Channel: TheDailyWoo &middot; Views: 56.2K &middot; Uploaded: February 2020 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1T5eRcACsQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1T5eRcACsQQ">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
-Florida’s UFO landscape is rich with thousands of reports—many of which involve intriguing lights and shapes in the sky, and a few, like the Gulf Breeze sightings of the late 1980s, that have become touchstones in UFO lore. While official investigations often attribute these phenomena to ordinary causes or lack sufficient evidence for extraordinary explanations, the persistence of sightings keeps Florida firmly in the conversation about unidentified aerial phenomena. What remains clear is that compelling narratives, careful documentation, and balanced scepticism are essential to understanding what people see—whether mundane, misinterpreted, or genuinely unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">Tyler Francischine</span><span class="citation-popover-snippet">The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
+Florida’s UFO landscape is rich with thousands of reports—many of which involve intriguing lights and shapes in the sky, and a few, like the Gulf Breeze sightings of the late 1980s, that have become touchstones in UFO lore. While official investigations often attribute these phenomena to ordinary causes or lack sufficient evidence for extraordinary explanations, the persistence of sightings keeps Florida firmly in the conversation about unidentified aerial phenomena. What remains clear is that compelling narratives, careful documentation, and balanced scepticism are essential to understanding what people see—whether mundane, misinterpreted, or genuinely unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floricuanews.com">[floricuanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floricuanews.com</span><span class="citation-popover-title">Tyler Francischine</span><span class="citation-popover-snippet">The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes Florida a Hotspot for UFO Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes Florida a Hotspot for UFO Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical grounding for postwar UFO waves discussed in Florida.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical grounding for postwar UFO waves discussed in Florida.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Introduces major UFO cases and official perspectives relevant to Florida&#x27;s history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces major UFO cases and official perspectives relevant to Florida&#x27;s history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Explains how UFO reports were investigated across decades.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports were investigated across decades.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers many landmark sightings and recurring UFO themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many landmark sightings and recurring UFO themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="https://i.ebayimg.com/images/g/3CIAAeSwtJZpFEmr/s-l225.jpg" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="https://i.ebayimg.com/images/g/3CIAAeSwtJZpFEmr/s-l225.jpg" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT"><img src="https://i.ebayimg.com/images/g/UkkAAOSwiHxkNSPp/s-l225.jpg" alt="Listing image for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT"><img src="https://i.ebayimg.com/images/g/UkkAAOSwiHxkNSPp/s-l225.jpg" alt="Listing image for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT"><img src="https://i.ebayimg.com/images/g/VLMAAOSwY05kOYHh/s-l225.jpg" alt="Listing image for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT"><img src="https://i.ebayimg.com/images/g/VLMAAOSwY05kOYHh/s-l225.jpg" alt="Listing image for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT"><img src="https://i.ebayimg.com/images/g/NVcAAOSw6mdhhoZT/s-l225.jpg" alt="Listing image for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT"><img src="https://i.ebayimg.com/images/g/NVcAAOSw6mdhhoZT/s-l225.jpg" alt="Listing image for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-makes-florida-a-hotspot-for-ufo-sightings-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ Florida’s UFO landscape is rich with thousands of reports—many of which invo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ Florida’s UFO landscape is rich with thousands of reports—many of which invo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ Florida’s UFO landscape is rich with thousands of reports—many of which invo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ Florida’s UFO landscape is rich with thousands of reports—many of which invo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ Florida’s UFO landscape is rich with thousands of reports—many of which invo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,118 +923,118 @@ Florida’s UFO landscape is rich with thousands of reports—many of which invo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufoindex.com  
    Title: Florida UFO Reports  
-   Link: <a href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/florida</a>  
+   Link:<a href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/florida</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: floricuanews.com  
    Title: The 4 most convincing UFO sightings in Florida history  
-   Link: <a href="https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow">https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Floricua Newsroom...</p></details>
+   Link:<a href="https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow">https://floricuanews.com/2024/06/14/the-4-most-convincing-ufo-sightings-in-florida-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Floricua Newsroom...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: ufo encounter florida desvergers scoutmaster burned  
-   Link: <a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. | HISTORYAugust 23, 2018...</p></details>
+   Link:<a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Scoutmaster Had a Run-in with a UFO. The Kids Saw it Too. | HISTORYAugust 23, 2018...</p></details>
    Published: August 23, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: floricuanews.com  
    Title: Tyler Francischine  
-   Link: <a href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow">https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</p></details>
+   Link:<a href="https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/" target="_blank" rel="noopener noreferrer nofollow">https://floricuanews.com/local/the-4-most-convincing-ufo-sightings-in-florida-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 most convincing UFO sightings in Florida history - The Floricua NewsroomJune 14, 2024 — THE 4 MOST CONVINCING UFO SIGHTINGS IN FLOR...</p></details>
    Published: June 14, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: floridafolkhistory.org  
    Title: Florida Folk History Gulf Breeze UFO – Florida Folk History  
-   Link: <a href="https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida Folk HistoryGulf Breeze UFO – Florida Folk HistoryNovember 20, 2025...</p></details>
+   Link:<a href="https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Florida Folk HistoryGulf Breeze UFO – Florida Folk HistoryNovember 20, 2025...</p></details>
    Published: November 20, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufoinsight.com  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightOne Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters - UFO InsightSeptember 10, 2023...</p></details>
    Published: September 10, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufoinsight.com  
    Title: blitho florida ufo incident  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/blitho-florida-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/blitho-florida-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe 1967 Blitho Florida UFO Incident - UFO InsightOctober 28, 2019...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/blitho-florida-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/blitho-florida-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe 1967 Blitho Florida UFO Incident - UFO InsightOctober 28, 2019...</p></details>
    Published: October 28, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufosentinel.com  
-   Link: <a href="https://www.ufosentinel.com/places/florida.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosentinel.com/places/florida.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsMarch 28, 2025 — FLORIDA UFO SIGHTINGS PAGE 1 PAGE 1 2 3 O Brien, Florida, Abduction UFO Sighting - Yep, anonymous because i...</p></details>
+   Link:<a href="https://www.ufosentinel.com/places/florida.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosentinel.com/places/florida.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsMarch 28, 2025 — FLORIDA UFO SIGHTINGS PAGE 1 PAGE 1 2 3 O Brien, Florida, Abduction UFO Sighting - Yep, anonymous because i...</p></details>
    Published: March 28, 2025  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufofinder.com  
-   Link: <a href="https://ufofinder.com/states/fl/siesta-key/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/states/fl/siesta-key/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Siesta Key, Florida | UFO Finder | UFO FinderSIESTA KEY, FLORIDA 8 documented UFO sightings 8 Sightings 6.3 Avg Credibil...</p></details>
+   Link:<a href="https://ufofinder.com/states/fl/siesta-key/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/states/fl/siesta-key/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Siesta Key, Florida | UFO Finder | UFO FinderSIESTA KEY, FLORIDA 8 documented UFO sightings 8 Sightings 6.3 Avg Credibil...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Florida | Stacker  
-   Link: <a href="https://stacker.com/stories/florida/cities-most-ufo-sightings-florida" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/florida/cities-most-ufo-sightings-florida</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN FLORIDA Written by: Stacker May 12, 2025 PeopleImages.com - Yuri A // Shutterstock [...</p></details>
+   Link:<a href="https://stacker.com/stories/florida/cities-most-ufo-sightings-florida" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/florida/cities-most-ufo-sightings-florida</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN FLORIDA Written by: Stacker May 12, 2025 PeopleImages.com - Yuri A // Shutterstock [...</p></details>
    Published: May 12, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lionsberg.wiki  
    Title: Originating in Gulf Breeze, Florida, local re  
-   Link: <a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO Sightings (1987) — Lionsberg WikiMay 3, 2026 — THE GULF BREEZE UFO SIGHTINGS (1987) Summary: The Gulf Breeze UFO sigh...</p></details>
+   Link:<a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO Sightings (1987) — Lionsberg WikiMay 3, 2026 — THE GULF BREEZE UFO SIGHTINGS (1987) Summary: The Gulf Breeze UFO sigh...</p></details>
    Published: May 3, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: patch.com  
    Title: UFO Sightings In FL: What Witnesses Saw And Where | Across Florida, FL Patch  
-   Link: <a href="https://patch.com/florida/across-fl/ufo-sightings-fl-what-witnesses-saw-where" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/florida/across-fl/ufo-sightings-fl-what-witnesses-saw-where</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings In FL: What Witnesses Saw And Where | Across Florida, FL Patch...</p></details>
+   Link:<a href="https://patch.com/florida/across-fl/ufo-sightings-fl-what-witnesses-saw-where" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/florida/across-fl/ufo-sightings-fl-what-witnesses-saw-where</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings In FL: What Witnesses Saw And Where | Across Florida, FL Patch...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fox35orlando.com  
    Title: Government releases report on UFO sig  
-   Link: <a href="https://www.fox35orlando.com/news/florida-has-more-ufo-sightings-than-almost-every-other-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.fox35orlando.com/news/florida-has-more-ufo-sightings-than-almost-every-other-state-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida has more UFO sightings than almost every other state: report | FOX 35 OrlandoAugust 4, 2023 — FLORIDA HAS MORE UFO SIGHTINGS THAN...</p></details>
+   Link:<a href="https://www.fox35orlando.com/news/florida-has-more-ufo-sightings-than-almost-every-other-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.fox35orlando.com/news/florida-has-more-ufo-sightings-than-almost-every-other-state-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Florida has more UFO sightings than almost every other state: report | FOX 35 OrlandoAugust 4, 2023 — FLORIDA HAS MORE UFO SIGHTINGS THAN...</p></details>
    Published: August 4, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forbes.com  
    Title: Navy Confirms It Fired The UFO Spotted Off The Coast Of Florida  
-   Link: <a href="https://www.forbes.com/sites/ericmack/2021/02/10/a-ufo-spotted-off-the-coast-of-florida-has-been-identified/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/ericmack/2021/02/10/a-ufo-spotted-off-the-coast-of-florida-has-been-identified/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes contributors publish independent expert analyses and insights. Eric Mack is a reporter cove...</p></details>
+   Link:<a href="https://www.forbes.com/sites/ericmack/2021/02/10/a-ufo-spotted-off-the-coast-of-florida-has-been-identified/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/ericmack/2021/02/10/a-ufo-spotted-off-the-coast-of-florida-has-been-identified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes contributors publish independent expert analyses and insights. Eric Mack is a reporter cove...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: alienbluebook.com  
    Title: the gulf breeze ufo sightings  
-   Link: <a href="https://alienbluebook.com/2023/06/26/the-gulf-breeze-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://alienbluebook.com/2023/06/26/the-gulf-breeze-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN BLUE BOOKJune 26, 2023 — THE GULF BREEZE UFO SIGHTINGS Posted on June 26, 2023 by Michael Kane Image THE GULF BREEZE SIGHTINGS In t...</p></details>
+   Link:<a href="https://alienbluebook.com/2023/06/26/the-gulf-breeze-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://alienbluebook.com/2023/06/26/the-gulf-breeze-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN BLUE BOOKJune 26, 2023 — THE GULF BREEZE UFO SIGHTINGS Posted on June 26, 2023 by Michael Kane Image THE GULF BREEZE SIGHTINGS In t...</p></details>
    Published: June 26, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: floryda.eu  
    Title: Obserwacje UFO na Florydzie  
-   Link: <a href="https://floryda.eu/obserwacje-ufo-na-florydzie/" target="_blank" rel="noopener noreferrer nofollow">https://floryda.eu/obserwacje-ufo-na-florydzie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Floryda, znana z piaszczystych plaż, parków rozrywki i słonecznej pogody, skrywa również inną, bardziej tajemniczą stronę. Od dziesięcioleci...</p></details>
+   Link:<a href="https://floryda.eu/obserwacje-ufo-na-florydzie/" target="_blank" rel="noopener noreferrer nofollow">https://floryda.eu/obserwacje-ufo-na-florydzie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Floryda, znana z piaszczystych plaż, parków rozrywki i słonecznej pogody, skrywa również inną, bardziej tajemniczą stronę. Od dziesięcioleci...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: LIVE: Florida Congresswoman leads Federal Secrets Task Force UFO hearing  
-   Link: <a href="https://www.youtube.com/watch?v=sQmSA0dvh6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sQmSA0dvh6U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO Locations from Extraterrestrial 1987 Sighting - Inside Florida Spaceship Home...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sQmSA0dvh6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sQmSA0dvh6U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO Locations from Extraterrestrial 1987 Sighting - Inside Florida Spaceship Home...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: gulf breeze ufo incident alleged photos  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1rx5e37/gulf_breeze_ufo_incident_alleged_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rx5e37/gulf_breeze_ufo_incident_alleged_photos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf Breeze UFO Incident: Alleged Photos, Investigations, and the Authenticity Debate (1987–1990)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rx5e37/gulf_breeze_ufo_incident_alleged_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rx5e37/gulf_breeze_ufo_incident_alleged_photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf Breeze UFO Incident: Alleged Photos, Investigations, and the Authenticity Debate (1987–1990)...</p></details>

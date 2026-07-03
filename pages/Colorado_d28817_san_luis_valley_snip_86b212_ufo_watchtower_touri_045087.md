@@ -250,16 +250,16 @@ image: /assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower
 
 ## Introduction
 
-The UFO Watchtower north of Hooper did not create the [San Luis Valley]({{ 'san-luis-valley/' | relative_url }})’s reputation for strange lights, but it changed how people experienced that reputation. Before the Watchtower opened in 2000, the valley’s UFO stories were mostly local folklore: ranch conversations, newspaper reports, rumours about livestock mutilations and scattered accounts of odd lights crossing the high desert sky. Judy Messoline’s roadside attraction turned those loose stories into a repeatable tourist ritual. Visitors arrived expecting to look up, compare [sightings]({{ 'sightings/' | relative_url }}), stay overnight and add their own experiences to a growing archive of stories. In that sense, the Watchtower became less a single “UFO site” than a social mechanism that amplified the valley’s identity as Colorado’s UFO hotspot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span> The result is what might be called a San Luis Valley sighting loop. Travellers hear about the valley’s lights, visit the Watchtower, spend hours scanning unusually dark skies, interpret ambiguous lights through the lens of local legend, then carry those stories online or back home. That cycle has helped keep southern Colorado in American UFO culture long after many famous flap periods faded from public attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">travelers from near and far to unique experiences regardless of the season.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuow.org">[KUOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuow.org</span><span class="citation-popover-title">ufo watchtower in colorado that started as a joke now draws thousands per year</span><span class="citation-popover-snippet">Now it draws about 10,000...Read more...</span></span></span>
+The UFO Watchtower north of Hooper did not create the [San Luis Valley]({{ 'san-luis-valley/' | relative_url }})’s reputation for strange lights, but it changed how people experienced that reputation. Before the Watchtower opened in 2000, the valley’s UFO stories were mostly local folklore: ranch conversations, newspaper reports, rumours about livestock mutilations and scattered accounts of odd lights crossing the high desert sky. Judy Messoline’s roadside attraction turned those loose stories into a repeatable tourist ritual. Visitors arrived expecting to look up, compare [sightings]({{ 'sightings/' | relative_url }}), stay overnight and add their own experiences to a growing archive of stories. In that sense, the Watchtower became less a single “UFO site” than a social mechanism that amplified the valley’s identity as Colorado’s UFO hotspot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span> The result is what might be called a San Luis Valley sighting loop. Travellers hear about the valley’s lights, visit the Watchtower, spend hours scanning unusually dark skies, interpret ambiguous lights through the lens of local legend, then carry those stories online or back home. That cycle has helped keep southern Colorado in American UFO culture long after many famous flap periods faded from public attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">travelers from near and far to unique experiences regardless of the season.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuow.org">[KUOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuow.org</span><span class="citation-popover-title">ufo watchtower in colorado that started as a joke now draws thousands per year</span><span class="citation-popover-snippet">Now it draws about 10,000...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-1-dark.svg" | relative_url }}" alt="Watchtower illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Judy Messoline opened the Watchtower
 
-The origin story matters because it shaped the attraction’s tone from the start. Judy Messoline was not originally presenting herself as a prophet or investigator. By her own account, the Watchtower began as an attempt to attract roadside tourists and make money from land that was struggling economically. She repeatedly described the idea as “a joke” in early interviews and later retrospectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uncovercolorado.com">[Uncover Colorado]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uncovercolorado.com</span><span class="citation-popover-title">ufo sightings san luis valley</span><span class="citation-popover-snippet">The San Luis Valley&#x27;s Weird Legacy of UFO Sightings18 Feb 2026 — Proprietor Judy Messoline is open about the fact that she founded the wa...</span></span></span>
+The origin story matters because it shaped the attraction’s tone from the start. Judy Messoline was not originally presenting herself as a prophet or investigator. By her own account, the Watchtower began as an attempt to attract roadside tourists and make money from land that was struggling economically. She repeatedly described the idea as “a joke” in early interviews and later retrospectives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uncovercolorado.com">[Uncover Colorado]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uncovercolorado.com</span><span class="citation-popover-title">ufo sightings san luis valley</span><span class="citation-popover-snippet">The San Luis Valley&#x27;s Weird Legacy of UFO Sightings18 Feb 2026 — Proprietor Judy Messoline is open about the fact that she founded the wa...</span></span></span>
 
-That detail helps explain why the Watchtower developed differently from more doctrinaire UFO destinations. The site mixed humour, camp aesthetics and genuine curiosity. Visitors encountered alien statues, hand-painted signs, gift-shop souvenirs and stories about paranormal “vortexes”, but they also found a relaxed atmosphere where sceptics and believers shared the same space. Messoline herself often occupied an in-between position: intrigued by sightings, willing to repeat extraordinary stories, but also openly aware that the attraction functioned as entertainment and tourism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span> The location also worked in practical terms. The San Luis Valley’s geography offers exceptionally broad sightlines beneath dark skies at roughly 7,600 feet above sea level. Aircraft lights, satellites, meteors and atmospheric effects can appear unusually vivid in such conditions. The Watchtower therefore gave visitors a dedicated viewing platform in a landscape already primed for skywatching. [[Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}). com]
+That detail helps explain why the Watchtower developed differently from more doctrinaire UFO destinations. The site mixed humour, camp aesthetics and genuine curiosity. Visitors encountered alien statues, hand-painted signs, gift-shop souvenirs and stories about paranormal “vortexes”, but they also found a relaxed atmosphere where sceptics and believers shared the same space. Messoline herself often occupied an in-between position: intrigued by sightings, willing to repeat extraordinary stories, but also openly aware that the attraction functioned as entertainment and tourism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span> The location also worked in practical terms. The San Luis Valley’s geography offers exceptionally broad sightlines beneath dark skies at roughly 7,600 feet above sea level. Aircraft lights, satellites, meteors and atmospheric effects can appear unusually vivid in such conditions. The Watchtower therefore gave visitors a dedicated viewing platform in a landscape already primed for skywatching. [[Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}). com]
 
-By the early 2000s the attraction had become a recognised stop on Colorado road-trip routes. Tourism agencies in the region increasingly promoted it as part of the valley’s identity, alongside Great Sand Dunes National Park and other eccentric roadside attractions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">travelers from near and far to unique experiences regardless of the season.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.colorado.com/region/mystic-san-luis-valley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.com">[Colorado.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.com</span><span class="citation-popover-snippet">Mystic San Luis ValleyEclectic curiosities are waiting to be discovered: A drive along Highway 17 leads to the UFO Watchtower, a quirky r...</span></span></span>
+By the early 2000s the attraction had become a recognised stop on Colorado road-trip routes. Tourism agencies in the region increasingly promoted it as part of the valley’s identity, alongside Great Sand Dunes National Park and other eccentric roadside attractions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">travelers from near and far to unique experiences regardless of the season.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.colorado.com/region/mystic-san-luis-valley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.com">[Colorado.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.com</span><span class="citation-popover-snippet">Mystic San Luis ValleyEclectic curiosities are waiting to be discovered: A drive along Highway 17 leads to the UFO Watchtower, a quirky r...</span></span></span>
 
 ## How the Watchtower changed the way sightings were reported
 
@@ -267,7 +267,7 @@ The most important historical effect of the Watchtower may not be any individual
 
 That expectation matters psychologically. Researchers who study anomalous perception have long noted that people interpret uncertain stimuli differently when they are primed for a particular experience. At the Watchtower, visitors already know the script before arriving: the valley is mysterious, the skies are active, and previous guests have supposedly seen strange objects. In such conditions, distant aircraft, satellites, Starlink trains, military activity, meteors or unusual cloud illumination can acquire heightened significance.
 
-The Watchtower institutionalised this process through informal documentation. Messoline collected visitor testimony in binders and books filled with handwritten accounts. Colorado Public Radio reported in 2025 that one binder alone contained more than 300 reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span>
+The Watchtower institutionalised this process through informal documentation. Messoline collected visitor testimony in binders and books filled with handwritten accounts. Colorado Public Radio reported in 2025 that one binder alone contained more than 300 reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">ufo watchtower celebrates 25 years</span><span class="citation-popover-snippet">Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</span></span></span>
 
 Those records are historically interesting even when they are not scientifically strong evidence. They show recurring patterns in witness language:
 
@@ -287,7 +287,7 @@ This is the sighting loop in action. The archive encourages future visitors to e
 
 ## The role of camping and overnight vigils
 
-Camping transformed the Watchtower from a novelty stop into an immersive experience. Instead of glancing at the sky for a few minutes, visitors stayed for hours or overnight in near-total darkness waiting for activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span>
+Camping transformed the Watchtower from a novelty stop into an immersive experience. Instead of glancing at the sky for a few minutes, visitors stayed for hours or overnight in near-total darkness waiting for activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span>
 
 That extended observation time naturally increases the number of unusual things people notice. Most Americans rarely spend long periods watching rural night skies. At the Watchtower, visitors suddenly encounter:
 
@@ -311,7 +311,7 @@ The experience resembles other famous UFO hotspots where tourism and observation
 <img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-2-dark.svg" | relative_url }}" alt="Watchtower illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Souvenirs, roadside kitsch and the business of UFO folklore
 
-The Watchtower survives partly because it embraces spectacle without pretending to be formal science. Alien statues, novelty signs, T-shirts, stickers and themed memorabilia are central to the attraction’s atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://roadtrippers.com/magazine/ufo-watchtower-colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadtrippers.com">[roadtrippers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadtrippers.com</span><span class="citation-popover-title">ufo watchtower colorado</span><span class="citation-popover-snippet">It started as a joke, but Colorado&#x27;s UFO Watchtower is now...Aug 4, 2020 — Visitors to the UFO Watchtower often decorate the alien figur...</span></span></span> This commercial side sometimes leads sceptics to dismiss the site entirely. Yet the tourism economy is actually one of the most revealing parts of the story. The Watchtower demonstrates how UFO folklore becomes economically sustainable even without definitive proof behind the claims.
+The Watchtower survives partly because it embraces spectacle without pretending to be formal science. Alien statues, novelty signs, T-shirts, stickers and themed memorabilia are central to the attraction’s atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://roadtrippers.com/magazine/ufo-watchtower-colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadtrippers.com">[roadtrippers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadtrippers.com</span><span class="citation-popover-title">ufo watchtower colorado</span><span class="citation-popover-snippet">It started as a joke, but Colorado&#x27;s UFO Watchtower is now...Aug 4, 2020 — Visitors to the UFO Watchtower often decorate the alien figur...</span></span></span> This commercial side sometimes leads sceptics to dismiss the site entirely. Yet the tourism economy is actually one of the most revealing parts of the story. The Watchtower demonstrates how UFO folklore becomes economically sustainable even without definitive proof behind the claims.
 
 The attraction sits within a wider American tradition of roadside mystery tourism:
 
@@ -326,7 +326,7 @@ The attraction sits within a wider American tradition of roadside mystery touris
 
 What makes the San Luis Valley distinctive is the blending of humour with genuine witness culture. Visitors may laugh at the alien décor while still seriously discussing something unusual they believe they saw later that night.
 
-The “Healing Garden” illustrates this blend especially well. Guests leave personal objects, photographs, toys and memorial items among rocks and sculptures linked to alleged energy vortexes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://roadtrippers.com/magazine/ufo-watchtower-colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadtrippers.com">[roadtrippers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadtrippers.com</span><span class="citation-popover-title">ufo watchtower colorado</span><span class="citation-popover-snippet">It started as a joke, but Colorado&#x27;s UFO Watchtower is now...Aug 4, 2020 — Visitors to the UFO Watchtower often decorate the alien figur...</span></span></span> From a sceptical perspective, the vortex claims have no established scientific basis. But culturally, the garden functions as a participatory ritual space. It allows visitors to leave behind physical traces of belief, curiosity or emotional investment. That deepens the sense that the Watchtower is not simply a viewing platform but a communal folklore site.
+The “Healing Garden” illustrates this blend especially well. Guests leave personal objects, photographs, toys and memorial items among rocks and sculptures linked to alleged energy vortexes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Watchtower</span><span class="citation-popover-snippet">UFO Watchtower</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://roadtrippers.com/magazine/ufo-watchtower-colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadtrippers.com">[roadtrippers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadtrippers.com</span><span class="citation-popover-title">ufo watchtower colorado</span><span class="citation-popover-snippet">It started as a joke, but Colorado&#x27;s UFO Watchtower is now...Aug 4, 2020 — Visitors to the UFO Watchtower often decorate the alien figur...</span></span></span> From a sceptical perspective, the vortex claims have no established scientific basis. But culturally, the garden functions as a participatory ritual space. It allows visitors to leave behind physical traces of belief, curiosity or emotional investment. That deepens the sense that the Watchtower is not simply a viewing platform but a communal folklore site.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x05mwnUFrWg" title="UFO Watchtower | San Luis Valley, Colorado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer">UFO Watchtower | San Luis Valley, Colorado</a></p><p class="youtube-embed-meta">Channel: Slone&#x27;s Wilderness Expeditions &middot; Views: 7.8K &middot; Uploaded: August 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x05mwnUFrWg">Open on YouTube</a></p></div></div></div>
 
@@ -347,212 +347,212 @@ The San Luis Valley’s UFO reputation persists because the underlying condition
 
 This does not prove that extraordinary craft are present. It explains why reports continue to emerge even without a single definitive modern case.
 
-Importantly, the Watchtower rarely produces the kind of evidence that convinces professional investigators. Most sightings are anecdotal. Photographs are often blurry or ambiguous. Videos tend to show distant lights without reliable reference points. Stories frequently grow stronger in retelling. Even enthusiasts admit that many observed lights could have ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or50-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-title">Attraction Review g33478 d2226817 Reviews or50 UFO Watchtower Hooper Colorado</span><span class="citation-popover-snippet">While it is bad luck to remove or take anything, they should ask permission from the...Read more...</span></span></span>
+Importantly, the Watchtower rarely produces the kind of evidence that convinces professional investigators. Most sightings are anecdotal. Photographs are often blurry or ambiguous. Videos tend to show distant lights without reliable reference points. Stories frequently grow stronger in retelling. Even enthusiasts admit that many observed lights could have ordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or50-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tripadvisor.com">[Tripadvisor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tripadvisor.com</span><span class="citation-popover-title">Attraction Review g33478 d2226817 Reviews or50 UFO Watchtower Hooper Colorado</span><span class="citation-popover-snippet">While it is bad luck to remove or take anything, they should ask permission from the...Read more...</span></span></span>
 
 Yet the weakness of the evidence has not diminished the attraction’s cultural power. In some ways, ambiguity helps the legend survive. A completely debunked site loses mystery, while a completely proven one would stop being folklore and become something else entirely. The Watchtower exists in the middle ground where uncertainty fuels continued participation.
 
 <img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-3-dark.svg" | relative_url }}" alt="Watchtower illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_ufo_watchtower_touri_045087-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From local curiosity to Colorado UFO landmark
 
-Over time the Watchtower became one of the best-known UFO destinations in the American West. Travel guides, state tourism material and national media increasingly treated it as part of Colorado’s eccentric landscape identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">travelers from near and far to unique experiences regardless of the season.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.colorado.com/center/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.com">[Colorado.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.com</span><span class="citation-popover-snippet">UFO WatchtowerThe watchtower is a 10-foot-tall viewing platform that takes advantage of the remote area&#x27;s high elevation. Pass the time w...</span></span></span>
+Over time the Watchtower became one of the best-known UFO destinations in the American West. Travel guides, state tourism material and national media increasingly treated it as part of Colorado’s eccentric landscape identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alamosa.org">[Visit Alamosa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alamosa.org</span><span class="citation-popover-snippet">travelers from near and far to unique experiences regardless of the season.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.colorado.com/center/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.com">[Colorado.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.com</span><span class="citation-popover-snippet">UFO WatchtowerThe watchtower is a 10-foot-tall viewing platform that takes advantage of the remote area&#x27;s high elevation. Pass the time w...</span></span></span>
 
 The attraction also kept older San Luis Valley legends alive by tying them together in one location. Stories about [Snippy]({{ 'snippy/' | relative_url }}) the horse, livestock mutilations, mysterious lights and regional folklore all became part of the same tourist narrative. Visitors arriving for one story quickly encountered the others.
 
 That linkage matters historically. UFO folklore often survives not because of one decisive event, but because local institutions keep retelling and reshaping older stories for new audiences. The Watchtower became exactly such an institution for southern Colorado.
 
-By the mid-2020s, media reports described annual visitor numbers in the thousands and portrayed the site as both sincere and knowingly theatrical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuow.org">[KUOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuow.org</span><span class="citation-popover-title">ufo watchtower in colorado that started as a joke now draws thousands per year</span><span class="citation-popover-snippet">Now it draws about 10,000...Read more...</span></span></span> The attraction’s endurance suggests that the San Luis Valley’s UFO identity now depends less on proving anomalous objects exist and more on maintaining a shared cultural experience built around watching the sky.
+By the mid-2020s, media reports described annual visitor numbers in the thousands and portrayed the site as both sincere and knowingly theatrical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuow.org">[KUOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuow.org</span><span class="citation-popover-title">ufo watchtower in colorado that started as a joke now draws thousands per year</span><span class="citation-popover-snippet">Now it draws about 10,000...Read more...</span></span></span> The attraction’s endurance suggests that the San Luis Valley’s UFO identity now depends less on proving anomalous objects exist and more on maintaining a shared cultural experience built around watching the sky.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XDUmOhPjUpQ" title="Colorado&#x27;s Strangest Mysteries Just Got Weirder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer">Colorado&#x27;s Strangest Mysteries Just Got Weirder</a></p><p class="youtube-embed-meta">Channel: Independence Overland &middot; Views: 82.0K &middot; Uploaded: April 2026 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XDUmOhPjUpQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the UFO Watchtower Made a Regional Legend Grow. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the UFO Watchtower Made a Regional Legend Grow. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider context for UFO tourism and public fascination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for UFO tourism and public fascination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Shows how locations become magnets for recurring mystery narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how locations become magnets for recurring mystery narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for understanding expectation, perception, and belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Useful for understanding expectation, perception, and belief formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explains how folklore and belief systems shape sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how folklore and belief systems shape sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="https://i.ebayimg.com/images/g/PwcAAOSwjzdoHiu2/s-l225.jpg" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="https://i.ebayimg.com/images/g/PwcAAOSwjzdoHiu2/s-l225.jpg" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="how-the-ufo-watchtower-made-a-regional-legend-grow-ufo-patch-book-books-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ By the mid-2020s, media reports described annual visitor numbers in the thousand
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ By the mid-2020s, media reports described annual visitor numbers in the thousand
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ By the mid-2020s, media reports described annual visitor numbers in the thousand
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ By the mid-2020s, media reports described annual visitor numbers in the thousand
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ By the mid-2020s, media reports described annual visitor numbers in the thousand
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,160 +758,160 @@ By the mid-2020s, media reports described annual visitor numbers in the thousand
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO Watchtower  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Watchtower</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Watchtower</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: roadtrippers.com  
    Title: ufo watchtower colorado  
-   Link: <a href="https://roadtrippers.com/magazine/ufo-watchtower-colorado/" target="_blank" rel="noopener noreferrer nofollow">https://roadtrippers.com/magazine/ufo-watchtower-colorado/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It started as a joke, but Colorado&#x27;s UFO Watchtower is now...Aug 4, 2020 — Visitors to the UFO Watchtower often decorate the alien figur...</p></details>
+   Link:<a href="https://roadtrippers.com/magazine/ufo-watchtower-colorado/" target="_blank" rel="noopener noreferrer nofollow">https://roadtrippers.com/magazine/ufo-watchtower-colorado/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It started as a joke, but Colorado&#x27;s UFO Watchtower is now...Aug 4, 2020 — Visitors to the UFO Watchtower often decorate the alien figur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: alamosa.org  
-   Link: <a href="https://www.alamosa.org/listing/ufo-watchtower/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/listing/ufo-watchtower/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit AlamosaUFO WatchtowerArguably Colorado&#x27;s most unique roadside attraction, the UFO Watchtower invites extraterrestrial seekers and c...</p></details>
+   Link:<a href="https://www.alamosa.org/listing/ufo-watchtower/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/listing/ufo-watchtower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit AlamosaUFO WatchtowerArguably Colorado&#x27;s most unique roadside attraction, the UFO Watchtower invites extraterrestrial seekers and c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kuow.org  
    Title: ufo watchtower in colorado that started as a joke now draws thousands per year  
-   Link: <a href="https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Now it draws about 10,000...Read more...</p></details>
+   Link:<a href="https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/ufo-watchtower-in-colorado-that-started-as-a-joke-now-draws-thousands-per-year</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now it draws about 10,000...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: colorado.com  
-   Link: <a href="https://www.colorado.com/region/mystic-san-luis-valley" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/region/mystic-san-luis-valley</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystic San Luis ValleyEclectic curiosities are waiting to be discovered: A drive along Highway 17 leads to the UFO Watchtower, a quirky r...</p></details>
+   Link:<a href="https://www.colorado.com/region/mystic-san-luis-valley" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/region/mystic-san-luis-valley</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystic San Luis ValleyEclectic curiosities are waiting to be discovered: A drive along Highway 17 leads to the UFO Watchtower, a quirky r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: colorado.com  
-   Link: <a href="https://www.colorado.com/center/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/center/ufo-watchtower</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WatchtowerThe watchtower is a 10-foot-tall viewing platform that takes advantage of the remote area&#x27;s high elevation. Pass the time w...</p></details>
+   Link:<a href="https://www.colorado.com/center/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/center/ufo-watchtower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WatchtowerThe watchtower is a 10-foot-tall viewing platform that takes advantage of the remote area&#x27;s high elevation. Pass the time w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: alamosa.org  
-   Link: <a href="https://www.alamosa.org/things-to-do/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/things-to-do/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit AlamosaVisit Alamosa | Things To DoDine on authentic cultural cuisine in Downtown Alamosa and go UFO spotting at the official UFO w...</p></details>
+   Link:<a href="https://www.alamosa.org/things-to-do/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/things-to-do/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit AlamosaVisit Alamosa | Things To DoDine on authentic cultural cuisine in Downtown Alamosa and go UFO spotting at the official UFO w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tripadvisor.com  
    Title: Attraction Review g33478 d2226817 Reviews or50 UFO Watchtower Hooper Colorado  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or50-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or50-UFO_Watchtower-Hooper_Colorado.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While it is bad luck to remove or take anything, they should ask permission from the...Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or50-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or50-UFO_Watchtower-Hooper_Colorado.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While it is bad luck to remove or take anything, they should ask permission from the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tripadvisor.com  
    Title: Attraction Review g33478 d2226817 Reviews or30 UFO Watchtower Hooper Colorado  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or30-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or30-UFO_Watchtower-Hooper_Colorado.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On you pilgrimage across the Cosmic Highway (HWY 17) make sure you stop by the...Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or30-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g33478-d2226817-Reviews-or30-UFO_Watchtower-Hooper_Colorado.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On you pilgrimage across the Cosmic Highway (HWY 17) make sure you stop by the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: alamosa.org  
-   Link: <a href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>travelers from near and far to unique experiences regardless of the season.Read more...</p></details>
+   Link:<a href="https://www.alamosa.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>travelers from near and far to unique experiences regardless of the season.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: alamosa.org  
-   Link: <a href="https://www.alamosa.org/blog/family-friendly-alamosa-adventure/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/blog/family-friendly-alamosa-adventure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Family Friendly Alamosa AdventureSan Luis Valley Museum. Immerse yourself in the history of the town that you... UFO Watchtower. Step in...</p></details>
+   Link:<a href="https://www.alamosa.org/blog/family-friendly-alamosa-adventure/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/blog/family-friendly-alamosa-adventure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Family Friendly Alamosa AdventureSan Luis Valley Museum. Immerse yourself in the history of the town that you... UFO Watchtower. Step in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: colorado.com  
-   Link: <a href="https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WatchtowerThe UFO Watchtower is an observation platform and campground north of Hooper, Colorado in San Luis Valley where tales of UF...</p></details>
+   Link:<a href="https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WatchtowerThe UFO Watchtower is an observation platform and campground north of Hooper, Colorado in San Luis Valley where tales of UF...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: colorado.com  
-   Link: <a href="https://www.colorado.com/cities-and-towns/alamosa" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/cities-and-towns/alamosa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alamosa Vacations, Activities &amp; Things To DoDiscover Alamosa and all it has to offer, from authentic local cuisine to historic train ride...</p></details>
+   Link:<a href="https://www.colorado.com/cities-and-towns/alamosa" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/cities-and-towns/alamosa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alamosa Vacations, Activities &amp; Things To DoDiscover Alamosa and all it has to offer, from authentic local cuisine to historic train ride...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO WATCHTOWER Hooper, CO  
-   Link: <a href="https://www.youtube.com/watch?v=nZzOtaLKMns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nZzOtaLKMns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower | San Luis Valley, Colorado...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nZzOtaLKMns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nZzOtaLKMns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower | San Luis Valley, Colorado...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO Watchtower | San Luis Valley, Colorado  
-   Link: <a href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x05mwnUFrWg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x05mwnUFrWg</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cpr.org  
    Title: ufo watchtower celebrates 25 years  
-   Link: <a href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</p></details>
+   Link:<a href="https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2025/04/24/ufo-watchtower-celebrates-25-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Public RadioUFO Watchtower in the San Luis Valley famous for a horse...Apr 24, 2025 — UFO Watchtower in the San Luis Valley fam...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uncovercolorado.com  
    Title: ufo sightings san luis valley  
-   Link: <a href="https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The San Luis Valley&#x27;s Weird Legacy of UFO Sightings18 Feb 2026 — Proprietor Judy Messoline is open about the fact that she founded the wa...</p></details>
+   Link:<a href="https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The San Luis Valley&#x27;s Weird Legacy of UFO Sightings18 Feb 2026 — Proprietor Judy Messoline is open about the fact that she founded the wa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theclio.com  
    Title: Clio UFO Watchtower  
-   Link: <a href="https://theclio.com/entry/108966" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/108966</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower - ClioThe UFO Watchtower, built in 2000, is a campground and viewing station for alien activity. The Watchtower is said to...</p></details>
+   Link:<a href="https://theclio.com/entry/108966" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/108966</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower - ClioThe UFO Watchtower, built in 2000, is a campground and viewing station for alien activity. The Watchtower is said to...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tripadvisor.co.uk  
    Title: Attraction Review g33478 d2226817 Reviews UFO Watchtower Hooper Colorado  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g33478-d2226817-Reviews-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g33478-d2226817-Reviews-UFO_Watchtower-Hooper_Colorado.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WATCHTOWER (2026) All You SHOULD Know...The greeter was friendly and enthusiastic about the local vortexes and photos of...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g33478-d2226817-Reviews-UFO_Watchtower-Hooper_Colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g33478-d2226817-Reviews-UFO_Watchtower-Hooper_Colorado.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WATCHTOWER (2026) All You SHOULD Know...The greeter was friendly and enthusiastic about the local vortexes and photos of...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theoriginalufowatchtower.com  
-   Link: <a href="https://theoriginalufowatchtower.com/" target="_blank" rel="noopener noreferrer nofollow">https://theoriginalufowatchtower.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WatchtowerSaguache County, Colorado USA · Located 2 miles N. of Hooper, CO · (scroll down for map) · Watch for the Alien signs!Read more...</p></details>
+   Link:<a href="https://theoriginalufowatchtower.com/" target="_blank" rel="noopener noreferrer nofollow">https://theoriginalufowatchtower.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WatchtowerSaguache County, Colorado USA · Located 2 miles N. of Hooper, CO · (scroll down for map) · Watch for the Alien signs!Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: komoot.com  
-   Link: <a href="https://www.komoot.com/highlight/6201698" target="_blank" rel="noopener noreferrer nofollow">https://www.komoot.com/highlight/6201698</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower – Hikes &amp; How to Get ThereThe UFO Watchtower is a truly unique observation platform and roadside attraction located in the...</p></details>
+   Link:<a href="https://www.komoot.com/highlight/6201698" target="_blank" rel="noopener noreferrer nofollow">https://www.komoot.com/highlight/6201698</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Watchtower – Hikes &amp; How to Get ThereThe UFO Watchtower is a truly unique observation platform and roadside attraction located in the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/discovercolorado/posts/1416801122435898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/discovercolorado/posts/1416801122435898/</a>  
+   Link:<a href="https://www.facebook.com/groups/discovercolorado/posts/1416801122435898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/discovercolorado/posts/1416801122435898/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HistoryColorado/posts/undeniable-evidence-of-extraterrestrial-life-at-the-height-of-the-civil-war-this/1279911630848021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryColorado/posts/undeniable-evidence-of-extraterrestrial-life-at-the-height-of-the-civil-war-this/1279911630848021/</a>  
+   Link:<a href="https://www.facebook.com/HistoryColorado/posts/undeniable-evidence-of-extraterrestrial-life-at-the-height-of-the-civil-war-this/1279911630848021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryColorado/posts/undeniable-evidence-of-extraterrestrial-life-at-the-height-of-the-civil-war-this/1279911630848021/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: denvergazette.com  
-   Link: <a href="https://www.denvergazette.com/2026/05/05/colorado-home-to-bermuda-triangle-of-the-west-folklore-ufo-sightings-and-nefarious-characters/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2026/05/05/colorado-home-to-bermuda-triangle-of-the-west-folklore-ufo-sightings-and-nefarious-characters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado home to &#x27;Bermuda Triangle of the West&#x27;5 May 2026 — A 2025 article from KRCC indicates that 304 UFO sightings have been documente...</p></details>
+   Link:<a href="https://www.denvergazette.com/2026/05/05/colorado-home-to-bermuda-triangle-of-the-west-folklore-ufo-sightings-and-nefarious-characters/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2026/05/05/colorado-home-to-bermuda-triangle-of-the-west-folklore-ufo-sightings-and-nefarious-characters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado home to &#x27;Bermuda Triangle of the West&#x27;5 May 2026 — A 2025 article from KRCC indicates that 304 UFO sightings have been documente...</p></details>
    Published: May 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
    Title: Colorado is a mile closer to space, and we're  
-   Link: <a href="https://www.instagram.com/p/DVAJ43RD6df/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVAJ43RD6df/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens in Oak Ridge? Files released TODAY from the Pentagon outline several decades-old UFO sightings in Oak Ridge. We&#x27;ve got a...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVAJ43RD6df/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVAJ43RD6df/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens in Oak Ridge? Files released TODAY from the Pentagon outline several decades-old UFO sightings in Oak Ridge. We&#x27;ve got a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: terrordaves.com  
-   Link: <a href="https://terrordaves.com/2016/06/21/invading-the-ufo-watchtower-in-hooper-colorado/" target="_blank" rel="noopener noreferrer nofollow">https://terrordaves.com/2016/06/21/invading-the-ufo-watchtower-in-hooper-colorado/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invading the UFO Watchtower in Hooper, Colorado!21 Jun 2016 — The Watch Tower is really more of an observation platform created by Stan a...</p></details>
+   Link:<a href="https://terrordaves.com/2016/06/21/invading-the-ufo-watchtower-in-hooper-colorado/" target="_blank" rel="noopener noreferrer nofollow">https://terrordaves.com/2016/06/21/invading-the-ufo-watchtower-in-hooper-colorado/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invading the UFO Watchtower in Hooper, Colorado!21 Jun 2016 — The Watch Tower is really more of an observation platform created by Stan a...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Colorado's Strangest Mysteries Just Got Weirder  
-   Link: <a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDUmOhPjUpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I&#x27;ve seen 29!&#x27;: Discover Colorado&#x27;s UFO hotspot with more sightings per capita than any place else...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDUmOhPjUpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I&#x27;ve seen 29!&#x27;: Discover Colorado&#x27;s UFO hotspot with more sightings per capita than any place else...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: amusingplanet.com  
-   Link: <a href="https://www.amusingplanet.com/2015/11/the-ufo-watchtower-in-hooper-colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2015/11/the-ufo-watchtower-in-hooper-colorado.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amusing PlanetThe UFO Watchtower in Hooper, Colorado26 Nov 2015 — Messoline erected the UFO Watchtower in 2000, but she didn&#x27;t expect any...</p></details>
+   Link:<a href="https://www.amusingplanet.com/2015/11/the-ufo-watchtower-in-hooper-colorado.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2015/11/the-ufo-watchtower-in-hooper-colorado.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amusing PlanetThe UFO Watchtower in Hooper, Colorado26 Nov 2015 — Messoline erected the UFO Watchtower in 2000, but she didn&#x27;t expect any...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: quirktravels.com  
    Title: Out of this world  
-   Link: <a href="https://www.quirktravels.com/stories/out-of-this-world" target="_blank" rel="noopener noreferrer nofollow">https://www.quirktravels.com/stories/out-of-this-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quirk Travels17 Oct 2025 — Twenty six. That&#x27;s the number UFOs Judy Messoline has seen from her UFO Watchtower since opening 15 years ago...</p></details>
+   Link:<a href="https://www.quirktravels.com/stories/out-of-this-world" target="_blank" rel="noopener noreferrer nofollow">https://www.quirktravels.com/stories/out-of-this-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quirk Travels17 Oct 2025 — Twenty six. That&#x27;s the number UFOs Judy Messoline has seen from her UFO Watchtower since opening 15 years ago...</p></details>

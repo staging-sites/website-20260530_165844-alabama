@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hawaii-a1be95-oahu-blue-object-927245/
 description: Focused pages that expand on Oahu Blue Object.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Hawaii_a1be95_oahu_blue_object_927245
 parent_title: Oahu Blue Object
@@ -16,7 +16,7 @@ parent_permalink: /oahu-blue-object/
 
 # Explore Topics in Oahu Blue Object
 
-The following pages expand on the main **[Oahu Blue Object]({{ '/oahu-blue-object/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Oahu Blue Object]({{ '/oahu-blue-object/' | relative_url }})** page and cover its key branches in.
 
 - [Balloon Hypothesis]({{ '/balloon-hypothesis/' | relative_url }})
 - [LED Kite Theory]({{ '/led-kite-theory/' | relative_url }})

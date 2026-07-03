@@ -268,7 +268,7 @@ image: /assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-overview-social.jp
 
 ## Introduction
 
-When Iowa residents report what they think might be an unidentified flying object, the vast majority of those reports have ordinary explanations rooted in natural, atmospheric, astronomical or human‑made phenomena. Sightings often start with something genuinely seen in the sky, but without reference points or technical context most observers misinterpret what they saw — especially lights, shapes and motion that seem unusual at first glance. Understanding these common explanations helps make sense of why Iowans see “UFOs” in the first place and why most cases, once investigated against known phenomena, are resolved without recourse to exotic hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+When Iowa residents report what they think might be an unidentified flying object, the vast majority of those reports have ordinary explanations rooted in natural, atmospheric, astronomical or human‑made phenomena. Sightings often start with something genuinely seen in the sky, but without reference points or technical context most observers misinterpret what they saw — especially lights, shapes and motion that seem unusual at first glance. Understanding these common explanations helps make sense of why Iowans see “UFOs” in the first place and why most cases, once investigated against known phenomena, are resolved without recourse to exotic hypotheses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-overview.webp" | relative_url }}" alt="Overview image for Explanations" loading="eager" decoding="sync" fetchpriority="high">
 ## When a “UFO” Is Really Something Familiar
@@ -277,20 +277,20 @@ When Iowa residents report what they think might be an unidentified flying objec
 
 Many sightings in Iowa that appear to be unexplained lights or mysterious movements in the sky turn out to be entirely natural celestial objects:
 
-* **Bright planets and stars:** Venus in particular is often mistaken for a stationary, glowing object that seems to hover or move slowly, leading observers to interpret it as unexplained. Even experienced skywatchers have confused bright planets with something “odd” in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
-* **Meteors and fireballs:** When meteoroids enter Earth’s atmosphere they can produce bright streaks of light or fireball bursts that last for several seconds. These can be misinterpreted as swift, manoeuvring craft, especially if seen at night with no frame of reference for speed or distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
-* **Artificial satellites and space stations:** The growth in satellite constellations — such as SpaceX’s Starlink — and visible passes of the International Space Station produce strings or trains of lights that slowly traverse the sky. Without context, these lights are often mistaken for unexplained aerial objects by casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
+* **Bright planets and stars:** Venus in particular is often mistaken for a stationary, glowing object that seems to hover or move slowly, leading observers to interpret it as unexplained. Even experienced skywatchers have confused bright planets with something “odd” in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
+* **Meteors and fireballs:** When meteoroids enter Earth’s atmosphere they can produce bright streaks of light or fireball bursts that last for several seconds. These can be misinterpreted as swift, manoeuvring craft, especially if seen at night with no frame of reference for speed or distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
+* **Artificial satellites and space stations:** The growth in satellite constellations — such as SpaceX’s Starlink — and visible passes of the International Space Station produce strings or trains of lights that slowly traverse the sky. Without context, these lights are often mistaken for unexplained aerial objects by casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
-These astronomical sources produce many of the common light‑based reports in databases like the National UFO Reporting Center’s, especially during dawn or dusk when planets and satellites are most visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings iowa</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Iowa12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Iowa u...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+These astronomical sources produce many of the common light‑based reports in databases like the National UFO Reporting Center’s, especially during dawn or dusk when planets and satellites are most visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings iowa</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Iowa12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Iowa u...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Man‑Made, Human‑Built Objects
 
 Not all explanations are natural — many involve ordinary but unfamiliar human technology:
 
-* **Aircraft and navigational lights:** Commercial flights, private aircraft, military jets and helicopters with navigation and anticollision lights can appear to hover or move oddly, especially at night or against cloud cover. These lights can seem to change speed or direction due to perspective distortion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationOfficers deflected attention from the crash of a top secret Project Mogul balloon by reporting that it w...</span></span></span>
-* **Balloons and drones:** Weather balloons, hobby balloons, sky lanterns, and increasingly common drones can hover or move in ways that are unfamiliar to an untrained observer. Their lights or reflective surfaces can give the mistaken impression of controlled motion or intelligent design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
-* **Flares and pyrotechnics:** Training exercises or celebratory fireworks displays release bright, slowly descending lights that may be misreported as unexplained objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toptenz.net/top-10-common-explanations-for-ufos.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toptenz.net">[Toptenz.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toptenz.net</span><span class="citation-popover-title">Top 10 Most Common Explanations for UFOs</span><span class="citation-popover-snippet">28, 2010...</span></span></span>
+* **Aircraft and navigational lights:** Commercial flights, private aircraft, military jets and helicopters with navigation and anticollision lights can appear to hover or move oddly, especially at night or against cloud cover. These lights can seem to change speed or direction due to perspective distortion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationOfficers deflected attention from the crash of a top secret Project Mogul balloon by reporting that it w...</span></span></span>
+* **Balloons and drones:** Weather balloons, hobby balloons, sky lanterns, and increasingly common drones can hover or move in ways that are unfamiliar to an untrained observer. Their lights or reflective surfaces can give the mistaken impression of controlled motion or intelligent design.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
+* **Flares and pyrotechnics:** Training exercises or celebratory fireworks displays release bright, slowly descending lights that may be misreported as unexplained objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toptenz.net/top-10-common-explanations-for-ufos.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toptenz.net">[Toptenz.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toptenz.net</span><span class="citation-popover-title">Top 10 Most Common Explanations for UFOs</span><span class="citation-popover-snippet">28, 2010...</span></span></span>
 
 These kinds of human‑built objects are especially relevant in rural and small‑town Iowa, where observers may be less familiar with modern light signatures in the night sky.
 
@@ -300,9 +300,9 @@ These kinds of human‑built objects are especially relevant in rural and small�
 
 The Earth’s atmosphere plays tricks that can easily fool human perception:
 
-* **Reflection, mirages and light scattering:** Temperature inversions and layers of air can bend light in ways that make fixed sources look like they’re moving or hovering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
-* **Unusual cloud formations:** Lenticular clouds and other rare cloud shapes can resemble rigid, disc‑like objects — a frequent puzzle in many UFO reports worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: farmersalmanac.com">[Farmers&#x27; Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">farmersalmanac.com</span><span class="citation-popover-title">Farmers&#x27; Almanac UFO Sighting?</span><span class="citation-popover-snippet">See This List Before Calling The Authorities!As it turns out, most “UFO sightings” are misidentifications of perfectly normal occurrences...</span></span></span>
-* **Lens flare and camera artefacts:** When observers use phones or cameras, internal reflections and optical artefacts can create the illusion of objects that aren’t really there or exaggerate the appearance of something mundane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: farmersalmanac.com">[Farmers&#x27; Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">farmersalmanac.com</span><span class="citation-popover-title">Farmers&#x27; Almanac UFO Sighting?</span><span class="citation-popover-snippet">See This List Before Calling The Authorities!As it turns out, most “UFO sightings” are misidentifications of perfectly normal occurrences...</span></span></span>
+* **Reflection, mirages and light scattering:** Temperature inversions and layers of air can bend light in ways that make fixed sources look like they’re moving or hovering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+* **Unusual cloud formations:** Lenticular clouds and other rare cloud shapes can resemble rigid, disc‑like objects — a frequent puzzle in many UFO reports worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: farmersalmanac.com">[Farmers&#x27; Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">farmersalmanac.com</span><span class="citation-popover-title">Farmers&#x27; Almanac UFO Sighting?</span><span class="citation-popover-snippet">See This List Before Calling The Authorities!As it turns out, most “UFO sightings” are misidentifications of perfectly normal occurrences...</span></span></span>
+* **Lens flare and camera artefacts:** When observers use phones or cameras, internal reflections and optical artefacts can create the illusion of objects that aren’t really there or exaggerate the appearance of something mundane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: farmersalmanac.com">[Farmers&#x27; Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">farmersalmanac.com</span><span class="citation-popover-title">Farmers&#x27; Almanac UFO Sighting?</span><span class="citation-popover-snippet">See This List Before Calling The Authorities!As it turns out, most “UFO sightings” are misidentifications of perfectly normal occurrences...</span></span></span>
 
 These atmospheric and photographic phenomena often account for the weird colours, sudden brightness changes, and “hovering” behaviours that witnesses describe.
 
@@ -311,9 +311,9 @@ These atmospheric and photographic phenomena often account for the weird colours
 
 A number of systematic factors contribute to why ordinary objects are misinterpreted as unidentified aerial phenomena:
 
-* **Lack of reference points:** Light in the open sky makes it difficult to assess distance and speed, leading observers to overestimate how fast or how large an object is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object (UFO) &#124; History, Sightings, &amp; Facts &#124; BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
-* **Cultural expectations:** Longstanding imagery from science‑fiction and pop culture shapes how people interpret unexplained lights or shapes, priming them to think in terms of exotic aerial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/danidiplacido/2026/05/22/ufo-files-here-are-the-most-popular-alien-theories-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">‘UFO Files’—The Most Popular Alien Theories, Explained</span><span class="citation-popover-snippet">Forbes‘UFO Files’—The Most Popular Alien Theories, ExplainedMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
-* **Increasing aerial clutter:** As more satellites, drones and experimental aircraft share the sky, observers without tracking tools are more likely to encounter something unfamiliar and label it as a UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
+* **Lack of reference points:** Light in the open sky makes it difficult to assess distance and speed, leading observers to overestimate how fast or how large an object is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object (UFO) &#124; History, Sightings, &amp; Facts &#124; BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+* **Cultural expectations:** Longstanding imagery from science‑fiction and pop culture shapes how people interpret unexplained lights or shapes, priming them to think in terms of exotic aerial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/danidiplacido/2026/05/22/ufo-files-here-are-the-most-popular-alien-theories-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">‘UFO Files’—The Most Popular Alien Theories, Explained</span><span class="citation-popover-snippet">Forbes‘UFO Files’—The Most Popular Alien Theories, ExplainedMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
+* **Increasing aerial clutter:** As more satellites, drones and experimental aircraft share the sky, observers without tracking tools are more likely to encounter something unfamiliar and label it as a UFO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
 These cognitive and technological contexts help explain why Iowa’s relatively modest UFO report numbers still yield a wide variety of descriptions — from orbs and shapes to lights that appear to manoeuvre — yet most are grounded in identifiable phenomena.
 
@@ -323,18 +323,18 @@ These cognitive and technological contexts help explain why Iowa’s relatively 
 
 When a report comes in, analysts use systematic criteria to determine what’s most likely responsible:
 
-* **Temporal and situational checks:** Matching the time and direction of the sighting to known satellite passes, planet positions or meteor activity often resolves a case quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
+* **Temporal and situational checks:** Matching the time and direction of the sighting to known satellite passes, planet positions or meteor activity often resolves a case quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 * **Witness consistency and corroboration:** Multiple independent reports from different vantage points help rule out optical illusions or photographic artefacts.
-* **Environmental context:** Weather conditions, moon phase, or local aerial activity (such as near airports or military training areas) provide crucial clues that often point to conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</span><span class="citation-popover-meta">Published: January 21, 2016</span></span></span>
+* **Environmental context:** Weather conditions, moon phase, or local aerial activity (such as near airports or military training areas) provide crucial clues that often point to conventional explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">How To Investigate a Flying Saucer</span><span class="citation-popover-snippet">How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</span><span class="citation-popover-meta">Published: January 21, 2016</span></span></span>
 
 Only after these tests fail to account for an observation does a report remain “unexplained,” and even then it may simply reflect insufficient data rather than evidence of something extraordinary.
 
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## So What Does This Mean for Iowa Sightings?
 
-Iowa’s UFO reports tend to cluster around lights, slow‑moving orbs, and short‑duration events — the very kinds of observations most readily explained by celestial bodies, aircraft, balloons and optical effects. With almost 1,200 reports logged in the state’s NUFORC records since 1995, patterns emerge that mirror broader American UFO data: the vast majority of cases fall into categories that investigators have repeatedly identified as misinterpretations of familiar phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings iowa</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Iowa12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Iowa u...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Iowa’s UFO reports tend to cluster around lights, slow‑moving orbs, and short‑duration events — the very kinds of observations most readily explained by celestial bodies, aircraft, balloons and optical effects. With almost 1,200 reports logged in the state’s NUFORC records since 1995, patterns emerge that mirror broader American UFO data: the vast majority of cases fall into categories that investigators have repeatedly identified as misinterpretations of familiar phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings iowa</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Iowa12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Iowa u...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-This does not trivialise every sighting — some remain genuinely unresolved due to limited data — but it does mean that most Iowa reports have a plausible, prosaic explanation rooted in the physics of light, atmospheric behaviour, human aviation and increasing skyborne technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
+This does not trivialise every sighting — some remain genuinely unresolved due to limited data — but it does mean that most Iowa reports have a plausible, prosaic explanation rooted in the physics of light, atmospheric behaviour, human aviation and increasing skyborne technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
 
 ## Ready Guide: Quick Reality Checks for an Iowa “UFO”
 
@@ -347,199 +347,199 @@ This does not trivialise every sighting — some remain genuinely unresolved due
 
 </div>
 
-Using these simple checks, most “UFO” sightings can be understood within the context of everyday skywatching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
+Using these simple checks, most “UFO” sightings can be understood within the context of everyday skywatching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/08Of8uTAZBo" title="Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization.</a></p><p class="youtube-embed-meta">Channel: Through Conversations Podcast &middot; Views: 82.5K &middot; Uploaded: June 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=08Of8uTAZBo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Is an Iowa UFO Probably Ordinary?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Is an Iowa UFO Probably Ordinary?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts stronger cases with ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts stronger cases with ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses misperception, evidence evaluation and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses misperception, evidence evaluation and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Helps explain why planets, meteors and sky phenomena are misidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why planets, meteors and sky phenomena are misidentified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Introduces astronomical phenomena often mistaken for unusual objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces astronomical phenomena often mistaken for unusual objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-is-an-iowa-ufo-probably-ordinary-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ Using these simple checks, most “UFO” sightings can be understood within the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ Using these simple checks, most “UFO” sightings can be understood within the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ Using these simple checks, most “UFO” sightings can be understood within the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ Using these simple checks, most “UFO” sightings can be understood within the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ Using these simple checks, most “UFO” sightings can be understood within the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,159 +745,159 @@ Using these simple checks, most “UFO” sightings can be understood within the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: uapsightings.org  
    Title: Common UAP Misidentifications  
-   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</p></details>
+   Link:<a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</p></details>
    Published: August 30, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: stacker.com  
    Title: cities most ufo sightings iowa  
-   Link: <a href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cities With the Most UFO Sightings in Iowa12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Iowa u...</p></details>
+   Link:<a href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cities With the Most UFO Sightings in Iowa12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Iowa u...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: toptenz.net  
    Title: Top 10 Most Common Explanations for UFOs  
-   Link: <a href="https://www.toptenz.net/top-10-common-explanations-for-ufos.php" target="_blank" rel="noopener noreferrer nofollow">https://www.toptenz.net/top-10-common-explanations-for-ufos.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2010...</p></details>
+   Link:<a href="https://www.toptenz.net/top-10-common-explanations-for-ufos.php" target="_blank" rel="noopener noreferrer nofollow">https://www.toptenz.net/top-10-common-explanations-for-ufos.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2010...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Possible interpretations of UFO reports  
-   Link: <a href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified flying object (UFO) | History, Sightings, &amp; Facts | BritannicaMarch 11, 2026...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified flying object (UFO) | History, Sightings, &amp; Facts | BritannicaMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: forbes.com  
    Title: ‘UFO Files’—The Most Popular Alien Theories, Explained  
-   Link: <a href="https://www.forbes.com/sites/danidiplacido/2026/05/22/ufo-files-here-are-the-most-popular-alien-theories-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/danidiplacido/2026/05/22/ufo-files-here-are-the-most-popular-alien-theories-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes‘UFO Files’—The Most Popular Alien Theories, ExplainedMay 22, 2026...</p></details>
+   Link:<a href="https://www.forbes.com/sites/danidiplacido/2026/05/22/ufo-files-here-are-the-most-popular-alien-theories-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/danidiplacido/2026/05/22/ufo-files-here-are-the-most-popular-alien-theories-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes‘UFO Files’—The Most Popular Alien Theories, ExplainedMay 22, 2026...</p></details>
    Published: May 22, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
    Title: How To Investigate a Flying Saucer  
-   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</p></details>
+   Link:<a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Investigate a Flying Saucer - CIAJanuary 21, 2016...</p></details>
    Published: January 21, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: What are some possible explanations for UFO sightings?  
-   Link: <a href="https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BritannicaWHAT ARE SOME POSSIBLE EXPLANATIONS FOR UFO SIGHTINGS? More Actions Cite verifiedCite While every effort has been made to fol...</p></details>
+   Link:<a href="https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BritannicaWHAT ARE SOME POSSIBLE EXPLANATIONS FOR UFO SIGHTINGS? More Actions Cite verifiedCite While every effort has been made to fol...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationOfficers deflected attention from the crash of a top secret Project Mogul balloon by reporting that it w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationOfficers deflected attention from the crash of a top secret Project Mogul balloon by reporting that it w...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: farmersalmanac.com  
    Title: Farmers' Almanac UFO Sighting?  
-   Link: <a href="https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities" target="_blank" rel="noopener noreferrer nofollow">https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See This List Before Calling The Authorities!As it turns out, most “UFO sightings” are misidentifications of perfectly normal occurrences...</p></details>
+   Link:<a href="https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities" target="_blank" rel="noopener noreferrer nofollow">https://www.farmersalmanac.com/ufo-sighting-see-this-list-before-calling-the-authorities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See This List Before Calling The Authorities!As it turns out, most “UFO sightings” are misidentifications of perfectly normal occurrences...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.com  
    Title: lubbock lights ufo sightings  
-   Link: <a href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/lubbock-lights-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of the Lubbock Lights UFO Sightings | HISTORYAugust 24, 2018 — By: Hadley Meares Mysteries &amp; Folklore THE UNSOLVED M...</p></details>
+   Link:<a href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/lubbock-lights-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of the Lubbock Lights UFO Sightings | HISTORYAugust 24, 2018 — By: Hadley Meares Mysteries &amp; Folklore THE UNSOLVED M...</p></details>
    Published: August 24, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: astronomytrek.com  
    Title: UF O Sightings | Explanations Behind the Phenomena  
-   Link: <a href="https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings | Explanations Behind the PhenomenaMarch 1, 2015 — COMMON EXPLANATIONS FOR MISTAKEN UFO SIGHTINGS James Miller FAQs Image...</p></details>
+   Link:<a href="https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings | Explanations Behind the PhenomenaMarch 1, 2015 — COMMON EXPLANATIONS FOR MISTAKEN UFO SIGHTINGS James Miller FAQs Image...</p></details>
    Published: March 1, 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.com  
    Title: Air Force, and Lockheed Martin to test flights of experimental airc  
-   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; Abductions | HISTORYOctober 27, 2009 — AREA 51 In the 1950s and 60s, multiple UFO sightings were...</p></details>
+   Link:<a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; Abductions | HISTORYOctober 27, 2009 — AREA 51 In the 1950s and 60s, multiple UFO sightings were...</p></details>
    Published: October 27, 2009  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: for whatever reason 2025 has yielded more ufo sightings than previous years does  
-   Link: <a href="https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For whatever reason, 2025 has yielded more UFO...8/12 - NASA says it&#x27;s a comet. The scientist says aliens. 8/21 - Still the same situati...</p></details>
+   Link:<a href="https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For whatever reason, 2025 has yielded more UFO...8/12 - NASA says it&#x27;s a comet. The scientist says aliens. 8/21 - Still the same situati...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iowapublicradio.org  
    Title: ufo files spanning decades are released by defense department  
-   Link: <a href="https://www.iowapublicradio.org/news-from-npr/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.iowapublicradio.org/news-from-npr/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...8 May 2026 — Cold War reports of mysterious rotating saucers; recent sightings of m...</p></details>
+   Link:<a href="https://www.iowapublicradio.org/news-from-npr/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.iowapublicradio.org/news-from-npr/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...8 May 2026 — Cold War reports of mysterious rotating saucers; recent sightings of m...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: UF Os, or the notion of them, have been around a long time  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The vast majority of sightings can be attributed to satellites, meteors, the planet Venus, birds, bats, planes, drones and the light play...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/ufos-or-the-notion-of-them-have-been-around-a-long-time-heres-a-look-at-how-the-/1371436954843181/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The vast majority of sightings can be attributed to satellites, meteors, the planet Venus, birds, bats, planes, drones and the light play...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1399832345244240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1399832345244240/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its perfect star-like form reflects sunlight and shifts with the wind in...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1399832345244240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1399832345244240/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Its perfect star-like form reflects sunlight and shifts with the wind in...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYkm98Izdoh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkm98Izdoh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>est natural explanations, like weather balloons or drones, while...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYkm98Izdoh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkm98Izdoh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>est natural explanations, like weather balloons or drones, while...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: popsci.com  
    Title: What that UFO might actually be | Popular Science  
-   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IT WAS PROBABLY ONE OF THESE THINGS. How to turn your strange sighting into a perfectly identifiable flying object. By Jon Kelvey Publish...</p></details>
+   Link:<a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IT WAS PROBABLY ONE OF THESE THINGS. How to turn your strange sighting into a perfectly identifiable flying object. By Jon Kelvey Publish...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: axios.com  
    Title: Midwest's UFO sightings lag behind other regions  
-   Link: <a href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Axios Des MoinesOctober 25, 2024 — Oct 25, 2024 - Culture THE MIDWEST IS FLYOVER COUNTRY — EVEN FOR UFO SIGHTINGS Image * Linh Ta * email...</p></details>
+   Link:<a href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Axios Des MoinesOctober 25, 2024 — Oct 25, 2024 - Culture THE MIDWEST IS FLYOVER COUNTRY — EVEN FOR UFO SIGHTINGS Image * Linh Ta * email...</p></details>
    Published: October 25, 2024  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scientificamerican.com  
    Title: UF Os, UAPs and CRAPs | Scientific American  
-   Link: <a href="https://www.scientificamerican.com/article/ufos-uaps-and-craps/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ufos-uaps-and-craps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs and CRAPs | Scientific AmericanApril 1, 2011 — April 1, 2011 3 min read UFOs, UAPs and CRAPs Unidentified aerial phenomena off...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/ufos-uaps-and-craps/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ufos-uaps-and-craps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs and CRAPs | Scientific AmericanApril 1, 2011 — April 1, 2011 3 min read UFOs, UAPs and CRAPs Unidentified aerial phenomena off...</p></details>
    Published: April 1, 2011  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: higgypop.com  
    Title: A study conduct by Sam Monfort, a doctoral  
-   Link: <a href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Most Common Explanations For UFO Sightings | HiggypopJanuary 8, 2017 — UFOs 10 MOST COMMON EXPLANATIONS FOR UFO SIGHTINGS January 08...</p></details>
+   Link:<a href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Most Common Explanations For UFO Sightings | HiggypopJanuary 8, 2017 — UFOs 10 MOST COMMON EXPLANATIONS FOR UFO SIGHTINGS January 08...</p></details>
    Published: January 8, 2017

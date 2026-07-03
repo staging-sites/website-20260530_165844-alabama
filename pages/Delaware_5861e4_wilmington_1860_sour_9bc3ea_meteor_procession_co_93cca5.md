@@ -253,11 +253,11 @@ image: /assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea_meteor_process
 The strongest natural explanation proposed for Wilmington’s 1860 “UFO” story is the Great Meteor Procession of 20 July 1860, a rare sky event seen across parts of the United States. The comparison matters because the reported Wilmington object and the documented meteor procession share several unusual features: a long luminous form, multiple glowing fragments, slow apparent movement and dramatic public reaction. Yet the match is not perfect. The dates differ, the reported direction and altitude are uncertain, and the Wilmington account survives mainly through later retellings rather than a clearly verifiable newspaper clipping.
 
 <img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea_meteor_procession_co_93cca5-Illustration-1-dark.svg" | relative_url }}" alt="Meteor Link illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea_meteor_procession_co_93cca5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea_meteor_procession_co_93cca5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Delaware UFO history, the meteor comparison is important not because it definitively solves the case, but because it shows how nineteenth-century astronomical events could later sound surprisingly modern. A rare meteor procession described in 1860 language can easily resemble a twentieth-century flying saucer report when stripped from its original context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1860_Great_Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1860 Great Meteor</span><span class="citation-popover-snippet">1860 Great Meteor</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
+For Delaware UFO history, the meteor comparison is important not because it definitively solves the case, but because it shows how nineteenth-century astronomical events could later sound surprisingly modern. A rare meteor procession described in 1860 language can easily resemble a twentieth-century flying saucer report when stripped from its original context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1860_Great_Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1860 Great Meteor</span><span class="citation-popover-snippet">1860 Great Meteor</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
 
 ## What the Great Meteor Procession looked like
 
-The Great Meteor Procession of 1860 occurred on the evening of 20 July 1860 and was witnessed across a wide area of North America. Modern astronomers identify it as an “Earth-grazing” meteor event: a meteor entering the atmosphere at a shallow angle, fragmenting into multiple glowing bodies and travelling a long visible path across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1860_Great_Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1860 Great Meteor</span><span class="citation-popover-snippet">1860 Great Meteor</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
+The Great Meteor Procession of 1860 occurred on the evening of 20 July 1860 and was witnessed across a wide area of North America. Modern astronomers identify it as an “Earth-grazing” meteor event: a meteor entering the atmosphere at a shallow angle, fragmenting into multiple glowing bodies and travelling a long visible path across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1860_Great_Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1860 Great Meteor</span><span class="citation-popover-snippet">1860 Great Meteor</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
 
 Contemporary and later descriptions repeatedly mention characteristics that sound strikingly similar to later UFO narratives:
 
@@ -266,11 +266,11 @@ Contemporary and later descriptions repeatedly mention characteristics that soun
 * Fragmentation into multiple glowing objects.
 * Long horizontal travel across the sky.
 * Bright colours and glowing tails.
-* Witnesses struggling to describe what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/remembering-the-great-meteor-procession-of-1860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">remembering the great meteor procession of 1860</span><span class="citation-popover-snippet">Universe TodayRemembering the Great Meteor Procession of 186020 Jul 2013 — A remarkable astronomical event also occurred over the northea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/blog/cocktail-party-physics/forensic-astronomer-cracks-the-case-of-historic-meteor-procession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanForensic Astronomer Cracks the Case of Historic Meteor...There was: he found several eyewitness accounts and newspape...</span></span></span>
+* Witnesses struggling to describe what they saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/remembering-the-great-meteor-procession-of-1860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">remembering the great meteor procession of 1860</span><span class="citation-popover-snippet">Universe TodayRemembering the Great Meteor Procession of 186020 Jul 2013 — A remarkable astronomical event also occurred over the northea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/blog/cocktail-party-physics/forensic-astronomer-cracks-the-case-of-historic-meteor-procession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanForensic Astronomer Cracks the Case of Historic Meteor...There was: he found several eyewitness accounts and newspape...</span></span></span>
 
-The event became culturally famous because it was apparently recorded both in art and literature. Painter Frederic Edwin Church created *The Meteor of 1860*, showing a string of fiery objects crossing the night sky, while Walt Whitman later referred to a dramatic meteor display in his poem *Year of Meteors*. Researchers in 2010 connected these works to the July 1860 procession after tracing historical newspaper accounts and astronomical evidence. Smithsonian Magazine <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">8530 walt whitman meteor mystery solved astronomer sleuths</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</span></span></span> One reason the meteor explanation attracts attention in the Wilmington case is the visual resemblance. The Delaware story describes a long object with several red glowing balls trailing behind it. That image is not far removed from descriptions of fragmented meteors travelling together in formation. Modern readers accustomed to aircraft or spacecraft imagery may interpret such a scene mechanically, while nineteenth-century observers often used vivid but inconsistent language for unusual celestial events.
+The event became culturally famous because it was apparently recorded both in art and literature. Painter Frederic Edwin Church created *The Meteor of 1860*, showing a string of fiery objects crossing the night sky, while Walt Whitman later referred to a dramatic meteor display in his poem *Year of Meteors*. Researchers in 2010 connected these works to the July 1860 procession after tracing historical newspaper accounts and astronomical evidence. Smithsonian Magazine<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">8530 walt whitman meteor mystery solved astronomer sleuths</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</span></span></span> One reason the meteor explanation attracts attention in the Wilmington case is the visual resemblance. The Delaware story describes a long object with several red glowing balls trailing behind it. That image is not far removed from descriptions of fragmented meteors travelling together in formation. Modern readers accustomed to aircraft or spacecraft imagery may interpret such a scene mechanically, while nineteenth-century observers often used vivid but inconsistent language for unusual celestial events.
 
-The rarity of meteor processions also matters. Ordinary meteors are common and brief. A procession, by contrast, can appear slow, structured and almost purposeful. Modern astronomy sources note that only a handful of well-documented meteor processions are known historically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
+The rarity of meteor processions also matters. Ordinary meteors are common and brief. A procession, by contrast, can appear slow, structured and almost purposeful. Modern astronomy sources note that only a handful of well-documented meteor processions are known historically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9F9LuBpwU2o" title="Streams of Fireballs - Great Meteor Procession | Randall Carlson - Kosmographia Clips 039.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9F9LuBpwU2o" target="_blank" rel="noopener noreferrer">Streams of Fireballs - Great Meteor Procession | Randall Carlson - Kosmographia Clips 039.1</a></p><p class="youtube-embed-meta">Channel: The Randall Carlson &middot; Views: 34.9K &middot; Uploaded: June 2023 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9F9LuBpwU2o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9F9LuBpwU2o">Open on YouTube</a></p></div></div></div>
 
@@ -278,7 +278,7 @@ The rarity of meteor processions also matters. Ordinary meteors are common and b
 
 The biggest problem for the meteor explanation is timing.
 
-The Wilmington story is usually dated to 13 July 1860, while the Great Meteor Procession occurred on 20 July 1860. That one-week gap is central to the debate. If the dates are accurate, the famous procession cannot directly explain the reported Wilmington event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
+The Wilmington story is usually dated to 13 July 1860, while the Great Meteor Procession occurred on 20 July 1860. That one-week gap is central to the debate. If the dates are accurate, the famous procession cannot directly explain the reported Wilmington event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
 
 However, the source trail around the Wilmington account is weak enough that some researchers suspect confusion entered the story later. The reported newspaper citation — commonly said to be the “Wilmington Tribune” of 30 July 1860 — is difficult to verify cleanly. Because the original clipping is not widely accessible, historians cannot easily confirm whether:
 
@@ -293,7 +293,7 @@ However, the source trail around the Wilmington account is weak enough that some
 
 That uncertainty keeps the meteor comparison alive. A copying error of several days is entirely plausible in nineteenth-century newspaper transmission, especially once stories begin circulating through later paranormal books and websites rather than archival scans.
 
-There are also differences in reported appearance. Meteor processions generally move across large portions of the sky and are seen over broad regions. The Wilmington story, as usually retold, sounds more localised and lower in altitude, claiming the object travelled roughly 100 feet above the city. Such altitude estimates in unusual sky events are notoriously unreliable. Witnesses observing bright lights at night often interpret distant objects as much closer than they really are. The same problem appears in many later UFO cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">8530 walt whitman meteor mystery solved astronomer sleuths</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</span></span></span>
+There are also differences in reported appearance. Meteor processions generally move across large portions of the sky and are seen over broad regions. The Wilmington story, as usually retold, sounds more localised and lower in altitude, claiming the object travelled roughly 100 feet above the city. Such altitude estimates in unusual sky events are notoriously unreliable. Witnesses observing bright lights at night often interpret distant objects as much closer than they really are. The same problem appears in many later UFO cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">8530 walt whitman meteor mystery solved astronomer sleuths</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</span></span></span>
 
 Another mismatch is duration. Meteor processions can last longer than ordinary meteors, but they still move steadily and eventually disappear. Some retellings of the Wilmington story imply a more controlled or level movement suggestive of a craft. Yet nineteenth-century descriptions of meteors often used phrases like “sailing”, “travelling” or “moving steadily”, language that modern UFO readers may unconsciously reinterpret as evidence of intelligent control.
 
@@ -306,7 +306,7 @@ The Wilmington comparison illustrates a broader historical pattern seen througho
 
 In the nineteenth century, observers had limited scientific vocabulary for rare atmospheric or astronomical phenomena. Witnesses compared strange lights to objects familiar to them: trains, cigars, ships, lanterns or fiery machines. Once these descriptions are repeated decades later, they can sound uncannily modern.
 
-The Great Meteor Procession is especially vulnerable to this reinterpretation because it genuinely was unusual. Unlike a brief shooting star, an Earth-grazing meteor can appear organised and deliberate. Modern astronomy accounts describe the 1860 procession as a fragmented meteor travelling almost horizontally across the atmosphere, creating a chain of fireballs visible over a large distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
+The Great Meteor Procession is especially vulnerable to this reinterpretation because it genuinely was unusual. Unlike a brief shooting star, an Earth-grazing meteor can appear organised and deliberate. Modern astronomy accounts describe the 1860 procession as a fragmented meteor travelling almost horizontally across the atmosphere, creating a chain of fireballs visible over a large distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor procession</span><span class="citation-popover-snippet">Meteor procession</span></span></span>
 
 That creates several features commonly associated with later UFO reports:
 
@@ -318,7 +318,7 @@ Multiple glowing fragments moving together can resemble windows, engines or esco
 
 ### Slow movement illusion
 
-Earth-grazing meteors can seem much slower than ordinary meteors because of their shallow angle and long visible path. Witnesses may interpret this as controlled flight rather than ballistic motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">8530 walt whitman meteor mystery solved astronomer sleuths</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</span></span></span>
+Earth-grazing meteors can seem much slower than ordinary meteors because of their shallow angle and long visible path. Witnesses may interpret this as controlled flight rather than ballistic motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">8530 walt whitman meteor mystery solved astronomer sleuths</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</span></span></span>
 
 ### Low-altitude perception
 
@@ -353,194 +353,194 @@ The Great Meteor Procession does not completely explain the Wilmington report. T
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HKf-2nhIGrI" title="Year of Meteors - Walt Whitman - Poem Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HKf-2nhIGrI" target="_blank" rel="noopener noreferrer">Year of Meteors - Walt Whitman - Poem Animation</a></p><p class="youtube-embed-meta">Channel: poetryreincarnations &middot; Views: 750 &middot; Uploaded: September 2014 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HKf-2nhIGrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HKf-2nhIGrI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Wilmington&#x27;s 1860 UFO Really a Meteor Procession?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Wilmington&#x27;s 1860 UFO Really a Meteor Procession?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Direct match for historical aerial phenomena and disputed interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Direct match for historical aerial phenomena and disputed interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Provides context for meteor processions and atmospheric events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for meteor processions and atmospheric events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how historical sky events become later mystery stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how historical sky events become later mystery stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="https://i.ebayimg.com/images/g/~qcAAOSwAetdLK5G/s-l225.jpg" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="https://i.ebayimg.com/images/g/~qcAAOSwAetdLK5G/s-l225.jpg" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="was-wilmington-s-1860-ufo-really-a-meteor-procession-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ The Great Meteor Procession does not completely explain the Wilmington report. T
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ The Great Meteor Procession does not completely explain the Wilmington report. T
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ The Great Meteor Procession does not completely explain the Wilmington report. T
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ The Great Meteor Procession does not completely explain the Wilmington report. T
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ The Great Meteor Procession does not completely explain the Wilmington report. T
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,105 +746,105 @@ The Great Meteor Procession does not completely explain the Wilmington report. T
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1860 Great Meteor  
-   Link: <a href="https://en.wikipedia.org/wiki/1860_Great_Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1860_Great_Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1860_Great_Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1860_Great_Meteor</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Meteor procession  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_procession</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_procession</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: 8530 walt whitman meteor mystery solved astronomer sleuths  
-   Link: <a href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</p></details>
+   Link:<a href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walt Whitman Meteor Mystery Solved by Astronomer Sleuths3 Jun 2010 — A unique case of forensic astronomy uncovers the historic reali...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Year of Meteors  
-   Link: <a href="https://www.youtube.com/watch?v=HKf-2nhIGrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKf-2nhIGrI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Meteor Procession | Randall Carlson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HKf-2nhIGrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKf-2nhIGrI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great Meteor Procession | Randall Carlson...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Great Meteor Procession | Randall Carlson  
-   Link: <a href="https://www.youtube.com/watch?v=9F9LuBpwU2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9F9LuBpwU2o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Grazers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9F9LuBpwU2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9F9LuBpwU2o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Grazers...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: universetoday.com  
    Title: remembering the great meteor procession of 1860  
-   Link: <a href="https://www.universetoday.com/articles/remembering-the-great-meteor-procession-of-1860" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/remembering-the-great-meteor-procession-of-1860</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayRemembering the Great Meteor Procession of 186020 Jul 2013 — A remarkable astronomical event also occurred over the northea...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/remembering-the-great-meteor-procession-of-1860" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/remembering-the-great-meteor-procession-of-1860</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayRemembering the Great Meteor Procession of 186020 Jul 2013 — A remarkable astronomical event also occurred over the northea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/blog/cocktail-party-physics/forensic-astronomer-cracks-the-case-of-historic-meteor-procession/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/blog/cocktail-party-physics/forensic-astronomer-cracks-the-case-of-historic-meteor-procession/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanForensic Astronomer Cracks the Case of Historic Meteor...There was: he found several eyewitness accounts and newspape...</p></details>
+   Link:<a href="https://www.scientificamerican.com/blog/cocktail-party-physics/forensic-astronomer-cracks-the-case-of-historic-meteor-procession/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/blog/cocktail-party-physics/forensic-astronomer-cracks-the-case-of-historic-meteor-procession/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanForensic Astronomer Cracks the Case of Historic Meteor...There was: he found several eyewitness accounts and newspape...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fredericedwinchurch.org  
    Title: The Meteor Of 1860  
-   Link: <a href="https://fredericedwinchurch.org/The-Meteor-Of-1860.html" target="_blank" rel="noopener noreferrer nofollow">https://fredericedwinchurch.org/The-Meteor-Of-1860.html</a>  
+   Link:<a href="https://fredericedwinchurch.org/The-Meteor-Of-1860.html" target="_blank" rel="noopener noreferrer nofollow">https://fredericedwinchurch.org/The-Meteor-Of-1860.html</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nga.gov  
-   Link: <a href="https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/research/publications/pdfs/frederic-edwin-church.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/research/publications/pdfs/frederic-edwin-church.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of American Art, Smithsonian Institution, Gift of Mrs.... March, Goupil&#x27;s Gallery, New York; The Meteor of 1860 (private collecti...</p></details>
+   Link:<a href="https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/research/publications/pdfs/frederic-edwin-church.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/research/publications/pdfs/frederic-edwin-church.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of American Art, Smithsonian Institution, Gift of Mrs.... March, Goupil&#x27;s Gallery, New York; The Meteor of 1860 (private collecti...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: olana.org  
-   Link: <a href="https://olana.org/fc200/" target="_blank" rel="noopener noreferrer nofollow">https://olana.org/fc200/</a>  
+   Link:<a href="https://olana.org/fc200/" target="_blank" rel="noopener noreferrer nofollow">https://olana.org/fc200/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: smithsonianmag.com  
    Title: at american art a new look on how artists recorded the civil war 131916472  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/at-american-art-a-new-look-on-how-artists-recorded-the-civil-war-131916472/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/at-american-art-a-new-look-on-how-artists-recorded-the-civil-war-131916472/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At American Art: A New Look on How Artists Recorded the...Nov 16, 2012 — Frederic Edwin Church&#x27;s Meteor of 1860 foreshadowed the public&#x27;...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/at-american-art-a-new-look-on-how-artists-recorded-the-civil-war-131916472/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/at-american-art-a-new-look-on-how-artists-recorded-the-civil-war-131916472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At American Art: A New Look on How Artists Recorded the...Nov 16, 2012 — Frederic Edwin Church&#x27;s Meteor of 1860 foreshadowed the public&#x27;...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wsj.com  
    Title: the meteor frederic edwin churchs premonitory painting 09ad2f93  
-   Link: <a href="https://www.wsj.com/arts-culture/books/the-meteor-frederic-edwin-churchs-premonitory-painting-09ad2f93" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/books/the-meteor-frederic-edwin-churchs-premonitory-painting-09ad2f93</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The Meteor&#x27;: Frederic Edwin Church&#x27;s Premonitory PaintingJul 11, 2025 — After witnessing a string of fireballs streak across the sky in...</p></details>
+   Link:<a href="https://www.wsj.com/arts-culture/books/the-meteor-frederic-edwin-churchs-premonitory-painting-09ad2f93" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/books/the-meteor-frederic-edwin-churchs-premonitory-painting-09ad2f93</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The Meteor&#x27;: Frederic Edwin Church&#x27;s Premonitory PaintingJul 11, 2025 — After witnessing a string of fireballs streak across the sky in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: olana.org  
    Title: from meteors to auroras frederic church looks to the skies  
-   Link: <a href="https://olana.org/from-meteors-to-auroras-frederic-church-looks-to-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://olana.org/from-meteors-to-auroras-frederic-church-looks-to-the-skies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Meteors to Auroras: Frederic Church Looks to the SkiesDec 2, 2024 — Central to this talk will be a close look at one of Church&#x27;s pai...</p></details>
+   Link:<a href="https://olana.org/from-meteors-to-auroras-frederic-church-looks-to-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://olana.org/from-meteors-to-auroras-frederic-church-looks-to-the-skies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Meteors to Auroras: Frederic Church Looks to the SkiesDec 2, 2024 — Central to this talk will be a close look at one of Church&#x27;s pai...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/britishmuseum/posts/on-the-evening-of-august-18-242-years-ago-if-you-were-lucky-enough-to-look-up-to/1191034036391988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/britishmuseum/posts/on-the-evening-of-august-18-242-years-ago-if-you-were-lucky-enough-to-look-up-to/1191034036391988/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 20, 1860, the “Great Meteor Procession of 1860” occurred over...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/britishmuseum/posts/on-the-evening-of-august-18-242-years-ago-if-you-were-lucky-enough-to-look-up-to/1191034036391988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/britishmuseum/posts/on-the-evening-of-august-18-242-years-ago-if-you-were-lucky-enough-to-look-up-to/1191034036391988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 20, 1860, the “Great Meteor Procession of 1860” occurred over...Read more...</p></details>
    Published: July 20, 1860  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: smithsonianmag.com  
    Title: rare meteor event inspired walt whitman 29643165  
-   Link: <a href="https://www.smithsonianmag.com/science-nature/rare-meteor-event-inspired-walt-whitman-29643165/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/rare-meteor-event-inspired-walt-whitman-29643165/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineRare Meteor Event Inspired Walt Whitman7 Jun 2010 — Whitman was actually describing a rare phenomenon called a &quot;meteo...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/science-nature/rare-meteor-event-inspired-walt-whitman-29643165/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/rare-meteor-event-inspired-walt-whitman-29643165/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineRare Meteor Event Inspired Walt Whitman7 Jun 2010 — Whitman was actually describing a rare phenomenon called a &quot;meteo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: phys.org  
    Title: 2010 06 astronomers walt whitman meteor mystery  
-   Link: <a href="https://phys.org/news/2010-06-astronomers-walt-whitman-meteor-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2010-06-astronomers-walt-whitman-meteor-mystery.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers solve Walt Whitman meteor mystery3 Jun 2010 — On the evening of July 20, 1860, a meteor fragmented during its nearly-horizont...</p></details>
+   Link:<a href="https://phys.org/news/2010-06-astronomers-walt-whitman-meteor-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2010-06-astronomers-walt-whitman-meteor-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers solve Walt Whitman meteor mystery3 Jun 2010 — On the evening of July 20, 1860, a meteor fragmented during its nearly-horizont...</p></details>
    Published: July 20, 1860  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQ-n4HTjB5U/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ-n4HTjB5U/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dwin Church (American, 1826–1900), &#x27;The Meteor,&#x27; 1860-61, oil...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQ-n4HTjB5U/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ-n4HTjB5U/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dwin Church (American, 1826–1900), &#x27;The Meteor,&#x27; 1860-61, oil...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: File:Frederic Church Meteor of 1860.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AFrederic_Church_Meteor_of_1860.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AFrederic_Church_Meteor_of_1860.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Frederic Church Meteor of 1860.jpgThis is a faithful photographic reproduction of a two-dimensional, public domain work...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AFrederic_Church_Meteor_of_1860.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AFrederic_Church_Meteor_of_1860.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Frederic Church Meteor of 1860.jpgThis is a faithful photographic reproduction of a two-dimensional, public domain work...</p></details>

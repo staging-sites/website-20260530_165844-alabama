@@ -250,16 +250,16 @@ image: /assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_wi
 
 ## Introduction
 
-The January 1966 [Wanaque]({{ 'wanaque/' | relative_url }}) Reservoir sightings became the foundation of New Jersey’s most enduring UFO story. What made the reports stand out was not a single dramatic encounter but a cluster of observations centred on a guarded reservoir, involving police officers, reservoir personnel and local residents over several winter nights. Witnesses described an unusually bright light hovering above or near the frozen water, sometimes appearing to move up and down, sometimes seeming to drift silently before accelerating away. The case remains important because it sits in an awkward middle ground: there were enough named witnesses to prevent easy dismissal, yet not enough surviving documentation to prove exactly what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/MemoriesNewJersey/posts/2604256873119431/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Memories New Jersey</span><span class="citation-popover-snippet">Who remembers the Wanaque Reservoir UFO&#x27;s in 1966?...It was on January 11, 1966 in Wanaque, New Jersey that Wanaque police offic...</span><span class="citation-popover-meta">Published: January 11, 1966</span></span></span>
+The January 1966 [Wanaque]({{ 'wanaque/' | relative_url }}) Reservoir sightings became the foundation of New Jersey’s most enduring UFO story. What made the reports stand out was not a single dramatic encounter but a cluster of observations centred on a guarded reservoir, involving police officers, reservoir personnel and local residents over several winter nights. Witnesses described an unusually bright light hovering above or near the frozen water, sometimes appearing to move up and down, sometimes seeming to drift silently before accelerating away. The case remains important because it sits in an awkward middle ground: there were enough named witnesses to prevent easy dismissal, yet not enough surviving documentation to prove exactly what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/MemoriesNewJersey/posts/2604256873119431/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Memories New Jersey</span><span class="citation-popover-snippet">Who remembers the Wanaque Reservoir UFO&#x27;s in 1966?...It was on January 11, 1966 in Wanaque, New Jersey that Wanaque police offic...</span><span class="citation-popover-meta">Published: January 11, 1966</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-1-dark.svg" | relative_url }}" alt="January sighting illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike many UFO stories that survive only through anonymous retellings, the January reports became linked to identifiable local officials and police accounts. That connection helped turn a regional sighting into a lasting part of New Jersey UFO folklore, even as later investigators disagreed over what the witnesses had actually observed. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
+Unlike many UFO stories that survive only through anonymous retellings, the January reports became linked to identifiable local officials and police accounts. That connection helped turn a regional sighting into a lasting part of New Jersey UFO folklore, even as later investigators disagreed over what the witnesses had actually observed. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
 
 ## How the first reports unfolded
 
-Most later reconstructions place the beginning of the incident on 11 January 1966. According to widely repeated accounts, Wanaque police officer Joseph Cisco received reports of a bright light near the Raymond Dam section of the reservoir. Callers described something unusual over the ice and water, with some claiming the light appeared to move vertically rather than following a normal aircraft path. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span> The setting amplified the effect. January conditions meant darkness arrived early, the reservoir surface was partly frozen, and the surrounding hills created long sightlines across open water. Witnesses were not reporting a brief flash overhead but a luminous object apparently lingering in a fixed area associated with the reservoir itself. Later summaries describe the object as hovering before moving away rapidly, a detail that became central to the story's reputation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
+Most later reconstructions place the beginning of the incident on 11 January 1966. According to widely repeated accounts, Wanaque police officer Joseph Cisco received reports of a bright light near the Raymond Dam section of the reservoir. Callers described something unusual over the ice and water, with some claiming the light appeared to move vertically rather than following a normal aircraft path. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span> The setting amplified the effect. January conditions meant darkness arrived early, the reservoir surface was partly frozen, and the surrounding hills created long sightlines across open water. Witnesses were not reporting a brief flash overhead but a luminous object apparently lingering in a fixed area associated with the reservoir itself. Later summaries describe the object as hovering before moving away rapidly, a detail that became central to the story's reputation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
 
-One difficulty for historians is that the surviving accounts are mostly second-hand. Newspaper references, UFO group summaries and later interviews often agree on the broad outline but differ on exact timings, witness names and descriptions. Some versions refer to a glowing white light, others to a disc-like form, while a few later retellings add details that do not appear consistently across the earliest surviving narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+One difficulty for historians is that the surviving accounts are mostly second-hand. Newspaper references, UFO group summaries and later interviews often agree on the broad outline but differ on exact timings, witness names and descriptions. Some versions refer to a glowing white light, others to a disc-like form, while a few later retellings add details that do not appear consistently across the earliest surviving narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
 This inconsistency does not necessarily mean witnesses were inventing the event. It does, however, make it harder to reconstruct a precise sequence of observations more than half a century later.
 
@@ -267,21 +267,21 @@ This inconsistency does not necessarily mean witnesses were inventing the event.
 
 ## Police and reservoir witness accounts
 
-The feature that gave the Wanaque case unusual staying power was the involvement of people whose jobs required them to observe the area. Later reports repeatedly mention police officers responding to calls and observing the light themselves. The fact that officers reportedly travelled to the reservoir expecting to investigate a complaint, rather than beginning as UFO enthusiasts, has often been cited by supporters of the case as a point in its favour. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span> Accounts associated with the January sightings describe officers seeing a bright object over the reservoir that did not behave like a conventional aircraft. Witnesses spoke of a light that appeared stationary for periods and then moved unexpectedly. Some versions describe changes in brightness or colour, while others emphasise apparent hovering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+The feature that gave the Wanaque case unusual staying power was the involvement of people whose jobs required them to observe the area. Later reports repeatedly mention police officers responding to calls and observing the light themselves. The fact that officers reportedly travelled to the reservoir expecting to investigate a complaint, rather than beginning as UFO enthusiasts, has often been cited by supporters of the case as a point in its favour. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span> Accounts associated with the January sightings describe officers seeing a bright object over the reservoir that did not behave like a conventional aircraft. Witnesses spoke of a light that appeared stationary for periods and then moved unexpectedly. Some versions describe changes in brightness or colour, while others emphasise apparent hovering.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
-The reservoir setting also meant that personnel familiar with the area became part of the witness pool. Later UFO literature often stresses that observers knew the difference between ordinary lights on nearby roads, utility structures and aircraft routes. That argument has been used to support the claim that the object was genuinely unusual. However, familiarity with an area does not eliminate the possibility of misidentification. Even experienced observers can struggle to judge distance, altitude and motion at night, particularly over dark water and ice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+The reservoir setting also meant that personnel familiar with the area became part of the witness pool. Later UFO literature often stresses that observers knew the difference between ordinary lights on nearby roads, utility structures and aircraft routes. That argument has been used to support the claim that the object was genuinely unusual. However, familiarity with an area does not eliminate the possibility of misidentification. Even experienced observers can struggle to judge distance, altitude and motion at night, particularly over dark water and ice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
-A further complication is that later retellings sometimes merge January accounts with reports from October 1966. Because both sets of sightings occurred around the same reservoir and involved law-enforcement or reservoir personnel, details from separate events have occasionally become blurred in popular retellings. Researchers attempting to isolate the January episode therefore have to separate original winter reports from later additions to the wider Wanaque legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+A further complication is that later retellings sometimes merge January accounts with reports from October 1966. Because both sets of sightings occurred around the same reservoir and involved law-enforcement or reservoir personnel, details from separate events have occasionally become blurred in popular retellings. Researchers attempting to isolate the January episode therefore have to separate original winter reports from later additions to the wider Wanaque legend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-2-dark.svg" | relative_url }}" alt="January sighting illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witnesses found the light so unusual
 
 Several elements recur across descriptions of the January sightings.
 
-* **Exceptional brightness:** Witnesses consistently remembered an intense white light rather than a faint point in the sky. Some later accounts describe illumination strong enough to attract immediate attention from a distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
-* **Apparent hovering:** The object was often described as remaining in roughly the same location before moving away. This feature helped distinguish it from an ordinary passing aircraft in the minds of observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
-* **Movement over the reservoir itself:** Reports repeatedly tied the phenomenon to the reservoir and dam area rather than to a general section of sky. That geographical focus became a major part of the case's identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">January 11, 1966 in Wanaque, New Jersey that Wanaque police officer Joseph Cisco received a call to investigate a glowing light...Read...</span><span class="citation-popover-meta">Published: January 11, 1966</span></span></span>
-* **Multiple observers:** The story gained credibility locally because sightings were reported by more than one person and were discussed through police channels rather than emerging from a single witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+* **Exceptional brightness:** Witnesses consistently remembered an intense white light rather than a faint point in the sky. Some later accounts describe illumination strong enough to attract immediate attention from a distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+* **Apparent hovering:** The object was often described as remaining in roughly the same location before moving away. This feature helped distinguish it from an ordinary passing aircraft in the minds of observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
+* **Movement over the reservoir itself:** Reports repeatedly tied the phenomenon to the reservoir and dam area rather than to a general section of sky. That geographical focus became a major part of the case's identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">January 11, 1966 in Wanaque, New Jersey that Wanaque police officer Joseph Cisco received a call to investigate a glowing light...Read...</span><span class="citation-popover-meta">Published: January 11, 1966</span></span></span>
+* **Multiple observers:** The story gained credibility locally because sightings were reported by more than one person and were discussed through police channels rather than emerging from a single witness account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
 These features explain why the case survived in local memory. A bright light alone is common; a bright light repeatedly reported over a protected reservoir by police and residents is more likely to become a community story.
 
@@ -289,212 +289,212 @@ These features explain why the case survived in local memory. A bright light alo
 
 ## What the descriptions can and cannot prove
 
-The strongest evidence in the January case is that numerous people appear to have observed something they regarded as unusual. The involvement of named officers and the persistence of the reports suggest that the sightings were not simply invented decades later. There is little doubt that witnesses genuinely believed they saw an anomalous light over the reservoir. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/GoodOlHaskell/posts/10161769604551234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">January 11, 1966 in Wanaque, New Jersey that...&quot;I saw it, a brilliant white object, two to three feet across, and its color - no, not co...</span><span class="citation-popover-meta">Published: January 11, 1966</span></span></span>
+The strongest evidence in the January case is that numerous people appear to have observed something they regarded as unusual. The involvement of named officers and the persistence of the reports suggest that the sightings were not simply invented decades later. There is little doubt that witnesses genuinely believed they saw an anomalous light over the reservoir.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/GoodOlHaskell/posts/10161769604551234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">January 11, 1966 in Wanaque, New Jersey that...&quot;I saw it, a brilliant white object, two to three feet across, and its color - no, not co...</span><span class="citation-popover-meta">Published: January 11, 1966</span></span></span>
 
-The weakness of the case is the lack of surviving hard evidence. No radar records are generally cited for the January incident. No widely accepted photographs from the initial sightings have emerged. Detailed contemporaneous police documentation is sparse, and many commonly repeated descriptions come from later UFO publications or retrospective interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+The weakness of the case is the lack of surviving hard evidence. No radar records are generally cited for the January incident. No widely accepted photographs from the initial sightings have emerged. Detailed contemporaneous police documentation is sparse, and many commonly repeated descriptions come from later UFO publications or retrospective interviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
-Because of those limitations, several conventional explanations remain possible. Bright astronomical objects near the horizon can appear to hover and shift position due to atmospheric effects. Aircraft lights viewed across dark terrain can seem stationary before changing apparent direction. Reflections over ice and water can also distort a witness's perception of distance and movement. The reservoir's geography makes such possibilities difficult to dismiss completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wanaque_Reservoir" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wanaque Reservoir</span><span class="citation-popover-snippet">Wanaque Reservoir</span></span></span>
+Because of those limitations, several conventional explanations remain possible. Bright astronomical objects near the horizon can appear to hover and shift position due to atmospheric effects. Aircraft lights viewed across dark terrain can seem stationary before changing apparent direction. Reflections over ice and water can also distort a witness's perception of distance and movement. The reservoir's geography makes such possibilities difficult to dismiss completely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wanaque_Reservoir" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wanaque Reservoir</span><span class="citation-popover-snippet">Wanaque Reservoir</span></span></span>
 
-At the same time, no single sceptical explanation has conclusively accounted for every reported observation. That unresolved status helps explain why the January 1966 sightings remain the defining episode in Wanaque's UFO history. The available evidence is strong enough to show that something unusual was reported, but too limited to establish exactly what the witnesses saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
+At the same time, no single sceptical explanation has conclusively accounted for every reported observation. That unresolved status helps explain why the January 1966 sightings remain the defining episode in Wanaque's UFO history. The available evidence is strong enough to show that something unusual was reported, but too limited to establish exactly what the witnesses saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">curious ufos wednesday hearing njs 164632169</span><span class="citation-popover-snippet">Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-3-dark.svg" | relative_url }}" alt="January sighting illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7_january_1966_witness_fab80f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why January 1966 became the defining Wanaque episode
 
-Many UFO flaps produce a brief burst of reports and then disappear from public memory. The January 1966 Wanaque sightings endured because they combined several factors rarely found together: a dramatic winter setting, a strategically important reservoir, police involvement, repeated local reports and the absence of a definitive explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
+Many UFO flaps produce a brief burst of reports and then disappear from public memory. The January 1966 Wanaque sightings endured because they combined several factors rarely found together: a dramatic winter setting, a strategically important reservoir, police involvement, repeated local reports and the absence of a definitive explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
-Later sightings around the reservoir would attract attention of their own, particularly in October 1966, but the January reports established the core narrative. They supplied the image that still dominates discussions of Wanaque today: a brilliant light hanging over a frozen New Jersey reservoir while officers and residents tried to understand what they were looking at. Whether interpreted as a genuine unknown, a misidentified natural phenomenon or a combination of several events later fused into one legend, the January sightings remain the point where Wanaque entered New Jersey UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[2nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1966 UFO ChronologyOct..10, 1966; Wanaque, New Jersey 9:15 p.m. EDT. Police officers observed a spherical object with a protrusion on...</span></span></span>
+Later sightings around the reservoir would attract attention of their own, particularly in October 1966, but the January reports established the core narrative. They supplied the image that still dominates discussions of Wanaque today: a brilliant light hanging over a frozen New Jersey reservoir while officers and residents tried to understand what they were looking at. Whether interpreted as a genuine unknown, a misidentified natural phenomenon or a combination of several events later fused into one legend, the January sightings remain the point where Wanaque entered New Jersey UFO history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</span><span class="citation-popover-meta">Published: January 1966</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[2nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1966 UFO ChronologyOct..10, 1966; Wanaque, New Jersey 9:15 p.m. EDT. Police officers observed a spherical object with a protrusion on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/thTSuKXXezw" title="&quot;Those UFOs... Do They Really Exist?&quot; (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=thTSuKXXezw" target="_blank" rel="noopener noreferrer">&quot;Those UFOs... Do They Really Exist?&quot; (1966)</a></p><p class="youtube-embed-meta">Channel: UGA Brown Media Archives &middot; Views: 1.2K &middot; Uploaded: June 2021 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=thTSuKXXezw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=thTSuKXXezw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did witnesses see in January 1966?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did witnesses see in January 1966?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical comparisons for witness-led cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical comparisons for witness-led cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Useful comparison for evaluating testimony-based UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison for evaluating testimony-based UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official and witness records across notable cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official and witness records across notable cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
-        </h4>
-        <p class="fr-book-author">By Harley D. Rutledge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
+</h4>
+<p class="fr-book-author">By Harley D. Rutledge</p>
         
-        <p class="fr-book-desc">Focuses on observational evidence and recurring reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on observational evidence and recurring reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-witnesses-see-in-january-1966-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-witnesses-see-in-january-1966-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ Later sightings around the reservoir would attract attention of their own, parti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ Later sightings around the reservoir would attract attention of their own, parti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ Later sightings around the reservoir would attract attention of their own, parti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ Later sightings around the reservoir would attract attention of their own, parti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ Later sightings around the reservoir would attract attention of their own, parti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,121 +700,121 @@ Later sightings around the reservoir would attract attention of their own, parti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: Memories New Jersey  
-   Link: <a href="https://www.facebook.com/groups/MemoriesNewJersey/posts/2604256873119431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/MemoriesNewJersey/posts/2604256873119431/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who remembers the Wanaque Reservoir UFO&#x27;s in 1966?...It was on January 11, 1966 in Wanaque, New Jersey that Wanaque police offic...</p></details>
+   Link:<a href="https://www.facebook.com/groups/MemoriesNewJersey/posts/2604256873119431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/MemoriesNewJersey/posts/2604256873119431/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who remembers the Wanaque Reservoir UFO&#x27;s in 1966?...It was on January 11, 1966 in Wanaque, New Jersey that Wanaque police offic...</p></details>
    Published: January 11, 1966  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
    Title: THE WANAQUE RESERVOIR 1966 UFO PICTURES  
-   Link: <a href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</p></details>
+   Link:<a href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESFirst off, the January 1966 event: hundreds of people, including police officers and...</p></details>
    Published: January 1966  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: yahoo.com  
    Title: curious ufos wednesday hearing njs 164632169  
-   Link: <a href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</p></details>
+   Link:<a href="https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/curious-ufos-wednesday-hearing-njs-164632169.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curious about UFOs after Wednesday hearing? Here are...Jul 27, 2023 — Photo of supposed UFO in Wanaque. Perhaps the most famous New...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 1966 in Wanaque, New Jersey that Wanaque police officer Joseph Cisco received a call to investigate a glowing light...Read...</p></details>
+   Link:<a href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 1966 in Wanaque, New Jersey that Wanaque police officer Joseph Cisco received a call to investigate a glowing light...Read...</p></details>
    Published: January 11, 1966  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Wanaque Reservoir  
-   Link: <a href="https://en.wikipedia.org/wiki/Wanaque_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wanaque_Reservoir</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wanaque_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wanaque_Reservoir</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/GoodOlHaskell/posts/10161769604551234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GoodOlHaskell/posts/10161769604551234/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 1966 in Wanaque, New Jersey that...&quot;I saw it, a brilliant white object, two to three feet across, and its color - no, not co...</p></details>
+   Link:<a href="https://www.facebook.com/groups/GoodOlHaskell/posts/10161769604551234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GoodOlHaskell/posts/10161769604551234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 1966 in Wanaque, New Jersey that...&quot;I saw it, a brilliant white object, two to three feet across, and its color - no, not co...</p></details>
    Published: January 11, 1966  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 UFO ChronologyOct..10, 1966; Wanaque, New Jersey 9:15 p.m. EDT. Police officers observed a spherical object with a protrusion on...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 UFO ChronologyOct..10, 1966; Wanaque, New Jersey 9:15 p.m. EDT. Police officers observed a spherical object with a protrusion on...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: this story about a ufo sighting over the wanaque reservoir in 1966 should get yo  
-   Link: <a href="https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Frasche, a former Paterson police officer, was on shift at the time and was at the site of the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Frasche, a former Paterson police officer, was on shift at the time and was at the site of the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: what happened over the wanaque reservoir in 1966 remains a mystery njersyco2px70  
-   Link: <a href="https://www.facebook.com/northjerseycom/posts/what-happened-over-the-wanaque-reservoir-in-1966-remains-a-mystery-njersyco2px70/10156068742952523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northjerseycom/posts/what-happened-over-the-wanaque-reservoir-in-1966-remains-a-mystery-njersyco2px70/10156068742952523/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened over the Wanaque Reservoir in 1966...&quot; UFO Wanaque JANUARY 12, 1966 One day after the initial sightings of the UFO, Patrol...</p></details>
+   Link:<a href="https://www.facebook.com/northjerseycom/posts/what-happened-over-the-wanaque-reservoir-in-1966-remains-a-mystery-njersyco2px70/10156068742952523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northjerseycom/posts/what-happened-over-the-wanaque-reservoir-in-1966-remains-a-mystery-njersyco2px70/10156068742952523/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened over the Wanaque Reservoir in 1966...&quot; UFO Wanaque JANUARY 12, 1966 One day after the initial sightings of the UFO, Patrol...</p></details>
    Published: January 12, 1966  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2092926511008911/posts/3533907086910839/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2092926511008911/posts/3533907086910839/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanaque Reservoir UFO Sighting in New JerseyIt was on January 11, 1966 in Wanaque, New Jersey that Wanaque police officer Joseph Cisco re...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2092926511008911/posts/3533907086910839/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2092926511008911/posts/3533907086910839/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanaque Reservoir UFO Sighting in New JerseyIt was on January 11, 1966 in Wanaque, New Jersey that Wanaque police officer Joseph Cisco re...</p></details>
    Published: January 11, 1966  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: njradar.com  
    Title: ufos over wanaque reservoir new jerseys strangest close encounters  
-   Link: <a href="https://njradar.com/blog/ufos-over-wanaque-reservoir-new-jerseys-strangest-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://njradar.com/blog/ufos-over-wanaque-reservoir-new-jerseys-strangest-close-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Wanaque Reservoir: New Jersey&#x27;s Strangest...Apr 9, 2025 — In 1966, police, town officials, and hundreds of residents witnessed...</p></details>
+   Link:<a href="https://njradar.com/blog/ufos-over-wanaque-reservoir-new-jerseys-strangest-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://njradar.com/blog/ufos-over-wanaque-reservoir-new-jerseys-strangest-close-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Wanaque Reservoir: New Jersey&#x27;s Strangest...Apr 9, 2025 — In 1966, police, town officials, and hundreds of residents witnessed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894North Jersey skies this week was the question posed to the fades into memory. police at the North Jersey police. Flying Sauc...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894North Jersey skies this week was the question posed to the fades into memory. police at the North Jersey police. Flying Sauc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: docs.preterhuman.net  
    Title: What Happened At Wanaque, N.J  
-   Link: <a href="https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29" target="_blank" rel="noopener noreferrer nofollow">https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(An Objective Look...Jan 17, 2025 —... UFO sighted above the Wanaque Reservoir on January 11, 1966.... UFO seen by Sergeant Ben Thomps...</p></details>
+   Link:<a href="https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29" target="_blank" rel="noopener noreferrer nofollow">https://docs.preterhuman.net/What_Happened_At_Wanaque%2C_N.J._%28An_Objective_Look_At_UFOs%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(An Objective Look...Jan 17, 2025 —... UFO sighted above the Wanaque Reservoir on January 11, 1966.... UFO seen by Sergeant Ben Thomps...</p></details>
    Published: January 11, 1966  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Vng65zfHRSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vng65zfHRSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Those UFOs... Do They Really Exist?&quot; (1966)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Vng65zfHRSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vng65zfHRSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Those UFOs... Do They Really Exist?&quot; (1966)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
    Title: DYZv H2jk2Yt  
-   Link: <a href="https://www.instagram.com/p/DYZvH2jk2Yt/?hl=cs" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYZvH2jk2Yt/?hl=cs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the winter of 1966, strange lights over New Jersey&#x27;s...In the winter of 1966, strange lights over New Jersey&#x27;s Wanaque Reservoir spar...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYZvH2jk2Yt/?hl=cs" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYZvH2jk2Yt/?hl=cs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the winter of 1966, strange lights over New Jersey&#x27;s...In the winter of 1966, strange lights over New Jersey&#x27;s Wanaque Reservoir spar...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=thTSuKXXezw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=thTSuKXXezw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=thTSuKXXezw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=thTSuKXXezw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Wanaque NJ UFO Story  
-   Link: <a href="https://www.youtube.com/watch?v=7Bihepbgei8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Bihepbgei8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: 1966 UFO Over Wanaque, NJ Explained | Witness Accounts &amp; Investigator Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7Bihepbgei8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Bihepbgei8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: 1966 UFO Over Wanaque, NJ Explained | Witness Accounts &amp; Investigator Reports...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLAfXX8cEuUHmKUSljFFa6ajXUQa9l4AN6" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLAfXX8cEuUHmKUSljFFa6ajXUQa9l4AN6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Wanaque?Wanaque, New Jersey, January 11-12, 1966. Gordon Lore (NICAP) interviews witnesses at the Wanaque, N. UFO History · 2:1...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PLAfXX8cEuUHmKUSljFFa6ajXUQa9l4AN6" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLAfXX8cEuUHmKUSljFFa6ajXUQa9l4AN6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Wanaque?Wanaque, New Jersey, January 11-12, 1966. Gordon Lore (NICAP) interviews witnesses at the Wanaque, N. UFO History · 2:1...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3qWyN8rxzw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unbelievable UFO Encounter in Erie, PA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3qWyN8rxzw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unbelievable UFO Encounter in Erie, PA...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Unbelievable UFO Encounter in Erie, PA  
-   Link: <a href="https://www.youtube.com/watch?v=tCSWzIjnqus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCSWzIjnqus</a>
+   Link:<a href="https://www.youtube.com/watch?v=tCSWzIjnqus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCSWzIjnqus</a>

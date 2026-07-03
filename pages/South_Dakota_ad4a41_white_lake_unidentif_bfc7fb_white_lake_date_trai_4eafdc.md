@@ -259,13 +259,13 @@ The White Lake report survives largely through archival paperwork rather than a 
 
 The strongest evidence points to 14 September 1952 as the date attached to the original Project Blue Book case.
 
-The surviving Blue Book report for White Lake identifies the sighting as occurring on 14 September 1952 and places the observation between roughly 7.00 and 7.30 p.m. The document is the closest surviving source to the original Air Force investigation and forms the foundation for most later discussions of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+The surviving Blue Book report for White Lake identifies the sighting as occurring on 14 September 1952 and places the observation between roughly 7.00 and 7.30 p.m. The document is the closest surviving source to the original Air Force investigation and forms the foundation for most later discussions of the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
-The same September date appears in later catalogues that were compiled directly from Blue Book material. The National Investigations Committee on Aerial Phenomena (NICAP) list of Blue Book “unknowns” records Case 2089 as White Lake, South Dakota, on 14 September 1952. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span>
+The same September date appears in later catalogues that were compiled directly from Blue Book material. The National Investigations Committee on Aerial Phenomena (NICAP) list of Blue Book “unknowns” records Case 2089 as White Lake, South Dakota, on 14 September 1952.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span>
 
-Researcher Brad Sparks's extensive catalogue of Blue Book unexplained cases also lists Case 2089 as occurring on 14 September 1952. His summary matches the familiar White Lake description of a Ground Observer Corps watcher observing a red cigar-shaped object through binoculars for roughly half an hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">14, 1952. White Lake, South Dakota. 7 p.m. GOC observer L. W. Barnes, using binoculars saw a red, cigar- shaped object, with...Read more...</span></span></span>
+Researcher Brad Sparks's extensive catalogue of Blue Book unexplained cases also lists Case 2089 as occurring on 14 September 1952. His summary matches the familiar White Lake description of a Ground Observer Corps watcher observing a red cigar-shaped object through binoculars for roughly half an hour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">14, 1952. White Lake, South Dakota. 7 p.m. GOC observer L. W. Barnes, using binoculars saw a red, cigar- shaped object, with...Read more...</span></span></span>
 
-The consistency matters because all three references point back, directly or indirectly, to the Air Force archival record. They are not independent eyewitness accounts, but they do represent separate efforts to catalogue the same government file. The case number remains the same across these sources, further suggesting that they are discussing a single event rather than two different White Lake incidents. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span>
+The consistency matters because all three references point back, directly or indirectly, to the Air Force archival record. They are not independent eyewitness accounts, but they do represent separate efforts to catalogue the same government file. The case number remains the same across these sources, further suggesting that they are discussing a single event rather than two different White Lake incidents. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yel7esX3EEY" title="Project Blue Book March 1952 - December 17th 1969 -J. Allen Hynek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yel7esX3EEY" target="_blank" rel="noopener noreferrer">Project Blue Book March 1952 - December 17th 1969 -J. Allen Hynek</a></p><p class="youtube-embed-meta">Channel: History of UFOs Ebook &middot; Views: 57 &middot; Uploaded: June 2022 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yel7esX3EEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yel7esX3EEY">Open on YouTube</a></p></div></div></div>
 
@@ -273,9 +273,9 @@ The consistency matters because all three references point back, directly or ind
 
 The main source of the competing August date appears to be a respected secondary work rather than the underlying Blue Book paperwork.
 
-Historian Lawrence H. Larsen's article on Air Force UFO investigations in the Great Plains, published by the South Dakota State Historical Society, cites “Case 2089, White Lake, S.Dak., 14 Aug. 1952”. The note points readers to the Blue Book microfilm rolls but does not reproduce the full case file itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span>
+Historian Lawrence H. Larsen's article on Air Force UFO investigations in the Great Plains, published by the South Dakota State Historical Society, cites “Case 2089, White Lake, S.Dak., 14 Aug. 1952”. The note points readers to the Blue Book microfilm rolls but does not reproduce the full case file itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span>
 
-That reference has attracted attention because Larsen's article is one of the more serious treatments of South Dakota UFO history. Readers naturally assume that a scholarly publication would have checked the date carefully. Yet the August citation sits awkwardly beside the surviving Blue Book document and the major Blue Book catalogues, which consistently use September. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+That reference has attracted attention because Larsen's article is one of the more serious treatments of South Dakota UFO history. Readers naturally assume that a scholarly publication would have checked the date carefully. Yet the August citation sits awkwardly beside the surviving Blue Book document and the major Blue Book catalogues, which consistently use September.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
 Several explanations are possible:
 
@@ -288,14 +288,14 @@ Several explanations are possible:
 
 </div>
 
-There is no widely cited archival document showing a separate White Lake Case 2089 event on 14 August 1952. The known case number, description and Blue Book record all continue to point toward September. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+There is no widely cited archival document showing a separate White Lake Case 2089 event on 14 August 1952. The known case number, description and Blue Book record all continue to point toward September.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb_white_lake_date_trai_4eafdc-Illustration-2-dark.svg" | relative_url }}" alt="Date trail illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb_white_lake_date_trai_4eafdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb_white_lake_date_trai_4eafdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the discrepancy matters
 
 In many historical subjects, a one-month error would be little more than a footnote. In UFO research, especially for a sparsely documented state case, it can change how researchers connect events and evaluate evidence.
 
-Project Blue Book organised its records chronologically and by case number. Researchers often use dates to determine whether a sighting occurred during a broader reporting wave, near another military or aviation incident, or during periods of heightened public attention. A mistaken date can place a case into the wrong context. The National Archives notes that Blue Book records were arranged and preserved as investigative case files, making accurate identification of dates and locations especially important for later researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+Project Blue Book organised its records chronologically and by case number. Researchers often use dates to determine whether a sighting occurred during a broader reporting wave, near another military or aviation incident, or during periods of heightened public attention. A mistaken date can place a case into the wrong context. The National Archives notes that Blue Book records were arranged and preserved as investigative case files, making accurate identification of dates and locations especially important for later researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 The White Lake case illustrates this problem clearly. Because South Dakota produced relatively few famous Blue Book files, a single case can acquire outsized importance in state-level UFO histories. Once a date discrepancy enters the literature, later writers may unknowingly repeat it, creating the appearance of multiple sources when the information ultimately derives from one mistaken reference.
 
@@ -308,203 +308,203 @@ The White Lake case provides a practical example of how researchers can deal wit
 
 A useful hierarchy is:
 
-1. **Original investigative documents first.** The surviving Blue Book report carries the greatest weight because it is the closest available record to the investigation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
-2. **Independent archival catalogues second.** Lists compiled directly from Blue Book files, such as the NICAP unknowns catalogue and later archival studies, help confirm whether a date appears consistently across the documentary record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span>
-3. **Later historical summaries third.** Scholarly and historical works remain valuable, but they can contain transcription mistakes, especially when dealing with large collections of microfilmed records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span>
+1. **Original investigative documents first.** The surviving Blue Book report carries the greatest weight because it is the closest available record to the investigation itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons2 location</span><span class="citation-popover-snippet">Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+2. **Independent archival catalogues second.** Lists compiled directly from Blue Book files, such as the NICAP unknowns catalogue and later archival studies, help confirm whether a date appears consistently across the documentary record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span>
+3. **Later historical summaries third.** Scholarly and historical works remain valuable, but they can contain transcription mistakes, especially when dealing with large collections of microfilmed records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</span></span></span>
 
-Applying that approach to White Lake leads to a cautious conclusion. The evidence currently available supports 14 September 1952 as the date attached to the Air Force case file. The August date is best understood as a secondary-source discrepancy rather than proof of a separate White Lake UFO incident. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span> For the wider South Dakota UFO record, the episode serves as a reminder that even famous cases can rest on surprisingly fragile paper trails. The mystery is not only what witnesses thought they saw in the sky, but also how later generations reconstruct those reports from incomplete archives, duplicated summaries and occasionally conflicting dates.
+Applying that approach to White Lake leads to a cautious conclusion. The evidence currently available supports 14 September 1952 as the date attached to the Air Force case file. The August date is best understood as a secondary-source discrepancy rather than proof of a separate White Lake UFO incident. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</span><span class="citation-popover-meta">Published: September 14, 1952</span></span></span> For the wider South Dakota UFO record, the episode serves as a reminder that even famous cases can rest on surprisingly fragile paper trails. The mystery is not only what witnesses thought they saw in the sky, but also how later generations reconstruct those reports from incomplete archives, duplicated summaries and occasionally conflicting dates.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xBytbIzJMiU" title="Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer">Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952</a></p><p class="youtube-embed-meta">Channel: UnresolvedSignals &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xBytbIzJMiU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why does White Lake have two dates?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why does White Lake have two dates?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how early Air Force investigations recorded and catalogued sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how early Air Force investigations recorded and catalogued sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Strong fit for readers interested in archival records, source trails and case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for readers interested in archival records, source trails and case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores investigative standards and the handling of uncertain reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores investigative standards and the handling of uncertain reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for understanding how cases evolve through later retellings and catalogues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how cases evolve through later retellings and catalogues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="https://i.ebayimg.com/images/g/XdMAAeSwI0hpurgs/s-l225.jpg" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="https://i.ebayimg.com/images/g/8IUAAeSwdYJp8Q5a/s-l225.jpg" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="https://i.ebayimg.com/images/g/URIAAeSwcg9qDEQ7/s-l225.jpg" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="https://i.ebayimg.com/images/g/NJYAAOSwqUhniB9U/s-l225.jpg" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-white-lake-have-two-dates-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-white-lake-have-two-dates-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ Applying that approach to White Lake leads to a cautious conclusion. The evidenc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ Applying that approach to White Lake leads to a cautious conclusion. The evidenc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ Applying that approach to White Lake leads to a cautious conclusion. The evidenc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ Applying that approach to White Lake leads to a cautious conclusion. The evidenc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ Applying that approach to White Lake leads to a cautious conclusion. The evidenc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,118 +710,118 @@ Applying that approach to White Lake leads to a cautious conclusion. The evidenc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: upload.wikimedia.org  
    Title: Commons2 location  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons2 locationJanuary 6, 2015 — Object was sighted through &quot;high power&quot; binoculars. 4. Observation made from White Lake, Sou...</p></details>
    Published: January 6, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</p></details>
+   Link:<a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complete List of Project Blue Book&#x27;s Unsolved Cases2089 September 14, 1952 White Lake, South Dakota 2092 September 14, 1952 El Paso...</p></details>
    Published: September 14, 1952  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14, 1952. White Lake, South Dakota. 7 p.m. GOC observer L. W. Barnes, using binoculars saw a red, cigar- shaped object, with...Read more...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14, 1952. White Lake, South Dakota. 7 p.m. GOC observer L. W. Barnes, using binoculars saw a red, cigar- shaped object, with...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</p></details>
    Published: August 15, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR8 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>States Air Force investigations from the early AMC period through...Read more...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>States Air Force investigations from the early AMC period through...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 10, DTIC AD0069180  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Project_Blue_Book_report_10%2C_DTIC_AD0069180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3c/Project_Blue_Book_report_10%2C_DTIC_AD0069180.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE BOOKThe F-S&#x27;U report involves a radar contact by the radar observer with a simultaneous visual sighting of the object and cannot be...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Project_Blue_Book_report_10%2C_DTIC_AD0069180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3c/Project_Blue_Book_report_10%2C_DTIC_AD0069180.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE BOOKThe F-S&#x27;U report involves a radar contact by the radar observer with a simultaneous visual sighting of the object and cannot be...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sdhspress.com  
-   Link: <a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</p></details>
+   Link:<a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>42. Case 2089, White Lake, S.Dak., 14 Aug. 1952, ibid.. Roll 15. 43. Case 164, Hecla, S.Dak...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sos.mn.gov  
    Title: legislative manual pocket edition  
-   Link: <a href="https://www.sos.mn.gov/media/1369/mn_legislative_manual_pocket_edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mn.gov/media/1369/mn_legislative_manual_pocket_edition.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOOK - Minnesota Secretary Of State5 Nov 1974 — However, the territory&#x27;s western border extended into present day North Dakota and South...</p></details>
+   Link:<a href="https://www.sos.mn.gov/media/1369/mn_legislative_manual_pocket_edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mn.gov/media/1369/mn_legislative_manual_pocket_edition.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOOK - Minnesota Secretary Of State5 Nov 1974 — However, the territory&#x27;s western border extended into present day North Dakota and South...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694/pdf/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694/pdf/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monthly catalog of United States government publications...PREVIEWS. The following publications are in the process of being printed. Ad...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694/pdf/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694/pdf/GOVPUB-GP3-7826b795f3f2d2ab525242c5cecb8694.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monthly catalog of United States government publications...PREVIEWS. The following publications are in the process of being printed. Ad...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/list/ls006183407/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls006183407/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Silent StarsFlorence Lawrence was the first film player whose name was used to promote her films and the studio (Independent Moving Pictu...</p></details>
+   Link:<a href="https://www.imdb.com/list/ls006183407/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls006183407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Silent StarsFlorence Lawrence was the first film player whose name was used to promote her films and the studio (Independent Moving Pictu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c/pdf/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c/pdf/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advance sales orders may be placed for these publications. Orders will be scheduled and.Read more...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c/pdf/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c/pdf/GOVPUB-GP3-a9b93c7d44f859691a95f899872bc45c.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advance sales orders may be placed for these publications. Orders will be scheduled and.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml%3Bjsessionid%3DFEDD1D165AC682C40B1097F12E1B76C8?edition=prelim&amp;req=granuleid%3AUSC-prelim-title16&amp;saved=L3ByZWxpbUB0aXRsZTE2L2NoYXB0ZXIyNUE%3D%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUxNi1jaGFwdGVyMjVB%7C%7C%7C0%7Cfalse%7Cprelim" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml%3Bjsessionid%3DFEDD1D165AC682C40B1097F12E1B76C8?edition=prelim&amp;req=granuleid%3AUSC-prelim-title16&amp;saved=L3ByZWxpbUB0aXRsZTE2L2NoYXB0ZXIyNUE%3D%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUxNi1jaGFwdGVyMjVB%7C%7C%7C0%7Cfalse%7Cprelim</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govCONSERVATIONOwner&#x27;s retention of right of use and occupancy for agricultural, residential, or commercial purposes for life or te...</p></details>
+   Link:<a href="https://uscode.house.gov/view.xhtml%3Bjsessionid%3DFEDD1D165AC682C40B1097F12E1B76C8?edition=prelim&amp;req=granuleid%3AUSC-prelim-title16&amp;saved=L3ByZWxpbUB0aXRsZTE2L2NoYXB0ZXIyNUE%3D%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUxNi1jaGFwdGVyMjVB%7C%7C%7C0%7Cfalse%7Cprelim" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml%3Bjsessionid%3DFEDD1D165AC682C40B1097F12E1B76C8?edition=prelim&amp;req=granuleid%3AUSC-prelim-title16&amp;saved=L3ByZWxpbUB0aXRsZTE2L2NoYXB0ZXIyNUE%3D%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUxNi1jaGFwdGVyMjVB%7C%7C%7C0%7Cfalse%7Cprelim</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govCONSERVATIONOwner&#x27;s retention of right of use and occupancy for agricultural, residential, or commercial purposes for life or te...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: research.fs.usda.gov  
-   Link: <a href="https://research.fs.usda.gov/download/treesearch/4816.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/4816.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>usda.govEcology, Silviculture, and Management of Black Hills...by WD Shepperd · 2002 · Cited by 111 — This paper presents a broad-based...</p></details>
+   Link:<a href="https://research.fs.usda.gov/download/treesearch/4816.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/4816.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usda.govEcology, Silviculture, and Management of Black Hills...by WD Shepperd · 2002 · Cited by 111 — This paper presents a broad-based...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.fs.usda.gov  
    Title: The first symposium emphasizing contributions from women.Read more  
-   Link: <a href="https://research.fs.usda.gov/download/treesearch/855.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/855.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Service Research and Developmentby SV Kossuth · 1987 · Cited by 1 — The concept and objectives of this symposium were not new, onl...</p></details>
+   Link:<a href="https://research.fs.usda.gov/download/treesearch/855.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/855.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forest Service Research and Developmentby SV Kossuth · 1987 · Cited by 1 — The concept and objectives of this symposium were not new, onl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/stluciesheriff/posts/today-we-remember-the-life-and-legacy-of-deputy-soren-s-sorensenend-of-watch-mar/1095684172594928/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stluciesheriff/posts/today-we-remember-the-life-and-legacy-of-deputy-soren-s-sorensenend-of-watch-mar/1095684172594928/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd down on the 15th. On that same day in USA it was August 14.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/stluciesheriff/posts/today-we-remember-the-life-and-legacy-of-deputy-soren-s-sorensenend-of-watch-mar/1095684172594928/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stluciesheriff/posts/today-we-remember-the-life-and-legacy-of-deputy-soren-s-sorensenend-of-watch-mar/1095684172594928/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd down on the 15th. On that same day in USA it was August 14.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.buncombenc.gov  
    Title: 2020 Delinquent Real Estate  
-   Link: <a href="https://media.buncombenc.gov/common/Commissioners/20210202/2020-Delinquent-Real-Estate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.buncombenc.gov/common/Commissioners/20210202/2020-Delinquent-Real-Estate.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Year Real Property Tax2 Feb 2021 — Delinquent Current Year Real Property Tax as of February 1, 2021. PRIMARY OWNER. SECONDARY OWN...</p></details>
+   Link:<a href="https://media.buncombenc.gov/common/Commissioners/20210202/2020-Delinquent-Real-Estate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.buncombenc.gov/common/Commissioners/20210202/2020-Delinquent-Real-Estate.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Current Year Real Property Tax2 Feb 2021 — Delinquent Current Year Real Property Tax as of February 1, 2021. PRIMARY OWNER. SECONDARY OWN...</p></details>
    Published: February 1, 2021  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yel7esX3EEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yel7esX3EEY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 1952 UFO documentary Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yel7esX3EEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yel7esX3EEY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 1952 UFO documentary Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History HISTORY...</p></details>
    Published: March 1952  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: govdocs.nebraska.gov  
-   Link: <a href="https://govdocs.nebraska.gov/epubs/l3000/D001-200405.pdf" target="_blank" rel="noopener noreferrer nofollow">https://govdocs.nebraska.gov/epubs/l3000/D001-200405.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 2004-05This is the 47th edition of the Nebraska Blue Book since it was first published in. 1899. The book has been published b...</p></details>
+   Link:<a href="https://govdocs.nebraska.gov/epubs/l3000/D001-200405.pdf" target="_blank" rel="noopener noreferrer nofollow">https://govdocs.nebraska.gov/epubs/l3000/D001-200405.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 2004-05This is the 47th edition of the Nebraska Blue Book since it was first published in. 1899. The book has been published b...</p></details>

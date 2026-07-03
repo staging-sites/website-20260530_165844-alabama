@@ -262,64 +262,64 @@ image: /assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-overview-social.
 
 ## Introduction
 
-The Minot B-52 case of 24 October 1968 remains one of North Dakota’s most discussed UFO incidents because it is not just a story about lights in the sky. It combines ground reports from missile-field personnel, a returning B-52H crew, radio traffic, a temporary communications problem, official Project [Blue Book]({{ 'blue-book-d5f241/' | relative_url }}) paperwork and a surviving set of B-52 radarscope photographs. That does not make the object extraterrestrial, or even prove that all witnesses saw the same thing. It does make the case unusually document-rich for a Cold War UFO report from the northern plains. The central question is still the same: did the records preserve a genuine unknown, or a complicated mix of stars, aircraft, radar effects, haze, timing errors and official over-compression? Project Blue Book closed the case with conventional explanations, but the surviving file leaves enough gaps for the Minot incident to remain a serious North Dakota case rather than a simple anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Blue Book Final Case Report</span><span class="citation-popover-snippet">Blue Book Final Case Report</span></span></span>
+The Minot B-52 case of 24 October 1968 remains one of North Dakota’s most discussed UFO incidents because it is not just a story about lights in the sky. It combines ground reports from missile-field personnel, a returning B-52H crew, radio traffic, a temporary communications problem, official Project [Blue Book]({{ 'blue-book-d5f241/' | relative_url }}) paperwork and a surviving set of B-52 radarscope photographs. That does not make the object extraterrestrial, or even prove that all witnesses saw the same thing. It does make the case unusually document-rich for a Cold War UFO report from the northern plains. The central question is still the same: did the records preserve a genuine unknown, or a complicated mix of stars, aircraft, radar effects, haze, timing errors and official over-compression? Project Blue Book closed the case with conventional explanations, but the surviving file leaves enough gaps for the Minot incident to remain a serious North Dakota case rather than a simple anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Blue Book Final Case Report</span><span class="citation-popover-snippet">Blue Book Final Case Report</span></span></span>
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-overview.webp" | relative_url }}" alt="Overview image for Minot B 52" loading="eager" decoding="sync" fetchpriority="high">
 ## Why this case matters in North Dakota UFO history
 
-Minot Air Force Base was not an ordinary backdrop. In 1968 it sat inside a Strategic Air Command environment of bombers, missile fields, security teams, maintenance crews and radar procedures. The modern base still illustrates why the location matters: Minot hosts the 5th Bomb Wing and the 91st Missile Wing, and the missile-security mission involves 150 Minuteman III missiles and launch facilities spread through a large missile complex. That present-day structure is not evidence for the 1968 UFO claim, but it helps explain why reports from this region were handled as more than casual rural sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minot.af.mil/About-Us/Our-Mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minot.af.mil">[minot.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minot.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+Minot Air Force Base was not an ordinary backdrop. In 1968 it sat inside a Strategic Air Command environment of bombers, missile fields, security teams, maintenance crews and radar procedures. The modern base still illustrates why the location matters: Minot hosts the 5th Bomb Wing and the 91st Missile Wing, and the missile-security mission involves 150 Minuteman III missiles and launch facilities spread through a large missile complex. That present-day structure is not evidence for the 1968 UFO claim, but it helps explain why reports from this region were handled as more than casual rural sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minot.af.mil/About-Us/Our-Mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minot.af.mil">[minot.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minot.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-The incident also took place near the end of the Air Force’s public UFO-investigation era. Project Blue Book ran from 1947 to 1969 under different names and structures, and the Air Force later stated that 701 of 12,618 reports remained “unidentified” when the programme closed. The Minot case was not one of those officially unexplained cases: Blue Book treated it as identifiable through stars, the B-52 itself and a possible plasma or ball-lightning-like phenomenon. That contrast is part of its importance. It is a case in which the official file exists, the official explanation is visible, and later researchers can compare the conclusion against the underlying documents rather than relying only on folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The incident also took place near the end of the Air Force’s public UFO-investigation era. Project Blue Book ran from 1947 to 1969 under different names and structures, and the Air Force later stated that 701 of 12,618 reports remained “unidentified” when the programme closed. The Minot case was not one of those officially unexplained cases: Blue Book treated it as identifiable through stars, the B-52 itself and a possible plasma or ball-lightning-like phenomenon. That contrast is part of its importance. It is a case in which the official file exists, the official explanation is visible, and later researchers can compare the conclusion against the underlying documents rather than relying only on folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 For North Dakota, the Minot case sits beside the 1948 Gorman “dogfight” over Fargo as one of the state’s two most substantial historic UFO episodes. The Fargo case is remembered for a military pilot’s pursuit of a light; Minot is remembered because ground observers, a bomber crew and radar-related records all overlap. The value of the Minot file is therefore not that it settles the UFO question, but that it shows how hard it can be to separate observation, instrumentation, military procedure and later interpretation when an unusual report occurs inside a high-security aviation setting.
 
 ## Ground reports from the missile field
 
-The first layer of the case came from personnel on the ground in the missile field north of Minot. The Basic Reporting Data sent from Minot AFB described the initial observers as two electronic maintenance men travelling by government vehicle to the November-7 missile site, about five miles north of Grano. Additional observers were listed near Mohall, Renville, Hartland and Tolley, making this a dispersed set of reports rather than a single viewpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
+The first layer of the case came from personnel on the ground in the missile field north of Minot. The Basic Reporting Data sent from Minot AFB described the initial observers as two electronic maintenance men travelling by government vehicle to the November-7 missile site, about five miles north of Grano. Additional observers were listed near Mohall, Renville, Hartland and Tolley, making this a dispersed set of reports rather than a single viewpoint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
 
-The reported object was described in striking but not fully consistent terms. In the Air Force reporting document, visual witnesses described something “just about round” and slightly oblong, usually bright red-orange, with reports of hovering and abrupt changes in direction and speed. One ground description compared its outline, when nearly overhead, to a stingray shape; another part of the same report noted a low, muffled jet-engine sound heard twice. These are vivid claims, but they also show the difficulty of the case: estimates of elevation, azimuth, colour, size and motion were made at night, under haze and over long distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Basic Reporting Data</span><span class="citation-popover-snippet">Basic Reporting Data</span></span></span>
+The reported object was described in striking but not fully consistent terms. In the Air Force reporting document, visual witnesses described something “just about round” and slightly oblong, usually bright red-orange, with reports of hovering and abrupt changes in direction and speed. One ground description compared its outline, when nearly overhead, to a stingray shape; another part of the same report noted a low, muffled jet-engine sound heard twice. These are vivid claims, but they also show the difficulty of the case: estimates of elevation, azimuth, colour, size and motion were made at night, under haze and over long distances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Basic Reporting Data</span><span class="citation-popover-snippet">Basic Reporting Data</span></span></span>
 
-The ground reports matter because they created the operational chain that brought the B-52 into the story. According to the reporting data, the wing security controller was notified by vehicle radio, adjacent flight security controllers were alerted, and a local B-52 was asked to remain alert for a possible UFO. Blue Book’s later sequence of events placed ground sightings from roughly 0030 through after 0500 local time, with several witnesses reporting lights before, during and after the bomber’s involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">radarscope index</span><span class="citation-popover-snippet">radarscope index</span></span></span>
+The ground reports matter because they created the operational chain that brought the B-52 into the story. According to the reporting data, the wing security controller was notified by vehicle radio, adjacent flight security controllers were alerted, and a local B-52 was asked to remain alert for a possible UFO. Blue Book’s later sequence of events placed ground sightings from roughly 0030 through after 0500 local time, with several witnesses reporting lights before, during and after the bomber’s involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">radarscope index</span><span class="citation-popover-snippet">radarscope index</span></span></span>
 
-The weakness of the ground evidence is that it is not one clean observation. Some descriptions could fit bright stars seen through haze, autokinesis, aircraft lights, or the B-52 operating in the area. Blue Book made exactly that argument, concluding that the ground visual sightings appeared to be Sirius and the B-52. It pointed to haze, scattered cloud, a temperature inversion, stellar scintillation and the visual illusion in which a stationary light appears to move against a dark background. Those are real mechanisms, and they deserve weight. They do not, however, automatically explain every ground report, especially because the file itself records varying locations, durations and directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/shough/ms_sec1.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Shough Report</span><span class="citation-popover-snippet">Shough Report</span></span></span>
+The weakness of the ground evidence is that it is not one clean observation. Some descriptions could fit bright stars seen through haze, autokinesis, aircraft lights, or the B-52 operating in the area. Blue Book made exactly that argument, concluding that the ground visual sightings appeared to be Sirius and the B-52. It pointed to haze, scattered cloud, a temperature inversion, stellar scintillation and the visual illusion in which a stationary light appears to move against a dark background. Those are real mechanisms, and they deserve weight. They do not, however, automatically explain every ground report, especially because the file itself records varying locations, durations and directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/shough/ms_sec1.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Shough Report</span><span class="citation-popover-snippet">Shough Report</span></span></span>
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-1-dark.svg" | relative_url }}" alt="Minot B 52 illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The B-52 radar and radio claims
 
-The second layer is what makes Minot stand apart from most state-level UFO cases: the returning B-52H. In the Basic Reporting Data, the radar observation was described as “air electronics” using an ASQ-38 system in station-keeping mode. The report identified the aircraft as B-52H JAG31 and gave electronic-sighting data from flight level 200 down to about 9,000 feet, followed by a separate visual sighting at about 3,200 feet mean sea level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-abstract.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Poher Report</span><span class="citation-popover-snippet">Poher Report</span></span></span>
+The second layer is what makes Minot stand apart from most state-level UFO cases: the returning B-52H. In the Basic Reporting Data, the radar observation was described as “air electronics” using an ASQ-38 system in station-keeping mode. The report identified the aircraft as B-52H JAG31 and gave electronic-sighting data from flight level 200 down to about 9,000 feet, followed by a separate visual sighting at about 3,200 feet mean sea level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-abstract.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Poher Report</span><span class="citation-popover-snippet">Poher Report</span></span></span>
 
-Blue Book’s own sequence of events recorded several key moments. At 0335, the B-52 was asked to look for an orange light. At 0352, the record says the B-52 was in haze and that weather radar placed an object at three miles at the one o’clock position. At 0358, the B-52 lost transmission to the tower, with transmission returning between 0400 and 0402. The radarscope photo sequence was listed as beginning at 0406:15 and ending at 0406:51. Later, at 0435, the pilot was recorded as observing an unidentified orange light while turning onto base leg for landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">POHER Report</span><span class="citation-popover-snippet">POHER Report</span></span></span>
+Blue Book’s own sequence of events recorded several key moments. At 0335, the B-52 was asked to look for an orange light. At 0352, the record says the B-52 was in haze and that weather radar placed an object at three miles at the one o’clock position. At 0358, the B-52 lost transmission to the tower, with transmission returning between 0400 and 0402. The radarscope photo sequence was listed as beginning at 0406:15 and ending at 0406:51. Later, at 0435, the pilot was recorded as observing an unidentified orange light while turning onto base leg for landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">POHER Report</span><span class="citation-popover-snippet">POHER Report</span></span></span>
 
-The B-52 crew’s visual report is more cautious than some later retellings. Blue Book summarised Major James Partin’s account as a bright orange ball of light, about 15 miles away in the west-north-west, either on the ground or slightly above it, remaining stationary as he flew towards it. The aircraft then turned onto base leg about a mile south of the light and above it. This is important because the strongest version of the case often imagines a clearly structured craft flying close to the bomber; the surviving official summary, at least in this section, describes a stationary light seen near the ground during approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">section 6</span><span class="citation-popover-snippet">section 6</span></span></span>
+The B-52 crew’s visual report is more cautious than some later retellings. Blue Book summarised Major James Partin’s account as a bright orange ball of light, about 15 miles away in the west-north-west, either on the ground or slightly above it, remaining stationary as he flew towards it. The aircraft then turned onto base leg about a mile south of the light and above it. This is important because the strongest version of the case often imagines a clearly structured craft flying close to the bomber; the surviving official summary, at least in this section, describes a stationary light seen near the ground during approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">section 6</span><span class="citation-popover-snippet">section 6</span></span></span>
 
-The radar portion is harder to dismiss neatly. The Air Force reporting document described the radar return as single, sharp, irregular and at times rectangular, and larger on scope than a KC-135 during aerial refuelling. It also stated that the radar echo accompanied the aircraft from an initial position 38 nautical miles north-west of the Deering TACAN 300-degree radial to about 14 nautical miles on the 296-degree radial, as the aircraft descended. Those are not casual witness impressions; they are technical claims embedded in a formal report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
+The radar portion is harder to dismiss neatly. The Air Force reporting document described the radar return as single, sharp, irregular and at times rectangular, and larger on scope than a KC-135 during aerial refuelling. It also stated that the radar echo accompanied the aircraft from an initial position 38 nautical miles north-west of the Deering TACAN 300-degree radial to about 14 nautical miles on the 296-degree radial, as the aircraft descended. Those are not casual witness impressions; they are technical claims embedded in a formal report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
 
-The radio claim adds another complication but should be handled carefully. The narrative maintained by the Minot case archive says both B-52 UHF radios would not transmit during the close radar encounter, while the Blue Book sequence records a temporary loss of transmission to the tower. Blue Book attributed the radar contact and temporary UHF loss to a plasma similar to ball lightning. The file does not prove that the radio failure and radar return had the same cause, and a correlation in time is not the same as causation. Still, the fact that the communications issue appears in the official sequence is one reason the case has not faded into ordinary “pilot saw light” territory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/archives/minot_afb/minot_afb_40th_anniv_celeb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">minot afb 40th anniv celeb</span><span class="citation-popover-snippet">minot afb 40th anniv celeb</span></span></span>
+The radio claim adds another complication but should be handled carefully. The narrative maintained by the Minot case archive says both B-52 UHF radios would not transmit during the close radar encounter, while the Blue Book sequence records a temporary loss of transmission to the tower. Blue Book attributed the radar contact and temporary UHF loss to a plasma similar to ball lightning. The file does not prove that the radio failure and radar return had the same cause, and a correlation in time is not the same as causation. Still, the fact that the communications issue appears in the official sequence is one reason the case has not faded into ordinary “pilot saw light” territory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/archives/minot_afb/minot_afb_40th_anniv_celeb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">minot afb 40th anniv celeb</span><span class="citation-popover-snippet">minot afb 40th anniv celeb</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWoJ7UMfVLY" title="B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer">B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 17.5K &middot; Uploaded: June 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWoJ7UMfVLY">Open on YouTube</a></p></div></div></div>
 
 ## What the radarscope photographs add
 
-The surviving radarscope photographs are the feature most often cited by supporters of the case. The Minot archive lists thirteen B-52 radarscope photographs within the Blue Book case file, and also hosts a radarscope photograph index showing frames numbered 771 through 784, plus explanatory material on station-keeping mode and B-52 radarscope-photo interpretation. The documentation page states that the full Blue Book file comprises 145 pages and includes two maps and thirteen B-52 radarscope photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
+The surviving radarscope photographs are the feature most often cited by supporters of the case. The Minot archive lists thirteen B-52 radarscope photographs within the Blue Book case file, and also hosts a radarscope photograph index showing frames numbered 771 through 784, plus explanatory material on station-keeping mode and B-52 radarscope-photo interpretation. The documentation page states that the full Blue Book file comprises 145 pages and includes two maps and thirteen B-52 radarscope photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
 
 The photographs do not function like a modern video or a clean target track. They are still images of a specialised radar display, taken in a short sequence, and their interpretation depends on aircraft position, radar mode, antenna behaviour, timing, range scale, ground returns and possible propagation effects. This is why later technical work on the case has focused less on dramatic witness language and more on reconstruction: where was the B-52, what was the radar showing, how fast would an echo appear to move, and could ordinary phenomena produce the returns?
 
-Martin Shough’s 2006 radar study is one of the key later attempts to test those questions. It treated the photographs as B-52H radarscope images taken north-west of Minot and examined possible explanations including aircraft, missiles, meteors, precipitation, moon returns, lightning, auroral ionisation, birds, insects, satellites, radio-frequency interference, internal noise, electronic spoofing and anomalous propagation. Shough concluded that no convincing explanation for the unidentified echoes had been found, while also noting uncertainties in the Air Force weather data and the need to reconstruct refractivity conditions rather than rely on a simple “temperature inversion” claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Blue Book Final Case Report</span><span class="citation-popover-snippet">Blue Book Final Case Report</span></span></span>
+Martin Shough’s 2006 radar study is one of the key later attempts to test those questions. It treated the photographs as B-52H radarscope images taken north-west of Minot and examined possible explanations including aircraft, missiles, meteors, precipitation, moon returns, lightning, auroral ionisation, birds, insects, satellites, radio-frequency interference, internal noise, electronic spoofing and anomalous propagation. Shough concluded that no convincing explanation for the unidentified echoes had been found, while also noting uncertainties in the Air Force weather data and the need to reconstruct refractivity conditions rather than rely on a simple “temperature inversion” claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Blue Book Final Case Report</span><span class="citation-popover-snippet">Blue Book Final Case Report</span></span></span>
 
-Claude Poher’s 2005 analysis went further in trying to build a three-dimensional reconstruction from the radar photographs and air-visual observations. The report’s own table of contents shows how technically ambitious the exercise was, covering B-52 altitude, antenna tilt, echo displacement, possible speeds, acceleration, radar-wave behaviour in ionised gas and the loss of VHF transmissions. That level of modelling can be useful, but it also depends heavily on assumptions about timing, geometry and what the radar return actually represented. It strengthens the case that the photographs deserve technical attention; it does not turn them into a simple proof of an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
+Claude Poher’s 2005 analysis went further in trying to build a three-dimensional reconstruction from the radar photographs and air-visual observations. The report’s own table of contents shows how technically ambitious the exercise was, covering B-52 altitude, antenna tilt, echo displacement, possible speeds, acceleration, radar-wave behaviour in ionised gas and the loss of VHF transmissions. That level of modelling can be useful, but it also depends heavily on assumptions about timing, geometry and what the radar return actually represented. It strengthens the case that the photographs deserve technical attention; it does not turn them into a simple proof of an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
 
 The safest reading is that the radarscope images are real evidence of something recorded by the aircraft’s radar system, but not self-explanatory evidence of what that something was. They move the case above a purely testimonial report, yet they also introduce technical ambiguity. Radar can record solid objects, weather, ground returns, interference, anomalous propagation and other effects. The Minot photographs matter because they narrow the debate; they do not end it.
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-2-dark.svg" | relative_url }}" alt="Minot B 52 illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Project Blue Book decided
 
-Project Blue Book’s final report, dated 13 November 1968, did not leave the case unresolved. It concluded that the ground visual sightings appeared to be Sirius and the B-52, that the B-52 radar contact and temporary UHF transmission loss could be attributed to a plasma similar to ball lightning, and that the B-52 air visual could have been Vega on the horizon, a light on the ground or possibly a plasma. It also separated the reported physical violation of the Oscar-7 lock from the UFO observations, stating that it did not seem related. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Basic Reporting Data</span><span class="citation-popover-snippet">Basic Reporting Data</span></span></span>
+Project Blue Book’s final report, dated 13 November 1968, did not leave the case unresolved. It concluded that the ground visual sightings appeared to be Sirius and the B-52, that the B-52 radar contact and temporary UHF transmission loss could be attributed to a plasma similar to ball lightning, and that the B-52 air visual could have been Vega on the horizon, a light on the ground or possibly a plasma. It also separated the reported physical violation of the Oscar-7 lock from the UFO observations, stating that it did not seem related.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Basic Reporting Data</span><span class="citation-popover-snippet">Basic Reporting Data</span></span></span>
 
-The strengths of that conclusion are clear. Blue Book did not simply say “unknown light” and stop. It offered specific categories: a bright star low or prominent in the sky, the bomber’s own lights and sound, haze and inversion effects, autokinesis, and a possible plasma-like radar and radio explanation. It also recognised that some witness reports conflicted in timing and duration, and it treated the B-52 pilot’s most definite visual sighting as occurring around 0435 rather than at the earlier ground-report peak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">radarscope index</span><span class="citation-popover-snippet">radarscope index</span></span></span>
+The strengths of that conclusion are clear. Blue Book did not simply say “unknown light” and stop. It offered specific categories: a bright star low or prominent in the sky, the bomber’s own lights and sound, haze and inversion effects, autokinesis, and a possible plasma-like radar and radio explanation. It also recognised that some witness reports conflicted in timing and duration, and it treated the B-52 pilot’s most definite visual sighting as occurring around 0435 rather than at the earlier ground-report peak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">radarscope index</span><span class="citation-popover-snippet">radarscope index</span></span></span>
 
-The weaknesses are just as important. The plasma explanation is broad and not tightly demonstrated in the final report. Saying a radar contact and radio loss “could be attributed” to a plasma does not show that a plasma was present, that it had the necessary size and persistence, or that it matched the radar sequence. NICAP’s reproduced discussion of the case noted that Blue Book described a “plasma of the ball-lightning class” without explaining how that determination had been reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The weaknesses are just as important. The plasma explanation is broad and not tightly demonstrated in the final report. Saying a radar contact and radio loss “could be attributed” to a plasma does not show that a plasma was present, that it had the necessary size and persistence, or that it matched the radar sequence. NICAP’s reproduced discussion of the case noted that Blue Book described a “plasma of the ball-lightning class” without explaining how that determination had been reached.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The final report also compressed several layers of evidence into a tidy set of labels. That was common in the later Blue Book era, when the Air Force was under pressure to process reports efficiently and the programme itself was nearing termination. The Air Force’s later public summary of Blue Book emphasised that no investigated UFO was found to represent a national-security threat, a technology beyond scientific knowledge, or an extraterrestrial vehicle. Those broad institutional conclusions matter, but they do not remove the need to examine the quality of explanation in individual cases like Minot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The final report also compressed several layers of evidence into a tidy set of labels. That was common in the later Blue Book era, when the Air Force was under pressure to process reports efficiently and the programme itself was nearing termination. The Air Force’s later public summary of Blue Book emphasised that no investigated UFO was found to represent a national-security threat, a technology beyond scientific knowledge, or an extraterrestrial vehicle. Those broad institutional conclusions matter, but they do not remove the need to examine the quality of explanation in individual cases like Minot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vh02kMSJec8" title="1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer">1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP &middot; Views: 276 &middot; Uploaded: January 2020 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vh02kMSJec8">Open on YouTube</a></p></div></div></div>
 
@@ -327,18 +327,18 @@ The final report also compressed several layers of evidence into a tidy set of l
 
 A balanced reading of Minot has to resist two easy stories. The first is the believer’s shortcut: multiple witnesses plus radar plus a nuclear base equals a proven extraordinary craft. The second is the sceptic’s shortcut: Blue Book named Sirius, Vega and plasma, so the case is solved. The records are more awkward than either version.
 
-The strongest sceptical points are practical. Some ground observations lasted a long time, involved lights near the horizon or in the southern sky, and included colours that can be produced by stellar scintillation through haze. The B-52 itself was flying in the area and could plausibly have confused observers who were already trying to track a light. Blue Book also noted haze, clouds and a moderate temperature inversion, all of which can make lights and distances harder to judge at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/shough/ms_sec1.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Shough Report</span><span class="citation-popover-snippet">Shough Report</span></span></span>
+The strongest sceptical points are practical. Some ground observations lasted a long time, involved lights near the horizon or in the southern sky, and included colours that can be produced by stellar scintillation through haze. The B-52 itself was flying in the area and could plausibly have confused observers who were already trying to track a light. Blue Book also noted haze, clouds and a moderate temperature inversion, all of which can make lights and distances harder to judge at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/shough/ms_sec1.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Shough Report</span><span class="citation-popover-snippet">Shough Report</span></span></span>
 
-The strongest unresolved points are evidential rather than dramatic. The Air Force report rated several witnesses as reliable, listed both ground-visual and air-electronic observation, described a distinct B-52 radar return, and preserved a photo sequence. Later radar analysis by Shough found no convincing explanation among a wide range of conventional possibilities, though that conclusion remains an expert interpretation rather than an official finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-abstract.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Poher Report</span><span class="citation-popover-snippet">Poher Report</span></span></span>
+The strongest unresolved points are evidential rather than dramatic. The Air Force report rated several witnesses as reliable, listed both ground-visual and air-electronic observation, described a distinct B-52 radar return, and preserved a photo sequence. Later radar analysis by Shough found no convincing explanation among a wide range of conventional possibilities, though that conclusion remains an expert interpretation rather than an official finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-abstract.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Poher Report</span><span class="citation-popover-snippet">Poher Report</span></span></span>
 
 The biggest problem for any single explanation is that the case may not be one event. It may be a cluster: some ground witnesses seeing stars or aircraft; the B-52 radar showing an unusual but non-object return; the crew later seeing a ground light or low celestial object; and the Oscar-7 alarm or lock issue being unrelated. That kind of mixed explanation is less satisfying than either “UFO” or “debunked”, but it often fits messy historical cases better.
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-3-dark.svg" | relative_url }}" alt="Minot B 52 illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the surviving Blue Book file can and cannot prove
 
-The surviving file can prove that something was formally reported from Minot AFB, that the report involved military witnesses, that the B-52 crew and radar system became part of the investigation, and that Project Blue Book received and evaluated the material. It can also prove that the case generated a substantial paper trail: Basic Reporting Data, witness questionnaires, summaries, radar-scope photographs, maps, memoranda and a final report. The archive’s documentation page identifies the case file as number 12,548 and describes 145 pages of records, including thirteen B-52 radarscope photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">POHER Report</span><span class="citation-popover-snippet">POHER Report</span></span></span>
+The surviving file can prove that something was formally reported from Minot AFB, that the report involved military witnesses, that the B-52 crew and radar system became part of the investigation, and that Project Blue Book received and evaluated the material. It can also prove that the case generated a substantial paper trail: Basic Reporting Data, witness questionnaires, summaries, radar-scope photographs, maps, memoranda and a final report. The archive’s documentation page identifies the case file as number 12,548 and describes 145 pages of records, including thirteen B-52 radarscope photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">POHER Report</span><span class="citation-popover-snippet">POHER Report</span></span></span>
 
-The file cannot prove that all observers saw the same object. It cannot prove that the radar return was a solid craft. It cannot prove that the radio-transmission problem was caused by the radar target. It cannot prove that the Oscar-7 lock issue was connected to the sightings; Blue Book explicitly treated it as unrelated. It also cannot remove the uncertainty created by night viewing, haze, estimated angles, incomplete witness forms and later reconstructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">section 6</span><span class="citation-popover-snippet">section 6</span></span></span>
+The file cannot prove that all observers saw the same object. It cannot prove that the radar return was a solid craft. It cannot prove that the radio-transmission problem was caused by the radar target. It cannot prove that the Oscar-7 lock issue was connected to the sightings; Blue Book explicitly treated it as unrelated. It also cannot remove the uncertainty created by night viewing, haze, estimated angles, incomplete witness forms and later reconstructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">section 6</span><span class="citation-popover-snippet">section 6</span></span></span>
 
 What it can do is preserve a rare Cold War case where the reader can examine the layers separately. Ground reports are one layer. B-52 radar claims are another. B-52 visual observation is another. Radio failure is another. The Blue Book conclusion is another. Later technical analysis is another. Treating those layers separately is the fairest way to understand Minot, because the case becomes weaker when inflated into a single flawless encounter and stronger when recognised as a complex record that still resists a fully tidy explanation.
 
@@ -346,201 +346,201 @@ What it can do is preserve a rare Cold War case where the reader can examine the
 
 The Minot B-52 case still stands out because it occupies the middle ground that serious UFO history often has to deal with. It is not a proven visitation, not a crash legend, not a single anonymous report, and not a case that can be brushed aside as merely “someone saw a light”. It is a North Dakota incident with named military roles, a specific time window, an operational setting, radar-related records and an official explanation that remains debatable.
 
-The best current assessment is that Minot is unresolved in a limited, evidence-led sense. Some parts of the episode may well have conventional explanations, especially the long-duration ground lights. Blue Book’s star-and-aircraft explanation is plausible for portions of the missile-field reports, and its caution about the Oscar-7 lock issue is sensible. The harder part is the B-52 radar sequence and the temporary radio-transmission problem, where the official plasma explanation is possible in wording but thinly demonstrated in the surviving final report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
+The best current assessment is that Minot is unresolved in a limited, evidence-led sense. Some parts of the episode may well have conventional explanations, especially the long-duration ground lights. Blue Book’s star-and-aircraft explanation is plausible for portions of the missile-field reports, and its caution about the Oscar-7 lock issue is sensible. The harder part is the B-52 radar sequence and the temporary radio-transmission problem, where the official plasma explanation is possible in wording but thinly demonstrated in the surviving final report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
 
 For North Dakota’s UFO history, the case matters less as a claim about aliens than as a test of evidence. It shows why military witnesses can be valuable without being infallible, why radar records can be important without being self-interpreting, and why official explanations can be plausible in parts while still leaving questions. That is why the Minot case remains one of the state’s most useful UFO case studies: it rewards careful reading more than belief, disbelief or folklore.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6pt3DHrKChU" title="The Minot UFO Incident: Unraveling the 1968 Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6pt3DHrKChU" target="_blank" rel="noopener noreferrer">The Minot UFO Incident: Unraveling the 1968 Mystery</a></p><p class="youtube-embed-meta">Channel: Whispers of the Ghost 👻- &middot; Views: 59 &middot; Uploaded: June 2025 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6pt3DHrKChU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6pt3DHrKChU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Minot UFO Case Still Stands Out. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Minot UFO Case Still Stands Out. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for official investigations of cases like Minot.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official investigations of cases like Minot.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong match for pilot, radar and military-witness discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for pilot, radar and military-witness discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Relevant to Blue Book records and military reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to Blue Book records and military reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Covers cases involving nuclear installations and military personnel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cases involving nuclear installations and military personnel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/DUgAAOSw38JdE18u/s-l225.jpg" alt="Listing image for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/DUgAAOSw38JdE18u/s-l225.jpg" alt="Listing image for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/X7EAAOSwrh9gYv2w/s-l225.jpg" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/X7EAAOSwrh9gYv2w/s-l225.jpg" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft"><img src="https://i.ebayimg.com/images/g/tboAAOSw2gxYrWel/s-l225.jpg" alt="Listing image for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft"><img src="https://i.ebayimg.com/images/g/tboAAOSw2gxYrWel/s-l225.jpg" alt="Listing image for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag"><img src="https://i.ebayimg.com/images/g/o9gAAOSwpwBcHGTF/s-l225.jpg" alt="Listing image for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag"><img src="https://i.ebayimg.com/images/g/o9gAAOSwpwBcHGTF/s-l225.jpg" alt="Listing image for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-minot-ufo-case-still-stands-out-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For North Dakota’s UFO history, the case matters less as a claim about aliens 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For North Dakota’s UFO history, the case matters less as a claim about aliens 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For North Dakota’s UFO history, the case matters less as a claim about aliens 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For North Dakota’s UFO history, the case matters less as a claim about aliens 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For North Dakota’s UFO history, the case matters less as a claim about aliens 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,162 +746,162 @@ For North Dakota’s UFO history, the case matters less as a claim about aliens 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/</a>  
+   Link:<a href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: minotb52ufo.com  
    Title: Blue Book Final Case Report  
-   Link: <a href="https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf</a>  
+   Link:<a href="https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
+   Link:<a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: minot.af.mil  
-   Link: <a href="https://www.minot.af.mil/About-Us/Our-Mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/About-Us/Our-Mission/</a>  
+   Link:<a href="https://www.minot.af.mil/About-Us/Our-Mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/About-Us/Our-Mission/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: minot.af.mil  
-   Link: <a href="https://www.minot.af.mil/Base-Units/91st-Missile-Wing-Units/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/Base-Units/91st-Missile-Wing-Units/</a>  
+   Link:<a href="https://www.minot.af.mil/Base-Units/91st-Missile-Wing-Units/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/Base-Units/91st-Missile-Wing-Units/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: minotb52ufo.com  
    Title: Basic Reporting Data  
-   Link: <a href="https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf</a>  
+   Link:<a href="https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/pdf/Basic_Reporting_Data.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/681024minot_hynek.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/681024minot_hynek.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: minotb52ufo.com  
    Title: radarscope index  
-   Link: <a href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/radarscopes/radarscope-index.php</a>  
+   Link:<a href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/radarscopes/radarscope-index.php</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: minotb52ufo.com  
    Title: Shough Report  
-   Link: <a href="https://minotb52ufo.com/shough/ms_sec1.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/shough/ms_sec1.php</a>  
+   Link:<a href="https://minotb52ufo.com/shough/ms_sec1.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/shough/ms_sec1.php</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: minotb52ufo.com  
    Title: Poher Report  
-   Link: <a href="https://minotb52ufo.com/poher/cp-abstract.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/cp-abstract.php</a>  
+   Link:<a href="https://minotb52ufo.com/poher/cp-abstract.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/cp-abstract.php</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: minotb52ufo.com  
    Title: POHER Report  
-   Link: <a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
+   Link:<a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: minotb52ufo.com  
    Title: section 6  
-   Link: <a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
+   Link:<a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/cp-part2.php</a>  
+   Link:<a href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/cp-part2.php</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: minotb52ufo.com  
    Title: minot afb 40th anniv celeb  
-   Link: <a href="https://minotb52ufo.com/archives/minot_afb/minot_afb_40th_anniv_celeb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/archives/minot_afb/minot_afb_40th_anniv_celeb.pdf</a>  
+   Link:<a href="https://minotb52ufo.com/archives/minot_afb/minot_afb_40th_anniv_celeb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/archives/minot_afb/minot_afb_40th_anniv_celeb.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: minot.af.mil  
    Title: minot air force base  
-   Link: <a href="https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/</a>  
+   Link:<a href="https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: minot.af.mil  
-   Link: <a href="https://www.minot.af.mil/Base-Units/5th-Bomb-Wing-Units/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/Base-Units/5th-Bomb-Wing-Units/</a>  
+   Link:<a href="https://www.minot.af.mil/Base-Units/5th-Bomb-Wing-Units/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/Base-Units/5th-Bomb-Wing-Units/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Minot Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Minot_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Minot_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Minot_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Minot_Air_Force_Base</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base,  
-   Link: <a href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jWoJ7UMfVLY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010-09-27: Minot UFO Event Capt Schindele Testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jWoJ7UMfVLY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010-09-27: Minot UFO Event Capt Schindele Testimony...</p></details>
    Published: October 24, 1968  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6pt3DHrKChU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6pt3DHrKChU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot B-52 UFO incident 1968 radar 1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO Tom Owens UAP...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6pt3DHrKChU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6pt3DHrKChU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot B-52 UFO incident 1968 radar 1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO Tom Owens UAP...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vh02kMSJec8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Minot UFO Incident: Unraveling the 1968 Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vh02kMSJec8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Minot UFO Incident: Unraveling the 1968 Mystery...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher</a>  
+   Link:<a href="https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThunderdomeIsYou/posts/dont-believe-the-official-story-trypticon-ophidian-is-hijacking-the-frequency-to/1508052810682969/?locale=sw_KE" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThunderdomeIsYou/posts/dont-believe-the-official-story-trypticon-ophidian-is-hijacking-the-frequency-to/1508052810682969/?locale=sw_KE</a>  
+   Link:<a href="https://www.facebook.com/ThunderdomeIsYou/posts/dont-believe-the-official-story-trypticon-ophidian-is-hijacking-the-frequency-to/1508052810682969/?locale=sw_KE" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThunderdomeIsYou/posts/dont-believe-the-official-story-trypticon-ophidian-is-hijacking-the-frequency-to/1508052810682969/?locale=sw_KE</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MilitaryMetalArtInc/posts/fire-dawgs-world-class-professionals-only-the-best-come-north-minot-afb-is-the-o/1121104226040294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MilitaryMetalArtInc/posts/fire-dawgs-world-class-professionals-only-the-best-come-north-minot-afb-is-the-o/1121104226040294/</a>  
+   Link:<a href="https://www.facebook.com/MilitaryMetalArtInc/posts/fire-dawgs-world-class-professionals-only-the-best-come-north-minot-afb-is-the-o/1121104226040294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MilitaryMetalArtInc/posts/fire-dawgs-world-class-professionals-only-the-best-come-north-minot-afb-is-the-o/1121104226040294/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: 5thforcesupport.com  
-   Link: <a href="https://5thforcesupport.com/wp-content/uploads/2024/06/History-Walk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5thforcesupport.com/wp-content/uploads/2024/06/History-Walk.pdf</a>  
+   Link:<a href="https://5thforcesupport.com/wp-content/uploads/2024/06/History-Walk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5thforcesupport.com/wp-content/uploads/2024/06/History-Walk.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/minotaf/posts/-throwback-thursday-%EF%B8%8Ffrom-fighting-tyranny-over-the-skies-of-europe-during-world/1123680713120346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/minotaf/posts/-throwback-thursday-%EF%B8%8Ffrom-fighting-tyranny-over-the-skies-of-europe-during-world/1123680713120346/</a>  
+   Link:<a href="https://www.facebook.com/minotaf/posts/-throwback-thursday-%EF%B8%8Ffrom-fighting-tyranny-over-the-skies-of-europe-during-world/1123680713120346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/minotaf/posts/-throwback-thursday-%EF%B8%8Ffrom-fighting-tyranny-over-the-skies-of-europe-during-world/1123680713120346/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: npshistory.com  
-   Link: <a href="https://npshistory.com/publications/mimi/srs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/mimi/srs.pdf</a>  
+   Link:<a href="https://npshistory.com/publications/mimi/srs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/mimi/srs.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>
+   Link:<a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>

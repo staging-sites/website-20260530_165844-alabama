@@ -309,194 +309,194 @@ The episode’s lasting cultural impact in Florida has been to embed Gulf Breeze
 <img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041-Illustration-2-dark.svg" | relative_url }}" alt="Gulf Breeze illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Unpacking the Gulf Breeze UFO Controversy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Unpacking the Gulf Breeze UFO Controversy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating famous UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating famous UFO incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Captures the late-1980s UFO culture surrounding Gulf Breeze.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the late-1980s UFO culture surrounding Gulf Breeze.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=War+of+the+Words+by+Craig+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open War of the Words on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZV385o0gPbUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for War of the Words" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=War+of+the+Words+by+Craig+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="War of the Words">War of the Words</a>
-        </h4>
-        <p class="fr-book-author">By Craig R. Myers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=War+of+the+Words+by+Craig+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open War of the Words on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZV385o0gPbUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for War of the Words" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=War+of+the+Words+by+Craig+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="War of the Words">War of the Words</a>
+</h4>
+<p class="fr-book-author">By Craig R. Myers</p>
         
-        <p class="fr-book-desc">Examines competing claims and media coverage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=War+of+the+Words+by+Craig+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines competing claims and media coverage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=War+of+the+Words+by+Craig+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers frameworks for interpreting major UFO flap events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers frameworks for interpreting major UFO flap events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=War+of+the+Words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">War of the Words</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=War+of+the+Words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">War of the Words</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/mdEAAOSwa~dkHZjp/s-l225.jpg" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/mdEAAOSwa~dkHZjp/s-l225.jpg" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="https://i.ebayimg.com/images/g/m-UAAOSwNd1iVoqP/s-l225.jpg" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="https://i.ebayimg.com/images/g/m-UAAOSwNd1iVoqP/s-l225.jpg" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/-JgAAOSwMyhkHZzN/s-l225.jpg" alt="Listing image for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/-JgAAOSwMyhkHZzN/s-l225.jpg" alt="Listing image for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="https://i.ebayimg.com/images/g/DnIAAOSwvt1WSCi5/s-l225.jpg" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="https://i.ebayimg.com/images/g/DnIAAOSwvt1WSCi5/s-l225.jpg" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="unpacking-the-gulf-breeze-ufo-controversy-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -512,7 +512,7 @@ The episode’s lasting cultural impact in Florida has been to embed Gulf Breeze
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -532,7 +532,7 @@ The episode’s lasting cultural impact in Florida has been to embed Gulf Breeze
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -564,7 +564,7 @@ The episode’s lasting cultural impact in Florida has been to embed Gulf Breeze
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -616,7 +616,7 @@ The episode’s lasting cultural impact in Florida has been to embed Gulf Breeze
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -661,7 +661,7 @@ The episode’s lasting cultural impact in Florida has been to embed Gulf Breeze
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,114 +702,114 @@ The episode’s lasting cultural impact in Florida has been to embed Gulf Breeze
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Gulf Breeze UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufospensacolabeach.com  
    Title: The Gulf Breeze UFO Incident | Ed Walters & The Gulf Breeze Sightings  
-   Link: <a href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-ufo-incident/</a>  
+   Link:<a href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-ufo-incident/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufoinsight.com  
    Title: One Of The Most Divisive Cases In History: The Gulf Breeze UFO Encounters  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightSeptember 10, 2023...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-gulf-breeze-ufo-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightSeptember 10, 2023...</p></details>
    Published: September 10, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: floridafolkhistory.org  
    Title: Gulf Breeze UFO – Florida Folk History  
-   Link: <a href="https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 20, 2025...</p></details>
+   Link:<a href="https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://floridafolkhistory.org/2025/11/20/gulf-breeze-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 20, 2025...</p></details>
    Published: November 20, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pensacolabeach.com  
    Title: The Gulf Breeze UFO Incident  
-   Link: <a href="https://pensacolabeach.com/the-gulf-breeze-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://pensacolabeach.com/the-gulf-breeze-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GULF BREEZE UFO INCIDENT THE STORY On November 11, 1987, Ed Walters, a contractor in Gulf Breeze, Florida, was allegedly immobilized “bri...</p></details>
+   Link:<a href="https://pensacolabeach.com/the-gulf-breeze-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://pensacolabeach.com/the-gulf-breeze-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GULF BREEZE UFO INCIDENT THE STORY On November 11, 1987, Ed Walters, a contractor in Gulf Breeze, Florida, was allegedly immobilized “bri...</p></details>
    Published: November 11, 1987  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufomagazines.com  
    Title: UFO Magazine Archive UFO — UFO | UFO Magazine Archive  
-   Link: <a href="https://www.ufomagazines.com/ufo-ufo-1992-no-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ufo-ufo-1992-no-2/</a>  
+   Link:<a href="https://www.ufomagazines.com/ufo-ufo-1992-no-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ufo-ufo-1992-no-2/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: flheritage.org  
    Title: Tampa Bay Legacy Project What happened in the Gulf Breeze UFO Incident?  
-   Link: <a href="https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tampa Bay Legacy ProjectWhat happened in the Gulf Breeze UFO Incident?October 15, 2025...</p></details>
+   Link:<a href="https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.flheritage.org/post/what-happened-in-the-gulf-breeze-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tampa Bay Legacy ProjectWhat happened in the Gulf Breeze UFO Incident?October 15, 2025...</p></details>
    Published: October 15, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Gulf Breeze UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breeze UFO | Unsolved Mysteries Wiki | FandomGULF BREEZE UFO Sign In to Save Save Edit * Edit source * History * Purge * Talk (0) iframe...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breeze UFO | Unsolved Mysteries Wiki | FandomGULF BREEZE UFO Sign In to Save Save Edit * Edit source * History * Purge * Talk (0) iframe...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sott.net  
    Title: The Gulf Breeze UFO sightings 30 years later: Is the truth still out there?  
-   Link: <a href="https://www.sott.net/article/363212-The-Gulf-Breeze-UFO-sightings-30-years-later-Is-the-truth-still-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/363212-The-Gulf-Breeze-UFO-sightings-30-years-later-Is-the-truth-still-out-there</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Strangeness — Sott.netSeptember 24, 2017 — HIGH STRANGENESS Image: UFO THE GULF BREEZE UFO SIGHTINGS 30 YEARS LATER: IS THE TRUTH...</p></details>
+   Link:<a href="https://www.sott.net/article/363212-The-Gulf-Breeze-UFO-sightings-30-years-later-Is-the-truth-still-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/363212-The-Gulf-Breeze-UFO-sightings-30-years-later-Is-the-truth-still-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Strangeness — Sott.netSeptember 24, 2017 — HIGH STRANGENESS Image: UFO THE GULF BREEZE UFO SIGHTINGS 30 YEARS LATER: IS THE TRUTH...</p></details>
    Published: September 24, 2017  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/gulfbreeze.html?no_redirect=true" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/gulfbreeze.html?no_redirect=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aphs, and videos, the sensational reports that originated in Gulf Breeze, Florida are some of the most c...</p></details>
+   Link:<a href="https://www.ufocasebook.com/gulfbreeze.html?no_redirect=true" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/gulfbreeze.html?no_redirect=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aphs, and videos, the sensational reports that originated in Gulf Breeze, Florida are some of the most c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lionsberg.wiki  
    Title: Originating in Gulf Breeze, Florida, local re  
-   Link: <a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO Sightings (1987) — Lionsberg WikiMay 3, 2026 — THE GULF BREEZE UFO SIGHTINGS (1987) Summary: The Gulf Breeze UFO sigh...</p></details>
+   Link:<a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_gulf_breeze_ufo_sightings_%281987%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO Sightings (1987) — Lionsberg WikiMay 3, 2026 — THE GULF BREEZE UFO SIGHTINGS (1987) Summary: The Gulf Breeze UFO sigh...</p></details>
    Published: May 3, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: upi.com  
    Title: Gulf Breeze sightings divide UFO experts  
-   Link: <a href="https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29, 1989 GULF BREEZE SIGHTINGS DIVIDE UFO EXPERTS GULF BREEZE, Fla. -- Photographs of an eerily lit cylindrical object drifting through t...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/01/29/Gulf-Breeze-sightings-divide-UFO-experts/2966602053200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29, 1989 GULF BREEZE SIGHTINGS DIVIDE UFO EXPERTS GULF BREEZE, Fla. -- Photographs of an eerily lit cylindrical object drifting through t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: astronomyufo.com  
-   Link: <a href="https://www.astronomyufo.com/UFO/Ed01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Ed01.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>112) (R - Jerry Black&#x27;s on line video UFO update) Gullibility in Gulf Breeze: The Ed Walters Story...</p></details>
+   Link:<a href="https://www.astronomyufo.com/UFO/Ed01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Ed01.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>112) (R - Jerry Black&#x27;s on line video UFO update) Gullibility in Gulf Breeze: The Ed Walters Story...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: isaackoi.com  
    Title: 19871111 gulf breeze encounter  
-   Link: <a href="https://www.isaackoi.com/ufo-history/ufo/19871111-gulf-breeze-encounter.html" target="_blank" rel="noopener noreferrer nofollow">https://www.isaackoi.com/ufo-history/ufo/19871111-gulf-breeze-encounter.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1987.1111 Gulf Breeze encounterNovember 11, 1987 — UFO HISTORY 1987.1111 GULF BREEZE ENCOUNTER UFO Timeline Image: image_needed Image nee...</p></details>
+   Link:<a href="https://www.isaackoi.com/ufo-history/ufo/19871111-gulf-breeze-encounter.html" target="_blank" rel="noopener noreferrer nofollow">https://www.isaackoi.com/ufo-history/ufo/19871111-gulf-breeze-encounter.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1987.1111 Gulf Breeze encounterNovember 11, 1987 — UFO HISTORY 1987.1111 GULF BREEZE ENCOUNTER UFO Timeline Image: image_needed Image nee...</p></details>
    Published: November 11, 1987  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: conexaoufo.com  
    Title: The Gulf Breeze UFO Sightings  
-   Link: <a href="https://conexaoufo.com/en/the-gulf-breeze-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://conexaoufo.com/en/the-gulf-breeze-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conexão UFONovember 18, 2022 — THE GULF BREEZE UFO SIGHTINGS Em 1988, Gulf Breeze, uma cidade na Flórida, tornou-se o epicentro de uma sé...</p></details>
+   Link:<a href="https://conexaoufo.com/en/the-gulf-breeze-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://conexaoufo.com/en/the-gulf-breeze-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conexão UFONovember 18, 2022 — THE GULF BREEZE UFO SIGHTINGS Em 1988, Gulf Breeze, uma cidade na Flórida, tornou-se o epicentro de uma sé...</p></details>
    Published: November 18, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stronghold-nation.com  
    Title: the gulf breeze incident  
-   Link: <a href="https://www.stronghold-nation.com/history/myth/the-gulf-breeze-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-gulf-breeze-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Case Studies | Stronghold NationTHE GULF BREEZE INCIDENT * UFO Case Studies * 1 min BY CRUSADER1307 Beginning in 1987, Florida Contra...</p></details>
+   Link:<a href="https://www.stronghold-nation.com/history/myth/the-gulf-breeze-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-gulf-breeze-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Case Studies | Stronghold NationTHE GULF BREEZE INCIDENT * UFO Case Studies * 1 min BY CRUSADER1307 Beginning in 1987, Florida Contra...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CtqdpWA46tM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CtqdpWA46tM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Gulf Breeze UFO 3D Printed Model And My Own Real Life UFO Experience...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CtqdpWA46tM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CtqdpWA46tM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Gulf Breeze UFO 3D Printed Model And My Own Real Life UFO Experience...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vagabondmuse.com  
    Title: Alien Vacation  
-   Link: <a href="https://www.vagabondmuse.com/alien-vacation" target="_blank" rel="noopener noreferrer nofollow">https://www.vagabondmuse.com/alien-vacation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Gulf Breeze, Florida — The*Vagabond*MuseImage: Gulf Breeze UFO house ALIEN VACATION IN GULF BREEZE, FLORIDA You’d think a Florida beac...</p></details>
+   Link:<a href="https://www.vagabondmuse.com/alien-vacation" target="_blank" rel="noopener noreferrer nofollow">https://www.vagabondmuse.com/alien-vacation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Gulf Breeze, Florida — The*Vagabond*MuseImage: Gulf Breeze UFO house ALIEN VACATION IN GULF BREEZE, FLORIDA You’d think a Florida beac...</p></details>

@@ -250,7 +250,7 @@ image: /assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_ri
 
 ## Introduction
 
-The [New Ellenton]({{ 'new-ellenton/' | relative_url }}) sighting gained lasting attention not simply because several workers reported unusual aerial objects in May 1952, but because the report came from inside one of the most sensitive Cold War industrial projects in the United States. The Savannah River Plant, later known as the Savannah River Site, had been created to produce materials for American nuclear weapons at a moment of intense geopolitical tension. That setting transformed what might otherwise have been a local UFO report into a case frequently cited in discussions about alleged UFO interest in nuclear facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/em/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site &#124; Department of EnergyThe Savannah River Site, a 310-square-mile-site in Aiken...</span></span></span>
+The [New Ellenton]({{ 'new-ellenton/' | relative_url }}) sighting gained lasting attention not simply because several workers reported unusual aerial objects in May 1952, but because the report came from inside one of the most sensitive Cold War industrial projects in the United States. The Savannah River Plant, later known as the Savannah River Site, had been created to produce materials for American nuclear weapons at a moment of intense geopolitical tension. That setting transformed what might otherwise have been a local UFO report into a case frequently cited in discussions about alleged UFO interest in nuclear facilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/em/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site &#124; Department of EnergyThe Savannah River Site, a 310-square-mile-site in Aiken...</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-1-dark.svg" | relative_url }}" alt="Nuclear site illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The nuclear connection is important historically, but it also requires caution. The fact that a sighting occurred near a weapons-production complex does not by itself demonstrate surveillance, intelligence gathering, or any special link between unidentified objects and nuclear technology. What it does explain is why the New Ellenton report remained visible in UFO literature long after many comparable 1950s sightings had been forgotten.
@@ -259,11 +259,11 @@ The nuclear connection is important historically, but it also requires caution. 
 
 ## What the Savannah River Plant was built to do
 
-The Savannah River Plant was established in the early 1950s as part of the United States nuclear weapons programme. Located in western South Carolina near Aiken and the Savannah River, the site was constructed to produce tritium and plutonium-239, two materials essential to the Cold War nuclear arsenal. Five production reactors, chemical processing facilities and extensive support infrastructure were built across hundreds of square miles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/em/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site &#124; Department of EnergyThe Savannah River Site, a 310-square-mile-site in Aiken...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.srs.gov/general/about/history1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srs.gov">[SRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srs.gov</span><span class="citation-popover-snippet">SRS - History HighlightsThe Savannah River Site was constructed during the early 1950s to produce the basic materials used in the fabr...</span></span></span>
+The Savannah River Plant was established in the early 1950s as part of the United States nuclear weapons programme. Located in western South Carolina near Aiken and the Savannah River, the site was constructed to produce tritium and plutonium-239, two materials essential to the Cold War nuclear arsenal. Five production reactors, chemical processing facilities and extensive support infrastructure were built across hundreds of square miles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/em/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site &#124; Department of EnergyThe Savannah River Site, a 310-square-mile-site in Aiken...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.srs.gov/general/about/history1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srs.gov">[SRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srs.gov</span><span class="citation-popover-snippet">SRS - History HighlightsThe Savannah River Site was constructed during the early 1950s to produce the basic materials used in the fabr...</span></span></span>
 
-Its strategic importance was unusually high even by Cold War standards. The facility was not a conventional military base. It was a specialised industrial complex dedicated to producing materials used in nuclear weapons, and much of its work was conducted under strict security controls. DuPont was contracted to build and operate the site during its early years, which is why the reported [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) in the 1952 case were described as DuPont employees rather than military personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srnl.gov">[Savannah River National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srnl.gov</span><span class="citation-popover-snippet">May 13, 2024 — In the early 1950s the DuPont company was given the task of building and running Savannah River Site (SRS) to produce plut...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
+Its strategic importance was unusually high even by Cold War standards. The facility was not a conventional military base. It was a specialised industrial complex dedicated to producing materials used in nuclear weapons, and much of its work was conducted under strict security controls. DuPont was contracted to build and operate the site during its early years, which is why the reported [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) in the 1952 case were described as DuPont employees rather than military personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srnl.gov">[Savannah River National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srnl.gov</span><span class="citation-popover-snippet">May 13, 2024 — In the early 1950s the DuPont company was given the task of building and running Savannah River Site (SRS) to produce plut...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
 
-Timing matters here. The New Ellenton sighting occurred in 1952, when the Savannah River Plant was still a relatively new project and nuclear weapons production ranked among the highest national-security priorities in the United States. The plant was not merely another industrial location on a map; it represented a major component of the country's expanding thermonuclear weapons infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.srs.gov/general/about/srs-1950.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srs.gov">[SRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srs.gov</span><span class="citation-popover-title">Untitled Document</span><span class="citation-popover-snippet">Selection of location of Savannah River Plant (SRP), between Aiken, S.C., and Augusta, Ga., on the Savannah River, is announced. 1951...</span></span></span>
+Timing matters here. The New Ellenton sighting occurred in 1952, when the Savannah River Plant was still a relatively new project and nuclear weapons production ranked among the highest national-security priorities in the United States. The plant was not merely another industrial location on a map; it represented a major component of the country's expanding thermonuclear weapons infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.srs.gov/general/about/srs-1950.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srs.gov">[SRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srs.gov</span><span class="citation-popover-title">Untitled Document</span><span class="citation-popover-snippet">Selection of location of Savannah River Plant (SRP), between Aiken, S.C., and Augusta, Ga., on the Savannah River, is announced. 1951...</span></span></span>
 
 For UFO researchers, that context immediately elevated the case. A report connected to a nuclear installation naturally attracted more attention than a similar report from an ordinary workplace or rural road.
 
@@ -271,20 +271,20 @@ For UFO researchers, that context immediately elevated the case. A report connec
 
 ## Why the 400 Area detail changed the stakes
 
-The most significant location detail in the New Ellenton report is the reference to the plant's "400 Area". According to the surviving account, several objects were seen moving near this section of the facility, and one object was reportedly observed rising to clear tall tanks before continuing on its path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportAt approximately 10:45 PM, May 10, four employees of Dupont Co., employed on the Savannah River plant near Ellington, S.C...</span></span></span>
+The most significant location detail in the New Ellenton report is the reference to the plant's "400 Area". According to the surviving account, several objects were seen moving near this section of the facility, and one object was reportedly observed rising to clear tall tanks before continuing on its path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportAt approximately 10:45 PM, May 10, four employees of Dupont Co., employed on the Savannah River plant near Ellington, S.C...</span></span></span>
 
-That detail became important because the 400 Area was not an arbitrary location. Savannah River's 400-D Area was developed to support reactor operations through heavy-water production and related processes. Heavy water played a crucial role in the site's reactor system and therefore in the wider weapons-material production mission. Modern Savannah River documentation still describes the 400-D Area as one of the earliest major production zones completed at the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srnl.gov">[Savannah River National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srnl.gov</span><span class="citation-popover-snippet">May 13, 2024 — In the early 1950s the DuPont company was given the task of building and running Savannah River Site (SRS) to produce plut...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
+That detail became important because the 400 Area was not an arbitrary location. Savannah River's 400-D Area was developed to support reactor operations through heavy-water production and related processes. Heavy water played a crucial role in the site's reactor system and therefore in the wider weapons-material production mission. Modern Savannah River documentation still describes the 400-D Area as one of the earliest major production zones completed at the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: srnl.gov">[Savannah River National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">srnl.gov</span><span class="citation-popover-snippet">May 13, 2024 — In the early 1950s the DuPont company was given the task of building and running Savannah River Site (SRS) to produce plut...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
 
-As a result, later writers often argued that the sighting appeared to involve an object moving near infrastructure connected to nuclear-weapons production. The case therefore fit into a broader narrative that emerged in UFO literature during the 1960s and 1970s: the claim that unidentified objects seemed disproportionately associated with nuclear facilities, missile bases and atomic-energy sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/520719savannah_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">May 10, 1952; Ellenton, South Carolina. 10:45 p.m. Witnesses: 4 Dupont employees at the Savannah River nuclear plant. Up to four yellow...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
+As a result, later writers often argued that the sighting appeared to involve an object moving near infrastructure connected to nuclear-weapons production. The case therefore fit into a broader narrative that emerged in UFO literature during the 1960s and 1970s: the claim that unidentified objects seemed disproportionately associated with nuclear facilities, missile bases and atomic-energy sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/520719savannah_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">May 10, 1952; Ellenton, South Carolina. 10:45 p.m. Witnesses: 4 Dupont employees at the Savannah River nuclear plant. Up to four yellow...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
 
 What distinguished the New Ellenton report from many simple "light in the sky" accounts was the apparent relationship between the reported object and identifiable plant structures. Readers could imagine a physical object moving through a known industrial environment rather than an unexplained light seen against a distant night sky. That does not make the observation accurate, but it helps explain why the case attracted continuing attention.
 
-Another factor is repetition. The report described multiple objects appearing over a period of roughly half an hour rather than a single brief flash of light. In UFO case catalogues, repeated observations by several workers inside a sensitive installation tend to be treated as more noteworthy than isolated sightings by a lone witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-convisnuc.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFOs CONTINUE TO VISIT NUCLEAR ENERGY SITESmilitary, civilian and governmental observers everywhere. These UFO encounters raise such...</span></span></span>
+Another factor is repetition. The report described multiple objects appearing over a period of roughly half an hour rather than a single brief flash of light. In UFO case catalogues, repeated observations by several workers inside a sensitive installation tend to be treated as more noteworthy than isolated sightings by a lone witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-convisnuc.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFOs CONTINUE TO VISIT NUCLEAR ENERGY SITESmilitary, civilian and governmental observers everywhere. These UFO encounters raise such...</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-2-dark.svg" | relative_url }}" alt="Nuclear site illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why nuclear sites became a recurring UFO theme
 
-The New Ellenton incident is often discussed alongside reports from places such as Hanford, Oak Ridge and other facilities associated with nuclear weapons or atomic-energy work. The idea that UFOs may have shown unusual interest in nuclear infrastructure became one of the most persistent themes in post-war UFO research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/jufoh/JournalUFOHistoryVol2No1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Journal UFOHistory Vol2No1</span><span class="citation-popover-snippet">The 1952 UFO Sighting Wave, Part 1 (...Early 1952 UFO Sighting Chronology. (Based on Air Force intelligence reports... 138.) May 10, El...</span></span></span>
+The New Ellenton incident is often discussed alongside reports from places such as Hanford, Oak Ridge and other facilities associated with nuclear weapons or atomic-energy work. The idea that UFOs may have shown unusual interest in nuclear infrastructure became one of the most persistent themes in post-war UFO research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/jufoh/JournalUFOHistoryVol2No1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Journal UFOHistory Vol2No1</span><span class="citation-popover-snippet">The 1952 UFO Sighting Wave, Part 1 (...Early 1952 UFO Sighting Chronology. (Based on Air Force intelligence reports... 138.) May 10, El...</span></span></span>
 
 Several reasons explain why these cases gained traction:
 
@@ -307,205 +307,205 @@ This is one reason the New Ellenton case survives in discussions of South Caroli
 
 The strongest caution is also the most important one: a nuclear connection is not evidence of a UFO connection.
 
-Nothing in the surviving public record demonstrates that the reported objects were intentionally observing the Savannah River Plant, gathering information or interacting with the facility in any measurable way. The witnesses described what they believed they saw, but no publicly available documentation shows radar confirmation, intercepted communications, physical traces, security alerts or damage to plant operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportAt approximately 10:45 PM, May 10, four employees of Dupont Co., employed on the Savannah River plant near Ellington, S.C...</span></span></span>
+Nothing in the surviving public record demonstrates that the reported objects were intentionally observing the Savannah River Plant, gathering information or interacting with the facility in any measurable way. The witnesses described what they believed they saw, but no publicly available documentation shows radar confirmation, intercepted communications, physical traces, security alerts or damage to plant operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportAt approximately 10:45 PM, May 10, four employees of Dupont Co., employed on the Savannah River plant near Ellington, S.C...</span></span></span>
 
 The famous "nuclear site" aspect of the case can also create a form of hindsight bias. Once readers learn that the sighting occurred at a weapons-production complex, they may assume that the location itself makes the report more credible. In reality, the location increases the historical significance of the report without necessarily increasing the reliability of every observation within it.
 
-There are also limits to what can be reconstructed today. Public summaries of the case are brief. They do not provide the full witness interviews, detailed diagrams, precise observation points, atmospheric analysis or complete investigative records that would allow a modern reassessment. Researchers therefore know enough to understand why the case attracted attention, but not enough to settle what was actually seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Project Blue Book unexplained cases summaries with witness...ufo - UFOS at close sight: Project Blue Book unexplained cases summ...</span></span></span>
+There are also limits to what can be reconstructed today. Public summaries of the case are brief. They do not provide the full witness interviews, detailed diagrams, precise observation points, atmospheric analysis or complete investigative records that would allow a modern reassessment. Researchers therefore know enough to understand why the case attracted attention, but not enough to settle what was actually seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Project Blue Book unexplained cases summaries with witness...ufo - UFOS at close sight: Project Blue Book unexplained cases summ...</span></span></span>
 
 A balanced conclusion is that the Savannah River Plant setting explains why the New Ellenton sighting became one of South Carolina's most discussed UFO cases. The location gave the report national-security relevance and linked it to a wider tradition of nuclear-site UFO claims. What the location does not do is convert an unexplained report into proof of extraterrestrial activity, covert surveillance or any confirmed intrusion into one of the Cold War's most sensitive facilities. The nuclear connection makes the case historically important; it does not solve it.
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-3-dark.svg" | relative_url }}" alt="Nuclear site illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3_savannah_river_nucle_23dfd9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the nuclear plant make the sighting matter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the nuclear plant make the sighting matter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Places the 1952 sighting within the official investigation era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the 1952 sighting within the official investigation era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to unresolved historical cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to unresolved historical cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides broader context for secret defence installations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for secret defence installations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly matches the nuclear-site angle of the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the nuclear-site angle of the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor"><img src="https://i.ebayimg.com/images/g/oSAAAeSw96NqJan~/s-l225.jpg" alt="Listing image for Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor"><img src="https://i.ebayimg.com/images/g/oSAAAeSw96NqJan~/s-l225.jpg" alt="Listing image for Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="https://i.ebayimg.com/images/g/pacAAOSw14hcmrAU/s-l225.jpg" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="https://i.ebayimg.com/images/g/pacAAOSw14hcmrAU/s-l225.jpg" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="did-the-nuclear-plant-make-the-sighting-matter-vintage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ A balanced conclusion is that the Savannah River Plant setting explains why the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ A balanced conclusion is that the Savannah River Plant setting explains why the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ A balanced conclusion is that the Savannah River Plant setting explains why the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ A balanced conclusion is that the Savannah River Plant setting explains why the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ A balanced conclusion is that the Savannah River Plant setting explains why the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,162 +711,162 @@ A balanced conclusion is that the Savannah River Plant setting explains why the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/em/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/savannah-river-site</a>  
+   Link:<a href="https://www.energy.gov/em/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/savannah-river-site</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: srs.gov  
-   Link: <a href="https://www.srs.gov/general/about/history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/history1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SRS - History HighlightsThe Savannah River Site was constructed during the early 1950s to produce the basic materials used in the fabr...</p></details>
+   Link:<a href="https://www.srs.gov/general/about/history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/history1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SRS - History HighlightsThe Savannah River Site was constructed during the early 1950s to produce the basic materials used in the fabr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/srs/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River SiteIrradiated materials were moved from the reactors to one of the two chemical separations plants. In these facilities...</p></details>
+   Link:<a href="https://www.energy.gov/srs/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River SiteIrradiated materials were moved from the reactors to one of the two chemical separations plants. In these facilities...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: srs.gov  
    Title: Untitled Document  
-   Link: <a href="https://www.srs.gov/general/about/srs-1950.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/srs-1950.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Selection of location of Savannah River Plant (SRP), between Aiken, S.C., and Augusta, Ga., on the Savannah River, is announced. 1951...</p></details>
+   Link:<a href="https://www.srs.gov/general/about/srs-1950.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/srs-1950.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Selection of location of Savannah River Plant (SRP), between Aiken, S.C., and Augusta, Ga., on the Savannah River, is announced. 1951...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportAt approximately 10:45 PM, May 10, four employees of Dupont Co., employed on the Savannah River plant near Ellington, S.C...</p></details>
+   Link:<a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportAt approximately 10:45 PM, May 10, four employees of Dupont Co., employed on the Savannah River plant near Ellington, S.C...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
    Title: UFO Report"  
-   Link: <a href="https://www.nicap.org/reports/520719savannah_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/520719savannah_report.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 1952; Ellenton, South Carolina. 10:45 p.m. Witnesses: 4 Dupont employees at the Savannah River nuclear plant. Up to four yellow...</p></details>
+   Link:<a href="https://www.nicap.org/reports/520719savannah_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/520719savannah_report.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 1952; Ellenton, South Carolina. 10:45 p.m. Witnesses: 4 Dupont employees at the Savannah River nuclear plant. Up to four yellow...</p></details>
    Published: May 10, 1952  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/ncp/ncp-convisnuc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-convisnuc.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs CONTINUE TO VISIT NUCLEAR ENERGY SITESmilitary, civilian and governmental observers everywhere. These UFO encounters raise such...</p></details>
+   Link:<a href="https://www.nicap.org/ncp/ncp-convisnuc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-convisnuc.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs CONTINUE TO VISIT NUCLEAR ENERGY SITESmilitary, civilian and governmental observers everywhere. These UFO encounters raise such...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: Journal UFOHistory Vol2No1  
-   Link: <a href="https://www.nicap.org/jufoh/JournalUFOHistoryVol2No1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/jufoh/JournalUFOHistoryVol2No1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 UFO Sighting Wave, Part 1 (...Early 1952 UFO Sighting Chronology. (Based on Air Force intelligence reports... 138.) May 10, El...</p></details>
+   Link:<a href="https://www.nicap.org/jufoh/JournalUFOHistoryVol2No1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/jufoh/JournalUFOHistoryVol2No1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 UFO Sighting Wave, Part 1 (...Early 1952 UFO Sighting Chronology. (Based on Air Force intelligence reports... 138.) May 10, El...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: srs.gov  
-   Link: <a href="https://www.srs.gov/general/about/50anniv/Chapter%2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/50anniv/Chapter%2011.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ed out in the F and H Areas. The largest...Read more...</p></details>
+   Link:<a href="https://www.srs.gov/general/about/50anniv/Chapter%2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/50anniv/Chapter%2011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed out in the F and H Areas. The largest...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: srs.gov  
-   Link: <a href="https://www.srs.gov/general/programs/dp/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/programs/dp/index.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense ProgramsThe SRS Tritium Facilities&#x27; role in Nuclear Stockpile Maintenance is replenishment of gas transfer systems, which improve...</p></details>
+   Link:<a href="https://www.srs.gov/general/programs/dp/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/programs/dp/index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense ProgramsThe SRS Tritium Facilities&#x27; role in Nuclear Stockpile Maintenance is replenishment of gas transfer systems, which improve...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: srs.gov  
-   Link: <a href="https://www.srs.gov/general/news/factsheets/srs_overview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/news/factsheets/srs_overview.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River SiteDuring the 1950s, SRS began to produce materials used in nuclear weapons, primarily tritium and plutonium-239. Five re...</p></details>
+   Link:<a href="https://www.srs.gov/general/news/factsheets/srs_overview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/news/factsheets/srs_overview.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River SiteDuring the 1950s, SRS began to produce materials used in nuclear weapons, primarily tritium and plutonium-239. Five re...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: energy.gov  
    Title: savannah river site history 1950 1989  
-   Link: <a href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history-1950-1989</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River Site History 1950-1989The Savannah River Site was constructed during the early 1950s to produce the basic materials used i...</p></details>
+   Link:<a href="https://www.energy.gov/srs/savannah-river-site-history" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River Site History 1950-1989The Savannah River Site was constructed during the early 1950s to produce the basic materials used i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: energy.gov  
    Title: savannah river site history 1990 present  
-   Link: <a href="https://www.energy.gov/srs/savannah-river-site-history-1990-present" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history-1990-present</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River Site History 1990-PresentThe Savannah River Site was constructed during the early 1950s to produce the basic materials use...</p></details>
+   Link:<a href="https://www.energy.gov/srs/savannah-river-site-history-1990-present" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history-1990-present</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River Site History 1990-PresentThe Savannah River Site was constructed during the early 1950s to produce the basic materials use...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: srnl.gov  
-   Link: <a href="https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/" target="_blank" rel="noopener noreferrer nofollow">https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2024 — In the early 1950s the DuPont company was given the task of building and running Savannah River Site (SRS) to produce plut...</p></details>
+   Link:<a href="https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/" target="_blank" rel="noopener noreferrer nofollow">https://www.srnl.gov/srnl_news/773-a-a-brief-history-of-srnls-flagship-building/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2024 — In the early 1950s the DuPont company was given the task of building and running Savannah River Site (SRS) to produce plut...</p></details>
    Published: May 13, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: srnl.gov  
    Title: explores treating and re purposing heavy water stockpile  
-   Link: <a href="https://www.srnl.gov/matter_magazine/srnl-explores-treating-and-re-purposing-heavy-water-stockpile/" target="_blank" rel="noopener noreferrer nofollow">https://www.srnl.gov/matter_magazine/srnl-explores-treating-and-re-purposing-heavy-water-stockpile/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River National LaboratorySRNL Explores Treating and Re-purposing Heavy Water...Sep 17, 2024 — Five nuclear reactors were constr...</p></details>
+   Link:<a href="https://www.srnl.gov/matter_magazine/srnl-explores-treating-and-re-purposing-heavy-water-stockpile/" target="_blank" rel="noopener noreferrer nofollow">https://www.srnl.gov/matter_magazine/srnl-explores-treating-and-re-purposing-heavy-water-stockpile/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River National LaboratorySRNL Explores Treating and Re-purposing Heavy Water...Sep 17, 2024 — Five nuclear reactors were constr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book unexplained cases summaries with witness...ufo - UFOS at close sight: Project Blue Book unexplained cases summ...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book unexplained cases summaries with witness...ufo - UFOS at close sight: Project Blue Book unexplained cases summ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Savannah River Site  
-   Link: <a href="https://en.wikipedia.org/wiki/Savannah_River_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River SiteIt lies 25 miles (40 km) southeast of Augusta, Georgia. The site was built during the 1950s to produce plutonium an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Savannah_River_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River SiteIt lies 25 miles (40 km) southeast of Augusta, Georgia. The site was built during the 1950s to produce plutonium an...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuclearworkers.org  
    Title: Savannah River Site  
-   Link: <a href="https://nuclearworkers.org/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow">https://nuclearworkers.org/savannah-river-site/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NWIA30 Sept 2022 — The site included two chemical separation plants, a nuclear fuel and target fabrication facility, five nuclear reactor...</p></details>
+   Link:<a href="https://nuclearworkers.org/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow">https://nuclearworkers.org/savannah-river-site/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NWIA30 Sept 2022 — The site included two chemical separation plants, a nuclear fuel and target fabrication facility, five nuclear reactor...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: srnl.gov  
-   Link: <a href="https://www.srnl.gov/research-areas/national-security/weapons-production-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.srnl.gov/research-areas/national-security/weapons-production-technology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Production TechnologyCurrently, most SRNL programs support the SRS tritium mission. Modern nuclear weapons use a concept called g...</p></details>
+   Link:<a href="https://www.srnl.gov/research-areas/national-security/weapons-production-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.srnl.gov/research-areas/national-security/weapons-production-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Production TechnologyCurrently, most SRNL programs support the SRS tritium mission. Modern nuclear weapons use a concept called g...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: energyca.org  
-   Link: <a href="https://www.energyca.org/site-profiles/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow">https://www.energyca.org/site-profiles/savannah-river-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River Site ProfileA High Flux Isotope Reactor core is lifted in an underwater storage basin at Savannah River Site. The fuel ele...</p></details>
+   Link:<a href="https://www.energyca.org/site-profiles/savannah-river-site" target="_blank" rel="noopener noreferrer nofollow">https://www.energyca.org/site-profiles/savannah-river-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Savannah River Site ProfileA High Flux Isotope Reactor core is lifted in an underwater storage basin at Savannah River Site. The fuel ele...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rense.com  
-   Link: <a href="https://rense.com/general20/fo.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general20/fo.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Continue To Visit Nuclear Energy SitesThese UFo encounters raise such serious questions as: Are UFOs monitoring our atomic and nucle...</p></details>
+   Link:<a href="https://rense.com/general20/fo.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general20/fo.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Continue To Visit Nuclear Energy SitesThese UFo encounters raise such serious questions as: Are UFOs monitoring our atomic and nucle...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scdah.sc.gov  
-   Link: <a href="https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20%28SHPO%29/Research/Historic%20Contexts/SRS%20Reactor%20Areas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20%28SHPO%29/Research/Historic%20Contexts/SRS%20Reactor%20Areas.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SC Archives and HistorySRS Reactor Areas - SC Department of Archives and HistoryThis documentation is based on field analysis, oral histo...</p></details>
+   Link:<a href="https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20%28SHPO%29/Research/Historic%20Contexts/SRS%20Reactor%20Areas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20%28SHPO%29/Research/Historic%20Contexts/SRS%20Reactor%20Areas.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SC Archives and HistorySRS Reactor Areas - SC Department of Archives and HistoryThis documentation is based on field analysis, oral histo...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ieer.org  
-   Link: <a href="https://ieer.org/resource/factsheets/reprocessing-spent-nuclear-fuel/" target="_blank" rel="noopener noreferrer nofollow">https://ieer.org/resource/factsheets/reprocessing-spent-nuclear-fuel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iver Site (SRS) near Aiken, SC, from the mid-1950&#x27;s through the beginning of...Read more...</p></details>
+   Link:<a href="https://ieer.org/resource/factsheets/reprocessing-spent-nuclear-fuel/" target="_blank" rel="noopener noreferrer nofollow">https://ieer.org/resource/factsheets/reprocessing-spent-nuclear-fuel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iver Site (SRS) near Aiken, SC, from the mid-1950&#x27;s through the beginning of...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: inkstickmedia.com  
    Title: a grave problem with south carolinas new nuclear warhead  
-   Link: <a href="https://inkstickmedia.com/a-grave-problem-with-south-carolinas-new-nuclear-warhead/" target="_blank" rel="noopener noreferrer nofollow">https://inkstickmedia.com/a-grave-problem-with-south-carolinas-new-nuclear-warhead/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>officially called the Savannah River Plutonium Pit Processing Facility. “We&#x27;re not making new nuclear weapons at SRS,” SRNS employee Susa...</p></details>
+   Link:<a href="https://inkstickmedia.com/a-grave-problem-with-south-carolinas-new-nuclear-warhead/" target="_blank" rel="noopener noreferrer nofollow">https://inkstickmedia.com/a-grave-problem-with-south-carolinas-new-nuclear-warhead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>officially called the Savannah River Plutonium Pit Processing Facility. “We&#x27;re not making new nuclear weapons at SRS,” SRNS employee Susa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: warontherocks.com  
-   Link: <a href="https://warontherocks.com/2026/03/quenching-the-nuclear-stockpiles-thirst-for-tritium/" target="_blank" rel="noopener noreferrer nofollow">https://warontherocks.com/2026/03/quenching-the-nuclear-stockpiles-thirst-for-tritium/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in five Savannah River reactors operated specifically to produce weapons...Read more...</p></details>
+   Link:<a href="https://warontherocks.com/2026/03/quenching-the-nuclear-stockpiles-thirst-for-tritium/" target="_blank" rel="noopener noreferrer nofollow">https://warontherocks.com/2026/03/quenching-the-nuclear-stockpiles-thirst-for-tritium/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in five Savannah River reactors operated specifically to produce weapons...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...Dec 5, 2019 — Public Interest in UFOs Persists 50 Years After Project Blu...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...Dec 5, 2019 — Public Interest in UFOs Persists 50 Years After Project Blu...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/wrsqx3/true_story_we_already_had_a_ufo_invasion_over_dc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/wrsqx3/true_story_we_already_had_a_ufo_invasion_over_dc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ieve UFOs/UAPs are aliens to push their project blue book...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/wrsqx3/true_story_we_already_had_a_ufo_invasion_over_dc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/wrsqx3/true_story_we_already_had_a_ufo_invasion_over_dc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ieve UFOs/UAPs are aliens to push their project blue book...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: world-nuclear-news.org  
    Title: new lease of life for us legacy nuclear sites  
-   Link: <a href="https://www.world-nuclear-news.org/articles/new-lease-of-life-for-us-legacy-nuclear-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.world-nuclear-news.org/articles/new-lease-of-life-for-us-legacy-nuclear-sites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2026 — The Savannah River Site (SRS) is a 310-square-mile (803-square-kilometre) site in Aiken, South Carolina, which was focused o...</p></details>
+   Link:<a href="https://www.world-nuclear-news.org/articles/new-lease-of-life-for-us-legacy-nuclear-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.world-nuclear-news.org/articles/new-lease-of-life-for-us-legacy-nuclear-sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2026 — The Savannah River Site (SRS) is a 310-square-mile (803-square-kilometre) site in Aiken, South Carolina, which was focused o...</p></details>

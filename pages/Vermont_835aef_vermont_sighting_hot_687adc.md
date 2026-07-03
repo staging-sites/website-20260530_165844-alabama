@@ -275,13 +275,13 @@ Lake Champlain matters in Vermont’s UFO history less because it has produced o
 
 Lake Champlain creates the kind of viewing conditions that make UFO reports more likely without requiring anything exotic. From Burlington, Colchester, Grand Isle, Isle La Motte, Ferrisburgh, Charlotte or the New York shore, a witness can see lights moving against a broad horizon with few nearby reference points. Over water, there may be no trees, buildings or road traffic beside the object to help judge distance. A light above the far shore can appear to be above the lake; a light over the lake can be much farther away than it looks; an aircraft on approach, a satellite flare or a bright planet low in the sky can seem unusually large or oddly still.
 
-This is why the Lake Champlain area fits Vermont’s wider pattern. Vermont tourism material now markets the state’s dark skies as a stargazing asset, noting that rural areas and low light pollution make faint sky features much more visible than they are in cities. The same conditions that let people see the Milky Way, meteor showers or aurora displays also increase the chance that an unfamiliar moving light will be noticed and remembered. Vermont’s own tourism site says the state is well placed for dark-sky recognition because of its rural land, village-centred development and habit of keeping lights low at night; it also notes that meteor showers, aurorae and seasonal constellations are part of the local skywatching experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vermontvacation.com/stargazing-in-vermont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontvacation.com">[Vermont Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontvacation.com</span><span class="citation-popover-title">Vermont Tourism Stargazing in Vermont &#124; Vermont Tourism</span><span class="citation-popover-snippet">Vermont Tourism Stargazing in Vermont &#124; Vermont Tourism</span></span></span>
+This is why the Lake Champlain area fits Vermont’s wider pattern. Vermont tourism material now markets the state’s dark skies as a stargazing asset, noting that rural areas and low light pollution make faint sky features much more visible than they are in cities. The same conditions that let people see the Milky Way, meteor showers or aurora displays also increase the chance that an unfamiliar moving light will be noticed and remembered. Vermont’s own tourism site says the state is well placed for dark-sky recognition because of its rural land, village-centred development and habit of keeping lights low at night; it also notes that meteor showers, aurorae and seasonal constellations are part of the local skywatching experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vermontvacation.com/stargazing-in-vermont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontvacation.com">[Vermont Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontvacation.com</span><span class="citation-popover-title">Vermont Tourism Stargazing in Vermont &#124; Vermont Tourism</span><span class="citation-popover-snippet">Vermont Tourism Stargazing in Vermont &#124; Vermont Tourism</span></span></span>
 
-Lake Champlain also carries a folklore layer that ordinary UFO databases do not fully capture. The Lake Champlain Region’s own visitor material describes the area as a place where UFO sightings have been “tracked and documented for decades” and points to a claimed Burlington-side sighting as early as 1907, although that kind of tourism-facing reference is better treated as local tradition than as a verified investigative record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakechamplainregion.com">[Lake Champlain Region]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakechamplainregion.com</span><span class="citation-popover-title">Lake Champlain Region A Hauntingly Good Time of Year in the LCR &#124; Lake Champlain</span><span class="citation-popover-snippet">Lake Champlain Region A Hauntingly Good Time of Year in the LCR &#124; Lake Champlain</span></span></span> The value of the claim is cultural: it shows that the lake has become a recognised backdrop for strange-sky stories, much as it is already a backdrop for the region’s better-known lake-monster folklore.
+Lake Champlain also carries a folklore layer that ordinary UFO databases do not fully capture. The Lake Champlain Region’s own visitor material describes the area as a place where UFO sightings have been “tracked and documented for decades” and points to a claimed Burlington-side sighting as early as 1907, although that kind of tourism-facing reference is better treated as local tradition than as a verified investigative record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakechamplainregion.com">[Lake Champlain Region]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakechamplainregion.com</span><span class="citation-popover-title">Lake Champlain Region A Hauntingly Good Time of Year in the LCR &#124; Lake Champlain</span><span class="citation-popover-snippet">Lake Champlain Region A Hauntingly Good Time of Year in the LCR &#124; Lake Champlain</span></span></span> The value of the claim is cultural: it shows that the lake has become a recognised backdrop for strange-sky stories, much as it is already a backdrop for the region’s better-known lake-monster folklore.
 
 ## The Buff Ledge story ties the lake to Vermont’s most famous UFO claim
 
-The best-known Lake Champlain-linked UFO narrative is the [Buff Ledge]({{ 'buff-ledge/' | relative_url }}) case, usually placed at a girls’ camp in Colchester in the late 1960s. In a modern Seven Days account, Michael Lapp, then a 16-year-old maintenance worker, and Janet Cornell, a 19-year-old water-skiing instructor, were described as sunbathing on a boat dock when they later claimed to have seen three craft descend towards Lake Champlain, with one separating and hovering above them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The best-known Lake Champlain-linked UFO narrative is the [Buff Ledge]({{ 'buff-ledge/' | relative_url }}) case, usually placed at a girls’ camp in Colchester in the late 1960s. In a modern Seven Days account, Michael Lapp, then a 16-year-old maintenance worker, and Janet Cornell, a 19-year-old water-skiing instructor, were described as sunbathing on a boat dock when they later claimed to have seen three craft descend towards Lake Champlain, with one separating and hovering above them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Buff Ledge matters here because it shows how the lake can turn a sighting into a lasting Vermont landmark. The setting gives the story a vivid geography: teenagers at a summer camp, a boat dock, open water, a descending light or craft, and later claims that went beyond a simple aerial observation. But it is also a good example of why Lake Champlain cases need careful handling. The public version of the case is not a clean, contemporary aviation incident with radar records, official photographs and immediate sworn statements. It is a remembered and later investigated account that became prominent in UFO literature partly because of its abduction element.
 
@@ -290,42 +290,42 @@ For a state-level Vermont UFO history, Buff Ledge is therefore important but not
 <img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What recent Lake Champlain reports actually look like
 
-The National UFO Reporting Center’s Vermont index shows that many state reports are short, self-submitted descriptions rather than complete investigations. The index includes Lake Champlain-adjacent entries from places such as Mallets Bay, Ferrisburgh, Grand Isle, Isle La Motte, North Hero, Charlotte, Colchester and Burlington, with summaries that range from “bright green light” to “triangle”, “orb”, “cigar”, “changing” and “string of ball lights”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lVT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State VT</span><span class="citation-popover-snippet">Reports for State VT</span></span></span> That variety is important: the reports do not describe one repeated craft type so much as a recurring experience of seeing something hard to identify in Vermont skies.
+The National UFO Reporting Center’s Vermont index shows that many state reports are short, self-submitted descriptions rather than complete investigations. The index includes Lake Champlain-adjacent entries from places such as Mallets Bay, Ferrisburgh, Grand Isle, Isle La Motte, North Hero, Charlotte, Colchester and Burlington, with summaries that range from “bright green light” to “triangle”, “orb”, “cigar”, “changing” and “string of ball lights”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lVT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State VT</span><span class="citation-popover-snippet">Reports for State VT</span></span></span> That variety is important: the reports do not describe one repeated craft type so much as a recurring experience of seeing something hard to identify in Vermont skies.
 
-A 2011 NUFORC report from Isle La Motte, at the northern end of Lake Champlain, is a useful example. The witness described sitting by the lake at around 11 p.m., seeing an orange orb to the south-south-west, thinking first of Jupiter, then reporting that a cloud or vapour appeared near it before it vanished. The same report then describes hearing what sounded like a plane and seeing an aircraft-like object with four tail lights flying out over the lake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=81991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The account is interesting, but it also contains its own ambiguity: the witness considered a bright planet, the report involves haze or cloud, and the later sound of an aircraft enters the scene.
+A 2011 NUFORC report from Isle La Motte, at the northern end of Lake Champlain, is a useful example. The witness described sitting by the lake at around 11 p.m., seeing an orange orb to the south-south-west, thinking first of Jupiter, then reporting that a cloud or vapour appeared near it before it vanished. The same report then describes hearing what sounded like a plane and seeing an aircraft-like object with four tail lights flying out over the lake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=81991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The account is interesting, but it also contains its own ambiguity: the witness considered a bright planet, the report involves haze or cloud, and the later sound of an aircraft enters the scene.
 
-A 2025 NUFORC report from South Burlington gives another modern example. The witness, walking near Route 7 and Interstate 189, described a bright orange orb that appeared high over Lake Champlain, moved slowly relative to the stars, and seemed to pause several times before continuing in the same direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A report like that should not be mocked; it is exactly the kind of observation that can feel striking in person. But without a precise time-stamped image, direction measurements, aircraft-track checks, satellite checks and weather context, “appeared high over Lake Champlain” remains a witness judgement rather than a measured location.
+A 2025 NUFORC report from South Burlington gives another modern example. The witness, walking near Route 7 and Interstate 189, described a bright orange orb that appeared high over Lake Champlain, moved slowly relative to the stars, and seemed to pause several times before continuing in the same direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A report like that should not be mocked; it is exactly the kind of observation that can feel striking in person. But without a precise time-stamped image, direction measurements, aircraft-track checks, satellite checks and weather context, “appeared high over Lake Champlain” remains a witness judgement rather than a measured location.
 
-A different kind of report comes from Ferrisburgh in August 2022, where two witnesses described a straight line of 12 to 15 lights travelling east away from Lake Champlain and disappearing when directly overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That pattern is especially significant in the modern era because a line of evenly spaced moving lights is one of the most recognisable ways Starlink satellite trains enter UFO reporting.
+A different kind of report comes from Ferrisburgh in August 2022, where two witnesses described a straight line of 12 to 15 lights travelling east away from Lake Champlain and disappearing when directly overhead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That pattern is especially significant in the modern era because a line of evenly spaced moving lights is one of the most recognisable ways Starlink satellite trains enter UFO reporting.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sObt0DvN5b4" title="How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer">How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)</a></p><p class="youtube-embed-meta">Channel: ReWildUniversity &middot; Views: 38.7K &middot; Uploaded: May 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sObt0DvN5b4">Open on YouTube</a></p></div></div></div>
 
 ## Satellites have changed the shape of Vermont sightings
 
-The single biggest modern change in Vermont strange-light reports is the arrival of bright, easily visible satellite constellations. Starlink satellites can appear as a “string of pearls” or a train of bright lights crossing the night sky, particularly soon after launch and deployment, before they spread out and rise to their operational orbit. Space.com’s explainer notes that they are visible to the unaided eye and are easiest to spot in the first day or two after launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy &#124; Space</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy &#124; Space</span></span></span>
+The single biggest modern change in Vermont strange-light reports is the arrival of bright, easily visible satellite constellations. Starlink satellites can appear as a “string of pearls” or a train of bright lights crossing the night sky, particularly soon after launch and deployment, before they spread out and rise to their operational orbit. Space.com’s explainer notes that they are visible to the unaided eye and are easiest to spot in the first day or two after launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy &#124; Space</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy &#124; Space</span></span></span>
 
-That matters for Lake Champlain because the lake gives observers exactly the sort of open sky in which a satellite train is likely to be seen clearly. A witness who sees a row of lights moving silently over the water may be describing a real event accurately and still be seeing satellites rather than aircraft or a structured craft. The Ferrisburgh report of 12 to 15 lights moving in a line away from Lake Champlain is not automatically “explained” without checking launch and pass data for that date, but its shape, number and straight-line movement fit a pattern that now has to be ruled out first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That matters for Lake Champlain because the lake gives observers exactly the sort of open sky in which a satellite train is likely to be seen clearly. A witness who sees a row of lights moving silently over the water may be describing a real event accurately and still be seeing satellites rather than aircraft or a structured craft. The Ferrisburgh report of 12 to 15 lights moving in a line away from Lake Champlain is not automatically “explained” without checking launch and pass data for that date, but its shape, number and straight-line movement fit a pattern that now has to be ruled out first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is not only a layperson issue. A 2024 aviation-focused study found that Starlink satellite trains have been misidentified as UAP by pilots and ordinary observers, and showed how orbital data and flight data can reconstruct a sighting that initially looked anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Vermont readers, the lesson is practical: a Lake Champlain report involving multiple evenly spaced lights, a smooth track, silence and a duration of a few minutes now needs satellite verification before it can be treated as a stubborn unknown.
+This is not only a layperson issue. A 2024 aviation-focused study found that Starlink satellite trains have been misidentified as UAP by pilots and ordinary observers, and showed how orbital data and flight data can reconstruct a sighting that initially looked anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Vermont readers, the lesson is practical: a Lake Champlain report involving multiple evenly spaced lights, a smooth track, silence and a duration of a few minutes now needs satellite verification before it can be treated as a stubborn unknown.
 
 ## Aircraft, drones and airport geometry also matter
 
-Lake Champlain is not remote from aviation. Patrick Leahy Burlington International Airport sits just east of Burlington, and FAA material describes it as a multi-use airport serving air carrier, general aviation, corporate aviation and Vermont Air National Guard traffic. The same FAA pilot document notes that this mix of light general aviation, air carrier and tactical fighter aircraft makes the airport a complex environment for pilots and controllers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/flight_deck/pilot_info/btv.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation Administration</span></span></span>
+Lake Champlain is not remote from aviation. Patrick Leahy Burlington International Airport sits just east of Burlington, and FAA material describes it as a multi-use airport serving air carrier, general aviation, corporate aviation and Vermont Air National Guard traffic. The same FAA pilot document notes that this mix of light general aviation, air carrier and tactical fighter aircraft makes the airport a complex environment for pilots and controllers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/flight_deck/pilot_info/btv.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation Administration</span></span></span>
 
 That aviation context affects sightings over the lake. Aircraft approaching, departing, turning or aligning with runways can look strange from the ground, especially at night. Landing lights can appear stationary when an aircraft is coming towards the observer. A turn can look like a sudden course change. A plane partly hidden by haze, cloud, terrain or shoreline trees may appear to vanish. Reflections over water can add confusion, and a silent-seeming light may simply be far enough away that sound does not carry clearly.
 
-Drones add another modern layer. Consumer and commercial drones can hover, move slowly, blink, turn sharply and operate at heights that make size hard to judge. NASA’s own public guidance on identifying UFOs and UAPs lists satellites, meteors and fireballs, weather balloons, military jets, odd clouds, lens flare, remote-control aircraft and other ordinary objects as common sources of confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A lake-side drone with navigation lights, seen from a beach, road or boat, can easily produce a report that sounds more dramatic once distance and scale are guessed rather than measured.
+Drones add another modern layer. Consumer and commercial drones can hover, move slowly, blink, turn sharply and operate at heights that make size hard to judge. NASA’s own public guidance on identifying UFOs and UAPs lists satellites, meteors and fireballs, weather balloons, military jets, odd clouds, lens flare, remote-control aircraft and other ordinary objects as common sources of confusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A lake-side drone with navigation lights, seen from a beach, road or boat, can easily produce a report that sounds more dramatic once distance and scale are guessed rather than measured.
 
-Vermont’s recent political discussion reflects that shift from “flying saucers” to airspace safety. In 2026, a Burlington legislator introduced a bill to create a Vermont Airspace Safety and Unidentified Anomalous Phenomena Task Force; the bill’s stated purpose was to evaluate UAP reports, assess airspace and public safety risks, coordinate with academic and federal partners, and improve reporting, response and analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislature.vermont.gov">[legislature.vermont.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislature.vermont.gov</span><span class="citation-popover-title">H 0654 As Introduced</span><span class="citation-popover-snippet">H 0654 As Introduced</span></span></span> Seven Days described the proposal as a 10-member panel that would review unexplained-object reports and make recommendations about risks to Vermont airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Even if that proposal is separate from any specific Lake Champlain case, it shows how modern Vermont UAP talk is moving towards drones, aircraft safety and better reporting rather than simply retelling older folklore.
+Vermont’s recent political discussion reflects that shift from “flying saucers” to airspace safety. In 2026, a Burlington legislator introduced a bill to create a Vermont Airspace Safety and Unidentified Anomalous Phenomena Task Force; the bill’s stated purpose was to evaluate UAP reports, assess airspace and public safety risks, coordinate with academic and federal partners, and improve reporting, response and analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislature.vermont.gov">[legislature.vermont.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislature.vermont.gov</span><span class="citation-popover-title">H 0654 As Introduced</span><span class="citation-popover-snippet">H 0654 As Introduced</span></span></span> Seven Days described the proposal as a 10-member panel that would review unexplained-object reports and make recommendations about risks to Vermont airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Even if that proposal is separate from any specific Lake Champlain case, it shows how modern Vermont UAP talk is moving towards drones, aircraft safety and better reporting rather than simply retelling older folklore.
 
 <img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteors, planets and sky effects are easy to underestimate
 
-Some Lake Champlain sightings are likely to be astronomical or atmospheric events, especially when they involve brief flashes, falling lights, green or orange fireballs, or stationary bright objects low in the sky. The NUFORC Vermont index itself includes entries where the summary or note points towards ordinary skywatching explanations, such as “meteor like object” and “possible twinkling stars”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> NASA’s skywatching guidance similarly lists meteors, fireballs, comets, satellites, balloons, odd clouds and lens or camera effects among things that may be confused with UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Some Lake Champlain sightings are likely to be astronomical or atmospheric events, especially when they involve brief flashes, falling lights, green or orange fireballs, or stationary bright objects low in the sky. The NUFORC Vermont index itself includes entries where the summary or note points towards ordinary skywatching explanations, such as “meteor like object” and “possible twinkling stars”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> NASA’s skywatching guidance similarly lists meteors, fireballs, comets, satellites, balloons, odd clouds and lens or camera effects among things that may be confused with UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The problem is not that witnesses are foolish. It is that the night sky strips away scale. A meteor can look close even when it is high in the atmosphere. Venus or Jupiter can look like an object hovering over a shoreline. A satellite can brighten, dim or seem to disappear as it moves into Earth’s shadow. A balloon can drift with the wind and appear more purposeful than it is. A bird or group of birds can become a strange formation when seen against dusk, especially if lit from below or caught by infrared or low-light cameras.
 
-The US All-domain Anomaly Resolution Office’s public imagery page shows how often official UAP cases can resolve to mundane sources when there is enough context. Several posted cases are assessed as balloons because their shape and motion match lighter-than-air objects drifting with the wind, while other examples remain unresolved because the footage or data are not enough to determine what the object is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> That distinction is central to Lake Champlain: “unresolved” often means “not enough information”, not “extraordinary performance has been demonstrated”.
+The US All-domain Anomaly Resolution Office’s public imagery page shows how often official UAP cases can resolve to mundane sources when there is enough context. Several posted cases are assessed as balloons because their shape and motion match lighter-than-air objects drifting with the wind, while other examples remain unresolved because the footage or data are not enough to determine what the object is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> That distinction is central to Lake Champlain: “unresolved” often means “not enough information”, not “extraordinary performance has been demonstrated”.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mC1wKJIuUqc" title="New England Legends Podcast 379 - Vermont’s UFO Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer">New England Legends Podcast 379 - Vermont’s UFO Invasion</a></p><p class="youtube-embed-meta">Channel: Jeff Belanger &middot; Views: 740 &middot; Uploaded: January 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mC1wKJIuUqc">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +333,7 @@ The US All-domain Anomaly Resolution Office’s public imagery page shows how of
 
 A Lake Champlain sighting remains genuinely unresolved when the available information is too thin to decide between several plausible explanations. That is different from saying the object must have been exotic. Most casual reports lack the elements investigators would need: exact location, exact time, compass bearing, elevation angle, duration, weather, wind, aircraft traffic, satellite pass data, original photo or video files, and independent witnesses at different positions.
 
-NASA’s 2023 UAP independent study report made this point in broader terms. It argued that UAP research needs rigorous, evidence-based methods and better data acquisition, and noted that analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That applies directly to Vermont’s lake-side reports. A sincere sighting described from memory may be valuable as testimony, but it usually cannot answer the technical questions that would separate a satellite, drone, aircraft, meteor, balloon or truly unexplained object.
+NASA’s 2023 UAP independent study report made this point in broader terms. It argued that UAP research needs rigorous, evidence-based methods and better data acquisition, and noted that analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That applies directly to Vermont’s lake-side reports. A sincere sighting described from memory may be valuable as testimony, but it usually cannot answer the technical questions that would separate a satellite, drone, aircraft, meteor, balloon or truly unexplained object.
 
 The strongest Lake Champlain reports would therefore have a different profile from most short database entries. They would include multiple independent observers in different places around the lake, time-synchronised video, original metadata, consistent bearings, weather and wind records, aircraft and drone checks, satellite-pass reconstruction and, ideally, radar or other instrument data. Without those, later analysts can identify likely explanations but may not be able to close the case.
 
@@ -360,269 +360,269 @@ That framework does not erase Lake Champlain’s place in Vermont UFO history. I
 <img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-dark.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vermont Keeps Reporting Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vermont Keeps Reporting Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers assess unexplained aerial reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess unexplained aerial reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Useful for readers interested in how contemporary UFO reports are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers interested in how contemporary UFO reports are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces practical approaches to classifying and evaluating sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces practical approaches to classifying and evaluating sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring patterns behind strange-light and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring patterns behind strange-light and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-ed9e86-why-vermont-keeps-reporting-strange-lights-vermont-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ That framework does not erase Lake Champlain’s place in Vermont UFO history. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ That framework does not erase Lake Champlain’s place in Vermont UFO history. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ That framework does not erase Lake Champlain’s place in Vermont UFO history. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -720,7 +720,7 @@ That framework does not erase Lake Champlain’s place in Vermont UFO history. I
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -778,175 +778,175 @@ That framework does not erase Lake Champlain’s place in Vermont UFO history. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vermontvacation.com  
    Title: Vermont Tourism Stargazing in Vermont | Vermont Tourism  
-   Link: <a href="https://vermontvacation.com/stargazing-in-vermont/" target="_blank" rel="noopener noreferrer nofollow">https://vermontvacation.com/stargazing-in-vermont/</a>  
+   Link:<a href="https://vermontvacation.com/stargazing-in-vermont/" target="_blank" rel="noopener noreferrer nofollow">https://vermontvacation.com/stargazing-in-vermont/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lakechamplainregion.com  
    Title: Lake Champlain Region A Hauntingly Good Time of Year in the LCR | Lake Champlain  
-   Link: <a href="https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr" target="_blank" rel="noopener noreferrer nofollow">https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr</a>  
+   Link:<a href="https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr" target="_blank" rel="noopener noreferrer nofollow">https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sevendaysvt.com  
-   Link: <a href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/</a>  
+   Link:<a href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for State VT  
-   Link: <a href="https://nuforc.org/subndx/?id=lVT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVT</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lVT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVT</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=81991" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=81991</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=81991" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=81991</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187037" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187037</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=187037" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187037</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sentientorbs.com  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-171284</a>  
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-171284</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy | Space  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration  
-   Link: <a href="https://www.faa.gov/flight_deck/pilot_info/btv.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/flight_deck/pilot_info/btv.pdf</a>  
+   Link:<a href="https://www.faa.gov/flight_deck/pilot_info/btv.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/flight_deck/pilot_info/btv.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Identifying UFOs and UAPs  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: legislature.vermont.gov  
    Title: H 0654 As Introduced  
-   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf</a>  
+   Link:<a href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sevendaysvt.com  
    Title: Seven Days Vermont Lawmaker Proposes Establishing a UFO Panel | Seven Days  
-   Link: <a href="https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/</a>  
+   Link:<a href="https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193304</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=193304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193304</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=79361" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79361</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=79361" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79361</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=119803" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=119803</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=119803" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=119803</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: adip.faa.gov  
-   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
+   Link:<a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com</a>  
+   Link:<a href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: spotterguide.net  
    Title: Burlington International Airport  
-   Link: <a href="https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/</a>  
+   Link:<a href="https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381</a>  
+   Link:<a href="https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 379  
-   Link: <a href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mC1wKJIuUqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newly released files highlight UFO sightings and local expert skepticism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mC1wKJIuUqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newly released files highlight UFO sightings and local expert skepticism...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Newly released files highlight UFO sightings and local expert skepticism  
-   Link: <a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmfLisgm9rg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmfLisgm9rg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Why This UFO Sighting Was Different | Monstrum  
-   Link: <a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Activity Surges Across the U.S. | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Activity Surges Across the U.S. | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 423  
-   Link: <a href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6_iAK2vFDI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Legends Podcast 379 - Vermont&#x27;s UFO Invasion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6_iAK2vFDI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New England Legends Podcast 379 - Vermont&#x27;s UFO Invasion...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: darkskyvt.org  
-   Link: <a href="https://darkskyvt.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://darkskyvt.org/about-us/</a>  
+   Link:<a href="https://darkskyvt.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://darkskyvt.org/about-us/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: globalair.com  
-   Link: <a href="https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv" target="_blank" rel="noopener noreferrer nofollow">https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv</a>  
+   Link:<a href="https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv" target="_blank" rel="noopener noreferrer nofollow">https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/</a>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/</a>

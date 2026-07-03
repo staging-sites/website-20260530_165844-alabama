@@ -76,9 +76,9 @@ heading_title: Why Arizona Became a UFO State
 page_heading_title: Why Arizona Became a UFO State
 source_count: 170
 infographic_count: 3
-page_website_name: Arizona UFOs
+page_website_name: Arizona
 page_banner_line: Balanced evidence-led pages on Arizona's most debated UFO history.
-site_website_name: Arizona UFOs
+site_website_name: Arizona
 site_banner_line: Balanced evidence-led pages on Arizona's most debated UFO history.
 site_image_description: A desert skyline outside Phoenix at night with distant lights above low mountains and a quiet road in the foreground.
 output_language: English
@@ -484,40 +484,40 @@ Arizona sits near the centre of modern American UFO history because one event, t
 <img src="{{ "/assets/images/Arizona_104fd3-overview.webp" | relative_url }}" alt="Overview image for Why Arizona Became a UFO State" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Arizona became a UFO hotspot
 
-Arizona is unusually well suited to UFO reporting. It has large dark-sky desert areas, fast-growing cities, busy aviation corridors, and major military airspace. The Barry M. Goldwater Range in south-west Arizona, for example, covers more than one million acres, includes about 7,000 miles of airspace, and has been used by Luke Air Force Base, Davis-Monthan Air Force Base, the Tucson Air National Guard and the Marine Corps for intensive flight training. Luke Air Force Base has described it as seeing tens of thousands of sorties a year, which matters because unusual military lights, [formations]({{ 'formations/' | relative_url }}), flares and aircraft can easily become public UFO reports when seen at night from a distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luke.af.mil">[Luke Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luke.af.mil</span><span class="citation-popover-title">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span><span class="citation-popover-snippet">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span></span></span>
+Arizona is unusually well suited to UFO reporting. It has large dark-sky desert areas, fast-growing cities, busy aviation corridors, and major military airspace. The Barry M. Goldwater Range in south-west Arizona, for example, covers more than one million acres, includes about 7,000 miles of airspace, and has been used by Luke Air Force Base, Davis-Monthan Air Force Base, the Tucson Air National Guard and the Marine Corps for intensive flight training. Luke Air Force Base has described it as seeing tens of thousands of sorties a year, which matters because unusual military lights, [formations]({{ 'formations/' | relative_url }}), flares and aircraft can easily become public UFO reports when seen at night from a distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luke.af.mil">[Luke Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luke.af.mil</span><span class="citation-popover-title">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span><span class="citation-popover-snippet">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span></span></span>
 
-The state also has a high public reporting rate. Axios, using National UFO Reporting Center data and census figures, reported that Maricopa County had about 56 UFO sightings per 100,000 residents between 2000 and 2023, above a national average of 34.3. The same analysis noted higher rates in some smaller Arizona counties, including La Paz and Gila, where low population counts can make per-capita figures jump sharply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/phoenix/2024/03/13/arizona-ufo-sightings-map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Arizona&#x27;s high rate of UFO sightings</span><span class="citation-popover-snippet">Arizona&#x27;s high rate of UFO sightings</span></span></span>
+The state also has a high public reporting rate. Axios, using National UFO Reporting Center data and census figures, reported that Maricopa County had about 56 UFO sightings per 100,000 residents between 2000 and 2023, above a national average of 34.3. The same analysis noted higher rates in some smaller Arizona counties, including La Paz and Gila, where low population counts can make per-capita figures jump sharply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/phoenix/2024/03/13/arizona-ufo-sightings-map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Arizona&#x27;s high rate of UFO sightings</span><span class="citation-popover-snippet">Arizona&#x27;s high rate of UFO sightings</span></span></span>
 
 Those numbers should not be read as proof of extraordinary craft. They show reporting behaviour as much as sky activity. Arizona’s mixture of military aviation, tourism, desert night skies, fast urban growth and long-standing UFO folklore means more people are watching, filming and interpreting lights in the sky through an existing UFO frame.
 
 ## The Phoenix Lights: Arizona’s defining UFO case
 
-The Phoenix Lights remain the state’s best-known UFO event because they combined scale, timing and ambiguity. On 13 March 1997, witnesses across parts of Arizona and Nevada reported lights over a broad area, with many accounts focusing on a large V-shaped or triangular formation and, later, a set of bright stationary lights visible from the Phoenix area. The National UFO Reporting Center called it one of the most dramatic cases reported to the organisation in the preceding few years, and later individual NUFORC entries preserve witness accounts describing chevrons, triangles, lights on an object and sightings along routes such as Interstate 10 and Interstate 8. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The Phoenix Lights remain the state’s best-known UFO event because they combined scale, timing and ambiguity. On 13 March 1997, witnesses across parts of Arizona and Nevada reported lights over a broad area, with many accounts focusing on a large V-shaped or triangular formation and, later, a set of bright stationary lights visible from the Phoenix area. The National UFO Reporting Center called it one of the most dramatic cases reported to the organisation in the preceding few years, and later individual NUFORC entries preserve witness accounts describing chevrons, triangles, lights on an object and sightings along routes such as Interstate 10 and Interstate 8.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 A crucial point is that “the Phoenix Lights” was not one simple sighting. The case is usually discussed as at least two overlapping events: an earlier moving formation reported by witnesses along a north-to-south path, and a later line or cluster of bright lights over the south-western horizon. That distinction matters because different explanations may apply to different parts of the night.
 
-The strongest conventional explanation concerns the later lights. In July 1997, military officials said visiting Maryland Air National Guard A-10 aircraft had been dropping high-intensity illumination flares over the Barry M. Goldwater Range, about 60 miles south-west of Phoenix. A Maryland Air National Guard spokesman said eight A-10 ground-attack jets were flying training missions that night, dropping flares from about 15,000 feet; the flares descended slowly under parachutes and would have lit a wide area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span>
+The strongest conventional explanation concerns the later lights. In July 1997, military officials said visiting Maryland Air National Guard A-10 aircraft had been dropping high-intensity illumination flares over the Barry M. Goldwater Range, about 60 miles south-west of Phoenix. A Maryland Air National Guard spokesman said eight A-10 ground-attack jets were flying training missions that night, dropping flares from about 15,000 feet; the flares descended slowly under parachutes and would have lit a wide area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span>
 
-That explanation has weight because it fits the geography, timing and visual character of many videos showing lights that appear to hover and then vanish in sequence. Sceptical investigators have also argued that mountains between Phoenix and the range could make descending flares appear to wink out one by one, strengthening the illusion of a structured object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Alien Lights? At Phoenix, Stephenville, and Elsewhere</span><span class="citation-popover-snippet">Skeptical Inquirer Alien Lights? At Phoenix, Stephenville, and Elsewhere</span></span></span>
+That explanation has weight because it fits the geography, timing and visual character of many videos showing lights that appear to hover and then vanish in sequence. Sceptical investigators have also argued that mountains between Phoenix and the range could make descending flares appear to wink out one by one, strengthening the illusion of a structured object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Alien Lights? At Phoenix, Stephenville, and Elsewhere</span><span class="citation-popover-snippet">Skeptical Inquirer Alien Lights? At Phoenix, Stephenville, and Elsewhere</span></span></span>
 
-The harder part is the earlier moving V-shaped report. Some witnesses described a huge silent object passing overhead, not merely lights on the horizon. Former Arizona governor Fife [Symington]({{ 'symington/' | relative_url }}) later said he had seen something himself and called it beyond any machine he knew as a pilot, although he also stated that he had no evidence of aliens or extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The harder part is the earlier moving V-shaped report. Some witnesses described a huge silent object passing overhead, not merely lights on the horizon. Former Arizona governor Fife [Symington]({{ 'symington/' | relative_url }}) later said he had seen something himself and called it beyond any machine he knew as a pilot, although he also stated that he had no evidence of aliens or extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is why the case still divides readers. The flare explanation is strong for the later Phoenix-area lights, but it does not satisfy every witness who reported a large moving shape earlier in the evening. The responsible conclusion is not that Arizona saw an alien craft, but that the public story collapsed several different observations into one legend. Once that happened, a partial explanation was treated by believers as evasive and by sceptics as complete.
 
 <img src="{{ "/assets/images/Arizona_104fd3-Illustration-1-dark.svg" | relative_url }}" alt="Why Arizona Became a UFO State illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The governor, the press conference and public trust
 
-The Phoenix Lights became more than a skywatching event because of how officials handled it. In June 1997, Governor Fife Symington held a press conference and made light of the matter by having an aide appear in an alien costume. Years later, Symington said he had personally seen something unusual that night, which made the original joke look, to many observers, like a failure of public seriousness rather than harmless humour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-phoenix-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">ufo docuseries showtime phoenix lights</span><span class="citation-popover-snippet">ufo docuseries showtime phoenix lights</span></span></span>
+The Phoenix Lights became more than a skywatching event because of how officials handled it. In June 1997, Governor Fife Symington held a press conference and made light of the matter by having an aide appear in an alien costume. Years later, Symington said he had personally seen something unusual that night, which made the original joke look, to many observers, like a failure of public seriousness rather than harmless humour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-phoenix-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">ufo docuseries showtime phoenix lights</span><span class="citation-popover-snippet">ufo docuseries showtime phoenix lights</span></span></span>
 
 This episode is central to Arizona UFO history because it shows how ridicule can deepen belief. For some witnesses, the press conference signalled that officials were not listening. For sceptics, it was an example of political theatre around a case later substantially explained by military flares. For neutral readers, the lesson is simpler: when many ordinary people report something strange, dismissive public messaging can make later explanations harder to accept, even when those explanations are plausible.
 
 ## Before the Phoenix Lights: the 1947 Rhodes photographs
 
-Arizona’s UFO record did not begin in 1997. One of its most important early cases was the William A. Rhodes photograph incident in Phoenix in July 1947, during the first great American “flying saucer” wave. Rhodes, an amateur astronomer and inventor, reportedly photographed an unusual object over Phoenix shortly after the Kenneth Arnold sighting in Washington State had made “flying saucers” a national phrase. The case entered [official files]({{ 'official-files/' | relative_url }}) as “Incident 40” and was later associated with Project Grudge and Project Blue Book. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
+Arizona’s UFO record did not begin in 1997. One of its most important early cases was the William A. Rhodes photograph incident in Phoenix in July 1947, during the first great American “flying saucer” wave. Rhodes, an amateur astronomer and inventor, reportedly photographed an unusual object over Phoenix shortly after the Kenneth Arnold sighting in Washington State had made “flying saucers” a national phrase. The case entered [official files]({{ 'official-files/' | relative_url }}) as “Incident 40” and was later associated with Project Grudge and Project Blue Book.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
 
-The Rhodes case matters because it had two features many early UFO reports lacked: photographs and government attention. The Debrief’s review of archived records notes that Air Force and federal intelligence officials sought copies of the photographs very quickly, and that Rhodes was interviewed by government agents in August 1947. The case files reportedly moved between several offices, with investigators debating both the technical evidence and Rhodes’s credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span><span class="citation-popover-snippet">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span></span></span>
+The Rhodes case matters because it had two features many early UFO reports lacked: photographs and government attention. The Debrief’s review of archived records notes that Air Force and federal intelligence officials sought copies of the photographs very quickly, and that Rhodes was interviewed by government agents in August 1947. The case files reportedly moved between several offices, with investigators debating both the technical evidence and Rhodes’s credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span><span class="citation-popover-snippet">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span></span></span>
 
-The case also shows the limits of early UFO evidence. The photographs were striking but not decisive. The official record appears internally conflicted: some investigators treated the case as important because of photographic evidence and similarities to other early reports, while others raised the possibility that it was spurious or unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span><span class="citation-popover-snippet">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span></span></span>
+The case also shows the limits of early UFO evidence. The photographs were striking but not decisive. The official record appears internally conflicted: some investigators treated the case as important because of photographic evidence and similarities to other early reports, while others raised the possibility that it was spurious or unreliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span><span class="citation-popover-snippet">The Debrief Long Before the Phoenix Lights There Was &quot;Incident 40</span></span></span>
 
 For Arizona’s state-level UFO history, Rhodes is important less as proof of an extraordinary craft than as evidence that Phoenix entered the UFO archive very early. It also foreshadowed themes that would recur for decades: photographs that are suggestive but inconclusive, witnesses whose character becomes part of the investigation, and public suspicion when original materials are not clearly accounted for.
 
@@ -527,26 +527,26 @@ For Arizona’s state-level UFO history, Rhodes is important less as proof of an
 
 Kingman, Arizona, has a place in UFO folklore because of claims that a craft crashed near the city in 1953. The story has been repeated in books, documentaries, local tourism material and online UFO discussions, often involving alleged military recovery operations and sometimes claims of bodies or secret technology. Compared with the Phoenix Lights and the Rhodes photographs, however, the evidential base is much weaker.
 
-The strongest publicly accessible material around Kingman tends to be retrospective, anecdotal or promotional rather than contemporary official documentation. Local and UFO-focused accounts have explored the story, but the case lacks the kind of dense, contemporaneous record that would make it comparable to Project Blue Book files or the 1997 flare documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorekingman.com">[Explore Kingman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorekingman.com</span><span class="citation-popover-title">blog 1953 kingman ufo crash</span><span class="citation-popover-snippet">blog 1953 kingman ufo crash</span></span></span>
+The strongest publicly accessible material around Kingman tends to be retrospective, anecdotal or promotional rather than contemporary official documentation. Local and UFO-focused accounts have explored the story, but the case lacks the kind of dense, contemporaneous record that would make it comparable to Project Blue Book files or the 1997 flare documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorekingman.com">[Explore Kingman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorekingman.com</span><span class="citation-popover-title">blog 1953 kingman ufo crash</span><span class="citation-popover-snippet">blog 1953 kingman ufo crash</span></span></span>
 
 That does not make the story irrelevant. It is part of Arizona’s UFO culture and has helped connect the state to the wider American crash-retrieval tradition associated with Roswell, Aztec and other desert stories. But it should be labelled carefully. As history, Kingman is best treated as a persistent legend with disputed testimony, not as an established incident.
 
 ## What official investigations add — and what they do not
 
-The US Air Force’s Project Blue Book remains the main official historical frame for older UFO cases. The Air Force says it investigated UFO reports from 1947 to 1969, collected 12,618 reports, and left 701 classified as “unidentified” when the programme ended. It also concluded that no UFO it investigated showed a threat to national security, no unidentified case proved technology beyond modern scientific knowledge, and no case provided evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The US Air Force’s Project Blue Book remains the main official historical frame for older UFO cases. The Air Force says it investigated UFO reports from 1947 to 1969, collected 12,618 reports, and left 701 classified as “unidentified” when the programme ended. It also concluded that no UFO it investigated showed a threat to national security, no unidentified case proved technology beyond modern scientific knowledge, and no case provided evidence of extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 Those conclusions are often cited by sceptics, but they do not erase every uncertainty. “Unidentified” in Blue Book did not mean alien; it meant the available data were insufficient or resistant to explanation. The same distinction is useful in Arizona. A case can be historically important, sincerely witnessed and still not strong evidence for an extraordinary origin.
 
-Recent government language has shifted from “UFO” to “UAP”, usually meaning unidentified anomalous phenomena. NASA’s 2023 independent study did not review old cases such as the Phoenix Lights, but it made a point that applies directly to Arizona: there are too few high-quality observations to draw firm scientific conclusions about many UAP, and future work needs better data, robust databases, calibrated sensors and transparent analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span></span></span>
+Recent government language has shifted from “UFO” to “UAP”, usually meaning unidentified anomalous phenomena. NASA’s 2023 independent study did not review old cases such as the Phoenix Lights, but it made a point that applies directly to Arizona: there are too few high-quality observations to draw firm scientific conclusions about many UAP, and future work needs better data, robust databases, calibrated sensors and transparent analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report; Names Director</span></span></span>
 
-The Pentagon’s All-domain Anomaly Resolution Office has made a similar historical argument. Its 2024 historical report assessed that many earlier UAP sightings were likely misidentified ordinary objects or phenomena, and that some reports were almost certainly linked to observers seeing new or secret technologies without knowing what they were. It also noted that modern equivalents include rocket plumes, satellite trains and unusual drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+The Pentagon’s All-domain Anomaly Resolution Office has made a similar historical argument. Its 2024 historical report assessed that many earlier UAP sightings were likely misidentified ordinary objects or phenomena, and that some reports were almost certainly linked to observers seeing new or secret technologies without knowing what they were. It also noted that modern equivalents include rocket plumes, satellite trains and unusual drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 For Arizona, that matters because the state has exactly the conditions where misidentification can flourish: military aircraft, restricted ranges, drones, balloons, satellites, desert horizons, and a public already familiar with the Phoenix Lights story.
 
 <img src="{{ "/assets/images/Arizona_104fd3-Illustration-2-dark.svg" | relative_url }}" alt="Why Arizona Became a UFO State illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military airspace, drones and newer Arizona UAP reports
 
-Arizona’s contemporary UAP relevance is increasingly tied to military range safety rather than alien speculation. Reports in recent years have described unidentified objects or drone-like encounters in and around Arizona training ranges, including incidents involving military aircraft. The War Zone reported on a cluster of cases since January 2020 involving small unidentified objects, possible drones, swarm-like groups and one apparent small drone striking the canopy of an F-16. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">pilots are seeing some very strange things in arizonas military training ranges</span><span class="citation-popover-snippet">pilots are seeing some very strange things in arizonas military training ranges</span></span></span>
+Arizona’s contemporary UAP relevance is increasingly tied to military range safety rather than alien speculation. Reports in recent years have described unidentified objects or drone-like encounters in and around Arizona training ranges, including incidents involving military aircraft. The War Zone reported on a cluster of cases since January 2020 involving small unidentified objects, possible drones, swarm-like groups and one apparent small drone striking the canopy of an F-16.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">pilots are seeing some very strange things in arizonas military training ranges</span><span class="citation-popover-snippet">pilots are seeing some very strange things in arizonas military training ranges</span></span></span>
 
 This newer category is different from classic UFO folklore. A small object near a fighter training route may be unexplained, but the most immediate questions are practical: Was it a drone? Was it a balloon? Was it a sensor error? Was it a safety hazard? Could it be linked to unauthorised activity near restricted airspace? That is a different evidential problem from asking whether a huge silent craft crossed Phoenix in 1997.
 
@@ -560,9 +560,9 @@ Arizona’s UFO reports often recur around a few explanation types. None explain
 
 **Military flares and aircraft:** The Phoenix Lights flare explanation remains the most famous example. Illumination flares descending under parachutes can appear to hover, drift or vanish, especially when terrain blocks the lower part of their descent. Military formations can also look like fixed lights on a single craft when seen at night.
 
-**Training ranges and restricted airspace:** The Barry M. Goldwater Range and nearby military aviation infrastructure create frequent unusual sky activity. That does not mean every report is military, but it means military explanations must be tested before extraordinary ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luke.af.mil">[Luke Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luke.af.mil</span><span class="citation-popover-title">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span><span class="citation-popover-snippet">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span></span></span>
+**Training ranges and restricted airspace:** The Barry M. Goldwater Range and nearby military aviation infrastructure create frequent unusual sky activity. That does not mean every report is military, but it means military explanations must be tested before extraordinary ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luke.af.mil">[Luke Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luke.af.mil</span><span class="citation-popover-title">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span><span class="citation-popover-snippet">Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years</span></span></span>
 
-**Drones and balloons:** Modern UAP reporting increasingly includes objects that may be small unmanned aircraft, balloons or other lighter-than-air platforms. AARO’s resolved cases elsewhere have included balloon-like explanations, and its broader historical report specifically points to drones and unusual morphologies as sources of modern UAP reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution</span></span></span>
+**Drones and balloons:** Modern UAP reporting increasingly includes objects that may be small unmanned aircraft, balloons or other lighter-than-air platforms. AARO’s resolved cases elsewhere have included balloon-like explanations, and its broader historical report specifically points to drones and unusual morphologies as sources of modern UAP reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution</span></span></span>
 
 **Astronomical and satellite phenomena:** Bright planets, meteors, satellite trains and rocket plumes are common sources of reports across the US. Arizona’s dark skies make these objects more visible, while its UFO reputation makes them more likely to be reported as anomalous.
 
@@ -595,194 +595,194 @@ Arizona’s UFO history matters because it demonstrates both sides of the subjec
 The state’s UFO record is therefore best understood as layered rather than binary. Some incidents are plausibly explained. Some are too weakly sourced to carry much weight. Some remain unresolved in the limited sense that the available evidence does not allow a firm identification. None of the major Arizona cases, on the public record, establishes extraterrestrial visitation. But taken together, they show why UFO reports persist: people do see strange things in the sky, official explanations often arrive late or poorly, and Arizona’s desert airspace gives those mysteries room to grow.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Arizona Became a UFO State. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Arizona Became a UFO State. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating recurring Arizona sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating recurring Arizona sighting claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider context for Arizona&#x27;s place in UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for Arizona&#x27;s place in UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explains the wider cultural significance of UFO hotspots.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the wider cultural significance of UFO hotspots.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Offers investigative context applicable to Arizona cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers investigative context applicable to Arizona cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arizona-became-a-ufo-state-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-arizona-became-a-ufo-state-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -798,7 +798,7 @@ The state’s UFO record is therefore best understood as layered rather than bin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -818,7 +818,7 @@ The state’s UFO record is therefore best understood as layered rather than bin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -850,7 +850,7 @@ The state’s UFO record is therefore best understood as layered rather than bin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -902,7 +902,7 @@ The state’s UFO record is therefore best understood as layered rather than bin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -947,7 +947,7 @@ The state’s UFO record is therefore best understood as layered rather than bin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -988,240 +988,240 @@ The state’s UFO record is therefore best understood as layered rather than bin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: axios.com  
    Title: Arizona's high rate of UFO sightings  
-   Link: <a href="https://www.axios.com/local/phoenix/2024/03/13/arizona-ufo-sightings-map" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/arizona-ufo-sightings-map</a>  
+   Link:<a href="https://www.axios.com/local/phoenix/2024/03/13/arizona-ufo-sightings-map" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/arizona-ufo-sightings-map</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix/</a>  
+   Link:<a href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11614</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11614</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=77022" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77022</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=77022" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77022</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: deseret.com  
    Title: News Flares, not UFOs, caused light show, military says – Deseret News  
-   Link: <a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
+   Link:<a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: syfy.com  
    Title: ufo docuseries showtime phoenix lights  
-   Link: <a href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-phoenix-lights</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-phoenix-lights</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: axios.com  
    Title: lights arizona ufo legend 1997  
-   Link: <a href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997</a>  
+   Link:<a href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Rhodes UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhodes_UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhodes_UFO_photographs</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: UPDATE: NASA Shares UAP Independent Study Report; Names Director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Eglin UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Phoenix, Arizona  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix%2C_Arizona" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix%2C_Arizona</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix%2C_Arizona" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix%2C_Arizona</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Barry M. Goldwater Air Force Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=137572" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137572</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=137572" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137572</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lAZ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAZ</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lAZ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAZ</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=12046" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=12046</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=12046" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=12046</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: phoenix.gov  
-   Link: <a href="https://www.phoenix.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenix.gov/</a>  
+   Link:<a href="https://www.phoenix.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenix.gov/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: census.gov  
-   Link: <a href="https://www.census.gov/quickfacts/fact/table/lapazcountyarizona/HEA775224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/lapazcountyarizona/HEA775224</a>  
+   Link:<a href="https://www.census.gov/quickfacts/fact/table/lapazcountyarizona/HEA775224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/lapazcountyarizona/HEA775224</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tucson.com  
-   Link: <a href="https://tucson.com/news/state-and-regional/article_9268840a-c06f-11e5-b42e-a35221945771.html" target="_blank" rel="noopener noreferrer nofollow">https://tucson.com/news/state-and-regional/article_9268840a-c06f-11e5-b42e-a35221945771.html</a>  
+   Link:<a href="https://tucson.com/news/state-and-regional/article_9268840a-c06f-11e5-b42e-a35221945771.html" target="_blank" rel="noopener noreferrer nofollow">https://tucson.com/news/state-and-regional/article_9268840a-c06f-11e5-b42e-a35221945771.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pod.wave.co  
    Title: conspiracy theories phoenix lights  
-   Link: <a href="https://pod.wave.co/podcast/conspiracy-theories-cults-crimes/conspiracy-theories-phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/conspiracy-theories-cults-crimes/conspiracy-theories-phoenix-lights</a>  
+   Link:<a href="https://pod.wave.co/podcast/conspiracy-theories-cults-crimes/conspiracy-theories-phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/conspiracy-theories-cults-crimes/conspiracy-theories-phoenix-lights</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: luke.af.mil  
    Title: Luke Air Force Base Barry M. Goldwater Range celebrates 75 Years  
-   Link: <a href="https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/</a>  
+   Link:<a href="https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.luke.af.mil/News/Article-Display/Article/1003697/barry-m-goldwater-range-celebrates-75-years/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: luke.af.mil  
-   Link: <a href="https://www.luke.af.mil/Units/56th-Operations-Group/" target="_blank" rel="noopener noreferrer nofollow">https://www.luke.af.mil/Units/56th-Operations-Group/</a>  
+   Link:<a href="https://www.luke.af.mil/Units/56th-Operations-Group/" target="_blank" rel="noopener noreferrer nofollow">https://www.luke.af.mil/Units/56th-Operations-Group/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Alien Lights? At Phoenix, Stephenville, and Elsewhere  
-   Link: <a href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/</a>  
+   Link:<a href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: fifesymington.com  
-   Link: <a href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/</a>  
+   Link:<a href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thedebrief.org  
    Title: The Debrief Long Before the Phoenix Lights There Was "Incident 40"  
-   Link: <a href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/</a>  
+   Link:<a href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: explorekingman.com  
    Title: blog 1953 kingman ufo crash  
-   Link: <a href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.explorekingman.com/blog-1953-kingman-ufo-crash/</a>  
+   Link:<a href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.explorekingman.com/blog-1953-kingman-ufo-crash/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: twz.com  
    Title: pilots are seeing some very strange things in arizonas military training ranges  
-   Link: <a href="https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges</a>  
+   Link:<a href="https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2016/11/the-phoenix-lights-become-an-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/11/the-phoenix-lights-become-an-incident/</a>  
+   Link:<a href="https://skepticalinquirer.org/2016/11/the-phoenix-lights-become-an-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/11/the-phoenix-lights-become-an-incident/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: stampaday.wordpress.com  
    Title: the phoenix lights  
-   Link: <a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
+   Link:<a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
+   Link:<a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dJjd4O1eUzo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJjd4O1eUzo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights and UFO Sightings Investigative Documentary - PART 3 | Mysteries Decoded | The CW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dJjd4O1eUzo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJjd4O1eUzo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights and UFO Sightings Investigative Documentary - PART 3 | Mysteries Decoded | The CW...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Mass UFO Sightings in Arizona | Alien Investigation Documentary | Full Movie  
-   Link: <a href="https://www.youtube.com/watch?v=mI2wGIdRPjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mI2wGIdRPjI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New revelations, the truth takes flight | UFOS OVER PHOENIX: CONFESSIONS OF A 911 OPERATOR...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mI2wGIdRPjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mI2wGIdRPjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New revelations, the truth takes flight | UFOS OVER PHOENIX: CONFESSIONS OF A 911 OPERATOR...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Phoenix Lights and UFO Sightings Investigative Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=jQxDtNwkw1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jQxDtNwkw1U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: Unravelling the Greatest UFO Mystery in History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jQxDtNwkw1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jQxDtNwkw1U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: Unravelling the Greatest UFO Mystery in History...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Phoenix Lights: Unravelling the Greatest UFO Mystery in History  
-   Link: <a href="https://www.youtube.com/watch?v=978heKmAXW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=978heKmAXW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: America&#x27;s Greatest UFO Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=978heKmAXW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=978heKmAXW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: America&#x27;s Greatest UFO Mystery...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
+   Link:<a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV0uaxgDGAx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV0uaxgDGAx/</a>  
+   Link:<a href="https://www.instagram.com/reel/DV0uaxgDGAx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV0uaxgDGAx/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: militarybases.com  
-   Link: <a href="https://militarybases.com/arizona/goldwater-range/" target="_blank" rel="noopener noreferrer nofollow">https://militarybases.com/arizona/goldwater-range/</a>  
+   Link:<a href="https://militarybases.com/arizona/goldwater-range/" target="_blank" rel="noopener noreferrer nofollow">https://militarybases.com/arizona/goldwater-range/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/arizonasfamily/posts/do-you-remember-the-phoenix-lights-did-you-see-them-back-in-1997/1396490849177395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arizonasfamily/posts/do-you-remember-the-phoenix-lights-did-you-see-them-back-in-1997/1396490849177395/</a>
+   Link:<a href="https://www.facebook.com/arizonasfamily/posts/do-you-remember-the-phoenix-lights-did-you-see-them-back-in-1997/1396490849177395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arizonasfamily/posts/do-you-remember-the-phoenix-lights-did-you-see-them-back-in-1997/1396490849177395/</a>

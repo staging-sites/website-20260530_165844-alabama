@@ -250,16 +250,16 @@ image: /assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lig
 
 ## Introduction
 
-Over the past few years, **Ocean City, Maryland** has emerged in civilian report databases as a recurrent location for sightings of unusual coastal lights, especially bright amber or coloured orbs seen over the Atlantic or Delaware Bay at night. These reports illustrate a broader challenge in evaluating modern **unidentified aerial phenomena (UAP)**: verifying what witnesses see when the event occurs over open water. Without corroborative tracking data from radar, aviation systems, or multiple sensor networks, lights seen from the shore often remain *unidentified* even when described in detail by observers. The following examines what witnesses described, why confirming these sightings against aviation or radar data is difficult near the coast, and what plausible explanations remain alongside the unresolved elements in these coastal reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span>
+Over the past few years, **Ocean City, Maryland** has emerged in civilian report databases as a recurrent location for sightings of unusual coastal lights, especially bright amber or coloured orbs seen over the Atlantic or Delaware Bay at night. These reports illustrate a broader challenge in evaluating modern **unidentified aerial phenomena (UAP)**: verifying what witnesses see when the event occurs over open water. Without corroborative tracking data from radar, aviation systems, or multiple sensor networks, lights seen from the shore often remain *unidentified* even when described in detail by observers. The following examines what witnesses described, why confirming these sightings against aviation or radar data is difficult near the coast, and what plausible explanations remain alongside the unresolved elements in these coastal reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-dark.svg" | relative_url }}" alt="Ocean City lights illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Witnesses Reported Over the Ocean
 
 Civilian reporting platforms like the **National UFO Reporting Center (NUFORC)** contain several recent entries from Ocean City that focus on bright lights over water, often described as amber or multicoloured and showing behaviour not immediately matching conventional aircraft patterns.
 
-* In late **August 2025**, a group of observers — including someone who described themselves as an aviation‑aware witness — reported **dozens of bright amber lights** making apparent counter‑clockwise passes over the ocean, visible for more than 30 minutes. The report noted that Automatic Dependent Surveillance–Broadcast (ADS‑B) checks revealed *no aircraft within 50 miles* that could match what was seen. Some lights appeared to stop and disappear, and others varied between slow and fast motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192191...</span></span></span>
-* Around **22 August 2025**, another report from the same area described a **stationary flashing orb** far out over the water, seen for at least half an hour. The witness speculated it might be a drone but noted it did not move for the duration; they also saw separate flashing green lights another night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=161098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 161098December 23, 2020...</span><span class="citation-popover-meta">Published: December 23, 2020</span></span></span>
-* Previous entries include sightings of **red and white hovering lights near the inlet (2020)** and **multiple coloured lights appearing and vanishing in the same area (2024)**. These accounts share a common theme: persistent lights over or near the horizon, often with changing brightness or colour patterns that the witness cannot immediately align with known aircraft or celestial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185634" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 185634December 19, 2024 — NUFORC UFO SIGHTING 185634 Occurred: 2024-12-19 17:10 Local Reported: 2024-12-19 15:43 Paci...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span>
+* In late **August 2025**, a group of observers — including someone who described themselves as an aviation‑aware witness — reported **dozens of bright amber lights** making apparent counter‑clockwise passes over the ocean, visible for more than 30 minutes. The report noted that Automatic Dependent Surveillance–Broadcast (ADS‑B) checks revealed *no aircraft within 50 miles* that could match what was seen. Some lights appeared to stop and disappear, and others varied between slow and fast motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192191...</span></span></span>
+* Around **22 August 2025**, another report from the same area described a **stationary flashing orb** far out over the water, seen for at least half an hour. The witness speculated it might be a drone but noted it did not move for the duration; they also saw separate flashing green lights another night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=161098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 161098December 23, 2020...</span><span class="citation-popover-meta">Published: December 23, 2020</span></span></span>
+* Previous entries include sightings of **red and white hovering lights near the inlet (2020)** and **multiple coloured lights appearing and vanishing in the same area (2024)**. These accounts share a common theme: persistent lights over or near the horizon, often with changing brightness or colour patterns that the witness cannot immediately align with known aircraft or celestial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185634" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 185634December 19, 2024 — NUFORC UFO SIGHTING 185634 Occurred: 2024-12-19 17:10 Local Reported: 2024-12-19 15:43 Paci...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span>
 
 These reports tend to emphasise duration and unusual motion (hovering, appearing/disappearing), which fuels interest and speculation, yet they are also grounded in line‑of‑sight observations without independent corroboration by structured sensors.
 
@@ -269,9 +269,9 @@ These reports tend to emphasise duration and unusual motion (hovering, appearing
 
 One of the core verification problems for coastal sightings like those in Ocean City is the *inherent limitations in radar and civil aviation surveillance over water*. Primary radar and ground‑based ADS‑B receivers become progressively less effective over open ocean due to line‑of‑sight limits and the lack of infrastructure:
 
-* **Radar coverage** from land‑based installations typically extends to a limited radius; beyond that, especially over water, there can be gaps or reduced signal strength. Systems are optimised for controlled airspace nearer runways and air corridors, not for indefinite detection over remote stretches of sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Starting about 15 years ago, air traffic control started using ADS-B</span><span class="citation-popover-snippet">Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</span><span class="citation-popover-meta">Published: March 20, 2017</span></span></span>
-* **ADS‑B data**, which relies on aircraft broadcasting their GPS positions, can also be sparse or difficult to access over ocean regions unless satellite ADS‑C (contract) services are incorporated. Even with satellite augmentation, oceanic traffic data have historically been less complete than over continental airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
-* Public flight tracking services that claim to show all aircraft over water are not equivalent to official controlled‑airspace surveillance; they can have intermittent coverage and delays, meaning that absence of a track on a civilian app does not categorically prove there was no aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">very little activity over water</span><span class="citation-popover-snippet">Very little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</span><span class="citation-popover-meta">Published: December 26, 2023</span></span></span>
+* **Radar coverage** from land‑based installations typically extends to a limited radius; beyond that, especially over water, there can be gaps or reduced signal strength. Systems are optimised for controlled airspace nearer runways and air corridors, not for indefinite detection over remote stretches of sea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Starting about 15 years ago, air traffic control started using ADS-B</span><span class="citation-popover-snippet">Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</span><span class="citation-popover-meta">Published: March 20, 2017</span></span></span>
+* **ADS‑B data**, which relies on aircraft broadcasting their GPS positions, can also be sparse or difficult to access over ocean regions unless satellite ADS‑C (contract) services are incorporated. Even with satellite augmentation, oceanic traffic data have historically been less complete than over continental airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
+* Public flight tracking services that claim to show all aircraft over water are not equivalent to official controlled‑airspace surveillance; they can have intermittent coverage and delays, meaning that absence of a track on a civilian app does not categorically prove there was no aviation activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">very little activity over water</span><span class="citation-popover-snippet">Very little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</span><span class="citation-popover-meta">Published: December 26, 2023</span></span></span>
 
 For civilian witnesses relying on hand‑held apps or public ADS‑B feeds, these technical limitations mean that **a lack of detectable aircraft does not necessarily rule out conventional explanations** such as distant airliners, military flights not broadcasting ADS‑B, or other traffic beyond the ground infrastructure’s reliable reach.
 
@@ -282,283 +282,283 @@ For civilian witnesses relying on hand‑held apps or public ADS‑B feeds, thes
 
 When evaluating reports of unusual lights offshore, there are several commonplace phenomena that can mimic unexplained aerial patterns — especially when viewed against the complex backdrop of the ocean horizon:
 
-* **Conventional aviation**: Long‑haul aircraft often transmit limited data over oceanic airspace, and military or research flights may not share position data publicly. Without formal radar or ADS‑B confirmation, an unfamiliar light could be a distant plane with reflective lighting seen from low angle and far away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Starting about 15 years ago, air traffic control started using ADS-B</span><span class="citation-popover-snippet">Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</span><span class="citation-popover-meta">Published: March 20, 2017</span></span></span>
-* **Satellites and space objects**: Bright satellites (including large communication constellations) can reflect sunlight and appear as moving lights, though they typically traverse the sky in predictable ways and at high altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">May 11, 2026 — 11 May 2026 — Reports often feature lights zipping across the sky, changing direction in manoeuvres that seem to defy the...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
-* **Marine sources**: Lights from boats, buoys, or offshore platforms can appear distant and fixed or slowly moving to an observer on shore, especially when atmospheric conditions distort perception. Night‑fishing fleets using powerful luminous lamps, for example, are detectable from several miles offshore and could be misidentified at a glance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[NASA Scientific Visualization Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The lamps that night fishermen use to attract catch s...</span><span class="citation-popover-meta">Published: November 26, 2013</span></span></span>
+* **Conventional aviation**: Long‑haul aircraft often transmit limited data over oceanic airspace, and military or research flights may not share position data publicly. Without formal radar or ADS‑B confirmation, an unfamiliar light could be a distant plane with reflective lighting seen from low angle and far away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Starting about 15 years ago, air traffic control started using ADS-B</span><span class="citation-popover-snippet">Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</span><span class="citation-popover-meta">Published: March 20, 2017</span></span></span>
+* **Satellites and space objects**: Bright satellites (including large communication constellations) can reflect sunlight and appear as moving lights, though they typically traverse the sky in predictable ways and at high altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">May 11, 2026 — 11 May 2026 — Reports often feature lights zipping across the sky, changing direction in manoeuvres that seem to defy the...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+* **Marine sources**: Lights from boats, buoys, or offshore platforms can appear distant and fixed or slowly moving to an observer on shore, especially when atmospheric conditions distort perception. Night‑fishing fleets using powerful luminous lamps, for example, are detectable from several miles offshore and could be misidentified at a glance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[NASA Scientific Visualization Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The lamps that night fishermen use to attract catch s...</span><span class="citation-popover-meta">Published: November 26, 2013</span></span></span>
 * **Atmospheric phenomena**: Rare optical effects or unusual atmospheric refraction over the water can alter how lights appear at night, occasionally creating illusions of motion or apparent hovering.
 
 Despite these plausible categories, some features of the Ocean City amber light reports remain **unresolved** with the available evidence: prolonged sightings of lights that seem to change behaviour rather than follow a straightforward transit, and the described absence of matching ADS‑B tracks in certain cases. Absent structured radar or sensor data, such episodes stay within the realm of *unidentified aerial phenomena* — unidentified not because extraterrestrial explanation is favoured, but because rigorous cross‑referenced data are missing.
 
-Civilians reporting such events often provide valuable witness testimony, but without corroboration by multiple independent sensors — optical, radar, or instrumental — these coastal sightings illustrate a key difficulty in UFO/UAP studies: **the verification gap**. Sightings are recorded and intriguing, yet they often remain unresolved because the systems needed to confirm or rule out conventional explanations are not aligned to capture every event occurring over remote or expansive environments like open water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">UF Os and Radar: Targets, Clutter, Safety, and False Certainty</span><span class="citation-popover-snippet">UFOs and Radar: Targets, Clutter, Safety, and False CertaintyMarch 31, 2026 — From Washington 1952 to the Nimitz encounter, this story ex...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+Civilians reporting such events often provide valuable witness testimony, but without corroboration by multiple independent sensors — optical, radar, or instrumental — these coastal sightings illustrate a key difficulty in UFO/UAP studies: **the verification gap**. Sightings are recorded and intriguing, yet they often remain unresolved because the systems needed to confirm or rule out conventional explanations are not aligned to capture every event occurring over remote or expansive environments like open water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">UF Os and Radar: Targets, Clutter, Safety, and False Certainty</span><span class="citation-popover-snippet">UFOs and Radar: Targets, Clutter, Safety, and False CertaintyMarch 31, 2026 — From Washington 1952 to the Nimitz encounter, this story ex...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mZWrqWgOAeU" title="Former Gov. Larry Hogan reports seeing drones outside his Maryland home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mZWrqWgOAeU" target="_blank" rel="noopener noreferrer">Former Gov. Larry Hogan reports seeing drones outside his Maryland home</a></p><p class="youtube-embed-meta">Channel: WUSA9 &middot; Views: 63.9K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mZWrqWgOAeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mZWrqWgOAeU">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3bepozDGheY" title="See all the UFO videos that the U.S. government just released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3bepozDGheY" target="_blank" rel="noopener noreferrer">See all the UFO videos that the U.S. government just released</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 193.0K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3bepozDGheY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3bepozDGheY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why are Ocean City lights hard to verify?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why are Ocean City lights hard to verify?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses challenges of corroborating aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses challenges of corroborating aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores unresolved modern reports and evidence limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unresolved modern reports and evidence limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for assessing sighting reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for assessing sighting reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how people interpret unexplained aerial experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people interpret unexplained aerial experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-city-lights-why-are-ocean-city-lights-hard-to-verify-maryland-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ Civilians reporting such events often provide valuable witness testimony, but wi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ Civilians reporting such events often provide valuable witness testimony, but wi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ Civilians reporting such events often provide valuable witness testimony, but wi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ Civilians reporting such events often provide valuable witness testimony, but wi
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -714,160 +714,160 @@ Civilians reporting such events often provide valuable witness testimony, but wi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192170</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192170September 16, 2025...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192170September 16, 2025...</p></details>
    Published: September 16, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=192191" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192191</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192191...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=192191" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192191...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=161098" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161098</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 161098December 23, 2020...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=161098" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161098</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 161098December 23, 2020...</p></details>
    Published: December 23, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185634" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185634</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185634December 19, 2024 — NUFORC UFO SIGHTING 185634 Occurred: 2024-12-19 17:10 Local Reported: 2024-12-19 15:43 Paci...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=185634" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185634</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185634December 19, 2024 — NUFORC UFO SIGHTING 185634 Occurred: 2024-12-19 17:10 Local Reported: 2024-12-19 15:43 Paci...</p></details>
    Published: December 19, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.06254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.06254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</p></details>
    Published: May 1, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: very little activity over water  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Very little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Very little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</p></details>
    Published: December 26, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/11409</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The lamps that night fishermen use to attract catch s...</p></details>
+   Link:<a href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/11409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The lamps that night fishermen use to attract catch s...</p></details>
    Published: November 26, 2013  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
    Title: UF Os and Radar: Targets, Clutter, Safety, and False Certainty  
-   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyMarch 31, 2026 — From Washington 1952 to the Nimitz encounter, this story ex...</p></details>
+   Link:<a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyMarch 31, 2026 — From Washington 1952 to the Nimitz encounter, this story ex...</p></details>
    Published: March 31, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190107" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190107</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190107June 17, 2025 — NUFORC UFO SIGHTING 190107 Occurred: 2022-08-30 09:30 Local - Approximate Reported: 2025-06-05...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=190107" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190107June 17, 2025 — NUFORC UFO SIGHTING 190107 Occurred: 2022-08-30 09:30 Local - Approximate Reported: 2025-06-05...</p></details>
    Published: August 30, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=178474" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178474</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 178474October 28, 2023 — NUFORC UFO SIGHTING 178474 Occurred: 2023-09-21 21:30 Local Reported: 2023-09-25 20:15 Pacif...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=178474" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178474</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 178474October 28, 2023 — NUFORC UFO SIGHTING 178474 Occurred: 2023-09-21 21:30 Local Reported: 2023-09-25 20:15 Pacif...</p></details>
    Published: September 21, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=166912" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=166912</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 166912March 4, 2022 — NUFORC UFO SIGHTING 166912 Occurred: 2022-02-27 21:00 Local Reported: 2022-02-28 12:06 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=166912" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=166912</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 166912March 4, 2022 — NUFORC UFO SIGHTING 166912 Occurred: 2022-02-27 21:00 Local Reported: 2022-02-28 12:06 Pacific...</p></details>
    Published: February 27, 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=42174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42174</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42174April 16, 2005 — NUFORC UFO SIGHTING 42174 Occurred: 1970-06-10 21:00 Local - Approximate Reported: 2005-02-24 1...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=42174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42174</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42174April 16, 2005 — NUFORC UFO SIGHTING 42174 Occurred: 1970-06-10 21:00 Local - Approximate Reported: 2005-02-24 1...</p></details>
    Published: February 24, 2005  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights over the north Atlantic: r/spaceThere&#x27;s been some strange lights over the Atlantic the last few weeks. Always when flying...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights over the north Atlantic: r/spaceThere&#x27;s been some strange lights over the Atlantic the last few weeks. Always when flying...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: avi-loeb.medium.com  
    Title: city lights in our sky and plastic in our oceans be7f05be926d  
-   Link: <a href="https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, the forthcoming Legacy...Read more...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, the forthcoming Legacy...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: popsci.com  
    Title: Starting about 15 years ago, air traffic control started using ADS-B  
-   Link: <a href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/airplane-tracking-mh370-adsb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</p></details>
+   Link:<a href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/airplane-tracking-mh370-adsb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</p></details>
    Published: March 20, 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — 11 May 2026 — Reports often feature lights zipping across the sky, changing direction in manoeuvres that seem to defy the...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — 11 May 2026 — Reports often feature lights zipping across the sky, changing direction in manoeuvres that seem to defy the...</p></details>
    Published: May 11, 2026  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: noc.ac.uk  
-   Link: <a href="https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing" target="_blank" rel="noopener noreferrer nofollow">https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite and Airborne Remote SensingSatellite and airborne remote sensing gives us vital ocean observations. They measure properties lik...</p></details>
+   Link:<a href="https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing" target="_blank" rel="noopener noreferrer nofollow">https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite and Airborne Remote SensingSatellite and airborne remote sensing gives us vital ocean observations. They measure properties lik...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vansairforce.net  
-   Link: <a href="https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/" target="_blank" rel="noopener noreferrer nofollow">https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ADS-B System is flawedTo a pilot, it all looks like intermittent ADS-B outages. For those who see the icon lit continuously, like Bra...</p></details>
+   Link:<a href="https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/" target="_blank" rel="noopener noreferrer nofollow">https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ADS-B System is flawedTo a pilot, it all looks like intermittent ADS-B outages. For those who see the icon lit continuously, like Bra...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medianews48.com  
-   Link: <a href="https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/" target="_blank" rel="noopener noreferrer nofollow">https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland’s UFO Mystery: Nearly 2,000 Bizarre Sky Sightings Reported Since 1995 Fuel Questions About State’s UFO Hotspot Status – Media Ne...</p></details>
+   Link:<a href="https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/" target="_blank" rel="noopener noreferrer nofollow">https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland’s UFO Mystery: Nearly 2,000 Bizarre Sky Sightings Reported Since 1995 Fuel Questions About State’s UFO Hotspot Status – Media Ne...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Av-1ETlJzw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon pilot puzzled by mysterious, bright lights in skyAt least four commercial pilots encountered mysterious lights darting through the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Av-1ETlJzw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon pilot puzzled by mysterious, bright lights in skyAt least four commercial pilots encountered mysterious lights darting through the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencetimes.com  
    Title: marylands unexplained skies ufo hotspot 2 000 sightings 1990s  
-   Link: <a href="https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland&#x27;s Unexplained Skies: UFO Hotspot With 2,000 Sightings Since the 1990sOctober 6, 2023 — MARYLAND’S UNEXPLAINED SKIES: UFO HOTSPOT...</p></details>
+   Link:<a href="https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland&#x27;s Unexplained Skies: UFO Hotspot With 2,000 Sightings Since the 1990sOctober 6, 2023 — MARYLAND’S UNEXPLAINED SKIES: UFO HOTSPOT...</p></details>
    Published: October 6, 2023  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
+   Link:<a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey Drones: What The Bright Lights In The Sky...16 Dec 2024 — Mysterious flying objects overhead are often satellites, not drones...</p></details>
+   Link:<a href="https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey Drones: What The Bright Lights In The Sky...16 Dec 2024 — Mysterious flying objects overhead are often satellites, not drones...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ufoindex.com  
    Title: Browse the reports below. 28 documented sightings in Mary  
-   Link: <a href="https://www.ufoindex.com/maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/maryland</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland UFO ReportsMARYLAND UFO REPORTS Witnesses have reported strange lights, unidentified flying objects, and unexplained aerial phen...</p></details>
+   Link:<a href="https://www.ufoindex.com/maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/maryland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland UFO ReportsMARYLAND UFO REPORTS Witnesses have reported strange lights, unidentified flying objects, and unexplained aerial phen...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sojo1049.com  
    Title: UF Os Reported in Ocean City, Vineland, and Manahawkin  
-   Link: <a href="https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/" target="_blank" rel="noopener noreferrer nofollow">https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Reported in Ocean City, Vineland, and ManahawkinAugust 18, 2021 — Image: UFOs Reported in Ocean City, Vineland, and Manahawkin NJ UF...</p></details>
+   Link:<a href="https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/" target="_blank" rel="noopener noreferrer nofollow">https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Reported in Ocean City, Vineland, and ManahawkinAugust 18, 2021 — Image: UFOs Reported in Ocean City, Vineland, and Manahawkin NJ UF...</p></details>
    Published: August 18, 2021  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: washingtonpost.com  
    Title: 3 -- The mysterious silvery balls came first--pre  
-   Link: <a href="https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Sky Over Ocean City, Multiple Mysteries - The Washington PostAugust 3, 2000 — IN SKY OVER OCEAN CITY, MULTIPLE MYSTERIES August 3, 200...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Sky Over Ocean City, Multiple Mysteries - The Washington PostAugust 3, 2000 — IN SKY OVER OCEAN CITY, MULTIPLE MYSTERIES August 3, 200...</p></details>
    Published: August 3, 2000

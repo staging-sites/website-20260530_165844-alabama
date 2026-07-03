@@ -268,16 +268,16 @@ image: /assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-overview-socia
 
 ## Introduction
 
-The Cape Girardeau crash story is one of Missouri’s most dramatic UFO legends: a Baptist minister is said to have been taken to a rural crash site in 1941, expecting an aircraft accident, only to find a broken silver disc and three small non-human bodies. It matters in Missouri UFO history because, if true, it would pre-date Roswell by six years and place a major “crash retrieval” claim in southeast Missouri. The problem is that the case rests mainly on late family testimony and later UFO-investigator retellings, not on contemporary police, fire, military, press, medical, or physical records. Local media have repeatedly treated it as an “alleged” crash or urban legend, and even sympathetic researchers acknowledge how hard it has been to obtain hard evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
+The Cape Girardeau crash story is one of Missouri’s most dramatic UFO legends: a Baptist minister is said to have been taken to a rural crash site in 1941, expecting an aircraft accident, only to find a broken silver disc and three small non-human bodies. It matters in Missouri UFO history because, if true, it would pre-date Roswell by six years and place a major “crash retrieval” claim in southeast Missouri. The problem is that the case rests mainly on late family testimony and later UFO-investigator retellings, not on contemporary police, fire, military, press, medical, or physical records. Local media have repeatedly treated it as an “alleged” crash or urban legend, and even sympathetic researchers acknowledge how hard it has been to obtain hard evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-overview.webp" | relative_url }}" alt="Overview image for Cape Legend" loading="eager" decoding="sync" fetchpriority="high">
-That does not make the story worthless as folklore. It does, however, put it in a very different category from better-documented Missouri episodes such as the 1973 Piedmont and Wayne County sightings, where there were hundreds of public reports, newspaper coverage, state recognition, and a named scientific field investigation by Harley D. Rutledge. The Cape Girardeau claim is best read as a case study in the evidence gap: how a compelling family memory became a famous UFO narrative, and why that narrative remains much weaker than its dramatic content suggests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[sos.mo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">State UFO Capitals of Missouri...</span></span></span>
+That does not make the story worthless as folklore. It does, however, put it in a very different category from better-documented Missouri episodes such as the 1973 Piedmont and Wayne County sightings, where there were hundreds of public reports, newspaper coverage, state recognition, and a named scientific field investigation by Harley D. Rutledge. The Cape Girardeau claim is best read as a case study in the evidence gap: how a compelling family memory became a famous UFO narrative, and why that narrative remains much weaker than its dramatic content suggests.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[sos.mo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">State UFO Capitals of Missouri...</span></span></span>
 
 ## The Reverend Huffman account and later family testimony
 
-The core story centres on Reverend William G. Huffman, usually described as a Baptist minister connected with Red Star Baptist Church in Cape Girardeau. In the common version, Huffman was called out one evening in spring 1941 to pray over victims of what he believed was a plane crash. When he arrived, he allegedly saw police, fire personnel, photographers, military or federal officials, a damaged metallic disc, and three small bodies unlike ordinary human crash victims. Later accounts add details such as strange writing or controls inside the craft, a surviving occupant who died at the scene, and orders from military personnel that witnesses keep silent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
+The core story centres on Reverend William G. Huffman, usually described as a Baptist minister connected with Red Star Baptist Church in Cape Girardeau. In the common version, Huffman was called out one evening in spring 1941 to pray over victims of what he believed was a plane crash. When he arrived, he allegedly saw police, fire personnel, photographers, military or federal officials, a damaged metallic disc, and three small bodies unlike ordinary human crash victims. Later accounts add details such as strange writing or controls inside the craft, a surviving occupant who died at the scene, and orders from military personnel that witnesses keep silent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
 
-The story reached wider UFO audiences through the family testimony of Charlotte or Charlette Mann, Huffman’s granddaughter, and through the work of crash-retrieval writer Leonard Stringfield. Local-history retellings say Mann described a deathbed conversation with her grandmother in 1984, in which the older family story was given fuller form. Mann also said she had seen, while growing up, a photograph allegedly showing one of the beings from the crash; in the story, that photograph later left the family’s possession and did not return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
+The story reached wider UFO audiences through the family testimony of Charlotte or Charlette Mann, Huffman’s granddaughter, and through the work of crash-retrieval writer Leonard Stringfield. Local-history retellings say Mann described a deathbed conversation with her grandmother in 1984, in which the older family story was given fuller form. Mann also said she had seen, while growing up, a photograph allegedly showing one of the beings from the crash; in the story, that photograph later left the family’s possession and did not return.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
 That chain of transmission is important. The strongest named witness in the popular version is not a contemporary public witness giving an on-record statement in 1941. It is a later family member reporting what she says her grandparents and relatives had said, decades after the alleged event. This is still testimony, and family testimony can preserve real events. But for a claim as extraordinary as a crashed non-human craft, the evidential burden is far higher than for an ordinary remembered accident. The account asks the reader to accept not only a crash, but also dead occupants, official secrecy, missing photographs, and successful suppression across local and military channels.
 
@@ -288,9 +288,9 @@ The story also varies in date and location. One KFVS report says author Paul Bla
 
 The main weakness is not merely that the story is strange. It is that the expected paper trail is missing or has not been produced in a form strong enough to carry the claim. A real crash involving police, firefighters, photographers, a minister, military personnel, bodies, debris, a field fire, transport vehicles, and later secrecy should normally leave traces. These might include a local newspaper item, police call log, coroner record, fire department entry, military communication, insurance record, landowner testimony, funeral or medical record, or photographs with a clear chain of custody.
 
-The public record so far does not offer that kind of foundation. The most accessible local reporting presents the Cape Girardeau story as an alleged event and repeatedly frames it as legend. KFVS reported Smith’s own description of the evidence problem: obtaining hard evidence had been like “trying to nail JELL-O to the wall”. That remark matters because it comes from a sympathetic author who investigated and promoted the case, not from a dismissive debunker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
+The public record so far does not offer that kind of foundation. The most accessible local reporting presents the Cape Girardeau story as an alleged event and repeatedly frames it as legend. KFVS reported Smith’s own description of the evidence problem: obtaining hard evidence had been like “trying to nail JELL-O to the wall”. That remark matters because it comes from a sympathetic author who investigated and promoted the case, not from a dismissive debunker.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
 
-Later researchers have tried to test pieces of the story against 1941 context. One detailed sceptical review points out that some later retellings use institutional terms anachronistically or loosely: in 1941 there was no CIA, no Department of Defense, and no independent U.S. Air Force; the relevant military terminology would have involved the War Department and Army Air Corps. The same review notes that the nearest military-linked aviation facility was at Sikeston, which had opened under contract to the Missouri Institute of Aeronautics, and that the exact alleged location remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">The 1941 Cape Girardeau Conundrum</span></span></span>
+Later researchers have tried to test pieces of the story against 1941 context. One detailed sceptical review points out that some later retellings use institutional terms anachronistically or loosely: in 1941 there was no CIA, no Department of Defense, and no independent U.S. Air Force; the relevant military terminology would have involved the War Department and Army Air Corps. The same review notes that the nearest military-linked aviation facility was at Sikeston, which had opened under contract to the Missouri Institute of Aeronautics, and that the exact alleged location remains uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">The 1941 Cape Girardeau Conundrum</span></span></span>
 
 Those details are not trivial nit-picking. In a case built from memory and retelling, wrong institutional labels, shifting dates, and unclear geography can reveal how later UFO language has been projected backwards onto an older family story. A witness in 1984, a UFO writer in 1991, a television segment in the 2000s, and a web article in the 2020s all operate in a post-Roswell, post-“grey alien” culture. The Cape Girardeau story now contains familiar motifs: a disc-shaped craft, small grey beings, military secrecy, confiscated photographs, and a pre-Roswell cover-up. The question is whether those motifs were present in a documented 1941 event, or whether they became attached as the story moved through UFO culture.
 
@@ -302,7 +302,7 @@ The missing photograph is especially important. Mann’s claim that the family o
 
 A fair assessment should distinguish between three different things: a family tradition, a historical incident, and proof of a non-human crash. The Cape Girardeau story may well preserve a family tradition that mattered deeply to those who told it. It may also have grown from some real local event, such as an aircraft accident rumour, a military-training incident, a field fire, a misunderstood emergency call, or a private story told inside a church community. But the leap from “a remembered family secret” to “a recovered extraterrestrial craft” is much larger than many retellings admit.
 
-The timing of publication is central. The alleged event occurred in 1941. The story became known to UFO researchers decades later, with Mann’s family account said to have emerged in the late 1970s or 1980s and then entered broader UFO literature through Stringfield’s crash-retrieval work. Local media and later UFO writers have continued to repeat the account, but repetition is not the same as independent corroboration. When later versions all trace back to the same family channel, they may look like multiple sources while actually depending on one narrative root. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
+The timing of publication is central. The alleged event occurred in 1941. The story became known to UFO researchers decades later, with Mann’s family account said to have emerged in the late 1970s or 1980s and then entered broader UFO literature through Stringfield’s crash-retrieval work. Local media and later UFO writers have continued to repeat the account, but repetition is not the same as independent corroboration. When later versions all trace back to the same family channel, they may look like multiple sources while actually depending on one narrative root.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
 
 That matters because memory is not a recording device. People can honestly preserve striking stories while details shift over time. Family deathbed accounts are powerful, but they are also hard to test because the original speaker may no longer be available for questioning, documents may be absent, and later narrators may blend direct memory with things heard from others. A sceptical reading does not require calling anyone dishonest. It simply asks whether the surviving evidence is strong enough for the claim being made.
 
@@ -311,7 +311,7 @@ The best argument in favour of the case is not physical proof but narrative spec
 <img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-dark.svg" | relative_url }}" alt="Cape Legend illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Missouri setting makes the legend plausible to some readers
 
-Cape Girardeau sits in a part of southeast Missouri with aviation, river, military, and rural-landscape connections that make the story feel locally grounded. Sikeston, not far away, had wartime aviation activity through the Missouri Institute of Aeronautics and Harvey Parks Airport, and National Archives finding aids show federal records connected with the Missouri Institute of Aeronautics and Harvey-Parks Airport among War Assets Administration disposal files. That wartime aviation backdrop gives later storytellers a realistic regional frame for rumours of aircraft, military personnel, and unusual activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Cape Girardeau sits in a part of southeast Missouri with aviation, river, military, and rural-landscape connections that make the story feel locally grounded. Sikeston, not far away, had wartime aviation activity through the Missouri Institute of Aeronautics and Harvey Parks Airport, and National Archives finding aids show federal records connected with the Missouri Institute of Aeronautics and Harvey-Parks Airport among War Assets Administration disposal files. That wartime aviation backdrop gives later storytellers a realistic regional frame for rumours of aircraft, military personnel, and unusual activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 But local plausibility is not the same as proof. A nearby wartime aviation facility could explain why people in the area might hear military-aircraft rumours, see unusual traffic, or later connect an unexplained story to official secrecy. It could also provide a conventional setting in which a garbled account of an ordinary aircraft matter became stranger over time. The more ordinary aviation context there is, the more careful investigators must be before treating a remembered “crash” as something beyond aircraft, training, or wartime rumour.
 
@@ -319,13 +319,13 @@ This is where Cape Girardeau differs from many single-night UFO sighting reports
 
 ## How the legend compares with better-documented Missouri cases
 
-The clearest comparison within Missouri is Piedmont and Wayne County in 1973. The Missouri Secretary of State’s state-symbol page records that the General Assembly designated Piedmont and Wayne County as the “UFO Capitals of Missouri” to mark the 50th anniversary of alleged sightings there, and the statute itself refers to hundreds of sightings between February and April 1973. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[sos.mo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">State UFO Capitals of Missouri...</span></span></span>
+The clearest comparison within Missouri is Piedmont and Wayne County in 1973. The Missouri Secretary of State’s state-symbol page records that the General Assembly designated Piedmont and Wayne County as the “UFO Capitals of Missouri” to mark the 50th anniversary of alleged sightings there, and the statute itself refers to hundreds of sightings between February and April 1973.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[sos.mo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">State UFO Capitals of Missouri...</span></span></span>
 
-Piedmont is not “proven extraterrestrial” either. But it has a different evidential profile. It involved many reports over a defined period, a public local flap, newspaper and law-enforcement attention, and the field investigation of Harley D. Rutledge, a Southeast Missouri State University physicist. Rutledge’s *Project Identification* was published by Prentice-Hall in 1981 and is catalogued as a 265-page study of UFO phenomena, including southeast Missouri locations such as Piedmont, Clearwater Lake, Sikeston and Cape Girardeau. <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.rw">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.rw</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Piedmont is not “proven extraterrestrial” either. But it has a different evidential profile. It involved many reports over a defined period, a public local flap, newspaper and law-enforcement attention, and the field investigation of Harley D. Rutledge, a Southeast Missouri State University physicist. Rutledge’s *Project Identification* was published by Prentice-Hall in 1981 and is catalogued as a 265-page study of UFO phenomena, including southeast Missouri locations such as Piedmont, Clearwater Lake, Sikeston and Cape Girardeau.<span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.rw">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.rw</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That contrast helps readers place Cape Girardeau fairly. Piedmont has public-event documentation even if many sightings remain arguable. Cape Girardeau has a dramatic narrative but lacks the kind of contemporary documentation that would let investigators reconstruct what happened. Piedmont is a better case for studying a Missouri UFO flap as a social, observational and investigative event. Cape Girardeau is a better case for studying how a high-impact claim can become famous despite a thin evidential base.
 
-Official UFO records also show why documentation matters. The National Archives says Project Blue Book records are declassified and available for examination, with case files arranged chronologically and indexed by date and location; the Air Force fact sheet says Blue Book investigated UFO reports from 1947 to 1969 and recorded 12,618 reports, 701 of which remained unidentified. The Cape Girardeau claim sits outside that formal post-1947 Air Force reporting structure, which means it cannot be assessed through Blue Book in the way later cases sometimes can. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Official UFO records also show why documentation matters. The National Archives says Project Blue Book records are declassified and available for examination, with case files arranged chronologically and indexed by date and location; the Air Force fact sheet says Blue Book investigated UFO reports from 1947 to 1969 and recorded 12,618 reports, 701 of which remained unidentified. The Cape Girardeau claim sits outside that formal post-1947 Air Force reporting structure, which means it cannot be assessed through Blue Book in the way later cases sometimes can.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FBzHfom8OGs" title="UFO Crashes in Cape Girardeau, Missouri. Before Roswell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FBzHfom8OGs" target="_blank" rel="noopener noreferrer">UFO Crashes in Cape Girardeau, Missouri. Before Roswell</a></p><p class="youtube-embed-meta">Channel: DRIvIN RAIN &middot; Views: 12.0K &middot; Uploaded: December 2014 &middot; Length: 1 minute 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FBzHfom8OGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FBzHfom8OGs">Open on YouTube</a></p></div></div></div>
 
@@ -349,269 +349,269 @@ For Missouri UFO history, its value lies in the contrast it creates. Piedmont sh
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JDTIqTJMBZ0" title="How Piedmont became the UFO Capitol of Missouri | Living St. Louis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer">How Piedmont became the UFO Capitol of Missouri | Living St. Louis</a></p><p class="youtube-embed-meta">Channel: Nine PBS &middot; Views: 17.7K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JDTIqTJMBZ0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is the Cape Girardeau Crash Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is the Cape Girardeau Crash Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Offers tools for evaluating extraordinary UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers tools for evaluating extraordinary UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how evidence and documentation are assessed in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how evidence and documentation are assessed in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Readers interested in Cape Girardeau almost always overlap with crash-retrieval topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in Cape Girardeau almost always overlap with crash-retrieval topics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
-        </h4>
-        <p class="fr-book-author">By Jane Roberts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychic Politics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Politics">Psychic Politics</a>
+</h4>
+<p class="fr-book-author">By Jane Roberts</p>
         
-        <p class="fr-book-desc">Provides a documented Missouri UFO case for comparison with the crash legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a documented Missouri UFO case for comparison with the crash legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychic+Politics+by+Jane+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cape-legend-how-strong-is-the-cape-girardeau-crash-story-missouri-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ For Missouri UFO history, its value lies in the contrast it creates. Piedmont sh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ For Missouri UFO history, its value lies in the contrast it creates. Piedmont sh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ For Missouri UFO history, its value lies in the contrast it creates. Piedmont sh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ For Missouri UFO history, its value lies in the contrast it creates. Piedmont sh
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -767,123 +767,123 @@ For Missouri UFO history, its value lies in the contrast it creates. Piedmont sh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kfvs12.com  
    Title: alleged ufo crash cape girardeau area  
-   Link: <a href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/</a>  
+   Link:<a href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kfvs12.com  
-   Link: <a href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/</a>  
+   Link:<a href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sos.mo.gov  
-   Link: <a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State UFO Capitals of Missouri...</p></details>
+   Link:<a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State UFO Capitals of Missouri...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: books.google.rw  
-   Link: <a href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s</a>  
+   Link:<a href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
    Title: The 1941 Cape Girardeau Conundrum  
-   Link: <a href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum</a>  
+   Link:<a href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: real property war assets  
-   Link: <a href="https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets</a>  
+   Link:<a href="https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: books.google.rw  
-   Link: <a href="https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ</a>  
+   Link:<a href="https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: capecentralhigh.com  
    Title: Cape Girardeau History and Photos [Buck Nelson](&#123;&#123; 'buck-nelson/' | relative_url &#125;&#125;)'s Spacecraft Convention  
-   Link: <a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
+   Link:<a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: flickr.com  
    Title: State UFO Capitals of Missouri  
-   Link: <a href="https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/</a>  
+   Link:<a href="https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Crashes in Cape Girardeau, Missouri. Before Roswell  
-   Link: <a href="https://www.youtube.com/watch?v=FBzHfom8OGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FBzHfom8OGs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before &amp; After - Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FBzHfom8OGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FBzHfom8OGs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before &amp; After - Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Before & After  
-   Link: <a href="https://www.youtube.com/watch?v=bUdBE2ZS1Bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUdBE2ZS1Bc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Museum in the Las Vegas Desert - Outpost 51...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bUdBE2ZS1Bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUdBE2ZS1Bc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Museum in the Las Vegas Desert - Outpost 51...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Before & After  
-   Link: <a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CNYfSSKr56E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crashes in Cape Girardeau, Missouri. Before Roswell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CNYfSSKr56E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crashes in Cape Girardeau, Missouri. Before Roswell...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/</a>  
+   Link:<a href="https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ebay.com.au  
-   Link: <a href="https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i</a>  
+   Link:<a href="https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253557958093480/posts/5383425388440019/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253557958093480/posts/5383425388440019/</a>  
+   Link:<a href="https://www.facebook.com/groups/253557958093480/posts/5383425388440019/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253557958093480/posts/5383425388440019/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/</a>  
+   Link:<a href="https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>
+   Link:<a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>

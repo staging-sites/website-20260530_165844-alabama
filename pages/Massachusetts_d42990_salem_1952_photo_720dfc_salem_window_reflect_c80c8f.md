@@ -250,16 +250,16 @@ image: /assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_
 
 ## Introduction
 
-The most persistent sceptical challenge to the famous 1952 Salem Coast Guard photograph is also one of its simplest: the image was taken through a window. For believers, the photograph appears to show four bright objects flying in formation over Salem, [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}). For critics, the fact that the camera was pointed through glass introduces a major uncertainty that the photograph itself cannot eliminate. Decades after the event, window reflections remain one of the strongest ordinary explanations proposed by investigators, including analysts connected with Project [Blue Book]({{ 'blue-book-2762c4/' | relative_url }}). The debate matters because the Salem image is often presented as one of the earliest and most striking daylight UFO photographs, yet its evidential value depends heavily on whether the lights were actually outside the building at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prints.sciencesource.com">[Science Source Prints - Official Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prints.sciencesource.com</span><span class="citation-popover-snippet">Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</span></span></span>
+The most persistent sceptical challenge to the famous 1952 Salem Coast Guard photograph is also one of its simplest: the image was taken through a window. For believers, the photograph appears to show four bright objects flying in formation over Salem, [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}). For critics, the fact that the camera was pointed through glass introduces a major uncertainty that the photograph itself cannot eliminate. Decades after the event, window reflections remain one of the strongest ordinary explanations proposed by investigators, including analysts connected with Project [Blue Book]({{ 'blue-book-2762c4/' | relative_url }}). The debate matters because the Salem image is often presented as one of the earliest and most striking daylight UFO photographs, yet its evidential value depends heavily on whether the lights were actually outside the building at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prints.sciencesource.com">[Science Source Prints - Official Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prints.sciencesource.com</span><span class="citation-popover-snippet">Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</span></span></span>
 
 <img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-dark.svg" | relative_url }}" alt="Reflections illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the window matters
 
 The basic problem is straightforward. A camera records light, but a single photograph cannot always show where that light originated. When a picture is taken through glass, bright sources inside or near the building can appear superimposed onto the outdoor scene. Depending on focus, angle and exposure, those reflections may look detached from the window itself.
 
-In the Salem case, Coast Guard photographer Shell Alpert was reportedly working inside a photographic laboratory when he noticed the lights and took the picture through a window. The presence of the window was never a minor detail. It became central to later attempts to explain the image because it created a plausible route for ordinary light sources to appear as aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufos uap america pentagon report</span><span class="citation-popover-snippet">The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+In the Salem case, Coast Guard photographer Shell Alpert was reportedly working inside a photographic laboratory when he noticed the lights and took the picture through a window. The presence of the window was never a minor detail. It became central to later attempts to explain the image because it created a plausible route for ordinary light sources to appear as aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufos uap america pentagon report</span><span class="citation-popover-snippet">The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
-Project Blue Book analysts repeatedly returned to this issue. While the case remained officially unresolved, later reviews argued that reflected lights offered a more convincing explanation than unknown craft. One Air Force assessment suggested the objects were probably reflections of street lamps or similar light sources on the glass. Other reviews focused on interior lighting within the room itself. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prints.sciencesource.com">[Science Source Prints - Official Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prints.sciencesource.com</span><span class="citation-popover-snippet">Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</span></span></span>
+Project Blue Book analysts repeatedly returned to this issue. While the case remained officially unresolved, later reviews argued that reflected lights offered a more convincing explanation than unknown craft. One Air Force assessment suggested the objects were probably reflections of street lamps or similar light sources on the glass. Other reviews focused on interior lighting within the room itself. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prints.sciencesource.com">[Science Source Prints - Official Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prints.sciencesource.com</span><span class="citation-popover-snippet">Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</span></span></span>
 
 The importance of the window is therefore not merely technical. If the bright shapes were reflections, then the photograph would cease to be evidence of distant objects in the sky and instead become an example of a common photographic illusion.
 
@@ -271,15 +271,15 @@ The reflection argument developed along two related lines.
 
 ### Interior light reflections
 
-One theory proposed that lights inside the Coast Guard building reflected from the window and were recorded by the camera. Investigators noted that cameras focused on distant scenery often render nearby reflections as soft, glowing blobs rather than sharp shapes. Because the camera lens is adjusted for the outdoor background, reflected lights on the glass can become distorted and appear suspended beyond the window. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-snippet">The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</span></span></span>
+One theory proposed that lights inside the Coast Guard building reflected from the window and were recorded by the camera. Investigators noted that cameras focused on distant scenery often render nearby reflections as soft, glowing blobs rather than sharp shapes. Because the camera lens is adjusted for the outdoor background, reflected lights on the glass can become distorted and appear suspended beyond the window.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-snippet">The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</span></span></span>
 
-A later Blue Book analysis reportedly concluded that the most likely source was an interior light, probably ceiling fixtures. According to that assessment, the camera's focus settings would naturally blur the reflected lights into the kind of bright oval forms visible in the photograph. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-snippet">The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</span></span></span>
+A later Blue Book analysis reportedly concluded that the most likely source was an interior light, probably ceiling fixtures. According to that assessment, the camera's focus settings would naturally blur the reflected lights into the kind of bright oval forms visible in the photograph.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-snippet">The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</span></span></span>
 
 Supporters of this explanation point out that the objects do not display obvious structural details. They appear mainly as bright luminous patches. That is consistent with the appearance of out-of-focus reflections and makes it difficult to determine their true distance from the camera.
 
 ### Reflections from ground lights
 
-Another version of the reflection theory suggested that lights outside at ground level, such as street lamps, could have bounced off the glass and created the apparent formation. Blue Book references to street-lamp reflections became one of the best-known sceptical interpretations of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">us coast guard uapufo photo 1952</span><span class="citation-popover-snippet">US Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
+Another version of the reflection theory suggested that lights outside at ground level, such as street lamps, could have bounced off the glass and created the apparent formation. Blue Book references to street-lamp reflections became one of the best-known sceptical interpretations of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">us coast guard uapufo photo 1952</span><span class="citation-popover-snippet">US Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
 
 This possibility gained attention because the photograph includes industrial features and lighting infrastructure in the wider scene. If strong light sources existed at the correct angle relative to the window and camera, their reflected images might have appeared higher in the frame than their real locations.
 
@@ -290,9 +290,9 @@ The challenge is that later researchers have never been able to reconstruct the 
 
 The reflection hypothesis was not created decades later by internet sceptics. It emerged during official examination of the case.
 
-Blue Book records indicate that investigators experimented with ways ordinary lights could create similar photographic effects. Internal reviews reportedly shifted between different conventional explanations, including suggestions of double exposure and reflected lighting. Eventually, reflection scenarios became one of the leading non-extraordinary interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theodysseyonline.com/10-astounding-ufo-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theodysseyonline.com">[The Odyssey Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theodysseyonline.com</span><span class="citation-popover-title">10 astounding ufo photos</span><span class="citation-popover-snippet">9. Salem, Massachusetts. 1952... window pane, before finally being classified as &quot;unknown&quot;...Read more...</span></span></span>
+Blue Book records indicate that investigators experimented with ways ordinary lights could create similar photographic effects. Internal reviews reportedly shifted between different conventional explanations, including suggestions of double exposure and reflected lighting. Eventually, reflection scenarios became one of the leading non-extraordinary interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theodysseyonline.com/10-astounding-ufo-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theodysseyonline.com">[The Odyssey Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theodysseyonline.com</span><span class="citation-popover-title">10 astounding ufo photos</span><span class="citation-popover-snippet">9. Salem, Massachusetts. 1952... window pane, before finally being classified as &quot;unknown&quot;...Read more...</span></span></span>
 
-One frequently cited point from later analysis concerned witness observations about the brightness of the objects. According to accounts reproduced by researchers, the apparent lights changed in intensity depending on viewing position inside the room. That behaviour would be expected if reflections were involved because reflected images often brighten or fade as an observer moves relative to the glass surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threedollarkit.weebly.com">[Three-Dollar Kit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threedollarkit.weebly.com</span><span class="citation-popover-title">bright lights of salem 1952</span><span class="citation-popover-snippet">Three-Dollar KitBright lights of Salem, 1952It is believed that the photos represent light reflections from an interior source (probably...</span></span></span>
+One frequently cited point from later analysis concerned witness observations about the brightness of the objects. According to accounts reproduced by researchers, the apparent lights changed in intensity depending on viewing position inside the room. That behaviour would be expected if reflections were involved because reflected images often brighten or fade as an observer moves relative to the glass surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threedollarkit.weebly.com">[Three-Dollar Kit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threedollarkit.weebly.com</span><span class="citation-popover-title">bright lights of salem 1952</span><span class="citation-popover-snippet">Three-Dollar KitBright lights of Salem, 1952It is believed that the photos represent light reflections from an interior source (probably...</span></span></span>
 
 To sceptics, this detail is more revealing than the photograph itself. A reflection can seem fixed in the outside world until a viewer changes position and notices the illusion. Reports that the lights varied with movement therefore strengthened the reflection argument.
 
@@ -308,7 +308,7 @@ Several uncertainties remain:
 * The image provides no direct depth information.
 * The exact lighting conditions inside the room are imperfectly documented.
 * The geometry of the window, camera position and nearby light sources cannot now be reconstructed with certainty.
-* The visible shapes are bright and diffuse rather than sharply defined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencesource.com">[sciencesource.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencesource.com</span><span class="citation-popover-title">1637969 salem ufo sighting 1952 stock image rights managed</span><span class="citation-popover-snippet">Salem UFO Sighting, 1952 &#124; Stock ImageSalem UFO Sighting, 1952 stock photo. On July 16, 1952 at 09:35 AM Coast Guard seaman Shell Alpert...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
+* The visible shapes are bright and diffuse rather than sharply defined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencesource.com">[sciencesource.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencesource.com</span><span class="citation-popover-title">1637969 salem ufo sighting 1952 stock image rights managed</span><span class="citation-popover-snippet">Salem UFO Sighting, 1952 &#124; Stock ImageSalem UFO Sighting, 1952 stock photo. On July 16, 1952 at 09:35 AM Coast Guard seaman Shell Alpert...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
 These limitations do not prove that the lights were reflections. They simply mean the photograph cannot exclude that possibility.
 
@@ -317,278 +317,278 @@ These limitations do not prove that the lights were reflections. They simply mea
 
 The Salem photograph occupies an unusual place in Massachusetts UFO history because neither side can fully close the case.
 
-Those who favour an unexplained interpretation note that the image was taken by a Coast Guard photographer during the major 1952 UFO wave and entered into official government files. They argue that no reflection source has ever been demonstrated beyond doubt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+Those who favour an unexplained interpretation note that the image was taken by a Coast Guard photographer during the major 1952 UFO wave and entered into official government files. They argue that no reflection source has ever been demonstrated beyond doubt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
-Sceptics respond that the burden of proof works the other way around. Since the photograph was taken through glass, and since reflections are a well-known photographic artefact, the image never established that the lights were external objects in the first place. The reflection explanation does not need to identify every detail perfectly to remain a serious challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prints.sciencesource.com">[Science Source Prints - Official Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prints.sciencesource.com</span><span class="citation-popover-snippet">Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</span></span></span>
+Sceptics respond that the burden of proof works the other way around. Since the photograph was taken through glass, and since reflections are a well-known photographic artefact, the image never established that the lights were external objects in the first place. The reflection explanation does not need to identify every detail perfectly to remain a serious challenge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prints.sciencesource.com">[Science Source Prints - Official Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prints.sciencesource.com</span><span class="citation-popover-snippet">Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</span></span></span>
 
-That tension explains why the Salem photograph remains discussed more than seventy years later. Its strongest visual evidence and its strongest weakness may be the same thing. The photograph is memorable because of the four bright lights, yet the window between the camera and the sky leaves open the possibility that the most mysterious objects in the frame originated much closer to the photographer than they appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufos uap america pentagon report</span><span class="citation-popover-snippet">The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</span><span class="citation-popover-meta">Published: May 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[2saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-snippet">The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</span></span></span>
+That tension explains why the Salem photograph remains discussed more than seventy years later. Its strongest visual evidence and its strongest weakness may be the same thing. The photograph is memorable because of the four bright lights, yet the window between the camera and the sky leaves open the possibility that the most mysterious objects in the frame originated much closer to the photographer than they appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufos uap america pentagon report</span><span class="citation-popover-snippet">The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</span><span class="citation-popover-meta">Published: May 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[2saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-snippet">The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RlAl8Cub2Mo" title="The WASHINGTON FLAP - The most inexplicable UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer">The WASHINGTON FLAP - The most inexplicable UFO incident</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE Universe &middot; Views: 59.5K &middot; Uploaded: May 2024 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RlAl8Cub2Mo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the Salem lights be window reflections?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the Salem lights be window reflections?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evidence evaluation and limitations of sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence evaluation and limitations of sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to debates over photographic evidence and case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to debates over photographic evidence and case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evidence disputes in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evidence disputes in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Camera+Lucida+by+Roland+Barthes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Camera Lucida on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WMbgRAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Camera Lucida" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Camera+Lucida+by+Roland+Barthes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Camera Lucida">Camera Lucida</a>
-        </h4>
-        <p class="fr-book-author">By Roland Barthes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Camera+Lucida+by+Roland+Barthes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Camera Lucida on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WMbgRAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Camera Lucida" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Camera+Lucida+by+Roland+Barthes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Camera Lucida">Camera Lucida</a>
+</h4>
+<p class="fr-book-author">By Roland Barthes</p>
         
-        <p class="fr-book-desc">Explores interpretation and ambiguity in photographs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Camera+Lucida+by+Roland+Barthes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretation and ambiguity in photographs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Camera+Lucida+by+Roland+Barthes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-could-the-salem-lights-be-window-reflections-massachusetts-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ That tension explains why the Salem photograph remains discussed more than seven
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ That tension explains why the Salem photograph remains discussed more than seven
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ That tension explains why the Salem photograph remains discussed more than seven
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ That tension explains why the Salem photograph remains discussed more than seven
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -744,166 +744,166 @@ That tension explains why the Salem photograph remains discussed more than seven
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: prints.sciencesource.com  
-   Link: <a href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow">https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</p></details>
+   Link:<a href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow">https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: saturdaynightuforia.com  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</p></details>
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencesource.com  
    Title: 1637969 salem ufo sighting 1952 stock image rights managed  
-   Link: <a href="https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Salem UFO Sighting, 1952 | Stock ImageSalem UFO Sighting, 1952 stock photo. On July 16, 1952 at 09:35 AM Coast Guard seaman Shell Alpert...</p></details>
+   Link:<a href="https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Salem UFO Sighting, 1952 | Stock ImageSalem UFO Sighting, 1952 stock photo. On July 16, 1952 at 09:35 AM Coast Guard seaman Shell Alpert...</p></details>
    Published: July 16, 1952  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: us coast guard uapufo photo 1952  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</p></details>
    Published: June 3, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>project...A second analysis by Blue Book concluded that it was probably reflections of street lamps on a window. Finally, the case was c...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>project...A second analysis by Blue Book concluded that it was probably reflections of street lamps on a window. Finally, the case was c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: coast guard photo from 1952 salem  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast Guard photo from 1952, Salem: r/UFOsWas this UFO reported by local Boston news last year ever debunked? News article link in comme...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coast Guard photo from 1952, Salem: r/UFOsWas this UFO reported by local Boston news last year ever debunked? News article link in comme...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: prints.sciencesource.com  
-   Link: <a href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print" target="_blank" rel="noopener noreferrer nofollow">https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting, 1952 Art PrintA second analysis by Blue Book concluded that it was probably reflections of street lamps on a window...</p></details>
+   Link:<a href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print" target="_blank" rel="noopener noreferrer nofollow">https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting, 1952 Art PrintA second analysis by Blue Book concluded that it was probably reflections of street lamps on a window...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Project Blue Book in 1952; that project became the longest running of the US government&#x27;s official...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Project Blue Book in 1952; that project became the longest running of the US government&#x27;s official...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Trailer | Watch On SBS On Demand...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Trailer | Watch On SBS On Demand...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Blue Book | Trailer | Watch On SBS On Demand  
-   Link: <a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ApuwmZjHGu4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 - The Invasion of Washington | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ApuwmZjHGu4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952 - The Invasion of Washington | Full Documentary...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: ufos uap america pentagon report  
-   Link: <a href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</p></details>
    Published: May 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theodysseyonline.com  
    Title: 10 astounding ufo photos  
-   Link: <a href="https://www.theodysseyonline.com/10-astounding-ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.theodysseyonline.com/10-astounding-ufo-photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9. Salem, Massachusetts. 1952... window pane, before finally being classified as &quot;unknown&quot;...Read more...</p></details>
+   Link:<a href="https://www.theodysseyonline.com/10-astounding-ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.theodysseyonline.com/10-astounding-ufo-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9. Salem, Massachusetts. 1952... window pane, before finally being classified as &quot;unknown&quot;...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: threedollarkit.weebly.com  
    Title: bright lights of salem 1952  
-   Link: <a href="https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952" target="_blank" rel="noopener noreferrer nofollow">https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Dollar KitBright lights of Salem, 1952It is believed that the photos represent light reflections from an interior source (probably...</p></details>
+   Link:<a href="https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952" target="_blank" rel="noopener noreferrer nofollow">https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Dollar KitBright lights of Salem, 1952It is believed that the photos represent light reflections from an interior source (probably...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: alamy.com  
    Title: 1952 ufo  
-   Link: <a href="https://www.alamy.com/stock-photo/1952-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/1952-ufo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(17) See 1952 ufo stock video clips... A U.S. Coast Guard photographer at Salem, Massachusetts, captures a mysterious sight of...Read more...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/1952-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/1952-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(17) See 1952 ufo stock video clips... A U.S. Coast Guard photographer at Salem, Massachusetts, captures a mysterious sight of...Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: project-audio.com  
-   Link: <a href="https://www.project-audio.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.project-audio.com/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pro-Ject Audio Systems – Turntables and hifi stereo...Turntables · Tonearms · Cartridges · HiFi Electronics · HiFi Sets · Speakers · Cab...</p></details>
+   Link:<a href="https://www.project-audio.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.project-audio.com/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pro-Ject Audio Systems – Turntables and hifi stereo...Turntables · Tonearms · Cartridges · HiFi Electronics · HiFi Sets · Speakers · Cab...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: basedonatruestorypodcast.com  
    Title: That's what we'll look at in this episode of the Based on a True Story podcast  
-   Link: <a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast7 Oct 2025 — How accurate is the History Channel&#x27;s Project Blue Book?...</p></details>
+   Link:<a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast7 Oct 2025 — How accurate is the History Channel&#x27;s Project Blue Book?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project, headquartered at Wright-Patterson Air Force Base, Ohio, was...Read more...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project, headquartered at Wright-Patterson Air Force Base, Ohio, was...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: popularmechanics.com  
    Title: 50 Years Ago, the Air Force Tried to Make UFOs Go Away  
-   Link: <a href="https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Dec 2019 — Project Blue Book was formed to determine whether UFOs represented a threat to our nation,” Mark O&#x27;Connell, author of The C...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Dec 2019 — Project Blue Book was formed to determine whether UFOs represented a threat to our nation,” Mark O&#x27;Connell, author of The C...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ocula.com  
-   Link: <a href="https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/" target="_blank" rel="noopener noreferrer nofollow">https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1952, 2023 by Keith Mayerson at Karma in 188 E 2nd Street, New York...</p></details>
+   Link:<a href="https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/" target="_blank" rel="noopener noreferrer nofollow">https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1952, 2023 by Keith Mayerson at Karma in 188 E 2nd Street, New York...</p></details>
    Published: July 16, 1952  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: fold3.com  
    Title: us project blue book ufo investigations 1947 1969  
-   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings of unid...</p></details>
+   Link:<a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings of unid...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
    Title: PROJEC T Definition & Meaning3 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DLAVRtrMfDv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLAVRtrMfDv/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1952, through a window screen. He saw 4...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DLAVRtrMfDv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLAVRtrMfDv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1952, through a window screen. He saw 4...Read more...</p></details>
    Published: July 16, 1952  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington, D.C. UFO incidentFrom July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Wa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington, D.C. UFO incidentFrom July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Wa...</p></details>

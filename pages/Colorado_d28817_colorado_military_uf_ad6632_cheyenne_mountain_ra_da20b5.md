@@ -257,7 +257,7 @@ The problem for researchers is that the evidence behind many of the most dramati
 
 ## Why Cheyenne Mountain became a UFO magnet
 
-The Cheyenne Mountain Complex was designed during the Cold War as the hardened operational centre for the North American Aerospace Defense Command, better known as NORAD. Construction began in the early 1960s, and the underground facility became operational in the mid-1960s. Its purpose was to detect threats approaching North America, including Soviet bombers, ballistic missiles and objects in space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.northcom.mil/CheyenneMountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northcom.mil">[North American Aerospace Defense Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northcom.mil</span><span class="citation-popover-snippet">North American Aerospace Defense CommandCheyenne Mountain ComplexThe Cheyenne Mountain Complex is located at Cheyenne Mountain Air Force...</span></span></span>
+The Cheyenne Mountain Complex was designed during the Cold War as the hardened operational centre for the North American Aerospace Defense Command, better known as NORAD. Construction began in the early 1960s, and the underground facility became operational in the mid-1960s. Its purpose was to detect threats approaching North America, including Soviet bombers, ballistic missiles and objects in space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.northcom.mil/CheyenneMountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northcom.mil">[North American Aerospace Defense Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northcom.mil</span><span class="citation-popover-snippet">North American Aerospace Defense CommandCheyenne Mountain ComplexThe Cheyenne Mountain Complex is located at Cheyenne Mountain Air Force...</span></span></span>
 
 That mission gave the site an unusual public image almost from the beginning. The facility was buried deep inside granite, protected by massive blast doors and connected to radar and satellite systems across the continent. Military secrecy surrounding the base encouraged rumours long before UFO culture became mainstream. During the Cold War, ordinary Americans knew the mountain was watching the skies, but they had little idea exactly what operators inside could see.
 
@@ -278,7 +278,7 @@ Because of this mixture of real secrecy and fictional embellishment, stories abo
 
 ## The radar stories that fuelled the rumours
 
-The best-known UFO-related claim connected to Cheyenne Mountain comes from a report submitted to the National UFO Reporting Center (NUFORC) decades after the alleged incident. The witness, claiming to be a former Army radar operator, described seeing groups of fast-moving radar contacts over North America during early 1970 while stationed at NORAD facilities linked to Cheyenne Mountain. According to the account, interceptor aircraft were unable to catch the objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The best-known UFO-related claim connected to Cheyenne Mountain comes from a report submitted to the National UFO Reporting Center (NUFORC) decades after the alleged incident. The witness, claiming to be a former Army radar operator, described seeing groups of fast-moving radar contacts over North America during early 1970 while stationed at NORAD facilities linked to Cheyenne Mountain. According to the account, interceptor aircraft were unable to catch the objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 For UFO enthusiasts, this story became significant because it appeared to involve trained military personnel and radar data rather than ordinary eyewitness observation. Radar-based cases have long carried extra weight in UFO debates because they potentially provide instrument evidence instead of relying solely on human perception.
 
@@ -295,7 +295,7 @@ However, several important problems limit the value of the claim:
 
 This does not prove the story false, but it places it in a category of difficult-to-verify anecdotal evidence rather than confirmed historical documentation.
 
-The broader historical context also matters. NORAD systems regularly processed enormous numbers of radar signals, many of which required rapid interpretation under Cold War pressure. Official histories of the Cheyenne Mountain Complex describe periods when the command system generated false warnings or unreliable data because of technical faults. In 1979 and 1980, for example, NORAD dealt with serious false missile alerts caused partly by computer failures and faulty chips. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cheyenne Mountain Complex</span><span class="citation-popover-snippet">Cheyenne Mountain Complex</span></span></span>
+The broader historical context also matters. NORAD systems regularly processed enormous numbers of radar signals, many of which required rapid interpretation under Cold War pressure. Official histories of the Cheyenne Mountain Complex describe periods when the command system generated false warnings or unreliable data because of technical faults. In 1979 and 1980, for example, NORAD dealt with serious false missile alerts caused partly by computer failures and faulty chips.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cheyenne Mountain Complex</span><span class="citation-popover-snippet">Cheyenne Mountain Complex</span></span></span>
 
 That history demonstrates two things at once. First, operators genuinely encountered confusing or alarming radar information. Second, unusual radar returns did not necessarily indicate extraordinary craft. Technical glitches, incomplete data and system errors were real operational problems inside the mountain.
 
@@ -303,7 +303,7 @@ That history demonstrates two things at once. First, operators genuinely encount
 
 ## What official records actually show
 
-One reason Cheyenne Mountain rumours persist is that the facility undeniably possessed advanced surveillance capabilities for its era. Official descriptions of the complex explain that its systems integrated aerospace warning data from radar networks, satellites and command centres across North America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cheyenne, Wyoming</span><span class="citation-popover-snippet">Cheyenne, WyomingCheyenne (/ʃaɪˈæn/ shy-AN or /ʃaɪˈɛn/ shy-EN) is the capital and most populous city of the U.S. state of Wyoming. The...</span></span></span>
+One reason Cheyenne Mountain rumours persist is that the facility undeniably possessed advanced surveillance capabilities for its era. Official descriptions of the complex explain that its systems integrated aerospace warning data from radar networks, satellites and command centres across North America.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cheyenne, Wyoming</span><span class="citation-popover-snippet">Cheyenne, WyomingCheyenne (/ʃaɪˈæn/ shy-AN or /ʃaɪˈɛn/ shy-EN) is the capital and most populous city of the U.S. state of Wyoming. The...</span></span></span>
 
 But there is an important distinction between “tracking unknowns” and “tracking alien spacecraft”.
 
@@ -322,7 +322,7 @@ Military and aerospace systems routinely classify some radar returns as unidenti
 
 The existence of unidentified radar tracks therefore does not automatically support extraterrestrial explanations.
 
-Publicly available NORAD and Cheyenne Mountain histories contain extensive discussion of missile warning systems, aerospace defence and command infrastructure, yet they do not provide verified evidence that the complex tracked non-human craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.northcom.mil/CheyenneMountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northcom.mil">[North American Aerospace Defense Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northcom.mil</span><span class="citation-popover-snippet">North American Aerospace Defense CommandCheyenne Mountain ComplexThe Cheyenne Mountain Complex is located at Cheyenne Mountain Air Force...</span></span></span>
+Publicly available NORAD and Cheyenne Mountain histories contain extensive discussion of missile warning systems, aerospace defence and command infrastructure, yet they do not provide verified evidence that the complex tracked non-human craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.northcom.mil/CheyenneMountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northcom.mil">[North American Aerospace Defense Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northcom.mil</span><span class="citation-popover-snippet">North American Aerospace Defense CommandCheyenne Mountain ComplexThe Cheyenne Mountain Complex is located at Cheyenne Mountain Air Force...</span></span></span>
 
 Even so, official silence has often been interpreted by believers as evidence of concealment rather than absence. This creates a circular pattern common in UFO mythology: secrecy intended for national security purposes becomes interpreted as proof that something extraordinary must be hidden.
 
@@ -331,7 +331,7 @@ Even so, official silence has often been interpreted by believers as evidence of
 
 Cheyenne Mountain’s role in UFO culture expanded far beyond actual reports from Colorado. By the 1990s and 2000s, the complex had become a symbol of hidden government activity in broader conspiracy culture.
 
-Rumours developed that the base stored recovered alien technology, connected to underground tunnel systems or coordinated secret programmes involving UFOs. Some stories linked the mountain to wider American conspiracy narratives involving Area 51, underground bunkers or alleged extraterrestrial cover-ups. Claims even appeared suggesting hidden tunnel connections between Denver International Airport and Cheyenne Mountain, despite repeated public explanations that the airport tunnels are limited baggage systems rather than vast underground networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denver7.com">[Denver 7 Colorado News (KMGH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denver7.com</span><span class="citation-popover-snippet">Denver 7 Colorado News (KMGH)13 secrets of NORAD and Cheyenne MountainJul 27, 2015 — 13 secrets of NORAD and Cheyenne Mountain · 1: Cheye...</span></span></span>
+Rumours developed that the base stored recovered alien technology, connected to underground tunnel systems or coordinated secret programmes involving UFOs. Some stories linked the mountain to wider American conspiracy narratives involving Area 51, underground bunkers or alleged extraterrestrial cover-ups. Claims even appeared suggesting hidden tunnel connections between Denver International Airport and Cheyenne Mountain, despite repeated public explanations that the airport tunnels are limited baggage systems rather than vast underground networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denver7.com">[Denver 7 Colorado News (KMGH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denver7.com</span><span class="citation-popover-snippet">Denver 7 Colorado News (KMGH)13 secrets of NORAD and Cheyenne MountainJul 27, 2015 — 13 secrets of NORAD and Cheyenne Mountain · 1: Cheye...</span></span></span>
 
 Popular media amplified this atmosphere. *Stargate SG-1* portrayed Cheyenne Mountain as the headquarters for a secret interstellar programme, embedding the location deeply into science-fiction culture. Although purely fictional, the series reinforced the public perception that the real complex might hide extraordinary secrets.
 
@@ -352,7 +352,7 @@ A recurring issue in Cheyenne Mountain UFO stories is the absence of independent
 
 </div>
 
-Most famous Cheyenne Mountain rumours do not meet those standards publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cheyenne Mountain Complex</span><span class="citation-popover-snippet">Cheyenne Mountain Complex</span></span></span>
+Most famous Cheyenne Mountain rumours do not meet those standards publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cheyenne Mountain Complex</span><span class="citation-popover-snippet">Cheyenne Mountain Complex</span></span></span>
 
 This is especially important because Cold War defence operations generated countless opportunities for misunderstanding. Radar operators worked in high-pressure environments dealing with incomplete information, classified tests and occasional technical failures. In that setting, unusual radar behaviour could easily acquire legendary status over time.
 
@@ -402,269 +402,269 @@ Other Colorado UFO stories often involve lights over military areas, pilot [sigh
 That assumption keeps the mountain at the centre of speculation even when hard evidence is scarce. In practical terms, the strongest documented facts concern the facility’s Cold War mission and radar infrastructure rather than proven UFO encounters. The enduring mystery comes from the gap between what the public knows about the mountain and what it imagines might have happened inside it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Cheyenne Mountain really track UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Cheyenne Mountain really track UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides modern defence-community UAP context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern defence-community UAP context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Fits the intersection of military surveillance and UFO rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the intersection of military surveillance and UFO rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military witnesses and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military witnesses and unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides real-world context for advanced defence systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context for advanced defence systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-mountain-did-cheyenne-mountain-really-track-ufos-colorado-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -680,7 +680,7 @@ That assumption keeps the mountain at the centre of speculation even when hard e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -700,7 +700,7 @@ That assumption keeps the mountain at the centre of speculation even when hard e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -732,7 +732,7 @@ That assumption keeps the mountain at the centre of speculation even when hard e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -762,7 +762,7 @@ That assumption keeps the mountain at the centre of speculation even when hard e
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -820,117 +820,117 @@ That assumption keeps the mountain at the centre of speculation even when hard e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cheyenne Mountain Complex  
-   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: denver7.com  
-   Link: <a href="https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver 7 Colorado News (KMGH)13 secrets of NORAD and Cheyenne MountainJul 27, 2015 — 13 secrets of NORAD and Cheyenne Mountain · 1: Cheye...</p></details>
+   Link:<a href="https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denver 7 Colorado News (KMGH)13 secrets of NORAD and Cheyenne MountainJul 27, 2015 — 13 secrets of NORAD and Cheyenne Mountain · 1: Cheye...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25777</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25777</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</p></details>
    Published: August 20, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: denver7.com  
-   Link: <a href="https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver 7 Colorado News (KMGH)Dive into the popular conspiracies at DIAIn fact, some believe the tunnels go all the way to Cheyenne Mounta...</p></details>
+   Link:<a href="https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denver 7 Colorado News (KMGH)Dive into the popular conspiracies at DIAIn fact, some believe the tunnels go all the way to Cheyenne Mounta...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Cheyenne, Wyoming  
-   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne, WyomingCheyenne (/ʃaɪˈæn/ shy-AN or /ʃaɪˈɛn/ shy-EN) is the capital and most populous city of the U.S. state of Wyoming. The...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne, WyomingCheyenne (/ʃaɪˈæn/ shy-AN or /ʃaɪˈɛn/ shy-EN) is the capital and most populous city of the U.S. state of Wyoming. The...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Dulce Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Dulce_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dulce_Base</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dulce BaseDulce Base is the subject of a conspiracy theory claiming that a jointly-operated human and alien underground facility exist...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Dulce_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dulce_Base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dulce BaseDulce Base is the subject of a conspiracy theory claiming that a jointly-operated human and alien underground facility exist...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the [Condon Report](&amp;#123;&amp;#123; &#x27;condon-report/&#x27; | relative_url &amp;#125;&amp;#125;), which concluded that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the [Condon Report](&amp;#123;&amp;#123; &#x27;condon-report/&#x27; | relative_url &amp;#125;&amp;#125;), which concluded that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CheyenneThe main group of Cheyenne, the Tsêhéstáno, was once composed of ten bands that spread across the Great Plains from southern C...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Cheyenne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CheyenneThe main group of Cheyenne, the Tsêhéstáno, was once composed of ten bands that spread across the Great Plains from southern C...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cheyenne.org  
-   Link: <a href="https://www.cheyenne.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyenne.org/</a>  
+   Link:<a href="https://www.cheyenne.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyenne.org/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=49603" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=49603</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 49603NUFORC UFO Sighting 49603. Occurred: 1996-08-01 17:00 Local - Approximate Reported: 2006-03-13 13:54 Pacific Dur...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=49603" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=49603</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 49603NUFORC UFO Sighting 49603. Occurred: 1996-08-01 17:00 Local - Approximate Reported: 2006-03-13 13:54 Pacific Dur...</p></details>
    Published: March 13, 2006  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: northcom.mil  
-   Link: <a href="https://www.northcom.mil/CheyenneMountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.northcom.mil/CheyenneMountain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North American Aerospace Defense CommandCheyenne Mountain ComplexThe Cheyenne Mountain Complex is located at Cheyenne Mountain Air Force...</p></details>
+   Link:<a href="https://www.northcom.mil/CheyenneMountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.northcom.mil/CheyenneMountain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North American Aerospace Defense CommandCheyenne Mountain ComplexThe Cheyenne Mountain Complex is located at Cheyenne Mountain Air Force...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Cheyenne-people" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Cheyenne-people</a>  
+   Link:<a href="https://www.britannica.com/topic/Cheyenne-people" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Cheyenne-people</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#VantageOnFirstpost The U.S. has shot down a fourth...Yesterday they spotted another UFO, unidentified flying object, UFO and the Pentag...</p></details>
+   Link:<a href="https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#VantageOnFirstpost The U.S. has shot down a fourth...Yesterday they spotted another UFO, unidentified flying object, UFO and the Pentag...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: travelwyoming.com  
-   Link: <a href="https://travelwyoming.com/places-to-go/cities/cheyenne/" target="_blank" rel="noopener noreferrer nofollow">https://travelwyoming.com/places-to-go/cities/cheyenne/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne Wyoming | Things To Do And Places To SeeSome of the top attractions in Cheyenne are Terry Bison Ranch Resort, Cheyenne Botanic G...</p></details>
+   Link:<a href="https://travelwyoming.com/places-to-go/cities/cheyenne/" target="_blank" rel="noopener noreferrer nofollow">https://travelwyoming.com/places-to-go/cities/cheyenne/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne Wyoming | Things To Do And Places To SeeSome of the top attractions in Cheyenne are Terry Bison Ranch Resort, Cheyenne Botanic G...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For decades, the existence of UFOs was denied...UFO Sightings Are Real, but Aliens Are Not Responsible The U.S. government recently conf...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For decades, the existence of UFOs was denied...UFO Sightings Are Real, but Aliens Are Not Responsible The U.S. government recently conf...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History ColoradoThe subject of myth, legend, and movie lore, construction began on the fabled North American Aerospace Defense Command (N...</p></details>
+   Link:<a href="https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History ColoradoThe subject of myth, legend, and movie lore, construction began on the fabled North American Aerospace Defense Command (N...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/983759965442123/posts/1974041013080675/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/983759965442123/posts/1974041013080675/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Military Base Repeatedly Swarmed By Unidentified...&quot;Close Encounters At Langley&quot;: US Military Base Repeatedly Swarmed By Unidentified...</p></details>
+   Link:<a href="https://www.facebook.com/groups/983759965442123/posts/1974041013080675/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/983759965442123/posts/1974041013080675/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Military Base Repeatedly Swarmed By Unidentified...&quot;Close Encounters At Langley&quot;: US Military Base Repeatedly Swarmed By Unidentified...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cheyennecity.org  
-   Link: <a href="https://www.cheyennecity.org/Home" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyennecity.org/Home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home – City of CheyennePay online, Licenses and Permits, Bids and Proposals, Sanitation Council, Agendas and Minutes, Public Meeting, Zoo...</p></details>
+   Link:<a href="https://www.cheyennecity.org/Home" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyennecity.org/Home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home – City of CheyennePay online, Licenses and Permits, Bids and Proposals, Sanitation Council, Agendas and Minutes, Public Meeting, Zoo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Why are most UFO sightings closer to Area 51? · Is raiding Area 51 to find aliens...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Why are most UFO sightings closer to Area 51? · Is raiding Area 51 to find aliens...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: onlyinyourstate.com  
-   Link: <a href="https://www.onlyinyourstate.com/experiences/colorado/area-51-co" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/experiences/colorado/area-51-co</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t also aliens, with some Cheyenne Mountain conspiracy theorists claiming that...Read more...</p></details>
+   Link:<a href="https://www.onlyinyourstate.com/experiences/colorado/area-51-co" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/experiences/colorado/area-51-co</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t also aliens, with some Cheyenne Mountain conspiracy theorists claiming that...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greece, 2024 Most UFO cases can be linked to foreign spy technology, plus...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greece, 2024 Most UFO cases can be linked to foreign spy technology, plus...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplainable soldier deaths at Cheyenne mountain.They died from an obvious combat situation, but they aren&#x27;t supposed to be in combat...</p></details>
+   Link:<a href="https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplainable soldier deaths at Cheyenne mountain.They died from an obvious combat situation, but they aren&#x27;t supposed to be in combat...</p></details>

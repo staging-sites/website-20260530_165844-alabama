@@ -268,23 +268,23 @@ image: /assets/images/Louisiana_b158e0_haynesville_traces_cdce34-overview-social
 
 ## Introduction
 
-The **Haynesville incident** on the night of **30 December 1966** is Louisianas most discussed UFO episode because it allegedly left behind **physical traces** burned tree bark in an isolated forest clearing not just a fleeting light in the sky. What makes this case distinct in the states UFO history is that the primary witness was a trained scientist, the event was documented by official investigations, and later researchers have disputed how to interpret the environmental evidence. Yet, nearly six decades later, the physical traces remain controversial: do they signify a truly unexplained phenomenon, or are they ambiguous evidence open to mundane explanations? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
+The **Haynesville incident** on the night of **30 December 1966** is Louisianas most discussed UFO episode because it allegedly left behind **physical traces** burned tree bark in an isolated forest clearing not just a fleeting light in the sky. What makes this case distinct in the states UFO history is that the primary witness was a trained scientist, the event was documented by official investigations, and later researchers have disputed how to interpret the environmental evidence. Yet, nearly six decades later, the physical traces remain controversial: do they signify a truly unexplained phenomenon, or are they ambiguous evidence open to mundane explanations?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
 <img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-overview.webp" | relative_url }}" alt="Overview image for Haynesville" loading="eager" decoding="sync" fetchpriority="high">
 ## What Galloway and the Air Force Recorded in 1966
 
-On **30 December 1966**, **Dr Louie A. Galloway**, then a 31yearold atomic physics professor at Centenary College in Shreveport, Louisiana, was driving with his wife and two young children along Highway79 near Haynesville when they saw a **bright, luminous object near ground level** in a wooded area during fog and light drizzle. According to later summaries, the glow changed from reddishorange to intensely white, washing out the cars headlights and illuminating the surrounding woods; Galloway had to shield his eyes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovniologia.com.br">[Ovniologia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovniologia.com.br</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+On **30 December 1966**, **Dr Louie A. Galloway**, then a 31yearold atomic physics professor at Centenary College in Shreveport, Louisiana, was driving with his wife and two young children along Highway79 near Haynesville when they saw a **bright, luminous object near ground level** in a wooded area during fog and light drizzle. According to later summaries, the glow changed from reddishorange to intensely white, washing out the cars headlights and illuminating the surrounding woods; Galloway had to shield his eyes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovniologia.com.br">[Ovniologia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovniologia.com.br</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Galloway reported the incident to **Project Blue Book**, the U.S. Air Forces UFO investigation program, and the case was later reviewed by the University of Colorados **Condon Committee**, a scientific study of UFO reports commissioned by the Air Force. The Condon Report acknowledges the sighting of a pulsating light in the field teams field studies chapter but describes the source as **unidentified** and records that no definitive explanation was found at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case38.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 38: Spurious sightings, amateur UFO researchers</span><span class="citation-popover-snippet">Condon Report, Case 38: Spurious sightings, amateur UFO researchers</span></span></span>
+Galloway reported the incident to **Project Blue Book**, the U.S. Air Forces UFO investigation program, and the case was later reviewed by the University of Colorados **Condon Committee**, a scientific study of UFO reports commissioned by the Air Force. The Condon Report acknowledges the sighting of a pulsating light in the field teams field studies chapter but describes the source as **unidentified** and records that no definitive explanation was found at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case38.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 38: Spurious sightings, amateur UFO researchers</span><span class="citation-popover-snippet">Condon Report, Case 38: Spurious sightings, amateur UFO researchers</span></span></span>
 
 <img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-dark.svg" | relative_url }}" alt="Haynesville illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tree Damage, Energy Estimates, and Later Reviews
 
-Unlike many UFO sightings that involve only visual reports, the Haynesville case gained traction among researchers because of **alleged physical traces** discovered after the event. Galloway and a colleague, Professor John Williams, returned to the supposed site sometime after the original investigation and identified a **clearing about nine metres across** where the **bark of trees at the periphery was blackened toward the centre**. This was interpreted by those investigators as resulting from exposure to an intense light source rather than ordinary heat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
+Unlike many UFO sightings that involve only visual reports, the Haynesville case gained traction among researchers because of **alleged physical traces** discovered after the event. Galloway and a colleague, Professor John Williams, returned to the supposed site sometime after the original investigation and identified a **clearing about nine metres across** where the **bark of trees at the periphery was blackened toward the centre**. This was interpreted by those investigators as resulting from exposure to an intense light source rather than ordinary heat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-In the 1969 Condon Report, the Haynesville case was included among the incidents with **site data, infrared photographs, and meteorological information**, but the original team was unable to immediately locate these traces and the report did not deeply analyse them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Condon Report Section III, Chapter 1: Field Studies</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 1: Field Studies</span></span></span>
+In the 1969 Condon Report, the Haynesville case was included among the incidents with **site data, infrared photographs, and meteorological information**, but the original team was unable to immediately locate these traces and the report did not deeply analyse them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Condon Report Section III, Chapter 1: Field Studies</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 1: Field Studies</span></span></span>
 
-Decades later, a **2025 peerreviewed study** in *Progress in Aerospace Sciences* revisited the case with modern tools. Researchers including **Jacques F. Valle, Luc Dini, and Geoffrey Mestchersky** analysed the tree damage, used thermal modelling, and estimated that the light sources **radiated energy could have been between roughly 500 and 1,400 megawatts** an amount comparable to the output of a small nuclear power plant. They also reported that **burned bark samples** showed different characteristics from unaffected wood when analysed in laboratory settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
+Decades later, a **2025 peerreviewed study** in *Progress in Aerospace Sciences* revisited the case with modern tools. Researchers including **Jacques F. Valle, Luc Dini, and Geoffrey Mestchersky** analysed the tree damage, used thermal modelling, and estimated that the light sources **radiated energy could have been between roughly 500 and 1,400 megawatts** an amount comparable to the output of a small nuclear power plant. They also reported that **burned bark samples** showed different characteristics from unaffected wood when analysed in laboratory settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
 Such physical measurements are rare in UFO reports and place the Haynesville case among a small subgroup of incidents that seem to go beyond eyewitness testimony to include **environmental effects**.
 
@@ -296,9 +296,9 @@ Such physical measurements are rare in UFO reports and place the Haynesville cas
 
 Despite the unusual details and scientific interest, this case remains **unresolved, not confirmed as anything extraordinary**. Several factors temper claims that the traces unambiguously prove an anomalous craft:
 
-* **Official scepticism and limited original data**: The Condon Committees treatment of the 1966 sighting in its field studies acknowledged the report and atmospheric observations but stopped short of endorsing any extraordinary explanation. It simply classified the case as unidentified due to insufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Scientific Study of Unidentified Flying Objects</span><span class="citation-popover-snippet">The Condon ReportSCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS THE CONDON REPORT &gt; TABLE OF CONTENTS &#124; &#124; LETTER OF TRANSMITTAL &#124; iii PR...</span></span></span>
-* **Ambiguity of physical traces**: Tree bark and burn marks can be caused by various natural and environmental processes. For example, in other reported cases of alleged UFO physical effects, damage to vegetation or clearings has sometimes been attributed to terrestrial causes such as weather events, insect infestations, or even past human activity rather than an aerial object. Analyses of physical trace claims from other 1960s reports often highlight the difficulty of distinguishing anomalous effects from ordinary ecological or meteorological damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Introduction 1. Markings Allegedly Made By UFOs 2. Material Allegedly Deposited by UFOs 3. Parts of UFOs, or UFO Equipment 4. Conclusion...</span></span></span>
-* **Lack of contemporaneous documentation**: The most detailed discussion of the tree damage and energy estimates comes from retrospective analysis rather than direct contemporaneous Blue Book documentation. While later scientific work attempts to incorporate and reinterpret the original records, the absence of preserved original samples, detailed site photographs from 1967, or additional sensor data (radar, spectroscopy) means the case cannot be reevaluated with the full suite of modern forensic tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
+* **Official scepticism and limited original data**: The Condon Committees treatment of the 1966 sighting in its field studies acknowledged the report and atmospheric observations but stopped short of endorsing any extraordinary explanation. It simply classified the case as unidentified due to insufficient data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Scientific Study of Unidentified Flying Objects</span><span class="citation-popover-snippet">The Condon ReportSCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS THE CONDON REPORT &gt; TABLE OF CONTENTS &#124; &#124; LETTER OF TRANSMITTAL &#124; iii PR...</span></span></span>
+* **Ambiguity of physical traces**: Tree bark and burn marks can be caused by various natural and environmental processes. For example, in other reported cases of alleged UFO physical effects, damage to vegetation or clearings has sometimes been attributed to terrestrial causes such as weather events, insect infestations, or even past human activity rather than an aerial object. Analyses of physical trace claims from other 1960s reports often highlight the difficulty of distinguishing anomalous effects from ordinary ecological or meteorological damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Introduction 1. Markings Allegedly Made By UFOs 2. Material Allegedly Deposited by UFOs 3. Parts of UFOs, or UFO Equipment 4. Conclusion...</span></span></span>
+* **Lack of contemporaneous documentation**: The most detailed discussion of the tree damage and energy estimates comes from retrospective analysis rather than direct contemporaneous Blue Book documentation. While later scientific work attempts to incorporate and reinterpret the original records, the absence of preserved original samples, detailed site photographs from 1967, or additional sensor data (radar, spectroscopy) means the case cannot be reevaluated with the full suite of modern forensic tools.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
 For these reasons, the Haynesville incident stands as a **significant outlier** among Louisianas UFO reports interesting because of its intersection with physical evidence and scientific scrutiny but still **unresolved** in the sense that it lacks a conclusive explanation grounded in widely accepted, conventional science.
 
@@ -307,274 +307,274 @@ For these reasons, the Haynesville incident stands as a **significant outlier** 
 <img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-dark.svg" | relative_url }}" alt="Haynesville illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Place in Louisianas UFO History
 
-Within the broader context of UFO phenomena in Louisiana, the Haynesville case is valuable not because it proves anything definitive, but because it illustrates *why certain reports attract sustained interest*. It combines a trained observer, a fixed geographic setting, later documented physical traces, and the involvement of official investigations. Even though the physical traces remain disputed and plausible terrestrial explanations have not been ruled out this incident continues to draw analytical attention precisely because clear physical effects are so rare in the UFO record, especially at the state level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
+Within the broader context of UFO phenomena in Louisiana, the Haynesville case is valuable not because it proves anything definitive, but because it illustrates *why certain reports attract sustained interest*. It combines a trained observer, a fixed geographic setting, later documented physical traces, and the involvement of official investigations. Even though the physical traces remain disputed and plausible terrestrial explanations have not been ruled out this incident continues to draw analytical attention precisely because clear physical effects are so rare in the UFO record, especially at the state level.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2DjOl1EYgt0" title="History Lives - 1966: The Year UFOs Came to Michigan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2DjOl1EYgt0" target="_blank" rel="noopener noreferrer">History Lives - 1966: The Year UFOs Came to Michigan</a></p><p class="youtube-embed-meta">Channel: LivoniaTV &middot; Views: 6.7K &middot; Uploaded: November 2017 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2DjOl1EYgt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2DjOl1EYgt0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Haynesville Became Louisiana&#x27;s Hardest Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Haynesville Became Louisiana&#x27;s Hardest Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Strong match for Haynesville&#x27;s physical-evidence and trace claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for Haynesville&#x27;s physical-evidence and trace claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evidence evaluation and witness credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence evaluation and witness credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects Haynesville to wider official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects Haynesville to wider official UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting unusual encounter narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting unusual encounter narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haynesville-why-haynesville-became-louisiana-s-hardest-case-louisiana-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Within the broader context of UFO phenomena in Louisiana, the Haynesville case i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Within the broader context of UFO phenomena in Louisiana, the Haynesville case i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Within the broader context of UFO phenomena in Louisiana, the Haynesville case i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ Within the broader context of UFO phenomena in Louisiana, the Haynesville case i
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -730,125 +730,125 @@ Within the broader context of UFO phenomena in Louisiana, the Haynesville case i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000247</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000247</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.ncas.org  
    Title: Condon Report, Case 38: Spurious sightings, amateur UFO researchers  
-   Link: <a href="https://files.ncas.org/condon/text/case38.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case38.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/case38.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case38.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bibliotecapleyades.net  
    Title: Condon Report Section III, Chapter 1: Field Studies  
-   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm</a>  
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101098 ESTIMATES OF RADIATIVE ENERGY VALUES IN GROUND...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101098 ESTIMATES OF RADIATIVE ENERGY VALUES IN GROUND...</p></details>
    Published: June 1, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 1. Markings Allegedly Made By UFOs 2. Material Allegedly Deposited by UFOs 3. Parts of UFOs, or UFO Equipment 4. Conclusion...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 1. Markings Allegedly Made By UFOs 2. Material Allegedly Deposited by UFOs 3. Parts of UFOs, or UFO Equipment 4. Conclusion...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>44620-67-C-0035 With the United States Air Force Dr. Edward U. Condon, Scientific Director...</p></details>
+   Link:<a href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>44620-67-C-0035 With the United States Air Force Dr. Edward U. Condon, Scientific Director...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.ncas.org  
    Title: * * * | | LETTER OF TRANSMITTAL  
-   Link: <a href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/contents.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/contents.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Case 42: State Trooper SightingCASE 42 North Central Fall 1967 Investigators: Craig, Ahrens, staff * * * Abstract: A state troope...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Case 42: State Trooper SightingCASE 42 North Central Fall 1967 Investigators: Craig, Ahrens, staff * * * Abstract: A state troope...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bibliotecapleyades.net  
    Title: Scientific Study of Unidentified Flying Objects  
-   Link: <a href="https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon ReportSCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS THE CONDON REPORT &gt; TABLE OF CONTENTS | | LETTER OF TRANSMITTAL | iii PR...</p></details>
+   Link:<a href="https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon ReportSCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS THE CONDON REPORT &gt; TABLE OF CONTENTS | | LETTER OF TRANSMITTAL | iii PR...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bibliotecapleyades.net  
    Title: Condon Report, Section II  
-   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STUDY OF UFO PHOTOGRAPHS The popular UFO literature abounds with photographs of alleged strange objects in the sky, many of which are cle...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STUDY OF UFO PHOTOGRAPHS The popular UFO literature abounds with photographs of alleged strange objects in the sky, many of which are cle...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ovniologia.com.br  
-   Link: <a href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow">https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html</a>  
+   Link:<a href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow">https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ovnihoje.com  
-   Link: <a href="https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI Hoje!September 4, 2025 CONTINUAO INVESTIGAES E PROVAS FSICAS O Estudo Condon dedicou quase quatro pginas a uma anlise det...</p></details>
+   Link:<a href="https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI Hoje!September 4, 2025 CONTINUAO INVESTIGAES E PROVAS FSICAS O Estudo Condon dedicou quase quatro pginas a uma anlise det...</p></details>
    Published: September 4, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bentwaters56condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bentwaters56condon.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: the Bentwater 1956 radar, ground, air, and visual case - The Condon Report1956: RADAR/VISUAL JET CHASE OVER BENTWATE...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/bentwaters56condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bentwaters56condon.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: the Bentwater 1956 radar, ground, air, and visual case - The Condon Report1956: RADAR/VISUAL JET CHASE OVER BENTWATE...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thinkaboutitdocs.com  
    Title: april 23 1966 cigar shaped object lands in yorktown iowa  
-   Link: <a href="https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Yorktown Iowa UFO Landing: Cigar-Shaped Craft &amp; Physical TracesOctober 24, 2012 1966: CIGAR-SHAPED OBJECT LANDS IN YORKTOWN, IOWA...</p></details>
+   Link:<a href="https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Yorktown Iowa UFO Landing: Cigar-Shaped Craft &amp; Physical TracesOctober 24, 2012 1966: CIGAR-SHAPED OBJECT LANDS IN YORKTOWN, IOWA...</p></details>
    Published: October 24, 2012  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thinkaboutitdocs.com  
    Title: 1966 burn marks and holes found after ufo seen  
-   Link: <a href="https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Gwinner North Dakota UFO: Physical Trace &amp; Burn Marks FoundApril 8, 2013 1966: BURN MARKS AND HOLES FOUND AFTER UFO SEEN Orbman Ap...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Gwinner North Dakota UFO: Physical Trace &amp; Burn Marks FoundApril 8, 2013 1966: BURN MARKS AND HOLES FOUND AFTER UFO SEEN Orbman Ap...</p></details>
    Published: April 8, 2013  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufoinsight.com  
    Title: UF O Encounters And Physical Evidence  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters And Physical Evidence - UFO InsightApril 11, 2020 UFO ENCOUNTERS AND PHYSICAL EVIDENCE By Marcus Lowth Image: Published...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters And Physical Evidence - UFO InsightApril 11, 2020 UFO ENCOUNTERS AND PHYSICAL EVIDENCE By Marcus Lowth Image: Published...</p></details>
    Published: April 11, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bentley.umich.edu  
    Title: flying saucers and swamp gas  
-   Link: <a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers and Swamp Gas | Bentley Historical LibraryMAGAZINE Image: Drawing of a UFO by Washtenaw County law enforcement in 1966 FLYING SAU...</p></details>
+   Link:<a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers and Swamp Gas | Bentley Historical LibraryMAGAZINE Image: Drawing of a UFO by Washtenaw County law enforcement in 1966 FLYING SAU...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thinkaboutitdocs.com  
    Title: Day/Night: Day Location: N  
-   Link: <a href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1966: The Tully Saucer NestApril 8, 2013 1966: THE TULLY SAUCER NEST Orbman April 8, 2013 49 minutes read Image: Tully Nest THINK ABOUT...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966: The Tully Saucer NestApril 8, 2013 1966: THE TULLY SAUCER NEST Orbman April 8, 2013 49 minutes read Image: Tully Nest THINK ABOUT...</p></details>
    Published: April 8, 2013  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
    Title: Physical Traces Associated With UFO Sightings  
-   Link: <a href="https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2. RINGS circular traces, burned depressed or dehydrated; the outer perimeter shows damage while th...</p></details>
+   Link:<a href="https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2. RINGS circular traces, burned depressed or dehydrated; the outer perimeter shows damage while th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thinkaboutitdocs.com  
    Title: 1966 ufo encountered photographed  
-   Link: <a href="https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Roaring River Missouri UFO: Disc Photographed Over CampsiteApril 8, 2013 1966: UFO ENCOUNTERED, PHOTOGRAPHED...</p></details>
+   Link:<a href="https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Roaring River Missouri UFO: Disc Photographed Over CampsiteApril 8, 2013 1966: UFO ENCOUNTERED, PHOTOGRAPHED...</p></details>
    Published: April 8, 2013  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thinkaboutitdocs.com  
    Title: Day/Night: Nig  
-   Link: <a href="https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1966: The Michigan Sightings / &#x27;Swamp Gas&#x27; CaseAugust 27, 2013 1966: THE MICHIGAN SIGHTINGS / SWAMP GAS CASE Orbman August 27, 2013 1...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966: The Michigan Sightings / &#x27;Swamp Gas&#x27; CaseAugust 27, 2013 1966: THE MICHIGAN SIGHTINGS / SWAMP GAS CASE Orbman August 27, 2013 1...</p></details>
    Published: August 27, 2013

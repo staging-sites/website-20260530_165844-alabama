@@ -250,20 +250,20 @@ image: /assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_unknow
 
 ## Introduction
 
-The central mystery of the Langley drone incursions is not whether something entered restricted airspace. Pentagon officials, Air Force representatives and later reporting all confirmed that unauthorised drones were detected around Langley Air Force Base in Virginia during December 2023. The unresolved question is much narrower and more important: who was operating them, where they were launched from, and what their purpose was. Public reporting has established the incursions themselves, but not the identity of the operators. The War Zone <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — Ten months after multiple drones flew over Langley Air Force Base in Virginia for more than two wee...</span></span></span>
+The central mystery of the Langley drone incursions is not whether something entered restricted airspace. Pentagon officials, Air Force representatives and later reporting all confirmed that unauthorised drones were detected around Langley Air Force Base in Virginia during December 2023. The unresolved question is much narrower and more important: who was operating them, where they were launched from, and what their purpose was. Public reporting has established the incursions themselves, but not the identity of the operators. The War Zone<span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — Ten months after multiple drones flew over Langley Air Force Base in Virginia for more than two wee...</span></span></span>
 
 <img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_unknown_oper_fa2dde-Illustration-1-dark.svg" | relative_url }}" alt="Unknown Operators illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_unknown_oper_fa2dde-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_unknown_oper_fa2dde-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That gap has fuelled speculation, including UFO-related interpretations. Yet the available evidence points to a different conclusion. The mystery is real, but the mystery is attribution. Officials have repeatedly described unidentified drones or unmanned aerial systems, not unknown physics or clearly anomalous craft. The strongest public evidence suggests a difficult counter-drone and intelligence problem rather than proof of anything exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whro.org">[WHRO Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whro.org</span><span class="citation-popover-title">the pentagon confirmed a swarm of drones violated langley airspace</span><span class="citation-popover-snippet">WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</span></span></span>
+That gap has fuelled speculation, including UFO-related interpretations. Yet the available evidence points to a different conclusion. The mystery is real, but the mystery is attribution. Officials have repeatedly described unidentified drones or unmanned aerial systems, not unknown physics or clearly anomalous craft. The strongest public evidence suggests a difficult counter-drone and intelligence problem rather than proof of anything exotic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whro.org">[WHRO Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whro.org</span><span class="citation-popover-title">the pentagon confirmed a swarm of drones violated langley airspace</span><span class="citation-popover-snippet">WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</span></span></span>
 
 ## What public officials have confirmed
 
 The most significant point is that officials have publicly acknowledged both the incursions and the lack of a public identification.
 
-Air Force statements reported by *The War Zone* confirmed that unauthorised drone activity occurred around Langley in December 2023, with the number, size and configuration of the systems varying over time. Officials also stated that the drones did not appear to display overtly hostile behaviour, although any unauthorised aircraft in restricted airspace posed a safety and security concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+Air Force statements reported by *The War Zone* confirmed that unauthorised drone activity occurred around Langley in December 2023, with the number, size and configuration of the systems varying over time. Officials also stated that the drones did not appear to display overtly hostile behaviour, although any unauthorised aircraft in restricted airspace posed a safety and security concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
-Pentagon spokesperson Sabrina Singh later confirmed that Langley experienced multiple unauthorised unmanned aerial system incursions and stated that the military was still assessing who controlled them. Importantly, the Pentagon did not announce an identified country, organisation or individual operator. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whro.org">[WHRO Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whro.org</span><span class="citation-popover-title">the pentagon confirmed a swarm of drones violated langley airspace</span><span class="citation-popover-snippet">WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</span></span></span>
+Pentagon spokesperson Sabrina Singh later confirmed that Langley experienced multiple unauthorised unmanned aerial system incursions and stated that the military was still assessing who controlled them. Importantly, the Pentagon did not announce an identified country, organisation or individual operator.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whro.org">[WHRO Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whro.org</span><span class="citation-popover-title">the pentagon confirmed a swarm of drones violated langley airspace</span><span class="citation-popover-snippet">WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</span></span></span>
 
-Reporting in *The Wall Street Journal*, later echoed by other outlets, described how military and federal agencies spent months examining the incidents without publicly identifying a source. Even ten months after the events, reporting indicated that officials still lacked a definitive answer about where the drones came from. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Mystery Drones Swarmed a U.S</span><span class="citation-popover-snippet">Military Base for 17 Days....12 Oct 2024 — U.S. officials confirmed this month that more unidentified drone swarms were spotted in recen...</span></span></span>
+Reporting in *The Wall Street Journal*, later echoed by other outlets, described how military and federal agencies spent months examining the incidents without publicly identifying a source. Even ten months after the events, reporting indicated that officials still lacked a definitive answer about where the drones came from.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Mystery Drones Swarmed a U.S</span><span class="citation-popover-snippet">Military Base for 17 Days....12 Oct 2024 — U.S. officials confirmed this month that more unidentified drone swarms were spotted in recen...</span></span></span>
 
 This distinction matters. The case is unresolved because attribution remains incomplete, not because officials confirmed anything extraordinary.
 
@@ -275,13 +275,13 @@ This distinction matters. The case is unresolved because attribution remains inc
 
 One of the most obvious unanswered questions is where the drones originated.
 
-A drone can often be traced through its launch location, recovery location, radio-control link, telemetry data, onboard electronics or operator behaviour. In the Langley case, none of those forms of evidence have been publicly released. Officials have not announced arrests, identified a launch team or disclosed a recovered aircraft linked to the incursions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — Ten months after multiple drones flew over Langley Air Force Base in Virginia for more than two wee...</span></span></span>
+A drone can often be traced through its launch location, recovery location, radio-control link, telemetry data, onboard electronics or operator behaviour. In the Langley case, none of those forms of evidence have been publicly released. Officials have not announced arrests, identified a launch team or disclosed a recovered aircraft linked to the incursions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">Task &amp; Purpose Drones swarmed an air base for days</span><span class="citation-popover-snippet">They&#x27;re still a mystery.14 Oct 2024 — Ten months after multiple drones flew over Langley Air Force Base in Virginia for more than two wee...</span></span></span>
 
 That absence does not necessarily mean investigators found nothing. Sensitive military investigations often keep technical findings classified. However, from the public's perspective, there is still no confirmed operator.
 
 ### No public technical identification
 
-Reports suggested that some of the drones did not appear to be using ordinary commercial frequencies and that investigators did not immediately regard them as routine hobbyist aircraft. Those reports helped explain why the incidents drew attention from senior defence officials. Yet no public technical assessment identifying a manufacturer, control system or operator has been released. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/pentagon-confirms-incursions-unauthorized-drones-193807572.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">pentagon confirms incursions unauthorized drones 193807572</span><span class="citation-popover-snippet">The drones last visited the...Read more...</span></span></span>
+Reports suggested that some of the drones did not appear to be using ordinary commercial frequencies and that investigators did not immediately regard them as routine hobbyist aircraft. Those reports helped explain why the incidents drew attention from senior defence officials. Yet no public technical assessment identifying a manufacturer, control system or operator has been released.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/pentagon-confirms-incursions-unauthorized-drones-193807572.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">pentagon confirms incursions unauthorized drones 193807572</span><span class="citation-popover-snippet">The drones last visited the...Read more...</span></span></span>
 
 Without that information, outside observers cannot independently determine whether the systems were commercial drones, modified platforms, government-operated aircraft, foreign surveillance assets or something else.
 
@@ -289,7 +289,7 @@ Without that information, outside observers cannot independently determine wheth
 
 Speculation quickly turned toward possible espionage by China, Russia or another foreign state because Langley hosts highly sensitive military assets, including F-22 Raptor fighters.
 
-However, public officials have not announced evidence linking the incursions to a foreign government. Media reports have noted that some officials considered foreign surveillance a possibility, but no public attribution has followed. That leaves a significant gap between suspicion and demonstrated responsibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
+However, public officials have not announced evidence linking the incursions to a foreign government. Media reports have noted that some officials considered foreign surveillance a possibility, but no public attribution has followed. That leaves a significant gap between suspicion and demonstrated responsibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
 
 In intelligence and security investigations, that distinction is critical. A plausible theory is not the same thing as an established conclusion.
 
@@ -298,9 +298,9 @@ In intelligence and security investigations, that distinction is critical. A pla
 
 The Langley case exposed a broader problem that extends beyond Virginia.
 
-Small unmanned aircraft can be difficult to track, especially when they operate at night, move between jurisdictions or use pre-programmed flight paths. Even when military personnel can observe a drone visually, tracing it back to an operator may require electronic signatures, radio-frequency detection, radar coverage and physical recovery of the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+Small unmanned aircraft can be difficult to track, especially when they operate at night, move between jurisdictions or use pre-programmed flight paths. Even when military personnel can observe a drone visually, tracing it back to an operator may require electronic signatures, radio-frequency detection, radar coverage and physical recovery of the aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
-The challenge becomes greater near populated areas. Joint Base Langley-Eustis sits in a region with civilian air traffic, urban development, waterways and complex radio-frequency environments. Investigators may face practical limits on what counter-drone measures they can use without creating risks for nearby aircraft or civilians. Reporting on the Langley incidents repeatedly highlighted legal and operational constraints on shooting down or jamming drones in domestic airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Why the US Military Can&#x27;t Just Shoot Down the Mystery Drones</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
+The challenge becomes greater near populated areas. Joint Base Langley-Eustis sits in a region with civilian air traffic, urban development, waterways and complex radio-frequency environments. Investigators may face practical limits on what counter-drone measures they can use without creating risks for nearby aircraft or civilians. Reporting on the Langley incidents repeatedly highlighted legal and operational constraints on shooting down or jamming drones in domestic airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Why the US Military Can&#x27;t Just Shoot Down the Mystery Drones</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post UFO drones are surveilling America&#x27;s most sensitive military sites</span><span class="citation-popover-snippet">The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</span></span></span>
 
 The result is a situation that can seem counter-intuitive to the public: military personnel may know that drones are present, may track their movements for days, and still be unable to publicly identify the operators.
 
@@ -310,9 +310,9 @@ The result is a situation that can seem counter-intuitive to the public: militar
 
 One reason the Langley story entered broader UFO discussions is that it contains a familiar element: something observed repeatedly in sensitive airspace that remained unidentified.
 
-Historically, many Virginia UFO cases began in a similar way. Witnesses reported unusual objects, authorities lacked an immediate explanation, and speculation expanded into the gap created by uncertainty. The Langley incidents fit that pattern structurally, even though the reported objects were generally described as drones rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+Historically, many Virginia UFO cases began in a similar way. Witnesses reported unusual objects, authorities lacked an immediate explanation, and speculation expanded into the gap created by uncertainty. The Langley incidents fit that pattern structurally, even though the reported objects were generally described as drones rather than unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
-What makes the case unusual is that the uncertainty persisted despite extensive government attention. Reporting indicated that multiple agencies became involved, including defence officials, federal investigators and specialists associated with unidentified-object investigations. The involvement of such agencies confirmed the seriousness of the security concern, but it did not produce a public identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+What makes the case unusual is that the uncertainty persisted despite extensive government attention. Reporting indicated that multiple agencies became involved, including defence officials, federal investigators and specialists associated with unidentified-object investigations. The involvement of such agencies confirmed the seriousness of the security concern, but it did not produce a public identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
 For many readers, that unresolved status can feel similar to older UFO mysteries. Yet the available evidence points toward a surveillance, security or counter-drone question rather than an unexplained aerospace phenomenon.
 
@@ -329,203 +329,203 @@ Several ordinary possibilities remain compatible with the public record:
 * Investigators may know more than they have disclosed publicly.
 * Evidence may be insufficient for a confident attribution.
 * The drones may have been operated in a way that complicated tracking and recovery.
-* Relevant information may remain classified because it concerns surveillance methods, military vulnerabilities or intelligence collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
+* Relevant information may remain classified because it concerns surveillance methods, military vulnerabilities or intelligence collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span>
 
 None of those possibilities require an exotic explanation. At the same time, none fully resolve the mystery for the public.
 
-That balance is what makes the Langley case notable within Virginia's modern UFO and UAP history. The existence of the incursions is confirmed. The concern from military officials is confirmed. The identity of the operators remains publicly unknown. The unresolved element is therefore not what was seen, but who was behind it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whro.org">[WHRO Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whro.org</span><span class="citation-popover-title">the pentagon confirmed a swarm of drones violated langley airspace</span><span class="citation-popover-snippet">WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</span></span></span>
+That balance is what makes the Langley case notable within Virginia's modern UFO and UAP history. The existence of the incursions is confirmed. The concern from military officials is confirmed. The identity of the operators remains publicly unknown. The unresolved element is therefore not what was seen, but who was behind it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whro.org">[WHRO Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whro.org</span><span class="citation-popover-title">the pentagon confirmed a swarm of drones violated langley airspace</span><span class="citation-popover-snippet">WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</span></span></span>
 
 <img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_unknown_oper_fa2dde-Illustration-3-dark.svg" | relative_url }}" alt="Unknown Operators illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_unknown_oper_fa2dde-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06_langley_unknown_oper_fa2dde-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who was flying the Langley drones?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who was flying the Langley drones?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
-        </h4>
-        <p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
+</h4>
+<p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
         
-        <p class="fr-book-desc">Provides insight into how drone operators can remain difficult to identify.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how drone operators can remain difficult to identify.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible official reporting rather than speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible official reporting rather than speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Examines attribution challenges in sensitive military cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines attribution challenges in sensitive military cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Puzzle Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaS5hG8TiEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Puzzle Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Puzzle Palace">The Puzzle Palace</a>
-        </h4>
-        <p class="fr-book-author">By James Bamford</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Adds context to attribution and intelligence-gathering problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Puzzle Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaS5hG8TiEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Puzzle Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Puzzle Palace">The Puzzle Palace</a>
+</h4>
+<p class="fr-book-author">By James Bamford</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Adds context to attribution and intelligence-gathering problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warrior</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warrior</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children"><img src="https://i.ebayimg.com/images/g/CjkAAeSwzkBpBQDU/s-l225.jpg" alt="Listing image for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children"><img src="https://i.ebayimg.com/images/g/CjkAAeSwzkBpBQDU/s-l225.jpg" alt="Listing image for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256"><img src="https://i.ebayimg.com/images/g/wXMAAeSw7OVoSqQB/s-l225.jpg" alt="Listing image for Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256"><img src="https://i.ebayimg.com/images/g/wXMAAeSw7OVoSqQB/s-l225.jpg" alt="Listing image for Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)"><img src="https://i.ebayimg.com/images/g/BTsAAeSwMD1n-6x4/s-l225.jpg" alt="Listing image for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)"><img src="https://i.ebayimg.com/images/g/BTsAAeSwMD1n-6x4/s-l225.jpg" alt="Listing image for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="https://i.ebayimg.com/images/g/iQIAAOSwqSZm7mOi/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="https://i.ebayimg.com/images/g/iQIAAOSwqSZm7mOi/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-flying-the-langley-drones-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="who-was-flying-the-langley-drones-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ That balance is what makes the Langley case notable within Virginia's modern UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ That balance is what makes the Langley case notable within Virginia's modern UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ That balance is what makes the Langley case notable within Virginia's modern UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ That balance is what makes the Langley case notable within Virginia's modern UFO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ That balance is what makes the Langley case notable within Virginia's modern UFO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,114 +731,114 @@ That balance is what makes the Langley case notable within Virginia's modern UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: whro.org  
    Title: the pentagon confirmed a swarm of drones violated langley airspace  
-   Link: <a href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</p></details>
+   Link:<a href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHRO Public MediaThe Pentagon confirmed a swarm of drones violated...15 Oct 2024 — The Pentagon confirmed Tuesday that drones were spott...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aol.com  
    Title: pentagon confirms incursions unauthorized drones 193807572  
-   Link: <a href="https://www.aol.com/pentagon-confirms-incursions-unauthorized-drones-193807572.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/pentagon-confirms-incursions-unauthorized-drones-193807572.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The drones last visited the...Read more...</p></details>
+   Link:<a href="https://www.aol.com/pentagon-confirms-incursions-unauthorized-drones-193807572.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/pentagon-confirms-incursions-unauthorized-drones-193807572.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The drones last visited the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: Why the US Military Can't Just Shoot Down the Mystery Drones  
-   Link: <a href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/us-military-mystery-drones-response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</p></details>
+   Link:<a href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/us-military-mystery-drones-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: twz.com  
    Title: mysterious drones swarmed langley afb for weeks  
-   Link: <a href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</p></details>
+   Link:<a href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneMysterious Drones Swarmed Langley AFB For Weeks15 Mar 2024 — The US Air Force has confirmed a spate of drone incursions occur...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: taskandpurpose.com  
    Title: Task & Purpose Drones swarmed an air base for days  
-   Link: <a href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/mystery-drones-langley-afb/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re still a mystery.14 Oct 2024 — Ten months after multiple drones flew over Langley Air Force Base in Virginia for more than two wee...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/mystery-drones-langley-afb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re still a mystery.14 Oct 2024 — Ten months after multiple drones flew over Langley Air Force Base in Virginia for more than two wee...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: twz.com  
    Title: heres what norads commander just told us about the langley afb drone incursions  
-   Link: <a href="https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHere&#x27;s What NORAD&#x27;s Commander Just Told Us About The...29 Oct 2024 — December&#x27;s rash of mysterious drone flights over Langle...</p></details>
+   Link:<a href="https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHere&#x27;s What NORAD&#x27;s Commander Just Told Us About The...29 Oct 2024 — December&#x27;s rash of mysterious drone flights over Langle...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Mystery Drones Swarmed a U.S  
-   Link: <a href="https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Base for 17 Days....12 Oct 2024 — U.S. officials confirmed this month that more unidentified drone swarms were spotted in recen...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Base for 17 Days....12 Oct 2024 — U.S. officials confirmed this month that more unidentified drone swarms were spotted in recen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nypost.com  
    Title: New York Post UFO drones are surveilling America's most sensitive military sites  
-   Link: <a href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</p></details>
+   Link:<a href="https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/13/us-news/drones-are-surveilling-americas-most-sensitive-military-sites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon admitted its inability to prevent such intrusions due to legal restrictions against shooting down drones and potential risks...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: x.com  
-   Link: <a href="https://x.com/sentdefender/status/1768825722590638551" target="_blank" rel="noopener noreferrer nofollow">https://x.com/sentdefender/status/1768825722590638551</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Officials with the U.S. Air Force have now stated that the...Following several Reports in December of 2023 of Unidentified Drones being...</p></details>
+   Link:<a href="https://x.com/sentdefender/status/1768825722590638551" target="_blank" rel="noopener noreferrer nofollow">https://x.com/sentdefender/status/1768825722590638551</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Officials with the U.S. Air Force have now stated that the...Following several Reports in December of 2023 of Unidentified Drones being...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: in december 2023 unexplained drone swarms flew over langley air force base in ha  
-   Link: <a href="https://www.facebook.com/whropublicmedia/posts/in-december-2023-unexplained-drone-swarms-flew-over-langley-air-force-base-in-ha/1195410155964514/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whropublicmedia/posts/in-december-2023-unexplained-drone-swarms-flew-over-langley-air-force-base-in-ha/1195410155964514/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 2023, unexplained drone swarms flew over...In December 2023, unexplained drone swarms flew over Langley Air Force Base in Ha...</p></details>
+   Link:<a href="https://www.facebook.com/whropublicmedia/posts/in-december-2023-unexplained-drone-swarms-flew-over-langley-air-force-base-in-ha/1195410155964514/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whropublicmedia/posts/in-december-2023-unexplained-drone-swarms-flew-over-langley-air-force-base-in-ha/1195410155964514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December 2023, unexplained drone swarms flew over...In December 2023, unexplained drone swarms flew over Langley Air Force Base in Ha...</p></details>
    Published: december 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: defensescoop.com  
    Title: us uk jointly tracking mysterious drone incursions near england military bases  
-   Link: <a href="https://defensescoop.com/2024/11/26/us-uk-jointly-tracking-mysterious-drone-incursions-near-england-military-bases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/26/us-uk-jointly-tracking-mysterious-drone-incursions-near-england-military-bases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US, UK jointly tracking mysterious drone incursions near...26 Nov 2024 — Spokespersons from the U.K.&#x27;s Ministry of Defence on Tuesday di...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/26/us-uk-jointly-tracking-mysterious-drone-incursions-near-england-military-bases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/26/us-uk-jointly-tracking-mysterious-drone-incursions-near-england-military-bases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US, UK jointly tracking mysterious drone incursions near...26 Nov 2024 — Spokespersons from the U.K.&#x27;s Ministry of Defence on Tuesday di...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Base for 17 Days. The Pentagon Is Stumped. U.S. officials don&#x27;t know who is behind the drones that have...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Base for 17 Days. The Pentagon Is Stumped. U.S. officials don&#x27;t know who is behind the drones that have...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=04BsJAeIWTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=04BsJAeIWTg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Unknown Drones Spotted Over 3 US Airbases in UK...LIVE: Unknown Drones Spotted Over 3 US Airbases in UK; Pentagon Says &#x27;Monitoring...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=04BsJAeIWTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=04BsJAeIWTg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: Unknown Drones Spotted Over 3 US Airbases in UK...LIVE: Unknown Drones Spotted Over 3 US Airbases in UK; Pentagon Says &#x27;Monitoring...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gpsworld.com  
    Title: unidentified uavs over langley air force base raise security concerns  
-   Link: <a href="https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified UAVs over Langley Air Force Base raise...15 Oct 2024 — The Wall Street Journal has reported mysterious UAVs spotted surveil...</p></details>
+   Link:<a href="https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.gpsworld.com/unidentified-uavs-over-langley-air-force-base-raise-security-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified UAVs over Langley Air Force Base raise...15 Oct 2024 — The Wall Street Journal has reported mysterious UAVs spotted surveil...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: breaking mystery drones over us mili try bases trigger lockdown  
-   Link: <a href="https://www.facebook.com/OfficialGulistanNews/posts/breaking-mystery-drones-over-us-mili_try-bases-trigger-lockdown/1334704021920331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialGulistanNews/posts/breaking-mystery-drones-over-us-mili_try-bases-trigger-lockdown/1334704021920331/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Drones Over US Mili_t@ry Bases Trigger LockdownIn December 2023, unidentified drones flew over Langley Air Force Base in Virginia...</p></details>
+   Link:<a href="https://www.facebook.com/OfficialGulistanNews/posts/breaking-mystery-drones-over-us-mili_try-bases-trigger-lockdown/1334704021920331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialGulistanNews/posts/breaking-mystery-drones-over-us-mili_try-bases-trigger-lockdown/1334704021920331/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Drones Over US Mili_t@ry Bases Trigger LockdownIn December 2023, unidentified drones flew over Langley Air Force Base in Virginia...</p></details>
    Published: December 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/anime_titties/comments/1g4fg9p/drones_swarmed_a_military_base_for_days_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/anime_titties/comments/1g4fg9p/drones_swarmed_a_military_base_for_days_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r more than two weeks, the Pentagon is still unsure where they came from...</p></details>
+   Link:<a href="https://www.reddit.com/r/anime_titties/comments/1g4fg9p/drones_swarmed_a_military_base_for_days_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/anime_titties/comments/1g4fg9p/drones_swarmed_a_military_base_for_days_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r more than two weeks, the Pentagon is still unsure where they came from...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfsnz3/mysterious_unidentified_drones_swarmed_langley/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfsnz3/mysterious_unidentified_drones_swarmed_langley/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ltitude jet called to help investigate · Comments Section.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bfsnz3/mysterious_unidentified_drones_swarmed_langley/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfsnz3/mysterious_unidentified_drones_swarmed_langley/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ltitude jet called to help investigate · Comments Section.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Base in Louisiana earlier this month, according to a new report...</p></details>
+   Link:<a href="https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Base in Louisiana earlier this month, according to a new report...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: globalnews.ca  
    Title: mysterious drones langley air force base  
-   Link: <a href="https://globalnews.ca/news/10812987/mysterious-drones-langley-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/10812987/mysterious-drones-langley-air-force-base/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones swarm air force base for 17 days, leaving...15 Oct 2024 — Top security officials in the US remain stumped after an unknow...</p></details>
+   Link:<a href="https://globalnews.ca/news/10812987/mysterious-drones-langley-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/10812987/mysterious-drones-langley-air-force-base/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones swarm air force base for 17 days, leaving...15 Oct 2024 — Top security officials in the US remain stumped after an unknow...</p></details>

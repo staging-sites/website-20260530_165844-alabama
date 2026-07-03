@@ -262,23 +262,23 @@ image: /assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a-overview-social.
 
 ## Introduction
 
-The **Alaska Triangle** is a modern folkloric label for a vast, remote region of Alaska drawn roughly between **Anchorage**, **Juneau** and **Utqiagvik** on the northern coast. Unlike officially recognised geographic regions, the term comes from popular narratives that mix high rates of missing‑person and lost aircraft cases with reports of unexplained aerial phenomena, including unidentified flying objects. The idea echoes the better‑known Bermuda Triangle myth but is rooted in Alaska’s extreme wilderness and sparse population rather than a formal investigation into anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKVanishing Point: Legends and Lore of the Alaska Triangle</span><span class="citation-popover-snippet">Discovery UKNovember 10, 2025...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
+The **Alaska Triangle** is a modern folkloric label for a vast, remote region of Alaska drawn roughly between **Anchorage**, **Juneau** and **Utqiagvik** on the northern coast. Unlike officially recognised geographic regions, the term comes from popular narratives that mix high rates of missing‑person and lost aircraft cases with reports of unexplained aerial phenomena, including unidentified flying objects. The idea echoes the better‑known Bermuda Triangle myth but is rooted in Alaska’s extreme wilderness and sparse population rather than a formal investigation into anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKVanishing Point: Legends and Lore of the Alaska Triangle</span><span class="citation-popover-snippet">Discovery UKNovember 10, 2025...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a-overview.webp" | relative_url }}" alt="Overview image for Triangle" loading="eager" decoding="sync" fetchpriority="high">
 ## Origins of the Alaska Triangle Narrative
 
-The very notion of an “Alaska Triangle” emerged in the latter 20th century largely through media, cable television episodes, and fringe writing drawing a geometric connection between three distant Alaskan communities. Accounts often start with the **1972 disappearance** of a small aircraft carrying U.S. House Majority Leader **Hale Boggs** and Congressman **Nick Begich** on a flight from Anchorage to Juneau; despite an extensive search, no trace of the plane or occupants was ever conclusively found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+The very notion of an “Alaska Triangle” emerged in the latter 20th century largely through media, cable television episodes, and fringe writing drawing a geometric connection between three distant Alaskan communities. Accounts often start with the **1972 disappearance** of a small aircraft carrying U.S. House Majority Leader **Hale Boggs** and Congressman **Nick Begich** on a flight from Anchorage to Juneau; despite an extensive search, no trace of the plane or occupants was ever conclusively found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
-From there, a loose story developed that the region’s vast, uninhabited terrain — mountains, glaciers and dense boreal forest — was the setting for a striking number of disappearances of hikers, hunters, small aircraft passengers and others. Some narratives repeat figures such as **“more than 20,000 people” having vanished within the Triangle since the 1970s**, though this aggregate usually conflates statewide missing‑persons tallies with events in and out of the loosely defined triangle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+From there, a loose story developed that the region’s vast, uninhabited terrain — mountains, glaciers and dense boreal forest — was the setting for a striking number of disappearances of hikers, hunters, small aircraft passengers and others. Some narratives repeat figures such as **“more than 20,000 people” having vanished within the Triangle since the 1970s**, though this aggregate usually conflates statewide missing‑persons tallies with events in and out of the loosely defined triangle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a-Illustration-1-dark.svg" | relative_url }}" alt="Triangle illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reported UFO Sightings and Patterns
 
 In UFO‑focused lore, the Alaska Triangle is sometimes presented as a **sighting cluster**, where observers have described unusual lights or craft in the sky. A few themes commonly recur in these accounts:
 
-* **Triangular or silent craft**: Some civilian and local reports describe objects that appear triangular or move without the sound and flight characteristics of known aircraft, often seen above sparsely populated areas within the Triangle’s broad boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
-* **Remoteness and visibility conditions**: Advocates of the UFO narrative argue that Alaska’s lengthy periods of darkness — especially in winter — combined with clear atmospheric visibility can make celestial and high‑altitude phenomena more noticeable, sometimes interpreted as unidentified craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
-* **Anecdotal reports by locals**: Various fringe and popular pieces include first‑hand testimony from residents or visitors who believe they saw inexplicable aerial objects. These are usually described in vague terms rather than rigorously documented, and there is no central database of verified sightings tied specifically to an “Alaska Triangle”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.conspiracy.news/2023-10-02-mysterious-alaska-triangle-20k-disappearances-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conspiracy.news">[Conspiracy News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conspiracy.news</span><span class="citation-popover-snippet">Mysterious “Alaska Triangle” linked to 20,000 disappearances and UFO sightingsOctober 2, 2023...</span><span class="citation-popover-meta">Published: October 2, 2023</span></span></span>
+* **Triangular or silent craft**: Some civilian and local reports describe objects that appear triangular or move without the sound and flight characteristics of known aircraft, often seen above sparsely populated areas within the Triangle’s broad boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+* **Remoteness and visibility conditions**: Advocates of the UFO narrative argue that Alaska’s lengthy periods of darkness — especially in winter — combined with clear atmospheric visibility can make celestial and high‑altitude phenomena more noticeable, sometimes interpreted as unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+* **Anecdotal reports by locals**: Various fringe and popular pieces include first‑hand testimony from residents or visitors who believe they saw inexplicable aerial objects. These are usually described in vague terms rather than rigorously documented, and there is no central database of verified sightings tied specifically to an “Alaska Triangle”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.conspiracy.news/2023-10-02-mysterious-alaska-triangle-20k-disappearances-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conspiracy.news">[Conspiracy News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conspiracy.news</span><span class="citation-popover-snippet">Mysterious “Alaska Triangle” linked to 20,000 disappearances and UFO sightingsOctober 2, 2023...</span><span class="citation-popover-meta">Published: October 2, 2023</span></span></span>
 
 It is important to note that mainstream scientific and aviation reporting does **not** recognise the Alaska Triangle as an official UFO hotspot, and many observers call such claims part of folklore rather than evidence‑based patterning. Official aviation or defence agencies do not publish categories of sightings tied to a triangular region, and most reported lights have plausible conventional explanations such as aircraft, satellites, atmospheric optics, or auroral activity.
 
@@ -288,11 +288,11 @@ It is important to note that mainstream scientific and aviation reporting does *
 
 Within popular narratives, the Alaska Triangle blends three broad elements:
 
-* **Disappearances**: The region does have many documented missing‑persons cases in total, but these are largely attributable to the inherent hazards of wilderness travel, severe weather, and limited search infrastructure rather than a recognised causal anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
-* **Folk legends and indigenous stories**: Indigenous Alaskan folklore includes figures such as the **Kushtaka** — a shape‑shifting creature said to lure travellers — which sometimes gets woven into Triangle mystery stories. These cultural narratives are interesting in their own right but are not evidence of extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
-* **Paranormal speculation**: Paranormal explanations, including UFO interference, magnetic “vortexes” or inter‑dimensional portals, appear in popular articles and TV shows. These ideas are speculative and not supported by systematic studies or scientific measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+* **Disappearances**: The region does have many documented missing‑persons cases in total, but these are largely attributable to the inherent hazards of wilderness travel, severe weather, and limited search infrastructure rather than a recognised causal anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+* **Folk legends and indigenous stories**: Indigenous Alaskan folklore includes figures such as the **Kushtaka** — a shape‑shifting creature said to lure travellers — which sometimes gets woven into Triangle mystery stories. These cultural narratives are interesting in their own right but are not evidence of extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+* **Paranormal speculation**: Paranormal explanations, including UFO interference, magnetic “vortexes” or inter‑dimensional portals, appear in popular articles and TV shows. These ideas are speculative and not supported by systematic studies or scientific measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKMystery at the Edge of the Map: Alaska UFOs</span><span class="citation-popover-snippet">Discovery UKMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
-The sheer size of the Triangle — covering hundreds of thousands of square kilometres of extreme terrain — means that many missing‑persons cases result in remains never being found, which fuels speculation. But geophysical hazards like deep snow, hidden crevasses, sudden storms, and wildlife are well‑documented contributors to accidents and loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+The sheer size of the Triangle — covering hundreds of thousands of square kilometres of extreme terrain — means that many missing‑persons cases result in remains never being found, which fuels speculation. But geophysical hazards like deep snow, hidden crevasses, sudden storms, and wildlife are well‑documented contributors to accidents and loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K33UIjtBwes" title="Government Whistleblower Exposes The Alaskan Black Pyramid | Aliens In Alaska" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K33UIjtBwes" target="_blank" rel="noopener noreferrer">Government Whistleblower Exposes The Alaskan Black Pyramid | Aliens In Alaska</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 880.6K &middot; Uploaded: February 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K33UIjtBwes" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K33UIjtBwes">Open on YouTube</a></p></div></div></div>
 
@@ -303,9 +303,9 @@ The sheer size of the Triangle — covering hundreds of thousands of square kilo
 
 Sceptical voices emphasise that the Alaska Triangle’s notoriety owes more to storytelling than to a demonstrable pattern of unexplained phenomena. In reality:
 
-* **Alaska’s environment is inherently dangerous**: The wilderness can rapidly absorb evidence of a crash or a lost hiker, making recovery difficult or impossible compared with more settled regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
-* **Navigation challenges abound**: Variations in magnetic declination, frequent whiteouts, and vast distances complicate travel by air or on foot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
-* **Statistical framing matters**: With Alaska’s overall annual missing‑persons rate being higher than many other U.S. states, isolated cases within the triangle’s broad outline are expected simply from population distribution and environmental hazards, not necessarily from any unknown force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indy100.com/science-tech/alaska-triangle-people-disappeared" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indy100.com">[indy100]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indy100.com</span><span class="citation-popover-snippet">The truth behind the ‘Alaska Triangle’ where more than 20,000 people have disappeared &#124; indy100...</span></span></span>
+* **Alaska’s environment is inherently dangerous**: The wilderness can rapidly absorb evidence of a crash or a lost hiker, making recovery difficult or impossible compared with more settled regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+* **Navigation challenges abound**: Variations in magnetic declination, frequent whiteouts, and vast distances complicate travel by air or on foot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themanual.com">[The Manual]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themanual.com</span><span class="citation-popover-title">The Manual Why do so many people vanish within the Alaska Triangle?</span><span class="citation-popover-snippet">The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+* **Statistical framing matters**: With Alaska’s overall annual missing‑persons rate being higher than many other U.S. states, isolated cases within the triangle’s broad outline are expected simply from population distribution and environmental hazards, not necessarily from any unknown force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indy100.com/science-tech/alaska-triangle-people-disappeared" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indy100.com">[indy100]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indy100.com</span><span class="citation-popover-snippet">The truth behind the ‘Alaska Triangle’ where more than 20,000 people have disappeared &#124; indy100...</span></span></span>
 
 No authoritative investigation has established a pattern linking unexplained aerial sightings directly to disappearances, nor has any evidence affirmed a causal link between purported UFO sightings and the region’s missing‑person cases.
 
@@ -314,194 +314,194 @@ In summary, the **Alaska Triangle myth** combines genuine environmental risk, hi
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQkf-8T3rAk" title="The UnXplained: Thousands Disappear in the Alaska Triangle (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQkf-8T3rAk" target="_blank" rel="noopener noreferrer">The UnXplained: Thousands Disappear in the Alaska Triangle (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 475.9K &middot; Uploaded: January 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQkf-8T3rAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQkf-8T3rAk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is the Alaska Triangle a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is the Alaska Triangle a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Helps frame Triangle stories as folklore and unexplained narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps frame Triangle stories as folklore and unexplained narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a more evidence-focused counterpoint to Triangle mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a more evidence-focused counterpoint to Triangle mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how clusters of strange reports evolve into regional legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explores how clusters of strange reports evolve into regional legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alaska Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alaska Triangle">The Alaska Triangle</a>
-        </h4>
-        <p class="fr-book-author">By Nick Jans</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alaska Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alaska Triangle">The Alaska Triangle</a>
+</h4>
+<p class="fr-book-author">By Nick Jans</p>
         
-        <p class="fr-book-desc">Focused on disappearances, wilderness mysteries, and Alaska Triangle lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on disappearances, wilderness mysteries, and Alaska Triangle lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alaska+Triangle+Nick+Jans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alaska Travel Print Poster America Lover Gift"><img src="https://i.ebayimg.com/images/g/5BYAAOSw6alnB9zu/s-l225.jpg" alt="Listing image for Alaska Travel Print Poster America Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">Alaska Travel Print Poster America Lover Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alaska Travel Print Poster America Lover Gift"><img src="https://i.ebayimg.com/images/g/5BYAAOSw6alnB9zu/s-l225.jpg" alt="Listing image for Alaska Travel Print Poster America Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">Alaska Travel Print Poster America Lover Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE THIS IS ALASKA TRAVEL A3 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/gr0AAOSwGvhUDNJ3/s-l225.jpg" alt="Listing image for VINTAGE THIS IS ALASKA TRAVEL A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE THIS IS ALASKA TRAVEL A3 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE THIS IS ALASKA TRAVEL A3 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/gr0AAOSwGvhUDNJ3/s-l225.jpg" alt="Listing image for VINTAGE THIS IS ALASKA TRAVEL A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE THIS IS ALASKA TRAVEL A3 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alaska Travel Print Poster Alaska Lover Gift"><img src="https://i.ebayimg.com/images/g/c5MAAOSwky1nRy4e/s-l225.jpg" alt="Listing image for Alaska Travel Print Poster Alaska Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">Alaska Travel Print Poster Alaska Lover Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alaska Travel Print Poster Alaska Lover Gift"><img src="https://i.ebayimg.com/images/g/c5MAAOSwky1nRy4e/s-l225.jpg" alt="Listing image for Alaska Travel Print Poster Alaska Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">Alaska Travel Print Poster Alaska Lover Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE THIS IS ALASKA TRAVEL A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/gr0AAOSwGvhUDNJ3/s-l225.jpg" alt="Listing image for VINTAGE THIS IS ALASKA TRAVEL A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE THIS IS ALASKA TRAVEL A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE THIS IS ALASKA TRAVEL A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/gr0AAOSwGvhUDNJ3/s-l225.jpg" alt="Listing image for VINTAGE THIS IS ALASKA TRAVEL A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE THIS IS ALASKA TRAVEL A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alaska triangle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alaska triangle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alaska+triangle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alaska triangle poster" data-ebay-reference="is-the-alaska-triangle-a-ufo-hotspot-alaska-triangle-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ In summary, the **Alaska Triangle myth** combines genuine environmental risk, hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ In summary, the **Alaska Triangle myth** combines genuine environmental risk, hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ In summary, the **Alaska Triangle myth** combines genuine environmental risk, hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ In summary, the **Alaska Triangle myth** combines genuine environmental risk, hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ In summary, the **Alaska Triangle myth** combines genuine environmental risk, hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,97 +707,97 @@ In summary, the **Alaska Triangle myth** combines genuine environmental risk, hi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: discoveryuk.com  
    Title: Discovery UKVanishing Point: Legends and Lore of the Alaska Triangle  
-   Link: <a href="https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKNovember 10, 2025...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKNovember 10, 2025...</p></details>
    Published: November 10, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: indy100.com  
-   Link: <a href="https://www.indy100.com/science-tech/alaska-triangle-people-disappeared" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/alaska-triangle-people-disappeared</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth behind the ‘Alaska Triangle’ where more than 20,000 people have disappeared | indy100...</p></details>
+   Link:<a href="https://www.indy100.com/science-tech/alaska-triangle-people-disappeared" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/alaska-triangle-people-disappeared</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth behind the ‘Alaska Triangle’ where more than 20,000 people have disappeared | indy100...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: Discovery UKMystery at the Edge of the Map: Alaska UFOs  
-   Link: <a href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKMay 13, 2026...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: conspiracy.news  
-   Link: <a href="https://www.conspiracy.news/2023-10-02-mysterious-alaska-triangle-20k-disappearances-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.conspiracy.news/2023-10-02-mysterious-alaska-triangle-20k-disappearances-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious “Alaska Triangle” linked to 20,000 disappearances and UFO sightingsOctober 2, 2023...</p></details>
+   Link:<a href="https://www.conspiracy.news/2023-10-02-mysterious-alaska-triangle-20k-disappearances-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.conspiracy.news/2023-10-02-mysterious-alaska-triangle-20k-disappearances-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious “Alaska Triangle” linked to 20,000 disappearances and UFO sightingsOctober 2, 2023...</p></details>
    Published: October 2, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: themanual.com  
    Title: The Manual Why do so many people vanish within the Alaska Triangle?  
-   Link: <a href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.themanual.com/outdoors/alaska-triangle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</p></details>
+   Link:<a href="https://www.themanual.com/outdoors/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.themanual.com/outdoors/alaska-triangle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ManualWhy do so many people vanish within the Alaska Triangle? - The ManualJuly 30, 2025...</p></details>
    Published: July 30, 2025  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tvi.show  
-   Link: <a href="https://www.tvi.show/nexus/the-alaska-triangle-cryptid-abductions-amp-unexplained-disappearances-in-americas-last-frontier" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/nexus/the-alaska-triangle-cryptid-abductions-amp-unexplained-disappearances-in-americas-last-frontier</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alaska Triangle Mystery: Why 53,000+ People Have Vanished in America&#x27;s Most Dangerous Wilderness | Cryptids, UFOs &amp; Native LegendsTHE...</p></details>
+   Link:<a href="https://www.tvi.show/nexus/the-alaska-triangle-cryptid-abductions-amp-unexplained-disappearances-in-americas-last-frontier" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/nexus/the-alaska-triangle-cryptid-abductions-amp-unexplained-disappearances-in-americas-last-frontier</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alaska Triangle Mystery: Why 53,000+ People Have Vanished in America&#x27;s Most Dangerous Wilderness | Cryptids, UFOs &amp; Native LegendsTHE...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jpost.com  
-   Link: <a href="https://www.jpost.com/spanish/omg/article-839571" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/spanish/omg/article-839571</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2025 — TRIÁNGULO DE ALASKA: 20,000 DESAPARICIONES Y UN MISTERIO SIN RESOLVER AUNQUE MENOS CONOCIDO QUE EL TRIÁNGULO DE LAS BE...</p></details>
+   Link:<a href="https://www.jpost.com/spanish/omg/article-839571" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/spanish/omg/article-839571</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2025 — TRIÁNGULO DE ALASKA: 20,000 DESAPARICIONES Y UN MISTERIO SIN RESOLVER AUNQUE MENOS CONOCIDO QUE EL TRIÁNGULO DE LAS BE...</p></details>
    Published: January 28, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: americanurbanlegends.com  
-   Link: <a href="https://americanurbanlegends.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://americanurbanlegends.com/alaska-triangle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evelyn Harper in Urban Legends by State The Alaska Triangle, a vast and mysterious region stretching between Anchorage, Juneau, and Utqiaġ...</p></details>
+   Link:<a href="https://americanurbanlegends.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://americanurbanlegends.com/alaska-triangle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evelyn Harper in Urban Legends by State The Alaska Triangle, a vast and mysterious region stretching between Anchorage, Juneau, and Utqiaġ...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/feature/all-about-alaska-triangle-where-over-20-000-people-have-mysteriously-disappeared-6494421" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/all-about-alaska-triangle-where-over-20-000-people-have-mysteriously-disappeared-6494421</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 5, 2024 — This Article is From Sep 05, 2024 ALL ABOUT &quot;ALASKA TRIANGLE&quot; WHERE OVER 20,000 PEOPLE HAVE MYSTERIOUSLY DISAPPEARED...</p></details>
+   Link:<a href="https://www.ndtv.com/feature/all-about-alaska-triangle-where-over-20-000-people-have-mysteriously-disappeared-6494421" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/all-about-alaska-triangle-where-over-20-000-people-have-mysteriously-disappeared-6494421</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 5, 2024 — This Article is From Sep 05, 2024 ALL ABOUT &quot;ALASKA TRIANGLE&quot; WHERE OVER 20,000 PEOPLE HAVE MYSTERIOUSLY DISAPPEARED...</p></details>
    Published: September 5, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: legendsofamerica.com  
-   Link: <a href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.legendsofamerica.com/alaska-triangle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The area known as the Alaska Triangle. The Alaska Triangle, sometimes called Alaska’s Bermuda Triangl...</p></details>
+   Link:<a href="https://www.legendsofamerica.com/alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.legendsofamerica.com/alaska-triangle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The area known as the Alaska Triangle. The Alaska Triangle, sometimes called Alaska’s Bermuda Triangl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: allthatsinteresting.com  
    Title: Inside The Alaska Triangle, Where 20,000 People Have Vanished  
-   Link: <a href="https://allthatsinteresting.com/alaska-triangle" target="_blank" rel="noopener noreferrer nofollow">https://allthatsinteresting.com/alaska-triangle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2023 — Image: Alaska Triangle Vanishing Planes, Energy Vortexes, And UFO Sightings: Inside The Mysteries Of The Alaska Triangle...</p></details>
+   Link:<a href="https://allthatsinteresting.com/alaska-triangle" target="_blank" rel="noopener noreferrer nofollow">https://allthatsinteresting.com/alaska-triangle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2023 — Image: Alaska Triangle Vanishing Planes, Energy Vortexes, And UFO Sightings: Inside The Mysteries Of The Alaska Triangle...</p></details>
    Published: July 18, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: connectparanormal.net  
    Title: Alaska Triangle: Disappearances and Paranormal Theories  
-   Link: <a href="https://connectparanormal.net/2025/02/11/alaska-triangle-disappearances-and-paranormal-theories/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2025/02/11/alaska-triangle-disappearances-and-paranormal-theories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connect Paranormal BlogFebruary 11, 2025 — Image: Bigfoot and UFO in Alaskan Triangle Aliens, Bigfoot, Time Travel ALASKA TRIANGLE: DISAP...</p></details>
+   Link:<a href="https://connectparanormal.net/2025/02/11/alaska-triangle-disappearances-and-paranormal-theories/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2025/02/11/alaska-triangle-disappearances-and-paranormal-theories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connect Paranormal BlogFebruary 11, 2025 — Image: Bigfoot and UFO in Alaskan Triangle Aliens, Bigfoot, Time Travel ALASKA TRIANGLE: DISAP...</p></details>
    Published: February 11, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: toxigon.com  
    Title: The Alaska Triangle: Where 20,000+ People Have Vanished  
-   Link: <a href="https://toxigon.com/alaska-triangle-mystery-unexplained-disappearances" target="_blank" rel="noopener noreferrer nofollow">https://toxigon.com/alaska-triangle-mystery-unexplained-disappearances</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 6, 2026 — THE ALASKA TRIANGLE: WHERE 20,000+ PEOPLE HAVE VANISHED WITHOUT A TRACE Travel Toxigon 2026-04-06 16:22 0 Human Re...</p></details>
+   Link:<a href="https://toxigon.com/alaska-triangle-mystery-unexplained-disappearances" target="_blank" rel="noopener noreferrer nofollow">https://toxigon.com/alaska-triangle-mystery-unexplained-disappearances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 6, 2026 — THE ALASKA TRIANGLE: WHERE 20,000+ PEOPLE HAVE VANISHED WITHOUT A TRACE Travel Toxigon 2026-04-06 16:22 0 Human Re...</p></details>
    Published: April 6, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: the-express.com  
    Title: 20,000 vanish in Alaska's 'Triangle'  
-   Link: <a href="https://www.the-express.com/news/us-news/163197/20-000-people-have-vanished-alaskan-triangle-people-think-bigfoot-ufos-might-responsible" target="_blank" rel="noopener noreferrer nofollow">https://www.the-express.com/news/us-news/163197/20-000-people-have-vanished-alaskan-triangle-people-think-bigfoot-ufos-might-responsible</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot and UFOs blamed - US News - News - Daily Express USFebruary 10, 2025 — 20,000 PEOPLE VANISH IN &#x27;ALASKAN TRIANGLE&#x27; - SOME THINK BI...</p></details>
+   Link:<a href="https://www.the-express.com/news/us-news/163197/20-000-people-have-vanished-alaskan-triangle-people-think-bigfoot-ufos-might-responsible" target="_blank" rel="noopener noreferrer nofollow">https://www.the-express.com/news/us-news/163197/20-000-people-have-vanished-alaskan-triangle-people-think-bigfoot-ufos-might-responsible</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot and UFOs blamed - US News - News - Daily Express USFebruary 10, 2025 — 20,000 PEOPLE VANISH IN &#x27;ALASKAN TRIANGLE&#x27; - SOME THINK BI...</p></details>
    Published: February 10, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO Sightings In Anchorage "I Believe Aliens Are Angels" | Aliens In Alaska  
-   Link: <a href="https://www.youtube.com/watch?v=osRJ1dbZ5X4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=osRJ1dbZ5X4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alaska Triangle UFO sightings history Mysteries Hidden Under Alaskan Ice | Ancient Aliens | History HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=osRJ1dbZ5X4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=osRJ1dbZ5X4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alaska Triangle UFO sightings history Mysteries Hidden Under Alaskan Ice | Ancient Aliens | History HISTORY...</p></details>

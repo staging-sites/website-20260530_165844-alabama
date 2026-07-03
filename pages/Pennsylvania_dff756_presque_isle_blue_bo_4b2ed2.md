@@ -262,29 +262,29 @@ image: /assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-overview-s
 
 ## Introduction
 
-Presque Isle’s [Blue Book]({{ 'blue-book-68fdf4/' | relative_url }}) mystery is one of Pennsylvania’s most useful UFO cases because it separates a real official puzzle from the extra folklore that grew around it. On 31 July 1966, witnesses near Beach Six at Presque Isle State Park in Erie reported unusual lights or an object apparently coming down near the sand. The case entered the US Air Force’s Project Blue Book as case 10798, and later catalogues of Blue Book “unknowns” list it as unresolved. Yet the same official handling did not simply endorse the whole story: Blue Book treated the reported lights as unidentified while regarding the ground marks and the “creature” element as circumstantial, unrelated, or probably animal in origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+Presque Isle’s [Blue Book]({{ 'blue-book-68fdf4/' | relative_url }}) mystery is one of Pennsylvania’s most useful UFO cases because it separates a real official puzzle from the extra folklore that grew around it. On 31 July 1966, witnesses near Beach Six at Presque Isle State Park in Erie reported unusual lights or an object apparently coming down near the sand. The case entered the US Air Force’s Project Blue Book as case 10798, and later catalogues of Blue Book “unknowns” list it as unresolved. Yet the same official handling did not simply endorse the whole story: Blue Book treated the reported lights as unidentified while regarding the ground marks and the “creature” element as circumstantial, unrelated, or probably animal in origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-overview.webp" | relative_url }}" alt="Overview image for Presque Isle" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is why Presque Isle matters in Pennsylvania UFO history. It is not a clean proof of a landed craft, and it is not just a campfire tale. It is a case where local witnesses, police response, newspaper coverage, civilian UFO investigators and an Air Force file all intersect — but where the official “unidentified” label applies more narrowly than many retellings suggest.
 
 ## The 1966 Erie sighting
 
-The core event took place on a summer evening at Presque Isle State Park, the Lake Erie peninsula that forms one of Pennsylvania’s most recognisable shoreline landscapes. Later summaries identify the main witnesses as Douglas Tibbetts, Betty Klem, Anita Haifley and Gerald Labelle, with the reported observation placed around 7:25 to 7:30 p.m., though some later cataloguing notes a possible time discrepancy. The reported object was described as square or hexagonal, with lit or reflective edges, descending erratically before appearing to settle close to the beach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+The core event took place on a summer evening at Presque Isle State Park, the Lake Erie peninsula that forms one of Pennsylvania’s most recognisable shoreline landscapes. Later summaries identify the main witnesses as Douglas Tibbetts, Betty Klem, Anita Haifley and Gerald Labelle, with the reported observation placed around 7:25 to 7:30 p.m., though some later cataloguing notes a possible time discrepancy. The reported object was described as square or hexagonal, with lit or reflective edges, descending erratically before appearing to settle close to the beach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
-The local story was more dramatic than a distant light in the sky. Contemporary and later accounts say the group’s car had become stuck in the sand near Beach Six, that park police became involved, and that the reported landing area was later searched. The Hagen History Center’s summary of Erie newspaper coverage says the original Erie Daily Times story described more than a dozen people saying they saw an object land, and it quotes reporting that police found numerous imprints in the sand near Beach Six the next morning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Hagen History Center...</span><span class="citation-popover-meta">Published: July 31, 1966</span></span></span>
+The local story was more dramatic than a distant light in the sky. Contemporary and later accounts say the group’s car had become stuck in the sand near Beach Six, that park police became involved, and that the reported landing area was later searched. The Hagen History Center’s summary of Erie newspaper coverage says the original Erie Daily Times story described more than a dozen people saying they saw an object land, and it quotes reporting that police found numerous imprints in the sand near Beach Six the next morning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Hagen History Center...</span><span class="citation-popover-meta">Published: July 31, 1966</span></span></span>
 
-Betty Jean Klem’s recollection, as repeated in local historical writing based on Erie Morning News coverage, included a moving “star” that became brighter, appeared metallic or silvery, came down between trees, and was associated with the car vibrating. That same local account also preserves the stranger attached claim: Klem reported a dark, featureless creature and sounds on or near the car. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">Erie History UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Erie History UFO Sighting at Presque Isle State Park</span></span></span>
+Betty Jean Klem’s recollection, as repeated in local historical writing based on Erie Morning News coverage, included a moving “star” that became brighter, appeared metallic or silvery, came down between trees, and was associated with the car vibrating. That same local account also preserves the stranger attached claim: Klem reported a dark, featureless creature and sounds on or near the car.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">Erie History UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Erie History UFO Sighting at Presque Isle State Park</span></span></span>
 
-The case did not remain confined to the immediate group. WQLN PBS’s later regional-history episode states that local newspapers reported at least a dozen other sightings around Erie that night, involving unusual moving lights over Lake Erie and Presque Isle. That does not prove the witnesses saw the same thing, but it helps explain why the case quickly became more than a private anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span><span class="citation-popover-snippet">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span></span></span>
+The case did not remain confined to the immediate group. WQLN PBS’s later regional-history episode states that local newspapers reported at least a dozen other sightings around Erie that night, involving unusual moving lights over Lake Erie and Presque Isle. That does not prove the witnesses saw the same thing, but it helps explain why the case quickly became more than a private anecdote.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span><span class="citation-popover-snippet">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-Illustration-1-dark.svg" | relative_url }}" alt="Presque Isle illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Blue Book accepted and rejected
 
-Project Blue Book was the US Air Force programme that investigated UFO reports from 1947 to 1969. Its records were later transferred to the National Archives, which describes the Blue Book files as declassified and available for research; the archive includes case files arranged chronologically and indexed by date and location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book was the US Air Force programme that investigated UFO reports from 1947 to 1969. Its records were later transferred to the National Archives, which describes the Blue Book files as declassified and available for research; the archive includes case files arranged chronologically and indexed by date and location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Presque Isle is significant because it appears in that official paper trail. The Internet Archive copy of the Air Force case file identifies the item as “1966 07 6978667 PresqueIsland Pennsylvania 10798”, attributed to the US Air Force and included in Project Blue Book-related collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span> The Black Vault’s document archive likewise presents the Presque Isle file as a Project Blue Book case file for 31 July 1966, with a 120-page main file and an additional photos file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span><span class="citation-popover-snippet">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span></span></span>
+Presque Isle is significant because it appears in that official paper trail. The Internet Archive copy of the Air Force case file identifies the item as “1966 07 6978667 PresqueIsland Pennsylvania 10798”, attributed to the US Air Force and included in Project Blue Book-related collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span> The Black Vault’s document archive likewise presents the Presque Isle file as a Project Blue Book case file for 31 July 1966, with a 120-page main file and an additional photos file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span><span class="citation-popover-snippet">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span></span></span>
 
-The key point is what Blue Book did with the mixed evidence. The Black Vault’s summary of the case states that witnesses described multiple UFOs, indentations and a “monster” sighting, but that Project Blue Book investigators determined the lights were “unidentified” while judging the indentations unrelated and the “monster” probably an animal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span><span class="citation-popover-snippet">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span></span></span> WQLN’s later account gives the same broad distinction: the impressions, tracks and creature signs were treated as circumstantial and unrelated to the initial sighting, while the source of the lights remained undetermined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span><span class="citation-popover-snippet">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span></span></span>
+The key point is what Blue Book did with the mixed evidence. The Black Vault’s summary of the case states that witnesses described multiple UFOs, indentations and a “monster” sighting, but that Project Blue Book investigators determined the lights were “unidentified” while judging the indentations unrelated and the “monster” probably an animal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span><span class="citation-popover-snippet">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span></span></span> WQLN’s later account gives the same broad distinction: the impressions, tracks and creature signs were treated as circumstantial and unrelated to the initial sighting, while the source of the lights remained undetermined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span><span class="citation-popover-snippet">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span></span></span>
 
 That matters because “Blue Book left Presque Isle unidentified” is true only if stated carefully. The official mystery was not a blanket endorsement of every detail in the beach legend. It was a narrower conclusion: the reported lights or object could not be confidently matched to a known cause, but the physical and creature claims did not carry the same official weight.
 
@@ -292,30 +292,30 @@ That matters because “Blue Book left Presque Isle unidentified” is true only
 
 ## Why the ground marks did not settle the case
 
-The sand impressions are one of the details that keep the Presque Isle story alive. Local summaries of the Erie newspaper record describe impressions roughly 18 inches wide and six to eight inches deep, said to have been found hundreds of yards from the car. Other retellings describe diamond-shaped or triangular patterns and track-like marks leading away from the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Hagen History Center...</span><span class="citation-popover-meta">Published: July 31, 1966</span></span></span>
+The sand impressions are one of the details that keep the Presque Isle story alive. Local summaries of the Erie newspaper record describe impressions roughly 18 inches wide and six to eight inches deep, said to have been found hundreds of yards from the car. Other retellings describe diamond-shaped or triangular patterns and track-like marks leading away from the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Hagen History Center...</span><span class="citation-popover-meta">Published: July 31, 1966</span></span></span>
 
 But impressions in sand are a weak form of physical evidence unless they can be tied to a precise cause, preserved cleanly, measured consistently and protected from contamination. Presque Isle was a public beach environment, not a sealed crash site. People, animals, vehicles, weather and later search activity could all complicate interpretation. That is likely why the ground marks became part of the folklore but did not carry the official conclusion.
 
-Local historical accounts also note that radiation checks reportedly found no sign of radiation in the claimed landing area, and that an Air Force officer took plaster casts of some of the tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">Erie History UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Erie History UFO Sighting at Presque Isle State Park</span></span></span> Those details show that the scene was taken seriously enough to inspect, but they do not convert the marks into proof of an extraordinary landing. The stronger statement is more restrained: investigators looked at reported traces, but the traces did not explain the sky sighting and did not establish a craft on the beach.
+Local historical accounts also note that radiation checks reportedly found no sign of radiation in the claimed landing area, and that an Air Force officer took plaster casts of some of the tracks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">Erie History UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Erie History UFO Sighting at Presque Isle State Park</span></span></span> Those details show that the scene was taken seriously enough to inspect, but they do not convert the marks into proof of an extraordinary landing. The stronger statement is more restrained: investigators looked at reported traces, but the traces did not explain the sky sighting and did not establish a craft on the beach.
 
 ## The “creature” claim became the weakest attachment
 
 The most memorable version of the Presque Isle story often adds a dark, Bigfoot-like or featureless creature near the car. That element gives the case its folklore power, but it is also the part most likely to distract readers from the official Blue Book issue.
 
-Blue Book’s reported position, as summarised by The Black Vault and echoed in later local documentary treatment, was that the creature claim was probably animal-related or otherwise not part of the unidentified-light conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span><span class="citation-popover-snippet">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span></span></span> This is a common pattern in durable UFO stories: an initial aerial report is later fused with ground scares, ambiguous tracks, frightened witnesses and regional legend-making.
+Blue Book’s reported position, as summarised by The Black Vault and echoed in later local documentary treatment, was that the creature claim was probably animal-related or otherwise not part of the unidentified-light conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span><span class="citation-popover-snippet">The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —</span></span></span> This is a common pattern in durable UFO stories: an initial aerial report is later fused with ground scares, ambiguous tracks, frightened witnesses and regional legend-making.
 
-That does not mean the witness fear was fake. WQLN’s dramatised regional-history episode presents the young witness as highly distressed, and local accounts repeatedly stress her emotional state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span><span class="citation-popover-snippet">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span></span></span> But emotional sincerity is not the same thing as reliable identification. A frightened witness may honestly report what they experienced while still misperceiving an animal, shadow, sound or movement in a dark beach environment.
+That does not mean the witness fear was fake. WQLN’s dramatised regional-history episode presents the young witness as highly distressed, and local accounts repeatedly stress her emotional state.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span><span class="citation-popover-snippet">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4 &#124; PBS</span></span></span> But emotional sincerity is not the same thing as reliable identification. A frightened witness may honestly report what they experienced while still misperceiving an animal, shadow, sound or movement in a dark beach environment.
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-Illustration-2-dark.svg" | relative_url }}" alt="Presque Isle illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could it have been a balloon, meteor or ordinary aircraft?
 
 Several mundane explanations have been suggested, but none has erased the case in the way a clear hoax confession, matching aircraft record or confirmed astronomical event might.
 
-A balloon explanation appears in later sceptical discussion. UFO Insight summarises a claim that a local resident told journalist Brian Sheridan the event involved a nine-foot hot-air balloon bought from an advert, with the resident’s brother reportedly supporting the story. The same account notes why some remain unconvinced: critics argue that the proposed balloon path and reported wind direction may not match all witness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/presque-isle-park-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Presque Isle Park Incident</span><span class="citation-popover-snippet">UFO Insight The Presque Isle Park Incident</span></span></span>
+A balloon explanation appears in later sceptical discussion. UFO Insight summarises a claim that a local resident told journalist Brian Sheridan the event involved a nine-foot hot-air balloon bought from an advert, with the resident’s brother reportedly supporting the story. The same account notes why some remain unconvinced: critics argue that the proposed balloon path and reported wind direction may not match all witness accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/presque-isle-park-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Presque Isle Park Incident</span><span class="citation-popover-snippet">UFO Insight The Presque Isle Park Incident</span></span></span>
 
-A meteor is another obvious possibility for a bright descending object, especially in a UFO case from the 1960s. But the Project Blue Book material surfaced in search snippets includes an investigator note that no meteor reports over Lake Erie were known for 31 July 1966. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">PresqueIslandStatePark Pennsylvania 07 31 1966 main</span><span class="citation-popover-snippet">PresqueIslandStatePark Pennsylvania 07 31 1966 main</span></span></span> That does not absolutely rule out a meteor, but it weakens a simple fireball explanation for the particular report Blue Book evaluated.
+A meteor is another obvious possibility for a bright descending object, especially in a UFO case from the 1960s. But the Project Blue Book material surfaced in search snippets includes an investigator note that no meteor reports over Lake Erie were known for 31 July 1966.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">PresqueIslandStatePark Pennsylvania 07 31 1966 main</span><span class="citation-popover-snippet">PresqueIslandStatePark Pennsylvania 07 31 1966 main</span></span></span> That does not absolutely rule out a meteor, but it weakens a simple fireball explanation for the particular report Blue Book evaluated.
 
-Aircraft, helicopters, boats, searchlights and reflections over water are also plausible categories around Lake Erie. They are especially relevant because Presque Isle sits beside a broad, reflective lake horizon where distance, height and motion can be hard to judge. Yet the Blue Book “unknown” catalogues preserve the case precisely because the available description was not matched confidently to one of those ordinary causes. Don Berliner’s list of Blue Book unexplained cases summarises the Presque Isle report as a five-minute observation of a square or hexagonal object that came down erratically and appeared to settle near the beach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
+Aircraft, helicopters, boats, searchlights and reflections over water are also plausible categories around Lake Erie. They are especially relevant because Presque Isle sits beside a broad, reflective lake horizon where distance, height and motion can be hard to judge. Yet the Blue Book “unknown” catalogues preserve the case precisely because the available description was not matched confidently to one of those ordinary causes. Don Berliner’s list of Blue Book unexplained cases summarises the Presque Isle report as a five-minute observation of a square or hexagonal object that came down erratically and appeared to settle near the beach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
 
 The fairest assessment is that ordinary explanations remain possible, especially for parts of the story, but no single explanation has publicly closed the official case.
 
@@ -325,7 +325,7 @@ The fairest assessment is that ordinary explanations remain possible, especially
 
 The word “unidentified” is often misunderstood. In Project Blue Book terms, it did not mean “alien”, “advanced technology”, or “confirmed craft”. It meant that, after the available information was assessed, the Air Force had not assigned a conventional identification to that report.
 
-The Air Force’s own public fact sheet says Blue Book collected 12,618 reports, of which 701 remained unidentified, and it also states three broader conclusions: no investigated UFO showed evidence of a national-security threat, no unidentified sighting proved technology beyond modern scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> The National Archives copy of the Air Force fact sheet gives the same figures and conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Air Force’s own public fact sheet says Blue Book collected 12,618 reports, of which 701 remained unidentified, and it also states three broader conclusions: no investigated UFO showed evidence of a national-security threat, no unidentified sighting proved technology beyond modern scientific knowledge, and no evidence indicated extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> The National Archives copy of the Air Force fact sheet gives the same figures and conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Presque Isle therefore sits in a careful middle category. It is stronger than a rumour because it has an official file, named witnesses in later catalogues, local police and newspaper involvement, and a place in Blue Book’s unresolved material. It is weaker than a proof case because the physical traces were not accepted as decisive, the creature claim was discounted, and the remaining “unknown” status does not identify what the lights were.
 
@@ -336,276 +336,276 @@ That is the central value of the case for Pennsylvania UFO history. It shows how
 
 Presque Isle gives Pennsylvania a different kind of UFO case from [Kecksburg]({{ 'kecksburg/' | relative_url }}) or [Carbondale]({{ 'carbondale/' | relative_url }}). Kecksburg became famous because of a disputed crash narrative and later records battles. Carbondale became known partly because an apparent “UFO” in a pond was later treated as a hoax or misidentification. Presque Isle is quieter but more evidentially useful: it is a documented Blue Book case where the official file preserves uncertainty while trimming away weaker attachments.
 
-It also shows how a local sighting becomes a layered public story. The original event involved young witnesses, a stranded car, police response, sand marks and Erie newspaper attention. Civilian UFO investigators reportedly arrived in the days that followed, while local press continued to cover further sightings and official statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">Erie History UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Erie History UFO Sighting at Presque Isle State Park</span></span></span> Decades later, regional history organisations, local media and UFO databases kept the case alive, often with different emphasis: some foreground the eerie creature story, others the official “unknown” classification, and others the possibility of a balloon or embellishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Hagen History Center...</span><span class="citation-popover-meta">Published: July 31, 1966</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talkerie.com">[TalkErie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talkerie.com</span><span class="citation-popover-title">that time in 1966 when an ufo might have visited erie</span><span class="citation-popover-snippet">that time in 1966 when an ufo might have visited erie</span></span></span>
+It also shows how a local sighting becomes a layered public story. The original event involved young witnesses, a stranded car, police response, sand marks and Erie newspaper attention. Civilian UFO investigators reportedly arrived in the days that followed, while local press continued to cover further sightings and official statements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">Erie History UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Erie History UFO Sighting at Presque Isle State Park</span></span></span> Decades later, regional history organisations, local media and UFO databases kept the case alive, often with different emphasis: some foreground the eerie creature story, others the official “unknown” classification, and others the possibility of a balloon or embellishment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">UFO Sighting at Presque Isle State Park</span><span class="citation-popover-snippet">Hagen History Center...</span><span class="citation-popover-meta">Published: July 31, 1966</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talkerie.com">[TalkErie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talkerie.com</span><span class="citation-popover-title">that time in 1966 when an ufo might have visited erie</span><span class="citation-popover-snippet">that time in 1966 when an ufo might have visited erie</span></span></span>
 
 For readers, the useful lesson is not that Presque Isle proves a spacecraft visited Erie. It is that official uncertainty can be narrow, technical and unspectacular — and still historically important. The Air Force did not solve the reported lights, but it also did not validate the whole legend. That unresolved gap, bounded by sceptical cautions and surviving records, is the real Blue Book mystery at Presque Isle.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lJlBQw0AvFc" title="Eerie Erie Entity - Paranormal Sighting - UFO encounter - Scary Cryptid Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lJlBQw0AvFc" target="_blank" rel="noopener noreferrer">Eerie Erie Entity - Paranormal Sighting - UFO encounter - Scary Cryptid Video</a></p><p class="youtube-embed-meta">Channel: JustAnotherTinFoilHat &middot; Views: 1.3K &middot; Uploaded: December 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lJlBQw0AvFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lJlBQw0AvFc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Presque Isle Stayed Unidentified. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Presque Isle Stayed Unidentified. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Most directly connected to understanding official Air Force investigations and unidentified classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Most directly connected to understanding official Air Force investigations and unidentified classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how cases became categorized as identified or unidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how cases became categorized as identified or unidentified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Directly connected to the Air Force program that handled the Presque Isle case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connected to the Air Force program that handled the Presque Isle case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses officially unresolved aerial cases and their interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses officially unresolved aerial cases and their interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presque-isle-why-presque-isle-stayed-unidentified-pennsylvania-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ For readers, the useful lesson is not that Presque Isle proves a spacecraft visi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ For readers, the useful lesson is not that Presque Isle proves a spacecraft visi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ For readers, the useful lesson is not that Presque Isle proves a spacecraft visi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ For readers, the useful lesson is not that Presque Isle proves a spacecraft visi
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -761,152 +761,152 @@ For readers, the useful lesson is not that Presque Isle proves a spacecraft visi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: The Black Vault Project Blue Book: Presque Isle State Park, Pennsylvania —  
-   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pbs.org  
    Title: Chronicles | The Visit | Season 1 | Episode 4 | PBS  
-   Link: <a href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-visit-baxnt2/</a>  
+   Link:<a href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-visit-baxnt2/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
    Title: 1966 07 6978667 PresqueIsland Pennsylvania 10798  
-   Link: <a href="https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-</a>  
+   Link:<a href="https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents2.theblackvault.com  
    Title: PresqueIslandStatePark Pennsylvania 07 31 1966 main  
-   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"  
-   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
+   Link:<a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: talkerie.com  
    Title: that time in 1966 when an ufo might have visited erie  
-   Link: <a href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow">https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/</a>  
+   Link:<a href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow">https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Sighting at Presque Isle State Park (  
-   Link: <a href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UOzqg5iOEVA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hagen History Center...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UOzqg5iOEVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hagen History Center...</p></details>
    Published: July 31, 1966  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hagenhistory.org  
-   Link: <a href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow">https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region</a>  
+   Link:<a href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow">https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eriehistory.blogspot.com  
    Title: Erie History UFO Sighting at Presque Isle State Park  
-   Link: <a href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html</a>  
+   Link:<a href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Presque Isle Park Incident  
-   Link: <a href="https://www.ufoinsight.com/aliens/encounters/presque-isle-park-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/encounters/presque-isle-park-incident</a>  
+   Link:<a href="https://www.ufoinsight.com/aliens/encounters/presque-isle-park-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/encounters/presque-isle-park-incident</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eriehistory.blogspot.com  
-   Link: <a href="https://eriehistory.blogspot.com/search/label/Presque%20Isle" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/search/label/Presque%20Isle</a>  
+   Link:<a href="https://eriehistory.blogspot.com/search/label/Presque%20Isle" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/search/label/Presque%20Isle</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eriehistory.blogspot.com  
-   Link: <a href="https://eriehistory.blogspot.com/search" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/search</a>  
+   Link:<a href="https://eriehistory.blogspot.com/search" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/search</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eriehistory.blogspot.com  
-   Link: <a href="https://eriehistory.blogspot.com/" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/</a>  
+   Link:<a href="https://eriehistory.blogspot.com/" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: indocropcircles.wordpress.com  
-   Link: <a href="https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/5/</a>  
+   Link:<a href="https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://indocropcircles.wordpress.com/category/misteri-ufo-dunia/page/5/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Waterworks Incident  
-   Link: <a href="https://www.youtube.com/watch?v=Owm7EwMdjxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Owm7EwMdjxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Owm7EwMdjxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Owm7EwMdjxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/24602969476019255/posts/24730492433266958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/24602969476019255/posts/24730492433266958/</a>  
+   Link:<a href="https://www.facebook.com/groups/24602969476019255/posts/24730492433266958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/24602969476019255/posts/24730492433266958/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: idcrawl.com  
-   Link: <a href="https://www.idcrawl.com/helene-roche" target="_blank" rel="noopener noreferrer nofollow">https://www.idcrawl.com/helene-roche</a>  
+   Link:<a href="https://www.idcrawl.com/helene-roche" target="_blank" rel="noopener noreferrer nofollow">https://www.idcrawl.com/helene-roche</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/497946584033986/posts/1149105745584730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/497946584033986/posts/1149105745584730/</a>  
+   Link:<a href="https://www.facebook.com/groups/497946584033986/posts/1149105745584730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/497946584033986/posts/1149105745584730/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
+   Link:<a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
+   Link:<a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ClevelandStreets/posts/1983524872242945/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ClevelandStreets/posts/1983524872242945/</a>  
+   Link:<a href="https://www.facebook.com/groups/ClevelandStreets/posts/1983524872242945/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ClevelandStreets/posts/1983524872242945/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/</a>
+   Link:<a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/</a>

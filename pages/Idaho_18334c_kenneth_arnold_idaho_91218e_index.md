@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-kenneth-arnold-idaho/
 description: Focused pages that expand on Kenneth Arnold.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Idaho_18334c_kenneth_arnold_idaho_91218e
 parent_title: Kenneth Arnold
@@ -16,7 +16,7 @@ parent_permalink: /kenneth-arnold/
 
 # Explore Topics in Kenneth Arnold
 
-The following pages expand on the main **[Kenneth Arnold]({{ '/kenneth-arnold/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Kenneth Arnold]({{ '/kenneth-arnold/' | relative_url }})** page and cover its key branches in.
 
 - [Idaho Follow ups]({{ '/idaho-follow-ups/' | relative_url }})
 - [Arnold Sighting]({{ '/arnold-sighting/' | relative_url }})

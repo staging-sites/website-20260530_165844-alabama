@@ -268,29 +268,29 @@ image: /assets/images/Hawaii_a1be95_oahu_blue_object_927245-overview-social.jpg
 
 ## Introduction
 
-The blue object seen over Leeward Oahu on 29 December 2020 is one of Hawaii’s most widely shared modern UFO cases because it had several ingredients that make a sighting hard to ignore: named local witnesses, phone video, 911 calls, an apparent descent towards the ocean, and a Federal Aviation Administration response saying there were no known aircraft accidents or incidents in the area. The case remains unidentified in the everyday sense, but it is not strong evidence of an exotic craft. The best reading is more cautious: witnesses saw a real luminous object, the videos show something unusual-looking, and the lack of an aircraft incident matters, yet the footage is also consistent with a small human-made object such as an LED kite, lighted balloon, drone-like toy, or other windborne illuminated device. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaiinewsnow.com">[www.hawaiinewsnow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaiinewsnow.com</span><span class="citation-popover-title">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span><span class="citation-popover-snippet">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">blue ufo over hawaii.11526</span><span class="citation-popover-snippet">blue ufo over hawaii.11526</span></span></span> That balance is what makes the Oahu blue object useful within Hawaii’s UFO history. It shows how a local, coastal sighting can become an international “crashing UFO” story before investigators have distance, scale, wind, launch point, or recovered debris. It also shows why “no aircraft reported missing” is important but limited: it can rule out one dramatic explanation without proving something extraordinary.
+The blue object seen over Leeward Oahu on 29 December 2020 is one of Hawaii’s most widely shared modern UFO cases because it had several ingredients that make a sighting hard to ignore: named local witnesses, phone video, 911 calls, an apparent descent towards the ocean, and a Federal Aviation Administration response saying there were no known aircraft accidents or incidents in the area. The case remains unidentified in the everyday sense, but it is not strong evidence of an exotic craft. The best reading is more cautious: witnesses saw a real luminous object, the videos show something unusual-looking, and the lack of an aircraft incident matters, yet the footage is also consistent with a small human-made object such as an LED kite, lighted balloon, drone-like toy, or other windborne illuminated device. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaiinewsnow.com">[www.hawaiinewsnow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaiinewsnow.com</span><span class="citation-popover-title">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span><span class="citation-popover-snippet">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">blue ufo over hawaii.11526</span><span class="citation-popover-snippet">blue ufo over hawaii.11526</span></span></span> That balance is what makes the Oahu blue object useful within Hawaii’s UFO history. It shows how a local, coastal sighting can become an international “crashing UFO” story before investigators have distance, scale, wind, launch point, or recovered debris. It also shows why “no aircraft reported missing” is important but limited: it can rule out one dramatic explanation without proving something extraordinary.
 
 <img src="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-overview.webp" | relative_url }}" alt="Overview image for Oahu Blue Object" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses reported on 29 December 2020
 
-The main sighting was reported at about 8:30 p.m. on Tuesday, 29 December 2020, over Leeward Oahu. Hawaii News Now reported that witnesses called 911 after seeing a large blue object in the evening sky, and that the FAA was notified after police received several calls. One video was attributed to Misitina Sape, recorded at 8:26 p.m. near Haleakala Avenue in Nanakuli; another witness, identified as Moriah, said she saw what looked like the same object over Princess Kahanu Estates. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaiinewsnow.com">[www.hawaiinewsnow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaiinewsnow.com</span><span class="citation-popover-title">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span><span class="citation-popover-snippet">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span></span></span>
+The main sighting was reported at about 8:30 p.m. on Tuesday, 29 December 2020, over Leeward Oahu. Hawaii News Now reported that witnesses called 911 after seeing a large blue object in the evening sky, and that the FAA was notified after police received several calls. One video was attributed to Misitina Sape, recorded at 8:26 p.m. near Haleakala Avenue in Nanakuli; another witness, identified as Moriah, said she saw what looked like the same object over Princess Kahanu Estates. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaiinewsnow.com">[www.hawaiinewsnow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaiinewsnow.com</span><span class="citation-popover-title">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span><span class="citation-popover-snippet">faa notified after mysterious ufo seen above oahu appeared drop into ocean</span></span></span>
 
-Moriah’s account gave the case its most memorable detail. She said the object was bright blue, silent, fast-moving and large-looking, and that her family got into a car to follow it. According to local reporting later repeated by network affiliates, the drive ended less than three miles from where it began, near Farrington Highway by a Board of Water Supply building, where the object appeared to drop into the ocean. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kmvt.com/2021/01/02/faa-notified-after-large-blue-ufo-seen-above-oahu-appeared-to-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kmvt.com">[www.kmvt.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kmvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Moriah’s account gave the case its most memorable detail. She said the object was bright blue, silent, fast-moving and large-looking, and that her family got into a car to follow it. According to local reporting later repeated by network affiliates, the drive ended less than three miles from where it began, near Farrington Highway by a Board of Water Supply building, where the object appeared to drop into the ocean. https<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kmvt.com/2021/01/02/faa-notified-after-large-blue-ufo-seen-above-oahu-appeared-to-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kmvt.com">[www.kmvt.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kmvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That “entered the ocean” claim is the hinge of the whole case. If taken literally, it suggests an object descending into the water off Oahu. But the evidence available publicly does not prove an impact or splashdown. The videos show a luminous form moving in the sky, not a recovered object, radar track, debris field, water disturbance, or official marine search result. In a coastal night sighting, a distant object can appear to sink into the sea if it passes behind the horizon, descends behind foreground terrain, loses power, drops below a cloud line, or simply becomes too dim to see.
 
-A second light was also mentioned in early accounts. The Debrief summarised witness reporting that a similar white light appeared after the blue object, and local coverage described witnesses seeing additional lights after the main object disappeared. That secondary detail complicates the story, but it does not necessarily make it more exotic; multiple lit kites, balloons, drones, or small airborne devices can be launched together, and a second light can also be unrelated but noticed because attention has already been drawn to the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">police faa notified after sightings of unidentified aerial object over hawaii</span><span class="citation-popover-snippet">police faa notified after sightings of unidentified aerial object over hawaii</span></span></span>
+A second light was also mentioned in early accounts. The Debrief summarised witness reporting that a similar white light appeared after the blue object, and local coverage described witnesses seeing additional lights after the main object disappeared. That secondary detail complicates the story, but it does not necessarily make it more exotic; multiple lit kites, balloons, drones, or small airborne devices can be launched together, and a second light can also be unrelated but noticed because attention has already been drawn to the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">police faa notified after sightings of unidentified aerial object over hawaii</span><span class="citation-popover-snippet">police faa notified after sightings of unidentified aerial object over hawaii</span></span></span>
 
 <img src="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-1-dark.svg" | relative_url }}" alt="Oahu Blue Object illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the videos and FAA statement add
 
-The videos add more than a bare anecdote, but less than a firm identification. They appear to show an elongated, glowing blue form rather than a simple point of light. That is why the case spread so widely: the object looked unlike a normal aircraft light, and the witnesses were reacting in real time rather than describing something from memory days later. Reputable summaries by Space.com and Live Science both treated the sighting as a real public report while noting that the FAA found no unusual aircraft incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/blue-ufo-over-hawaii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">blue ufo over hawaii</span><span class="citation-popover-snippet">blue ufo over hawaii</span></span></span>
+The videos add more than a bare anecdote, but less than a firm identification. They appear to show an elongated, glowing blue form rather than a simple point of light. That is why the case spread so widely: the object looked unlike a normal aircraft light, and the witnesses were reacting in real time rather than describing something from memory days later. Reputable summaries by Space.com and Live Science both treated the sighting as a real public report while noting that the FAA found no unusual aircraft incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/blue-ufo-over-hawaii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">blue ufo over hawaii</span><span class="citation-popover-snippet">blue ufo over hawaii</span></span></span>
 
-The FAA element is often overstated. The useful point is that officials did not have a matching aircraft accident or missing aircraft report. ABC-affiliated coverage said FAA agents confirmed they received reports from police after 911 calls, and that callers described a large blue object falling from the sky into the ocean. Hawaii News Now’s original report also quoted the FAA position that there were no aircraft incidents or accidents in that area at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc30.com/post/ufo-blue-ufo-sighting-hawaii-ohau/9341731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc30.com">[ABC30 Fresno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc30.com</span><span class="citation-popover-title">Fresno Bright blue UFO seen crashing into ocean near Hawaii</span><span class="citation-popover-snippet">Fresno Bright blue UFO seen crashing into ocean near Hawaii</span></span></span>
+The FAA element is often overstated. The useful point is that officials did not have a matching aircraft accident or missing aircraft report. ABC-affiliated coverage said FAA agents confirmed they received reports from police after 911 calls, and that callers described a large blue object falling from the sky into the ocean. Hawaii News Now’s original report also quoted the FAA position that there were no aircraft incidents or accidents in that area at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc30.com/post/ufo-blue-ufo-sighting-hawaii-ohau/9341731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc30.com">[ABC30 Fresno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc30.com</span><span class="citation-popover-title">Fresno Bright blue UFO seen crashing into ocean near Hawaii</span><span class="citation-popover-snippet">Fresno Bright blue UFO seen crashing into ocean near Hawaii</span></span></span>
 
 That weakens aircraft-crash explanations. A conventional plane, helicopter or registered aircraft going down near Oahu would normally create records, emergency response, missing-person reports, wreckage, witnesses to sound or impact, or later confirmation. None appears in the public record attached to this case.
 
-But the FAA statement does not identify the object, and it does not rule out all ordinary sources. Small kites, balloons, consumer drones, novelty lights, hobby devices and unregistered lightweight objects would not necessarily appear in aviation incident databases. The FAA’s own public guidance on accidents and incidents is focused on aircraft records, registrations, preliminary reports and National Transportation Safety Board involvement where applicable; it is not a universal catalogue of every small illuminated object in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+But the FAA statement does not identify the object, and it does not rule out all ordinary sources. Small kites, balloons, consumer drones, novelty lights, hobby devices and unregistered lightweight objects would not necessarily appear in aviation incident databases. The FAA’s own public guidance on accidents and incidents is focused on aircraft records, registrations, preliminary reports and National Transportation Safety Board involvement where applicable; it is not a universal catalogue of every small illuminated object in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The video evidence also has normal UFO-video weaknesses. It lacks reliable distance, size, altitude and speed. A small object close to the camera can look like a large object far away. A blurred string of lights can look like a single solid body. Camera shake and focus changes can make an object seem to wobble, pulse or change shape. Those problems do not mean witnesses were dishonest; they mean the recording alone cannot carry the strongest version of the claim.
 
@@ -298,9 +298,9 @@ The video evidence also has normal UFO-video weaknesses. It lacks reliable dista
 
 ## Why balloons and LED kites remain serious explanations
 
-The most persuasive sceptical interpretation is not “nothing happened”. It is that a real illuminated object was probably misread because it was seen at night over a dark coastal landscape. Online analysts quickly noted a resemblance to LED kites: flexible or framed kites fitted with strips of lights that can look like glowing bars, curves or drifting craft when filmed from a distance. Metabunk compared the Oahu footage with LED-kite footage and argued that the apparent shape changes and motion were compatible with that explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">blue ufo over hawaii.11526</span><span class="citation-popover-snippet">blue ufo over hawaii.11526</span></span></span>
+The most persuasive sceptical interpretation is not “nothing happened”. It is that a real illuminated object was probably misread because it was seen at night over a dark coastal landscape. Online analysts quickly noted a resemblance to LED kites: flexible or framed kites fitted with strips of lights that can look like glowing bars, curves or drifting craft when filmed from a distance. Metabunk compared the Oahu footage with LED-kite footage and argued that the apparent shape changes and motion were compatible with that explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">blue ufo over hawaii.11526</span><span class="citation-popover-snippet">blue ufo over hawaii.11526</span></span></span>
 
-This is not a fringe idea invented only for the Oahu case. Lighted kites have produced “UFO” reports elsewhere. A 2011 case in the Pacific Northwest was eventually identified as a large LED-lit kite, with reports describing vivid colours, odd dancing motion and a shape that fed flying-saucer speculation. Commercial night-kiting material also shows that LED kites are deliberately designed to stand out in the dark and can create striking, unfamiliar aerial patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldnet.com">[HeraldNet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldnet.com</span><span class="citation-popover-title">Herald Net.com UF O? Nope, just a kite with lights</span><span class="citation-popover-snippet">Herald Net.com UF O? Nope, just a kite with lights</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spokesman.com/stories/2011/mar/10/giant-kite-lights-night-sky-ufo-fans-imaginations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-title">giant kite lights night sky ufo fans imaginations</span><span class="citation-popover-snippet">giant kite lights night sky ufo fans imaginations</span></span></span>
+This is not a fringe idea invented only for the Oahu case. Lighted kites have produced “UFO” reports elsewhere. A 2011 case in the Pacific Northwest was eventually identified as a large LED-lit kite, with reports describing vivid colours, odd dancing motion and a shape that fed flying-saucer speculation. Commercial night-kiting material also shows that LED kites are deliberately designed to stand out in the dark and can create striking, unfamiliar aerial patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldnet.com">[HeraldNet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldnet.com</span><span class="citation-popover-title">Herald Net.com UF O? Nope, just a kite with lights</span><span class="citation-popover-snippet">Herald Net.com UF O? Nope, just a kite with lights</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spokesman.com/stories/2011/mar/10/giant-kite-lights-night-sky-ufo-fans-imaginations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-title">giant kite lights night sky ufo fans imaginations</span><span class="citation-popover-snippet">giant kite lights night sky ufo fans imaginations</span></span></span>
 
 Balloons remain plausible for a similar reason. A helium balloon, cluster of balloons, lighted party balloon, or windborne novelty object can move silently, drift with changing wind, appear to descend, and disappear over water without leaving an obvious public record. The Oahu object’s vivid blue colour and elongated appearance may seem to argue against an ordinary balloon, but balloons can carry LEDs or reflective material, and camera blur can stretch a compact source into an oblong shape. Balloon explanations are weakest when a sighting shows controlled manoeuvres, high speed against known references, radar confirmation, or recovery of non-balloon debris; the public Oahu record does not provide those stronger tests.
 
@@ -312,21 +312,21 @@ The LED-kite explanation has particular strengths:
 * **Silence:** witnesses described no engine noise, which fits a windborne object.
 * **Coastal disappearance:** a kite or balloon losing altitude near the coast could appear to drop into the sea.
 * **No aircraft incident:** a kite or balloon would not require a missing aircraft report.
-* **Similarity to known night-kiting displays:** comparable lighted kites have generated UFO reports elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">blue ufo over hawaii.11526</span><span class="citation-popover-snippet">blue ufo over hawaii.11526</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldnet.com">[HeraldNet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldnet.com</span><span class="citation-popover-title">Herald Net.com UF O? Nope, just a kite with lights</span><span class="citation-popover-snippet">Herald Net.com UF O? Nope, just a kite with lights</span></span></span>
+* **Similarity to known night-kiting displays:** comparable lighted kites have generated UFO reports elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">blue ufo over hawaii.11526</span><span class="citation-popover-snippet">blue ufo over hawaii.11526</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldnet.com">[HeraldNet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldnet.com</span><span class="citation-popover-title">Herald Net.com UF O? Nope, just a kite with lights</span><span class="citation-popover-snippet">Herald Net.com UF O? Nope, just a kite with lights</span></span></span>
 
 Its weaknesses are equally important:
 
 * **No owner identification:** no confirmed person or group has been tied to a specific LED kite on Oahu that night.
 * **Uncertain wind and distance:** public reports do not establish the object’s altitude, launch point or path with enough precision.
 * **Witness impression of speed:** witnesses thought it moved quickly, though apparent speed is hard to judge without range.
-* **Second light:** the white light reported afterwards could fit multiple explanations, but it remains an unresolved detail in the public story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">police faa notified after sightings of unidentified aerial object over hawaii</span><span class="citation-popover-snippet">police faa notified after sightings of unidentified aerial object over hawaii</span></span></span>
+* **Second light:** the white light reported afterwards could fit multiple explanations, but it remains an unresolved detail in the public story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">police faa notified after sightings of unidentified aerial object over hawaii</span><span class="citation-popover-snippet">police faa notified after sightings of unidentified aerial object over hawaii</span></span></span>
 
 <img src="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-2-dark.svg" | relative_url }}" alt="Oahu Blue Object illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this case tells us about Hawaii’s UFO record
 
 The Oahu blue object matters less as a possible alien-craft case than as a case study in Hawaiian UFO interpretation. Hawaii’s geography makes “it went into the ocean” a recurring kind of claim. On an island, many sightings naturally end at a sea horizon. At night, especially along the Leeward coast, a bright object crossing the viewer’s line of sight can seem to head into open water even when it is only descending, drifting, passing behind land, or moving away.
 
-The case also shows the modern media pattern. A local report with a vivid video, surprised witnesses and an FAA quote became national and international content within days. Space.com, Live Science, ABC affiliates, IFLScience and other outlets repeated the broad shape of the story: blue object, Oahu, 911 calls, FAA notified, no known aircraft incident. Some headlines leaned into “crashing into the sea”, while more careful coverage preserved the distinction between what witnesses believed they saw and what was officially confirmed. ABC30 Fresno <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/blue-ufo-over-hawaii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">blue ufo over hawaii</span><span class="citation-popover-snippet">blue ufo over hawaii</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/blue-ufo-over-hawaii.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">blue ufo over hawaii</span><span class="citation-popover-snippet">blue ufo over hawaii</span></span></span>
+The case also shows the modern media pattern. A local report with a vivid video, surprised witnesses and an FAA quote became national and international content within days. Space.com, Live Science, ABC affiliates, IFLScience and other outlets repeated the broad shape of the story: blue object, Oahu, 911 calls, FAA notified, no known aircraft incident. Some headlines leaned into “crashing into the sea”, while more careful coverage preserved the distinction between what witnesses believed they saw and what was officially confirmed. ABC30 Fresno<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/blue-ufo-over-hawaii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">blue ufo over hawaii</span><span class="citation-popover-snippet">blue ufo over hawaii</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/blue-ufo-over-hawaii.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">blue ufo over hawaii</span><span class="citation-popover-snippet">blue ufo over hawaii</span></span></span>
 
 That distinction is the key reader takeaway. A UFO report can be sincere, video-backed and still ambiguous. “Unidentified” does not mean imaginary, but it also does not mean extraordinary. In this case, the best evidence supports a real sighting of a luminous object over Leeward Oahu. The main doubts are equally real: the videos do not establish size or distance, no official aircraft event matched the report, no physical object was recovered, and the appearance is close enough to known LED-kite or lighted airborne-object cases to keep a mundane explanation near the top of the list.
 
@@ -345,194 +345,194 @@ The case remains worth including in Hawaii’s UFO history because it captures t
 <img src="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-3-dark.svg" | relative_url }}" alt="Oahu Blue Object illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_oahu_blue_object_927245-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Oahu&#x27;s Blue UFO Really Enter the Ocean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Oahu&#x27;s Blue UFO Really Enter the Ocean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating modern UFO sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating modern UFO sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing witness reports and visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing witness reports and visual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Connects to contemporary discussions of unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects to contemporary discussions of unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps explain sky objects commonly mistaken for anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain sky objects commonly mistaken for anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-oahu-s-blue-ufo-really-enter-the-ocean-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ The case remains worth including in Hawaii’s UFO history because it captures t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ The case remains worth including in Hawaii’s UFO history because it captures t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ The case remains worth including in Hawaii’s UFO history because it captures t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ The case remains worth including in Hawaii’s UFO history because it captures t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ The case remains worth including in Hawaii’s UFO history because it captures t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,117 +738,117 @@ The case remains worth including in Hawaii’s UFO history because it captures t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hawaiinewsnow.com  
    Title: faa notified after mysterious ufo seen above oahu appeared drop into ocean  
-   Link: <a href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/</a>  
+   Link:<a href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: blue ufo over hawaii.11526  
-   Link: <a href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/</a>  
+   Link:<a href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/footage-captured-a-mysterious-blue-ufo-hovering-over-hawaii-then-crashing-into-the-sea-58273" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/footage-captured-a-mysterious-blue-ufo-hovering-over-hawaii-then-crashing-into-the-sea-58273</a>  
+   Link:<a href="https://www.iflscience.com/footage-captured-a-mysterious-blue-ufo-hovering-over-hawaii-then-crashing-into-the-sea-58273" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/footage-captured-a-mysterious-blue-ufo-hovering-over-hawaii-then-crashing-into-the-sea-58273</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kmvt.com  
-   Link: <a href="https://www.kmvt.com/2021/01/02/faa-notified-after-large-blue-ufo-seen-above-oahu-appeared-to-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.kmvt.com/2021/01/02/faa-notified-after-large-blue-ufo-seen-above-oahu-appeared-to-drop-into-ocean/</a>  
+   Link:<a href="https://www.kmvt.com/2021/01/02/faa-notified-after-large-blue-ufo-seen-above-oahu-appeared-to-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.kmvt.com/2021/01/02/faa-notified-after-large-blue-ufo-seen-above-oahu-appeared-to-drop-into-ocean/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: blue ufo over hawaii  
-   Link: <a href="https://www.space.com/blue-ufo-over-hawaii" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/blue-ufo-over-hawaii</a>  
+   Link:<a href="https://www.space.com/blue-ufo-over-hawaii" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/blue-ufo-over-hawaii</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abc30.com  
    Title: Fresno Bright blue UFO seen crashing into ocean near Hawaii  
-   Link: <a href="https://abc30.com/post/ufo-blue-ufo-sighting-hawaii-ohau/9341731/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/post/ufo-blue-ufo-sighting-hawaii-ohau/9341731/</a>  
+   Link:<a href="https://abc30.com/post/ufo-blue-ufo-sighting-hawaii-ohau/9341731/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/post/ufo-blue-ufo-sighting-hawaii-ohau/9341731/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/accident_incidents</a>  
+   Link:<a href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/accident_incidents</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: heraldnet.com  
    Title: Herald Net.com UF O? Nope, just a kite with lights  
-   Link: <a href="https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/</a>  
+   Link:<a href="https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldnet.com/2011/03/09/ufo-nope-just-a-kite-with-lights/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spokesman.com  
    Title: giant kite lights night sky ufo fans imaginations  
-   Link: <a href="https://www.spokesman.com/stories/2011/mar/10/giant-kite-lights-night-sky-ufo-fans-imaginations/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2011/mar/10/giant-kite-lights-night-sky-ufo-fans-imaginations/</a>  
+   Link:<a href="https://www.spokesman.com/stories/2011/mar/10/giant-kite-lights-night-sky-ufo-fans-imaginations/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2011/mar/10/giant-kite-lights-night-sky-ufo-fans-imaginations/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pacioos.hawaii.edu  
    Title: model wind hawaii  
-   Link: <a href="https://www.pacioos.hawaii.edu/weather/model-wind-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://www.pacioos.hawaii.edu/weather/model-wind-hawaii/</a>  
+   Link:<a href="https://www.pacioos.hawaii.edu/weather/model-wind-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://www.pacioos.hawaii.edu/weather/model-wind-hawaii/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc30.com  
-   Link: <a href="https://abc30.com/archive/8005682/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/archive/8005682/</a>  
+   Link:<a href="https://abc30.com/archive/8005682/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/archive/8005682/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedebrief.org  
    Title: police faa notified after sightings of unidentified aerial object over hawaii  
-   Link: <a href="https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/</a>  
+   Link:<a href="https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/police-faa-notified-after-sightings-of-unidentified-aerial-object-over-hawaii/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: livescience.com  
    Title: blue ufo over hawaii  
-   Link: <a href="https://www.livescience.com/blue-ufo-over-hawaii.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/blue-ufo-over-hawaii.html</a>  
+   Link:<a href="https://www.livescience.com/blue-ufo-over-hawaii.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/blue-ufo-over-hawaii.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ncei.noaa.gov  
-   Link: <a href="https://www.ncei.noaa.gov/access/past-weather/Hawaii" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/past-weather/Hawaii</a>  
+   Link:<a href="https://www.ncei.noaa.gov/access/past-weather/Hawaii" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/past-weather/Hawaii</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: predictwind.com  
-   Link: <a href="https://www.predictwind.com/weather/united-states/hawaii/honolulu/may" target="_blank" rel="noopener noreferrer nofollow">https://www.predictwind.com/weather/united-states/hawaii/honolulu/may</a>  
+   Link:<a href="https://www.predictwind.com/weather/united-states/hawaii/honolulu/may" target="_blank" rel="noopener noreferrer nofollow">https://www.predictwind.com/weather/united-states/hawaii/honolulu/may</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/data/obhistory/PHNL.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/data/obhistory/PHNL.html</a>  
+   Link:<a href="https://www.weather.gov/data/obhistory/PHNL.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/data/obhistory/PHNL.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: forecast.weather.gov  
-   Link: <a href="https://forecast.weather.gov/zipcity.php?inputstring=Nanakuli%2C+HI" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/zipcity.php?inputstring=Nanakuli%2C+HI</a>  
+   Link:<a href="https://forecast.weather.gov/zipcity.php?inputstring=Nanakuli%2C+HI" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/zipcity.php?inputstring=Nanakuli%2C+HI</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: forecast.weather.gov  
-   Link: <a href="https://forecast.weather.gov/MapClick.php?lat=21.40380&amp;lon=-158.156" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/MapClick.php?lat=21.40380&amp;lon=-158.156</a>  
+   Link:<a href="https://forecast.weather.gov/MapClick.php?lat=21.40380&amp;lon=-158.156" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/MapClick.php?lat=21.40380&amp;lon=-158.156</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: BLUE UFO Spotted in Hawaii Hovering in the Night Sky  
-   Link: <a href="https://www.youtube.com/watch?v=qcKM5pZ7uHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qcKM5pZ7uHc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;What was that?&#x27;: Object falls through North Shore skies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qcKM5pZ7uHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qcKM5pZ7uHc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;What was that?&#x27;: Object falls through North Shore skies...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: 'What was that?': Object falls through North Shore skies  
-   Link: <a href="https://www.youtube.com/watch?v=wbvAxhn3mlg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wbvAxhn3mlg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Hawaiʻi likely spent rocket...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wbvAxhn3mlg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wbvAxhn3mlg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Hawaiʻi likely spent rocket...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wish.com  
-   Link: <a href="https://www.wish.com/product/128-led-lights-kite-can-fly-on-the-night-soft-cloth-ufo-flying-saucer-super-bright-led-luminous-kite-59e5c424471c140c97c933c6" target="_blank" rel="noopener noreferrer nofollow">https://www.wish.com/product/128-led-lights-kite-can-fly-on-the-night-soft-cloth-ufo-flying-saucer-super-bright-led-luminous-kite-59e5c424471c140c97c933c6</a>  
+   Link:<a href="https://www.wish.com/product/128-led-lights-kite-can-fly-on-the-night-soft-cloth-ufo-flying-saucer-super-bright-led-luminous-kite-59e5c424471c140c97c933c6" target="_blank" rel="noopener noreferrer nofollow">https://www.wish.com/product/128-led-lights-kite-can-fly-on-the-night-soft-cloth-ufo-flying-saucer-super-bright-led-luminous-kite-59e5c424471c140c97c933c6</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HawaiiNewsNow/posts/a-wind-advisory-has-been-issued-for-portions-of-the-state-due-to-strong-trade-wi/1405178188308564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HawaiiNewsNow/posts/a-wind-advisory-has-been-issued-for-portions-of-the-state-due-to-strong-trade-wi/1405178188308564/</a>  
+   Link:<a href="https://www.facebook.com/HawaiiNewsNow/posts/a-wind-advisory-has-been-issued-for-portions-of-the-state-due-to-strong-trade-wi/1405178188308564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HawaiiNewsNow/posts/a-wind-advisory-has-been-issued-for-portions-of-the-state-due-to-strong-trade-wi/1405178188308564/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CJo-spoHi7c/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CJo-spoHi7c/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/p/CJo-spoHi7c/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CJo-spoHi7c/?hl=en-gb</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kites/comments/1oef87h/behold_the_maiden_flight_of_my_led_kite/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kites/comments/1oef87h/behold_the_maiden_flight_of_my_led_kite/</a>  
+   Link:<a href="https://www.reddit.com/r/kites/comments/1oef87h/behold_the_maiden_flight_of_my_led_kite/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kites/comments/1oef87h/behold_the_maiden_flight_of_my_led_kite/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: honolulupd.org  
-   Link: <a href="https://www.honolulupd.org/calls-24hours/" target="_blank" rel="noopener noreferrer nofollow">https://www.honolulupd.org/calls-24hours/</a>
+   Link:<a href="https://www.honolulupd.org/calls-24hours/" target="_blank" rel="noopener noreferrer nofollow">https://www.honolulupd.org/calls-24hours/</a>

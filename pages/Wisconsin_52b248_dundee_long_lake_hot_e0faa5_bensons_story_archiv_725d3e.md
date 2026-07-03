@@ -253,13 +253,13 @@ image: /assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story
 Benson’s Hide-A-Way mattered to Wisconsin UFO history not because it proved that unusual objects were flying over Long Lake, but because it became the place where local stories were collected, displayed and retold. For decades, visitors who had seen strange lights near [Dundee]({{ 'dundee/' | relative_url }}) Mountain or over the lake knew there was one tavern where somebody would listen, compare accounts and add them to a growing archive of local lore. That role made the bar one of the most important cultural centres in Wisconsin’s UFO landscape.
 
 <img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-1-dark.svg" | relative_url }}" alt="Benson s illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the same time, the very qualities that made Benson’s valuable as a record of local memory also complicate its evidential value. The bar was openly pro-UFO, hosted annual gatherings of believers, displayed photographs and witness reports, and encouraged discussion of unexplained experiences. It preserved stories that might otherwise have disappeared, but it was never a neutral investigative institution. Understanding that tension is essential to understanding Dundee’s reputation as a UFO hotspot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+At the same time, the very qualities that made Benson’s valuable as a record of local memory also complicate its evidential value. The bar was openly pro-UFO, hosted annual gatherings of believers, displayed photographs and witness reports, and encouraged discussion of unexplained experiences. It preserved stories that might otherwise have disappeared, but it was never a neutral investigative institution. Understanding that tension is essential to understanding Dundee’s reputation as a UFO hotspot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
 ## The bar that archived Dundee's UFO lore
 
-Located on the shore of Long Lake in the Kettle Moraine region, Benson’s Hide-A-Way evolved from a lakeside tavern into what regular visitors called Dundee’s “UFO headquarters”. The transformation was driven largely by owner Bill Benson, who became one of the most visible promoters and collectors of local UFO accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+Located on the shore of Long Lake in the Kettle Moraine region, Benson’s Hide-A-Way evolved from a lakeside tavern into what regular visitors called Dundee’s “UFO headquarters”. The transformation was driven largely by owner Bill Benson, who became one of the most visible promoters and collectors of local UFO accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
-The bar occupied an unusual position within Wisconsin UFO culture. Most sightings are scattered across police reports, UFO databases, newspaper stories or private recollections. Benson’s offered a physical place where those fragments could be gathered. Visitors arrived with photographs, stories, sketches and rumours. Some had lived near Long Lake for decades; others travelled specifically because they had heard Dundee described as the “UFO Capital of the World”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+The bar occupied an unusual position within Wisconsin UFO culture. Most sightings are scattered across police reports, UFO databases, newspaper stories or private recollections. Benson’s offered a physical place where those fragments could be gathered. Visitors arrived with photographs, stories, sketches and rumours. Some had lived near Long Lake for decades; others travelled specifically because they had heard Dundee described as the “UFO Capital of the World”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
 As a result, the bar became less important as a location where sightings supposedly occurred and more important as a location where sightings were remembered. The archive was informal, but it helped sustain the idea that Dundee's reports formed part of a continuous local tradition rather than a series of isolated incidents.
 
@@ -267,41 +267,41 @@ As a result, the bar became less important as a location where sightings suppose
 
 ## Bill Benson as collector rather than investigator
 
-Benson presented himself primarily as a listener and storyteller. He often spoke publicly about his own interest in unexplained phenomena, tracing it back to reports of a crop-circle-like formation near his family home in the late 1940s. He later claimed to have witnessed unusual lights himself during military service and remained convinced that strange activity occurred around Dundee Mountain and Long Lake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+Benson presented himself primarily as a listener and storyteller. He often spoke publicly about his own interest in unexplained phenomena, tracing it back to reports of a crop-circle-like formation near his family home in the late 1940s. He later claimed to have witnessed unusual lights himself during military service and remained convinced that strange activity occurred around Dundee Mountain and Long Lake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
-What distinguished him from many UFO enthusiasts was not formal investigation but long-term accumulation. News coverage and visitor accounts repeatedly describe him keeping photographs, videos and witness stories gathered over many years. Benson himself said that people regularly brought material to the tavern and that he shared what he had collected without insisting that others accept his conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[Spectrum News 1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
+What distinguished him from many UFO enthusiasts was not formal investigation but long-term accumulation. News coverage and visitor accounts repeatedly describe him keeping photographs, videos and witness stories gathered over many years. Benson himself said that people regularly brought material to the tavern and that he shared what he had collected without insisting that others accept his conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[Spectrum News 1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
 
-This gave him a role similar to a local archivist. When researchers, journalists or curious tourists wanted to hear Dundee stories, they often started with Benson because he had become a central repository for community memory. The collection was not organised according to scientific standards, but it preserved material that otherwise might have remained private or been lost entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">ufo daze</span><span class="citation-popover-snippet">Since then, hundreds of bizarre sightings and encounters in...Read more...</span></span></span>
+This gave him a role similar to a local archivist. When researchers, journalists or curious tourists wanted to hear Dundee stories, they often started with Benson because he had become a central repository for community memory. The collection was not organised according to scientific standards, but it preserved material that otherwise might have remained private or been lost entirely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">ufo daze</span><span class="citation-popover-snippet">Since then, hundreds of bizarre sightings and encounters in...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5v1YM0vUO2Q" title="Ep 14: UFO Sightings (Malibu Megaliths, Dundee WI&#x27;s Bensons Hideaway, Coral Castle, Area 51)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5v1YM0vUO2Q" target="_blank" rel="noopener noreferrer">Ep 14: UFO Sightings (Malibu Megaliths, Dundee WI&#x27;s Bensons Hideaway, Coral Castle, Area 51)</a></p><p class="youtube-embed-meta">Channel: Scott Markus Ghost Stories &middot; Views: 174 &middot; Uploaded: October 2020 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5v1YM0vUO2Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5v1YM0vUO2Q">Open on YouTube</a></p></div></div></div>
 
 ## The binders, photographs and witness material behind the bar
 
-Descriptions of Benson’s Hide-A-Way consistently mention binders and scrapbooks filled with UFO photographs. Several accounts describe collections of images showing glowing lights above Dundee Mountain, Long Lake or the surrounding countryside. Many were reportedly supplied by local residents or by enthusiasts who spent long periods photographing the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+Descriptions of Benson’s Hide-A-Way consistently mention binders and scrapbooks filled with UFO photographs. Several accounts describe collections of images showing glowing lights above Dundee Mountain, Long Lake or the surrounding countryside. Many were reportedly supplied by local residents or by enthusiasts who spent long periods photographing the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
-One frequently mentioned contributor was photographer Tim Hildebrandt, who reportedly spent nights on Dundee Mountain attempting to capture unusual lights. Visitors described seeing albums containing numerous images of bright circular objects and unexplained luminous forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+One frequently mentioned contributor was photographer Tim Hildebrandt, who reportedly spent nights on Dundee Mountain attempting to capture unusual lights. Visitors described seeing albums containing numerous images of bright circular objects and unexplained luminous forms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
-The collection also extended beyond photographs. Accounts mention witness sketches, reports of lights over the lake, stories of objects entering or leaving the water, and material relating to the unusual reed formation that appeared near Long Lake in 1995 and was sometimes discussed as a crop-circle analogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+The collection also extended beyond photographs. Accounts mention witness sketches, reports of lights over the lake, stories of objects entering or leaving the water, and material relating to the unusual reed formation that appeared near Long Lake in 1995 and was sometimes discussed as a crop-circle analogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
 For historians of folklore and local belief, this material is significant even when the photographs themselves are inconclusive. The archive documents how residents interpreted unusual experiences and how those interpretations changed over time. It records the social history of the sightings whether or not the sightings represented extraordinary events.
 
 <img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-2-dark.svg" | relative_url }}" alt="Benson s illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the collection matters to Wisconsin UFO history
 
-Many Wisconsin UFO stories survive only because somebody wrote them down, published them in a newsletter or entered them into a reporting database. Benson’s Hide-A-Way performed a similar function at a local level. It gave witnesses a place to compare experiences and encouraged people to preserve photographs or memories that might otherwise have been discarded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[Spectrum News 1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
+Many Wisconsin UFO stories survive only because somebody wrote them down, published them in a newsletter or entered them into a reporting database. Benson’s Hide-A-Way performed a similar function at a local level. It gave witnesses a place to compare experiences and encouraged people to preserve photographs or memories that might otherwise have been discarded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[Spectrum News 1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
 
-The bar also helped connect Dundee to wider UFO networks. Annual [UFO Daze]({{ 'ufo-daze/' | relative_url }}) gatherings brought enthusiasts, speakers, researchers and curious visitors from outside Wisconsin. Those events generated new reports, interviews and recordings, adding another layer to the local archive. By the 2000s and 2010s, journalists and documentary filmmakers regularly treated Benson’s as the entry point into Dundee’s UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">ufo daze</span><span class="citation-popover-snippet">Since then, hundreds of bizarre sightings and encounters in...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
+The bar also helped connect Dundee to wider UFO networks. Annual [UFO Daze]({{ 'ufo-daze/' | relative_url }}) gatherings brought enthusiasts, speakers, researchers and curious visitors from outside Wisconsin. Those events generated new reports, interviews and recordings, adding another layer to the local archive. By the 2000s and 2010s, journalists and documentary filmmakers regularly treated Benson’s as the entry point into Dundee’s UFO culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">ufo daze</span><span class="citation-popover-snippet">Since then, hundreds of bizarre sightings and encounters in...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
 
 In that sense, the bar functioned much like a community museum. It was less concerned with proving a case than with preserving a narrative. The continuing visibility of Dundee in Wisconsin UFO discussions owes much to the fact that Benson created a place where stories could accumulate year after year rather than fading after a single news cycle.
 
 <img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-3-dark.svg" | relative_url }}" alt="Benson s illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_bensons_story_archiv_725d3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a UFO-themed bar is useful but not neutral evidence
 
-The strongest reason to treat the Benson archive cautiously is that it emerged from a setting designed to celebrate UFO belief. Alien decorations, themed events, annual festivals and a reputation as “UFO headquarters” encouraged visitors to interpret unusual lights through an extraterrestrial framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+The strongest reason to treat the Benson archive cautiously is that it emerged from a setting designed to celebrate UFO belief. Alien decorations, themed events, annual festivals and a reputation as “UFO headquarters” encouraged visitors to interpret unusual lights through an extraterrestrial framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
 That does not mean witnesses were dishonest. Many probably reported exactly what they believed they had seen. The problem is that a believer-friendly environment can influence memory, interpretation and expectation. Someone arriving at a bar famous for UFO stories is more likely to discuss a strange light than someone arriving at an ordinary lakeside tavern.
 
-The photographs present similar difficulties. Most publicly described images appear to be distant lights, glowing objects or low-detail night photographs. Such material can be intriguing, but it rarely contains enough information to establish distance, size, speed or identity. Without independent analysis, many images remain ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
+The photographs present similar difficulties. Most publicly described images appear to be distant lights, glowing objects or low-detail night photographs. Such material can be intriguing, but it rarely contains enough information to establish distance, size, speed or identity. Without independent analysis, many images remain ambiguous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span>
 
 There is also a selection effect. Benson collected reports that interested him and his visitors. The archive naturally preserves unusual stories while overlooking the far larger number of ordinary nights when nothing remarkable was reported. That tendency is common in local folklore collections and does not invalidate them, but it means they should not be mistaken for systematic evidence.
 
@@ -309,199 +309,199 @@ There is also a selection effect. Benson collected reports that interested him a
 
 ## After Bill Benson
 
-Bill Benson's death in 2021 marked a turning point for Dundee's UFO culture. Reports from Wisconsin paranormal and folklore outlets note that UFO Daze ended after his passing, and many descriptions of the bar now refer to it as part of a completed era in the region's history. Wisconsin Frights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/tip/4109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-snippet">No more UFO Daze. Mr. Benson passed away. Bill was a great leader in the community. [Robert Werner, 07/15/...Read more...</span></span></span>
+Bill Benson's death in 2021 marked a turning point for Dundee's UFO culture. Reports from Wisconsin paranormal and folklore outlets note that UFO Daze ended after his passing, and many descriptions of the bar now refer to it as part of a completed era in the region's history. Wisconsin Frights<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/tip/4109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-snippet">No more UFO Daze. Mr. Benson passed away. Bill was a great leader in the community. [Robert Werner, 07/15/...Read more...</span></span></span>
 
-Yet the archive's influence remains. Articles, documentaries, podcasts and local histories continue to draw on the stories Benson collected. Even when researchers are sceptical of the claims themselves, they often recognise the importance of the collection as a record of how a Wisconsin lake community built one of the state's most enduring UFO legends. Wisconsin Frights <span class="citation-chip-wrap"><a class="citation-chip" href="https://teakrulos.com/tag/long-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teakrulos.com">[teakrulos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teakrulos.com</span><span class="citation-popover-title">Long Lake UFO</span><span class="citation-popover-snippet">Tea Krulos23 Jul 2021 — Bill Benson, proprietor of Benson&#x27;s Hide-A-Way, has spotted UFOs himself. A nearby marsh is where a mysterious cr...</span></span></span> The lasting significance of Benson’s Hide-A-Way is therefore cultural more than evidential. It preserved memories, encouraged storytelling and gave Dundee’s sightings a physical home. For anyone trying to understand why Long Lake became a recognised Wisconsin UFO hotspot, the bar is as important as any individual light seen in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[2Spectrum News 1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
+Yet the archive's influence remains. Articles, documentaries, podcasts and local histories continue to draw on the stories Benson collected. Even when researchers are sceptical of the claims themselves, they often recognise the importance of the collection as a record of how a Wisconsin lake community built one of the state's most enduring UFO legends. Wisconsin Frights<span class="citation-chip-wrap"><a class="citation-chip" href="https://teakrulos.com/tag/long-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teakrulos.com">[teakrulos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teakrulos.com</span><span class="citation-popover-title">Long Lake UFO</span><span class="citation-popover-snippet">Tea Krulos23 Jul 2021 — Bill Benson, proprietor of Benson&#x27;s Hide-A-Way, has spotted UFOs himself. A nearby marsh is where a mysterious cr...</span></span></span> The lasting significance of Benson’s Hide-A-Way is therefore cultural more than evidential. It preserved memories, encouraged storytelling and gave Dundee’s sightings a physical home. For anyone trying to understand why Long Lake became a recognised Wisconsin UFO hotspot, the bar is as important as any individual light seen in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultofweird.com">[Cult of Weird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultofweird.com</span><span class="citation-popover-title">Cult of Weird Dundee, Wisconsin: UFO Capital of the World</span><span class="citation-popover-snippet">Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</span><span class="citation-popover-meta">Published: June 3, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumnews1.com">[2Spectrum News 1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumnews1.com</span><span class="citation-popover-title">wisconsin bar has some out of this world history</span><span class="citation-popover-snippet">“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The bar that archived Dundee&#x27;s UFO lore. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The bar that archived Dundee&#x27;s UFO lore. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weird+Wisconsin+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird Wisconsin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mnsGPoAglWgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weird Wisconsin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weird+Wisconsin+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird Wisconsin">Weird Wisconsin</a>
-        </h4>
-        <p class="fr-book-author">By Linda S. Godfrey, Richard D. Hendricks et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weird+Wisconsin+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird Wisconsin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mnsGPoAglWgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weird Wisconsin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weird+Wisconsin+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird Wisconsin">Weird Wisconsin</a>
+</h4>
+<p class="fr-book-author">By Linda S. Godfrey, Richard D. Hendricks et al.</p>
         
-        <p class="fr-book-desc">Covers Wisconsin mystery culture and locations like Dundee.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weird+Wisconsin+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Wisconsin mystery culture and locations like Dundee.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weird+Wisconsin+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Useful comparison for how locations become centers of recurring unexplained stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison for how locations become centers of recurring unexplained stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ufo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ufo Encyclopedia">The Ufo Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical grounding for UFO lore collections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical grounding for UFO lore collections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how local traditions preserve unusual stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how local traditions preserve unusual stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weird+Wisconsin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weird Wisconsin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ufo Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weird+Wisconsin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weird Wisconsin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ufo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ufo Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-bar-that-archived-dundee-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ Yet the archive's influence remains. Articles, documentaries, podcasts and local
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ Yet the archive's influence remains. Articles, documentaries, podcasts and local
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ Yet the archive's influence remains. Articles, documentaries, podcasts and local
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ Yet the archive's influence remains. Articles, documentaries, podcasts and local
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ Yet the archive's influence remains. Articles, documentaries, podcasts and local
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,111 +707,111 @@ Yet the archive's influence remains. Articles, documentaries, podcasts and local
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spectrumnews1.com  
    Title: wisconsin bar has some out of this world history  
-   Link: <a href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow">https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</p></details>
+   Link:<a href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow">https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“In 1988 and 1989 we were seeing a lot of strange lights in the sky,” said Benson.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: teakrulos.com  
    Title: Long Lake UFO  
-   Link: <a href="https://teakrulos.com/tag/long-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://teakrulos.com/tag/long-lake-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tea Krulos23 Jul 2021 — Bill Benson, proprietor of Benson&#x27;s Hide-A-Way, has spotted UFOs himself. A nearby marsh is where a mysterious cr...</p></details>
+   Link:<a href="https://teakrulos.com/tag/long-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://teakrulos.com/tag/long-lake-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tea Krulos23 Jul 2021 — Bill Benson, proprietor of Benson&#x27;s Hide-A-Way, has spotted UFOs himself. A nearby marsh is where a mysterious cr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cultofweird.com  
    Title: Cult of Weird Dundee, Wisconsin: UFO Capital of the World  
-   Link: <a href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</p></details>
+   Link:<a href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldJune 3, 2020 — Bill&#x27;s extraterrestrial-themed tavern, Benson&#x27;s Hide-a-Way, may be...</p></details>
    Published: June 3, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wisconsinfrights.com  
    Title: ufo daze  
-   Link: <a href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/ufo-daze/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Since then, hundreds of bizarre sightings and encounters in...Read more...</p></details>
+   Link:<a href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/ufo-daze/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since then, hundreds of bizarre sightings and encounters in...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wisconsinfrights.com  
    Title: dundee ufo daze documentary  
-   Link: <a href="https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsUFO Daze: Documentary Spotlights Aliens in Dundee1 Aug 2017 — New film from Mark Borchardt focuses on the Dundee UFO fes...</p></details>
+   Link:<a href="https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsUFO Daze: Documentary Spotlights Aliens in Dundee1 Aug 2017 — New film from Mark Borchardt focuses on the Dundee UFO fes...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cultofweird.com  
-   Link: <a href="https://www.cultofweird.com/blog/dundee-ufo-daze-2018/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/blog/dundee-ufo-daze-2018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cult of WeirdI Visited a Local UFO Hotspot During the Annual Gathering...27 Jul 2018 — Bill&#x27;s bar, Benson&#x27;s Hide-a-Way, is the self proc...</p></details>
+   Link:<a href="https://www.cultofweird.com/blog/dundee-ufo-daze-2018/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/blog/dundee-ufo-daze-2018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cult of WeirdI Visited a Local UFO Hotspot During the Annual Gathering...27 Jul 2018 — Bill&#x27;s bar, Benson&#x27;s Hide-a-Way, is the self proc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: roadsideamerica.com  
-   Link: <a href="https://www.roadsideamerica.com/tip/4109" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/4109</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No more UFO Daze. Mr. Benson passed away. Bill was a great leader in the community. [Robert Werner, 07/15/...Read more...</p></details>
+   Link:<a href="https://www.roadsideamerica.com/tip/4109" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/4109</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No more UFO Daze. Mr. Benson passed away. Bill was a great leader in the community. [Robert Werner, 07/15/...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fdl.com  
    Title: Benson's Hide-A-Way  
-   Link: <a href="https://www.fdl.com/listing/bensons-hide-a-way/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdl.com/listing/bensons-hide-a-way/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fond du LacBenson&#x27;s Hide-A-Way is also the home of UFO Daze, an annual gathering of UFO believers and non-believers alike, held every yea...</p></details>
+   Link:<a href="https://www.fdl.com/listing/bensons-hide-a-way/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdl.com/listing/bensons-hide-a-way/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fond du LacBenson&#x27;s Hide-A-Way is also the home of UFO Daze, an annual gathering of UFO believers and non-believers alike, held every yea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsThe legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. The annual part...</p></details>
+   Link:<a href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsThe legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. The annual part...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/275520637/Filer-s-Files-Worldwide-Reports-of-UFO-Sightings-George-A-Filer-David-E-Twichell-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/275520637/Filer-s-Files-Worldwide-Reports-of-UFO-Sightings-George-A-Filer-David-E-Twichell-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benson&#x27;s Hideaway Restaurant, located on Long Lake, again saw UFOs. Both sightings were observed by a multiple group of UFO buffs. A ligh...</p></details>
+   Link:<a href="https://www.scribd.com/document/275520637/Filer-s-Files-Worldwide-Reports-of-UFO-Sightings-George-A-Filer-David-E-Twichell-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/275520637/Filer-s-Files-Worldwide-Reports-of-UFO-Sightings-George-A-Filer-David-E-Twichell-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benson&#x27;s Hideaway Restaurant, located on Long Lake, again saw UFOs. Both sightings were observed by a multiple group of UFO buffs. A ligh...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: islands.com  
    Title: trio wisconsin towns claim ufo capital of the world dundee elmwood belleville  
-   Link: <a href="https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/" target="_blank" rel="noopener noreferrer nofollow">https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inspired by the appearance of a crop circle near his home as a boy in 1947, Benson started Dundee&#x27;s annual UFO...Read more...</p></details>
+   Link:<a href="https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/" target="_blank" rel="noopener noreferrer nofollow">https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inspired by the appearance of a crop circle near his home as a boy in 1947, Benson started Dundee&#x27;s annual UFO...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hem to anyone interested. Unfortunately ET did...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hem to anyone interested. Unfortunately ET did...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=K4-B01SR1Gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4-B01SR1Gs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dundee Project Review (2017, Mark Borchardt) | House of Horror | Buddy Candela...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K4-B01SR1Gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4-B01SR1Gs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dundee Project Review (2017, Mark Borchardt) | House of Horror | Buddy Candela...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thementalshed.com  
    Title: UF Os in the Kettle Moraine  
-   Link: <a href="https://www.thementalshed.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow">https://www.thementalshed.com/ufo-daze/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Kettle Moraine - Mental Shed13 Feb 2023 — For more than 30 years, people in tinfoil hats gathered on the shore of Long Lake t...</p></details>
+   Link:<a href="https://www.thementalshed.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow">https://www.thementalshed.com/ufo-daze/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Kettle Moraine - Mental Shed13 Feb 2023 — For more than 30 years, people in tinfoil hats gathered on the shore of Long Lake t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: authenticwisconsin.com  
    Title: Wisconsin Life story on UFO's in Wisconsin.Read more  
-   Link: <a href="https://authenticwisconsin.com/dundee.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/dundee.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notable Places | Dundee, WisconsinBenson&#x27;s Holiday Hide-A-Way (UFO Headquarters) in Campbellsport, on the north tip of Long Lake hosts &quot;U...</p></details>
+   Link:<a href="https://authenticwisconsin.com/dundee.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/dundee.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notable Places | Dundee, WisconsinBenson&#x27;s Holiday Hide-A-Way (UFO Headquarters) in Campbellsport, on the north tip of Long Lake hosts &quot;U...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: q985online.com  
    Title: ufo sightings dundee wisconsin  
-   Link: <a href="https://q985online.com/ufo-sightings-dundee-wisconsin/" target="_blank" rel="noopener noreferrer nofollow">https://q985online.com/ufo-sightings-dundee-wisconsin/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benson&#x27;s Hide-a-Way, may be the only place in Wisconsin where you can report a UFO sighting, see an alien in a...Read more...</p></details>
+   Link:<a href="https://q985online.com/ufo-sightings-dundee-wisconsin/" target="_blank" rel="noopener noreferrer nofollow">https://q985online.com/ufo-sightings-dundee-wisconsin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benson&#x27;s Hide-a-Way, may be the only place in Wisconsin where you can report a UFO sighting, see an alien in a...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Outdoor Wisconsin | Program | Season 36 Episode 6  
-   Link: <a href="https://www.youtube.com/watch?v=DtragqL8j0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DtragqL8j0Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee, WI: Old Mill, UFO&#x27;s over Long Lake?, UFO Daze, Cool Abandoned Houses! Crazy Weather...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DtragqL8j0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DtragqL8j0Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee, WI: Old Mill, UFO&#x27;s over Long Lake?, UFO Daze, Cool Abandoned Houses! Crazy Weather...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/333827440359540/posts/1628161187592819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/333827440359540/posts/1628161187592819/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bensons hideaway dundee long lake area ufo capital bill...bensons hideaway dundee long lake area ufo capital bill passed away in 2021. r...</p></details>
+   Link:<a href="https://www.facebook.com/groups/333827440359540/posts/1628161187592819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/333827440359540/posts/1628161187592819/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bensons hideaway dundee long lake area ufo capital bill...bensons hideaway dundee long lake area ufo capital bill passed away in 2021. r...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5v1YM0vUO2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5v1YM0vUO2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, Area 51) &amp;middot; Comments...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5v1YM0vUO2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5v1YM0vUO2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, Area 51) &amp;middot; Comments...</p></details>

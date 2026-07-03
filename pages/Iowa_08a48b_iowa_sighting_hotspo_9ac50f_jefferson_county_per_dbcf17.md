@@ -250,16 +250,16 @@ image: /assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_p
 
 ## Introduction
 
-Jefferson County stands out in Iowa UFO statistics for an unusual reason: not because it produces the largest number of reports, but because it produces a high number relative to its small population. Axios Des Moines, using National UFO Reporting Center (NUFORC) data and Census figures, identified Jefferson County as Iowa’s leading county for UFO reports per 100,000 residents, at roughly 114 reports per 100,000 people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Charted: Iowa&#x27;s UFO hotspots</span><span class="citation-popover-snippet">A choropleth map of the U.S. showing UFO sightings in Iowa per 100k residents, by county.Read more...</span></span></span>
+Jefferson County stands out in Iowa UFO statistics for an unusual reason: not because it produces the largest number of reports, but because it produces a high number relative to its small population. Axios Des Moines, using National UFO Reporting Center (NUFORC) data and Census figures, identified Jefferson County as Iowa’s leading county for UFO reports per 100,000 residents, at roughly 114 reports per 100,000 people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Charted: Iowa&#x27;s UFO hotspots</span><span class="citation-popover-snippet">A choropleth map of the U.S. showing UFO sightings in Iowa per 100k residents, by county.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-1-dark.svg" | relative_url }}" alt="Jefferson Rate illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That sounds dramatic at first glance. Yet the key question is whether the county reflects an especially intense concentration of unexplained aerial events, or whether the statistics are being distorted by what statisticians call a “small-number effect”. In counties with relatively few residents, even a modest cluster of reports can push the per-capita rate sharply upward. Jefferson County therefore matters less as proof of extraordinary activity and more as a useful example of how UFO reporting maps can be misunderstood if raw totals and population size are not considered together.
 
 ## Why does Jefferson County stand out?
 
-Jefferson County’s population is small by Iowa standards. The 2020 Census recorded 15,663 residents, with recent estimates remaining around the mid-15,000 range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sos.iowa.gov/elections/pdf/2020census/counties.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.iowa.gov">[Iowa Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.iowa.gov</span><span class="citation-popover-snippet">iowa.gov2020 US Census Iowa Counties Population2020 U.S. Census Iowa Counties Population. Iowa: Population and Housing... Jefferson Coun...</span></span></span> A county of that size does not need hundreds of reports to produce an eye-catching per-capita figure.
+Jefferson County’s population is small by Iowa standards. The 2020 Census recorded 15,663 residents, with recent estimates remaining around the mid-15,000 range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sos.iowa.gov/elections/pdf/2020census/counties.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.iowa.gov">[Iowa Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.iowa.gov</span><span class="citation-popover-snippet">iowa.gov2020 US Census Iowa Counties Population2020 U.S. Census Iowa Counties Population. Iowa: Population and Housing... Jefferson Coun...</span></span></span> A county of that size does not need hundreds of reports to produce an eye-catching per-capita figure.
 
-That is the central point behind the Jefferson County hotspot story. A county with roughly 15,000 residents could rise near the top of a statewide ranking through only a few dozen reports spread over many years. In a much larger county such as Polk County, by contrast, dozens of additional sightings barely change the per-person rate because the population base is so much larger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</span></span></span>
+That is the central point behind the Jefferson County hotspot story. A county with roughly 15,000 residents could rise near the top of a statewide ranking through only a few dozen reports spread over many years. In a much larger county such as Polk County, by contrast, dozens of additional sightings barely change the per-person rate because the population base is so much larger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</span></span></span>
 
 This is why Jefferson County looks different from Des Moines-area reporting. Polk County dominates Iowa in raw report totals because it contains the state’s largest urban concentration. Jefferson County becomes prominent only after the data are adjusted for population. The distinction matters because “most reports” and “highest rate” are not the same thing.
 
@@ -288,13 +288,13 @@ At the same time, a high rate does not automatically mean:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * More unexplained aerial phenomena are objectively occurring there.
-* The county contains stronger evidence than larger Iowa cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jefferson County, Iowa</span><span class="citation-popover-snippet">Jefferson County, Iowa</span></span></span>
+* The county contains stronger evidence than larger Iowa cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jefferson County, Iowa</span><span class="citation-popover-snippet">Jefferson County, Iowa</span></span></span>
 * Reports were independently verified.
 * Multiple reports represent multiple separate objects.
 
 </div>
 
-This distinction is important because NUFORC is primarily a public reporting system rather than a scientific survey. Witnesses submit observations directly, often without independent confirmation. Axios noted that NUFORC volunteers attempt to remove obvious hoaxes, but the database still reflects self-reported experiences rather than fully investigated cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">America&#x27;s UFO hotspots, mapped8 Feb 2024 — A choropleth map of the US showing UFO sightings per 100k residents, by county...</span></span></span>
+This distinction is important because NUFORC is primarily a public reporting system rather than a scientific survey. Witnesses submit observations directly, often without independent confirmation. Axios noted that NUFORC volunteers attempt to remove obvious hoaxes, but the database still reflects self-reported experiences rather than fully investigated cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">America&#x27;s UFO hotspots, mapped8 Feb 2024 — A choropleth map of the US showing UFO sightings per 100k residents, by county...</span></span></span>
 
 Jefferson County therefore functions best as a lesson in interpretation. It shows how UFO geography can change dramatically depending on whether readers look at totals, percentages or rates.
 
@@ -311,7 +311,7 @@ Imagine two counties:
 
 The larger county clearly generated far more reports in total. Yet the smaller county could appear dramatically more active once the figures are converted into reports per 100,000 residents.
 
-That is effectively what happened with Jefferson County. The county’s high ranking comes from scaling a relatively modest number of reports against a small population base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">midwest ufo sightings iowa uaps</span><span class="citation-popover-snippet">The Midwest is flyover country — even for UFO sightings25 Oct 2024 — The Midwest is used to hearing flyover jokes, but when it comes to u...</span></span></span>
+That is effectively what happened with Jefferson County. The county’s high ranking comes from scaling a relatively modest number of reports against a small population base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">midwest ufo sightings iowa uaps</span><span class="citation-popover-snippet">The Midwest is flyover country — even for UFO sightings25 Oct 2024 — The Midwest is used to hearing flyover jokes, but when it comes to u...</span></span></span>
 
 Several additional factors can amplify the effect:
 
@@ -326,11 +326,11 @@ Many UFO rankings combine decades of data. A county may look active because repo
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-2-dark.svg" | relative_url }}" alt="Jefferson Rate illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Retrospective submissions
 
-NUFORC includes many reports filed years after the claimed event. That can complicate attempts to identify true historical spikes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=32984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 32984August 20, 2023 — 11 Nov 2003 — NUFORC UFO Sighting 32984. Occurred: 2000-10-08 02:00 Local - Approximate...</span><span class="citation-popover-meta">Published: October 8, 2000</span></span></span>
+NUFORC includes many reports filed years after the claimed event. That can complicate attempts to identify true historical spikes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=32984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 32984August 20, 2023 — 11 Nov 2003 — NUFORC UFO Sighting 32984. Occurred: 2000-10-08 02:00 Local - Approximate...</span><span class="citation-popover-meta">Published: October 8, 2000</span></span></span>
 
 ### Population decline
 
-Jefferson County’s population has slowly decreased over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jefferson County, Iowa</span><span class="citation-popover-snippet">Jefferson County, Iowa</span></span></span> If the denominator shrinks while the number of reports remains stable, the per-capita rate rises automatically.
+Jefferson County’s population has slowly decreased over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jefferson County, Iowa</span><span class="citation-popover-snippet">Jefferson County, Iowa</span></span></span> If the denominator shrinks while the number of reports remains stable, the per-capita rate rises automatically.
 
 For readers trying to understand Iowa UFO patterns, this means a county can appear statistically extraordinary without producing a correspondingly extraordinary body of evidence.
 
@@ -373,16 +373,16 @@ The most useful cases usually involve:
 
 </div>
 
-Many NUFORC entries, by contrast, are brief single-witness narratives with little supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191972" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1919727 Sept 2025 — Occurred: 2015-09-27 21:15 Local - Approximate · Reported: 2025-08-21 23:55 Pacific · Duration: N...</span><span class="citation-popover-meta">Published: September 27, 2015</span></span></span>
+Many NUFORC entries, by contrast, are brief single-witness narratives with little supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191972" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1919727 Sept 2025 — Occurred: 2015-09-27 21:15 Local - Approximate · Reported: 2025-08-21 23:55 Pacific · Duration: N...</span><span class="citation-popover-meta">Published: September 27, 2015</span></span></span>
 
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-3-dark.svg" | relative_url }}" alt="Jefferson Rate illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f_jefferson_county_per_dbcf17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Separate unusual from unexplained
 
 A witness can honestly describe something strange without the object remaining permanently unexplained. This distinction is often lost in popular UFO rankings.
 
-For example, one Fairfield-area NUFORC entry described numerous silent lights moving westward above cloud cover during a cloudy night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">; Open, 04/17/2026 05:00, Pella; Open, 03/29/2026 20:25, Clive; Open, 03/21/2026 20:50, Dyersville; Open, 02/14/2026 19:05, Des...Rea...</span></span></span> The account sounds striking when read alone, yet without supporting sensor data it remains difficult to distinguish between satellites, aircraft, drones, atmospheric effects or genuinely unidentified objects.
+For example, one Fairfield-area NUFORC entry described numerous silent lights moving westward above cloud cover during a cloudy night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">; Open, 04/17/2026 05:00, Pella; Open, 03/29/2026 20:25, Clive; Open, 03/21/2026 20:50, Dyersville; Open, 02/14/2026 19:05, Des...Rea...</span></span></span> The account sounds striking when read alone, yet without supporting sensor data it remains difficult to distinguish between satellites, aircraft, drones, atmospheric effects or genuinely unidentified objects.
 
-Another older Fairfield report described a brief red beam of light seen at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</span></span></span> Such reports become part of county statistics even though they contain very limited investigable detail.
+Another older Fairfield report described a brief red beam of light seen at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</span></span></span> Such reports become part of county statistics even though they contain very limited investigable detail.
 
 ### Check whether the same cases circulate repeatedly
 
@@ -392,7 +392,7 @@ Some UFO communities repeatedly cite a small set of local stories, giving the im
 
 Jefferson County is significant less because it contains Iowa’s strongest UFO evidence and more because it demonstrates how reporting maps can mislead readers who focus only on rankings.
 
-The county’s prominence depends heavily on statistical framing. By raw volume, it is overshadowed by Iowa’s larger urban counties. By rate, it rises sharply because a relatively small population magnifies the effect of even moderate reporting levels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/san-antonio/2024/03/04/1-map-to-go-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">1 map to go: UFO sightings</span><span class="citation-popover-snippet">Nationally, there were about 34 sightings per 100,000 people in the same time period. Zoom out: Jeff Davis County in...Read more...</span></span></span>
+The county’s prominence depends heavily on statistical framing. By raw volume, it is overshadowed by Iowa’s larger urban counties. By rate, it rises sharply because a relatively small population magnifies the effect of even moderate reporting levels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/san-antonio/2024/03/04/1-map-to-go-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">1 map to go: UFO sightings</span><span class="citation-popover-snippet">Nationally, there were about 34 sightings per 100,000 people in the same time period. Zoom out: Jeff Davis County in...Read more...</span></span></span>
 
 That does not make the reports meaningless. Rural dark skies, strong local interest in unusual experiences and long-running public awareness of UFO topics may all contribute to a genuine concentration of witness narratives in and around Fairfield. But the available evidence does not currently establish Jefferson County as a uniquely unexplained zone within Iowa.
 
@@ -401,194 +401,194 @@ Instead, it serves as one of the clearest examples in the state of why UFO stati
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AuOY7ewqeCQ" title="KCCI Archive: Go UFO hunting in Iowa in 1993" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AuOY7ewqeCQ" target="_blank" rel="noopener noreferrer">KCCI Archive: Go UFO hunting in Iowa in 1993</a></p><p class="youtube-embed-meta">Channel: KCCI &middot; Views: 5.8K &middot; Uploaded: May 2022 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AuOY7ewqeCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AuOY7ewqeCQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why does Jefferson County stand out?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why does Jefferson County stand out?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence quality and witness credibility, useful when assessing hotspot claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence quality and witness credibility, useful when assessing hotspot claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers understand statistical misunderstandings and small-number effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers understand statistical misunderstandings and small-number effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical context for regional sightings and reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for regional sightings and reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places local sighting stories within broader folklore and reporting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local sighting stories within broader folklore and reporting traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-jefferson-county-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-does-jefferson-county-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ Instead, it serves as one of the clearest examples in the state of why UFO stati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ Instead, it serves as one of the clearest examples in the state of why UFO stati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ Instead, it serves as one of the clearest examples in the state of why UFO stati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ Instead, it serves as one of the clearest examples in the state of why UFO stati
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ Instead, it serves as one of the clearest examples in the state of why UFO stati
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,184 +794,184 @@ Instead, it serves as one of the clearest examples in the state of why UFO stati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: axios.com  
    Title: Charted: Iowa's UFO [hotspots](&#123;&#123; 'hotspots/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A choropleth map of the U.S. showing UFO sightings in Iowa per 100k residents, by county.Read more...</p></details>
+   Link:<a href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A choropleth map of the U.S. showing UFO sightings in Iowa per 100k residents, by county.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Jefferson County, Iowa  
-   Link: <a href="https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jefferson_County%2C_Iowa</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sos.iowa.gov  
-   Link: <a href="https://sos.iowa.gov/elections/pdf/2020census/counties.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sos.iowa.gov/elections/pdf/2020census/counties.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iowa.gov2020 US Census Iowa Counties Population2020 U.S. Census Iowa Counties Population. Iowa: Population and Housing... Jefferson Coun...</p></details>
+   Link:<a href="https://sos.iowa.gov/elections/pdf/2020census/counties.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sos.iowa.gov/elections/pdf/2020census/counties.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iowa.gov2020 US Census Iowa Counties Population2020 U.S. Census Iowa Counties Population. Iowa: Population and Housing... Jefferson Coun...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: census.gov  
-   Link: <a href="https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Census Bureau QuickFacts: Jefferson County, IowaHouseholds, 2020-2024, 6,952; Persons per household, 2020-2024, 2.11; Living in the sam...</p></details>
+   Link:<a href="https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Census Bureau QuickFacts: Jefferson County, IowaHouseholds, 2020-2024, 6,952; Persons per household, 2020-2024, 2.11; Living in the sam...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</p></details>
+   Link:<a href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to data from the National UFO Reporting Center, Iowa ranks in the lower half of the U.S. for total UFO sightings. So far in 202...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=32984" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=32984</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 32984August 20, 2023 — 11 Nov 2003 — NUFORC UFO Sighting 32984. Occurred: 2000-10-08 02:00 Local - Approximate...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=32984" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=32984</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 32984August 20, 2023 — 11 Nov 2003 — NUFORC UFO Sighting 32984. Occurred: 2000-10-08 02:00 Local - Approximate...</p></details>
    Published: October 8, 2000  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191972" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191972</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1919727 Sept 2025 — Occurred: 2015-09-27 21:15 Local - Approximate · Reported: 2025-08-21 23:55 Pacific · Duration: N...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=191972" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191972</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1919727 Sept 2025 — Occurred: 2015-09-27 21:15 Local - Approximate · Reported: 2025-08-21 23:55 Pacific · Duration: N...</p></details>
    Published: September 27, 2015  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>; Open, 04/17/2026 05:00, Pella; Open, 03/29/2026 20:25, Clive; Open, 03/21/2026 20:50, Dyersville; Open, 02/14/2026 19:05, Des...Rea...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>; Open, 04/17/2026 05:00, Pella; Open, 03/29/2026 20:25, Clive; Open, 03/21/2026 20:50, Dyersville; Open, 02/14/2026 19:05, Des...Rea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=152488" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=152488</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 152488August 20, 2023 — Most were white lights, some reddish. Most small lights, but some were significantly br...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=152488" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=152488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 152488August 20, 2023 — Most were white lights, some reddish. Most small lights, but some were significantly br...</p></details>
    Published: August 20, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: census.gov  
-   Link: <a href="https://www.census.gov/library/stories/state-by-state/iowa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/library/stories/state-by-state/iowa.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2020 CensusAug 25, 2021 — Population (up 7.4% to 331.4 million). Race and ethnicity (White alone 61.6%; Black alone 12.4%; Hispanic 18.7%...</p></details>
+   Link:<a href="https://www.census.gov/library/stories/state-by-state/iowa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/library/stories/state-by-state/iowa.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2020 CensusAug 25, 2021 — Population (up 7.4% to 331.4 million). Race and ethnicity (White alone 61.6%; Black alone 12.4%; Hispanic 18.7%...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Thomas Jefferson  
-   Link: <a href="https://en.wikipedia.org/wiki/Thomas_Jefferson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Jefferson</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas JeffersonThomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was an American Founding Father who served as the seco...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Thomas_Jefferson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Jefferson</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas JeffersonThomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was an American Founding Father who served as the seco...</p></details>
    Published: July 4, 1826  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Jefferson, Iowa  
-   Link: <a href="https://en.wikipedia.org/wiki/Jefferson%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jefferson%2C_Iowa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson, Iowa2020 census As of the census of 2020, there were 4,182 people, 1,872 households, and 1,116 families residing in the cit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jefferson%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jefferson%2C_Iowa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson, Iowa2020 census As of the census of 2020, there were 4,182 people, 1,872 households, and 1,116 families residing in the cit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Jefferson, Iowa  
-   Link: <a href="https://simple.wikipedia.org/wiki/Jefferson%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/Jefferson%2C_Iowa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson, IowaThe number of people living in Jefferson was 4,182 at the 2020 census.Read more...</p></details>
+   Link:<a href="https://simple.wikipedia.org/wiki/Jefferson%2C_Iowa" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/Jefferson%2C_Iowa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson, IowaThe number of people living in Jefferson was 4,182 at the 2020 census.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots-2000-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s UFO hotspots, mapped8 Feb 2024 — A choropleth map of the US showing UFO sightings per 100k residents, by county...</p></details>
+   Link:<a href="https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/02/08/ufo-uap-sightings-us-hotspots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s UFO hotspots, mapped8 Feb 2024 — A choropleth map of the US showing UFO sightings per 100k residents, by county...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: axios.com  
    Title: midwest ufo sightings iowa uaps  
-   Link: <a href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Midwest is flyover country — even for UFO sightings25 Oct 2024 — The Midwest is used to hearing flyover jokes, but when it comes to u...</p></details>
+   Link:<a href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Midwest is flyover country — even for UFO sightings25 Oct 2024 — The Midwest is used to hearing flyover jokes, but when it comes to u...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: axios.com  
    Title: 1 map to go: UFO sightings  
-   Link: <a href="https://www.axios.com/local/san-antonio/2024/03/04/1-map-to-go-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/san-antonio/2024/03/04/1-map-to-go-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nationally, there were about 34 sightings per 100,000 people in the same time period. Zoom out: Jeff Davis County in...Read more...</p></details>
+   Link:<a href="https://www.axios.com/local/san-antonio/2024/03/04/1-map-to-go-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/san-antonio/2024/03/04/1-map-to-go-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nationally, there were about 34 sightings per 100,000 people in the same time period. Zoom out: Jeff Davis County in...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191094" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191094</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19109421 Jul 2025 — NUFORC UFO Sighting 191094. Occurred: 2025-07-15 02:23 Local Reported: 2025-07-20 08:04 Pacific D...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=191094" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191094</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19109421 Jul 2025 — NUFORC UFO Sighting 191094. Occurred: 2025-07-15 02:23 Local Reported: 2025-07-20 08:04 Pacific D...</p></details>
    Published: July 15, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191092" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191092</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19109221 Jul 2025 — A large orange orb was seen in the sky - first appearing to be an object that was on fire. The or...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=191092" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191092</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19109221 Jul 2025 — A large orange orb was seen in the sky - first appearing to be an object that was on fire. The or...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: worldpopulationreview.com  
-   Link: <a href="https://worldpopulationreview.com/us-cities/iowa/jefferson" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/iowa/jefferson</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>census, which recorded a population of 4,178 in 2020. The median household income in Jefferson is $58,895 with a poverty rate of 7.34%. T...</p></details>
+   Link:<a href="https://worldpopulationreview.com/us-cities/iowa/jefferson" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/iowa/jefferson</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>census, which recorded a population of 4,178 in 2020. The median household income in Jefferson is $58,895 with a poverty rate of 7.34%. T...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: infoplease.com  
    Title: jefferson county  
-   Link: <a href="https://www.infoplease.com/us/census/iowa/jefferson-county" target="_blank" rel="noopener noreferrer nofollow">https://www.infoplease.com/us/census/iowa/jefferson-county</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, IA Census DataPeople QuickFacts, Jefferson County, Iowa. Population, 2005 estimate, 15,972, 2,966,334. Population, percent change, Apri...</p></details>
+   Link:<a href="https://www.infoplease.com/us/census/iowa/jefferson-county" target="_blank" rel="noopener noreferrer nofollow">https://www.infoplease.com/us/census/iowa/jefferson-county</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, IA Census DataPeople QuickFacts, Jefferson County, Iowa. Population, 2005 estimate, 15,972, 2,966,334. Population, percent change, Apri...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: excelexercises.com  
-   Link: <a href="https://excelexercises.com/UFOData.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://excelexercises.com/UFOData.xlsx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DataUFO Data. A, B, C, D, E, F, G. 1, Date &amp; Time, City, State, Shape...</p></details>
+   Link:<a href="https://excelexercises.com/UFOData.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://excelexercises.com/UFOData.xlsx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DataUFO Data. A, B, C, D, E, F, G. 1, Date &amp; Time, City, State, Shape...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: iowadatacenter.org  
-   Link: <a href="https://www.iowadatacenter.org/index.php/data-by-source/decennial-census/population-iowa-cities-county" target="_blank" rel="noopener noreferrer nofollow">https://www.iowadatacenter.org/index.php/data-by-source/decennial-census/population-iowa-cities-county</a>  
+   Link:<a href="https://www.iowadatacenter.org/index.php/data-by-source/decennial-census/population-iowa-cities-county" target="_blank" rel="noopener noreferrer nofollow">https://www.iowadatacenter.org/index.php/data-by-source/decennial-census/population-iowa-cities-county</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0K people. Jefferson County has the most with 114 per capita.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0K people. Jefferson County has the most with 114 per capita.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/?tl=sv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/?tl=sv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0 invånare. Jefferson County har flest med 114 per...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/?tl=sv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Iowa/comments/1aq40bh/iowas_ufo_hotspots_based_on_reported_sightings/?tl=sv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0 invånare. Jefferson County har flest med 114 per...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: usafacts.org  
-   Link: <a href="https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/state/iowa/county/jefferson-county/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/state/iowa/county/jefferson-county/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson County, IA population by year, race, &amp; moreThe population of Jefferson County, Iowa in 2022 was 15,698, 6.8% down from the 16,8...</p></details>
+   Link:<a href="https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/state/iowa/county/jefferson-county/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/state/iowa/county/jefferson-county/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson County, IA population by year, race, &amp; moreThe population of Jefferson County, Iowa in 2022 was 15,698, 6.8% down from the 16,8...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/4lOw8k9GvqF1ck2HQPK7w3" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4lOw8k9GvqF1ck2HQPK7w3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO REPORTS FROM IOWA21 Dec 2024 — It turns out Iowa has more then cornfields. Iowa also has giant flying saucers, hovering rectangles an...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4lOw8k9GvqF1ck2HQPK7w3" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4lOw8k9GvqF1ck2HQPK7w3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO REPORTS FROM IOWA21 Dec 2024 — It turns out Iowa has more then cornfields. Iowa also has giant flying saucers, hovering rectangles an...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: censusreporter.org  
    Title: Jefferson County, IA  
-   Link: <a href="https://censusreporter.org/profiles/05000US19101-jefferson-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://censusreporter.org/profiles/05000US19101-jefferson-county-ia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Profile dataCensus data for Jefferson County, IA (pop. 15705), including age, race, sex, income, poverty, marital status, education and more...</p></details>
+   Link:<a href="https://censusreporter.org/profiles/05000US19101-jefferson-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://censusreporter.org/profiles/05000US19101-jefferson-county-ia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Profile dataCensus data for Jefferson County, IA (pop. 15705), including age, race, sex, income, poverty, marital status, education and more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: datausa.io  
    Title: jefferson county ia  
-   Link: <a href="https://datausa.io/profile/geo/jefferson-county-ia" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/jefferson-county-ia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson County, IAJefferson County, IA is home to a population of 15.7k people, from which 88.8% are citizens. As of 2024, 14.1% of Jef...</p></details>
+   Link:<a href="https://datausa.io/profile/geo/jefferson-county-ia" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/jefferson-county-ia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jefferson County, IAJefferson County, IA is home to a population of 15.7k people, from which 88.8% are citizens. As of 2024, 14.1% of Jef...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: usafacts.org  
    Title: jefferson county ia  
-   Link: <a href="https://usafacts.org/answers/how-many-people-live-in-the-us/county/jefferson-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/county/jefferson-county-ia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many people live in Jefferson County, IA?In 2024, there were about 15,800 people living in Jefferson County, IA. That makes Jefferson...</p></details>
+   Link:<a href="https://usafacts.org/answers/how-many-people-live-in-the-us/county/jefferson-county-ia/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/county/jefferson-county-ia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many people live in Jefferson County, IA?In 2024, there were about 15,800 people living in Jefferson County, IA. That makes Jefferson...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: statecancerprofiles.cancer.gov  
-   Link: <a href="https://statecancerprofiles.cancer.gov/ratetrendbyarea/index.php?comparison=00&amp;county=000&amp;sortOrder=desc&amp;sortVariableName=priorityindex&amp;statefips=19&amp;type=rtarea" target="_blank" rel="noopener noreferrer nofollow">https://statecancerprofiles.cancer.gov/ratetrendbyarea/index.php?comparison=00&amp;county=000&amp;sortOrder=desc&amp;sortVariableName=priorityindex&amp;statefips=19&amp;type=rtarea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Population Data File is used with mortality data.... statistics reported by the State...</p></details>
+   Link:<a href="https://statecancerprofiles.cancer.gov/ratetrendbyarea/index.php?comparison=00&amp;county=000&amp;sortOrder=desc&amp;sortVariableName=priorityindex&amp;statefips=19&amp;type=rtarea" target="_blank" rel="noopener noreferrer nofollow">https://statecancerprofiles.cancer.gov/ratetrendbyarea/index.php?comparison=00&amp;county=000&amp;sortOrder=desc&amp;sortVariableName=priorityindex&amp;statefips=19&amp;type=rtarea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US Population Data File is used with mortality data.... statistics reported by the State...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: k923.fm  
-   Link: <a href="https://k923.fm/iowa-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://k923.fm/iowa-alien-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>K92.3Iowa Skies Hold Strange Secrets, UFO Data Shows - K92.38 Aug 2025 — Even when considering sightings per capita, Jefferson County sta...</p></details>
+   Link:<a href="https://k923.fm/iowa-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://k923.fm/iowa-alien-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>K92.3Iowa Skies Hold Strange Secrets, UFO Data Shows - K92.38 Aug 2025 — Even when considering sightings per capita, Jefferson County sta...</p></details>

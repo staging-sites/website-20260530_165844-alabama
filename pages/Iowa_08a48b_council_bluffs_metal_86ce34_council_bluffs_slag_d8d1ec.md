@@ -250,14 +250,14 @@ image: /assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_sla
 
 ## Introduction
 
-The sceptical [explanations]({{ 'explanations/' | relative_url }}) for the 1977 [Council Bluffs]({{ 'council-bluffs/' | relative_url }}) fireball usually focus on one basic point: the metal found at Big Lake Park looked far more like industrial material than exotic debris. Laboratory work described the recovered substance as mostly iron or carbon steel with slag-like components and oxide residues, not meteorite material or advanced alloys. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchforlifeintheuniverse.com">[lifeintheuniverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchforlifeintheuniverse.com</span><span class="citation-popover-title">the science of aliens part 8 the search for artifacts</span><span class="citation-popover-snippet">The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span>
+The sceptical [explanations]({{ 'explanations/' | relative_url }}) for the 1977 [Council Bluffs]({{ 'council-bluffs/' | relative_url }}) fireball usually focus on one basic point: the metal found at Big Lake Park looked far more like industrial material than exotic debris. Laboratory work described the recovered substance as mostly iron or carbon steel with slag-like components and oxide residues, not meteorite material or advanced alloys.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchforlifeintheuniverse.com">[lifeintheuniverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchforlifeintheuniverse.com</span><span class="citation-popover-title">the science of aliens part 8 the search for artifacts</span><span class="citation-popover-snippet">The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-1-dark.svg" | relative_url }}" alt="Slag theories illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because it shifts the debate away from “Was the metal real?” and towards a narrower but harder question: if the material was ordinary industrial metal or slag, how did it end up glowing in a public park immediately after multiple witnesses reported a descending red object and flashes of light? The strongest sceptical arguments explain the composition of the debris reasonably well. They do not fully explain the timing, transport problem, witness sequence or apparent heat behaviour reported at the scene.
 
 ## How thermite could create molten metal
 
-Thermite is one of the few ordinary processes capable of producing extremely hot molten iron outside a foundry. A standard thermite reaction combines metal oxide with aluminium powder, generating temperatures high enough to melt steel and create pools of glowing metal and slag. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Thermite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Thermite is one of the few ordinary processes capable of producing extremely hot molten iron outside a foundry. A standard thermite reaction combines metal oxide with aluminium powder, generating temperatures high enough to melt steel and create pools of glowing metal and slag.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Thermite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For sceptics, this makes thermite attractive as a possible mechanism behind the Council Bluffs incident. Witnesses described molten orange material, sparks, flames and grass fires rather than wreckage from a crashed craft. Thermite can produce exactly that sort of short-lived, visually dramatic heat event without creating a crater.
 
@@ -272,13 +272,13 @@ The theory usually runs like this:
 
 </div>
 
-This explanation gained traction because the metallurgy itself never clearly pointed to anything non-terrestrial. Later reviews by Jacques Vallée and Garry Nolan still described the samples as essentially terrestrial iron-based material with slag and oxide inclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchforlifeintheuniverse.com">[2lifeintheuniverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchforlifeintheuniverse.com</span><span class="citation-popover-title">the science of aliens part 8 the search for artifacts</span><span class="citation-popover-snippet">The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</span></span></span>
+This explanation gained traction because the metallurgy itself never clearly pointed to anything non-terrestrial. Later reviews by Jacques Vallée and Garry Nolan still described the samples as essentially terrestrial iron-based material with slag and oxide inclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchforlifeintheuniverse.com">[2lifeintheuniverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchforlifeintheuniverse.com</span><span class="citation-popover-title">the science of aliens part 8 the search for artifacts</span><span class="citation-popover-snippet">The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GQr2c3f8Wg8" title="UAP Phenomena: A Serious Look | Garry Nolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GQr2c3f8Wg8" target="_blank" rel="noopener noreferrer">UAP Phenomena: A Serious Look | Garry Nolan</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 27.5K &middot; Uploaded: February 2023 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GQr2c3f8Wg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GQr2c3f8Wg8">Open on YouTube</a></p></div></div></div>
 
 ### Why investigators doubted a simple thermite hoax
 
-Even researchers sympathetic to the UFO interpretation acknowledged that thermite was one of the few plausible conventional explanations. Vallée’s published presentations specifically addressed it as a working hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</span></span></span>
+Even researchers sympathetic to the UFO interpretation acknowledged that thermite was one of the few plausible conventional explanations. Vallée’s published presentations specifically addressed it as a working hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</span></span></span>
 
 However, investigators argued that the scene details did not fit neatly with a staged thermite burn. Their objections included:
 
@@ -292,7 +292,7 @@ However, investigators argued that the scene details did not fit neatly with a s
 
 </div>
 
-Vallée later argued that a thermite hoax would probably have required cooling water to produce some of the cast-iron-like textures seen in samples, yet responders did not report sheets of ice around the scene despite freezing weather. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
+Vallée later argued that a thermite hoax would probably have required cooling water to produce some of the cast-iron-like textures seen in samples, yet responders did not report sheets of ice around the scene despite freezing weather.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
 
 That argument is debated. Critics note that witness recollections and later retellings may exaggerate the duration or intensity of the heat. But even sceptics generally accept that some genuinely hot material was present at the park.
 
@@ -302,7 +302,7 @@ That argument is debated. Critics note that witness recollections and later rete
 
 The strongest conventional explanation is simpler than extraterrestrial debris: the material resembled industrial slag because it probably was industrial slag.
 
-Council Bluffs in the late 1970s sat within an active industrial corridor linked to Omaha-area rail yards, foundries and heavy manufacturing. Contemporary reporting and later historical reviews noted that local foundries were capable of producing the sort of molten iron involved in the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span>
+Council Bluffs in the late 1970s sat within an active industrial corridor linked to Omaha-area rail yards, foundries and heavy manufacturing. Contemporary reporting and later historical reviews noted that local foundries were capable of producing the sort of molten iron involved in the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span>
 
 The laboratory findings also support this interpretation. Analyses described:
 
@@ -315,7 +315,7 @@ The laboratory findings also support this interpretation. Analyses described:
 
 </div>
 
-Those are not impossible in aerospace debris, but they are entirely consistent with industrial metalworking by-products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchforlifeintheuniverse.com">[lifeintheuniverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchforlifeintheuniverse.com</span><span class="citation-popover-title">the science of aliens part 8 the search for artifacts</span><span class="citation-popover-snippet">The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk For many sceptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Is &quot;Improved Instrumental Techniques...&quot;, Nolan, Vallee...17 Dec 2023 — External Quote: The material recovered at Council Bluffs consist...</span></span></span>, that largely settles the matter. If the material chemically resembles industrial waste, then industrial waste is the most economical explanation.
+Those are not impossible in aerospace debris, but they are entirely consistent with industrial metalworking by-products.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchforlifeintheuniverse.com">[lifeintheuniverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchforlifeintheuniverse.com</span><span class="citation-popover-title">the science of aliens part 8 the search for artifacts</span><span class="citation-popover-snippet">The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk For many sceptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Is &quot;Improved Instrumental Techniques...&quot;, Nolan, Vallee...17 Dec 2023 — External Quote: The material recovered at Council Bluffs consist...</span></span></span>, that largely settles the matter. If the material chemically resembles industrial waste, then industrial waste is the most economical explanation.
 
 <img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-2-dark.svg" | relative_url }}" alt="Slag theories illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The remaining problem: delivery
@@ -324,9 +324,9 @@ The weakness in the slag theory is not chemistry but logistics.
 
 The question is not “Could industrial slag exist in Iowa?” Clearly it could. The harder question is why it was reportedly found still glowing in a park immediately after aerial-light reports from several witness groups.
 
-The Historical Society account preserves this tension clearly. Even while leaning towards a likely hoax explanation, it still asks how anyone could transport material hot enough to remain molten in winter conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span>
+The Historical Society account preserves this tension clearly. Even while leaning towards a likely hoax explanation, it still asks how anyone could transport material hot enough to remain molten in winter conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span>
 
-Transporting large quantities of molten metal is difficult even in industrial settings. Carbon steel melts at roughly 2,500°F (about 1,370°C). Moving it safely normally requires insulated containers, specialist equipment and deliberate handling procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">What do we Know about the Material Composition of UFOs?</span><span class="citation-popover-snippet">What do we Know about the Material Composition of UFOs?January 1, 2017 — Vallee: Material composition of UFO samples 12 Council B...</span><span class="citation-popover-meta">Published: January 1, 2017</span></span></span>
+Transporting large quantities of molten metal is difficult even in industrial settings. Carbon steel melts at roughly 2,500°F (about 1,370°C). Moving it safely normally requires insulated containers, specialist equipment and deliberate handling procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">What do we Know about the Material Composition of UFOs?</span><span class="citation-popover-snippet">What do we Know about the Material Composition of UFOs?January 1, 2017 — Vallee: Material composition of UFO samples 12 Council B...</span><span class="citation-popover-meta">Published: January 1, 2017</span></span></span>
 
 That does not make a hoax impossible. It simply means the hoax would have required planning, equipment and risk-taking beyond an impulsive prank.
 
@@ -339,7 +339,7 @@ Even under that explanation, several details remain awkward.
 <img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-3-dark.svg" | relative_url }}" alt="Slag theories illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34_council_bluffs_slag_d8d1ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Multiple witness groups
 
-Accounts describe several independent groups seeing either a descending red object, flashes, or unusual light activity near Big Lake Park before the molten material was discovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span> Academia Witness testimony is not perfectly reliable <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</span></span></span>, especially in dramatic nighttime events. But the case is harder to dismiss than a single isolated report because the observations were not confined to one person.
+Accounts describe several independent groups seeing either a descending red object, flashes, or unusual light activity near Big Lake Park before the molten material was discovered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span> Academia Witness testimony is not perfectly reliable<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</span></span></span>, especially in dramatic nighttime events. But the case is harder to dismiss than a single isolated report because the observations were not confined to one person.
 
 ### The lack of an obvious motive
 
@@ -349,7 +349,7 @@ That does not rule out a prank. People do perform elaborate hoaxes for obscure r
 
 ### Heat duration and appearance
 
-Descriptions of the material “running” or behaving like lava have remained central to the case for decades. Later retellings may exaggerate these details, but official responders did reportedly encounter material that was still extremely hot after witnesses had already gathered at the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span> Academia Ordinary industrial slag can certainly remain hot. The unresolved issue is whether the reported timing and behaviour match a dumped industria <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</span></span></span> l by-product, an active thermite reaction, or something else entirely.
+Descriptions of the material “running” or behaving like lava have remained central to the case for decades. Later retellings may exaggerate these details, but official responders did reportedly encounter material that was still extremely hot after witnesses had already gathered at the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</span></span></span> Academia Ordinary industrial slag can certainly remain hot. The unresolved issue is whether the reported timing and behaviour match a dumped industria<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</span></span></span> l by-product, an active thermite reaction, or something else entirely.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWMATrOatRw" title="Thermite Reaction (reaction only)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWMATrOatRw" target="_blank" rel="noopener noreferrer">Thermite Reaction (reaction only)</a></p><p class="youtube-embed-meta">Channel: Periodic Videos &middot; Views: 338.4K &middot; Uploaded: August 2012 &middot; Length: 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWMATrOatRw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWMATrOatRw">Open on YouTube</a></p></div></div></div>
 
@@ -362,194 +362,194 @@ Sceptical explanations successfully account for the material composition. They a
 That unresolved gap is why the Council Bluffs incident still survives in Iowa UFO history. The molten metal does not convincingly prove anything extraordinary, yet neither the thermite theory nor the industrial-slag explanation has produced a complete, evidence-backed reconstruction of what happened at Big Lake Park on that December night in 1977.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Council Bluffs fireball a hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Council Bluffs fireball a hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forbidden+Science+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forbidden Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4doRQlCxLa0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Forbidden Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forbidden+Science+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forbidden Science">Forbidden Science</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forbidden+Science+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forbidden Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4doRQlCxLa0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Forbidden Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forbidden+Science+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forbidden Science">Forbidden Science</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Relevant to debates about physical traces, analysis and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forbidden+Science+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to debates about physical traces, analysis and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forbidden+Science+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for readers interested in sceptical analysis and hoax possibilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Useful for readers interested in sceptical analysis and hoax possibilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages evidence-based evaluation of unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based evaluation of unusual claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines evidential standards and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidential standards and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forbidden+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forbidden Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forbidden+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forbidden Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Large"><img src="https://i.ebayimg.com/images/g/jCEAAeSwqM1pDcxo/s-l225.jpg" alt="Listing image for Chelyabinsk Meteorite in Display Box - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelyabinsk Meteorite in Display Box - Large"><img src="https://i.ebayimg.com/images/g/jCEAAeSwqM1pDcxo/s-l225.jpg" alt="Listing image for Chelyabinsk Meteorite in Display Box - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Chelyabinsk Meteorite in Display Box - Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZAGAMI Martian Meteorite Shergottite RARE Witnessed Fall Fragment in display box"><img src="https://i.ebayimg.com/images/g/HvoAAeSwLJNoh3bZ/s-l225.jpg" alt="Listing image for ZAGAMI Martian Meteorite Shergottite RARE Witnessed Fall Fragment in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">ZAGAMI Martian Meteorite Shergottite RARE Witnessed Fall Fragment in display box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZAGAMI Martian Meteorite Shergottite RARE Witnessed Fall Fragment in display box"><img src="https://i.ebayimg.com/images/g/HvoAAeSwLJNoh3bZ/s-l225.jpg" alt="Listing image for ZAGAMI Martian Meteorite Shergottite RARE Witnessed Fall Fragment in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">ZAGAMI Martian Meteorite Shergottite RARE Witnessed Fall Fragment in display box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wonders of the World – Real Meteorite &amp; Fossils in Display Frame with COA"><img src="https://i.ebayimg.com/images/g/JeIAAeSww11o8g9D/s-l225.jpg" alt="Listing image for Wonders of the World – Real Meteorite &amp; Fossils in Display Frame with COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Wonders of the World – Real Meteorite &amp; Fossils in Display Frame with COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wonders of the World – Real Meteorite &amp; Fossils in Display Frame with COA"><img src="https://i.ebayimg.com/images/g/JeIAAeSww11o8g9D/s-l225.jpg" alt="Listing image for Wonders of the World – Real Meteorite &amp; Fossils in Display Frame with COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Wonders of the World – Real Meteorite &amp; Fossils in Display Frame with COA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar meteorite moon rock collection 5 different finds in display cases NWA more"><img src="https://i.ebayimg.com/images/g/UQUAAeSwkx1ovooq/s-l225.jpg" alt="Listing image for Lunar meteorite moon rock collection 5 different finds in display cases NWA more" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Lunar meteorite moon rock collection 5 different finds in display cases NWA more</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar meteorite moon rock collection 5 different finds in display cases NWA more"><img src="https://i.ebayimg.com/images/g/UQUAAeSwkx1ovooq/s-l225.jpg" alt="Listing image for Lunar meteorite moon rock collection 5 different finds in display cases NWA more" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Lunar meteorite moon rock collection 5 different finds in display cases NWA more</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-council-bluffs-fireball-a-hoax-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="was-the-council-bluffs-fireball-a-hoax-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ That unresolved gap is why the Council Bluffs incident still survives in Iowa UF
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ That unresolved gap is why the Council Bluffs incident still survives in Iowa UF
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ That unresolved gap is why the Council Bluffs incident still survives in Iowa UF
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ That unresolved gap is why the Council Bluffs incident still survives in Iowa UF
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ That unresolved gap is why the Council Bluffs incident still survives in Iowa UF
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,106 +755,106 @@ That unresolved gap is why the Council Bluffs incident still survives in Iowa UF
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0376042121000907</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0376042121000907</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improved instrumental techniques, including isotopic...by GP Nolan · 2022 · Cited by 24 — The material recovered at Council...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</p></details>
+   Link:<a href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Analyses in Ten Cases of Unexplained Aerial...9 Oct 2025 — In incidents involving slag-like material one primarily finds iron w...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Thermite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thermite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Thermite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thermite</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</p></details>
+   Link:<a href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
    Title: What do we Know about the Material Composition of UFOs?  
-   Link: <a href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What do we Know about the Material Composition of UFOs?January 1, 2017 — Vallee: Material composition of UFO samples 12 Council B...</p></details>
+   Link:<a href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do we Know about the Material Composition of UFOs?January 1, 2017 — Vallee: Material composition of UFO samples 12 Council B...</p></details>
    Published: January 1, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is &quot;Improved Instrumental Techniques...&quot;, Nolan, Vallee...17 Dec 2023 — External Quote: The material recovered at Council Bluffs consist...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is &quot;Improved Instrumental Techniques...&quot;, Nolan, Vallee...17 Dec 2023 — External Quote: The material recovered at Council Bluffs consist...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Garry Nolan  
-   Link: <a href="https://www.youtube.com/watch?v=GQr2c3f8Wg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GQr2c3f8Wg8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Files: UFOs in Iowa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GQr2c3f8Wg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GQr2c3f8Wg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Files: UFOs in Iowa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thehistoricalsociety.org  
    Title: The Historical Society UFO Crash at Big Lake Park  
-   Link: <a href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoricalsociety.org/h/ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</p></details>
+   Link:<a href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoricalsociety.org/h/ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Samples of the metal were analyzed and determined to be a simple high-carbon...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: searchforlifeintheuniverse.com  
    Title: the science of aliens part 8 the search for artifacts  
-   Link: <a href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</p></details>
+   Link:<a href="https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts" target="_blank" rel="noopener noreferrer nofollow">https://www.searchforlifeintheuniverse.com/post/the-science-of-aliens-part-8-the-search-for-artifacts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Aliens, Part 8: The Search for Artifacts30 Dec 2021 — Tests conducted after the Council Bluffs event revealed that the rec...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hkuhfv/a_ufo_just_dripped_a_molten_metal_like_material/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hkuhfv/a_ufo_just_dripped_a_molten_metal_like_material/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hkuhfv/a_ufo_just_dripped_a_molten_metal_like_material/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hkuhfv/a_ufo_just_dripped_a_molten_metal_like_material/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/ltv0ug/ufo_debris_its_just_industrial_metal_slag_but_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ltv0ug/ufo_debris_its_just_industrial_metal_slag_but_it/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ltv0ug/ufo_debris_its_just_industrial_metal_slag_but_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ltv0ug/ufo_debris_its_just_industrial_metal_slag_but_it/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tvshowtranscripts.ourboard.org  
    Title: That story is consistent through the long history of UFO lore  
-   Link: <a href="https://tvshowtranscripts.ourboard.org/viewtopic.php?f=2385&amp;t=71598" target="_blank" rel="noopener noreferrer nofollow">https://tvshowtranscripts.ourboard.org/viewtopic.php?f=2385&amp;t=71598</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ourboard.orgs01e05 - The Phoenix Lights - Investigation Alien Transcript8 Nov 2024 — Knapp: Clive says nearly every time he sees UFOs, he...</p></details>
+   Link:<a href="https://tvshowtranscripts.ourboard.org/viewtopic.php?f=2385&amp;t=71598" target="_blank" rel="noopener noreferrer nofollow">https://tvshowtranscripts.ourboard.org/viewtopic.php?f=2385&amp;t=71598</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ourboard.orgs01e05 - The Phoenix Lights - Investigation Alien Transcript8 Nov 2024 — Knapp: Clive says nearly every time he sees UFOs, he...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: intractablestudiesinstitute.org  
-   Link: <a href="https://intractablestudiesinstitute.org/communications/UAP_UFO_EjectaIsHeatStore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intractablestudiesinstitute.org/communications/UAP_UFO_EjectaIsHeatStore.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO Physical Ejecta is Evidence of a Heat Store20 Mar 2025 — Jacques Vallee they had seen, “a bright red object rocket to...</p></details>
+   Link:<a href="https://intractablestudiesinstitute.org/communications/UAP_UFO_EjectaIsHeatStore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intractablestudiesinstitute.org/communications/UAP_UFO_EjectaIsHeatStore.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO Physical Ejecta is Evidence of a Heat Store20 Mar 2025 — Jacques Vallee they had seen, “a bright red object rocket to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: There's no question there was a fireball of molten metal in the park.Read more  
-   Link: <a href="https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-theres-no-q/1212832117609914/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-theres-no-q/1212832117609914/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this date (December 17) in 1977, something happened...On this date (December 17) in 1977, something happened in Big Lake Park...</p></details>
+   Link:<a href="https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-theres-no-q/1212832117609914/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-theres-no-q/1212832117609914/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this date (December 17) in 1977, something happened...On this date (December 17) in 1977, something happened in Big Lake Park...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: but how did molten metal wind up in a park?  
-   Link: <a href="https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-43-years-la/1756058167894333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-43-years-la/1756058167894333/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A hoax? UFO...On this date (December 17) in 1977, something happened in Big Lake Park. 43 years later nobody still knows what happened...</p></details>
+   Link:<a href="https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-43-years-la/1756058167894333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHistoricalSociety/posts/on-this-date-december-17-in-1977-something-happened-in-big-lake-park-43-years-la/1756058167894333/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A hoax? UFO...On this date (December 17) in 1977, something happened in Big Lake Park. 43 years later nobody still knows what happened...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Garry Nolan "Testing Materials Recovered From UFO Crashes"  
-   Link: <a href="https://www.youtube.com/watch?v=jlMEZE5f2j4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jlMEZE5f2j4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thinking Allowed with Jeffrey Mishlove &amp;middot; The New Era in UFO Research with Jacques Vallée. New Thinking Allowed with Jeffrey Mishlo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jlMEZE5f2j4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jlMEZE5f2j4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thinking Allowed with Jeffrey Mishlove &amp;middot; The New Era in UFO Research with Jacques Vallée. New Thinking Allowed with Jeffrey Mishlo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ww.unredacted.info/ufo/alien-metal-debunked-pentagon-lab...</p></details>
+   Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ww.unredacted.info/ufo/alien-metal-debunked-pentagon-lab...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: irock935.com  
-   Link: <a href="https://irock935.com/iowa-close-encounter-ufo-crash-big-lake/" target="_blank" rel="noopener noreferrer nofollow">https://irock935.com/iowa-close-encounter-ufo-crash-big-lake/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Iowa Have a Close Encounter with UFO Crashing Into...1 Dec 2022 — As we approach the 45th anniversary of the Big Lake Park UFO crash...</p></details>
+   Link:<a href="https://irock935.com/iowa-close-encounter-ufo-crash-big-lake/" target="_blank" rel="noopener noreferrer nofollow">https://irock935.com/iowa-close-encounter-ufo-crash-big-lake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Iowa Have a Close Encounter with UFO Crashing Into...1 Dec 2022 — As we approach the 45th anniversary of the Big Lake Park UFO crash...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Iowa Files: UFOs in Iowa  
-   Link: <a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermite Reaction (reaction only) shows a close-up scientific look at how an exothermic aluminum and iron oxide mixture triggers extreme...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermite Reaction (reaction only) shows a close-up scientific look at how an exothermic aluminum and iron oxide mixture triggers extreme...</p></details>

@@ -253,7 +253,7 @@ image: /assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_banner_towing
 The 2012 Rhode Island banner-plane case is useful because it shows how an ordinary advertising flight can briefly look like something far stranger. The witness was not careless, intoxicated, or looking at a fleeting light in the dark. He was watching a distant object through binoculars in daylight and trying to make sense of what he saw. Yet several normal features of banner towing combined to create the impression of a strange, shape-changing craft. The lesson is not that witnesses are unreliable. It is that human perception can be surprisingly vulnerable when distance removes the visual clues that normally tell us what we are looking at.
 
 <img src="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_banner_towing_ufo_il_f2adc3-Illustration-1-dark.svg" | relative_url }}" alt="The 2012 Rhode Island Banner Plane Case illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_banner_towing_ufo_il_f2adc3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_banner_towing_ufo_il_f2adc3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Along Rhode Island's coastline, especially around busy summer flying routes near beaches and tourist areas, banner-towing aircraft are part of the normal aviation environment. At long range, however, the aircraft, tow cable, and banner do not always remain equally visible. That mismatch can produce a genuine UFO impression even for an attentive observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[Nanaimo Flying Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span>
+Along Rhode Island's coastline, especially around busy summer flying routes near beaches and tourist areas, banner-towing aircraft are part of the normal aviation environment. At long range, however, the aircraft, tow cable, and banner do not always remain equally visible. That mismatch can produce a genuine UFO impression even for an attentive observer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[Nanaimo Flying Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span>
 
 ## Why a banner plane can look impossible
 
@@ -269,7 +269,7 @@ The key problem is that a banner-towing system is not one object. It is three se
 
 When observers are close to the aircraft, the relationship is obvious. At many miles' distance, especially over water or against a hazy shoreline, the situation changes. The banner may remain visible while the aircraft becomes little more than a dot. The tow cable, which is already thin, can disappear completely. What remains is a floating shape that appears detached from any obvious source.
 
-This is particularly relevant to the Rhode Island case because the object was viewed across a considerable coastal distance. Once the observer later revised the range estimate upwards, the disappearance of normal aviation details became much less surprising. A small tow aircraft that is easy to identify at two or three miles can become nearly invisible at fourteen miles or more, while a large rectangular advertising banner may still catch enough light to stand out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aerial_advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial advertising</span><span class="citation-popover-snippet">Aerial advertising</span></span></span>
+This is particularly relevant to the Rhode Island case because the object was viewed across a considerable coastal distance. Once the observer later revised the range estimate upwards, the disappearance of normal aviation details became much less surprising. A small tow aircraft that is easy to identify at two or three miles can become nearly invisible at fourteen miles or more, while a large rectangular advertising banner may still catch enough light to stand out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aerial_advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial advertising</span><span class="citation-popover-snippet">Aerial advertising</span></span></span>
 
 Human perception also tends to prioritise the largest visible feature in a scene. If the banner is the only clearly resolved element, the brain naturally treats it as the object itself rather than as something being pulled by a harder-to-see aircraft.
 
@@ -294,7 +294,7 @@ In the Block Island observation, the witness reported seeing what appeared to be
 
 One of the most persuasive features in many UFO reports is apparent shape-shifting. Witnesses often describe an object changing from one form into another without obvious explanation. Banner towing can create exactly that impression.
 
-Advertising banners are flexible structures. They are not rigid aircraft bodies. They bend, twist, billow, and rotate as they move through changing airflow. FAA guidance and aviation descriptions of banner operations note the substantial aerodynamic drag involved in towing such objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[Nanaimo Flying Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aerial_advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At long distance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial advertising</span><span class="citation-popover-snippet">Aerial advertising</span></span></span>, a witness cannot usually see the fabric moving in detail. Instead, the eye receives a simplified silhouette. Small changes in angle can therefore create dramatic changes in apparent shape.
+Advertising banners are flexible structures. They are not rigid aircraft bodies. They bend, twist, billow, and rotate as they move through changing airflow. FAA guidance and aviation descriptions of banner operations note the substantial aerodynamic drag involved in towing such objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[Nanaimo Flying Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aerial_advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At long distance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial advertising</span><span class="citation-popover-snippet">Aerial advertising</span></span></span>, a witness cannot usually see the fabric moving in detail. Instead, the eye receives a simplified silhouette. Small changes in angle can therefore create dramatic changes in apparent shape.
 
 A banner may appear:
 
@@ -318,16 +318,16 @@ The most dramatic moment in the 2012 sighting was the apparent final descent. Th
 
 This is where banner-towing procedures become especially relevant.
 
-Banner operators routinely pick up and release banners using specialised procedures. Aviation guidance describes designated pickup and drop areas, while operational descriptions note that banners are commonly released before landing and may be dropped at relatively low altitude over approved locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[Nanaimo Flying Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://caasanwebsitestorage.blob.core.windows.net/ga-tgm/TGM%20for%20Private%20Aerial%20Work%20for%20Towing%20Operations%20011225%202.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caasanwebsitestorage.blob.core.windows.net">[CaaSan Website Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caasanwebsitestorage.blob.core.windows.net</span><span class="citation-popover-snippet">CaaSan Website StoragePrivate Aerial Work: Towing Operations1 Dec 2025 — Procedures for Banner drop zones: pre-approved, clear of obstacl...</span></span></span>
+Banner operators routinely pick up and release banners using specialised procedures. Aviation guidance describes designated pickup and drop areas, while operational descriptions note that banners are commonly released before landing and may be dropped at relatively low altitude over approved locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[Nanaimo Flying Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://caasanwebsitestorage.blob.core.windows.net/ga-tgm/TGM%20for%20Private%20Aerial%20Work%20for%20Towing%20Operations%20011225%202.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caasanwebsitestorage.blob.core.windows.net">[CaaSan Website Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caasanwebsitestorage.blob.core.windows.net</span><span class="citation-popover-snippet">CaaSan Website StoragePrivate Aerial Work: Towing Operations1 Dec 2025 — Procedures for Banner drop zones: pre-approved, clear of obstacl...</span></span></span>
 
 From a great distance, several ordinary events can resemble a sudden plunge:
 
-* The aircraft begins a gradual descent while the observer only notices the larger banner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[nanaimoflyingclub.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span>
+* The aircraft begins a gradual descent while the observer only notices the larger banner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[nanaimoflyingclub.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The banner is released and drops toward the ground.
-* The aircraft turns away while the banner continues downward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[nanaimoflyingclub.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span>
+* The aircraft turns away while the banner continues downward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanaimoflyingclub.org">[nanaimoflyingclub.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanaimoflyingclub.org</span><span class="citation-popover-title">Aircraft Banner Tow Operations</span><span class="citation-popover-snippet">Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</span><span class="citation-popover-meta">Published: June 24, 2003</span></span></span>
 * The entire system passes behind a ridge line or shoreline feature.
 * Perspective compresses vertical motion, making a normal descent appear steeper than it is.
 
@@ -357,7 +357,7 @@ Several factors actually increased the witness's confidence:
 
 Normally those would be signs of a strong report. Yet each advantage also carried a hidden weakness.
 
-Long observations can encourage witnesses to build a detailed interpretation around an incorrect initial assumption. Binoculars reveal more detail but can also isolate parts of a scene. Photographs flatten distance and may preserve ambiguity rather than resolve it. Careful note-taking can make an incorrect range estimate seem more secure than it really is.
+Long observations can encourage witnesses to build a detailed interpretation around an incorrect initial assumption. Binoculars reveal but can also isolate parts of a scene. Photographs flatten distance and may preserve ambiguity rather than resolve it. Careful note-taking can make an incorrect range estimate seem more secure than it really is.
 
 The result is a sincere account containing accurate observations but an inaccurate explanation.
 
@@ -386,194 +386,194 @@ The most important lesson is that a witness can be observant, honest, and genuin
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a banner plane can look impossible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a banner plane can look impossible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to perception and misidentification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to perception and misidentification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why unusual visual impressions can seem convincing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains why unusual visual impressions can seem convincing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes critical evaluation of extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Promotes critical evaluation of extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows limitations of attention and visual perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows limitations of attention and visual perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOEING MODEL 40 PLANE 1930s GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9656"><img src="https://i.ebayimg.com/images/g/YVMAAOSwrvJmY1TY/s-l225.jpg" alt="Listing image for BOEING MODEL 40 PLANE 1930s GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9656" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">BOEING MODEL 40 PLANE 1930s GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9656</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOEING MODEL 40 PLANE 1930s GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9656"><img src="https://i.ebayimg.com/images/g/YVMAAOSwrvJmY1TY/s-l225.jpg" alt="Listing image for BOEING MODEL 40 PLANE 1930s GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9656" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">BOEING MODEL 40 PLANE 1930s GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9656</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car"><img src="https://i.ebayimg.com/images/g/eqgAAOSwRqJhfSb8/s-l225.jpg" alt="Listing image for Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car"><img src="https://i.ebayimg.com/images/g/eqgAAOSwRqJhfSb8/s-l225.jpg" alt="Listing image for Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dusty Wrenches Dusty Diecast Disney Pixar Planes Model Plane 1:55 Kids Movie Toy"><img src="https://i.ebayimg.com/images/g/MmEAAeSwUv5p~tSy/s-l225.jpg" alt="Listing image for Dusty Wrenches Dusty Diecast Disney Pixar Planes Model Plane 1:55 Kids Movie Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Dusty Wrenches Dusty Diecast Disney Pixar Planes Model Plane 1:55 Kids Movie Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dusty Wrenches Dusty Diecast Disney Pixar Planes Model Plane 1:55 Kids Movie Toy"><img src="https://i.ebayimg.com/images/g/MmEAAeSwUv5p~tSy/s-l225.jpg" alt="Listing image for Dusty Wrenches Dusty Diecast Disney Pixar Planes Model Plane 1:55 Kids Movie Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Dusty Wrenches Dusty Diecast Disney Pixar Planes Model Plane 1:55 Kids Movie Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cake Model Toys Plane Decorations Miniature Birthday Party Topper"><img src="https://i.ebayimg.com/images/g/0x4AAeSwbj1ouI2m/s-l225.jpg" alt="Listing image for Cake Model Toys Plane Decorations Miniature Birthday Party Topper" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Cake Model Toys Plane Decorations Miniature Birthday Party Topper</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cake Model Toys Plane Decorations Miniature Birthday Party Topper"><img src="https://i.ebayimg.com/images/g/0x4AAeSwbj1ouI2m/s-l225.jpg" alt="Listing image for Cake Model Toys Plane Decorations Miniature Birthday Party Topper" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Cake Model Toys Plane Decorations Miniature Birthday Party Topper</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-banner-plane-can-look-impossible-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="why-a-banner-plane-can-look-impossible-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ The most important lesson is that a witness can be observant, honest, and genuin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ The most important lesson is that a witness can be observant, honest, and genuin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ The most important lesson is that a witness can be observant, honest, and genuin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ The most important lesson is that a witness can be observant, honest, and genuin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ The most important lesson is that a witness can be observant, honest, and genuin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,82 +779,82 @@ The most important lesson is that a witness can be observant, honest, and genuin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Aerial advertising  
-   Link: <a href="https://en.wikipedia.org/wiki/Aerial_advertising" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_advertising</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aerial_advertising" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_advertising</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/other_visit/aviation_industry/airline_operators/airline_safety/SAFO15002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/other_visit/aviation_industry/airline_operators/airline_safety/SAFO15002.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A banner tow operator must comply with the terms and conditions...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/other_visit/aviation_industry/airline_operators/airline_safety/SAFO15002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/other_visit/aviation_industry/airline_operators/airline_safety/SAFO15002.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A banner tow operator must comply with the terms and conditions...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings&quot;UAP&quot; is sometimes used to avoid cultural associations with UFO conspiracy theories. Shapes reported as...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings&quot;UAP&quot; is sometimes used to avoid cultural associations with UFO conspiracy theories. Shapes reported as...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nanaimoflyingclub.org  
    Title: Aircraft Banner Tow Operations  
-   Link: <a href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</p></details>
+   Link:<a href="https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nanaimoflyingclub.org/wp-content/uploads/2014/01/Aircraft-Banner-Tow-Operations.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nanaimo Flying ClubINFORMATION FOR BANNER TOW OPERATIONSJune 24, 2003 — 27 Mar 2003 — This publication is presented as an information gui...</p></details>
    Published: June 24, 2003  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: caasanwebsitestorage.blob.core.windows.net  
-   Link: <a href="https://caasanwebsitestorage.blob.core.windows.net/ga-tgm/TGM%20for%20Private%20Aerial%20Work%20for%20Towing%20Operations%20011225%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caasanwebsitestorage.blob.core.windows.net/ga-tgm/TGM%20for%20Private%20Aerial%20Work%20for%20Towing%20Operations%20011225%202.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CaaSan Website StoragePrivate Aerial Work: Towing Operations1 Dec 2025 — Procedures for Banner drop zones: pre-approved, clear of obstacl...</p></details>
+   Link:<a href="https://caasanwebsitestorage.blob.core.windows.net/ga-tgm/TGM%20for%20Private%20Aerial%20Work%20for%20Towing%20Operations%20011225%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caasanwebsitestorage.blob.core.windows.net/ga-tgm/TGM%20for%20Private%20Aerial%20Work%20for%20Towing%20Operations%20011225%202.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CaaSan Website StoragePrivate Aerial Work: Towing Operations1 Dec 2025 — Procedures for Banner drop zones: pre-approved, clear of obstacl...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR Part 91 -- General Operating and Flight RulesWhen the aircraft is being operated under part 91, the aircraft must be equipped with...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR Part 91 -- General Operating and Flight RulesWhen the aircraft is being operated under part 91, the aircraft must be equipped with...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/plane-pulling-banner" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/plane-pulling-banner</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>232 Plane Pulling Banner Images and Stock PhotosBrowse 232 authentic plane pulling banner stock photos, high-res images, and pictures, or...</p></details>
+   Link:<a href="https://www.gettyimages.com/photos/plane-pulling-banner" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/plane-pulling-banner</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>232 Plane Pulling Banner Images and Stock PhotosBrowse 232 authentic plane pulling banner stock photos, high-res images, and pictures, or...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/plane-towed-banner.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/plane-towed-banner.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane towed banner hi-res stock photography and imagesA banner towed by a plane welcomes crew members of the nuclear-powered aircraft car...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/plane-towed-banner.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/plane-towed-banner.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane towed banner hi-res stock photography and imagesA banner towed by a plane welcomes crew members of the nuclear-powered aircraft car...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NJ.com/posts/wow-watch-the-crazy-way-nj-pilots-snatch-up-the-banner-ads-you-see-flying-over-t/10158055961371234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NJ.com/posts/wow-watch-the-crazy-way-nj-pilots-snatch-up-the-banner-ads-you-see-flying-over-t/10158055961371234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WOW! Watch the crazy way N.J. pilots snatch up the banner...What is the benefit of diving at it, as opposed to approaching it at low alt...</p></details>
+   Link:<a href="https://www.facebook.com/NJ.com/posts/wow-watch-the-crazy-way-nj-pilots-snatch-up-the-banner-ads-you-see-flying-over-t/10158055961371234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NJ.com/posts/wow-watch-the-crazy-way-nj-pilots-snatch-up-the-banner-ads-you-see-flying-over-t/10158055961371234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WOW! Watch the crazy way N.J. pilots snatch up the banner...What is the benefit of diving at it, as opposed to approaching it at low alt...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/jPw6i0SdxuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/jPw6i0SdxuU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Wild Pilot Maneuver Explains Sky Banners #shortsInstead of landing to attach an aerial banner banner toe pilots drop a rope mid-flig...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/jPw6i0SdxuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/jPw6i0SdxuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Wild Pilot Maneuver Explains Sky Banners #shortsInstead of landing to attach an aerial banner banner toe pilots drop a rope mid-flig...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/iskysthelimit/posts/why-does-a-banner-towing-plane-take-off-without-the-banner-in-a-nutshell-taking-/892509422890793/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iskysthelimit/posts/why-does-a-banner-towing-plane-take-off-without-the-banner-in-a-nutshell-taking-/892509422890793/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>**Setup:** The towing aircraft usually has a tow line or cable attached securely to the glider.... release to safely drop and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/iskysthelimit/posts/why-does-a-banner-towing-plane-take-off-without-the-banner-in-a-nutshell-taking-/892509422890793/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iskysthelimit/posts/why-does-a-banner-towing-plane-take-off-without-the-banner-in-a-nutshell-taking-/892509422890793/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>**Setup:** The towing aircraft usually has a tow line or cable attached securely to the glider.... release to safely drop and...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/983759965442123/posts/1561995994285181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/983759965442123/posts/1561995994285181/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and naturally my first thought is not &quot;what does it say&quot; or &quot;stop interrupting...</p></details>
+   Link:<a href="https://www.facebook.com/groups/983759965442123/posts/1561995994285181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/983759965442123/posts/1561995994285181/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and naturally my first thought is not &quot;what does it say&quot; or &quot;stop interrupting...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: flightsafetydetectives.com  
-   Link: <a href="https://flightsafetydetectives.com/wp-content/uploads/2023/11/NTSB_Final_Report_FLL_Banner_Tow_ERA19FA112.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2023/11/NTSB_Final_Report_FLL_Banner_Tow_ERA19FA112.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot was scheduled to complete a 2-hour flight towing a &quot;...Read more...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/wp-content/uploads/2023/11/NTSB_Final_Report_FLL_Banner_Tow_ERA19FA112.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2023/11/NTSB_Final_Report_FLL_Banner_Tow_ERA19FA112.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot was scheduled to complete a 2-hour flight towing a &quot;...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/398732543/Baloon-Towing-Flying" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/398732543/Baloon-Towing-Flying</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>equipment used in banner towing like grapple hooks and towlines.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/398732543/Baloon-Towing-Flying" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/398732543/Baloon-Towing-Flying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>equipment used in banner towing like grapple hooks and towlines.Read more...</p></details>

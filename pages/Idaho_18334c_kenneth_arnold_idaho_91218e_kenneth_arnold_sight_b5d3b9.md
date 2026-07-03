@@ -250,26 +250,26 @@ image: /assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_si
 
 ## Introduction
 
-On 24 June 1947, Boise pilot and businessman [Kenneth Arnold]({{ 'kenneth-arnold/' | relative_url }}) reported seeing nine fast-moving objects near Mount Rainier while flying his CallAir A-2 aircraft across Washington State. The sighting itself happened outside Idaho, but Arnold’s Boise connection placed Idaho at the starting point of the modern “flying saucer” era. Within days, newspapers across the United States were repeating his account, and within weeks hundreds of similar reports followed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
+On 24 June 1947, Boise pilot and businessman [Kenneth Arnold]({{ 'kenneth-arnold/' | relative_url }}) reported seeing nine fast-moving objects near Mount Rainier while flying his CallAir A-2 aircraft across Washington State. The sighting itself happened outside Idaho, but Arnold’s Boise connection placed Idaho at the starting point of the modern “flying saucer” era. Within days, newspapers across the United States were repeating his account, and within weeks hundreds of similar reports followed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
 <img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-1-dark.svg" | relative_url }}" alt="Arnold Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the Arnold case historically important is not proof of alien craft. No radar confirmation, wreckage or photographs emerged. Instead, the case matters because of the combination of factors surrounding it: an experienced civilian pilot, a dramatic speed estimate, uncertain visual conditions over mountainous terrain, and sensational press coverage that transformed one pilot’s report into a national cultural event. In UFO history, Arnold’s sighting remains one of the clearest examples of how witness testimony, media framing and Cold War anxieties combined to shape public belief long before the term “UFO” entered common use.
 
 ## Flight background and the Boise connection
 
-Arnold was a well-known Boise businessman who sold fire-control equipment and flew his own aircraft regularly across the western United States. On the afternoon of 24 June 1947 he was travelling from Chehalis, Washington, towards an air show in Oregon when he diverted near Mount Rainier to look for a missing Marine Corps C-46 transport aircraft. Reports at the time noted that a reward had been offered for locating the wreckage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; OriginsDec 22, 2024 — On June 24, 1947, Arnold was flying over Washington State on the way...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> WIRED That detail matters because it helps explain why Arnold was carefully scanning the landscape and sky. He was not expecting to see unusual air <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span> craft; he was actively searching mountainous terrain from the air. According to later accounts, he first noticed a bright flash, initially assuming sunlight was reflecting from another aircraft. He then observed a chain of objects moving southward near the Cascade peaks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>
+Arnold was a well-known Boise businessman who sold fire-control equipment and flew his own aircraft regularly across the western United States. On the afternoon of 24 June 1947 he was travelling from Chehalis, Washington, towards an air show in Oregon when he diverted near Mount Rainier to look for a missing Marine Corps C-46 transport aircraft. Reports at the time noted that a reward had been offered for locating the wreckage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; OriginsDec 22, 2024 — On June 24, 1947, Arnold was flying over Washington State on the way...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> WIRED That detail matters because it helps explain why Arnold was carefully scanning the landscape and sky. He was not expecting to see unusual air<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span> craft; he was actively searching mountainous terrain from the air. According to later accounts, he first noticed a bright flash, initially assuming sunlight was reflecting from another aircraft. He then observed a chain of objects moving southward near the Cascade peaks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>
 
 Arnold’s background strengthened the credibility of the report in the eyes of many newspapers and later investigators. He had substantial flying experience and familiarity with mountain conditions. Even sceptical writers generally accepted that Arnold sincerely believed he had seen something unusual. The debate focused less on whether he fabricated the story and more on whether he misidentified ordinary objects under difficult visual conditions.
 
-For Idaho’s UFO history, the key point is that the state became linked to the birth of the flying saucer era through Arnold himself. Early headlines repeatedly described him as an “Idaho pilot” or “Boise businessman”, tying Idaho into the national story from the very beginning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cascadepbs.org">[Cascade PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cascadepbs.org</span><span class="citation-popover-title">how washington gave world flying saucers and men black</span><span class="citation-popover-snippet">Cascade PBSHow Washington gave the world flying saucers and &#x27;men in...Jul 12, 2019 — On that date, a pilot and salesman from Boise, Idah...</span></span></span>
+For Idaho’s UFO history, the key point is that the state became linked to the birth of the flying saucer era through Arnold himself. Early headlines repeatedly described him as an “Idaho pilot” or “Boise businessman”, tying Idaho into the national story from the very beginning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cascadepbs.org">[Cascade PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cascadepbs.org</span><span class="citation-popover-title">how washington gave world flying saucers and men black</span><span class="citation-popover-snippet">Cascade PBSHow Washington gave the world flying saucers and &#x27;men in...Jul 12, 2019 — On that date, a pilot and salesman from Boise, Idah...</span></span></span>
 
 ## What Arnold described seeing
 
-Arnold said he observed nine bright objects travelling in a loose line formation near Mount Rainier and Mount Adams. He described them as highly reflective, flashing in sunlight and moving erratically rather than in straight, stable flight. The objects appeared to weave slightly while maintaining overall formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
+Arnold said he observed nine bright objects travelling in a loose line formation near Mount Rainier and Mount Adams. He described them as highly reflective, flashing in sunlight and moving erratically rather than in straight, stable flight. The objects appeared to weave slightly while maintaining overall formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
-One of the most discussed elements of the case was his speed estimate. Arnold timed the objects as they crossed the distance between mountain landmarks and concluded they were travelling at roughly 1,200 to 1,700 miles per hour, depending on the calculation used. At the time, that estimate appeared extraordinary because no publicly known aircraft could sustain such speeds in level flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>, the speed calculation depended on assumptions about distance and size. If Arnold misjudged how far away the objects were, the estimated speed would also change dramatically. This became one of the main sceptical arguments later advanced by aviation analysts.
+One of the most discussed elements of the case was his speed estimate. Arnold timed the objects as they crossed the distance between mountain landmarks and concluded they were travelling at roughly 1,200 to 1,700 miles per hour, depending on the calculation used. At the time, that estimate appeared extraordinary because no publicly known aircraft could sustain such speeds in level flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>, the speed calculation depended on assumptions about distance and size. If Arnold misjudged how far away the objects were, the estimated speed would also change dramatically. This became one of the main sceptical arguments later advanced by aviation analysts.
 
-Arnold’s own descriptions of shape were more complicated than later popular culture suggested. He did not consistently describe perfect circular discs. In some accounts he compared them to crescents or flattened objects with thin profiles. What remained consistent was his description of their movement: they travelled “like a saucer would if you skipped it across water”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
+Arnold’s own descriptions of shape were more complicated than later popular culture suggested. He did not consistently describe perfect circular discs. In some accounts he compared them to crescents or flattened objects with thin profiles. What remained consistent was his description of their movement: they travelled “like a saucer would if you skipped it across water”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
 That comparison referred to motion, not necessarily shape. Yet it became the seed of one of the most famous phrases in twentieth-century popular culture.
 
@@ -277,13 +277,13 @@ That comparison referred to motion, not necessarily shape. Yet it became the see
 
 ## How “flying saucer” entered the language
 
-The phrase “flying saucer” emerged through newspaper reporting immediately after Arnold landed and discussed the sighting with journalists. A reporter interpreted Arnold’s comparison about skipping saucers as a description of the objects themselves. Headlines quickly transformed the report into stories about “flying saucers” seen over the Pacific Northwest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> This distinction is historically important because it shows how media shorthand reshaped the story almost instantly. Arnold’s report became simpler, more dramatic and easier to reproduce in headlines once the image of silver discs entered public imagination.
+The phrase “flying saucer” emerged through newspaper reporting immediately after Arnold landed and discussed the sighting with journalists. A reporter interpreted Arnold’s comparison about skipping saucers as a description of the objects themselves. Headlines quickly transformed the report into stories about “flying saucers” seen over the Pacific Northwest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> This distinction is historically important because it shows how media shorthand reshaped the story almost instantly. Arnold’s report became simpler, more dramatic and easier to reproduce in headlines once the image of silver discs entered public imagination.
 
-Within days, newspapers nationwide were publishing new saucer sightings. Some reports were probably hoaxes or misidentifications, while others reflected genuine confusion over aircraft, meteors, balloons or atmospheric effects. But the speed of the spread demonstrated how strongly the press amplified Arnold’s original account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying saucers, first in world, reported near Mount Rainier...Mar 1, 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</span></span></span>
+Within days, newspapers nationwide were publishing new saucer sightings. Some reports were probably hoaxes or misidentifications, while others reflected genuine confusion over aircraft, meteors, balloons or atmospheric effects. But the speed of the spread demonstrated how strongly the press amplified Arnold’s original account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying saucers, first in world, reported near Mount Rainier...Mar 1, 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</span></span></span>
 
 The timing also mattered. The United States had recently emerged from the Second World War and entered the opening years of the Cold War. The public was already aware of jet aircraft, captured German rocket research and secret military projects. In that atmosphere, reports of strange high-speed craft sounded plausible enough to attract serious attention rather than immediate dismissal.
 
-The National Air and Space Museum has noted that whatever Arnold saw, the lasting consequence was cultural rather than evidential: the event introduced “flying saucer” into worldwide vocabulary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
+The National Air and Space Museum has noted that whatever Arnold saw, the lasting consequence was cultural rather than evidential: the event introduced “flying saucer” into worldwide vocabulary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
 ## The strongest sceptical explanations
 
@@ -293,7 +293,7 @@ One possibility is that Arnold observed ordinary objects under unusual viewing c
 
 Another explanation suggests he saw birds, especially pelicans or geese reflecting sunlight. Birds flying in formation can create intermittent flashes and apparent undulating movement. Critics of this theory argue that Arnold, as an experienced pilot, would probably have recognised birds at ordinary range. Supporters counter that distance misjudgement could have made nearby birds appear far larger and faster than they actually were.
 
-Mirage and reflection theories have also appeared repeatedly. Arnold himself reportedly opened his aircraft window during the sighting because he suspected glare or reflections on the windshield. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+Mirage and reflection theories have also appeared repeatedly. Arnold himself reportedly opened his aircraft window during the sighting because he suspected glare or reflections on the windshield.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 Military aircraft explanations are less convincing historically because no known aircraft from June 1947 matched the reported performance. Nevertheless, some researchers have speculated that Arnold could have seen experimental jets viewed from misleading angles. There is no documentary evidence proving this.
 
@@ -302,9 +302,9 @@ Importantly, none of these explanations fully resolves every part of Arnold’s 
 <img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-2-dark.svg" | relative_url }}" alt="Arnold Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official investigators treated the case
 
-Arnold’s sighting became one of the earliest cases reviewed within the developing US military interest in unidentified aerial reports. Surviving records show that Army Air Forces intelligence personnel collected statements and sketches from him. Later Air Force UFO files preserved portions of that material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june-24-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">project 10073 record witness kenneth arnold june 24 1947</span><span class="citation-popover-snippet">Copies of Project Blue Book documentation from microfilm at the National Archives.Read more...</span></span></span>
+Arnold’s sighting became one of the earliest cases reviewed within the developing US military interest in unidentified aerial reports. Surviving records show that Army Air Forces intelligence personnel collected statements and sketches from him. Later Air Force UFO files preserved portions of that material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">project 10073 record witness kenneth arnold june</span><span class="citation-popover-snippet">Copies of Project Blue Book documentation from microfilm at the National Archives.Read more...</span></span></span>
 
-The case also helped drive institutional concern. The sudden wave of reports after June 1947 contributed to the creation of early Air Force investigative efforts such as Project Sign, which later evolved into Project Grudge and eventually Project [Blue Book]({{ 'blue-book-3fa5da/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; OriginsDec 22, 2024 — On June 24, 1947, Arnold was flying over Washington State on the way...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
+The case also helped drive institutional concern. The sudden wave of reports after June 1947 contributed to the creation of early Air Force investigative efforts such as Project Sign, which later evolved into Project Grudge and eventually Project [Blue Book]({{ 'blue-book-3fa5da/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; OriginsDec 22, 2024 — On June 24, 1947, Arnold was flying over Washington State on the way...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
 Edward J. Ruppelt, who later directed Project Blue Book, treated Arnold’s report as one of the foundational UFO cases. Ruppelt did not claim the objects were extraterrestrial, but he regarded Arnold as a credible witness whose testimony deserved serious consideration.
 
@@ -314,7 +314,7 @@ That combination — credible witness but uncertain explanation — became a rec
 
 ## Why the case still matters in Idaho UFO history
 
-Many UFO stories faded quickly after newspaper attention disappeared. Arnold’s did not. The sighting became the reference point against which later American UFO reports were measured. Even modern discussions of unidentified aerial phenomena often trace the public history of the subject back to Arnold’s flight near Mount Rainier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
+Many UFO stories faded quickly after newspaper attention disappeared. Arnold’s did not. The sighting became the reference point against which later American UFO reports were measured. Even modern discussions of unidentified aerial phenomena often trace the public history of the subject back to Arnold’s flight near Mount Rainier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
 For Idaho specifically, the importance is symbolic as much as geographical. Arnold was not merely passing through the region; he was publicly identified as a Boise pilot from the start. Idaho therefore occupies an unusual position in UFO history: the state was linked to the birth of the modern saucer narrative before most later UFO folklore had even formed.
 
@@ -337,194 +337,194 @@ Kenneth Arnold’s report remains unresolved in the narrow sense that nobody can
 <img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-3-dark.svg" | relative_url }}" alt="Arnold Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_kenneth_arnold_sight_b5d3b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Kenneth Arnold Saw Over Mount Rainier in 1947. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Kenneth Arnold Saw Over Mount Rainier in 1947. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides later Air Force context for the Arnold case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides later Air Force context for the Arnold case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Explains how Arnold&#x27;s report became a national phenomenon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how Arnold&#x27;s report became a national phenomenon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Represents the public interpretation of sightings after Arnold.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the public interpretation of sightings after Arnold.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming of the Saucers">The Coming of the Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth Arnold, Ray Palmer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming of the Saucers">The Coming of the Saucers</a>
+</h4>
+<p class="fr-book-author">By Kenneth Arnold, Ray Palmer</p>
         
-        <p class="fr-book-desc">Direct account of the Mount Rainier sighting and its aftermath.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Direct account of the Mount Rainier sighting and its aftermath.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016"><img src="https://i.ebayimg.com/images/g/-s4AAeSwUw1oJG4~/s-l225.jpg" alt="Listing image for Photo 6x4 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016"><img src="https://i.ebayimg.com/images/g/-s4AAeSwUw1oJG4~/s-l225.jpg" alt="Listing image for Photo 6x4 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 12x8 The Flying Saucer, Hempstead Hempstead/TQ7964 c2014"><img src="https://i.ebayimg.com/images/g/B5cAAOSwi8Rl5iAt/s-l225.jpg" alt="Listing image for Photo 12x8 The Flying Saucer, Hempstead Hempstead/TQ7964 c2014" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 12x8 The Flying Saucer, Hempstead Hempstead/TQ7964 c2014</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 12x8 The Flying Saucer, Hempstead Hempstead/TQ7964 c2014"><img src="https://i.ebayimg.com/images/g/B5cAAOSwi8Rl5iAt/s-l225.jpg" alt="Listing image for Photo 12x8 The Flying Saucer, Hempstead Hempstead/TQ7964 c2014" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 12x8 The Flying Saucer, Hempstead Hempstead/TQ7964 c2014</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 8x6 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016"><img src="https://i.ebayimg.com/images/g/TQ0AAeSwupZoJcFr/s-l225.jpg" alt="Listing image for Photo 8x6 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 8x6 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 8x6 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016"><img src="https://i.ebayimg.com/images/g/TQ0AAeSwupZoJcFr/s-l225.jpg" alt="Listing image for Photo 8x6 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 8x6 The Flying Saucer, Hempstead Hempstead/TQ7964 c2016</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer memorabilia" data-ebay-reference="what-kenneth-arnold-saw-over-mount-rainier-in-1947-flying-saucer-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Kenneth Arnold’s report remains unresolved in the narrow sense that nobody can
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Kenneth Arnold’s report remains unresolved in the narrow sense that nobody can
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Kenneth Arnold’s report remains unresolved in the narrow sense that nobody can
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Kenneth Arnold’s report remains unresolved in the narrow sense that nobody can
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Kenneth Arnold’s report remains unresolved in the narrow sense that nobody can
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,163 +730,163 @@ Kenneth Arnold’s report remains unresolved in the narrow sense that nobody can
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers, first in world, reported near Mount Rainier...Mar 1, 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</p></details>
+   Link:<a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers, first in world, reported near Mount Rainier...Mar 1, 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: how ufo sightings became an american obsession  
-   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
+   Link:<a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</p></details>
+   Link:<a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold - UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine...</p></details>
    Published: June 24, 1947  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cascadepbs.org  
    Title: how washington gave world flying saucers and men black  
-   Link: <a href="https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/" target="_blank" rel="noopener noreferrer nofollow">https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cascade PBSHow Washington gave the world flying saucers and &#x27;men in...Jul 12, 2019 — On that date, a pilot and salesman from Boise, Idah...</p></details>
+   Link:<a href="https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/" target="_blank" rel="noopener noreferrer nofollow">https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cascade PBSHow Washington gave the world flying saucers and &#x27;men in...Jul 12, 2019 — On that date, a pilot and salesman from Boise, Idah...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers in WashingtonFeb 6, 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 24, 1947, w...</p></details>
+   Link:<a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers in WashingtonFeb 6, 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 24, 1947, w...</p></details>
    Published: June 24, 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: 0624first flying saucer sighting  
-   Link: <a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?Jun 24, 2011 — Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the...</p></details>
+   Link:<a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?Jun 24, 2011 — Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rainier on June 24, 1947. What he said he saw, and spent the rest of his life trying to explain...Read more...</p></details>
    Published: June 24, 1947  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: origins.osu.edu  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | OriginsDec 22, 2024 — On June 24, 1947, Arnold was flying over Washington State on the way...</p></details>
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | OriginsDec 22, 2024 — On June 24, 1947, Arnold was flying over Washington State on the way...</p></details>
    Published: June 24, 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wyominghistoryday.org  
    Title: project 10073 record witness kenneth arnold june 24 1947  
-   Link: <a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june-24-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june-24-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copies of Project Blue Book documentation from microfilm at the National Archives.Read more...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copies of Project Blue Book documentation from microfilm at the National Archives.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: The only recorded interview of Kenneth Arnold, civilian  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the first widel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the first widel...</p></details>
    Published: June 24, 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: june 24 1947 pilot kenneth arnold sights a series  
-   Link: <a href="https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of...June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying ob...</p></details>
+   Link:<a href="https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/USHistory/comments/1ljhyz7/june_24_1947_pilot_kenneth_arnold_sights_a_series/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of...June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying ob...</p></details>
    Published: June 24, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wyominghistoryday.org  
    Title: flying saucer i saw it kenneth arnold  
-   Link: <a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/flying-saucer-i-saw-it-kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/flying-saucer-i-saw-it-kenneth-arnold</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Flying Saucer as I saw it... &quot;by Kenneth Arnold&quot;The Flying Saucer as I saw it&quot; by Kenneth Arnold. In 1950, Arnold self-published a 1...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/flying-saucer-i-saw-it-kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/flying-saucer-i-saw-it-kenneth-arnold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Flying Saucer as I saw it... &quot;by Kenneth Arnold&quot;The Flying Saucer as I saw it&quot; by Kenneth Arnold. In 1950, Arnold self-published a 1...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wyominghistoryday.org  
    Title: He was originally flying between Chehalis Washington and Yakima  
-   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO Sighting From an Aircraft&quot; Kenneth ArnoldOn June 24th, 1947, Kenneth Arnold reported seeing a UFO near Mount Rainier, Washington...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO Sighting From an Aircraft&quot; Kenneth ArnoldOn June 24th, 1947, Kenneth Arnold reported seeing a UFO near Mount Rainier, Washington...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.howstuffworks.com  
    Title: ufo history  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryModern UFO history began with the 1947 UFO sighting by pilot Kenneth Arnold. Learn the history of UFOs from ancient times to the m...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryModern UFO history began with the 1947 UFO sighting by pilot Kenneth Arnold. Learn the history of UFOs from ancient times to the m...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>since World War II has been a blend of sightings, investigations, and cultural fascination. The saga began with Kenneth Arnold&#x27;s 1947 sig...</p></details>
+   Link:<a href="https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>since World War II has been a blend of sightings, investigations, and cultural fascination. The saga began with Kenneth Arnold&#x27;s 1947 sig...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scottbakal.com  
-   Link: <a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. On June 26, 1947, the term &#x27;flying saucer&#x27;...</p></details>
+   Link:<a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. On June 26, 1947, the term &#x27;flying saucer&#x27;...</p></details>
    Published: June 25, 1947  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: si.edu  
-   Link: <a href="https://www.si.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Institution | HomeThe Smithsonian Institution is the world&#x27;s largest museum, education, and research complex. Our stories, co...</p></details>
+   Link:<a href="https://www.si.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Institution | HomeThe Smithsonian Institution is the world&#x27;s largest museum, education, and research complex. Our stories, co...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: americanmary.com  
-   Link: <a href="https://www.americanmary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanmary.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalThe Official Website of The National. Home to news, tour dates, music, merchandise, and access to The National&#x27;s exclusive fa...</p></details>
+   Link:<a href="https://www.americanmary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanmary.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalThe Official Website of The National. Home to news, tour dates, music, merchandise, and access to The National&#x27;s exclusive fa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 in the vicinity of Mt. Ranier, Wash., when the observer watched nine disc shaped ob- jects flying in linked line, &quot;much lik...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 in the vicinity of Mt. Ranier, Wash., when the observer watched nine disc shaped ob- jects flying in linked line, &quot;much lik...</p></details>
    Published: June 24, 1947  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 UFO sighting reported by Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archive...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 UFO sighting reported by Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archive...</p></details>
    Published: June 24, 1947  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: americanghostwalks.com  
    Title: kenneth arnold and the origin of flying saucers  
-   Link: <a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the Origin of the Modern UFO MovementJun 24, 2025 — On June 24, 1947, Kenneth Arnold&#x27;s UFO sighting near Mount Rainier...</p></details>
+   Link:<a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the Origin of the Modern UFO MovementJun 24, 2025 — On June 24, 1947, Kenneth Arnold&#x27;s UFO sighting near Mount Rainier...</p></details>
    Published: June 24, 1947  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/wvabzh/til_that_in_june_1947_kenneth_arnold_became_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/wvabzh/til_that_in_june_1947_kenneth_arnold_became_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that, in June 1947, Kenneth Arnold became the first...In June 1947, Kenneth Arnold became the first person to describe seeing a “Fly...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/wvabzh/til_that_in_june_1947_kenneth_arnold_became_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/wvabzh/til_that_in_june_1947_kenneth_arnold_became_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that, in June 1947, Kenneth Arnold became the first...In June 1947, Kenneth Arnold became the first person to describe seeing a “Fly...</p></details>
    Published: june 1947  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>itation craze with the 1947 account of a pilot named, Kenneth Arnold...</p></details>
+   Link:<a href="https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>itation craze with the 1947 account of a pilot named, Kenneth Arnold...</p></details>

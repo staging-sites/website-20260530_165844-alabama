@@ -250,248 +250,248 @@ image: /assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig
 
 ## Introduction
 
-When Ohio Governor John J. Gilligan told reporters in October 1973 that he had seen a UFO, the remark mattered far beyond the details of the sighting itself. The United States was already in the middle of a major UFO wave, and Ohio was experiencing a surge of reports from police officers, motorists and ordinary residents. Gilligan's statement gave the subject something it rarely receives: direct attention from a sitting governor. Rather than coming from a fringe enthusiast or anonymous witness, the claim came from one of the state's most visible elected officials. That helped push UFO stories further into mainstream political and media discussion during Ohio's [1973 flap]({{ '1973-flap-18a815/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span> Wikipedia The sighting did not provide hard evidence of an extraordinary object <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John J. Gilligan</span><span class="citation-popover-snippet">John J. Gilligan</span></span></span>, and no official investigation produced a definitive answer. Its importance lies instead in how it changed the public conversation. At a moment when Ohio newspapers were already filled with UFO reports, Gilligan's comments gave the phenomenon a new level of legitimacy and visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</span></span></span>
+When Ohio Governor John J. Gilligan told reporters in October 1973 that he had seen a UFO, the remark mattered far beyond the details of the sighting itself. The United States was already in the middle of a major UFO wave, and Ohio was experiencing a surge of reports from police officers, motorists and ordinary residents. Gilligan's statement gave the subject something it rarely receives: direct attention from a sitting governor. Rather than coming from a fringe enthusiast or anonymous witness, the claim came from one of the state's most visible elected officials. That helped push UFO stories further into mainstream political and media discussion during Ohio's [1973 flap]({{ '1973-flap-18a815/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span> Wikipedia The sighting did not provide hard evidence of an extraordinary object<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John J. Gilligan</span><span class="citation-popover-snippet">John J. Gilligan</span></span></span>, and no official investigation produced a definitive answer. Its importance lies instead in how it changed the public conversation. At a moment when Ohio newspapers were already filled with UFO reports, Gilligan's comments gave the phenomenon a new level of legitimacy and visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</span></span></span>
 
 <img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-1-dark.svg" | relative_url }}" alt="Gilligan sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a governor's UFO sighting mattered
 
-John Gilligan was serving as Ohio's governor when he told reporters that he had seen an unexplained object while travelling near Ann Arbor, Michigan. According to contemporary accounts and later summaries, the sighting occurred during the intense national UFO wave of October 1973. Gilligan publicly insisted that he was serious and not joking about what he had observed. He told reporters: "I saw one the other night, so help me. I'm absolutely serious." <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John J. Gilligan</span><span class="citation-popover-snippet">John J. Gilligan</span></span></span>
+John Gilligan was serving as Ohio's governor when he told reporters that he had seen an unexplained object while travelling near Ann Arbor, Michigan. According to contemporary accounts and later summaries, the sighting occurred during the intense national UFO wave of October 1973. Gilligan publicly insisted that he was serious and not joking about what he had observed. He told reporters: "I saw one the other night, so help me. I'm absolutely serious."<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John J. Gilligan</span><span class="citation-popover-snippet">John J. Gilligan</span></span></span>
 
-The event itself took place outside Ohio, but its political significance was entirely tied to Ohio. The governor's office was one of the state's most prominent public institutions. When a governor openly stated that he had witnessed something he could not identify, newspapers suddenly had a newsworthy political angle in addition to the usual human-interest UFO stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
+The event itself took place outside Ohio, but its political significance was entirely tied to Ohio. The governor's office was one of the state's most prominent public institutions. When a governor openly stated that he had witnessed something he could not identify, newspapers suddenly had a newsworthy political angle in addition to the usual human-interest UFO stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
 
-The timing was crucial. Ohio was already experiencing a concentrated burst of UFO reports. Sheriffs, police departments and local newspapers were fielding large numbers of sightings. In that atmosphere, Gilligan's comments became part of a broader pattern rather than an isolated curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</span></span></span>
+The timing was crucial. Ohio was already experiencing a concentrated burst of UFO reports. Sheriffs, police departments and local newspapers were fielding large numbers of sightings. In that atmosphere, Gilligan's comments became part of a broader pattern rather than an isolated curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f8xfHmURQ78" title="UFO Encounters and Weird Sightings in Ohio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f8xfHmURQ78" target="_blank" rel="noopener noreferrer">UFO Encounters and Weird Sightings in Ohio</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 254.9K &middot; Uploaded: March 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f8xfHmURQ78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f8xfHmURQ78">Open on YouTube</a></p></div></div></div>
 
 ## What Gilligan said he saw
 
-The surviving public descriptions are relatively brief compared with more heavily documented UFO cases. Gilligan reportedly observed an unusual object while driving with his wife near Ann Arbor. Later retellings describe him referring to an amber-coloured object that remained visible for a prolonged period, though details vary between sources and later summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Ohio/comments/17jvnxz/ohio_against_the_universe_50th_anniversary_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Ohio Against the Universe: 50th anniversary of the UFO...October 30, 2023 — 30 Oct 2023 — Ohio Against the Universe: 50th annivers...</span><span class="citation-popover-meta">Published: October 30, 2023</span></span></span>
+The surviving public descriptions are relatively brief compared with more heavily documented UFO cases. Gilligan reportedly observed an unusual object while driving with his wife near Ann Arbor. Later retellings describe him referring to an amber-coloured object that remained visible for a prolonged period, though details vary between sources and later summaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Ohio/comments/17jvnxz/ohio_against_the_universe_50th_anniversary_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Ohio Against the Universe: 50th anniversary of the UFO...October 30, 2023 — 30 Oct 2023 — Ohio Against the Universe: 50th annivers...</span><span class="citation-popover-meta">Published: October 30, 2023</span></span></span>
 
-One reason the case remains difficult to assess is the lack of a detailed public investigative file. Unlike the [Mansfield]({{ 'mansfield/' | relative_url }})/Coyne helicopter encounter, which generated military testimony, technical discussion and extensive UFO literature, the Gilligan sighting rests largely on press accounts and the governor's own statements. There is no widely cited body of radar data, physical evidence or multiple independent witness documentation attached to the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
+One reason the case remains difficult to assess is the lack of a detailed public investigative file. Unlike the [Mansfield]({{ 'mansfield/' | relative_url }})/Coyne helicopter encounter, which generated military testimony, technical discussion and extensive UFO literature, the Gilligan sighting rests largely on press accounts and the governor's own statements. There is no widely cited body of radar data, physical evidence or multiple independent witness documentation attached to the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
 
-That does not mean Gilligan invented the story. The more cautious conclusion is that he reported seeing something he could not identify. The historical question is not whether the object was extraterrestrial, but why his testimony attracted so much attention despite the limited evidence available. That answer lies in his public position rather than in the sighting's evidential strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
+That does not mean Gilligan invented the story. The more cautious conclusion is that he reported seeing something he could not identify. The historical question is not whether the object was extraterrestrial, but why his testimony attracted so much attention despite the limited evidence available. That answer lies in his public position rather than in the sighting's evidential strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
 <img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-2-dark.svg" | relative_url }}" alt="Gilligan sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why an Ohio governor changed the story
 
-UFO waves are often shaped by feedback between witnesses, journalists and public officials. Researchers and historians of UFO flaps have long noted that periods of intense reporting can encourage additional reports, media coverage and public discussion. The 1973 wave provides a clear example of that process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+UFO waves are often shaped by feedback between witnesses, journalists and public officials. Researchers and historians of UFO flaps have long noted that periods of intense reporting can encourage additional reports, media coverage and public discussion. The 1973 wave provides a clear example of that process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
-Gilligan's statement helped move UFOs from the margins of local news into mainstream political conversation. A governor was not expected to discuss unexplained lights in the sky during a press conference. Because of that, the story became nationally newsworthy. Television networks reported on the growing wave of sightings, and Gilligan's comments appeared alongside other major UFO stories from October 1973. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tvnews.vanderbilt.edu/programs/467262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvnews.vanderbilt.edu">[tvnews.vanderbilt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvnews.vanderbilt.edu</span><span class="citation-popover-snippet">NBC Evening News for 1973-10-17UFO Sightings. #467274. 05:47:30 pm — 05:47:50 pm. (Studio) Reports of strange flying objects increase Ohi...</span></span></span>
+Gilligan's statement helped move UFOs from the margins of local news into mainstream political conversation. A governor was not expected to discuss unexplained lights in the sky during a press conference. Because of that, the story became nationally newsworthy. Television networks reported on the growing wave of sightings, and Gilligan's comments appeared alongside other major UFO stories from October 1973.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tvnews.vanderbilt.edu/programs/467262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvnews.vanderbilt.edu">[tvnews.vanderbilt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvnews.vanderbilt.edu</span><span class="citation-popover-snippet">NBC Evening News for 1973-10-17UFO Sightings. #467274. 05:47:30 pm — 05:47:50 pm. (Studio) Reports of strange flying objects increase Ohi...</span></span></span>
 
-The effect was less about proving UFOs existed and more about lowering the social cost of talking about them. If a governor was willing to say publicly that he had seen something unexplained, ordinary witnesses may have felt more comfortable reporting their own experiences. Editors could also treat the subject as a legitimate public story rather than simply a source of humour or sensationalism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</span></span></span>
+The effect was less about proving UFOs existed and more about lowering the social cost of talking about them. If a governor was willing to say publicly that he had seen something unexplained, ordinary witnesses may have felt more comfortable reporting their own experiences. Editors could also treat the subject as a legitimate public story rather than simply a source of humour or sensationalism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</span></span></span>
 
-This is one reason Gilligan's sighting appears repeatedly in retrospective histories of Ohio's 1973 flap. The sighting itself was not necessarily the strongest case. Its significance came from the status of the witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
+This is one reason Gilligan's sighting appears repeatedly in retrospective histories of Ohio's 1973 flap. The sighting itself was not necessarily the strongest case. Its significance came from the status of the witness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rTCZSXMBlKs" title="The Great UFO Invasion of Appalachia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rTCZSXMBlKs" target="_blank" rel="noopener noreferrer">The Great UFO Invasion of Appalachia</a></p><p class="youtube-embed-meta">Channel: Stories of Appalachia &middot; Views: 2.1K &middot; Uploaded: November 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rTCZSXMBlKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rTCZSXMBlKs">Open on YouTube</a></p></div></div></div>
 
 ## How public figures affect UFO credibility
 
-The Gilligan episode illustrates a recurring pattern in UFO history. Reports from politicians, military personnel, airline pilots and police officers often receive disproportionate attention because audiences assume such witnesses are less likely to fabricate stories. That does not automatically make their interpretations correct, but it changes how the public evaluates the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
+The Gilligan episode illustrates a recurring pattern in UFO history. Reports from politicians, military personnel, airline pilots and police officers often receive disproportionate attention because audiences assume such witnesses are less likely to fabricate stories. That does not automatically make their interpretations correct, but it changes how the public evaluates the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
 
-A useful comparison is the better-known case of future US President Jimmy Carter, who also reported a UFO sighting during the 1970s. Carter's account received extensive coverage partly because of who he was rather than because investigators obtained conclusive evidence about the object itself. The same dynamic applied to Gilligan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+A useful comparison is the better-known case of future US President Jimmy Carter, who also reported a UFO sighting during the 1970s. Carter's account received extensive coverage partly because of who he was rather than because investigators obtained conclusive evidence about the object itself. The same dynamic applied to Gilligan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-Sceptics point out that high-status witnesses remain vulnerable to ordinary misidentifications. Bright planets, aircraft lights, atmospheric effects and unusual viewing conditions can confuse experienced observers just as easily as inexperienced ones. A governor's testimony may tell us that a witness was sincere, but it does not by itself reveal what was actually seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John J. Gilligan</span><span class="citation-popover-snippet">John J. Gilligan</span></span></span>
+Sceptics point out that high-status witnesses remain vulnerable to ordinary misidentifications. Bright planets, aircraft lights, atmospheric effects and unusual viewing conditions can confuse experienced observers just as easily as inexperienced ones. A governor's testimony may tell us that a witness was sincere, but it does not by itself reveal what was actually seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John J. Gilligan</span><span class="citation-popover-snippet">John J. Gilligan</span></span></span>
 
-For historians of Ohio's UFO wave, that distinction is important. Gilligan's statement increased the visibility of the subject, but it did not resolve the underlying question of what was in the sky. The evidential value of the sighting remains limited, while its cultural and political impact remains unusually large. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tvnews.vanderbilt.edu/programs/467262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvnews.vanderbilt.edu">[2tvnews.vanderbilt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvnews.vanderbilt.edu</span><span class="citation-popover-snippet">NBC Evening News for 1973-10-17UFO Sightings. #467274. 05:47:30 pm — 05:47:50 pm. (Studio) Reports of strange flying objects increase Ohi...</span></span></span>
+For historians of Ohio's UFO wave, that distinction is important. Gilligan's statement increased the visibility of the subject, but it did not resolve the underlying question of what was in the sky. The evidential value of the sighting remains limited, while its cultural and political impact remains unusually large.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tvnews.vanderbilt.edu/programs/467262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvnews.vanderbilt.edu">[2tvnews.vanderbilt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvnews.vanderbilt.edu</span><span class="citation-popover-snippet">NBC Evening News for 1973-10-17UFO Sightings. #467274. 05:47:30 pm — 05:47:50 pm. (Studio) Reports of strange flying objects increase Ohi...</span></span></span>
 
 <img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-3-dark.svg" | relative_url }}" alt="Gilligan sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_gilligan_ufo_spotlig_b01eb0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting place of the Gilligan sighting in Ohio's UFO history
 
-Half a century later, the Gilligan sighting is remembered less as a mystery to be solved than as a symbol of the atmosphere surrounding October 1973. Ohio was experiencing one of the most active periods in its UFO history. Reports were arriving from across the state, national media were paying attention, and the Mansfield/Coyne encounter would soon become one of the country's most discussed military UFO cases. Within that environment, a governor's public admission that he had seen something unexplained became part of the story of the flap itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
+Half a century later, the Gilligan sighting is remembered less as a mystery to be solved than as a symbol of the atmosphere surrounding October 1973. Ohio was experiencing one of the most active periods in its UFO history. Reports were arriving from across the state, national media were paying attention, and the Mansfield/Coyne encounter would soon become one of the country's most discussed military UFO cases. Within that environment, a governor's public admission that he had seen something unexplained became part of the story of the flap itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
 
-The case remains unresolved because the available evidence is too thin to support a firm conclusion. Yet it continues to be cited because it reveals how UFO waves operate socially as well as observationally. Ohio's 1973 flap was not only a series of strange lights in the sky. It was also a moment when journalists, officials, witnesses and politicians reacted to one another in real time. Gilligan's sighting stands as one of the clearest examples of that feedback loop reaching the highest level of state politics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
+The case remains unresolved because the available evidence is too thin to support a firm conclusion. Yet it continues to be cited because it reveals how UFO waves operate socially as well as observationally. Ohio's 1973 flap was not only a series of strange lights in the sky. It was also a moment when journalists, officials, witnesses and politicians reacted to one another in real time. Gilligan's sighting stands as one of the clearest examples of that feedback loop reaching the highest level of state politics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/My3D5M2bvaI" title="1973-10-17: CBS Walter Cronkite UFO Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=My3D5M2bvaI" target="_blank" rel="noopener noreferrer">1973-10-17: CBS Walter Cronkite UFO Report</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP &middot; Views: 1.7K &middot; Uploaded: July 2019 &middot; Length: 3 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=My3D5M2bvaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=My3D5M2bvaI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a governor&#x27;s UFO sighting mattered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a governor&#x27;s UFO sighting mattered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how official investigations shaped public credibility debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official investigations shaped public credibility debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on testimony from respected public and official figures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testimony from respected public and official figures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines how influential voices affect UFO discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how influential voices affect UFO discourse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for how public figures interpret unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how public figures interpret unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-governor-s-ufo-sighting-mattered-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -507,7 +507,7 @@ The case remains unresolved because the available evidence is too thin to suppor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -527,7 +527,7 @@ The case remains unresolved because the available evidence is too thin to suppor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -559,7 +559,7 @@ The case remains unresolved because the available evidence is too thin to suppor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -611,7 +611,7 @@ The case remains unresolved because the available evidence is too thin to suppor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -656,7 +656,7 @@ The case remains unresolved because the available evidence is too thin to suppor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -697,99 +697,99 @@ The case remains unresolved because the available evidence is too thin to suppor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: John J. Gilligan  
-   Link: <a href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_J._Gilligan</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_J._Gilligan</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tvnews.vanderbilt.edu  
-   Link: <a href="https://tvnews.vanderbilt.edu/programs/467262" target="_blank" rel="noopener noreferrer nofollow">https://tvnews.vanderbilt.edu/programs/467262</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC Evening News for 1973-10-17UFO Sightings. #467274. 05:47:30 pm — 05:47:50 pm. (Studio) Reports of strange flying objects increase Ohi...</p></details>
+   Link:<a href="https://tvnews.vanderbilt.edu/programs/467262" target="_blank" rel="noopener noreferrer nofollow">https://tvnews.vanderbilt.edu/programs/467262</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NBC Evening News for 1973-10-17UFO Sightings. #467274. 05:47:30 pm — 05:47:50 pm. (Studio) Reports of strange flying objects increase Ohi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: citybeat.com  
    Title: space invaders 12184054  
-   Link: <a href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.citybeat.com/news/space-invaders-12184054/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</p></details>
+   Link:<a href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.citybeat.com/news/space-invaders-12184054/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cincinnati CityBeat1973 UFO hysteria in the Queen City31 Jan 2012 — If there was ever a UFO case that called on our government to reveal...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Ohio/comments/17jvnxz/ohio_against_the_universe_50th_anniversary_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ohio/comments/17jvnxz/ohio_against_the_universe_50th_anniversary_of_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio Against the Universe: 50th anniversary of the UFO...October 30, 2023 — 30 Oct 2023 — Ohio Against the Universe: 50th annivers...</p></details>
+   Link:<a href="https://www.reddit.com/r/Ohio/comments/17jvnxz/ohio_against_the_universe_50th_anniversary_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ohio/comments/17jvnxz/ohio_against_the_universe_50th_anniversary_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio Against the Universe: 50th anniversary of the UFO...October 30, 2023 — 30 Oct 2023 — Ohio Against the Universe: 50th annivers...</p></details>
    Published: October 30, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO flap  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_flap</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_flap</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Michigan "swamp gas" UFO reports  
-   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ohiomagazine.com  
-   Link: <a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</p></details>
+   Link:<a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFO... aliens, and Ohio Gov. John Gilligan claimed to have seen a UFO in the sky over Mic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kids.kiddle.co  
    Title: John J. Gilligan  
-   Link: <a href="https://kids.kiddle.co/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/John_J._Gilligan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Gilligan Facts for Kids1 Jan 2026 — On October 17, 1973, while he was governor, Gilligan reported seeing a UFO. He was driving near An...</p></details>
+   Link:<a href="https://kids.kiddle.co/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/John_J._Gilligan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Gilligan Facts for Kids1 Jan 2026 — On October 17, 1973, while he was governor, Gilligan reported seeing a UFO. He was driving near An...</p></details>
    Published: October 17, 1973  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: fifty years ago on oct 18 1973 one of the most credible ufo sightings of all tim  
-   Link: <a href="https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fifty years ago, on Oct. 18, 1973, one of the most credible...⸻ Sources: • NICAP Report (1973) • UFOs: Generals, Pilots, and Government...</p></details>
+   Link:<a href="https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fifty years ago, on Oct. 18, 1973, one of the most credible...⸻ Sources: • NICAP Report (1973) • UFOs: Generals, Pilots, and Government...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ryan-sprague51.medium.com  
    Title: the coyne helicopter ufo incident 922d80c6a8b8  
-   Link: <a href="https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Helicopter UFO Incident | by Ryan Sprague | MediumEven Ohio Governor John Gilligan reported seeing a UFO over Michigan while drivin...</p></details>
+   Link:<a href="https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Helicopter UFO Incident | by Ryan Sprague | MediumEven Ohio Governor John Gilligan reported seeing a UFO over Michigan while drivin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Great UFO Invasion of Appalachia  
-   Link: <a href="https://www.youtube.com/watch?v=rTCZSXMBlKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rTCZSXMBlKs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs 1973: Aliens, Abductions and Extraordinary Sightings (2010)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rTCZSXMBlKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rTCZSXMBlKs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs 1973: Aliens, Abductions and Extraordinary Sightings (2010)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: SYND 15/10/73 UFO SPOTTED IN THE SKIES OVER OHIO  
-   Link: <a href="https://www.youtube.com/watch?v=fASFV3vC4Uo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fASFV3vC4Uo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters and Weird Sightings in Ohio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fASFV3vC4Uo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fASFV3vC4Uo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters and Weird Sightings in Ohio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO Encounters and Weird Sightings in Ohio  
-   Link: <a href="https://www.youtube.com/watch?v=f8xfHmURQ78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f8xfHmURQ78</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Unsettling Signs Of UFO&#x27;s Found In Ohio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f8xfHmURQ78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f8xfHmURQ78</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Unsettling Signs Of UFO&#x27;s Found In Ohio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=My3D5M2bvaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=My3D5M2bvaI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1973-10-17: CBS Walter Cronkite UFO ReportOn 17 October 1973, Ohio Governor John Gilligan claimed to have seen a UFO while driving near A...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=My3D5M2bvaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=My3D5M2bvaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1973-10-17: CBS Walter Cronkite UFO ReportOn 17 October 1973, Ohio Governor John Gilligan claimed to have seen a UFO while driving near A...</p></details>
    Published: October 1973  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Top 10 Unsettling Signs Of UFO's Found In Ohio  
-   Link: <a href="https://www.youtube.com/watch?v=9AkQ29QyycU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9AkQ29QyycU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great UFO Invasion of Appalachia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9AkQ29QyycU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9AkQ29QyycU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great UFO Invasion of Appalachia...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iDdwVtXNCiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iDdwVtXNCiY</a>
+   Link:<a href="https://www.youtube.com/watch?v=iDdwVtXNCiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iDdwVtXNCiY</a>
